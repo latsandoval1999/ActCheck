@@ -105,6 +105,8 @@ with st.sidebar:
     pasted = st.text_input("Anthropic API key (optional, kept for this session only)", type="password")
     if pasted:
         st.session_state["user_api_key"] = pasted
+    st.selectbox("Model", list(llm.MODELS), format_func=lambda m: llm.MODELS[m], key="model",
+                 help="Haiku is about 20 times cheaper; Sonnet gives better citations and comparisons.")
     live = bool(llm.api_key())
     st.write("AI agents:", "**on**" if live else "**off**: rules-only checks, BILLy in search mode, free route for each agent")
     st.caption(LABEL)

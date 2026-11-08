@@ -43,4 +43,5 @@ jobs:
           git config user.email "bill-watch-bot@users.noreply.github.com"
           git add data/watch data/raw_text/_watch data/processed
           git diff --cached --quiet || git commit -m "Daily watch $(date -u +%Y-%m-%d)"
-          git push
+          # the repository may have changed during the run: replay this commit on top, retrying once
+          for i in 1 2 3; do git pull --rebase -X theirs origin main && git push && break; sleep 10; done

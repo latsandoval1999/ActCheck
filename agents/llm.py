@@ -16,6 +16,17 @@ LOG = ROOT / "logs" / "runs.jsonl"
 PROMPTS = Path(__file__).resolve().parent / "prompts"
 
 DEFAULT_MODEL = os.environ.get("BILL_AGENT_MODEL", "claude-sonnet-5-5")
+MODELS = {"claude-sonnet-5-5": "Claude Sonnet 5.5 (best quality, about $0.36 per full review)",
+          "claude-haiku-5-5": "Claude Haiku 5.5 (cheapest, about $0.02 per full review)"}
+
+
+def current_model():
+    """The model chosen in the portal's sidebar for this session, else the default."""
+    try:
+        import streamlit as st
+        return st.session_state.get("model") or DEFAULT_MODEL
+    except Exception:
+        return DEFAULT_MODEL
 
 
 def api_key():
@@ -48,7 +59,7 @@ def call(agent, system, user, model=None, max_tokens=4000):
     import anthropic
     client = anthropic.Anthropic(api_key=key)
     t0 = time.time()
-    msg = client.messages.create(model=model or DEFAULT_MODEL, max_tokens=max_tokens, temperature=0,
+    msg = client.messages.create(model=model or current_model(), max_tokens=max_tokens, temperature=0,
                                  system=system, messages=[{"role": "user", "content": user}])
     text = "".join(b.text for b in msg.content if getattr(b, "type", "") == "text")
     meta = {"time": datetime.now(timezone.utc).isoformat(timespec="seconds"), "agent": agent,
@@ -68,7 +79,7 @@ def chat(agent, system, messages, model=None, max_tokens=2000):
     import anthropic
     client = anthropic.Anthropic(api_key=key)
     t0 = time.time()
-    msg = client.messages.create(model=model or DEFAULT_MODEL, max_tokens=max_tokens, temperature=0, system=system, messages=messages)
+    msg = client.messages.create(model=model or current_model(), max_tokens=max_tokens, temperature=0, system=system, messages=messages)
     text = "".join(b.text for b in msg.content if getattr(b, "type", "") == "text")
     meta = {"time": datetime.now(timezone.utc).isoformat(timespec="seconds"), "agent": agent, "model": msg.model,
             "input_tokens": msg.usage.input_tokens, "output_tokens": msg.usage.output_tokens, "seconds": round(time.time() - t0, 1)}
