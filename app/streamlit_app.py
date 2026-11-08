@@ -112,6 +112,12 @@ if "_goto" in st.session_state:
 if st.session_state.get("nav") not in PAGES:
     st.session_state["nav"] = "Home"
 
+# When the page changes, hide what is left of the previous page while the new one loads (Streamlit otherwise
+# keeps it on screen, faded). Only on that run: within a page, content stays visible during refreshes.
+_switched = st.session_state.get("_last_page") != st.session_state["nav"]
+st.session_state["_last_page"] = st.session_state["nav"]
+ui.html("<style>[data-stale='true']{display:none !important;}</style>" if _switched else "<span></span>")
+
 with st.sidebar:
     st.markdown("### Reviewer settings")
     pasted = st.text_input("AI access key from Anthropic (optional; kept only while this page is open)", type="password")
