@@ -1,0 +1,784 @@
+                            Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES
+                            Quezon City, Metro Manila
+                                                                          September 10, 2026
+                                                                              5:16 pm
+
+                              TWENTIETH CONGRESS
+                               Second Regular Session
+
+                                      11256
+                       HOUSE BILL NO. ______
+___________________________________________________________________
+
+                  Introduced by Rep. ROBERT NAZAL
+___________________________________________________________________
+
+                              AN ACT
+     PROHIBITING THE DIRECT OR INDIRECT RECOVERY FROM WATER
+    CONSUMERS OF COSTS ATTRIBUTABLE TO NON-REVENUE WATER,
+   REQUIRING WATER SERVICE PROVIDERS TO REDUCE AND PUBLICLY
+DISCLOSE WATER LOSSES, AMENDING FOR THE PURPOSE SECTION 63 OF
+      PRESIDENTIAL DECREE NO. 198, AS AMENDED, AND FOR OTHER
+                             PURPOSES
+
+                               EXPLANATORY NOTE
+
+       Water is indispensable to life, health, sanitation, commerce, and the daily
+functioning of every Filipino household. How water is measured and billed is therefore
+not a mere matter of utility accounting; it is a question of consumer protection and
+responsible stewardship of a vital natural resource.
+
+       The scale of the need is stark. According to the Philippine Statistics Authority's
+preliminary 2024 Annual Poverty Indicators Survey, only 53.1 percent of Filipino
+families had access to safely managed drinking water service. When water is this
+scarce and this essential, not a single drop lost to leaks, faulty meters, or
+mismanagement should be quietly charged to the very families struggling to obtain it.
+
+        Yet that is precisely what happens. Non-revenue water—the gap between
+water entering a system and water actually billed—captures both real losses from
+leaking pipes, reservoirs, and connections, and apparent losses from inaccurate
+meters, unauthorized use, and billing errors. Authorized public uses such as
+firefighting and disaster relief are treated separately when properly documented. The
+Philippine Water Supply and Sanitation Master Plan 2019–2030 records the National
+Water Resources Board's mandate that non-revenue water should not exceed 25.0
+percent. That ceiling exists precisely because water loss is a manageable operating
+condition — not an unlimited cost to be dumped onto consumers.
+         This measure is the water counterpart to the reform now sweeping the power
+sector. Just as Congress and the Executive move to stop electric utilities from passing
+their system losses to consumers by amending Republic Act No. 7832, this bill stops
+water providers from passing their water losses down the line. The principle is identical
+across both utilities: the burden of losses belongs to those who control the
+infrastructure, not to the households at the end of the pipe. The Fair Water Billing Act
+is the companion measure to system-loss reform in electricity — one Congress, two
+utilities, a single standard of fairness.
+
+        The Constitution supplies a firm foundation. Article II, Sections 15 and 16 direct
+the State to protect the rights to health and to a balanced and healthful ecology. Article
+XII, Section 2 vests ownership and full control of the nation's waters in the State.
+Presidential Decree No. 198 authorizes water districts to set cost-recovering rates, but
+nowhere establishes the nationwide, progressively declining framework this bill
+provides. Executive Order No. 22 (2023) recognized the sector's fragmentation and
+created the Water Resources Management Office to harmonize it. The gap this bill fills
+is therefore real and unaddressed by existing law.
+
+       The Fair Water Billing Act delivers these principal reforms:
+
+          1. Consumers do not pay for inefficiency. During the transition, Sec. 5
+             bars recovery of non-revenue-water costs exceeding the efficiency
+             benchmark. Even costs within it are recoverable only after audit, public
+             hearing, and specific regulatory findings.
+          2. The benchmark must keep falling. Sec. 6 caps the initial benchmark
+             at 25 percent of system input (or any lower binding benchmark) and
+             drives it to zero by the end of the fifth year after the implementing rules
+             take effect.
+          3. The transition is temporary, not a permanent allowance. On
+             expiration, all recovery of non-revenue-water costs is prohibited.
+          4. The rule covers the whole sector. Sec. 3 reaches water districts, LGU
+             waterworks, MWSS and its concessionaires, private utilities,
+             cooperatives, community and subdivision systems, bulk suppliers, and
+             operators under concessions, joint ventures, and similar arrangements.
+          5. Hidden recovery is barred. Secs. 7, 9, and 10 prevent prohibited costs
+             from being buried in base rates, fixed charges, tariff adjustments, bulk-
+             water contracts, affiliate transactions, management fees, or renamed
+             billing lines.
+          6. Loss-reducing investment stays recoverable—under safeguards.
+             Sec. 7 permits prudent pipeline rehabilitation, leak detection, district
+             metering, pressure management, and meter replacement where
+             necessary, cost-effective, transparently procured, independently
+             verified, and protected against double recovery.
+          7. Consumers gain enforceable rights. Annual performance scorecards,
+             disclosure of beneficial ownership and related-party transactions, public
+             hearings, independent audits, refunds with legal interest, personal
+             accountability for knowing violations, and whistleblower protection.
+
+        The bill accounts for real differences among providers. A one-time extension of
+not more than two years may be granted only to a qualified financially distressed
+public, cooperative, community, or nonprofit provider, and only upon public hearing,
+an independently audited rehabilitation plan, definite targets, quarterly reporting, and
+a finding that its distress arose from neither fraud, gross negligence, fund diversion,
+prohibited related-party dealings, nor willful neglect. A Water Loss Reduction and
+Modernization Program further assists qualified public and community systems, with
+assistance walled off from dividends, bonuses, management fees, refunds, and any
+cost traceable to fraud or gross negligence.
+
+         The principle is simple and fair: Ang tubig na hindi umabot sa gripo ay hindi
+dapat umabot sa bayarin. Responsibility must rest with those who control the
+pipelines, meters, reservoirs, billing systems, and investment decisions. By pairing a
+defined transition, declining benchmarks, public scrutiny, and eventual zero recovery,
+the Fair Water Billing Act protects consumers while preserving lawful and prudent
+utility operations — completing, on the water side, the same promise of fairness now
+being written into the nation's power bills.
+
+       In view of the foregoing, the swift passage of this measure is earnestly sought.
+
+
+
+
+                                                ROBERT NAZAL
+                                                 Representative
+                            Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES
+                            Quezon City, Metro Manila
+
+
+                              TWENTIETH CONGRESS
+                               Second Regular Session
+
+                       HOUSE BILL NO. 11256
+                                      ______
+___________________________________________________________________
+
+                  Introduced by Rep. ROBERT NAZAL
+___________________________________________________________________
+
+                              AN ACT
+     PROHIBITING THE DIRECT OR INDIRECT RECOVERY FROM WATER
+    CONSUMERS OF COSTS ATTRIBUTABLE TO NON-REVENUE WATER,
+   REQUIRING WATER SERVICE PROVIDERS TO REDUCE AND PUBLICLY
+DISCLOSE WATER LOSSES, AMENDING FOR THE PURPOSE SECTION 63 OF
+      PRESIDENTIAL DECREE NO. 198, AS AMENDED, AND FOR OTHER
+                             PURPOSES
+
+     Be it enacted by the Senate and House of Representatives of the Philippines in
+Congress assembled:
+
+        Section 1. Short Title. — This Act shall be known as the “Fair Water Billing
+Act.”
+
+        Sec. 2. Declaration of Policy. — It is hereby declared the policy of the State
+to:
+       (a) Protect water consumers from unreasonable, unjustified, inefficient, and
+excessive charges;
+       (b) Ensure that consumers pay for water actually delivered to their service
+connection and for other lawful services expressly authorized by law;
+       (c) Treat non-revenue water exceeding the applicable efficiency benchmark,
+and all non-revenue water upon the expiration of the transition period, as an operating
+responsibility and business risk of the water service provider;
+       (d) Establish progressively declining non-revenue water efficiency benchmarks
+that lead to the eventual abolition of the recovery of non-revenue water costs from
+consumers;
+       (e) Promote the conservation, efficient utilization, and sustainable management
+of the country’s water resources;
+       (f) Encourage continuous investment in reliable, efficient, climate-resilient, and
+properly maintained water supply and distribution systems;
+       (g) Strengthen accountability, transparency, public participation, and
+measurable performance among water service providers and regulatory bodies;
+       (h) Provide appropriate technical and financial assistance to qualified public,
+cooperative, community, and nonprofit water systems undertaking water-loss
+reduction and modernization; and
+       (i) Ensure that water rates remain just, reasonable, transparent, affordable,
+nonconfiscatory, and consistent with the public interest.
+
+        Sec. 3. Coverage. — This Act shall apply to all water service providers
+engaged in the abstraction, production, treatment, transmission, bulk supply,
+distribution, sale, or delivery of water to consumers, regardless of ownership, legal
+form, franchise, service area, contractual arrangement, or regulatory classification.
+
+      It shall include:
+      (a) Local water districts;
+      (b) Local government-owned or operated waterworks systems;
+      (c) The Metropolitan Waterworks and Sewerage System and its
+      concessionaires, contractors, successors, or assignees;
+      (d) Private water utilities and holders of certificates of public convenience;
+      (e) Cooperatives, associations, community water systems, subdivision water
+      systems, and developer-operated water systems;
+      (f) Government-owned or -controlled corporations engaged in water supply or
+      distribution;
+      (g) Operators under concession agreements, joint ventures, public-private
+      partnerships, management contracts, leases, or similar arrangements;
+      (h) Bulk-water suppliers, insofar as their charges are passed on to retail water
+      consumers; and
+      (i) Any successor entity performing substantially similar functions.
+
+     This Act shall likewise apply to every government agency, regulatory body, local
+sanggunian, board, office, or entity authorized to approve, review, establish,
+recommend, or regulate water rates and charges.
+
+        Sec. 4. Definition of Terms. — As used in this Act:
+        (a) “Applicable efficiency benchmark” refers to the maximum percentage of
+non-revenue water that may be considered by the appropriate regulator during the
+transition period, subject to the conditions and limitations prescribed under this Act;
+        (b) “Apparent losses” refer to water volumes not properly billed because of
+unauthorized consumption, illegal connections, water theft, meter inaccuracies, meter
+tampering, customer-account errors, data-transfer errors, billing errors, or similar
+commercial losses;
+        (c) “Appropriate regulator” refers to the Water Regulatory Commission, once
+created and organized by law, or, pending its creation, the government agency or body
+legally authorized to regulate the concerned water service provider, including the
+National Water Resources Board, the Local Water Utilities Administration, the
+Metropolitan Waterworks and Sewerage System Regulatory Office, the appropriate
+local sanggunian, or any other authorized rate-setting or regulatory body;
+        (d) “Authorized billed consumption” refers to water lawfully supplied to and
+consumed by an authorized customer and billed on the basis of an accurate meter
+reading or another lawful billing method approved by the appropriate regulator;
+        (e) “Authorized unbilled public-use water” refers to water used for firefighting,
+emergency response, disaster relief, necessary system flushing, public fountains, or
+other public purposes specifically approved by the appropriate regulator and
+separately measured or reasonably estimated, documented, and publicly disclosed;
+        (f) “Beneficial owner” refers to the natural person who ultimately owns, controls,
+exercises substantial influence over, or receives the principal economic benefit from a
+juridical entity or transaction, whether directly or indirectly;
+        (g) “Consumer” refers to any person, household, establishment, institution,
+government office, or juridical entity receiving retail water service;
+        (h) “Non-revenue water” refers to the difference between the volume of water
+entering a water supply and distribution system and the volume constituting authorized
+billed consumption, including real losses, apparent losses, and undocumented or
+unauthorized unbilled consumption. Authorized unbilled public-use water shall not be
+considered non-revenue water when it complies with paragraph (e) of this section;
+        (i) “Real losses” refer to physical water losses from pressurized or non-
+pressurized systems, including leakage from transmission and distribution mains,
+service connections, storage facilities, reservoirs, tanks, treatment facilities, pumping
+stations, and overflows occurring before the consumer’s service meter;
+        (j) “Related party” refers to an affiliate, subsidiary, parent company, controlling
+shareholder, beneficial owner, director, trustee, officer, or entity under common
+ownership, control, management, or substantial influence with a water service
+provider;
+        (k) “Transition period” refers to the period during which progressively declining
+efficiency benchmarks may be applied pursuant to Sec. 6 of this Act;
+        (l) “Water-loss reduction investment” refers to a project specifically designed to
+measure, prevent, detect, control, or reduce real or apparent losses, including pipeline
+rehabilitation, district-metered areas, pressure-management systems, leak-detection
+equipment, customer-meter replacement, bulk metering, digital monitoring,
+supervisory control and data acquisition systems, and asset-management systems;
+and
+        (m) “Water service provider” refers to any public or private entity covered under
+Sec. 3 of this Act.
+
+        Sec. 5. Prohibition Against the Recovery of Non-Revenue Water Costs. —
+During the transition period, no water service provider shall charge, bill, pass on,
+collect, or otherwise recover from consumers any cost attributable to non-revenue
+water exceeding the applicable efficiency benchmark prescribed under this Act.
+      The applicable efficiency benchmark shall not constitute an automatic or
+guaranteed recoverable allowance. Any cost attributable to non-revenue water within
+the applicable benchmark may be considered in rate-setting only upon a finding by the
+appropriate regulator, after audit and public hearing, that the cost:
+      (a) Was actually and prudently incurred;
+      (b) Was determined using the uniform methodology prescribed under this Act;
+      (c) Is not attributable to fraud, willful misconduct, gross negligence,
+      unreasonable delay, meter manipulation, billing error, inadequate maintenance,
+      or failure to comply with an approved water-loss reduction plan;
+      (d) Does not include any profit, markup, return on equity, penalty, or financing
+      charge imposed on the value of water lost; and
+      (e) Is consistent with the applicable benchmark and all other requirements of
+      this Act.
+
+        Upon the expiration of the transition period, no water service provider shall
+directly or indirectly recover from consumers any cost attributable to non-revenue
+water.
+
+       Consumers may be billed only for:
+       (a) Authorized billed consumption actually delivered to the consumer’s service
+connection;
+       (b) Reasonable fixed service charges representing prudent and efficient costs
+unrelated to non-revenue water and expressly approved by the appropriate regulator;
+       (c) Sewerage, sanitation, environmental, or other services actually provided
+and lawfully approved; and
+       (d) Other charges expressly authorized by law that are not intended to recover
+the cost or value of non-revenue water.
+
+       Any non-revenue water cost prohibited under this Act shall be treated as an
+operating responsibility and business risk of the water service provider.
+
+       Sec. 6. Progressively Declining Efficiency Benchmarks and Transition
+Period. — Within one hundred twenty (120) days from the effectivity of this Act, the
+appropriate regulators, coordinated by the Water Resources Management Office, shall
+prescribe a uniform methodology for determining non-revenue water and
+progressively declining efficiency benchmarks.
+
+       The initial applicable efficiency benchmark shall not exceed twenty-five percent
+(25%) of system input volume or an existing lower legally binding benchmark
+applicable to the water service provider, whichever is lower.
+
+       The appropriate regulator shall establish an annual benchmark for each water
+service provider or comparable peer group. The benchmark shall:
+       (a) Continuously decline every year;
+       (b) Take into account the provider’s size, water source, system age, service
+       area, operating conditions, existing binding standards, and demonstrated
+       technical capacity;
+       (c) Require measurable annual reductions supported by an audited water-loss
+       reduction plan;
+       (d) Never exceed the maximum national ceiling prescribed under this section;
+       (e) Not be increased to compensate for a provider’s failure to meet a prior
+       target; and
+       (f) Reach zero not later than the end of the fifth (5th) year following the effectivity
+       of the implementing rules and regulations.
+
+       A water service provider that already operates below the applicable benchmark
+shall be assigned a benchmark not higher than its most recently verified performance,
+subject to continuing annual reduction.
+
+       The appropriate regulator may grant a one-time extension not exceeding two
+(2) years only to a financially distressed local water district, local government-operated
+water system, cooperative, community water system, or nonprofit provider upon a
+finding, after public hearing, that:
+       (a) Immediate application of the zero benchmark would create a substantial and
+documented risk of interruption of essential water service;
+       (b) The provider has submitted an independently audited rehabilitation and
+water-loss reduction plan;
+       (c) The provider has exhausted reasonably available internal efficiency
+measures and has applied for available technical or financial assistance;
+       (d) The requested extension is supported by a definite implementation
+schedule, annual reduction targets, and quarterly public reporting;
+       (e) The benchmark will continue to decline during each year of the extension
+and will reach zero upon its expiration; and
+       (f) The provider’s condition is not attributable to fraud, willful misconduct, gross
+negligence, diversion of funds, prohibited related-party transactions, or a willful failure
+to maintain the system.
+
+       No extension shall authorize recovery beyond the approved benchmark or
+create an automatic entitlement to rate recovery.
+
+       Sec. 7. Treatment of Non-Revenue Water in Rate-Setting. — In approving
+or reviewing water rates, the appropriate regulator shall not:
+       (a) Include in the revenue requirement any non-revenue water cost exceeding
+the applicable efficiency benchmark;
+       (b) Use a loss allowance, loss factor, efficiency factor, tariff gross-up, volume
+adjustment, or similar mechanism that permits recovery beyond the applicable
+benchmark;
+        (c) Permit the recovery of raw-water, bulk-water, electricity, chemical,
+treatment, pumping, transmission, distribution, or other operating costs attributable to
+non-revenue water beyond the applicable benchmark;
+        (d) Permit a water service provider to increase a base rate, volumetric rate,
+minimum charge, fixed charge, adjustment mechanism, or other tariff component to
+offset a prohibited non-revenue water cost;
+        (e) Recognize non-revenue water as an automatic or guaranteed recoverable
+cost; or
+        (f) Permit any recovery of non-revenue water costs after the expiration of the
+transition period.
+
+       The appropriate regulator may approve the recovery of prudent water-loss
+reduction investments upon a finding that:
+       (a) The investment is necessary, technically sound, and cost-effective;
+       (b) The investment was procured in accordance with applicable procurement,
+competition, beneficial-ownership disclosure, and conflict-of-interest rules;
+       (c) The investment is subject to measurable reduction targets and independent
+performance verification;
+       (d) The cost does not include the purchase, production, treatment, pumping,
+financing, profit, markup, or value of water already lost;
+       (e) The investment will not result in double recovery;
+       (f) The provider has complied with the disclosure, audit, public-participation,
+and reporting requirements of this Act; and
+       (g) The proposed rate treatment reasonably allocates project risks between the
+provider and consumers.
+
+       Rates approved under this Act shall remain just and reasonable and shall afford
+an efficient water service provider a reasonable opportunity, but not a guarantee, to
+recover prudent costs unrelated to prohibited non-revenue water.
+
+       Nothing in this Act shall be construed to require confiscatory rates or to prohibit
+recovery of lawful and efficient costs that are not attributable to prohibited non-revenue
+water.
+
+     Sec. 8. Amendment of Sec. 63 of Presidential Decree No. 198, as
+Amended. — Sec. 63 of Presidential Decree No. 198, as amended, is hereby further
+amended by adding the following paragraphs at the end thereof:
+
+       “Notwithstanding any provision of this section, no rate or charge shall include,
+       directly or indirectly, any cost attributable to non-revenue water exceeding the
+       applicable efficiency benchmark prescribed under the Fair Water Billing Act.
+
+       Upon the expiration of the transition period under the Fair Water Billing Act, no
+       rate or charge shall include any cost attributable to non-revenue water.
+       Water-loss reduction investments may be included in rates only when approved
+       in accordance with the standards, safeguards, public-participation
+       requirements, performance conditions, and prohibition against double recovery
+       prescribed under the Fair Water Billing Act.
+
+       The review of any rate or charge shall include a determination of compliance
+       with the applicable efficiency benchmark, beneficial-ownership and related-
+       party disclosure requirements, consumer-refund obligations, and other
+       requirements of the Fair Water Billing Act.”
+
+        Sec. 9. Effect on Existing Rates, Tariffs, and Contracts. — Upon the
+effectivity of this Act:
+        (a) No new or increased non-revenue water charge or recovery mechanism
+shall be approved except in accordance with the applicable efficiency benchmark and
+the requirements of this Act;
+        (b) Any separately identified non-revenue water charge exceeding the
+applicable benchmark shall immediately cease to the extent of the excess;
+        (c) No pending rate application shall be approved unless it complies with this
+Act;
+        (d) Within ninety (90) days from the issuance of the uniform methodology, every
+water service provider shall submit to the appropriate regulator an unbundled
+statement identifying every portion of its existing rate attributable to non-revenue
+water;
+        (e) Where a non-revenue water cost is embedded in an existing tariff and
+cannot immediately be isolated, the appropriate regulator shall determine the amount
+using the uniform methodology prescribed under this Act and shall implement the
+corresponding rate adjustment within one hundred eighty (180) days from receipt of
+complete data;
+        (f) A water service provider shall not evade compliance by claiming that it has
+no separately identified non-revenue water charge when such cost is embedded in its
+revenue requirement, base rate, volumetric rate, fixed charge, minimum charge,
+adjustment mechanism, or another tariff component;
+        (g) No water service provider shall be entitled to an automatic rate increase
+solely because recovery of non-revenue water has been reduced or prohibited; and
+        (h) Existing contracts, concession agreements, loan agreements, and similar
+arrangements shall be administered and implemented consistently with this Act,
+subject to constitutional requirements and without impairing obligations unrelated to
+the prohibited recovery from consumers.
+
+        This Act shall apply to rates, charges, and collections imposed after its
+effectivity. Nothing in this section shall prevent the regulator from reviewing collections
+made before effectivity when authorized under existing law.
+       Sec. 10. Prohibition Against Circumvention; Beneficial-Ownership and
+Related-Party Disclosure. — No water service provider, affiliate, contractor, bulk-
+water supplier, or other entity shall recover a prohibited non-revenue water cost by:
+       (a) Changing the name or description of the charge;
+       (b) Incorporating it into a base rate, minimum charge, fixed charge, commodity
+charge, environmental charge, sewerage charge, sanitation charge, or other billing
+component;
+       (c) Establishing a rider, surcharge, automatic adjustment mechanism, or rate-
+rebasing adjustment;
+       (d) Increasing another regulated charge to offset the prohibition under this Act;
+       (e) Passing the cost through a bulk-water supply agreement, affiliate
+transaction, management fee, lease payment, or related-party contract;
+       (f) Altering billing assumptions, volume projections, consumption bands, or tariff
+denominators;
+       (g) Reclassifying water losses as capital costs, regulatory assets, deferred
+charges, extraordinary adjustments, or similar accounts; or
+       (h) Adopting any other arrangement, device, or transaction intended to defeat
+or circumvent this Act.
+
+       Every water service provider shall disclose to the appropriate regulator:
+       (a) The beneficial ownership and controlling interests of every bulk-water
+supplier, contractor, affiliate, and entity receiving payments that are recovered or
+proposed to be recovered through consumer rates;
+       (b) All common directors, trustees, officers, beneficial owners, management
+personnel, or controlling interests between the provider and such entity;
+       (c) The material terms, pricing, volume commitments, escalation provisions,
+guarantees, procurement method, and payment arrangements of the transaction; and
+       (d) Any direct or indirect financial interest of a director, trustee, officer,
+employee, regulator, consultant, or immediate family member in the transaction.
+
+       A related-party transaction shall not be included in consumer rates unless the
+appropriate regulator finds, after audit and public hearing, that it was transparently
+procured, is prudent and necessary, was entered into on arm’s-length terms, and is
+no less favorable to consumers than reasonably available alternatives.
+
+       Failure to make a complete and truthful disclosure shall be sufficient ground to
+disallow the related cost, without prejudice to other sanctions.
+
+
+
+
+         Sec. 11. Duties of Water Service Providers. — Every water service provider
+shall:
+       (a) Prepare an annual water balance using the uniform methodology prescribed
+under this Act;
+        (b) Accurately measure system input volume, authorized billed consumption,
+authorized unbilled public-use water, real losses, and apparent losses;
+        (c) Establish annual and medium-term non-revenue water reduction targets
+consistent with the applicable benchmark;
+        (d) Implement active leak-detection and prompt leak-repair programs;
+        (e) Establish district-metered areas where technically and economically
+appropriate;
+        (f) Implement pressure-management and reservoir-overflow controls;
+        (g) Maintain, calibrate, test, and replace customer and bulk meters according
+to prescribed standards;
+        (h) Detect and act against illegal connections, meter tampering, and
+unauthorized consumption in accordance with law and due process;
+        (i) Maintain an updated asset registry and risk-based pipeline-replacement
+program;
+        (j) Use appropriate digital monitoring, supervisory control, data acquisition,
+geographic-information, and smart-metering technologies where technically and
+economically justified;
+        (k) Maintain adequate records of water production, treatment, purchase,
+transmission, distribution, consumption, and loss;
+        (l) Implement transparent procurement, beneficial-ownership disclosure, and
+conflict-of-interest safeguards for water-loss reduction projects;
+        (m) Comply with water-quality, continuity, pressure, customer-service, and
+other applicable performance standards;
+        (n) Refrain from reducing service pressure, continuity, water quality, or
+necessary maintenance for the purpose of appearing to meet an efficiency benchmark;
+and
+        (o) Submit accurate and timely reports required under this Act.
+
+       Sec. 12. Annual Water Service Performance Scorecards. — The
+appropriate regulator shall publish an annual performance scorecard for every water
+service provider.
+
+      The scorecard shall contain, at a minimum:
+      (a) Total system input volume;
+      (b) Authorized billed consumption;
+      (c) Authorized unbilled public-use water;
+      (d) Non-revenue water volume and percentage;
+      (e) Estimated real and apparent losses;
+      (f) The applicable efficiency benchmark;
+      (g) The reduction or increase from the previous year;
+      (h) The amount of non-revenue water cost allowed and disallowed in rates;
+      (i) Water production and purchase costs;
+      (j) Expenditures for leak detection, meter replacement, pipeline rehabilitation,
+      pressure management, and other water-loss reduction measures;
+       (k) Average hours of service;
+       (l) Frequency and duration of service interruptions;
+       (m) Water-pressure performance;
+       (n) Water-quality compliance;
+       (o) Number of reported and repaired leaks and average repair time;
+       (p) Consumer complaints and their disposition;
+       (q) Enforcement actions, penalties, refunds, or consumer credits;
+       (r) Compliance with the provider’s water-loss reduction plan;
+       (s) Material related-party transactions and beneficial-ownership disclosures;
+       and
+       (t) Other information necessary to assess efficiency, service quality,
+       affordability, and accountability.
+
+       Water service providers shall be classified into comparable peer groups based
+on size, source, service area, system characteristics, and operating conditions. The
+appropriate regulator shall publish comparative rankings within each peer group.
+
+       All scorecards and underlying nonconfidential data shall be available in
+searchable and downloadable formats and posted on the websites and in the principal
+offices of the regulator and water service provider.
+
+       Sec. 13. Public Participation in Rate Proceedings. — No rate application
+involving non-revenue water costs, water-loss reduction investments, embedded tariff
+adjustments, or related-party transactions shall be approved without:
+       (a) Prior publication and public disclosure of the application and supporting
+nonconfidential data;
+       (b) Reasonable notice to affected consumers;
+       (c) A meaningful opportunity for affected consumers, local government units,
+consumer organizations, and other interested persons to submit written comments;
+and
+       (d) At least one accessible public hearing within the affected service area, with
+remote participation where reasonably practicable.
+
+       The application, audit results, water balance, applicable benchmark, proposed
+investments, beneficial-ownership disclosures, related-party transactions, and
+proposed consumer impact shall be made publicly available at least fifteen (15) days
+before the hearing.
+
+       The appropriate regulator shall issue a written decision stating its findings on
+the material issues raised during the proceedings. No confidential treatment shall be
+granted to information necessary to identify beneficial ownership, controlling interests,
+related-party relationships, or the amount proposed to be recovered from consumers,
+except to the extent expressly required by law.
+       Sec. 14. Independent Audit and Verification. — The appropriate regulator
+may require independent technical, financial, and performance audits to verify
+reported non-revenue water, costs, investments, meter accuracy, reduction measures,
+related-party transactions, and compliance with this Act.
+
+      The auditor shall be independent of the water service provider, its affiliates,
+contractors, beneficial owners, directors, trustees, officers, and management.
+Government-owned water service providers shall remain subject to audit by the
+Commission on Audit.
+
+       The intentional falsification, material misstatement, concealment, destruction,
+or manipulation of water-loss, meter, cost, billing, beneficial-ownership, or related-
+party data shall constitute a separate violation of this Act, without prejudice to liability
+under other laws.
+
+       Sec. 15. Water Loss Reduction and Modernization Program. — A Water
+Loss Reduction and Modernization Program is hereby established to provide targeted
+technical and financial assistance to:
+       (a) Financially distressed local water districts;
+       (b) Local government-operated water systems;
+       (c) Small cooperatives and community water systems;
+       (d) Water systems serving geographically isolated and disadvantaged areas;
+       and
+       (e) Other nonprofit or public water service providers determined by the
+       implementing agencies to require assistance.
+
+       The Program shall prioritize:
+       (a) Replacement of leaking and deteriorated pipelines;
+       (b) Installation of bulk meters and district-metered areas;
+       (c) Leak-detection and pressure-management equipment;
+       (d) Replacement and calibration of inaccurate customer meters;
+       (e) Digital mapping and asset-management systems;
+       (f) Supervisory control and data acquisition systems;
+       (g) Training and institutional capacity development; and
+       (h) Emergency rehabilitation of systems suffering from exceptionally high
+       physical losses.
+
+      Assistance may consist of grants, concessional loans, technical assistance,
+guarantees, or other lawful financing arrangements.
+
+       No assistance shall be released unless the recipient has submitted an
+independently audited water-loss reduction plan containing measurable annual
+targets, implementation schedules, procurement arrangements, performance
+indicators, beneficial-ownership disclosures, and public-reporting commitments.
+       Assistance shall not be used for:
+       (a) Dividends, profit distributions, bonuses, or management fees;
+       (b) Payments to affiliates or related parties without competitive and transparent
+       procurement;
+       (c) Fines, penalties, or consumer refunds;
+       (d) Costs arising from fraud, gross negligence, willful misconduct, or willful
+       failure to maintain the system; or
+       (e) Recovery of the cost or value of non-revenue water.
+
+       Receipt of government assistance shall not authorize the recipient to pass
+prohibited non-revenue water costs on to consumers.
+
+       Sec. 16. Enforcement, Administrative Sanctions, and Personal
+Accountability. — The appropriate regulator shall investigate violations of this Act
+and, after notice and hearing, may:
+       (a) Issue cease-and-desist orders;
+       (b) Disallow or suspend the collection of prohibited rates and charges;
+       (c) Direct the revision of tariffs, billing systems, and accounting records;
+       (d) Order refunds or bill credits;
+       (e) Deny, defer, or condition pending rate applications;
+       (f) Require corrective-action and compliance plans;
+       (g) Impose an administrative fine not exceeding one percent (1%) of the water
+service provider’s annual gross revenue from water services for each serious violation,
+taking into account the gravity, duration, recurrence, consumer impact, and financial
+capacity of the provider;
+       (h) Suspend or revoke a certificate, permit, or regulatory approval when
+authorized by law;
+       (i) Recommend the cancellation, suspension, or nonrenewal of a franchise,
+concession, joint venture, or similar authority in cases of repeated or grave violations;
+and
+       (j) Impose other lawful sanctions necessary to enforce this Act.
+No administrative fine, penalty, refund, legal expense arising from a violation, or similar
+amount shall be treated as a recoverable operating expense or passed on to
+consumers.
+
+       Any director, trustee, officer, employee, agent, or representative of a public or
+private water service provider who knowingly authorizes, approves, conceals,
+implements, or causes the collection of a prohibited charge shall, after notice and
+hearing, be personally subject to the applicable administrative sanctions, without
+prejudice to civil or criminal liability under existing laws.
+
+      Any member, officer, or employee of a regulatory or rate-setting body who
+knowingly authorizes, approves, conceals, or facilitates a prohibited charge shall be
+referred to the appropriate disciplinary authority, the Office of the Ombudsman, or
+another competent body for proceedings under applicable laws.
+
+        Personal liability under this section shall attach only upon a specific finding that
+the person knowingly participated in, authorized, approved, concealed, or caused the
+violation.
+
+        Sec. 17. Consumer Refunds and Remedies. — Any amount collected in
+violation of this Act shall be refunded to affected consumers.
+The refund shall cover the full period beginning on the date the applicable prohibition
+or efficiency benchmark became effective, or the date the unlawful collection
+commenced, whichever is later, until the collection ceased.
+
+        Legal interest shall be computed from the date of each unlawful collection until
+full reimbursement at the rate prescribed under applicable law and prevailing
+jurisprudence.
+
+       Refunds or bill credits shall be completed within one hundred eighty (180) days
+from the date the order directing the refund becomes final and executory, unless the
+appropriate regulator prescribes a shorter period in the interest of consumers.
+
+       Refunds may be made through:
+       (a) Direct payment;
+       (b) Automatic bill credits;
+       (c) Reduction of succeeding bills; or
+       (d) Another transparent method providing full value to the consumer.
+
+       The water service provider shall provide each affected consumer with written
+or electronic notice stating the refund period, principal amount, interest, manner of
+payment, and schedule of release or credit.
+
+       A refund shall not be conditioned on the filing of an individual complaint when
+the affected class of consumers and the amount collected can be determined from the
+provider’s records.
+
+        Refunds due to disconnected account holders shall be paid directly upon
+verification of identity and account records. Refunds due to deceased account holders
+shall be released to the lawful estate, heirs, or authorized representative upon
+submission of reasonable proof prescribed by the regulator.
+
+       Unclaimed refunds shall be held in trust in a segregated account, shall not be
+treated as income or assets available for distribution by the provider, and shall remain
+payable to the entitled consumer or lawful successor. The appropriate regulator shall
+prescribe procedures for notice, safekeeping, claims, and disposition consistent with
+applicable law.
+
+      The remedies under this Act shall be without prejudice to civil, criminal,
+administrative, contractual, or other remedies available under existing laws.
+
+        Sec. 18. Whistleblower and Anti-Retaliation Protection. — No employee,
+contractor, consultant, consumer, auditor, witness, or other person who, in good faith,
+reports a suspected violation of this Act, provides information, produces records,
+participates in an investigation, or testifies in a proceeding shall be dismissed,
+suspended, demoted, harassed, threatened, discriminated against, blacklisted, denied
+water service, or subjected to retaliation.
+
+       The identity of a reporting person shall be kept confidential to the extent
+permitted by law and consistent with due process.
+
+        Retaliation shall constitute a separate violation of this Act. A person subjected
+to retaliation may be granted appropriate relief, including reinstatement, restoration of
+benefits, correction of employment records, and other remedies available under law.
+
+      This protection shall not apply to a person who knowingly submits false
+information or acts with malice.
+
+       Sec. 19. Regulatory Coordination and Institutional Transition. — Pending
+the creation and organization of a Water Regulatory Commission by law, the existing
+appropriate regulators shall exercise their respective powers and perform the duties
+prescribed under this Act within their existing jurisdictions.
+
+      The Water Resources Management Office shall convene and coordinate the
+concerned regulators and implementing agencies to adopt uniform national definitions,
+accounting methodologies, efficiency benchmarks, reporting standards, scorecards,
+audit protocols, beneficial-ownership disclosure requirements, public-participation
+procedures, and anti-circumvention rules.
+
+       Upon the creation and organization of the Water Regulatory Commission, the
+regulatory, enforcement, rate-review, reporting, and scorecard functions prescribed
+under this Act shall be exercised by the Commission to the extent provided by its
+enabling law.
+
+       No regulatory transition, reorganization, transfer of functions, or vacancy in
+office shall suspend or delay the implementation of the prohibitions and consumer
+protections established under this Act.
+       Sec. 20. Implementing Rules and Regulations. — Within one hundred twenty
+(120) days from the effectivity of this Act, the Department of Environment and Natural
+Resources, through the Water Resources Management Office, shall convene the
+National Water Resources Board, Local Water Utilities Administration, Metropolitan
+Waterworks and Sewerage System Regulatory Office, Department of the Interior and
+Local Government, Department of Finance, Department of Budget and Management,
+Commission on Audit, and other concerned agencies to promulgate the implementing
+rules and regulations.
+
+       The rules shall prescribe:
+       (a) A uniform water-balance and non-revenue water accounting methodology;
+       (b) Progressively declining efficiency benchmarks and procedures for
+determining provider-specific targets;
+       (c) A methodology for identifying non-revenue water costs embedded in
+regulated rates;
+       (d) Standards for determining costs that may be considered within the
+benchmark during the transition period;
+       (e) Standards for authorized unbilled public-use water;
+       (f) Procedures for rate review, public hearings, refunds, consumer complaints,
+and enforcement;
+       (g) National scorecard and open-data standards;
+       (h) Beneficial-ownership and related-party disclosure requirements;
+       (i) Water-loss reduction planning and audit requirements;
+       (j) Eligibility and performance conditions for modernization assistance;
+       (k) Whistleblower confidentiality and anti-retaliation procedures; and
+       (l) Other measures necessary to implement this Act.
+
+      The implementing rules shall be issued after public consultation with
+consumers, water service providers, local governments, water districts, civil society
+organizations, technical experts, and other stakeholders.
+
+        No implementing rule shall authorize any recovery beyond the limits or
+transition period prescribed under this Act.
+
+      Sec. 21. Appropriations. — The amount necessary for the initial
+implementation of this Act shall be charged against the current appropriations of the
+concerned agencies.
+
+        Thereafter, such sums as may be necessary for the continued implementation
+of this Act and the Water Loss Reduction and Modernization Program shall be included
+in the annual General Appropriations Act.
+         Sec. 22. Separability Clause. — If any provision of this Act is declared
+unconstitutional or invalid, the remaining provisions not affected thereby shall remain
+in full force and effect.
+
+         Sec. 23. Repealing Clause. — All laws, presidential decrees, executive orders,
+administrative issuances, franchises, local ordinances, rules, regulations, rate orders,
+tariffs, methodologies, concession provisions, and other issuances inconsistent with
+this Act are hereby repealed, amended, or modified accordingly.
+
+       Sec. 24. Effectivity. — This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in at least one (1) newspaper of general
+circulation.
+
+       Approved.
+

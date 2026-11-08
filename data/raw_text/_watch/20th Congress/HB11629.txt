@@ -1,0 +1,687 @@
+                             Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES
+                             Quezon City, Metro Manila
+                                                                                 October 7, 2026
+                              TWENTIETH CONGRESS                                   8:00 am
+                                  2nd Regular Session
+
+                                                 11629
+                                 House Bill No. ________
+
+
+       Introduced by Representatives OMAR VINCENT S. DUTERTE and
+                            PAOLO Z. DUTERTE
+
+
+                                EXPLANATORY NOTE
+
+The 1987 Constitution provides that the State shall protect life and property, promote the
+general welfare and the right to health, protect consumers from substandard or hazardous
+products, and recognize the right of the people to information on matters of public
+concern. Congress has already exercised this power over motor vehicles through multiple
+statutory enactments which allow the LTO to inspect motor vehicles and to refuse
+registration to those found unsafe, set forth conditions for registration in an emission test,
+and prohibits deceptive sales acts and practices.
+
+According to the Philippine Statistics Authority (PSA), 13,125 persons died in land
+transport accidents in the Philippines in 2023. This was the highest number in more than
+a decade and 7.2 percent more than the 12,240 deaths recorded in 2022.
+
+Many of these deaths involved a defective vehicle which is unknown because the condition
+of vehicles is barely recorded. According to the Metro Manila Accident Reporting and
+Analysis System Annual Report 2020 of the Metropolitan Manila Development Authority
+(MMDA), 63,741 of the 65,032 road crashes reported in Metro Manila in 2020, or 98
+percent, were logged without any cause. Only six were attributed to brake malfunction and
+nine to mechanical defect.
+
+The registration process does not fill this gap. Republic Act No. 8749, or the Philippine
+Clean Air Act of 1999, makes an emission test a condition for registration, but the law does
+not expressly require a test of the brakes, tires, steering, or lights. According to the Land
+Transportation Office (LTO), as reported by the Philippine Daily Inquirer on October 21,
+2021, mandatory roadworthiness inspection has been suspended since August 2021. An
+owner may instead renew registration through a private emission testing center, which tests
+emissions only, together with a visual inspection by LTO personnel. According to the same
+
+
+
+                                                                                            1
+LTO statement, 80 percent of renewals take this route. A vehicle can thus be registered
+year after year without its brakes ever being tested.
+
+The same gap harms buyers of used vehicles. No official record shows whether a vehicle
+was regularly serviced, was flooded or wrecked, or has had its odometer altered. Republic
+Act No. 10642, or the Philippine Lemon Law, covers only brand-new vehicles.
+
+The proposed measure therefore seeks to establish a National Vehicle History and Safety
+Registry under the LTO that records the maintenance, repairs, inspections, odometer
+readings, accidents, and safety recalls of every motor vehicle; require a roadworthiness
+inspection, in addition to the emission test, before a motor vehicle is registered or its
+registration is renewed; and penalize odometer tampering, false entries, and the
+concealment of a vehicle's history.
+
+In view of the foregoing, approval of this bill is earnestly sought.
+
+
+
+
+  HON. OMAR VINCENT S. DUTERTE                         HON. PAOLO Z. DUTERTE
+
+
+
+
+                                                                                        2
+                              Republic of the Philippines
+                           HOUSE OF REPRESENTATIVES
+                              Quezon City, Metro Manila
+
+                               TWENTIETH CONGRESS
+                                   2nd Regular Session
+
+                                                  11629
+                                  House Bill No. ________
+
+
+       Introduced by Representatives OMAR VINCENT S. DUTERTE and
+                            PAOLO Z. DUTERTE
+
+
+                         AN ACT
+ESTABLISHING THE NATIONAL VEHICLE HISTORY AND SAFETY
+REGISTRY, INSTITUTIONALIZING ROADWORTHINESS INSPECTION
+AS A REQUIREMENT FOR THE REGISTRATION OF MOTOR VEHICLES,
+REQUIRING THE REPORTING OF MAINTENANCE, REPAIR,
+INSPECTION, AND ACCIDENT RECORDS OF MOTOR VEHICLES,
+MANDATING DISCLOSURE IN THE SALE OF USED MOTOR VEHICLES,
+PROVIDING PENALTIES FOR VIOLATIONS THEREOF, AND
+APPROPRIATING FUNDS THEREFOR
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+                                        CHAPTER I.
+                                    GENERAL PROVISIONS
+
+      SECTION 1. Short Title. – This Act shall be known as the "National Vehicle
+History and Safety Registry Act of 2026."
+
+        SEC. 2. Declaration of Policy. – It is the policy of the State to protect the life,
+safety, and property of all road users and to protect consumers against deceptive and unfair
+sales acts and practices. Toward this end, the State shall:
+
+        a. Maintain a single, reliable, and publicly accessible record of the condition and
+           history of every motor vehicle operated on public roads;
+        b. Promote the regular maintenance of motor vehicles as a shared responsibility
+           of owners, the motor vehicle industry, and the government;
+        c. Ensure that every buyer of a used motor vehicle is able to make an informed
+           decision on the basis of complete and truthful information; and
+        d. Uphold the right to privacy of motor vehicle owners in the collection and
+           disclosure of vehicle information.
+
+
+
+                                                                                                1
+      SEC. 3. Definition of Terms. – For purposes of this Act, and unless indicated
+otherwise, the following terms shall be defined as:
+
+       a. Critical safety defect refers to a defect or condition in a safety-critical system
+          that makes the continued operation of the motor vehicle an imminent danger
+          to its occupants or to other road users, as determined under standards set by
+          the Land Transportation Office (LTO);
+       b. Dealer refers to any person, natural or juridical, engaged in the business of
+          selling new or used motor vehicles, including those who sell through online
+          platforms, and any person who sells more than three (3) used motor vehicles
+          within a period of twelve (12) months;
+       c. Maintenance event refers to any periodic or preventive service performed on a
+          motor vehicle, including the change of engine oil and filters, the replacement
+          or replenishment of brake, transmission, and coolant fluids, and the inspection,
+          adjustment, or replacement of parts subject to wear;
+       d. Motor vehicle refers to any vehicle propelled by any power other than muscular
+          power that is required to be registered with the LTO under Republic Act No.
+          4136, as amended, including motorcycles, tricycles, and electric and hybrid
+          vehicles;
+       e. Registry refers to the National Vehicle History and Safety Registry established
+          under this Act;
+       f. Repair event refers to any work to restore or replace a damaged, defective, or
+          failed part or system of a motor vehicle, including collision, body, and structural
+          repair;
+       g. Reporting entity refers to any person or office required under Section 8 of this
+          Act to submit information to the Registry;
+       h. Safety-critical system refers to the brakes, steering, suspension, tires and wheels,
+          lights and signals, seat belts, airbags and other restraint systems, chassis and
+          body structure, and, for electric and hybrid vehicles, the high-voltage battery
+          and its protective systems, together with such other systems as the LTO may
+          include;
+       i. Safety recall refers to a campaign by a manufacturer, assembler, importer, or
+          distributor to repair or replace a part or system of a motor vehicle model on
+          account of a safety-related defect;
+       j. Service and repair shop refers to any establishment or person engaged in the
+          business of servicing, repairing, or maintaining motor vehicles for a fee,
+          including dealer service centers, independent workshops, tire, battery, and
+          brake shops, and body and paint shops;
+       k. Used motor vehicle refers to a motor vehicle that has been previously registered
+          in the name of, or delivered to, an owner other than a manufacturer, assembler,
+          importer, distributor, or dealer holding it for sale as new;
+
+
+                                                                                            2
+       l. Vehicle History Report refers to the official report generated from the Registry
+          under Section 18 of this Act; and
+       m. Vehicle record refers to the electronic record of a particular motor vehicle in
+          the Registry.
+
+       SEC. 4. Coverage. – This Act shall apply to all motor vehicles registered or required
+to be registered with the LTO, whether for private, for-hire, or government use. Motor
+vehicles of the Armed Forces of the Philippines and the Philippine National Police that are
+used for tactical or intelligence operations shall be exempt. The LTO may prescribe
+modified rules for vintage vehicles registered under Republic Act No. 11698.
+
+
+                              CHAPTER II.
+            THE NATIONAL VEHICLE HISTORY AND SAFETY REGISTRY
+
+        SEC. 5. Establishment of the Registry.. – There is hereby established a National
+Vehicle History and Safety Registry, which shall be the central electronic repository of the
+history and condition of every motor vehicle covered by this Act. The Registry shall be
+developed, operated, and maintained by the LTO as a component of, or in full integration
+with, its existing motor vehicle registration system. Each motor vehicle shall have one (1)
+vehicle record, which shall be identified by its vehicle identification number or chassis
+number, engine or motor number, plate number, and motor vehicle file number, and which
+shall follow the vehicle throughout its life regardless of any change in ownership, plate, or
+place of registration.
+
+        Net increase in employment. – Qualified wages paid for a given month shall be
+creditable only if the number of Filipino employees of the covered employer in that month,
+as shown in its contribution reports to the SSS, exceeds its baseline headcount, and only
+for a number of qualified provincial employees not exceeding that excess. Where the
+qualified provincial employees outnumber the excess, the covered employer shall designate
+those for whom the credit is claimed.
+
+       SEC. 6. Contents of the Vehicle Record. – The vehicle record shall contain the
+following:
+
+       a. Identity and specifications – make, model, variant, year of manufacture, body
+          type, color, fuel or power source, and, for imported units, the date and port of
+          importation and whether the unit was imported as new or used;
+       b. Registration and ownership history – dates of initial registration and of every
+          renewal, the number and dates of transfers of ownership, the classification of
+          use for each period, and any change of engine, chassis, color, or body
+          configuration approved by the LTO;
+       c. Encumbrances and alarms – any mortgage or other encumbrance annotated on
+
+
+                                                                                           3
+          the certificate of registration, and any alarm, hold order, or report of carnapping
+          or loss;
+       d. Odometer readings – the reading recorded at every maintenance event, repair
+          event, inspection, and transfer of ownership;
+       e. Maintenance history – the date, odometer reading, nature of the service
+          performed, and identity of the service and repair shop for every maintenance
+          event;
+       f. Repair history – the date, odometer reading, system or part repaired or replaced,
+          and identity of the service and repair shop for every repair event involving a
+          safety-critical system, the engine, or the transmission;
+       g. Inspection history – the date, result, and findings of every roadworthiness
+          inspection and emission test;
+       h. Incident history – every road crash reported to the police or to an insurer, every
+          insurance claim for damage to the vehicle, any declaration of total loss, and any
+          report of flood, fire, or structural damage;
+       i. Safety recalls – every safety recall that applies to the vehicle and whether the
+          remedy has been performed; and
+       j. Such other information relevant to the safety and history of the vehicle as the
+          LTO may require, after public consultation.
+
+       SEC. 7. Integrity of Records. – No entry in a vehicle record shall be deleted. An
+erroneous entry shall be corrected only by a dated annotation that identifies the correcting
+party and preserves the original entry. Every entry, annotation, and access shall be recorded
+in an audit trail. Each entry shall identify its source and shall be marked as verified when
+submitted by a reporting entity, or as owner-declared when submitted under Section 10 of
+this Act.
+
+                                CHAPTER III.
+                         REPORTING TO THE REGISTRY
+
+      SEC. 8. Reporting Entities. – The following shall submit to the Registry the
+information indicated:
+
+       a. Manufacturers, assemblers, importers, and distributors – the identity and
+          specifications of every motor vehicle sold or released in the Philippines, the
+          manufacturer-recommended maintenance schedule for each model, and every
+          safety recall and the vehicles it covers;
+       b. Dealers – the delivery of every new motor vehicle, and every sale or acquisition
+          of a used motor vehicle, together with the odometer reading at the time;
+       c. Service and repair shops – every maintenance event and every repair event
+          described in Section 6(e) and (f) of this Act, the performance of any safety recall
+          remedy, and any critical safety defect found;
+
+
+                                                                                           4
+       d. Motor vehicle inspection centers and emission testing centers, whether
+          government or private – the result and findings of every inspection or test;
+       e. Insurance companies – every claim for damage to a motor vehicle, the nature
+          and extent of the damage, and any declaration of total loss, under rules issued
+          jointly with the Insurance Commission;
+       f. The Philippine National Police and other agencies that investigate road crashes
+          – every road crash involving a motor vehicle, and every report of carnapping or
+          recovery;
+       g. Banks, financing companies, and other mortgagees – the constitution and
+          cancellation of any encumbrance on a motor vehicle; and
+       h. The LTO – all registration, transfer, and alarm transactions, and any change in
+          the identity or configuration of a motor vehicle that it approves.
+
+       SEC. 9. Manner and Period of Reporting. – A reporting entity shall submit the
+required information electronically within five (5) working days from the event to be
+reported. No fee shall be charged for submitting information to the Registry. The service
+and repair shop or inspection center shall record the odometer reading at the time of the
+event and shall give the owner or the owner's representative a copy or electronic
+confirmation of the entry.
+
+        SEC. 10. Owner – Declared Entries. – A registered owner who personally performs
+a maintenance event, or who has it performed by a person not registered under Section 11
+of this Act, may declare the event to the Registry through the owner's account, with the
+date, odometer reading, and nature of the work, and may attach receipts or photographs
+as proof. The entry shall be marked as owner-declared.
+
+        SEC. 11. Registration and Repair Shops. – Every service and repair shop shall
+register with the LTO for purposes of reporting to the Registry. Registration shall be free
+of charge, shall require only proof of identity and of a valid business permit or barangay
+micro-business registration, and shall be completed within three (3) working days from
+application. Registration under this section is separate from, and shall not be conditioned
+on, accreditation by the Department of Trade and Industry (DTI) under Presidential
+Decree No. 1572. The LTO and the DTI shall share their lists of registered and accredited
+shops.
+
+        SEC. 12. Correction and Dispute Entries. – A registered owner may view the full
+vehicle record of the owner's motor vehicle at any time, free of charge, and may dispute
+any entry believed to be inaccurate. The LTO shall refer the dispute to the reporting entity
+concerned, which shall confirm or correct the entry within ten (10) working days. The LTO
+shall resolve the dispute within twenty (20) working days from filing. While a dispute is
+pending, the entry shall be marked as disputed in any report generated from the Registry.
+
+
+
+                                                                                          5
+     a. Credits claimed under this Act shall be covered by Republic Act No. 10708, or the
+        Tax Incentives Management and Transparency Act.
+     b. Not later than June 30 of each year, the BIR and the DOLE shall jointly submit
+        to Congress, through the Congressional Oversight Committee on the
+        Comprehensive Tax Reform Program, and to the Fiscal Incentives Review Board,
+        a report for the preceding year stating the number of covered employers that
+        claimed the credit, the number of qualified provincial employees and priority hires
+        by region and province, the qualified wages paid, the credits claimed, and the
+        revenue foregone. The report shall be published on the websites of both agencies.
+     c. Not later than the end of the fourth (4th) year from the effectivity of this Act, the
+        Department of Finance and the Department of Economy, Planning, and
+        Development shall submit to Congress an evaluation of the net employment
+        created, the cost to the government of each job created, and the effect of the credit
+        on the regional distribution of employment.
+
+                                    CHAPTER IV.
+                         SAFETY STATUS OF MOTOR VEHICLES
+
+       SEC. 13. Safety Status Indicators. – The Registry shall automatically generate and
+display the following indicators for every motor vehicle, each with the date of the entry on
+which it is based:
+
+       a. Maintenance status – whether periodic maintenance, including engine oil
+          service, is up to date, overdue, or without record, measured against the
+          manufacturer-recommended schedule or, in its absence, a default schedule set
+          by the LTO by vehicle type;
+       b. Safety-critical systems status – for the brakes, tires, steering, suspension, lights,
+          and restraint systems, whether each passed, passed with findings, or failed the
+          most recent inspection or service, or has no record;
+       c. Inspection status – the date and result of the most recent roadworthiness
+          inspection and emission test;
+       d. Open safety recall – whether any safety recall remains unremedied;
+       e. Major incident – whether the vehicle has a record of total loss, flood, fire, or
+          structural damage;
+       f. Odometer consistency – whether the recorded odometer readings are
+          consistent, or show a decrease or other irregularity; and
+       g. Unresolved critical safety defect – whether a critical safety defect reported
+          under Section 16 of this Act remains unrectified.
+
+        SEC. 14. Effect of Indicators. – The safety status indicators are a statement of what
+has been reported to the Registry and when. The absence of a record shall not be construed
+as a finding that a motor vehicle is unsafe. A maintenance status of overdue or without
+
+
+                                                                                             6
+record shall not, by itself, be a ground for the apprehension of a driver, the imposition of
+a fine, the denial of registration, or the denial of an insurance claim. The LTO shall notify
+the registered owner electronically when periodic maintenance or an inspection falls due,
+and when a safety recall is issued for the owner's vehicle.
+
+       SEC. 15. Roadworthiness Inspection as a Requirement for Registration. – In
+addition to the emission test required under Republic Act No. 8749, or the Philippine Clean
+Air Act of 1999, no motor vehicle shall be registered, and no registration shall be renewed,
+unless the motor vehicle has passed a roadworthiness inspection of its safety-critical
+systems. For this purpose:
+
+       a. The LTO shall prescribe uniform inspection standards and procedures for each
+          type of motor vehicle. These shall cover, at the minimum, the brakes, tires and
+          wheels, steering, suspension, lights and signals, seat belts, windshield, wipers,
+          mirrors, horn, and chassis and body structure, and shall include the recording
+          of the odometer reading;
+       b. The inspection shall be conducted by the LTO or by a motor vehicle inspection
+          center authorized by it. An owner may have the motor vehicle inspected at any
+          authorized center in the country, and no owner shall be assigned or restricted
+          to a particular center. The roadworthiness inspection and the emission test shall,
+          as far as practicable, be done in a single visit;
+       c. A brand-new motor vehicle shall be exempt from the roadworthiness
+          inspection during the validity of its initial registration;
+       d. The DOTr shall fix the inspection fee, after public consultation, at a level that
+          covers only the reasonable cost of the service. No fee shall be charged for one
+          (1) reinspection made within thirty (30) days from a failed inspection;
+       e. The motor vehicle must be physically presented for inspection. The result, the
+          findings for each system inspected, and photographic or video proof of the
+          inspection shall be transmitted to the Registry upon completion. The owner of
+          a motor vehicle that fails shall be given the specific findings in writing;
+       f. Where there is no authorized inspection center within a reasonable distance, as
+          determined by the LTO, the inspection shall be conducted by the LTO district
+          office or by a mobile inspection unit under the same standards; and
+       g. This section shall be implemented by area as inspection capacity becomes
+          available, and nationwide not later than twenty-four (24) months from the
+          effectivity of this Act. Until then, the existing inspection and emission testing
+          requirements of the LTO shall continue to apply.
+
+       SEC. 16. Critical Safety Defects and Safety Recalls. –
+
+       a. A service and repair shop or inspection center that finds a critical safety defect
+          shall record the finding in the Registry and shall inform the owner or the
+
+
+                                                                                           7
+           owner's representative in writing before the motor vehicle is released. The
+           owner shall have the defect rectified and the rectification reported by a
+           registered service and repair shop or inspection center within thirty (30) days
+           from the finding. An owner who contests the finding may submit the motor
+           vehicle to the LTO or to any authorized motor vehicle inspection center, whose
+           finding shall prevail. If the defect is neither rectified nor overturned within the
+           period, the vehicle record shall carry an unresolved critical safety defect
+           indicator, and the LTO may, after notice to the owner and pursuant to its
+           authority under Republic Act No. 4136, as amended, require the motor vehicle
+           to undergo a roadworthiness inspection ahead of its next renewal of
+           registration.
+
+       b. The manufacturer, assembler, importer, or distributor that issues a safety recall
+          shall report it to the Registry within five (5) working days from its issuance,
+          shall notify the registered owner of every affected motor vehicle using contact
+          details relayed through the LTO, and shall perform the remedy free of charge
+          regardless of the number of previous owners or of where the motor vehicle has
+          been serviced.
+
+                           CHAPTER V.
+           TRANSPARENCY IN THE SALE OF MOTOR VEHICLES
+
+        SEC. 17. Public Status Check and Plate Scanning. – Any person may, free of
+charge and through a website or mobile application maintained by the LTO, enter the plate
+number or vehicle identification number of a motor vehicle, or scan its plate, and view its
+make, model, year, color, registration status, and safety status indicators under Section 13
+of this Act. For this purpose, the LTO shall incorporate a plate scanning feature in its
+existing official website and mobile application, by which a user may scan the plate number,
+or the machine-readable code on the plate, using the camera of an ordinary mobile device.
+The feature shall be integrated with the existing online systems of the LTO and shall not
+require a separate application. Where the scanned plate does not match the make, model,
+or color recorded in the Registry, the user shall be so informed and may report the
+discrepancy to the LTO through the same facility.
+
+        SEC. 18. Vehicle History Report. – The LTO shall issue, upon request and payment
+of the prescribed fee, a Vehicle History Report containing the information in Section 6 of
+this Act. The report shall bear a unique reference number and a machine-readable code by
+which any person may verify its authenticity and date of issuance against the Registry. A
+Vehicle History Report may be requested by the registered owner or, with the registered
+owner's consent given through the Registry, by a prospective buyer, insurer, or financing
+institution.
+
+
+
+                                                                                            8
+        SEC. 19. Mandatory Disclosure in the Sale of Used Motor Vehicles. – Every seller
+of a used motor vehicle, whether a dealer or a private individual, shall furnish the buyer,
+before the execution of the deed of sale, a Vehicle History Report issued not more than
+fifteen (15) days before the sale. The reference number of the report shall be stated in the
+deed of sale. In addition:
+
+       a. A dealer shall display the reference number or verification code of the Vehicle
+          History Report on every used motor vehicle offered for sale and in every
+          advertisement or online listing of the vehicle;
+       b. A seller who knows of any accident, flood, fire, or structural damage, odometer
+          replacement or irregularity, or critical safety defect that does not appear in the
+          Vehicle History Report shall disclose it to the buyer in writing; and
+       c. Any stipulation waiving the right of the buyer to the report or to the disclosure
+          required under this section, including a sale on an "as is, where is" basis, shall
+          be void as to such waiver.
+
+        SEC. 20. Transfer of Ownership. – The LTO shall not process the transfer of
+registration of a used motor vehicle unless the deed of sale states the reference number of
+a valid Vehicle History Report. The odometer reading at the time of sale shall be declared
+by the seller and the buyer and recorded in the Registry upon transfer.
+
+        SEC. 21. Remedies of the Buyer. – Where the seller fails to furnish a Vehicle
+History Report, furnishes a falsified or altered report, or conceals a fact required to be
+disclosed under Section 19(b) of this Act, the buyer may, within six (6) months from
+delivery of the motor vehicle, either rescind the sale and recover the purchase price with
+legal interest and damages, or retain the vehicle and demand a proportionate reduction of
+the price with damages. These remedies are in addition to those available under the Civil
+Code of the Philippines, Republic Act No. 7394 or the Consumer Act of the Philippines,
+and other laws.
+
+       SEC. 22. Data Privacy and Security. – The processing of personal information
+under this Act shall comply with Republic Act No. 10173, or the Data Privacy Act of 2012.
+For this purpose:
+
+       a. The public status check and the Vehicle History Report shall not disclose the
+          name, address, contact details, or other personal information of any present or
+          previous owner. Previous ownership shall be shown only as the number of
+          owners, the period of each ownership, the classification of use, and the region
+          of registration;
+       b. Information in the Registry shall not be used for commercial solicitation,
+          profiling of individuals, or any purpose other than those stated in this Act;
+       c. Access by law enforcement agencies to personal information in the Registry
+          shall be governed by existing laws and rules;
+
+                                                                                          9
+       d. The LTO shall conduct a privacy impact assessment in consultation with the
+          National Privacy Commission before the Registry becomes operational and
+          every three (3) years thereafter; and
+       e. The LTO shall adopt security measures consistent with standards issued by the
+          Department of Information and Communications Technology (DICT), and
+          shall retain a vehicle record for five (5) years after the motor vehicle is
+          permanently retired, scrapped, or exported.
+
+                                   CHAPTER VI.
+                                 ADMINISTRATION
+
+         SEC. 23. Implementing Agency. – The LTO, under the supervision of the
+Department of Transportation (DOTr), shall be the lead implementing agency of this Act.
+It shall:
+
+       a. Develop, operate, and maintain the Registry and the public website and mobile
+          application;
+       b. Register reporting entities and prescribe the data standards, forms, and
+          procedures for reporting;
+       c. Set the default maintenance schedules and the standards for determining critical
+          safety defects, in consultation with the DTI and the motor vehicle industry;
+       d. Monitor compliance, audit entries, and investigate violations of this Act; and
+       e. Conduct a continuing public information campaign on the use of the Registry.
+
+       SEC. 24. Vehicle Registry Advisory Council. – There is hereby created a Vehicle
+Registry Advisory Council to advise the LTO on the implementation of this Act. It shall
+be chaired by the Secretary of Transportation or a duly authorized representative, with the
+head of the LTO as vice chairperson, and shall have as members one (1) representative
+each from the DTI, the DICT, the National Privacy Commission, the Insurance
+Commission, and the Philippine National Police, and one (1) representative each from the
+following sectors, to be appointed by the Secretary of Transportation from nominees of
+their organizations: motor vehicle manufacturers and importers, motor vehicle dealers
+including used vehicle dealers, independent service and repair shops, motorcycle owners
+and riders, public transport operators, and consumer organizations. Members shall serve
+without additional compensation.
+
+        SEC. 25. Interoperability and Ease of Reporting. – The Registry shall accept
+information through a free web and mobile reporting facility usable on an ordinary
+smartphone, and through direct electronic connection with the systems of reporting
+entities under open technical standards published by the LTO. No reporting entity shall be
+required to purchase any particular software, device, or service from a specified provider
+as a condition for reporting.
+
+
+
+                                                                                        10
+       SEC. 26. Fees. – No fee shall be charged for registration as a reporting entity, for
+reporting to the Registry, for the public status check, or for an owner's access to the owner's
+own vehicle record. The DOTr, upon recommendation of the LTO and after public
+consultation, shall fix a reasonable fee for the Vehicle History Report, which shall not
+exceed the cost of issuing it.
+
+       SEC. 27. Assistance to Micro and Small Enterprises. – The LTO, the DTI, and
+the Technical Education and Skills Development Authority shall provide free orientation
+and training on reporting to service and repair shops that are micro or small enterprises as
+defined under Republic Act No. 6977, as amended, and shall make assisted reporting
+available at LTO offices and other accessible venues in areas with limited internet
+connectivity.
+
+                                CHAPTER VII.
+                       PROHIBITED ACTS AND PENALTIES
+
+       SEC. 28. Prohibited Acts. – The following acts are prohibited:
+
+        a. Resetting, altering, disconnecting, or replacing the odometer of a motor vehicle
+           to misrepresent the distance it has travelled, or selling, installing, or offering any
+           device or service for that purpose. The replacement of a defective odometer
+           shall be reported to the Registry with the readings of both the old and the new
+           unit;
+        b. Submitting to the Registry any false or fictitious entry, including an entry for
+           work or an inspection that was not performed or a false finding of a critical
+           safety defect;
+        c. Forging, altering, or counterfeiting a Vehicle History Report, or knowingly
+           using one;
+        d. Selling a used motor vehicle without furnishing the Vehicle History Report
+           required under Section 19 of this Act, or concealing a fact required to be
+           disclosed under Section 19(b);
+        e. Failing or refusing, as a reporting entity, to submit required information within
+           the period in Section 9 of this Act, or operating a service and repair shop
+           without the registration required under Section 11;
+        f. Charging a motor vehicle owner any fee for reporting to the Registry, or
+           requiring a reporting entity to procure software, a device, or a service from a
+           specified provider in violation of Section 25 of this Act; and
+        g. Accessing, altering, or deleting any vehicle record without authority, or using
+           information from the Registry for a purpose prohibited under Section 22 of this
+           Act.
+
+       SEC. 29. Penalties. – The following penalties shall be imposed:
+
+
+
+                                                                                              11
+        a. For a violation of Section 28(a), a fine of not less than One hundred thousand
+           pesos (₱100,000.00) but not more than Five hundred thousand pesos
+           (₱500,000.00), or imprisonment of not less than six (6) months but not more
+           than three (3) years, or both, at the discretion of the court, for each motor
+           vehicle;
+        b. For a violation of Section 28(b) or (c), a fine of not less than Fifty thousand
+           pesos (₱50,000.00) but not more than Three hundred thousand pesos
+           (₱300,000.00), or imprisonment of not less than six (6) months but not more
+           than two (2) years, or both, at the discretion of the court;
+        c. For a violation of Section 28(d), an administrative fine of not less than Twenty
+           thousand pesos (₱20,000.00) but not more than One hundred thousand pesos
+           (₱100,000.00) if the seller is a private individual, and of not less than One
+           hundred thousand pesos (₱100,000.00) but not more than Five hundred
+           thousand pesos (₱500,000.00) if the seller is a dealer, for each motor vehicle;
+        d. For a violation of Section 28(e), a written warning for the first offense; an
+           administrative fine of not less than Five thousand pesos (₱5,000.00) but not
+           more than Twenty thousand pesos (₱20,000.00) for the second offense; and an
+           administrative fine of not less than Twenty thousand pesos (₱20,000.00) but
+           not more than Fifty thousand pesos (₱50,000.00) and suspension of registration
+           as a reporting entity for the third and subsequent offenses. The fines under this
+           paragraph shall be reduced by one-half (1/2) for micro enterprises;
+        e. For a violation of Section 28(f), an administrative fine of not less than Twenty
+           thousand pesos (₱20,000.00) but not more than One hundred thousand pesos
+           (₱100,000.00); and
+        f. For a violation of Section 28(g), a fine of not less than One hundred thousand
+           pesos (₱100,000.00) but not more than One million pesos (₱1,000,000.00), or
+           imprisonment of not less than one (1) year but not more than three (3) years,
+           or both, at the discretion of the court, without prejudice to prosecution under
+           Republic Act No. 10173 and Republic Act No. 10175, or the Cybercrime
+           Prevention Act of 2012.
+
+        SEC. 30. Liability of Juridical Persons and Public Officers. – If the offender is a
+corporation, partnership, or other juridical entity, the penalty shall be imposed on the
+officers who knowingly authorized or permitted the violation, and the fine shall be imposed
+on the entity. If the offender is a public officer or employee, the maximum penalty shall be
+imposed, in addition to administrative liability and perpetual disqualification from public
+office where warranted.
+
+       SEC. 31. Administrative Sanctions and Due Process. – Administrative fines under
+this Act shall be imposed by the LTO after notice and hearing. The LTO may, in addition,
+recommend to the appropriate agency or local government unit the suspension or
+revocation of the accreditation, authority, or business permit of a dealer, service and repair
+
+
+                                                                                           12
+shop, or inspection center that repeatedly violates this Act. The penalties under this Act
+are without prejudice to civil liability and to prosecution under the Revised Penal Code and
+other laws.
+
+                                CHAPTER VIII.
+                    TRANSITORY AND FINAL PROVISIONS
+
+      SEC. 32. Transitory Provisions. – The following shall govern the initial
+implementation of this Act:
+
+       a. The Registry shall be operational within eighteen (18) months from the
+          effectivity of this Act. The LTO shall publish the date of operation in the
+          Official Gazette and in a newspaper of general circulation;
+       b. Upon the date of operation, the reporting obligations under this Act shall apply
+          to manufacturers, assemblers, importers, distributors, dealers and their service
+          centers, inspection and emission testing centers, insurance companies,
+          mortgagees, and government agencies. They shall apply to all other service and
+          repair shops twelve (12) months after the date of operation, and to those that
+          are micro enterprises twenty-four (24) months after the date of operation;
+       c. The LTO may implement this Act by type of motor vehicle, provided that all
+          motor vehicles, including motorcycles and tricycles, are covered not later than
+          thirty-six (36) months from the effectivity of this Act;
+       d. Sections 19, 20, and 21 of this Act shall apply to sales made six (6) months after
+          the date of operation;
+       e. Existing registration, inspection, and alarm records of the LTO shall be
+          migrated to the Registry. Reporting entities may submit records of events that
+          occurred before the date of operation, which shall be marked as historical; and
+       f. Every vehicle record and Vehicle History Report shall state the date from which
+          reporting for that vehicle became mandatory, and that records before that date
+          may be incomplete.
+
+       SEC. 33. Annual Report and Congressional Oversight. – The LTO shall submit
+to the President and to both Houses of Congress, not later than March 31 of every year, a
+report on the implementation of this Act, including the number of vehicle records,
+compliance by reporting entities, reports issued, violations acted upon, and data security
+incidents. The Committees on Transportation of the House of Representatives and on
+Public Services of the Senate shall exercise oversight over the implementation of this Act.
+
+        SEC. 34. Appropriations. – The amount necessary for the initial implementation
+of this Act shall be charged against the current appropriations of the LTO. Thereafter,
+such sums as may be necessary for its continued implementation shall be included in the
+annual General Appropriations Act.
+
+
+
+                                                                                         13
+        SEC. 35. Implementing Rules and Regulations. – Within ninety (90) days from
+the effectivity of this Act, the DOTr, through the LTO and in consultation with the DTI,
+the DICT, the National Privacy Commission, the Insurance Commission, the Philippine
+National Police, and stakeholders from the sectors named in Section 24 of this Act, shall
+promulgate the rules and regulations necessary for its effective implementation.
+
+       SEC. 36. Separability Clause. – If, for any reason, any provision of this Act, or any
+part thereof, is declared unconstitutional or invalid, the other provisions hereof not
+otherwise affected thereby shall remain in full force and effect.
+
+        SEC. 37. Repealing Clause. – All laws, decrees, orders, rules, and regulations or
+parts thereof inconsistent with this Act are hereby repealed or modified accordingly.
+
+       SEC. 38. Effectivity. – This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in a newspaper of general circulation.
+
+      Approved.
+
+
+
+
+                                                                                         14
+

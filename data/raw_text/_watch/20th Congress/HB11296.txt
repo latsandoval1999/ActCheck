@@ -1,0 +1,628 @@
+                               Republic of the Philippines
+                             HOUSE OF REPRESENTATIVES
+
+                                          Quezon City
+
+                                                                                September 14, 2026
+                                 TWENTIETH CONGRESS                                12:46 pm
+
+                                  Second Regular Session
+
+
+                                                   11296
+                                    House Bill No. _______
+
+   ________________________________________________________________________
+                Introduced by Representative Richard I. Gomez, DPA
+   ________________________________________________________________________
+
+                                   EXPLANATORY NOTE
+
+         The Philippines continues to face high and volatile electricity costs. Households, farms,
+businesses, industries, and local communities remain exposed to imported-fuel price shocks,
+supply disruptions, natural disasters, and constraints in centralized power systems. Renewable
+energy technologies—particularly rooftop and on-site solar, battery storage, micro-hydro,
+biomass, and small wind systems—now allow electricity consumers to produce a substantial part
+of their own requirements. Yet many willing end-users are still discouraged by fragmented permits,
+uncertain interconnection rules, duplicative product requirements, limited financing, and delay in
+the approval and installation of net-metering facilities.
+
+       Republic Act No. 9513, or the Renewable Energy Act of 2008, established net metering
+and other mechanisms for renewable energy development. Republic Act No. 9136, or the Electric
+Power Industry Reform Act of 2001, likewise recognizes the need for reliable, secure, and
+affordable electricity. The next step is to make distributed renewable energy practical and
+accessible not only for households and small businesses, but also for farms, cooperatives,
+communities, large enterprises, and economic-zone locators that seek to generate electricity
+primarily for their own use.
+
+       This bill establishes a coherent national framework for “Sariling Kuryente.” It recognizes
+the right of qualified end-users to install and operate renewable energy systems for self-
+consumption, while preserving legitimate requirements for electrical safety, structural integrity,
+environmental protection, and grid reliability. The measure replaces an obsolete one-size-fits-all
+capacity approach with a connected-load framework: up to two hundred percent (200%) of verified
+connected load for systems without qualifying storage, and up to four hundred percent (400%) for
+systems with adequate energy storage, subject to technical standards.
+
+
+                                                                                                 1
+        The measure also provides a fairer net-metering design. Electricity exported within a
+billing period offsets an equivalent amount of electricity imported on a one-kilowatt-hour-to-one-
+kilowatt-hour basis. Exports beyond the consumer’s imports are credited at the applicable blended
+generation charge. Clear billing, carryover, and limited transfer rules are required, while the
+Energy Regulatory Commission retains authority to prevent double recovery and protect non-
+participating consumers.
+
+        Permitting is simplified through a nationally uniform Unified Solar Permit, a single
+checklist, consolidated notices of deficiency, time-bound action, and a review pathway when a
+local office fails to act. The bill recognizes accredited domestic and international product
+certifications, discourages duplicative testing, establishes stronger post-market surveillance and
+warranty enforcement, and directs the Technical Education and Skills Development Authority to
+build a certified renewable-energy workforce. These safeguards are intended to expand
+deployment without tolerating unsafe equipment or unqualified installers.
+
+         The bill further clarifies ownership of renewable energy certificates, creates financing
+windows subject to applicable fiduciary and public-finance laws, supports solarization of public
+facilities, and directs distribution utilities and system operators to plan for progressively higher
+renewable-energy hosting capacity. Ordinary network upgrades needed to meet approved hosting-
+capacity obligations are treated as utility system investments subject to ERC review, while purely
+applicant-specific facilities are governed by transparent and uniform cost-allocation rules.
+Distribution utilities may not use unsupported claims of grid saturation to defeat an application.
+
+       Finally, the measure strengthens accountability. It prohibits unjustified delay,
+discriminatory requirements, unauthorized charges, falsified records, deceptive sales practices,
+and interference with lawful renewable-energy systems. Affected consumers may claim
+compensation for demonstrable loss of use caused by delay beyond prescribed periods, subject to
+fair exceptions and procedures. An inter-agency coordinating council, assisted by consumer,
+industry, labor, and technical representatives, will address implementation problems and report to
+Congress.
+
+        By allowing Filipinos to produce more of the electricity they use, the State can lower
+exposure to volatile power prices, improve resilience, encourage domestic investment, create
+skilled green jobs, and reduce pressure on the national grid. Sariling Kuryente is therefore both a
+consumer-protection measure and a practical national energy-security strategy.
+
+       In view of the foregoing, the immediate approval of this bill is earnestly sought.
+
+
+
+                                                                    RICHARD I. GOMEZ, DPA
+
+
+
+                                                                                                  2
+                                Republic of the Philippines
+                              HOUSE OF REPRESENTATIVES
+
+                                           Quezon City
+
+
+                                  TWENTIETH CONGRESS
+                                   Second Regular Session
+
+
+                                                   11296
+                                    House Bill No. _______
+
+   ________________________________________________________________________
+                Introduced by Representative Richard I. Gomez, DPA
+   ________________________________________________________________________
+
+                             AN ACT
+ PROMOTING “SARILING KURYENTE” BY RECOGNIZING AND EMPOWERING
+  HOUSEHOLDS, COMMUNITIES, FARMS, ENTERPRISES, ECONOMIC-ZONE
+   LOCATORS, LOCAL GOVERNMENT UNITS, AND OTHER END-USERS TO
+  GENERATE, STORE, AND USE ELECTRICITY FROM RENEWABLE ENERGY
+SOURCES PRIMARILY FOR SELF-CONSUMPTION; ESTABLISHING SIMPLIFIED
+     PERMITTING, INTERCONNECTION, NET-METERING, FINANCING,
+    WORKFORCE-DEVELOPMENT, CONSUMER-PROTECTION, AND GRID-
+       INTEGRATION MECHANISMS; AND FOR OTHER PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+assembled:
+
+                                      CHAPTER I
+                                  GENERAL PROVISIONS
+
+SECTION 1. Short Title.
+       This Act shall be known as the “Sariling Kuryente Act.”
+
+SEC. 2. Declaration of Policy.
+        It is hereby declared the policy of the State to protect and promote access to affordable,
+reliable, sustainable, and secure electricity; reduce exposure to volatile imported-fuel prices and
+external supply disruptions; and advance the development and use of indigenous and renewable
+energy resources.
+
+
+
+
+                                                                                                 3
+        The State shall empower private citizens, households, communities, farms, cooperatives,
+enterprises of all sizes, economic-zone locators, local government units, and other end-users to
+generate, store, and use electricity primarily for their own consumption. It shall remove
+unnecessary regulatory, bureaucratic, technical, and financial barriers while preserving reasonable
+standards for public safety, consumer protection, environmental protection, and grid reliability.
+
+SEC. 3. Objectives.
+       The objectives of this Act are to:
+
+       a. reduce electricity costs and exposure to price volatility through lawful self-generation;
+       b. expand access to distributed renewable energy and energy storage for residential,
+       agricultural, commercial, industrial, institutional, and public uses;
+       c. establish clear, uniform, proportionate, and time-bound permitting and interconnection
+       requirements;
+       d. provide fair and transparent compensation for electricity exported to the distribution
+       system;
+       e. develop a technically competent and certified Filipino renewable-energy workforce and
+       create green employment and livelihood opportunities;
+       f. improve grid resilience and hosting capacity for distributed generation; and
+       g. protect consumers against unsafe equipment, unqualified installers, deceptive practices,
+       discriminatory treatment, and unjustified delay.
+
+SEC. 4. Scope and Application.
+       This Act shall apply to qualified end-users and distributed renewable energy systems
+located within the Philippines, whether grid-connected or off-grid, including systems installed in
+residences, farms, commercial and industrial premises, economic zones, common areas, public
+buildings, and community facilities.
+
+       This Act covers planning, financing, installation, ownership, leasing, operation,
+maintenance, upgrading, storage, interconnection, metering, and the lawful export or crediting of
+surplus electricity. It shall not apply to a generation facility constructed or operated primarily for
+wholesale commercial sale, participation as a merchant generator in the wholesale electricity spot
+market, or public-utility service without the franchise, license, or authority required by law.
+
+SEC. 5. Definition of Terms.
+       For purposes of this Act:
+
+       a. “Blended generation charge” means the distribution utility’s average generation charge
+       for the relevant billing period, calculated under a uniform methodology approved by the
+
+
+                                                                                                      4
+Energy Regulatory Commission (ERC), excluding transmission, distribution, system-loss,
+subsidy, tax, and other non-generation charges.
+b. “Connected load” means the total rated electrical load of the host installation connected
+or authorized to be connected at the applicable point of connection, as verified under
+standards prescribed by the Department of Energy (DOE) and the ERC.
+c. “Dedicated connection facilities” means facilities used solely to connect a particular
+qualified system and which do not provide a material capacity, reliability, or service benefit
+to other grid users.
+d. “Distributed renewable energy system” means a renewable-energy generation facility,
+with or without energy storage, installed at or near the point of use and intended primarily
+to serve the host installation’s own electricity requirements.
+e. “Distribution utility” or “DU” has the meaning assigned under Republic Act No. 9136
+and includes an electric cooperative performing distribution functions.
+f. “Energy storage system” means equipment capable of receiving, storing, and
+subsequently delivering electrical energy, and which complies with applicable safety,
+performance, and interconnection standards.
+g. “Hosting capacity” means the amount of distributed energy resources that may be
+interconnected with a feeder, substation, or system without exceeding applicable safety,
+power-quality, protection, and reliability limits, taking into account feasible operational
+controls and approved upgrades.
+h. “Qualified end-user” means a natural or juridical person, household, homeowners’
+association, condominium corporation, farm, cooperative, community organization,
+indigenous cultural community, local institution, enterprise, economic-zone locator, local
+government unit, or government entity that owns, leases, controls, or intends to use a
+qualified system primarily for self-consumption.
+i. “Qualified system” means a distributed renewable energy system covered by this Act
+that satisfies the capacity, equipment, permitting, safety, metering, and interconnection
+requirements applicable to it.
+j. “Renewable Energy Certificate” or “REC” means the certificate representing the
+renewable and environmental attributes of renewable electricity, as recognized under
+Republic Act No. 9513 and applicable rules.
+k. “Self-powered consumer” means a qualified end-user that generates renewable
+electricity primarily for its own electricity requirements, whether or not connected to a
+distribution system and whether or not it exports surplus electricity.
+l. “Unified Solar Permit” means the nationally standardized and consolidated local
+authorization established under Section 11 of this Act for qualified rooftop or on-site solar
+and associated energy-storage installations.
+
+
+
+                                                                                            5
+SEC. 6. Right to Renewable-Energy Self-Generation.
+        A qualified end-user may install, own, lease, operate, maintain, and upgrade a qualified
+system for self-consumption and may store, export, credit, assign, or otherwise use surplus
+electricity only in the manner allowed by this Act and other applicable laws and rules. No franchise
+shall be required solely for self-generation and authorized export under an ERC-approved net-
+metering or distributed-energy arrangement.
+
+        The exercise of this right shall remain subject to lawful requirements concerning electrical
+and structural safety, professional practice, fire safety, environmental protection, metering, grid
+interconnection, and reliability. Such requirements shall be proportionate to the size, technology,
+location, and demonstrated risk of the installation and shall not be used as a disguised prohibition
+against self-generation.
+
+SEC. 7. Capacity Thresholds.
+       The nameplate capacity of a qualified system shall not exceed:
+
+       a. two hundred percent (200%) of the verified connected load of the host installation where
+       the system is not coupled with a qualifying energy storage system; or
+       b. four hundred percent (400%) of the verified connected load of the host installation where
+       the system is coupled with a qualifying energy storage system of sufficient capacity and
+       capability under DOE and ERC standards.
+        For an off-grid host installation, the connected load shall be determined from the certified
+as-built load schedule and reasonably anticipated demand. Connected load shall not be inflated for
+the purpose of evading this Section. The DOE and ERC shall prescribe measurement,
+documentation, anti-gaming, storage-performance, protection, export-control, and verification
+requirements.
+
+        Export, storage, sharing, crediting, or sale of surplus electricity under an authorized
+arrangement shall not by itself change the system’s self-consumption character. Notwithstanding
+a lower capacity limit in an administrative issuance, participation in net metering under this Act
+shall be governed by the thresholds in this Section, subject to technical screening and system-
+safety requirements.
+
+                             CHAPTER II
+       PERMITTING, INTERCONNECTION, AND MARKET PARTICIPATION
+
+SEC. 8. Simplified Interconnection and Net-Metering Process.
+      The ERC, in coordination with the DOE, the National Electrification Administration
+(NEA), and stakeholders, shall establish a single national interconnection and net-metering
+
+
+
+                                                                                                  6
+application, a uniform documentary checklist, transparent fees, standardized agreements, risk-
+based technical screens, and electronic filing and tracking.
+
+        Within five (5) working days from receipt, the DU shall either acknowledge completeness
+or issue one consolidated written notice identifying each deficiency and its legal or technical basis.
+A complete standard application that passes the applicable technical screen shall be acted upon
+within fifteen (15) working days. A non-standard application requiring a detailed study shall be
+finally acted upon within sixty (60) calendar days, unless a longer period is justified by
+extraordinary technical complexity and approved by the ERC.
+
+        A denial or condition of approval shall be written, supported by system-specific data, and
+accompanied by the least-cost technically feasible corrective option. Unsupported statements of
+grid saturation, transformer limitation, or hosting-capacity exhaustion shall not constitute
+sufficient grounds for denial.
+
+SEC. 9. Fair Net-Metering and Energy Credits.
+        A self-powered consumer participating in net metering shall receive a one (1) kilowatt-
+hour to one (1) kilowatt-hour offset for electricity exported to and electricity imported from the
+distribution system within the same billing period, up to the quantity imported during that period.
+Charges that are fixed, non-bypassable, or not avoided by self-generation may continue to be
+imposed as determined by the ERC.
+
+        Exports exceeding imports during the billing period shall be recorded as excess energy
+credits valued at the applicable blended generation charge. Credits shall be carried forward. At the
+consumer’s option and subject to ERC rules, unused credits may be carried into the succeeding
+calendar year or transferred to another eligible service account of the same consumer or a
+designated beneficiary within the same DU service area, provided that metering, verification,
+consumer-protection, and anti-fraud requirements are satisfied.
+
+       The electricity bill shall separately state electricity imported, electricity exported, the one-
+to-one offset, excess exports credited at the blended generation charge, fixed and non-bypassable
+charges, credits applied, and the remaining credit balance. The ERC shall adopt safeguards against
+double recovery, hidden cross-subsidies, discriminatory charges, and impairment of valid credits.
+
+SEC. 10. Ownership of Renewable Energy Certificates.
+        The owner of a qualified system shall own the RECs and other separable environmental
+attributes arising from electricity generated by that system, whether consumed on-site or lawfully
+exported, unless expressly assigned through a written agreement. A DU shall not acquire such
+attributes merely by reason of its franchise, interconnection, or the crediting of exported electricity.
+
+
+
+
+                                                                                                      7
+         The DOE, ERC, and the renewable-energy market operator shall establish accessible
+registration, aggregation, issuance, transfer, and trading procedures for small and distributed
+systems. No REC shall be issued, transferred, retired, or claimed more than once, and receipt of a
+tariff, subsidy, or other benefit shall be disclosed and treated consistently with applicable
+additionality and market rules.
+
+SEC. 11. Unified Solar Permit.
+         The DOE, jointly with the Department of the Interior and Local Government (DILG),
+Bureau of Fire Protection (BFP), Department of Public Works and Highways (DPWH), ERC, and
+other relevant agencies, shall establish a nationally uniform Unified Solar Permit for qualified
+rooftop and on-site solar photovoltaic systems and associated energy storage. The permit shall
+consolidate local applications, clearances, inspections, and documentary requirements to the
+fullest extent permitted by law.
+
+        The national checklist shall constitute the minimum and maximum local documentary
+requirements, except for an additional requirement expressly authorized by law and justified in
+writing by a site-specific structural, electrical, fire-safety, environmental, or other material public-
+safety concern. A local government unit (LGU) shall not require an applicant to remedy an
+unrelated historical deficiency in the building or property merely because a renewable-energy
+system is proposed, unless the deficiency creates a demonstrable material risk directly affected by
+the installation.
+
+        A complete standard application shall be acted upon within fifteen (15) working days. Any
+deficiency shall be communicated once, in a consolidated written notice, within five (5) working
+days from receipt. Substantially identical documents shall not be demanded by multiple local
+offices. Fees shall be reasonable, published, cost-based, and limited to those authorized by law.
+
+SEC. 12. Failure to Act and Review.
+       For a low-risk standard installation that is supported by plans and certifications signed by
+the professionals required by law, failure of the LGU to issue a decision or a timely deficiency
+notice within the period prescribed in Section 11 shall constitute deemed approval for local
+administrative purposes, without waiving electrical, fire-safety, professional, environmental, or
+DU interconnection requirements imposed by national law.
+
+        For any other installation, or where an LGU refuses to recognize deemed approval, the
+applicant may seek expedited review from a DOE-DILG Renewable Energy Permitting Desk. The
+Desk shall resolve the matter within ten (10) working days, may direct the LGU to act, and may
+certify compliance with the national documentary requirements. The DILG shall maintain a
+complaint and compliance mechanism and may pursue administrative action for repeated
+imposition of unauthorized requirements.
+
+
+                                                                                                      8
+SEC. 13. Equipment Standards, Market Access, and Consumer Protection.
+        The Department of Trade and Industry (DTI), through the Bureau of Philippine Standards,
+shall implement a risk-based and technology-neutral conformity-assessment and market-
+surveillance framework for renewable-energy and energy-storage equipment.
+
+        Valid test reports and certificates issued by competent domestic or foreign bodies
+accredited under internationally recognized arrangements shall be recognized as evidence of
+compliance with applicable Philippine National Standards or equivalent safety and performance
+requirements. Duplicative testing shall not be required unless justified by a documented risk
+assessment, credible evidence of non-compliance, or a mandatory requirement that cannot lawfully
+be satisfied through recognition of such evidence.
+
+        Nothing in this Act shall automatically exempt a product from a PS Mark, Import
+Commodity Clearance, or other certification validly made mandatory by law. The DTI shall,
+however, simplify and expedite compliance, recognize appropriate international standards where
+a current Philippine standard is unavailable, and establish a Green Lane for complete applications.
+
+        Manufacturers, importers, distributors, dealers, and sellers shall honor warranties and
+truthful performance representations. The DTI shall maintain complaint, recall, corrective-action,
+and enforcement mechanisms and shall strengthen post-market inspection and testing of unsafe,
+defective, falsely represented, or materially non-compliant products.
+
+SEC. 14. Customs Facilitation.
+       The Bureau of Customs (BOC), in coordination with the DOE and DTI, shall establish
+Green Lanes and risk-based expedited procedures for renewable-energy and energy-storage
+equipment supported by complete import and conformity documents. Facilitation under this
+Section shall not exempt payment of lawful duties and taxes or compliance with customs, safety,
+consumer-protection, and anti-smuggling laws.
+
+                             CHAPTER III
+       INSTITUTIONAL SUPPORT, FINANCING, AND GRID DEVELOPMENT
+
+SEC. 15. Renewable-Energy Workforce Development.
+        The Technical Education and Skills Development Authority (TESDA), in consultation
+with the DOE, Professional Regulation Commission (PRC), Board of Electrical Engineering,
+Department of Labor and Employment (DOLE), industry, labor, training institutions, LGUs, and
+consumer organizations, shall establish and regularly update nationwide competency standards
+and training regulations for distributed renewable-energy and storage-system installation,
+commissioning, inspection, testing, operation, maintenance, troubleshooting, and occupational
+safety.
+
+
+                                                                                                 9
+       A person performing regulated electrical or engineering work shall possess the license
+required by law. For work not reserved exclusively to a licensed professional, the installer or
+technician shall hold the applicable TESDA National Certificate or Certificate of Competency.
+Nothing in this Act authorizes a person to perform an act reserved by law to a licensed professional.
+
+        TESDA shall provide recognition-of-prior-learning pathways, regional and mobile
+training, scholarships and assessment support, industry apprenticeships, and employment or
+livelihood linkages, with priority for out-of-school youth, unemployed and underemployed
+persons, returning overseas Filipino workers, displaced workers, rural communities, and island
+communities. It shall establish or integrate a publicly accessible registry of certified renewable-
+energy installers and technicians, subject to data-privacy laws.
+
+SEC. 16. Financing and Lawful Incentives.
+       Subject to their respective charters, fiduciary duties, actuarial requirements, credit
+standards, applicable laws, and availability of funds:
+
+        a. the DOE may use legally available portions of the Renewable Energy Trust Fund for
+        technical assistance, capacity building, project preparation, guarantees, or grants for
+        eligible LGU and community renewable-energy projects consistent with Republic Act No.
+        9513;
+        b. the Social Security System (SSS) and Government Service Insurance System (GSIS)
+        may establish affordable green-loan programs for qualified members;
+        c. the Land Bank of the Philippines and Development Bank of the Philippines shall
+        establish or expand financing windows, guarantees, credit enhancements, and technical-
+        assistance facilities for households, farms, cooperatives, communities, enterprises,
+        economic-zone locators, LGUs, and public institutions; and
+        d. programs may receive appropriations, grants, concessional finance, official development
+        assistance, climate finance, green bonds, carbon finance, and other lawful sources.
+        A self-generation installation shall not, by itself, cause the reclassification of a residential,
+agricultural, commercial, or industrial property or the imposition of a new local tax, fee, or
+surcharge not otherwise authorized by law. Existing tax treatment and renewable-energy
+incentives under Republic Act No. 9513, the Local Government Code, and other laws shall
+continue to apply.
+
+SEC. 17. Public, Community, Agricultural, and Indigenous Energy Projects.
+        LGUs and national government agencies may solarize or install other qualified systems in
+public schools, markets, transport terminals, health facilities, hospitals, evacuation centers,
+government offices, water systems, irrigation and post-harvest facilities, and other public or
+community infrastructure, subject to procurement, budgeting, accounting, auditing, and technical-
+safety laws.
+
+                                                                                                      10
+       The DOE, Cooperative Development Authority (CDA), Department of Human Settlements
+and Development (DHSUD), Department of Agriculture (DA), National Commission on
+Indigenous Peoples (NCIP), and other relevant agencies shall develop model governance,
+financing, metering, benefit-sharing, operation, and maintenance arrangements for homeowners’
+associations, condominiums, cooperatives, farmers’ organizations, community projects, and
+indigenous cultural communities. Projects affecting indigenous peoples shall comply with
+Republic Act No. 8371 and respect customary governance and free, prior, and informed consent
+where required.
+
+SEC. 18. Grid Hosting Capacity and Modernization.
+       The DOE and ERC shall establish staged national and system-specific targets toward the
+capability to accommodate variable renewable-energy penetration of up to seventy percent (70%),
+where technically and economically feasible. The target is a planning and modernization objective
+and shall not be construed as authority to compromise public safety, power quality, protection
+coordination, or reliability.
+
+        DUs, National Transmission Corporation (TransCo), and the system operator, as
+applicable, shall regularly conduct and publish appropriately aggregated hosting-capacity studies
+and shall include cost-effective smart-grid systems, protection upgrades, voltage control,
+bidirectional metering, energy storage, and other enabling investments in their development and
+capital-expenditure plans. The ERC shall adopt performance standards and require transparent,
+system-specific evidence for any interconnection restriction.
+
+SEC. 19. Allocation of Interconnection and Upgrade Costs.
+        A qualified end-user shall not be charged for an ordinary network reinforcement,
+transformer upgrade, protection modernization, or other improvement that is required to meet a
+DU’s approved hosting-capacity obligation or that materially benefits other grid users. Such
+investment may be included in an ERC-approved capital-expenditure program only upon proof of
+prudence, necessity, least cost, and consumer benefit.
+
+        The applicant may be charged for dedicated connection facilities and the reasonable
+incremental cost caused solely by the particular installation, pursuant to a uniform ERC-approved
+methodology and published schedule. The DU shall disclose the engineering basis, itemized cost,
+ownership, useful life, and any future reimbursement or cost-sharing mechanism. No upgrade
+charge shall be imposed on the basis of an unsupported or generalized assertion of transformer or
+feeder limitation.
+
+SEC. 20. Inter-Agency Coordinating Council.
+       There is hereby created an Inter-Agency Coordinating Council on Sariling Kuryente
+chaired by the Secretary of Energy, with representatives from the ERC, DTI, DILG, DPWH, BFP,
+BOC, TESDA, PRC, DOLE, Department of Finance (DOF), Department of Budget and
+                                                                                              11
+Management (DBM), NEA, CDA, DHSUD, DA, NCIP, Board of Investments, Philippine
+Economic Zone Authority, Land Bank of the Philippines, Development Bank of the Philippines,
+and other agencies necessary to implement this Act.
+
+         The Council shall include, as non-voting advisory members selected through transparent
+criteria, representatives of residential and business consumers, electric cooperatives and other
+DUs, renewable-energy developers and installers, professional and labor organizations, financing
+institutions, academe, environmental and civil-society organizations, indigenous peoples, and
+other affected sectors. No specific private organization shall be guaranteed a permanent seat.
+
+       The Council shall coordinate policy, resolve implementation bottlenecks, monitor agency
+and LGU compliance, publish annual performance data, and submit an annual report to the
+President and Congress.
+
+SEC. 21. Education, Technical Assistance, and Consumer Protection.
+        The DOE, in coordination with relevant agencies and stakeholders, shall provide plain-
+language information on system selection, safety, warranties, financing, permits, interconnection,
+billing, credits, RECs, complaints, and dispute resolution. Programs shall be accessible to
+households, Homeowners Associations (HOAs), farms, Micro, Small, and Medium Enterprises
+(MSMEs), large enterprises, economic-zone locators, LGUs, public institutions, indigenous
+communities, and other qualified end-users.
+
+        No seller, installer, financier, lessor, aggregator, DU, or other person shall engage in
+deceptive, fraudulent, coercive, or materially misleading advertising, pricing, performance claims,
+financing terms, billing, or contractual practices. Standard contracts shall clearly disclose total
+cost, expected performance assumptions, warranties, maintenance obligations, financing charges,
+ownership of equipment and RECs, interconnection risks, and complaint mechanisms.
+
+                               CHAPTER IV
+           PROHIBITED ACTS, ENFORCEMENT, AND ACCOUNTABILITY
+
+SEC. 22. Prohibited Acts.
+       The following acts are prohibited:
+
+       a. unreasonably refusing, delaying, obstructing, or imposing an unsupported condition
+       upon a qualified permit, interconnection, inspection, meter, or net-metering application;
+       b. imposing discriminatory, duplicative, unpublished, or unauthorized requirements,
+       charges, standby fees, minimum-consumption requirements, or penalties;
+       c. using anti-competitive conduct to restrict lawful self-generation, authorized aggregation,
+       energy sharing, or export;
+
+
+                                                                                                 12
+       d. tampering with, damaging, disconnecting, or interfering with an authorized system,
+       meter, storage facility, or associated equipment without lawful authority;
+       e. falsifying applications, permits, certifications, metering data, production records, billing
+       records, or conformity documents;
+       f. misappropriating RECs, credits, grants, tax incentives, or other benefits;
+       g. selling, installing, or representing equipment or services through a materially false,
+       fraudulent, unsafe, or deceptive claim; and
+       h. retaliating against an applicant or consumer for filing a lawful complaint or asserting a
+       right under this Act.
+
+SEC. 23. Enforcement and Administrative Penalties.
+       The ERC shall have jurisdiction over violations by DUs, retail electricity suppliers,
+metering service providers, and other entities within its regulatory authority. The DOE, DTI,
+DILG, PRC, TESDA, BOC, and other agencies shall enforce matters within their respective
+mandates. Proceedings shall observe notice and opportunity to be heard.
+
+        A responsible regulated entity or juridical person may be ordered to cease and desist,
+process or correct an application, refund or credit an unlawful charge, restore a right or service,
+replace or recall unsafe equipment, submit to compliance monitoring, and pay an administrative
+fine of not less than One hundred thousand pesos (P100,000.00) but not more than Five million
+pesos (P5,000,000.00) for each violation. A continuing violation after receipt of a final lawful
+compliance order may be fined up to Ten thousand pesos (P10,000.00) for each day, subject to an
+aggregate administrative cap of Ten million pesos (P10,000,000.00) for the same continuing act.
+
+        The responsible officers of a juridical entity shall be administratively liable only upon proof
+of their direct participation, authorization, gross negligence, or knowing failure to prevent or
+correct the violation. A public officer or employee who willfully violates this Act shall be subject
+to applicable civil-service, administrative, anti-graft, and other laws. Fraud, falsification, theft,
+tampering, smuggling, and other criminal acts shall be prosecuted under applicable penal laws.
+Remedies under this Section are without prejudice to other civil, criminal, or administrative
+remedies, but double recovery for the same injury shall not be allowed.
+
+SEC. 24. Compensation for Loss of Use Due to Unjustified Delay.
+        When a DU, LGU, permitting authority, or other responsible entity unjustifiably fails to
+act on a complete application within the period prescribed by this Act, and final action has not
+been taken within sixty (60) calendar days from receipt of the complete application, the affected
+consumer may claim compensation beginning on the sixty-first (61st) day for the demonstrable
+loss of use attributable to the delay.
+
+
+
+
+                                                                                                    13
+        Compensation shall equal the reasonable value of electricity that the qualified system
+would have produced and the consumer would have used to avoid electricity purchases, plus the
+value of exports that would have qualified for credit, during the compensable period. Avoided
+consumption shall be valued at the ERC-determined avoidable retail rate; eligible exports shall be
+valued under the applicable net-metering or crediting mechanism. Estimated production shall use
+the approved or as-built capacity, location, orientation, equipment specifications, publicly
+available resource data, and standardized system-loss assumptions. The ERC shall prescribe a
+simplified method for residential and small systems and shall prevent double recovery.
+
+         No compensation shall accrue for a period directly and materially caused by an incomplete
+application timely identified in writing, the applicant’s act or requested material modification,
+force majeure, a documented and bona fide safety or reliability threat, or a lawful court or agency
+order. Administrative backlog, internal routing, lack of coordination, or failure to schedule an
+inspection shall not by itself excuse delay. Payment shall be made within thirty (30) calendar days
+after final determination and may be credited to the consumer’s bill when the liable entity is a DU.
+
+SEC. 25. Reports and Congressional Oversight.
+       The DOE and ERC shall maintain public dashboards showing application volumes,
+processing times, approvals and denials, reasons for denial, installed capacity, exports, credits,
+complaints, enforcement, workforce certifications, hosting-capacity indicators, and consumer
+impacts, while protecting personal and commercially sensitive information.
+
+       The Joint Congressional Energy Commission created under Republic Act No. 9136 shall
+exercise oversight over implementation of this Act. The Inter-Agency Coordinating Council shall
+submit its first report within one (1) year from effectivity and annually thereafter.
+
+                                        CHAPTER V
+                                     FINAL PROVISIONS
+
+SEC. 26. Appropriations.
+       The amounts necessary for initial implementation shall be charged against the current
+appropriations of the concerned agencies, subject to existing budgeting, accounting, and auditing
+laws. Thereafter, such sums as may be necessary shall be included in the annual General
+Appropriations Act.
+
+SEC. 27. Implementing Rules and Regulations.
+       Within ninety (90) days from the effectivity of this Act, the DOE, in coordination with the
+ERC and all concerned agencies, and after public consultation, shall promulgate the implementing
+rules and regulations. Failure to issue the rules within the prescribed period shall not suspend
+provisions of this Act that are complete and capable of implementation without such rules.
+
+
+                                                                                                 14
+SEC. 28. Separability Clause.
+        If any provision of this Act is declared unconstitutional or invalid, the remaining provisions
+not affected thereby shall remain in full force and effect.
+
+SEC. 29. Repealing Clause.
+        All laws, decrees, executive orders, administrative issuances, rules and regulations, or parts
+thereof inconsistent with this Act are hereby repealed, amended, or modified accordingly.
+
+SEC. 30. Effectivity.
+       This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in
+a newspaper of general circulation.
+
+
+
+       Approved,
+
+
+
+
+                                                                                                    15
+
