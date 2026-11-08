@@ -23,6 +23,14 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 sys.path.insert(0, str(ROOT / "app"))
 
+# Streamlit re-runs this file but keeps imported helper modules in memory; when new code is deployed,
+# drop the project's modules so every page uses the current version.
+_code_stamp = max(p.stat().st_mtime for d in ("app", "agents", "pipeline") for p in (ROOT / d).glob("*.py"))
+if getattr(sys, "_actcheck_stamp", None) != _code_stamp:
+    for _m in [m for m in sys.modules if m.split(".")[0] in ("agents", "pipeline", "ui", "render", "howitworks")]:
+        del sys.modules[_m]
+    sys._actcheck_stamp = _code_stamp
+
 from agents import llm, store, documents as docs  # noqa: E402
 from agents.names import APP_NAME, AGENT1, AGENT2, AGENT3  # noqa: E402
 from pipeline import catalogue, typology  # noqa: E402
