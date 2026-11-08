@@ -1,6 +1,6 @@
 name: daily-watch
-# ActCheck / TrAIce monitoring: every day at 06:17 Manila time (22:17 UTC), look for newly filed bills,
-# screen them, read them (OCR if scanned), rebuild the corpus and commit the results.
+# ActCheck / TrAIce monitoring: every day at 06:17 Manila time (22:17 UTC), refresh the bill list, look for
+# newly filed House and Senate bills, read them (OCR if scanned), rebuild the corpus and commit the results.
 on:
   schedule:
     - cron: "17 22 * * *"
@@ -22,7 +22,13 @@ jobs:
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr
           pip install pandas scikit-learn anthropic
-      - name: Check for new bills
+      - name: Refresh the bill list from Open Congress Data (BetterGov.PH, CC0)
+        continue-on-error: true
+        run: |
+          git clone -q --depth 1 --filter=blob:none --sparse https://github.com/bettergovph/open-congress-data /tmp/occ
+          git -C /tmp/occ sparse-checkout set data/document/hb data/document/sb
+          python -m pipeline.build_indexes --open-congress /tmp/occ
+      - name: Check for new bills (House PDF server, Senate listing)
         run: python -m pipeline.watch
       - name: Rebuild corpus
         run: python -m pipeline.build_corpus

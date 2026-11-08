@@ -40,3 +40,6 @@ Human gate: the memo and letter steps were NOT run, because the red-teamer recom
 
 ## Naming (8 Nov 2026)
 Portal renamed ActCheck; agents renamed TrAIce (P1), CompAIre (P2) and AppraisAI (P3). Prompts now open with the agent's name; no change to rules or checks.
+
+## Scope and portal v2 (8 Nov 2026)
+Scope widened: the portal lists every House and Senate bill (Open Congress Data + Senate website listing + daily check); agents remain tested on the pilot scope (bills creating a national agency). Senate route moved to the new senate.gov.ph listing feed. Portal redesigned (Home, Bills, Review workspace, Ask ActCheck, Library, Run log, About) with a prototype notice on every page.

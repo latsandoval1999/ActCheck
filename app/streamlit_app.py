@@ -1,16 +1,20 @@
-"""Reviewer portal for preliminary review of bills that create a government entity.
+"""ActCheck reviewer portal: every House and Senate bill, with AI-assisted preliminary review.
 
     streamlit run app/streamlit_app.py
 
-Pages: Inbox (new measures found by the daily watcher + every bill in the corpus) ->
-Bill workspace (one-click full review; Evidence, Comparison, Appraisal, Comments & report,
-Memo & letter) -> Ask about this bill (grounded chat) -> Library -> Run log -> About.
+Pages: Home (daily check, headline numbers) -> Bills (every bill, filters, open one) ->
+Review workspace (one-click review; TrAIce, CompAIre, AppraisAI tabs; comments, report, memo and
+letter) -> Ask ActCheck (grounded chat) -> Library -> Run log -> About.
+
+Scope: every bill is listed. The agents are tuned and tested on the pilot scope (bills that create a
+national government entity); other bills with full text can be reviewed experimentally.
 
 Without an API key every rules-only part works, and each agent can be run through the free
 route: download its prompt, run it in a Claude chat, paste the reply back to check and save it.
 """
 import json
 import sys
+from html import escape
 from pathlib import Path
 
 import pandas as pd
@@ -18,15 +22,26 @@ import streamlit as st
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
+sys.path.insert(0, str(ROOT / "app"))
 
 from agents import llm, store  # noqa: E402
-from pipeline.compare import load, related_bills  # noqa: E402
-
 from agents.names import APP_NAME, APP_TAGLINE, AGENT1, AGENT2, AGENT3  # noqa: E402
+from pipeline import catalogue  # noqa: E402
+from pipeline.compare import load, related_bills  # noqa: E402
+import ui  # noqa: E402
+
 LABEL = "AI-assisted preliminary draft for DBM reviewer validation. Not an official position."
-st.set_page_config(page_title=APP_NAME, page_icon="📜", layout="wide")
+PILOT = "Creates a national agency (pilot)"
+st.set_page_config(page_title=f"{APP_NAME} · Bill monitoring and preliminary review", page_icon="⚖️", layout="wide",
+                   initial_sidebar_state="collapsed")
+ui.inject()
 bills, secs = load()
-PAGES = ["Inbox", "Bill workspace", "Ask about this bill", "Library", "Run log", "About & governance"]
+PAGES = ["Home", "Bills", "Review workspace", "Ask ActCheck", "Library", "Run log", "About"]
+
+
+@st.cache_data(show_spinner="Loading the bill list...")
+def bill_table(stamp):
+    return pd.DataFrame(catalogue.build(stamp))
 
 
 # ---------------- helpers ----------------
@@ -48,9 +63,11 @@ def check_table(checks):
         (st.error if bad else st.success)(f"{len(df) - bad} of {len(df)} citations verified against the source text.")
 
 
-def pick(df, key):
-    """Single-row selection from a dataframe; returns the row index or None."""
-    ev = st.dataframe(df, use_container_width=True, hide_index=True, on_select="rerun", selection_mode="single-row", key=key)
+def pick(df, key, column_config=None, height=None):
+    """Single-row selection from a dataframe; returns the row position or None."""
+    kw = {"height": height} if height else {}
+    ev = st.dataframe(df, use_container_width=True, hide_index=True, on_select="rerun", selection_mode="single-row",
+                      key=key, column_config=column_config, **kw)
     rows = ev.selection.rows if ev and hasattr(ev, "selection") else []
     return rows[0] if rows else None
 
@@ -77,16 +94,6 @@ def free_route(key, prompt_fn, on_reply, json_reply=True):
                 st.error(f"Could not read the reply: {e}")
 
 
-def reviewable():
-    return sorted([b for b in bills.values() if b["chamber"] in ("HB", "SB")],
-                  key=lambda b: (-(int(b["congress"] or 0)), b["chamber"], int(b["id"].split("-")[2])))
-
-
-def inbox_items():
-    p = ROOT / "data" / "watch" / "inbox.json"
-    return json.loads(p.read_text()) if p.exists() else []
-
-
 def pick_reference(bid, research_out):
     order = ("consolidated", "counterpart", "near-copy", "earlier version", "competing")
     if research_out:
@@ -98,101 +105,217 @@ def pick_reference(bid, research_out):
     return rel[0]["id"] if rel else None
 
 
-# ---------------- sidebar ----------------
+def watch_state():
+    p = ROOT / "data" / "watch" / "state.json"
+    return json.loads(p.read_text()) if p.exists() else {}
+
+
+def bill_badges(row):
+    items = [(f"{row['chamber']} · {row['congress']}th Congress", "navy")]
+    items.append((row["scope"], "pilot" if row["scope"] == PILOT else ""))
+    items.append((row["text"], "good" if row["text"] == "Full text" else ""))
+    if row.get("status"):
+        items.append((row["status"], ""))
+    ui.badges(items)
+
+
+TABLE_COLS = {"label": "Bill", "congress": "Congress", "date_filed": "Filed", "title_show": "Title", "status": "Status",
+              "scope": "Scope", "text": "Text", "source_url": "Source"}
+TABLE_CFG = {
+    "Source": st.column_config.LinkColumn("Source", display_text="Open", width="small"),
+    "Title": st.column_config.TextColumn("Title", width="large"),
+    "Bill": st.column_config.TextColumn("Bill", width="small"),
+    "Congress": st.column_config.TextColumn("Congress", width="small"),
+}
+
+
+def show_table(df):
+    t = df.assign(title_show=df["short_title"].where(df["short_title"].astype(bool), df["title"]).str.slice(0, 220))
+    return t[list(TABLE_COLS)].rename(columns=TABLE_COLS)
+
+
+def bill_panel(row):
+    """Details of one selected bill, with the next action."""
+    with st.container(border=True):
+        st.markdown(f"#### {escape(row['label'])} · {row['congress']}th Congress")
+        bill_badges(row)
+        ui.html(f'<div class="ac-billtitle">{escape(row["title"] or row["short_title"] or "(title not yet available)")}</div>')
+        meta = [("Filed", row["date_filed"]), ("Committee", row["committee"]), ("Author", row["author"]),
+                ("Listed from", row["source"])]
+        st.caption(" · ".join(f"{k}: {v}" for k, v in meta if v))
+        c1, c2 = st.columns([1, 1])
+        if row["reviewable"]:
+            if c1.button("Open review workspace", type="primary", key=f"open_{row['id']}"):
+                go("Review workspace", row["id"])
+            if row["scope"] != PILOT:
+                st.caption("Outside the pilot scope: the agents can run, but they are tuned for bills that create a national agency.")
+        else:
+            c1.button("Open review workspace", disabled=True, key=f"open_{row['id']}",
+                      help="The full text of this bill is not yet in ActCheck.")
+            st.caption("The bill's full text is not yet in ActCheck. The daily check downloads new bills automatically; "
+                       "older ones can be added with the downloader (see README).")
+        if row["source_url"]:
+            c2.link_button("View source document", row["source_url"])
+
+
+# ---------------- sidebar (reviewer settings) ----------------
 if "_goto" in st.session_state:  # apply navigation requested on the previous run
     st.session_state["nav"] = st.session_state.pop("_goto")
-    for k in ("inbox_tbl", "corpus_tbl"):  # clear table selections so they don't re-trigger
+    for k in ("home_tbl", "bills_tbl"):  # clear table selections so they don't re-trigger
         st.session_state.pop(k, None)
-st.session_state.setdefault("nav", "Inbox")
+st.session_state.setdefault("nav", "Home")
 with st.sidebar:
-    st.title(APP_NAME)
-    st.caption(f"{APP_TAGLINE}. Preliminary review of proposed measures that create a government entity. Student prototype (PP5538), not an official DBM system.")
-    page = st.radio("Go to", PAGES, key="nav")
-    if st.session_state.get("bill"):
-        b = bills.get(st.session_state["bill"])
-        if b:
-            st.info(f"Open bill: **{b['label']}** ({b['congress']}th)\n\nStatus: {store.load(b['id']).get('status', 'new')}")
-    pasted = st.text_input("Anthropic API key (optional, this session only)", type="password")
+    st.markdown("### Reviewer settings")
+    pasted = st.text_input("Anthropic API key (optional, kept for this session only)", type="password")
     if pasted:
         st.session_state["user_api_key"] = pasted
     live = bool(llm.api_key())
-    st.write("AI agents:", "**on**" if live else "**off** (rules-only + free route)")
-    st.warning(LABEL)
+    st.write("AI agents:", "**on**" if live else "**off** (rules-only checks and free route)")
+    if st.session_state.get("bill") in bills:
+        b = bills[st.session_state["bill"]]
+        st.info(f"Open bill: **{b['label']}** ({b['congress']}th)\n\nStatus: {store.load(b['id']).get('status', 'new')}")
+    st.caption(LABEL)
+
+ui.header(APP_NAME, APP_TAGLINE)
+page = st.radio("Navigation", PAGES, key="nav", horizontal=True, label_visibility="collapsed")
+cat = bill_table(catalogue.stamp())
 
 
-# ---------------- Inbox ----------------
-if page == "Inbox":
-    st.header("Inbox")
-    inbox = inbox_items()
+# ---------------- Home ----------------
+if page == "Home":
+    ws = watch_state()
+    runs = ws.get("runs", [])
+    inbox_path = ROOT / "data" / "watch" / "inbox.json"
+    inbox = json.loads(inbox_path.read_text()) if inbox_path.exists() else []
     statuses = store.all_status()
-    c1, c2, c3, c4 = st.columns(4)
-    c1.metric("New measures (watcher)", sum(1 for x in inbox if x["status"] in ("new", "triaged")))
-    c2.metric("Bills in the corpus", sum(1 for b in bills.values() if b["chamber"] in ("HB", "SB")))
-    c3.metric("Reviews in progress", sum(1 for s in statuses.values() if s in ("in review", "review approved")))
-    c4.metric("Memos / letters drafted", sum(1 for s in statuses.values() if s in ("memo drafted", "letter drafted")))
-    sp = ROOT / "data" / "watch" / "state.json"
-    if sp.exists():
-        runs = json.loads(sp.read_text()).get("runs", [])
-        if runs:
-            last = runs[-1]
-            st.caption(f"Last daily check: {last['time']} UTC; new bills found: {last['found']}."
-                       + (f" Problems: {last['errors']}" if last.get("errors") else ""))
+    c20 = cat[cat["congress"] == "20"]
+    ui.hero("Legislative measures monitor",
+            "Every bill, checked before it becomes an Act",
+            "ActCheck lists House and Senate bills, checks both chambers every morning for new filings, and helps a budget "
+            "reviewer prepare a sourced preliminary review: legislative history, comparison with related measures, "
+            "cost range and draft comments.",
+            [(f"{len(cat):,}", "Bills listed, 18th–20th Congress"), (f"{len(c20):,}", "Bills in the 20th Congress"),
+             (f"{int((cat['scope'] == PILOT).sum()):,}", "Create a national agency (pilot scope)"),
+             (f"{int(cat['reviewable'].sum()):,}", "With full text, ready to review")])
+    if runs:
+        last = runs[-1]
+        err = "; ".join(f"{k}: {v}" for k, v in (last.get("errors") or {}).items())
+        ui.notice("Daily check", f"Last run <b>{escape(last['time'][:16].replace('T', ' '))} UTC</b>: "
+                  f"<b>{last.get('found', 0)}</b> new bills found"
+                  + (f", {last.get('pilot_scope', 0)} in the pilot scope" if "pilot_scope" in last else "")
+                  + (f". <br>Problems: {escape(err)}" if err else ". Runs every day at 06:17 Manila time."))
     else:
-        st.caption("The daily watcher has not run yet (it runs on GitHub every morning once the project is online).")
+        ui.notice("Daily check", "The daily check has not run yet. It runs every morning at 06:17 Manila time on GitHub.", "info")
 
-    st.subheader("New measures found by the daily check")
+    ui.section("Newly filed bills", "Found by the daily check on the House and Senate websites. Select a row to see details.")
     if inbox:
-        df = pd.DataFrame([{"Bill": x["id"], "Screen": x["screen"], "Status": statuses.get(x["id"], x["status"]),
-                            "Title": x["title"][:160], "Found": x["found"][:10]} for x in inbox][::-1])
-        only = st.checkbox("Show only bills that create a government entity", value=True)
+        new = cat[cat["id"].isin([x["id"] for x in inbox])].copy()
+        new = new.sort_values(["found", "number"], ascending=False).head(200).reset_index(drop=True)
+        only = st.toggle("Show only bills in the pilot scope (create a national agency)", value=False)
         if only:
-            df = df[df["Screen"] == "entity-creating"]
-        i = pick(df.reset_index(drop=True), "inbox_tbl")
-        if i is not None and df.iloc[i]["Bill"] in bills:
-            go("Bill workspace", df.iloc[i]["Bill"])
+            new = new[new["scope"] == PILOT].reset_index(drop=True)
+        i = pick(show_table(new), "home_tbl", TABLE_CFG, height=320)
+        if i is not None:
+            bill_panel(new.iloc[i].to_dict())
     else:
-        st.info("No new measures yet. Meanwhile, open any bill from the corpus below.")
+        st.info("No new bills yet. Browse every bill on the Bills page.")
 
-    st.subheader("All bills in the corpus")
-    q = st.text_input("Search by number or title", placeholder="e.g. water resources, HB 2322, fisheries")
-    rows = []
-    for b in reviewable():
-        if q and q.lower().replace(" ", "") not in (b["label"] + b["title"] + b["family"]).lower().replace(" ", ""):
-            continue
-        rows.append({"Bill": b["id"], "Label": b["label"], "Congress": b["congress"], "Family": b["family"],
-                     "Status": statuses.get(b["id"], "new"), "Title": b["title"][:150]})
-    df2 = pd.DataFrame(rows)
-    i = pick(df2, "corpus_tbl") if len(df2) else None
+    ui.section("How a review works", "Three agents prepare drafts; the reviewer checks, edits and decides.")
+    a, b, c = st.columns(3)
+    with a:
+        ui.card(AGENT1, "Traces the bill's history: earlier and parallel versions in both chambers, refiled bills and the "
+                "existing laws it touches. Runs the daily check.", 1)
+    with b:
+        ui.card(AGENT2, "Compares the bill with the closest related measure, section by section: the problem it addresses, "
+                "substantial differences and design options.", 2)
+    with c:
+        ui.card(AGENT3, "Appraises cost (from a rules-based costing engine), risks and overlaps, and drafts preliminary "
+                "comments, a memo and a letter for the reviewer to finalise.", 3)
+    ui.section("Reviews in progress")
+    if statuses:
+        rows = [{"Bill": bills[k]["label"] if k in bills else k, "Congress": bills[k]["congress"] if k in bills else "",
+                 "Status": v, "id": k} for k, v in statuses.items()]
+        df = pd.DataFrame(rows)
+        for _, r in df.iterrows():
+            cc1, cc2, cc3 = st.columns([2, 2, 1])
+            cc1.markdown(f"**{r['Bill']}** · {r['Congress']}th Congress")
+            cc2.markdown(f"Status: {r['Status']}")
+            if cc3.button("Open", key=f"rv_{r['id']}"):
+                go("Review workspace", r["id"])
+    else:
+        st.caption("No reviews started yet.")
+
+
+# ---------------- Bills ----------------
+elif page == "Bills":
+    ui.section("Legislative measures", "Every House and Senate bill ActCheck knows about. Filter, then select a row.")
+    with st.container(border=True):
+        f1, f2, f3, f4 = st.columns([1, 1, 1.4, 1])
+        congress = f1.selectbox("Congress", ["20th", "19th", "18th", "All"])
+        chamber = f2.selectbox("Chamber", ["Both", "House", "Senate"])
+        scope = f3.selectbox("Scope", ["All bills", PILOT, "Other legislation", "Local office or facility"])
+        text = f4.selectbox("Text", ["Any", "Full text", "Listing only", "Text pending"])
+        s1, s2 = st.columns([3, 1])
+        q = s1.text_input("Search bill number, title or subject", placeholder="e.g. HB 2322, water resources, coast guard")
+        status = s2.text_input("Status contains", placeholder="e.g. committee")
+    df = cat
+    if congress != "All":
+        df = df[df["congress"] == congress[:2]]
+    if chamber != "Both":
+        df = df[df["chamber"] == chamber]
+    if scope != "All bills":
+        df = df[df["scope"] == scope]
+    if text != "Any":
+        df = df[df["text"] == text]
+    if status:
+        df = df[df["status"].str.contains(status, case=False, na=False)]
+    if q:
+        key = q.lower().replace(" ", "")
+        hay = (df["label"] + df["title"] + df["short_title"]).str.lower().str.replace(" ", "", regex=False)
+        df = df[hay.str.contains(key, regex=False)]
+    df = df.reset_index(drop=True)
+    st.caption(f"{len(df):,} bills match · House bills from the House documents server and Open Congress Data; Senate bills "
+               "from the Senate website listing. Lists are refreshed by the daily check.")
+    i = pick(show_table(df), "bills_tbl", TABLE_CFG, height=480)
     if i is not None:
-        go("Bill workspace", df2.iloc[i]["Bill"])
+        bill_panel(df.iloc[i].to_dict())
 
 
-# ---------------- Bill workspace ----------------
-elif page == "Bill workspace":
+# ---------------- Review workspace ----------------
+elif page == "Review workspace":
     bid = st.session_state.get("bill")
     if not bid or bid not in bills:
-        st.info("Open a bill from the Inbox first.")
+        ui.notice("No bill open", "Open a bill with full text from the <b>Home</b> or <b>Bills</b> page.", "info")
         st.stop()
     from agents.research import evidence_pack, brief_markdown, build_messages as p1_msgs, check_output as p1_check
-    from agents.diagnosis import fact_diff, family_designs, report_markdown as p2_md, build_messages as p2_msgs, check_output as p2_check
+    from agents.diagnosis import fact_diff, report_markdown as p2_md, build_messages as p2_msgs, check_output as p2_check
     from agents.costing import cost_range, peso
     from agents.appraisal import (review_markdown, check_review, check_document, POSITION_PLACEHOLDER,
                                   build_review_messages, build_redteam_messages, build_memo_messages, build_letter_messages)
     b = bills[bid]
     rec = store.load(bid)
-    st.header(f"{b['label']} · {b['congress']}th Congress")
-    st.caption(b["title"])
+    row = cat[cat["id"] == bid]
+    row = row.iloc[0].to_dict() if len(row) else None
+    ui.html(f'<div class="ac-crumb">Bills / <b>{escape(b["label"])}</b></div>')
+    st.markdown(f"## {escape(b['label'])} · {b['congress']}th Congress")
+    if row:
+        bill_badges(row)
+    ui.html(f'<div class="ac-billtitle">{escape(b["title"])}</div>')
     status = rec.get("status", "new")
-    st.progress((store.STATUSES.index(status) + 1) / len(store.STATUSES), text=f"Status: {status}")
-    st.caption(f"Family: {b['family']} · Text: {b['text_source']} ({b['n_sections']} sections)"
+    ui.steps(store.STATUSES, status)
+    st.caption(f"Text: {b['text_source']} ({b['n_sections']} sections)"
                + (" · OCR text: check quotes against the PDF" if b["text_source"] == "ocr" else ""))
+    if row and row["scope"] != PILOT:
+        ui.notice("Outside the pilot scope", f"This bill does not appear to create a national agency. {AGENT1} and {AGENT2} "
+                  f"work on any bill; {AGENT3}'s costing engine is built for new agencies, so treat its cost range as not applicable.")
 
     research_out = (rec.get("research") or {}).get("output")
     cand = [r["id"] for r in related_bills(bid, top=15)]
     default_ref = pick_reference(bid, research_out) or (cand[0] if cand else None)
     if default_ref and default_ref not in cand:
         cand = [default_ref] + cand
-    ref = st.selectbox(f"Compare with ({AGENT2} reference)", cand, index=cand.index(rec.get("reference", default_ref)) if rec.get("reference", default_ref) in cand else 0,
+    ref = st.selectbox(f"Compare with ({AGENT2} reference)", cand,
+                       index=cand.index(rec.get("reference", default_ref)) if rec.get("reference", default_ref) in cand else 0,
                        format_func=lambda x: f"{bills[x]['label']} ({bills[x]['congress']}th) · {bills[x]['title'][:90]}")
 
     if st.button(f"▶ Run full review ({AGENT1}, {AGENT2}, {AGENT3} and red-team)", type="primary", disabled=not live):
@@ -221,9 +344,11 @@ elif page == "Bill workspace":
                 s.update(label=f"Stopped: {e}", state="error")
         st.rerun()
     if not live:
-        st.caption("AI agents are off: each tab shows the rules-only analysis and a free route to run the agent in a Claude chat.")
+        st.caption("AI agents are off (add a key under Reviewer settings, top-left ›). Each tab shows the rules-only "
+                   "analysis and a free route to run the agent in a Claude chat.")
 
-    t1, t2, t3, t4, t5 = st.tabs([f"1 · {AGENT1} (evidence)", f"2 · {AGENT2} (comparison)", f"3 · {AGENT3} (appraisal)", "Comments & report", "Memo & letter"])
+    t1, t2, t3, t4, t5 = st.tabs([f"1 · {AGENT1} · Evidence", f"2 · {AGENT2} · Comparison", f"3 · {AGENT3} · Appraisal",
+                                  "Comments & report", "Memo & letter"])
 
     with t1:
         pack = evidence_pack(bid)
@@ -242,7 +367,7 @@ elif page == "Bill workspace":
             st.markdown(p2_md(bid, ref, dia["output"], dia.get("checks")))
             check_table((dia.get("checks") or {}).get("citations"))
         else:
-            fd = fact_diff(bid, ref)
+            fact_diff(bid, ref)
             st.markdown(p2_md(bid, ref))
             if dia:
                 st.caption(f"A saved {AGENT2} run exists against {dia.get('reference')}; choose it above to view.")
@@ -301,7 +426,8 @@ elif page == "Bill workspace":
         st.subheader("Preliminary comments")
         st.caption(f"Draft comments from {AGENT3}. Edit the wording, untick to drop, or add rows. Saved comments go into the report and the memo.")
         if comments:
-            ed = st.data_editor(pd.DataFrame(comments)[[c for c in ("include", "comment", "section", "basis") if c in pd.DataFrame(comments)]],
+            cdf = pd.DataFrame(comments)
+            ed = st.data_editor(cdf[[c for c in ("include", "comment", "section", "basis") if c in cdf]],
                                 num_rows="dynamic", use_container_width=True, key=f"ed_{bid}")
             if st.button("Save comments"):
                 store.save(bid, "comments", ed.fillna("").to_dict("records"), "Reviewer edited comments")
@@ -310,8 +436,9 @@ elif page == "Bill workspace":
             st.info(f"Run {AGENT3} (tab 3) to generate preliminary comments.")
         st.subheader("Preliminary report")
         md = rep_md(bid)
-        st.download_button("Download report (Word)", docx_bytes(bid), file_name=f"Preliminary_report_{bid}.docx")
-        st.download_button("Download report (Markdown)", md, file_name=f"Preliminary_report_{bid}.md")
+        d1, d2 = st.columns(2)
+        d1.download_button("Download report (Word)", docx_bytes(bid), file_name=f"ActCheck_preliminary_report_{bid}.docx")
+        d2.download_button("Download report (Markdown)", md, file_name=f"ActCheck_preliminary_report_{bid}.md")
         with st.expander("Preview"):
             st.markdown(md)
 
@@ -338,8 +465,7 @@ elif page == "Bill workspace":
                 for x in check_document(bid, memo_text, "memo")["governance_flags"]:
                     st.warning(x)
                 st.download_button("Download memo", memo_text, file_name=f"Memo_draft_{bid}.txt")
-                ready = POSITION_PLACEHOLDER not in memo_text
-                if not ready:
+                if POSITION_PLACEHOLDER in memo_text:
                     st.info("Decide the position in the memo (replace the placeholder) to unlock the letter.")
                 else:
                     if st.button("Draft letter to the committee chair / principal author", disabled=not live):
@@ -358,14 +484,14 @@ elif page == "Bill workspace":
         st.dataframe(pd.DataFrame(rec.get("trail", [])), use_container_width=True, hide_index=True)
 
 
-# ---------------- Ask about this bill ----------------
-elif page == "Ask about this bill":
+# ---------------- Ask ActCheck ----------------
+elif page == "Ask ActCheck":
     bid = st.session_state.get("bill")
     if not bid or bid not in bills:
-        st.info("Open a bill from the Inbox first.")
+        ui.notice("No bill open", "Open a bill with full text from the <b>Home</b> or <b>Bills</b> page, then ask about it here.", "info")
         st.stop()
-    st.header(f"Ask about {bills[bid]['label']}")
-    st.caption("Answers use only this bill's workspace (sections, facts, costing engine, saved agent outputs) and cite their sources.")
+    ui.section(f"Ask about {bills[bid]['label']}",
+               "Answers use only this bill's workspace (sections, facts, costing engine, saved agent outputs) and cite their sources.")
     hist = st.session_state.setdefault(f"chat_{bid}", [])
     for m in hist:
         with st.chat_message(m["role"]):
@@ -375,7 +501,7 @@ elif page == "Ask about this bill":
                     st.caption(f"⚠ citation not found in the corpus: {c['citation']}")
     q = st.chat_input("e.g. What does the bill say about funding? Which existing agencies overlap?", disabled=not live)
     if not live:
-        st.info("Add an API key in the sidebar to use the chat.")
+        st.info("Add an API key under Reviewer settings (top-left ›) to use the chat.")
     if q:
         from agents.chat import ask
         hist.append({"role": "user", "content": q})
@@ -389,32 +515,44 @@ elif page == "Ask about this bill":
 
 # ---------------- Library ----------------
 elif page == "Library":
-    st.header("Library")
-    st.dataframe(pd.DataFrame([{k: b.get(k) for k in ("id", "label", "congress", "family", "kind", "n_sections", "text_source", "title")}
-                               for b in bills.values()]), use_container_width=True, hide_index=True)
-    pick_id = st.selectbox("Read a document", sorted(bills))
+    ui.section("Document library", "Full texts in ActCheck: bills, committee reports and existing laws, split into sections.")
+    lib = pd.DataFrame([{k: b.get(k) for k in ("id", "label", "congress", "family", "kind", "n_sections", "text_source", "title")}
+                        for b in bills.values()])
+    st.dataframe(lib, use_container_width=True, hide_index=True, height=320)
+    pick_id = st.selectbox("Read a document", sorted(bills), format_func=lambda x: f"{x} · {bills[x]['title'][:100]}")
     for s in secs.get(pick_id, []):
         with st.expander(f"Sec. {s['no']}. {s['heading']}"):
             st.write(s["text"])
     fam = ROOT / "data" / "processed" / "entity_families.csv"
     if fam.exists():
-        st.subheader("Entity-creation bill families, 18th–20th Congress (auto-extracted)")
+        ui.section("Pilot scope: entity-creation bill families", "18th–20th Congress, auto-extracted from titles.")
         st.dataframe(pd.read_csv(fam), use_container_width=True, hide_index=True)
 
 
 # ---------------- Run log ----------------
 elif page == "Run log":
-    st.header("Run log")
-    log = ROOT / "logs" / "runs.jsonl"
-    if log.exists():
-        st.dataframe(pd.DataFrame([json.loads(x) for x in log.read_text().splitlines()]).drop(columns=["output"], errors="ignore"),
-                     use_container_width=True, hide_index=True)
+    ui.section("Run log", "Every agent run and daily check, for the portfolio's run log and AI-use disclosure.")
+    rows = []
+    for f in sorted((ROOT / "logs").glob("*.jsonl")):
+        for x in f.read_text().splitlines():
+            try:
+                d = json.loads(x)
+            except ValueError:
+                continue
+            meta = d.get("meta") if isinstance(d.get("meta"), dict) else {}
+            flat = {k: v for k, v in (d | meta).items()
+                    if k not in ("output", "user_prompt", "reply", "prompt", "checks", "meta") and not isinstance(v, (dict, list))}
+            if isinstance(d.get("checks"), list):
+                flat["citations verified"] = f"{sum(1 for c in d['checks'] if c.get('check') == 'verified')}/{len(d['checks'])}"
+            rows.append(flat | {"log": f.name})
+    if rows:
+        st.dataframe(pd.DataFrame(rows), use_container_width=True, hide_index=True)
     else:
-        st.caption("No API runs yet in this deployment.")
-    sp = ROOT / "data" / "watch" / "state.json"
-    if sp.exists():
-        st.subheader("Daily watcher runs")
-        st.dataframe(pd.DataFrame(json.loads(sp.read_text()).get("runs", [])), use_container_width=True, hide_index=True)
+        st.caption("No agent runs logged yet in this deployment.")
+    runs = watch_state().get("runs", [])
+    if runs:
+        ui.section("Daily checks")
+        st.dataframe(pd.DataFrame(runs[::-1]), use_container_width=True, hide_index=True)
     vl = ROOT / "docs" / "VERSION_LOG.md"
     if vl.exists():
         with st.expander("Version log"):
@@ -423,12 +561,17 @@ elif page == "Run log":
 
 # ---------------- About ----------------
 else:
-    st.header("About & governance")
+    ui.section(f"About {APP_NAME}", APP_TAGLINE)
     st.markdown(f"""
-**{APP_NAME}**: {APP_TAGLINE}. A student prototype for PP5538, not an official DBM system.
+**{APP_NAME}** is a student prototype for PP5538 Digital Technology and Public Policy. It is not an official government
+website and is not operated by the House of Representatives, the Senate or the Department of Budget and Management.
 
-**What it does.** A daily watcher looks for newly filed House and Senate bills and screens for those that create a
-government entity. For each bill, three agents prepare a preliminary review for a DBM reviewer:
+**Scope.** {APP_NAME} lists every House and Senate bill it can read from public sources. The agents are being tested first on
+the **pilot scope**: bills that create a new national government agency, across all sectors. Other bills with full text can be
+reviewed experimentally; the costing engine applies only to new agencies.
+
+**How it works.** A daily check reads the House documents server and the Senate website's bill listing for new filings and
+downloads their text (OCR if scanned). For each bill, three agents prepare drafts for a budget reviewer:
 
 1. **{AGENT1}** (Evidence & Research): legislative history, earlier and parallel versions in both chambers, existing laws touched.
 2. **{AGENT2}** (Diagnosis & Design): the problem the bill addresses, substantial differences from a related measure, design options.
@@ -440,10 +583,14 @@ government entity. For each bill, three agents prepare a preliminary review for 
 may only come from the costing engine or the bill. Drafts never state a DBM position or carry officials' names or
 signatures. The reviewer approves each step. Every output is labelled: *{LABEL}*
 
-**Data.** House and Senate bill texts; Open Congress Data (BetterGov.PH, CC0); Philippine Legal Documents Library
-(BetterGov.PH from Lawphil, CC BY-NC 4.0); DBM NBC No. 601 salary schedule; COA annual audit reports. OCR text is flagged.
-Internal DBM documents are not used.
+**Data and licences.** House and Senate bill documents (public); Open Congress Data (BetterGov.PH, CC0 1.0); Philippine Legal
+Documents Library (BetterGov.PH from Lawphil, CC BY-NC 4.0); DBM NBC No. 601 salary schedule; COA annual audit reports.
+The daily check follows each site's robots.txt, waits between requests and does not bypass bot protection. Senate content is
+not used to train AI models. Internal DBM documents are not used.
 
-**Limits.** Prototype for coursework; costing is order-of-magnitude; comparator and benefit figures must be confirmed;
-the Senate watcher route is untested; saved reviews on a hosted app reset when it restarts (download reports).
+**Limits.** Prototype for coursework. House bills before the daily check started are listed from Open Congress Data, which
+has gaps; costing is order-of-magnitude; comparator and benefit figures must be confirmed; saved reviews on the hosted
+portal reset when it restarts (download your reports).
 """)
+
+ui.footer(APP_NAME, LABEL)

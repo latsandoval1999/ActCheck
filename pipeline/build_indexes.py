@@ -128,7 +128,14 @@ def main():
         shelf(a.legal_docs, a.shelf)
         return
     if a.open_congress:
-        write_gz(bill_index(a.open_congress), PROC / "bill_index.csv.gz")
+        rows = bill_index(a.open_congress)
+        old = PROC / "bill_index.csv.gz"
+        n_old = sum(1 for _ in gzip.open(old, "rt")) - 1 if old.exists() else 0
+        if len(rows) < 0.95 * n_old:      # a partial download must not shrink the list
+            print(f"Kept the existing bill index: new copy has {len(rows)} bills, existing has {n_old}.")
+        else:
+            write_gz(rows, old)
+            print(f"Bill index: {len(rows)} bills (was {n_old}).")
     if a.legal_docs or a.law_titles_csv:
         write_gz(law_index(a.legal_docs, a.law_titles_csv), PROC / "law_index.csv.gz")
 

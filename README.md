@@ -8,13 +8,15 @@
 | **CompAIre** | P2 Diagnosis & Design | Compares the bill with related measures; problem, differences, design options |
 | **AppraisAI** | P3 Appraisal & Governance | Cost range, risks, preliminary comments, memo and letter drafts (with a red-teamer) |
 
-A reviewer portal that helps staff of the DBM Budget Information Legislative and Liaison Service (BILLS) do the **preliminary review of proposed bills that create a new government entity**. Built for the PP5538 Agentic AI Portfolio (three projects) and the AI and Data Project.
+A reviewer portal that lists **every House and Senate bill** and helps staff of the DBM Budget Information Legislative and Liaison Service (BILLS) do their **preliminary review**. The agents are being tested first on the **pilot scope: bills that create a new national government agency** (all sectors); other bills with full text can be reviewed experimentally.
+
+Live portal: https://act-check.streamlit.app Built for the PP5538 Agentic AI Portfolio (three projects) and the AI and Data Project.
 
 > Every output is an **AI-assisted preliminary draft for DBM reviewer validation**. The portal never states a DBM position, signs anything, or replaces the reviewer.
 
 ## How the portal works
 
-1. **Daily check (TrAIce, monitoring).** Every morning a scheduled GitHub job (`.github/workflows/daily-watch.yml` → `pipeline/watch.py`) looks for newly filed House and Senate bills, keeps those whose titles create a government entity, reads them (OCR if scanned) and adds them to the **Inbox**. Optionally Agent 1 drafts an evidence brief for each.
+1. **Daily check (TrAIce, monitoring).** Every morning a scheduled GitHub job (`.github/workflows/daily-watch.yml` → `pipeline/watch.py`) refreshes the bill list from Open Congress Data, looks for newly filed House bills (House documents server) and Senate bills (the Senate website's public listing), reads them (OCR if scanned), tags the pilot-scope ones and lists them all on **Home** and **Bills**. Optionally TrAIce drafts an evidence brief for each new pilot-scope bill.
 2. **Open a bill → Run full review.** One click runs TrAIce (history, earlier and parallel versions in both chambers, existing laws), CompAIre (problem, substantial differences vs the closest related measure, design options) and AppraisAI (preliminary review, cost range, risks, preliminary comments), then the red-teamer.
 3. **Reviewer works through the tabs**: Evidence · Comparison · Appraisal (approve) · Comments & report (edit comments, download Word/Markdown report) · Memo & letter (memo after approval; letter after the reviewer decides the position).
 4. **Ask about this bill**: a chat that answers only from the bill's workspace and cites sections (citations are checked).
@@ -84,11 +86,14 @@ Files go to `PP5538 Bill Corpus/6 Downloads/<family>/<Congress>/`. Bills already
 ## Daily watcher
 
 ```bash
-python3 -m pipeline.watch --dry-run          # which bill numbers would be checked
+python3 -m pipeline.watch --dry-run                    # what would be checked
 python3 -m pipeline.watch --chamber HB --max-probe 5   # a small real check (run on your own computer)
-python3 -m pipeline.build_corpus             # add what it found to the corpus
+python3 -m pipeline.build_corpus                       # add what it found to the corpus
 ```
-House: checks the House PDF server for the next bill numbers (the congress.gov.ph listing uses a bot challenge, which the watcher does not bypass). Senate: checks each new SBN bill page; untested because the Senate site was down on 8 Nov 2026. A failed check is reported as "source unavailable", never as "no new bills". On GitHub, the workflow runs daily and commits new bills; add an `ANTHROPIC_API_KEY` repository secret to let TrAIce triage them automatically.
+- **House:** checks the House documents server for the next bill numbers (up to 60 a day). The congress.gov.ph listing pages use a bot challenge, which the watcher does not bypass.
+- **Senate:** reads the public listing behind senate.gov.ph/legislative-documents/bills (`/lis/documents_v2`, allowed by robots.txt) and saves every 20th Congress Senate bill to `data/processed/senate_listing_20.csv`; then downloads up to 25 bill texts a day from each bill's record (pilot-scope bills first).
+- **Bill list:** `pipeline/catalogue.py` merges Open Congress Data, the Senate listing, the daily check and the corpus into the list shown on the Bills page.
+- A failed check is reported as "source unavailable", never as "no new bills". Add an `ANTHROPIC_API_KEY` repository secret to let TrAIce triage new pilot-scope bills automatically.
 
 ## Put it online (testable link)
 

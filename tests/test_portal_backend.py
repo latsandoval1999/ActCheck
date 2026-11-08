@@ -25,3 +25,12 @@ def test_report_exports():
     md = markdown("HB-20-2322")
     assert "ActCheck preliminary report" in md and "Fiscal implications" in md
     assert docx_bytes("HB-20-2322")[:2] == b"PK"   # a .docx is a zip file
+
+
+def test_catalogue_lists_all_bills():
+    from pipeline import catalogue
+    rows = {r["id"]: r for r in catalogue.build(catalogue.stamp())}
+    assert len(rows) > 30000                                   # every bill, not only the pilot scope
+    assert rows["HB-20-2322"]["reviewable"] and rows["HB-20-2322"]["scope"] == catalogue.SCOPE["entity-creating"]
+    assert {r["chamber"] for r in rows.values()} == {"House", "Senate"}
+    assert any(r["scope"] == "Other legislation" for r in rows.values())
