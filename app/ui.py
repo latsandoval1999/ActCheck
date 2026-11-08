@@ -46,12 +46,14 @@ h1, h2, h3, h4{font-family:'Source Serif 4', Georgia, serif !important; color:va
 .st-key-nav [data-testid="stWidgetLabel"]{display:none;}
 .st-key-nav div[role="radiogroup"]{gap:.25rem; flex-wrap:wrap; background:var(--ac-surface); border:1px solid var(--ac-border);
   border-radius:10px; padding:.3rem;}
-.st-key-nav div[role="radiogroup"] > label{margin:0 !important; padding:.38rem .95rem; border-radius:7px; cursor:pointer;
-  color:var(--ac-muted); font-weight:600; font-size:.92rem;}
-.st-key-nav div[role="radiogroup"] > label > div:first-child{display:none;}
-.st-key-nav div[role="radiogroup"] > label:hover{background:var(--ac-sky); color:var(--ac-navy);}
-.st-key-nav div[role="radiogroup"] > label:has(input:checked){background:var(--ac-navy); color:#fff;}
-.st-key-nav div[role="radiogroup"] > label:has(input:checked) p{color:#fff;}
+.st-key-nav label[data-testid="stRadioOption"], .st-key-nav div[role="radiogroup"] label{margin:0 !important; padding:.4rem 1rem;
+  border-radius:7px; cursor:pointer;}
+.st-key-nav label[data-testid="stRadioOption"] > div > div:first-child:not([data-testid]){display:none;}
+.st-key-nav label p{font-weight:600; font-size:.93rem; color:var(--ac-muted); margin:0;}
+.st-key-nav label:hover{background:var(--ac-sky);}
+.st-key-nav label:hover p{color:var(--ac-navy);}
+.st-key-nav label[data-selected="true"], .st-key-nav label:has(input:checked){background:var(--ac-navy);}
+.st-key-nav label[data-selected="true"] p, .st-key-nav label:has(input:checked) p{color:#fff;}
 
 /* hero */
 .ac-hero{background:var(--ac-surface); border:1px solid var(--ac-border); border-radius:14px; padding:1.4rem 1.5rem 1.2rem;
