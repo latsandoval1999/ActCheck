@@ -1,0 +1,4 @@
+target,reference,verdict,expected_differences,source_of_truth,confirmed_by_reviewer
+HB-20-5296,HB-20-2322,substantially the same,,"Manual reading 7 Nov 2026: operative text closely follows HB 2322",
+SB-20-1624,SB-20-1199,partly different,"staffing and compensation@SB-20-1624:s7;funding@SB-20-1624:s13;mandate@SB-20-1624:s6;structure@SB-20-1199:s8","Section texts: 10 vs 12 members (s7/s5); P200,000,000 initial appropriation added (s13); new national assessment section (s6); PIDS research-arm section dropped (SB 1199 s8). Confirm by reading.",
+HB-20-6789,HB-19-9663,partly different,"funding@HB-20-6789:s43","Rule-based fact diff: P250 million amount in HB 6789 s43 absent from HB 9663. Other differences to be labelled by reviewer.",

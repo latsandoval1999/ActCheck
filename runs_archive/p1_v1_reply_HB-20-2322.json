@@ -1,0 +1,92 @@
+{
+  "target": "HB-20-2322",
+  "entity_proposed": "Congressional Commission on Agriculture and Fisheries (AGRICOM)",
+  "related": [
+    {
+      "id": "SB-20-1199",
+      "relationship": "counterpart in other chamber",
+      "basis": "Senate bill in the same (20th) Congress whose creation, 12-member composition, Executive Director, powers and appropriations sections are near-identical to the target, differing mainly in adding 'Food Security' to the commission's name and omitting the sentence on designation of other members by the Senate President and Speaker; agrees with baseline.",
+      "section": "SB-20-1199:s4",
+      "quote": "There is hereby created a Congressional Commission on Agriculture, Fisheries and Food Security, hereinafter referred to as the Commission, to undertake a comprehensive national assessment"
+    },
+    {
+      "id": "HB-20-5296",
+      "relationship": "refiled near-copy",
+      "basis": "House bill in the same Congress with substantially the same 12-member composition, Executive Director, powers and appropriations provisions, though reworded in places and naming the body the Congressional Commission on Agriculture, Fisheries and Food Security; agrees with baseline.",
+      "section": "HB-20-5296:s5",
+      "quote": "The Commission shall be composed of twelve (12) members: six (6) from the Senate and six (6) from the House of Representatives"
+    },
+    {
+      "id": "HB-20-5129",
+      "relationship": "refiled near-copy",
+      "basis": "Overrides baseline 'same subject (competing or related design)': this same-Congress House bill's composition, Executive Director, powers and appropriations sections are near-verbatim matches of the target (differing mainly in the 'Food Security' name), so it is a near-copy, not a competing design; text is OCR and its creation section is not in the pack.",
+      "section": "HB-20-5129:s5",
+      "quote": "The Commission shall be composed of twelve (12) members, with six (6) members from the Senate and six (6) members from the House of Representatives"
+    },
+    {
+      "id": "CR-20-AGRICOM",
+      "relationship": "competing design",
+      "basis": "Overrides baseline 'counterpart in other chamber': the pack does not state which chamber issued this committee report or which bills it covers, and its text differs materially from the target (10 members with Co-Chairpersons instead of 12, a fixed P200 million initial appropriation, a global-competitiveness purpose, added bureaucracy-review functions).",
+      "section": "CR-20-AGRICOM:s7",
+      "quote": "The AGRICOM shall be composed of ten (10) members, with five (5) members from the Senate and five (5) members from"
+    },
+    {
+      "id": "SB-20-1624",
+      "relationship": "competing design",
+      "basis": "Overrides baseline 'counterpart in other chamber': although a Senate bill on the same AGRICOM subject, its structure differs materially from the target (10 members with two Co-Chairpersons, P200 million initial appropriation, global-competitiveness purpose, bureaucracy-review functions) and closely tracks CR-20-AGRICOM rather than the target; SB-20-1199 is the target's near-identical Senate counterpart.",
+      "section": "SB-20-1624:s7",
+      "quote": "The AGRICOM shall be composed of ten (10) members, with five (5) members each from the Senate and the House of Representatives."
+    },
+    {
+      "id": "SB-20-1345",
+      "relationship": "competing design",
+      "basis": "Senate bill on the same problem but with a materially different structure: a Congressional Commission on Agriculture (no fisheries in its name) with 10 members and Co-Chairpersons, a P200 million initial appropriation and a global-competitiveness purpose; agrees with the baseline's competing-design reading.",
+      "section": "SB-20-1345:s5",
+      "quote": "The AGRICOM shall be composed of ten (10) members, with five (5) members from the Senate and five (5) members from the House of Representatives."
+    },
+    {
+      "id": "SB-18-2485",
+      "relationship": "unrelated",
+      "basis": "Title match only; text not reviewed: the title concerns a second congressional commission on education (EDCOM 2), not agriculture, so the baseline 'possibly related' is not supported beyond the similar 'congressional commission' phrasing.",
+      "section": "meta:SB-18-2485",
+      "quote": "AN ACT CREATING A SECOND CONGRESSIONAL COMMISSION ON EDUCATION TO ASSESS AND EVALUATE THE STATE OF PHILIPPINE EDUCATION"
+    },
+    {
+      "id": "RA-11899",
+      "relationship": "unrelated",
+      "basis": "Title match only; text not reviewed: the law's title creates a commission on education, so its resemblance to the target is limited to the 'congressional commission' title pattern and no agriculture overlap is shown.",
+      "section": "law:RA-11899",
+      "quote": "AN ACT CREATING A SECOND CONGRESSIONAL COMMISSION ON EDUCATION TO REVIEW, ASSESS, AND EVALUATE THE STATE OF PHILIPPINE EDUCATION"
+    }
+  ],
+  "existing_law_overlaps": [
+    {
+      "law": "RA-8435",
+      "overlap": "RA 8435 already assigns the Department (of Agriculture) to formulate and implement a medium- and long-term Agriculture and Fisheries Modernization Plan, which overlaps with AGRICOM's function (HB-20-2322:s11) of formulating short- and long-term policy and program recommendations including sectoral plans and targets; the pack does not show the bill amending or repealing this provision.",
+      "section": "RA-8435:s13",
+      "quote": "shall formulate and implement a medium- and long-term comprehensive Agriculture and Fisheries Modernization Plan"
+    },
+    {
+      "law": "RA-8435",
+      "overlap": "RA 8435 also tasks the Department with medium- and long-term food security plans, overlapping with AGRICOM's stated end of ensuring food security (HB-20-2322:s4).",
+      "section": "RA-8435:s14",
+      "quote": "The Department, in coordination with other concerned departments or agencies, shall formulate medium-and long-term plans addressing food security, poverty alleviation, social equity and income enhancement concerns"
+    },
+    {
+      "law": "RA-12022",
+      "overlap": "RA 12022 already created an inter-agency Anti-Agricultural Economic Sabotage Council (with an Advisory Board of agricultural sectors) dealing with smuggling, hoarding, profiteering and cartels that threaten food security; this is an existing agriculture-related body, though its enforcement role differs from AGRICOM's review-and-recommend role, and how the bill references RA 12022 is not shown in the pack.",
+      "section": "RA-12022:s15",
+      "quote": "The Anti-Agricultural Economic Sabotage Council, herein referred to as the Council, is hereby created and shall be chaired by the President or the delegated permanent representative."
+    }
+  ],
+  "gaps": [
+    "The sections of HB-20-2322 that cite RA 8435 and RA 12022 are not in the pack (only sections 1, 4, 5, 6, 11 and 13 of 16 are provided), so whether the bill merely references, amends or repeals any provision of those laws cannot be established.",
+    "The target names its body inconsistently: section 1 says 'Congressional Commission on Agriculture and Fisheries (AGRICOM)' while section 4 says 'Congressional Agriculture and Fisheries Commission'.",
+    "HB-20-11060 appears in the baseline labels but no text or title for it is in the pack, so its relationship to the target cannot be assessed.",
+    "The committee report CR-20-AGRICOM does not state in the pack which chamber or committee issued it, its number or date, or which bills it consolidates; whether HB-20-2322 was consolidated into it cannot be established.",
+    "Filing dates, authors and statuses of HB-20-2322 and the other 20th Congress bills (SB-20-1199, HB-20-5296, HB-20-5129, SB-20-1624, SB-20-1345) are not in the pack, so the filing sequence and which bill was refiled from which cannot be established.",
+    "No earlier-Congress AGRICOM bill with text is in the pack, so any 'earlier version' history cannot be established.",
+    "EO-127-1999 (Council for Extension, Research and Development in Agriculture and Fisheries) is title-only; whether that council still exists or its functions overlap with AGRICOM cannot be established.",
+    "Several provided sections are truncated (e.g., the powers and functions sections) and some texts are OCR with artifacts (HB-20-5129, SB-20-1624, CR-20-AGRICOM); HB-20-5129's creation section is not in the pack."
+  ]
+}

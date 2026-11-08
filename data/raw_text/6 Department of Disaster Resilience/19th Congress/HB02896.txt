@@ -1,0 +1,991 @@
+                                     Republic of the Philippines                                         August 1, 2022
+                                  HOUSE OF REPRESENTATIVES
+                                           Quezon City                                                     4:22 pm
+
+                                       NINETEENTH CONGRESS
+                                          First Regular Session
+
+                                         HOUSE BILL NO. 2896
+                                                        ____
+
+
+
+        Introduced by HON. LUIS RAYMUND “LRAY” F. VILLAFUERTE, JR.,
+       HON. MIGUEL LUIS R. VILLAFUERTE, HON. TSUYOSHI ANTHONY G.
+                   HORIBATA AND HON. NICOLAS ENCISO VIII
+
+
+                                           EXPLANATORY NOTE
+
+The distinct geography of the Philippines exposes it to natural hazards. Located along
+the so-called "Pacific Ring of Fire,” the Philippines is regularly impacted by floods,
+typhoons, landslides, earthquakes, volcano eruptions, and droughts. According to the
+status report of the Asian Disaster Preparedness Center and UN Office for Disaster
+Risk Reduction, at least 60% of the country's total land area is vulnerable to natural
+hazards.1 An average of 20 major storms hit the Philippines a year. Additionally, it is
+home to 25 active volcanoes.
+
+In 2020, Super Typhoon Goni which is considered the strongest landfalling tropical
+cyclone on record slammed into the Philippines affecting approximately 2,030,130
+people and damaging infrastructure worth Php 12,867,014,693.78 and agriculture
+worth Php 5,008,430,180.00.2 Goni's peak winds were as high as 195 mph,
+comparable to Super Typhoon Haiyan in 2013. Meanwhile, the Taal volcano, one of
+the Philippines' most active volcanoes erupted in July 2021 displacing almost 20,000
+persons from 190 Barangays in CALABARZON.3
+
+These, among many other circumstances, exposed the weakness in the structural and
+institutional set-up of Republic Act No. 10121 or the Philippine Disaster Risk Reduction
+Act and Management of 2010.
+
+
+
+
+1
+  https://reliefweb.int/report/philippines/disaster-risk-reduction-philippines-status-report-july-2019
+2
+  https://www.sciencedirect.com/science/article/pii/S2225603221000278
+3
+  https://reliefweb.int/disaster/vo-2021-000071-phl
+To further strengthen our country’s capacity to address impacts brought by climate
+change, this bill proposes to establish the Department of Disaster Resilience and
+Emergency Management which would oversee the implementation of disaster risk
+reduction and management policies and programs nationwide. Under the bill, the DDR
+shall be the primary agency responsible for leading, organizing, and managing the
+national effort to reduce disaster risk, prepare for and respond to disasters, recover
+and rehabilitate, and build forward better after the occurrence of disasters. It shall
+oversee and coordinate the preparation, implementation, and monitoring and
+evaluation of disaster and climate resilience plans, programs, projects and activities,
+provide leadership in the continuous development of strategic and systematic
+approaches to disaster prevention, preparedness, response, recovery and
+rehabilitation, to anticipatory adaptation strategies, measures, techniques, and
+options.
+
+It shall integrate the Climate Change Commission (CCC), National Disaster Risk
+Reduction, People’s Survival Fund (PSF), Yolanda Recovery and Rehabilitation
+Efforts, and Office of the Presidential Assistant for Rehabilitation and Recovery
+(OPARR). This shall streamline the planning and execution of policies and projects on
+climate change and unify the country’s approach towards resiliency. It shall also do
+away with redundant bureaucratic processes that may result in delays, confusion and
+diluted accountability.
+
+The DRR shall coordinate with other pertinent agencies, local government units
+(LGUs), and even private entities and establish a Multi-stakeholder Convergence Unit
+which shall align disaster resilience efforts of the private sector, civil society
+organizations, academe and other stakeholders by assisting, coordinating or providing
+services that strengthen public-private cooperate and coordination in disaster
+resilience.
+
+True economic progress is unattainable when we continuously fail to deal with reality
+of climate change and hence, suffer from its effects. With the creation of the FRR, the
+Philippine will be able to quickly respond, prepare, implement, monitor, and evaluate
+disaster and climate resilience plans, programs, and projects for the welfare of the
+people, particularly the vulnerable and the poor.
+
+The approval of this bill is earnestly sought.
+
+
+
+LUIS RAYMUND “LRAY” F. VILLAFUERTE, JR.                MIGUEL LUIS R. VILLAFUERTE
+
+
+
+TSUYOSHI ANTHONY G. HORIBATA                           NICOLAS ENCISO VIII
+
+
+
+
+                                            2
+                             Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES
+                                   Quezon City
+
+                              NINETEENTH CONGRESS
+                                 First Regular Session
+
+                                HOUSE BILL NO. 2896
+                                               ____
+
+
+      Introduced by HON. LUIS RAYMUND “LRAY” F. VILLAFUERTE, JR.,
+     HON. MIGUEL LUIS R. VILLAFUERTE, HON. TSUYOSHI ANTHONY G.
+                 HORIBATA AND HON. NICOLAS ENCISO VIII
+
+
+                           AN ACT
+ REORGANIZING AND STRENGTHENING THE DISASTER RISK REDUCTION
+AND MANAGEMENT SYSTEM OF THE PHILIPPINES, ESTABLISHING FOR THE
+PURPOSE THE DEPARTMENT OF DISASTER RESILIENCE AND EMERGENCY
+     MANAGEMENT, EMPOWERING THE REGIONAL FIELD OFFICES,
+    ESTABLISHING COORDINATING MECHANISMS, STRENGTHENING
+ COMMUNITY PARTICIPATION, APPROPRIATING FUNDS THEREFOR, AND
+                    FOR OTHER PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in
+Congress assembled:
+
+
+                                       ARTICLE I
+                               GENERAL PROVISIONS
+SECTION 1. Short Title. – This Act shall be known as the “The Philippine Disaster
+Risk Reduction and Management System Act”.
+
+
+Sec. 2. Declaration of Policy. – The State recognizes the country's severe
+vulnerability to natural and man-made disasters and their catastrophic impact on the
+people's constitutional rights to life, liberty and property, particularly of the poor and
+the marginalized. The State further recognizes the need to institutionalize the
+principles of climate change adaptation and disaster risk reduction and management,
+and the imperative to embody these principles in responsive and capable institutions.
+As such, it is hereby declared a policy of the State to:
+a)   Address the root causes of vulnerabilities to disasters by strengthening the
+     country's institutional capacity for disaster risk reduction and management and
+
+
+
+                                            3
+     building the resilience of local communities to disasters including climate change
+     impacts;
+b)   Adopt a disaster risk reduction and management approach that is holistic,
+     comprehensive, integrated, and proactive in lessening the socioeconomic and
+     environmental impacts of disasters including climate change, and promote the
+     involvement and participation of all sectors and all stakeholders concerned, at all
+     levels, especially the local community;
+c)   Promote a whole-of-government and whole-of society approach to the
+     development of disaster risk reduction and management, to ensure the buy-in of
+     all concerned stakeholders, whether from the government sector, private sector,
+     or non-government sector;
+d)   Adhere to and adopt the universal norms, principles and standards of
+     humanitarian assistance and the global effort on risk reduction as concrete
+     expression of the country's commitment to overcome human sufferings due to
+     recurring disasters;
+e)   Develop, promote, and implement a comprehensive National Disaster Risk
+     Reduction and Management Plan (NDRRMP) that aims to strengthen the
+     capacity of the national government and the local government units (LGUs),
+     together with partner stakeholders to build the disaster resilience of communities,
+     and to institutionalize arrangements and measures for reducing disaster risks,
+     including projected climate risks, and enhancing disaster preparedness and
+     response capabilities at all levels;
+f)   Incorporate internationally accepted principles of disaster risk management in
+     the creation and implementation of national, regional and local sustainable
+     development and poverty reduction strategies, policies, plans and budgets;
+g)   Adopt and implement a coherent, comprehensive, integrated, efficient and
+     responsive disaster risk reduction program incorporated in the development plan
+     at various levels of government adhering to the principles of good governance
+     such as transparency and accountability within the context of poverty alleviation
+     and environmental protection;
+h)   Mainstream disaster risk reduction and climate change in development
+     processes such as policy formulation, socioeconomic development planning,
+     budgeting, and governance, particularly in the areas of environment, agriculture,
+
+
+
+                                            4
+     water, energy, health, education, poverty reduction, land-use and urban
+     planning, and public infrastructure and housing, among others;
+i)   Institutionalize the policies, structures, coordination mechanisms and programs
+     with continuing budget appropriation on disaster risk reduction from national
+     down to local levels towards building a disaster-resilient nation and communities;
+j)   Streamline existing disaster risk reduction and management institutions,
+     structures and mechanisms, in order to reduce redundancy, increase synergy
+     and efficiency, and provide decisive and accountable leadership in times of crisis.
+k)   Ensure that disaster risk reduction and climate change measures are gender
+     responsive, sensitive to indigenous know ledge systems, and respectful of
+     human rights;
+l)   Develop and strengthen the capacities of vulnerable and marginalized groups to
+     mitigate, prepare for, respond to, and recover from the effects of disasters;
+m)   Incorporate community and people's participation on a greater level, to ensure
+     that all national disaster risk reduction programs, activities and policies are
+     aligned with and responsive to the needs of the people;
+n)   Recognize the local risk patterns across the country and strengthen the capacity
+     of LGUs for disaster risk reduction and management through decentralized
+     powers, responsibilities, and resources at the regional and local levels;
+o)   Recognize and strengthen the capacities of LGUs and communities in mitigating
+     and preparing for, responding to, and recovering from the impact of disasters;
+p)   Engage the participation of civil society organizations (CSOs), the private sector
+     and volunteers in the government's disaster risk reduction programs towards
+     complementation of resources and effective delivery of services to the Citizenry;
+q)   Provide maximum care, assistance and services to individuals and families
+     affected by disaster, implement emergency rehabilitation projects to lessen the
+     impact of disaster, and facilitate resumption of normal social and economic
+     activities; and
+r)   Ensure that affected communities rise stronger than they were before incidents
+     of disasters, towards reducing their vulnerability and preventing the repetition of
+     the catastrophic loss of human life and livelihood and destruction of property.
+
+
+Sec. 3. Definition of Terms. – The following terms are defined for the purposes of
+this Act:
+
+
+                                           5
+a)   Build Back Better – refers to an approach to disaster recovery and reconstruction
+     which not only rebuilds communities to pre-disaster standards but also increases
+     their resilience to future disasters;
+b)   LERC – refers to the Local Emergency Response Corps created under this Act;
+c)   Department – refers to the Department of Disaster Resilience and Emergency
+     Assistance and Management which encompasses the National Disaster Risk
+     Reduction and Management Council (NDRRMC) and the Department proper;
+d)   Department proper – refers to the offices, agencies, bureaus, and services under
+     the authority of the Secretary of the Department of Disaster Resilience and
+     Emergency Assistance and Management;
+e)   Secretary – refers to the Secretary of the Department Resilience and Emergency
+     Assistance Management;
+f)   NERC – refers to the National Emergency Response Corps created under this
+     Act;
+g)   NDRRMC – refers to the National Disaster Risk Reduction and Management
+     Council created under R.A. No. 10121, otherwise known as the "Philippine
+     Disaster Risk Reduction and Management Act of 2010";
+h)   RERC – refers to the Regional Emergency Response Corps created under this
+     Act;
+i)   RFO – refers to the Regional Disaster Risk Reduction and Management Councils
+     created under R.A. No. 10121 and renamed as "Regional Field 3 Offices" under
+     this Act.
+     Unless expressly defined in this Section, the other technical terms and concepts
+used in this Act shall be read as defined under Section 3 of Republic Act 6 No. 10121,
+otherwise known as the “Philippine Disaster Risk Reduction and Management Act of
+2010”.
+
+
+                                       ARTICLE II
+         THE DEPARTMENT OF DISASTER RESILIENCE AND EMERGENCY
+                         ASSISTANCE AND MANAGEMENT
+Sec. 4. The Department of Disaster Resilience and Emergency Assistance and
+Management. –To carry out the objectives of this Act and those of R.A. No. 10121,
+the Department of Disaster Resilience and Emergency Assistance and Management
+is hereby established. The Department shall be the primary policy-making, planning,
+
+
+                                             6
+coordinating, integrating, supervising, implementing, monitoring and evaluating
+authority with regard to disaster risk reduction and management in the country.
+
+
+Sec. 5. Organization of the Department. – The Department shall consist of two
+separate and distinct entities: The National Disaster and Risk Reduction and
+Management Council (NDRRMC) and the Department Proper. The NDRRMC shall be
+attached for administrative and budgetary purposes to the Department.
+
+
+Sec. 6. Organization of the Department Proper. – The Department proper shall be
+comprised of the following:
+a)    The Office of the Secretary, which shall encompass the Office of the Secretary
+      and the Offices of the Undersecretaries and the Assistant Secretaries, and their
+      immediate support staff;
+b)    The Regional Field Offices;
+c)    The Bureaus enumerated under Section 17 of this Act;
+d)    The National Emergency Response Corps (NERC);
+e)    The National Disaster Risk Reduction and Management Research and Training
+      Center (NDRRMC-RTC)
+f)    The attached agencies enumerated under Section 21 of this Act; and
+g)    The Department Services enumerated under Section 18 of this Act;
+
+
+Sec. 7. Selection of Personnel. – The selection of the personnel of the Department
+shall be based strictly on merit and fitness in accordance with the Civil Service Code
+and other applicable laws and rules and regulations. The formulation of the
+organizational structure and staffing pattern shall be completed within one (1) year
+after the effectivity of this Act.
+
+
+                                     ARTICLE III
+ THE NATIONAL DISASTER RISK REDUCTION AND MANAGEMENT COUNCIL
+Sec. 8. The National Disaster Risk Reduction Council. – The NDRRMC shall be
+the policy-formulating and coordinating body of the Department which shall ensure a
+whole-of-government approach to formulating and implementing the National Disaster
+Risk Reduction and Management Plan.
+
+
+
+                                          7
+Sec. 9. Organization. – The membership of the NDRRMC under R.A. No. 10121 shall
+be retained: Provided, that the NDRRMC shall be chaired by the President: Provided
+further, that the Secretary of the Department of Disaster Management shall be the
+vice-chair of the NDRRMC, and shall preside as Chairman when the President is
+unable to attend a meeting.
+
+
+Sec. 10. Powers and Functions of the NDRRMC. – The NDRRMC shall:
+a)   Formulate the NDRRMP which shall be a comprehensive, all-hazards, multi-
+     sectoral, inter-agency and community-based approach to disaster risk reduction
+     and management. The NDRRMP shall serve as the principal guide to disaster
+     risk reduction and management efforts in the country and shall be reviewed on a
+     ten (10)-year interval, or as may be deemed necessary, in order to ensure its
+     relevance to the times;
+b)   Develop vertical and horizontal coordination mechanisms for a more coherent
+     implementation of disaster risk reduction and management policies and
+     programs by sectoral agencies and LGUs;
+c)   Constitute a technical management group composed of representatives of the
+     concerned departments, offices, and organizations, that shall coordinate and
+     meet as often as necessary to effectively manage and sustain national efforts on
+     disaster risk reduction and management;
+d)   Serve as a coordinating body for all inter-agency efforts during risk reduction and
+     management operations;
+e)   Advise the President on the status of disaster preparedness, prevention,
+     mitigation, response and rehabilitation operations being undertaken by the
+     government, CSOs, private sector, and volunteers, and submit proposals to
+     restore normalcy in affected areas;
+f)   Recommend to the President the declaration of a State of Calamity in areas
+     extensively damaged and to submit proposals to restore normalcy in the affected
+     areas;
+g)   In coordination with the Climate Change Commission, formulate and implement
+     a single harmonized framework and action plan for climate change adaptation
+     and disaster mitigation;
+h)   Receive, administer, mobilize and report the National Disaster Risk Reduction
+     and Management Fund, and other recovery and rehabilitation funds;
+
+
+                                           8
+i)   Receive donations and grants from any person, government institution,
+     corporation, international organization, and other similar entities, and the power
+     to recommend the procurement of developmental assistance for the purpose of
+     disaster risk reduction and management subject to Section 32 of this Act;
+j)   Monitor and provide the necessary guidelines and procedures on the Local
+     Disaster Risk Reduction and Management Fund (LDRRMF) releases as well as
+     utilization, accounting and auditing thereof;
+k)   Develop appropriate risk transfer mechanisms that shall guarantee social and
+     economic protection and increase resiliency in the face of disaster; and
+l)   Establish and monitor local and national capacity for disaster risk financing and
+     insurance and other risk transfer strategies.
+
+
+Sec. 11. Monitoring and Reporting. –
+a)   On or before the last quarter of the preceding year, the member-agencies of the
+     NDRRMC shall submit to the Secretary their respective disaster risk reduction
+     and management annual work and financial management plans for the next year;
+b)   The member-agencies of the NDRRMC shall also submit to the Secretary
+     quarterly progress reports on the implementation of their respective DRRM
+     annual work and financial management plans within thirty (30) days from the end
+     of each quarter.
+
+
+                                     ARTICLE IV
+                           THE DEPARTMENT PROPER
+Sec. 12. The Department Proper. – The Department proper shall be the Secretariat
+and executive arm of the Department. It shall be in charge of implementing and
+monitoring the implementation of disaster risk reduction and management policies,
+activities and programs as embodied in the NDRRMP.
+
+
+Sec. 13. The Secretary. – The Department shall be headed by a Department
+Secretary who shall be a member of the Cabinet. He shall be appointed by the
+President for a term of six (6) years and shall be a member of the Cabinet
+
+
+Sec. 14. Powers and Functions of the Secretary. – The Secretary shall:
+
+
+
+                                           9
+a)   Monitor the integration of disaster risk reduction and management policies into
+     local and national development plans;
+b)   Oversee and direct the comprehensive implementation of disaster risk reduction
+     and management policies, plans and programs as embodied in the NDRRMP;
+c)   Review and evaluate Local Disaster Risk Reduction and Management Plans to
+     ensure their consistency with the NDRRMP through the regional offices;
+d)   Call upon other instrumentalities or entities of the government and
+     nongovernment and civic organizations for assistance in terms of the use of their
+     facilities and resources for the protection and preservation of life and properties
+     in the whole range of disaster risk reduction and management, which includes
+     the power to call on the reserve force as defined in Republic Act No. 7077 to
+     assist in relief and rescue during disasters or calamities;
+e)   Exercise visitorial and examining powers over governmental and non-
+     governmental entities engaged in DRRM operations;
+f)   Commandeer any private property for urgent public purposes, subject to
+     payment of just compensation in appropriate cases;
+g)   Coordinate or oversee the implementation of the country's obligations with
+     disaster risk reduction and management treaties to which it is a party and see to
+     it that the country's disaster risk management treaty obligations be incorporated
+     in its disaster risk reduction and management frameworks, policies, plans,
+     programs, and projects; and
+h)   Lead the mainstreaming of disaster risk reduction and management in all stages
+     and levels of national and local planning and budgeting processes;
+i)   Raise awareness among national agencies, local government units, and local
+     communities on the importance of disaster risk reduction and management;
+j)   In lieu of the President, preside and lead meetings of the NDRRMC;
+k)   Coordinate with the members of the NDRRMC for the implementation,
+     monitoring, review, and revision of the NDRRMP;
+l)   Provide secretarial support to the NDRRMC;
+m)   Advise the NDRRMC on matters relating to disaster risk reduction and
+     management consistent with the policies and scope as defined in this Act;
+n)   Assess the strengths and weaknesses of NDRRMC members on aspects of
+     DRRM and provide the corresponding capacity building through the Department
+     proper;
+
+
+                                          10
+o)   Direct the deployment of the National Emergency Response Corps (NERC)
+     and/or Regional Emergency Response Corps (RERC) the to assist in relief and
+     rescue during disasters or calamities;
+p)   Create regional and field offices and such other service units and divisions as
+     may be necessary;
+q)   Exercise administrative supervision and control over the Regional Field Offices
+     (RFOs);
+r)   Exercise supervision over the Local Disaster Risk Reduction and Management
+     Offices (LDRRMOs) in all provinces, cities, municipalities, and barangays in the
+     country;
+s)   Exercise all powers and functions provided to department secretaries under
+     Book IV, Chapter 2 of Executive Order No. 292, otherwise known as the
+     "Administrative Code of 1987"; and
+t)   Perform such other functions as may be necessary or proper to attain the
+     objectives of this Act.
+
+
+Sec. 15. The Undersecretaries and Assistant Secretaries. – The Secretary shall
+be assisted by three (3) undersecretaries for disaster mitigation, disaster
+preparedness and response, and disaster recovery and rehabilitation, respectively,
+and four (4) career assistant secretaries who shall perform such functions as may be
+assigned by the Secretary.
+
+
+Sec. 16. Qualifications. – No person shall be appointed as Secretary, undersecretary
+or assistant secretary unless he is a citizen and resident of the Philippines, is of good
+moral character, and is of proven competence and expertise in disaster risk reduction
+and management over the course of his career. He shall not hold any other position,
+whether public or private, during his tenure.
+
+
+Sec. 17. The Department Bureaus. – The Department shall have the following
+bureaus:
+a)   The Bureau of Disaster Resilience (BDR) – The BDR shall assist the Secretary
+     in formulating, implementing, monitoring, and reviewing policies and programs
+     with regard to disaster mitigation, prevention, and post disaster rehabilitation. To
+     this end, the BDR shall:
+
+
+                                           11
+1.   Advise the Secretary on all matters regarding disaster and emergency
+     mitigation and preparation;
+2.   Advise the Secretary on the status of disaster mitigation and prevention and
+     post-disaster   rehabilitation   operations   being    undertaken     by   the
+     government, CSOs, private sector, and volunteers;
+3.   Cascade technical expertise on disaster mitigation and prevention and
+     post-disaster rehabilitation to LGUs through the RFOs;
+4.   Develop, update, and make available a Disaster Risk Reduction and
+     Management Information System and Geographic Information System
+     based national and local risk maps as policy, planning, and decision-making
+     tools;
+5.   Conduct and institutionalize pre-disaster risk assessment to identify
+     vulnerable and at-risk communities and local government units, and provide
+     technical assistance and capacity building on the same to local government
+     units through the RFOs;
+6.   Develop unified and harmonized tools, guidelines, and policies on the
+     existing and potential hazards and risks brought about by climate change
+     in coordination with the Climate Change Commission;
+7.   Conduct a review of the National Building Code and Fire Code of the
+     Philippines, together with the relevant government departments and the
+     concerned stakeholders and technical experts, and submit the same to the
+     Senate and House of Representatives of the Philippines towards the
+     development of legislation which seek to strengthen infrastructure in line
+     with disaster prevention and mitigation;
+8.   Conduct public information campaigns and drills on disaster preparedness;
+9.   Issue guidelines and rules and regulations to institutionalize the principle of
+     "build back better" in all disaster reconstruction and rehabilitation
+     operations;
+10. Issue guidelines for the reconstruction and rehabilitation of disaster affected
+     areas and institutionalize the principles of “Build Back Betted”; and
+11. Recommend the issuance of government bonds to secure the funding for
+     the reconstruction of disaster-stricken areas; and
+
+
+
+
+                                      12
+     12. Prepare, organize and lead post-disaster recovery and rehabilitation
+          programs in coordination with the concerned regional field office and the
+          local government unit.
+
+
+b)   The Bureau of Disaster Preparation and Response (BDPR) The BDPR shall
+     assist the Secretary in formulating, implementing, monitoring, and reviewing
+     policies and programs with regard to disaster preparation and response. To this
+     end, the BDR shall:
+     1.   Advise the Secretary on all matters regarding disaster preparation and
+          response;
+     2.   Monitor and advise the Secretary on the status of disaster preparation and
+          response operations being undertaken by the government, CSOs, private
+          sector, and volunteers;
+     3.   Cascade technical expertise on disaster preparation and response to LGUs
+          through the RFOs;
+     4.   Exercise administrative control over the National Emergency Response
+          corps (NERC);
+     5.   Implement pre-positioning of necessary goods and supplies at least twenty-
+          four (24) hours before an expected disaster;
+     6.   If needed, procure goods and services during emergencies in accordance
+          with existing emergency procurement rules and regulations;
+     7.   Establish and maintain an inventory of all necessary personnel, equipment
+          and supplies critical during disasters in all RFOs and LGUs, and ensure that
+          they are delivered within forty-eight (48) hours after the aftermath of a
+          disaster;
+     8.   Establish and maintain a national early warning and emergency alert
+          system to provide accurate and timely advice to national or local emergency
+          response, and to the general public through diverse mass media such as
+          digital and analogue broadcast, cable, satellite television and radio,
+          wireless communications, and landline communications;
+     9.   Implement the provisions of Republic Act No. 10639, otherwise known as
+          "The Free Mobile Disaster Alerts Act”;
+     10. Establish and maintain an emergency communication system with and
+          among LGUs through the RFOs;
+
+
+                                         13
+     11. Establish standard operating procedures for emergency response and
+            cascade the same to the LGUs through the NDEMA RFOs; and
+     12. Establish unified guidelines and mechanisms for the recruitment, training,
+            and deployment of the NERC, in coordination with the concerned
+            government agencies and stakeholders.
+
+
+c)   The Bureau of Knowledge Management and Dissemination (BKMD) – The
+     BKMD shall serve as the administrator of the Department's technical knowledge,
+     materials, and research and development on disaster risk reduction and
+     management. Towards this end, the BDKD shall:
+     1.     Exercise supervision and control over the DRRM Research and Training
+            Center;
+     2.     Expand the content and materials of the DRRM Research and Training
+            Center and ensure that they are up to date;
+     3.     Liaise with international and domestic stakeholders towards the expansion
+            of the DRRM Research and Training Center;
+     4.     Provide full and free access to the materials in the DRRM Research and
+            Training Center;
+     5.     Disseminate materials on disaster risk reduction and management to the
+            LGUs through the RFOs, to all stakeholders, and to the general public;
+     6.     Provide short courses and trainings on disaster risk reduction and
+            management and its various aspects, in coordination with the relevant
+            Bureau(s) of the Department;
+     7.     Offer grants and other financial incentives for researchers, members of the
+            academe and/or developers in the field of disaster risk reduction and
+            management; and
+     8.     Partner with the academe and research institutions, private sector, civil
+            society, and community-based DRRM practitioners and other relevant
+            sectors in developing research opportunities and programs on DRRM.
+
+
+Sec. 18. The Department Services. – The Department shall have the following
+Services:
+
+
+
+
+                                           14
+a)   Planning Service – The Planning Service shall provide the department with
+     services relating to planning, programming, and project development, and
+     discharge such other functions as may be provided by law;
+b)   Financial and Management Service – The Financial and Management Services
+     shall advise and assist the Secretary on budgetary, financial and management
+     matters and shall perform such other functions as may be provided by law; and
+c)   Administrative Service – The Administrative Service shall provide the
+     Department with effective services relating to personnel, legal assistance,
+     information, records, delivery and receipt of correspondence, supplies,
+     equipment, collections, disbursement, security and custodial work.
+
+
+Sec. 19. The National Emergency Response Corps. – There is hereby established
+a National Emergency Response Corps (NERC). The NERC shall be a dedicated,
+trained and reliable team who can be deployed on short notice in the event of a
+disaster. It shall be composed of full-time and part-time disaster managers,
+paramedics, debris clearing personnel, volunteers, and aid and relief managers. The
+NERC shall be under the administrative control of the BDPR.
+
+
+Sec. 20. The National Disaster Risk Reduction and Management Research and
+Training Center. – Within one (1) year from the approval of this Act, the Authority
+shall establish a National Disaster Risk Reduction and Management Research and
+Training center which shall serve as the Department's centralized repository and for
+its technical materials and research and development on disaster risk reduction and
+management.
+
+
+Sec. 21. The Attached Agencies. – The following agencies and offices and their
+respective appropriations, records, equipment, property and personnel are hereby
+transferred to the Department:
+a)   The   Philippine   Atmospheric,   Geophysical    and     Astronomical   Services
+     Administration (PAG-ASA);
+b)   The Philippine Institute of Volcanology (PHIVOLCS);
+c)   The Bureau of Fire Protection (BFP);
+d)   The Health Emergency Management Bureau (HEMB);
+e)   The Philippine National Volunteer Service Coordinating Agency; and
+
+
+                                        15
+f)   All civilian personnel and operating units of the Department of National Defense
+     (DND) and the Office of Civil Defense (OCD) with functions and responsibilities
+     dealing with disaster risk reduction and management;
+     The agencies transferred above shall continue to perform such functions as
+provided in existing laws: Provided, that the Department shall exercise administrative
+supervision over the transferred agencies.
+
+
+Sec. 22. The Regional Field Offices. – The current Regional Disaster Risk Reduction
+and Management Councils are hereby renamed as the "Regional Field Offices"
+(RFOs) and are hereby transferred under the administrative supervision of the
+Department. RFOs shall have the following mandates:
+a)   To ensure that the principles of disaster risk reduction and management are
+     institutionalized on the local level, particularly in their Comprehensive
+     Development Plan (CDP) and Comprehensive Land-Use Plan (CLUP), and in
+     pursuit of this mandate thereof, review the Local Disaster Risk Reduction and
+     Management Plan (LDRRMP) of LGUs within their jurisdiction and ensure their
+     alignment with the NDRRMP;
+b)   To ensure the compliance of LGUs with their mandates under R.A. 10121;
+c)   To pro-actively assess the weaknesses and vulnerabilities of LGUs in all phases
+     of disaster risk reduction and management and remedy the same through
+     technical assistance and capacity building activities;
+d)   To consult LGUs and communities within their jurisdiction on their vulnerabilities
+     in all phases of disaster risk reduction and management and forward their
+     concerns to the central office to be included in the formulation and review of the
+     NDRRMP; and
+e)   To act as the operations center during disaster preparation and response
+     operations.
+
+
+Sec. 23. Divisions. – To achieve the mandates stated above, each RFO shall have
+the following divisions:
+a)   Disaster Resilience. – This division shall be in charge of all matters on disaster
+     mitigation and rehabilitation. It shall have the following powers and functions:
+     1.    Serve as liaison between the Department and the LGUs and establish
+           efficient lines of communication and coordination between them;
+
+
+                                          16
+     2.   Provide technical assistance and capacity to LGUs on pre-disaster risk
+          assessment and empower them to identify vulnerable communities and
+          groups in their area;
+     3.   Collect and consolidate information on the vulnerabilities of local
+          government units in their jurisdiction and submit the same to the Central
+          Office;
+     4.   Provide technical assistance and capacity building to LGUs to empower
+          them to institutionalize and Disaster Risk Reduction and Management
+          Information System and Geographic Information System-based national
+          and local risk maps as policy, planning, and decision-making tools;
+     5.   Conduct and institutionalize pre-disaster risk assessment to identify
+          vulnerable and at-risk communities and local government units, and provide
+          technical assistance and capacity building on the same to local government
+          units through the RFOs;
+     6.   Conduct drills and information campaigns on disaster preparedness;
+     7.   Aid households in the preparation of disaster readiness kits, which shall
+          serve as a pack of essential goods needed in the aftermath of a disaster;
+          and
+     8.   Lead rehabilitation operations and ensure their completion within their
+          established schedule.
+
+
+b)   Disaster Preparation and Response. – This division shall be in charge of all
+     matters on disaster preparation and response. It shall have the following powers
+     and functions:
+     1.   Establish a Regional Emergency Response Corps (RERC);
+     2.   Establish a Regional Disaster Risk Reduction and Management Operations
+          Center (RDRRMC-OC) that shall be operated and staffed on a twenty-four-
+          hour basis;
+     3.   Establish and maintain an inventory of all necessary personnel, equipment
+          and supplies critical during disasters in all RFOs and LGUs, and ensure that
+          they are delivered within forty-eight (48) hours after the aftermath of a
+          disaster;
+     4.   Implement pre-positioning of necessary goods and supplies at least twenty-
+          four (24) hours before an expected disaster;
+
+
+                                         17
+     5.    Establish and maintain an emergency communication system with and
+           among LGUs;
+     6.    When necessary, procure goods and services during emergencies in
+           accordance with existing emergency rules and regulations;
+     7.    Cascade the established Standard Operating Procedures for emergency
+           response to the LGUs; and
+     8.    Receive donations and grants from any person, government institution,
+           corporation, international organization, and other similar entities, and the
+           power to recommend the procurement of developmental subject to section
+           32 of this Act.
+
+
+c)   Knowledge Management. – This division shall be in charge of managing and
+     disseminating technical knowledge and information on disaster risk and
+     reduction in the region. It shall have the following functions:
+     a)    Establish a Regional Disaster Risk Reduction and Management Research
+           and Training Center (RDRRM-RTC);
+     b)    Expand the content and materials of the DRRM Research and Training
+           Center and ensure that they are up to date;
+     c)    Liaise with international and domestic stakeholders towards the expansion
+           of the DRRM Research and Training Center;
+     d)    Provide full and free access to the materials in the DRRM Research and
+           Training Center;
+     e)    Disseminate materials on disaster risk reduction and management to LGUs
+           and local communities; and
+     f)    Provide short courses and trainings on disaster risk reduction and
+           management and its various aspects, in coordination with the relevant
+           divisions of the RFO.
+
+
+Sec. 24. The Regional Directors. – The RFOs shall be headed by a Regional Director
+who shall be assisted by three Assistant Regional Directors for Disaster Resilience,
+Disaster Preparation and Response, and Knowledge Management. No person shall
+be appointed as Regional Director unless he is a citizen and resident of the Philippines,
+is of good moral character, and is of proven competence/expertise in emergency
+management and disaster risk reduction and management over the course of his
+
+
+                                           18
+career. He shall not hold any other position, whether public or private, during his
+tenure.
+
+
+                                      ARTICLE V
+                    DISASTER MITIGATION AND PREVENTION
+Sec. 25. Harmonization of CCA and DRRM Plans. – The NDRRMC shall ensure
+that the Disaster Risk Reduction and Management Plan is harmonized and consistent
+with the National Climate Change Action Plan as defined under Republic Act No. 9279,
+otherwise known as the "Climate Change Act of 2009" as amended. To this end, the
+NRRMC shall coordinate with the Climate Change Commission: Provided, that this
+provision shall not be construed as a limitation on the mandate, powers, and functions
+of the Climate Change Condition as set forth in R.A. No. 9279.
+
+
+Sec. 26. Pre-Disaster Risk Assessment. – The Department proper shall formulate a
+national policy on risk assessment for environmental risk, national disaster risk, natural
+disaster risk and climate change risk, and shall take into consideration the
+interdependence of disaster risk reduction, environmental management, climate
+change adaptation and sustainable development. The Department proper shall
+develop tools and standards for Pre-disaster risk assessment and ensure that it is
+cascaded to the LDRRMOs through the RFOs.
+
+
+Sec. 27. National DRRM Information Management System. – The Department
+proper shall establish a National Information Management System for DRRM. It shall
+be the centralized repository of all disaster risk-reduction and climate change data,
+which shall include a geographic information system component, down to the
+barangay level. The database shall be available at all times to all levels of the DRRM
+system, to members of academe and experts in the field of DRRM, and to the general
+public.
+
+
+Sec. 28. Risk Assessment on the Local Level. – The LDRRMOs and BDRRMOs
+shall conduct and risk assessments in coordination with the appropriate RFO and
+other stakeholders, which shall include vulnerable and marginalized groups, and
+submit the same to the RFOs. The LDRRMOs, with assistance provided by the RFOs,
+shall also develop Disaster Risk Reduction and Management Information System and
+
+
+                                           19
+Geographic Information System-based national and local risk maps as policy,
+planning, and decision-making tools.
+
+
+                                       ARTICLE VI
+                    DISASTER PREPARATION AND RESPONSE
+Sec. 29. Standing Orders for Disaster Preparation and Response. – Within one
+(1) year from the effectivity of this Act, the NDRRMC shall formulate and publish
+standing orders for all its member-agencies and their respective field office which shall
+delineate their respective roles and functions and the chain of command during
+disaster preparation and response: Provided, that the standing orders shall take into
+Section 15 of R.A. No 10121.
+
+
+Sec. 30. Regional Field Offices as Operations Center. – The Regional Field Offices
+shall serve as the Operations Center for all disaster preparation and response
+operations within their jurisdiction. For the purpose of effective coordination, there shall
+be formed a Disaster Response Committee to be composed, as a minimum, of the
+concerned local chief executives and their LDRRMO officers, the Regional Director of
+the RFOs, and such officers as may be assigned by the Secretary.
+
+
+Sec. 31. Evacuation Centers. – LGUs shall identify and build permanent evacuation
+centers in accordance with standards to be issued by the Department proper to
+minimize the use of schools: Provided, that schools which are used as evacuation
+centers shall be provided with just compensation by the concerned LGU.
+
+
+Sec. 32. Donations. – The Secretary shall have the power have the power to receive
+donations and grants from any person, government institution, corporation,
+international organization, and other similar entities, and the power to recommend the
+procurement of developmental assistance for the purpose of disaster risk reduction
+and management: Provided, that the Department shall certify the receipt of all DRRM
+donated funds and ensure their judicious management including their proper and
+accurate audit reporting to constituents.
+
+
+Sec. 33. Procurement. – The declaration of a state of calamity, as defined in R.A. No.
+10121, shall be a sufficient basis for an LGU to undergo negotiated procurement, as
+
+
+                                            20
+defined under R.A. No. 9184, otherwise known as the “Government Procurement
+Reform Act”.
+
+
+                                     ARTICLE VII
+               POST-DISASTER REHABILITATION AND RECOVERY
+Sec. 34. Rehabilitation Committee. – The members of the Disaster Response
+Committee as defined under Sec. 30 of this Act may continue to serve as the
+coordinating committee for disaster rehabilitation and recovery operations.
+
+
+Sec. 36. Standards for Rehabilitation and Recovery. – The Secretary shall
+promulgate rules and regulations which will set standards for disaster rehabilitation
+operations. Such rules and regulations shall, at the very least:
+a)   Improve the physical, social and economic resilience of the community, in
+     accordance with the principles of "Build Back Better";
+b)   Redirect development outside of danger zones; and
+c)   Maximize the use of Public-Private Partnerships.
+
+
+                                    ARTICLE VIII
+                           COMMUNITY PARTICIPATION
+Sec. 37. Community Input in Pre-Disaster Risk Assessment. – In conducting pre-
+disaster risk assessments, the LDRRMO and BDRRMO shall include interviews and
+consultations with local communities in order to identify their vulnerabilities, Such
+consultations shall complement data gathered from data-oriented pre-disaster risk
+assessments and shall be incorporated in the formulation of all disaster risk reduction
+and management plans on the local and national levels.
+
+
+Sec. 38. Volunteers. – The Department proper and the RFOs shall provide training in
+first aid, disaster management and leadership in times of disasters. Individuals who
+complete such training shall be deputized by the Department and considered as
+partners in disaster management who shall have the following responsibilities:
+a)   Directly receive early warning messages from the Department and disseminate
+     the same to their communities;
+b)   Mobilize their communities away from vulnerable areas;
+
+
+
+                                          21
+c)   Disseminate the provisions of this Act as well as its corresponding rules and
+     regulations to local communities;
+d)   Conduct interviews and consultations with local communities on their satisfaction
+     with the DRRM programs, activities and policies of the government;
+e)   Provide first aid when necessary; and
+f)   Aid the government in distributing goods and maintaining order during disaster
+     response and rehabilitation operations.
+
+
+                                     ARTICLE IX
+     RESOURCES FOR DISASTER RISK REDUCTION AND MANAGEMENT
+Sec. 39. Human Resources for Disaster Risk Reduction and Management. – The
+department proper shall provide grants and other forms of support for individuals who
+study and complete courses in disaster risk reduction and management: Provided, that
+individuals shall render disaster risk reduction and management service for at least
+two (2) years in a community determined by the Department proper.
+
+
+Sec. 40. The NDRRM Fund. – At least three per cent (3%) of all estimated regular
+government revenues shall be set aside for the NDRRM Fund to be used for the
+purposes identified under Section 22 of R.A. No. 10121. The NDRRM fund shall not
+be reduced, transferred, realigned, or used for purposes other than those identified
+under R.A. No. 10121.
+
+
+                                      ARTICLE X
+                   MISCELLANEOUS AND FINAL PROVISIONS
+Sec. 41. Transition Period. – The transfer of functions, assets, funds, equipment,
+properties, transactions, assets, funds, properties transactions and personnel of the
+affected agencies, and the formulation of the internal organic structure, staffing
+pattern, operating and revised budget of the Department, shall be completed within six
+(6) months from the effectivity of this Act, during which time the existing personnel
+shall continue to assume their posts in holdover capacities until new appointments are
+issued.
+
+
+Sec. 42. Separation from Service. – Employees separated from the service as a
+result of this reorganization shall, within six (6) months from their separation from the
+
+
+                                           22
+service, receive the retirement benefits to which they may be entitled under existing
+laws, rules and regulations.
+
+
+Sec. 43. Prohibited Acts. – The following Acts shall be prohibited:
+a)   Dereliction of duties which leads to destruction, loss of lives, critical damage of
+     facilities and misuse of funds;
+b)   Preventing the entry and distribution of relief goods in disaster-stricken areas,
+     including appropriate technology, tools, equipment, accessories, disaster
+     teams/experts;
+c)   Buying, for consumption or resale, from disaster relief agencies any relief goods,
+     equipment or other and commodities which are intended for distribution to
+     disaster affected communities;
+d)   Buying, for consumption or resale, from the recipient disaster affected persons
+     any relief goods, equipment or other aid commodities received by them;
+e)   Selling of relief goods, equipment or other aid commodities which are intended
+     for distribution to disaster victims;
+f)   Forcibly seizing relief goods, equipment or other aid commodities intended for or
+     consigned to a specific group of victims or relief agency;
+g)   Diverting or mis delivery of relief goods, equipment or other aid commodities to
+     persons other than the rightful recipient or consignee;
+h)   Accepting, possessing, using or disposing relief goods, equipment or other aid
+     commodities not intended for nor consigned to him/her;
+i)   Misrepresenting the source of relief goods, equipment or other aid commodities
+     by:
+     1)    Either covering, replacing or defacing the labels of the containers to make
+           it appear that the goods, equipment or other aid commodities came from
+           another agency or persons;
+     2)    Repacking the goods, equipment or other aid commodities into containers
+           with different markings to make it appear that the goods came from another
+           agency or persons or was released upon the instance of a particular agency
+           or persons; or
+     3)    Making false verbal claim that the goods, equipment or other and
+           commodity m its untampered original containers actually came from
+
+
+
+                                             23
+           another agency or persons or was released upon the instance of a
+           particular agency or persons;
+j)   Substituting or replacing relief goods, equipment or other aid commodities with
+     the same items or inferior/cheaper quality;
+k)   Illegal solicitations by persons or organizations representing others as defined in
+     the standards and guidelines set by the Authority
+l)   Deliberate use of false at inflated data in support of the request for funding, relief
+     goods, equipment or other aid commodities for emergency assistance or
+     livelihood projects; and
+m)   Tampering with or stealing hazard monitoring and disaster preparedness
+     equipment and paraphernalia.
+
+
+Sec. 44. Penal Clause. – Any individual, corporation, partnership, association, or
+other juridical entity that commits any of the prohibited acts provided for in the
+preceding section shall be prosecuted and upon conviction shall suffer a fine of not
+less than one hundred thousand pesos (Php 100,000.00) or any amount not to exceed
+seven hundred fifty thousand pesos (Php 750,000.00) or imprisonment of not less than
+six (6) years and one (1) day or more than twelve (12) years, or both, at the discretion
+of the court, including perpetual disqualification from public office if the offender is a
+public officer, and confiscation or forfeiture in favor of the government of the objects
+and the instrumentalities used in committing any of herein prohibited acts.
+
+
+Sec. 45. Appropriations. – The amount needed for the initial implementation of this
+Act shall be taken from the current fiscal year's appropriation of the NDRRMC, OCD,
+and all agencies herein transferred to the Department as well. Thereafter, the amount
+needed for the operation and maintenance of the Authority shall be included in the
+General Appropriations Act.
+Sec. 46. Implementing Rules and Regulations. – The members of the NDRRMC
+shall within sixty (60) days form the effectivity of this Act the implementing rules and
+regulations necessary for its effective implementation.
+
+
+Sec. 47. Repealing Clause. – Sections 6, 7, 8, 9, 10, 13, 19, and 20 of R.A. No. 10121
+are hereby repealed. The provisions of R.A. No. 10121 not expressly repealed in this
+section shall remain in full force and effect: Provided, that all references to the
+
+
+                                           24
+NDRRMC and OCD shall be understood to refer to the Department, unless otherwise
+provided in this Act.
+     All other decrees, laws, executive orders, proclamations and administrative
+regulations or parts thereof inconsistent with the provisions of this Act are likewise
+repealed, amended or modified accordingly.
+
+
+Sec. 48. Separability Cause. – If any provision or part of this Act is declared
+unconstitutional, the remaining parts or provisions not affected shall remain in full force
+and effect.
+
+
+Sec. 49. Effectivity Clause. – This Act shall take effect fifteen (15) days after its
+complete publication in the Official Gazette or in a newspaper of general
+
+
+     Approved,
+
+
+
+
+                                            25
+

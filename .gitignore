@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+logs/runs.jsonl
+.DS_Store
+.pytest_cache/

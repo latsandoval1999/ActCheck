@@ -1,0 +1,99 @@
+{
+  "target": "HB-20-2322",
+  "entity_proposed": "Congressional Commission on Agriculture and Fisheries (AGRICOM)",
+  "related": [
+    {
+      "id": "SB-20-1199",
+      "relationship": "counterpart in other chamber",
+      "basis": "Senate bill in the same (20th) Congress whose creation, composition (12 members, same committee chairs), Executive Director (SG 29), powers and appropriations sections match the target almost word for word; differences are the name adding 'Food Security', no sentence on designation of other members in s5, and shorter ED qualifications in s6; baseline label confirmed.",
+      "section": "SB-20-1199:s4",
+      "quote": "to undertake a comprehensive national assessment and evaluation of the performance of the Philippine agriculture and fisheries sector for the purpose of recommending transformative, concrete and targeted reforms"
+    },
+    {
+      "id": "HB-20-5296",
+      "relationship": "refiled near-copy",
+      "basis": "House bill in the same Congress that follows the target section by section (12-member composition with the same committee chairs, ED at SG 29, same list of functions, initial funding from Senate and House appropriations), though the name adds 'Food Security', ss. 6 and 13 are paraphrased and s5 repeats a sentence; baseline label kept.",
+      "section": "HB-20-5296:s5",
+      "quote": "The Commission shall be composed of twelve (12) members: six (6) from the Senate and six (6) from the House of Representatives"
+    },
+    {
+      "id": "HB-20-5129",
+      "relationship": "refiled near-copy",
+      "basis": "Overrode baseline 'same subject (competing or related design)', which is not a valid label: this same-Congress House bill (OCR text) has the same 12-member composition, ED provision, functions and appropriations wording as the target, differing mainly in adding 'Food Security' to the name.",
+      "section": "HB-20-5129:s13",
+      "quote": "The amount necessary for the initial implementation of this Act shall be charged against available appropriations of the Senate and the House of Representatives."
+    },
+    {
+      "id": "CR-20-AGRICOM",
+      "relationship": "counterpart in other chamber",
+      "basis": "Senate committee report (not a bill) recommending SB 1624 in substitution of SB 1199, the target's near-identical Senate counterpart, and SB 1345; its recommended text shrinks the commission to 10 members with co-chairpersons and fixes P200 million initial funding, and the front matter shown does not mention HB 2322.",
+      "section": "CR-20-AGRICOM:note",
+      "quote": "Recommending its approval in substitution of Senate Bill Nos. 1199 and 1345"
+    },
+    {
+      "id": "SB-20-1624",
+      "relationship": "counterpart in other chamber",
+      "basis": "Senate substitute bill (front matter: in substitution of SB 1199 and 1345) that is now the Senate vehicle for the same commission, but it departs from the target's design: 10 members instead of 12, co-chairpersons, added bureaucracy-review functions, and a fixed P200 million initial appropriation (s13) where the target names no amount.",
+      "section": "SB-20-1624:s7",
+      "quote": "The AGRICOM shall be composed of ten (10) members, with five (5) members each from the Senate and the House of Representatives."
+    },
+    {
+      "id": "SB-20-1345",
+      "relationship": "competing design",
+      "basis": "Replaced baseline 'same subject' with a valid label: same problem but a materially different structure (agriculture-only commission, 10 members with co-chairpersons, aim of global competitiveness rather than food security, fixed P200 million appropriation in s16); its s7(e) also refers to the 'status of Philippine education', an apparent drafting carry-over.",
+      "section": "SB-20-1345:s5",
+      "quote": "The AGRICOM shall be composed of ten (10) members, with five (5) members from the Senate and five (5) members from the House of Representatives."
+    },
+    {
+      "id": "HB-20-11060",
+      "relationship": "competing design",
+      "basis": "Replaced baseline 'same subject' with a valid label: same-Congress House bill that keeps the 12-member composition with the same committee chairs but adds co-chairpersons, an expanded eight-item mandate, a Technical Secretariat and broader ED qualifications, and describes the body as independent and temporary.",
+      "section": "HB-20-11060:s4",
+      "quote": "The AGRICOM shall be an independent, temporary, multisectoral, and evidence-based congressional body created for the purposes specified in this Act."
+    },
+    {
+      "id": "SB-18-2485",
+      "relationship": "precedent or model",
+      "basis": "Overrode baseline 'possibly related', which is not a valid label: 18th Congress bill (filed 2022-01-24, status Lapsed Into Law) creating a congressional commission on education whose title wording parallels the target's title; title match only; text not reviewed.",
+      "section": "meta:SB-18-2485",
+      "quote": "AN ACT CREATING A SECOND CONGRESSIONAL COMMISSION ON EDUCATION TO ASSESS AND EVALUATE THE STATE OF PHILIPPINE EDUCATION"
+    },
+    {
+      "id": "RA-11899",
+      "relationship": "precedent or model",
+      "basis": "Existing law creating a congressional commission on education whose title the target's title follows almost exactly with 'agriculture and fisheries' in place of 'education'; title match only; text not reviewed, so which operative provisions were copied cannot be confirmed.",
+      "section": "law:RA-11899",
+      "quote": "TO REVIEW, ASSESS, AND EVALUATE THE STATE OF PHILIPPINE EDUCATION AND RECOMMEND INNOVATIVE AND TARGETED POLICY REFORMS IN EDUCATION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+    },
+    {
+      "id": "EO-127-1999",
+      "relationship": "unrelated",
+      "basis": "Flagged as title resembling the bill, but its title concerns a council on agriculture and fisheries extension, research and development rather than a congressional review commission; title match only; text not reviewed.",
+      "section": "law:EO-127-1999",
+      "quote": "CONSTITUTING THE COUNCIL FOR EXTENSION, RESEARCH AND DEVELOPMENT IN AGRICULTURE AND FISHERIES"
+    }
+  ],
+  "existing_law_overlaps": [
+    {
+      "law": "RA-8435",
+      "overlap": "The Agriculture and Fisheries Modernization Act already tasks the Department with formulating and implementing medium- and long-term agriculture and fisheries plans (s13) and food security plans (s14); the target's commission would formulate short- and long-term policy and program recommendations on sectoral plans and targets (HB-20-2322:s11), a recommendatory function overlapping that planning mandate. The pack does not show that the bill amends or repeals RA 8435.",
+      "section": "RA-8435:s13",
+      "quote": "shall formulate and implement a medium- and long-term comprehensive Agriculture and Fisheries Modernization Plan."
+    },
+    {
+      "law": "RA-12022",
+      "overlap": "The Anti-Agricultural Sabotage Act already created a President-chaired inter-agency Anti-Agricultural Economic Sabotage Council (with an Advisory Board) dealing with smuggling, hoarding, profiteering and cartels in agricultural and fishery products; a sector-wide review commission may cover the same ground. The bill cites RA 12022 once, but the citing section is not in the pack, and nothing shown amends or abolishes the Council.",
+      "section": "RA-12022:s15",
+      "quote": "The Anti-Agricultural Economic Sabotage Council, herein referred to as the Council, is hereby created and shall be chaired by the President or the delegated permanent representative."
+    }
+  ],
+  "gaps": [
+    "Only sections 1, 4, 5, 6, 11 (truncated) and 13 of HB-20-2322's 16 sections are in the pack, so the provisions that cite RA 8435 and RA 12022, any amendment or repeal clauses, the commission's term or sunset, secretariat and reporting duties could not be reviewed.",
+    "The bill names the body inconsistently: the title and s1 say 'Congressional Commission on Agriculture and Fisheries', while s4 says 'Congressional Agriculture and Fisheries Commission'.",
+    "Authors, filing dates, committee referrals and current status of HB-20-2322, HB-20-5296, HB-20-5129, HB-20-11060, SB-20-1199 and SB-20-1345 are not in the pack, so which bill was filed first cannot be established.",
+    "No House committee report or House substitute bill is in the pack, so whether HB-20-2322 has been consolidated with the other House AGRICOM bills cannot be established.",
+    "No earlier-Congress AGRICOM bill is in the pack, so no 'earlier version' could be identified.",
+    "Texts of SB-18-2485, RA-11899 and EO-127-1999 are not in the corpus (titles only); which provisions of the target follow the education-commission model, and whether SB-18-2485 became RA-11899, cannot be confirmed from the pack.",
+    "The target sets no fixed initial appropriation (charged to Senate and House appropriations, then the GAA), whereas the Senate substitute sets P200 million; the fiscal size of the House version cannot be estimated from the pack."
+  ]
+}

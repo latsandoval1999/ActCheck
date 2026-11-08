@@ -1,0 +1,1991 @@
+       November 25, 2025
+          5:00 pm
+
+
+
+
+6371
+      TWENTIETH CONGRESS                                   )
+      OF THE REPUBLIC OF THE PHILIPPINES                   )
+      First Regular Session                                )
+
+
+                                    HOUSE OF REPRESENTATIVES
+
+                                             House Bill No. 6371
+                                                            ___
+
+
+                    Introduced by Representative FRANZ FERNANDEZ LEGAZPI
+
+
+                                  AN ACT
+         CREATING THE DEPARTMENT OF DISASTER RESILIENCE, DEFINING ITS
+          POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR
+
+     Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ 1               Section 1. Short Title. - This Act shall be known as "Department of Disaster Resilience
+ 2    Act of 2025."
+ 3
+ 4                Sec. 2. Declaration of Policies and Principles - The State recognizes that:
+ 5
+ 6        a. The Philippines is one of the most vulnerable countries to climate change and various kinds
+ 7            natural hazards, including, among others, typhoons, earthquakes, floods, volcanic
+ 8            eruptions, landslides, storm surges, and drought;
+ 9        b. Tremendous physical and economic, losses are sustained by the country, and in certain
+10            cases, damage to our national, cultural, and historical heritage, each time such natural
+11            hazards wreak havoc on an unsuspecting and unprepared populace;
+12        c. There is an urgent need to establish a focused, streamlined, independent, empowered,
+13            capacitated, full-time, specialized agency on disaster risk reduction and management as
+14            well as emergency response, which is national in scope and civilian in character;
+15        d. The people are the most important assets of the nation, and all disaster risk reduction and
+16            management efforts shall be responsive to the humanitarian needs of the people, the dignity
+17            and value of the human person, and respect for property.
+18
+19            Towards this end, the state shall endeavor to ensure:
+20
+21        1. That a strategic, systematic, continuous, comprehensive, inclusive, and integrated approach
+22            to disaster risk reduction and management is established, with the end in view of
+23            substantially reducing vulnerabilities and the risk of disasters and other humanitarian
+24            emergencies, towards the preservation of life and property, thereby ultimately preventing
+25            or deterring the loss of lives and the social, economic, cultural, and environmental assets
+26            of the country;
+27        2. That a permanent, institutionalized, cohesive and comprehensive framework for disaster
+28            preparedness, prevention and mitigation, and response, is adopted, to be implemented by a
+29            highly specialized and focused agency bearing its own mandate, powers, and funding, in
+30            coordination and with the participation of the Philippine government, other foreign
+31            governments and financial institutions, international organizations, the private sector, and
+32            civil society;
+33        3. That the differing concerns and needs of various sectors or those with higher vulnerabilities
+34            such as women, children, elderly, persons with disabilities, and indigenous peoples, are
+35            specifically served, with respect to disaster resilience and disaster management;
+36        4. The implementation of the principles, concepts and action plans of climate change and
+37            disaster risk reduction contained in international and national frameworks and
+38            commitments in various phases of policy formulation, development and investment plans,
+ 1          poverty reduction strategies and other development tools, and techniques by all national
+ 2          and local agencies, institutions and instrumentalities of the government to enhance the
+ 3          country's capacity for climate change adaptation and mitigation;
+ 4      5. To inculcate a culture of resilience and preparedness for natural disasters at the national,
+ 5          regional and local levels, and adopt a whole-of-society approach in disaster resilience to
+ 6          enhance collaboration, planning, and dialogue among all sectors of society, and in
+ 7          improving their strategies and/or action plans for disaster risk reduction.
+ 8
+ 9              Sec. 3. Definition of Terms. - For purposes of this Act, these terms are defined as
+10   follows:
+11
+12      a. Adaptation shall refer to the adjustment in natural or human systems in response to actual
+13          or expected climactic stimuli or their effects, which moderates harm or exploits beneficial
+14          opportunities.
+15      b. Assisting Actor shall refer to any Assisting International Actor and any Assisting Domestic
+16          Actor responding to a disaster in the country.
+17      c. Assisting Domestic Actor shall refer to any not-for-profit entity established under domestic
+18          laws, which is responding to a disaster in the country.
+19      d. Assisting International Actor shall refer to any foreign state, organization, entity or
+20          individual responding to a disaster within or transiting through the country to respond to a
+21          disaster in another country
+22      e. Biological Hazards shall refer to hazards that are of organic origin or conveyed by biological
+23          vectors, including pathogenic microorganisms, toxins and bioactive substances. Examples
+24          are bacteria, viruses or parasites, as well as venomous wildlife and insects, poisonous plants
+25          and mosquitoes carrying disease-causing agents;
+26      f. Build Forward Better shall refer to an approach to building and/or reconstructing an area or
+27          community which entails a shift from simple recovery and restoration to safer, more
+28          adaptive, resilient, and inclusive communities.
+29      g. Business Continuity shall refer to the capacity of a business entity to continue the delivery
+30          of its products and/or services at acceptable pre-defined levels following a disruptive
+31          incident;
+32      h. Capacity shall refer to the combination of all strengths, attributes and resources available
+33          within a community, society or organization that can reduce the level of risk, or impacts of
+34          a disaster. Capacity may include infrastructure and physical means, institutions, societal
+35          coping abilities, as well as human knowledge, skills and collective attributes such as social
+36          relationships, leadership and management. Capacity may also be described as capability.
+37      i. Civil Society Organizations (CSOs) shall refer to non-state actors whose aims are neither to
+38          generate profits nor to seek governing power, but to unite people to advance shared goals
+39          and interests. They have a presence in public life, expressing the interests and values of
+40          their members or other, based on ethical, cultural, scientific, religious or philanthropic
+41          considerations. CGOs include nongovernment organizations (NGOs), professional
+42          associations, foundations, independent research institutes, community-based organizations
+43          (CBOs), faith-based organizations, people's organization, social movements, and labor
+44          unions.
+45      j. Climate Change shall refer to a change in the state of the climate that can be identified by
+46          changes in the mean and/or the variability of its properties, and that persist in an extended
+47          period, typically decades or longer, whether due to natural variability or as a rest of human
+48          activity as defined under Republic Act No. 9729, otherwise known as the "Climate Change
+49          Act of 2009". These include internal processes or external forces such as modulation of the
+50          solar cycles, volcanic eruptions and persistent anthropogenic changes in the composition
+51          of the atmosphere or in land use.
+52      k. Climate Mitigation shall refer to efforts to reduce or limit greenhouse gas emissions or
+53          enhance greenhouse gas sequestration.
+54      l. Cultural Heritage shall refer to the totality of cultural property preserved and developed
+55          through time and passed on to posterity;.
+56      m. Contingency Planning shall refer to a management process that analyzes specific potential
+57          events or emerging situations that might threaten society or the environment and
+
+                                                                                                        1
+ 1       establishes arrangements in advance to enable timely, effective and appropriate responses
+ 2       to such events and situations.
+ 3   n. Department shall refer to the Department of Disaster Resilience or the DDR;
+ 4   o. Development Assistance shall refer to any financial, material or other forms of assistance to
+ 5       support the economic, social, and environmental well-being of areas and/or people affected
+ 6       by a natural disaster;
+ 7   p. Disability shall refer to an evolving concept that results from the interaction between
+ 8       persons with impairments, societal barriers, as defined under Republic Act No. 7277, and
+ 9       attitudinal and environmental barriers that hinder their full and effective participation in
+10       society on an equal basis with others.
+11   q. Disaster shall refer to a serious disruption of the functioning of a community or a society
+12       involving widespread human, material, economic or environmental losses and impacts,
+13       which exceeds the ability of the affected community or society to cope using its own
+14       resources. Unless otherwise used specifically in this Act, the term "disaster shall refer to
+15       "natural disaster";
+16   r. Disaster Contingency Fund shall refer to a fund, in lump-sum form, managed by the
+17       Department to expediently provide funds and resources for disaster relief or response in
+18       affected areas;
+19   s. Disaster Mitigation or Mitigation shall refer to the lessening or limitation of the adverse
+20       impacts of hazards and related disasters. Mitigation measures include hazard-resistant
+21       structures as well as improved environmental, land use planning, climate change and other
+22       sectoral policies and public awareness;
+23   t. Disaster Preparedness shall refer to the knowledge and capacities developed by
+24       governments, professional, professional response and recovery organizations, communities
+25       and individuals to effectively anticipate, respond to, and recover from, the impacts of
+26       likely, imminent or current hazard events or conditions. It includes preparedness for
+27       response such as contingency planning, stockpiling of equipment and supplies, the
+28       development of arrangements for coordination, evacuation, and public information, and
+29       preparedness for recovery such as procurement of land for resettlement sites.
+30   u. Disaster Prevention shall refer to the intention to avoid, or the outright avoidance, of
+31       potential adverse impacts of disasters and related hazards through action(s) taken in
+32       advance. It expresses the concept and intention to completely avoid potential adverse
+33       impacts through action taken in advance such as construction of dams or embankments that
+34       eliminate flood risks, land-use regulations that do not permit any settlement in high-risk
+35       zones, and seismic engineering designs that ensure the survival and function of a critical
+36       building in any likely earthquake;
+37   v. Disaster Resilience shall refer to the ability of a system, community, or society exposed to
+38       hazards to resist, absorb, accommodate, adapt to, transform, and recover from the effects
+39       of a hazard and/or the long-term impact of climate change in a timely and efficient manner,
+40       including through the preservation and restoration of its essential basic structures and
+41       functions through risk management;
+42   w. Disaster Response shall refer to the provision of emergency services and public assistance
+43       during or immediately after a disaster in order to secure and save lives, reduce health
+44       impacts, ensure public safety and meet the basic subsistence needs of the people affected.
+45       Disaster response includes disaster relief focused on immediate and short-term needs of
+46       the victims and the vulnerable.
+47   x. Disaster Resilience Fund shall refer to the budget managed by the Department, which
+48       includes funds appropriated to it by Congress pursuant to an Appropriations Act, the
+49       Disaster Contingency Fund, and the Rehabilitation and Recovery Fund;
+50   y. Disaster Risk shall refer to the potential disaster losses in lives, health status, livelihoods,
+51       assets and services that could occur to a particular community or society in the future, and
+52       is determined by a combination of the vulnerability, capacity, exposure of persons and
+53       assets, hazard characteristics and the environment.
+54   z. Disaster Risk Governance shall refer to the way in which public authorities, civil servants,
+55       media, private sector, and civil society coordinate at community, national and regional
+56       levels in order to manage disaster and climate related risks. This means ensuring that
+57       sufficient levels of capacity and resources are made available to prevent, prepare for,
+
+                                                                                                      2
+ 1        manage and recover from disasters. It also entails mechanisms, institutions, and processes
+ 2        for citizens to articulate their interests, exercise their legal rights and obligations, and
+ 3        mediate their differences.
+ 4   aa. Disaster Risk Management (DRM) shall refer to the systematic process of using
+ 5        administrative directives, organizations, and operational skills and capacities to implement
+ 6        strategies, policies and improved coping capacities in order to lessen the adverse impacts
+ 7        of hazards and the possibility of disaster;
+ 8   bb. Disaster Risk Reduction (DRR) shall refer to the prevention of new, and/or reduction of
+ 9        existing, disaster risks) and the management of residual risk, to enhance resilience to
+10        disasters;
+11   cc. Early Warning System shall refer to an integrated system of hazard monitoring, forecasting
+12        and prediction, disaster risk assessment, and communication and preparedness activities
+13        and processes that enable individuals, communities, national government agencies, local
+14        government units, the private sector, and others to take timely action to reduce disaster
+15        risks and adequately prepare for disasters; dd.
+16   dd. Eligible Assisting Actor shall refer to any assisting actor that has been determined to be
+17        eligible to receive legal facilities as provided for in this Act and/or its Implementing Rules
+18        and Regulations (IRR);
+19   ee. Emergency shall refer to an unforeseen or sudden occurrence, especially danger,
+20        demanding immediate and decisive action;
+21   ff. Emergency Management shall refer to the organization and management of resources and
+22        responsibilities for addressing all aspects of emergencies, in particular preparedness,
+23        response and initial recovery steps;
+24   gg. Environmental Hazards are hazards that may be chemical, natural, and biological, and can
+25        be created by environmental degradation or physical or chemical pollution in the air, water,
+26        and soil. However, many of the processes and phenomena that fall into this category may
+27        be termed drivers of hazard and risk rather than hazards themselves, such as soil
+28        degradation, deforestation, loss of biodiversity, salinization, and sea-level rise;
+29   hh. Exposure shall refer to the degree to which the elements at risk are likely to experience
+30        hazard events of different magnitudes;
+31   ii. Geographic Information System (GIS) shall refer to a system used to capture, store,
+32        manipulate, manage and display all types of spatial or geographical data;
+33   jj. Geographically Isolated and Disadvantaged Area (GIDA) shall refer to areas with a
+34        marginalized population, which is physically and socio-economically separated from the
+35        mainstream society and characterized by physical factors-isolated due to distance, weather
+36        conditions and transportation difficulties (island, upland lowland, landlocked, hard to reach
+37        and underserved communities); and/or socio-economic factors-(highly-poverty incidence,
+38        presence of vulnerable sector, communities in or recovering from situation of crisis or
+39        armed conflict);
+40   kk. Geological or geophysical hazards shall refer to the hazards that originate from internal
+41        earth processes, such as earthquakes, volcanic activities and emissions, and related
+42        geophysical processes, which include mass movements, landslides, rockslides, surface
+43        collapses, and debris or mud flows. Hydrometeorological factors are important contributors
+44        to some of these processes. While tsunamis are triggered by undersea earthquakes and
+45        others geological events, they essentially become an oceanic process that is manifested as
+46        a coastal water-related hazard;
+47   ll. Hazard shall refer to a phenomenon, substance, human activity or condition that may cause
+48        loss of life, injury or impacts to health; social and economic disruption, environmental
+49        damage, or loss of/disruption to property, livelihood, and/or services; mm.
+50   mm. Historical landmarks shall refer to sites or structures that are associated with events or
+51        achievements significant to Philippine history as declared by the National Historical
+52        Institute or the applicable agency;
+53   nn. Human-Induced Hazard shall refer to an event that is caused by humans and occur in or
+54        close to human settlements or a particular environmental area. This can include
+55        environmental degradation, technological or industrial conditions, pollution, accidents, e.g.
+56        high density events, industrial and transport accidents, complex emergencies, armed
+57        conflict, situations of generalized or organized violence, and violation of human rights;
+
+                                                                                                      3
+ 1   oo. Humanitarian assistance shall refer to financial, material or other similar forms of
+ 2        assistance to address the immediate needs of people affected by a natural disaster;
+ 3   pp. Hydrometeorological hazards shall refer to hazards that are of atmospheric, hydrological,
+ 4        or oceanographic origin, such as tropical cyclones (also known as typhoons and
+ 5        hurricanes); floods, including flash floods; drought; heat waves and cold spells; and coastal
+ 6        storm surges. Hydrometeorological conditions may also be a factor in other hazards such
+ 7        as landslides, wildland fires, locust plagues, epidemics, and in the transport and dispersal
+ 8        of toxic substances and volcanic eruption material;
+ 9   qq. Impact and needs assessment shall refer to the assessment of the nature and magnitude of
+10        a disaster, its impact on affected populations, the type and extent of emergency, and the
+11        requirements for recovery and rehabilitation of affected areas;
+12   rr. Immediate Danger shall refer to a situation where, on the basis of official forecasts, it could
+13        reasonably be expected that a disaster will occur in a particular geographical area and
+14        within an estimated period of time, and where necessary preparedness actions or financing
+15        are required;
+16   ss. Integrated Disaster Resilience Information System shall refer to a specialized database,
+17        which contains, among others, information on disasters and their human, material,
+18        economic and environmental impact, risk assessment and mapping, and vulnerable and
+19        marginalized groups;
+20   tt. International Disaster Relief and Initial Recovery Period shall refer to the period that
+21        commences upon the issuance of a request for international disaster assistance or upon
+22        acceptance of an offer, and shall continue until terminated, pursuant to guidelines set in the
+23        implementing rules and regulations;
+24   uu. Internally Displaced Persons shall refer to persons or groups of persons who have been
+25        forced or obliged to flee or to leave their homes or places of habitual residence within
+26        national borders;
+27   vv. International Personnel shall refer to staff and volunteers of any assisting actor providing
+28        disaster relief or initial recovery assistance being persons who are neither citizens of nor
+29        domiciled in the Philippines prior to their recruitment by the international assisting actor;
+30   ww. Land Use Planning shall refer to the process undertaken by public authorities to
+31        identify, evaluate and decide on different options for the use of land, including
+32        consideration of long-term economic, social and environmental objectives and the
+33        implications for different communities and interest groups, and the subsequent formulation
+34        and promulgation of plans that describe the permitted or acceptable uses;
+35   xx. Legal Facilities shall refer to entitlements and exemptions that are granted to Assisting
+36        Domestic or International Actors that are declared to be eligible pursuant to this Act and
+37        its implementing rules and regulations;
+38   yy. Local Disaster Resilience Plan (LDRP) shall refer to a document prepared by an LGU
+39        based on the National Disaster Resilience Framework (NDRF) and the National Disaster
+40        Resilience Plan and Investment Plan (NDRPIP) that sets out specific programs, objectives
+41        and goals to implement disaster risk management and climate change adaptation measures
+42        at the local level. The plan includes, among others, an evaluation and analysis of emerging
+43        disaster risks, hazards and vulnerabilities applicable to an LGU, and specific programs and
+44        activities to ensure responsive, effective, and appropriate disaster preparedness and
+45        managements at the local level;
+46   zz. National Continuity Policy shall refer to a comprehensive national policy consisting of a
+47        set of programs and projects aimed at capacitating the government to ensure the continuity
+48        of governance and the delivery of public services during and after any disaster;
+49   aaa.      National Disaster Resilience Framework (NDRF) shall refer to a framework that
+50        provides for a comprehensive, multi-sectoral, whole-of-government, and whole-of-society
+51        approach to attaining safe, adaptive, and resilient communities that can resist, prevent,
+52        mitigate against, absorb, accommodate, adapt to, recover, or build back better form the
+53        effects of a natural hazard in a timely and efficient manner through, among others, disaster
+54        risk reduction and management, and climate change adaptation and mitigation. The NDRF
+55        shall be composed of a National Disaster Risk Reduction and Management Framework
+56        (NDRRMF), and National Framework Strategy on Climate Change (NFSCC);
+
+
+                                                                                                      4
+ 1   bbb. National Disaster Resilience Plan and Investment Program (NDRPIP) shall refer to a
+ 2        plan formulated and implemented by the national and local governments, in collaboration
+ 3        with NGOs, the private sector, academe, international development partners, and others, in
+ 4        accordance with the NDRF that sets out the outcomes, goals and objectives, priorities,
+ 5        programs and corresponding action plans for disaster risk reduction, preparedness, and
+ 6        management, and climate change mitigation. The NDRIP shall also include, among others,
+ 7        goals, objectives and action plans for a national continuity policy. It shall be in conformity
+ 8        with the national disaster risk reduction and management framework.
+ 9   ccc.      Natural Hazard shall refer to naturally occurring physical phenomena caused either by
+10        rapid or slow onset events, which can be geological (earthquakes, ground rupture,
+11        liquefaction, landslides, tsunamis, sinkholes, and volcanic activity), hydrological and
+12        meteorological (floods, sever winds, typhoons, storm surges), climatological variability
+13        (extreme temperatures, El Niño, La Niña, forest fires), or biological (disease, epidemics
+14        and insect/animal plagues);
+15   ddd. Open Data shall refer to a set of data that can be freely used, shared and built-on by
+16        anyone, anywhere, for any purpose, it must be available in bulk, and should be available
+17        free of charge, or at least at no more than a reasonable reproduction cost. The information
+18        should be digital, preferably available by downloading through the internet, and easily
+19        processed by the end-user's computer. The data must permit people to use, re-use, and
+20        redistribute it, including intermixing it with other data sets and distributing the results.
+21        Lastly, it does not allow conditions to be places on how people can use such data but permit
+22        a data provider to require that data has been changed, or that any new datasets created using
+23        their data are also shared as open data;
+24   eee.      Pre-Disaster Recovery Plan (PDRP) shall refer to a plan intended to help government
+25        officials working in small communities or across an entire nation, to define and follow a
+26        process to pre plan for disaster recovery, and thereby strengthen their own future recovery
+27        efforts and outcomes;
+28   fff. Pre-Disaster Risk Assessment (PDRA) shall refer to a process to evaluate a hazard's level
+29        of risk given the degree of exposure and vulnerability in a specific area likely to be affected
+30        by an imminent hazard. It presents the possible impacts on the population and forms a basis
+31        to determine the appropriate level of response actions from the national level government
+32        agencies down to the local government units. It is hazard-specific, area focused, and time-
+33        bound;
+34   ggg. Recovery shall refer to rehabilitation measures that ensure the ability of affected
+35        communities or areas to return their normal level of functioning by restoring livelihoods
+36        and services, reconstruction of damaged infrastructures and increasing the communities'
+37        organizational capacity;
+38   hhh. Rehabilitation shall refer to restoration of basic services and facilities for the
+39        functioning of a community or a society affected by a disaster;
+40   iii. Response shall refer to any effort to provide assistance or intervention during or
+41        immediately after a disaster to meet the life preservation and basic subsistence needs of
+42        affected people and communities; and in the restoration of essential public activities and
+43        facilities;
+44   jjj. Retrofitting shall refer to the reinforcement of upgrading of existing structures to make
+45        them more resistant and resilient to the damaging effects of hazards;
+46   kkk. Risk assessment shall refer to a methodology to determine the nature and extent of risk
+47        by analyzing potential hazards and evaluating existing conditions of vulnerability that
+48        together could potentially harm exposed people, property, services, livelihood and the
+49        environment on which they depend;
+50   lll. Risk Transfer shall refer to the process of formally or informally shifting the financial
+51        consequences of particular risks from one party to another whereby a household,
+52        community, enterprise or state authority will obtain resources from the other party after a
+53        disaster occurs, in exchange for ongoing or compensatory social or financial benefits
+54        provided to that other party;
+55   mmm. Safety stock shall refer to items, such as raw materials, component parts, or finished
+56        goods, maintained in inventory to reduce the risk that such item will be out of stock, in
+57        anticipation of unforeseen shortages or unusual demand for such items;
+
+                                                                                                       5
+ 1      nnn. Service Continuity shall refer to the capacity of a government instrumentality to
+ 2           continue delivering its mandated outputs and/or services to the public during and after a
+ 3           disaster;
+ 4      ooo. State of Calamity shall refer to a condition involving endangered to and/or loss of lives,
+ 5           damages to property, economic and/or social disruption, interruption and/or loss of
+ 6           livelihood and/or services, and destruction and/or damages to infrastructure as a result of
+ 7           natural disasters) or related hazard(s);
+ 8      ppp. Simplified or Pre-Arranged Contract shall refer to a written agreement in the nature of
+ 9           an option contract between the procuring entity on one hand, and the most responsive and
+10           lowest calculated bidder on the other, granting the procuring entity the option to either
+11           place an order for any of the goods identified therein or not buy at all, within a given period
+12           of time;
+13      qqq. Sustainable Development shall refer to development that meets the needs of the present
+14           without compromising the ability of future generations to meet their own needs;
+15      rrr. Volunteers shall refer to individuals, groups or entities that offer and/or provide services
+16           or assistance, without compensation, to help people and/or areas affected by disasters;
+17      sss. Vulnerability shall refer to the conditions determined by physical, social, economic,
+18           organizational, and environmental factors or processes, which increase the susceptibility
+19           of an individual, a community, assets or systems to the impacts of hazards;
+20      ttt. Whole-of-Society Approach shall refer to an approach that encourages the meaningful the
+21           active participation and synergy of the different stakeholders of society toward climate
+22           change adaptation and mitigation, and disaster risk reduction and management at the
+23           national and local levels;
+24      uuu. Whole-of-Government Approach shall refer to an approach that instills and fosters
+25           collaboration among all government instrumentalities both at the national and local levels
+26           toward shared sustainable development goals and outcomes; and
+27      vvv. Whole-of-Nation Approach shall refer to an approach that seeks to bring about a
+28           concerted effort towards sustainable development, national peace and security by creating
+29           consensus and understanding of development and security that is shared not just among
+30           core security forces and oversight government institutions, but also by the nation's
+31           stakeholders, e.g., government, civil society, private sector, and the
+32
+33                                       ARTICLE II
+34                         THE DEPARTMENT OF DISASTER RESILIENCE:
+35                            MANDATE, POWERS, AND FUNCTIONS
+36
+37              Sec. 4. Creation of the Department of Disaster Resilience. - There is hereby created
+38   the Department of Disaster Resilience, hereinafter referred to as the Department.
+39
+40                The Department shall be the principal government institution responsible for ensuring
+41   safe, adaptive, and disaster-resilient communities. It shall lead, spearhead, initiate, and integrate
+42   the crafting and implementation of comprehensive, continuous, and strategic plans, programs,
+43   projects and activities to reduce the risk of all types of natural hazards and effects of climate
+44   change, and manage the impact of disasters with the primordial goal of saving lives and minimizing
+45   damage to property, in close collaboration with all relevant stakeholders at the national and local
+46   levels.
+47                The Department shall oversee and coordinate the preparation. implementation,
+48   monitoring, and evaluation of disaster and climate resilience pians, programs, projects and
+49   activities, provide Leadership in the continuous development of strategic and systematic
+50   approaches to disaster prevention, mitigation, preparedness, response, recovery and rehabilitation
+51   and anticipatory adaptation strategies, measures, techniques, and options. It shall also manage and
+52   direct the implementation of national, local, and community-based disaster resilience programs in
+53   collaboration with relevant national government agencies, LOUs, CSOs, and other stakeholders,
+54   as applicable.
+55
+56              Sec. 5. Powers and Functions of the Department. - The Department shall exercise
+57   and perform the following powers and functions: Overall functions:
+
+                                                                                                          6
+ 1
+ 2   1. Craft the policies and lead the implementation of the programs, projects and activities
+ 3       necessary to reduce the country's vulnerabilities to natural hazards and climate change,
+ 4       using the PDRP and the relevant climate change and DRR frameworks as anchors;
+ 5   2. Review and build upon, to the extent necessary, the existing disaster resilience framework,
+ 6       pians and strategies in the crafting of an NDRF and the corresponding NDRPIP;
+ 7   3. Oversee, review, and approve the translation, integration, and implementation of the
+ 8       NDRPIP into LDRPs;
+ 9   4. Communicate and disseminate critical information to help the public prepare for, respond
+10       to, and recover from a disaster;
+11   5. Receive, manage, and administer the Disaster Resilience Fund, the Disaster Contingency
+12       Fund, donations and other funds, assets and/or properties received by the Department to
+13       accomplish the purposes of this Act;
+14   6. Recommend to the President of the Philippines the declaration of a state of calamity due to
+15       a natural disaster, and the lifting thereof when conditions stabilize;
+16   7. Direct any government entity to help ensure the attainment of the goals and objectives of
+17       this Act;
+18   8. Advance the country's interests relating to disaster resilience and climate change in the
+19       regional and global arena;
+20   9. Advise the President on matters concerning disaster resilience and make recommendations,
+21       as appropriate; and
+22   10. Perform such other functions, as provided by law or assignment of the President, and
+23       undertake all other necessary actions to ensure the attainment of the overall goals and
+24       objectives of this Act.
+25
+26     Disaster Risk Reduction;
+27   1. Develop coordinated national, regional, and local strategies for the effective prevention and
+28       mitigation of disaster risk resulting from natural hazards, including the effects of climate
+29       change;
+30   2. Monitor and ensure the integration of disaster risk reduction and management, and climate
+31       change adaptation policies into national development plans;
+32   3. Establish a disaster resilience information system to facilitate the creation of an integrated
+33       risk assessment platform built from the inputs of government and private scientific and
+34       academic institutions, national government agencies and local government units, local
+35       communities, and other stakeholders and that is able to provide readily accessible and
+36       actionable information for purposes of risk governance and humanitarian action;
+37   4. Formulate plans and programs to establish and implement government redundancy, service
+38       and business continuity, and a National Continuity Policy, as a high priority and urgent
+39       undertaking;
+40   5. Ensure the use of advanced science and technology in anticipatory planning of communities
+41       against the impact of natural hazards and climate change through consultation, and
+42       employment with a regular department funding the academe or higher education
+43       institutions;
+44   6. Develop and implement policies and programs related to the construction of new settlements
+45       or relocation of settlements in safe areas that shall, to the extent such policies and programs
+46       relate to disaster risk reduction, mitigation, prevention or building forward better, prevail
+47       over policies or decisions of other government departments, government agencies,
+48       government owned or controlled corporations, LGUs, and other government
+49       instrumentalities;
+50   7. Design and implement an incentive system for greater private and public investment, both
+51       at the local and national levels, on disaster risk reduction;
+52   8. Oversee and ensure the mainstreaming of climate change adaptation and disaster risk
+53       reduction in development and land use planning, and the preparation of contingency plans;
+54   9. Create an enabling environment that shall promote broader multi-stakeholder participation
+55       for disaster risk reduction and climate change adaptation and mitigation;
+56   10. Communicate and disseminate critical information to help the public prepare for, respond
+57       to, and recover from a disaster;
+
+                                                                                                      7
+ 1   11. Establish and monitor local and national capacity for disaster risk financing and insurance
+ 2       and other risk transfer strategies in coordination with the Department of Finance (DOF),
+ 3       the Government Service Insurance System (GSIS), and the Land Bank of the Philippines
+ 4       (LBP), and the Insurance Commission;
+ 5   12. Coordinate directly with local government units and private entities to address Disaster
+ 6       Risk Assessment (DRA) of regions and provinces at the meso-scale, cities and
+ 7       municipalities at the micro-scale, and barangays at the meta-scale;
+ 8   13. Review and evaluate local disaster resilience plans and other local plans to ensure their
+ 9       consistency with the National Disaster Resilience Framework; and
+10   14. Undertake all other programs, projects, and actions necessary to attain the overall goals
+11       and intended outcome of this key result area.
+12
+13     Disaster Preparedness and Response
+14
+15   1. Lead, manage, and collaborate with the relevant government instrumentalities, non-
+16       government stakeholders, and international partners in providing the minimum basic needs
+17       of people in affected areas before, during and/or immediately after a disaster to save lives
+18       and minimize casualties;
+19   2. Ensure the efficient prepositioning of goods, maintenance, and disposal of safety stocks;
+20   3. Prepare pre-disaster recovery plans in anticipation of future disasters by engaging the
+21       community and planning for recovery activities that are comprehensive and long-term;
+22   4. Establish a corps of first responders in partnership with national and local stakeholders, both
+23       public and private;
+24   5. Formulate standards for contingency planning for adoption by both national government
+25       agencies and local government units;
+26   6. Recommend to the President of the Philippines the declaration of a state of calamity due to
+27       a natural disaster, and the lifting thereof when conditions stabilize;
+28   7. Oversee and maintain a national early-warning and emergency alert system that must
+29       provide a specific, areas-focused and time-bound warning that are accurate, timely,
+30       understandable and readily accessible to national and local emergency response
+31       organizations and the general public;
+32   8. Implement Pre-Disaster Risk Assessments to include deployment of rapid assessment teams
+33       to gather information for precise actions as a basis for emergency preparedness and
+34       humanitarian response;
+35   9. Coordinate information-sharing and other disaster risk reduction protocols following the
+36       principle of inter-operability among national government agencies and local government
+37       units;
+38   10. Establish and maintain a national humanitarian logistics system with a network of
+39       warehouses, transport and resources, including response assets and disaster relief food and
+40       non-food items;
+41   11. Call upon the relevant government instrumentalities, non-government stakeholders, CSOs,
+42       and international partners for assistance in ensuring the protection and preservation of life
+43       and property such as through the use of their resources and facilities, among others. This
+44       function includes the power to call on the reserve force as defined in Republic Act no. 7077
+45       to assist in search and rescue, and the relief and disaster preparedness and response
+46       operations;
+47   12. Organize, train, equip, and maintain a system of response capacity for search, rescue and
+48       retrieval and the delivery and distribution of relief goods;
+49   13. Monitor and support LGUs in the management of evacuation centers and ensure the welfare
+50       and dignity of internally-displaced persons;
+51   14. Procure goods and services prior to, during, and after emergencies for preparedness,
+52       response, and recovery activities, including those prompted by a declaration of a state of
+53       calamity or of an imminent disaster;
+54   15. Issue special procurement rules and regulations, in close coordination with the Government
+55       Procurement Policy Board, for preparedness, response, and recovery activities, including
+56       those prompted by a declaration of a state of calamity or of an imminent disaster;
+
+
+                                                                                                     8
+ 1   16. Assist in mobilizing necessary resources to increase the overall capacity of local
+ 2       government units, specifically those with low income and situated in high-risk areas;
+ 3   17. By the authority of the President, secure the assistance of the Armed Forces of the
+ 4       Philippines (APP), the Philippine National Police (PNP), DILG-Bureau of Fire Protection
+ 5       (BFP), DOTr-Philippine Coast Guard (PCG), and other uniformed services in undertaking
+ 6       disaster preparedness and response operations in at-risk and/or disaster- affected areas; and
+ 7   18. Undertake all other programs, projects, and actions necessary to attain the overall goals
+ 8       and intended outcomes of this key result area.
+ 9
+10     Recovery and Building Forward Better;
+11
+12   1. Prepare, organize, lead, implement, and manage post-disaster assessment and recovery and
+13       rehabilitation programs and plans, in coordination with the affected local governments
+14       units, national government agencies, and other stakeholders;
+15   2. Establish a system that utilizes templates, exposure database, and other tools; and develop
+16       the Department's in-house capacity for the prompt and expedient preparation of
+17       rehabilitation plans, when needed, for disaster affected areas;
+18   3. Prepare and implement the recovery and rehabilitation plan(s) for disaster affected areas;
+19   4. Implement the cluster approach to expedite reconstruction efforts, e.g., post-disaster shelter
+20       recovery, and orchestrate and serve as the clearinghouse for the participation of assisting
+21       actors in such efforts;
+22   5. Collaborate with relevant government agencies and non-government stakeholders in
+23       undertaking programs and projects to restore and/or generate livelihood and
+24       entrepreneurial activities and opportunities in disaster-affected areas;
+25   6. Ensure that the principle of Building Forward Better, not mere restoration, is applied to all
+26       recovery, reconstruction, and rehabilitation efforts; and
+27   7. Undertake all other programs, projects, and actions necessary to attain the overall goals and
+28       intended outcomes of this key result area.
+29
+30     Other Powers and Functions;
+31
+32   1. Constitute, call, convene and/or deputize agencies of government, and invite non-
+33       government and private organizations, to assist, advise, and/or coordinate with the
+34       Department to achieve the goals and purposes of this act;
+35   2. Provide operating guidelines to the LDROs for the Declaration of Imminent Disaster in their
+36       respective areas, which shall allow them to implement preemptive measures and use their
+37       quick response funds in order to save lives and minimize damage to property, loss of
+38       livelihood, and other assets;
+39   3. Establish and monitor local and national capacity for disaster risk financing and insurance
+40       and other risk transfer strategies in coordination with the DOF, GSIS, LBP, and the
+41       Insurance Commission;
+42   4. Coordinate information-sharing and other disaster risk reduction protocols following the
+43       principle of inter-operability among National Government Agencies and Local
+44       Government Units, before, during, and after a disaster;
+45   5. Administer, mobilize, monitor, and oversee the utilization of disaster resilience-related
+46       funds, including, but not limited to, the National Disaster Resilience Fund and the
+47       Supplemental Disaster Resilience Support Fund for low-income provinces, cities, and
+48       municipalities, and multi-hazard local government units;
+49   6. Inspect and examine the status of projects, programs, and activities undertaken by national
+50       government agencies and local government units in furtherance of disaster resilience
+51       efforts;
+52   7. Whenever it becomes necessary, to save lives and/or minimize damages to livelihood and
+53       property, assume supervision over the implementation of any government program.
+54       project, or activity in anticipation of, during, and in the aftermath of a disaster;
+55   8. Negotiate, enter into, institutionalize, and coordinate arrangements with any private person
+56       or entity for the purpose of ensuring the adequate and prompt availability of goods and
+57       services necessary in anticipation of, during, and in the aftermath of disasters;
+
+                                                                                                    9
+ 1      9. Manage all funds appropriated to it by law and from other sources, including all donations
+ 2          and grants received by it;
+ 3      10. Promulgate rules and regulations for the receipt, management, and accounting of donations
+ 4          that are consistent with the rules of the Commission on Audit (COA) on the use of foreign
+ 5          and local aid during calamities and disasters;
+ 6      11. Receive humanitarian assistance from local and foreign sources, recommend the
+ 7          acquisition of developmental assistance for the purpose of disaster resilience, acknowledge
+ 8          and certify the receipt of all humanitarian assistance, and ensure their judicious use and
+ 9          management;
+10      12. Establish and operate a platform, including an online platform, to monitor and provide
+11          public access to information on humanitarian assistance received by the Department;
+12      13. Secure the assistance of the AFP. PNP, DILG- BFP, DOTr-PCG, and other uniformed
+13          services and government instrumentalities to ensure the attainment of the three key result
+14          areas, and the overall goals and objectives of this Act;
+15      14. In consultation with the COA, promulgate rules and regulations for the retention, re-
+16          exportation, donation, and disposition of unused goods and equipment after the termination
+17          of disaster relief and initial recovery operations;
+18      15. Assist appropriate national government agencies and offices and concerned local
+19          government units in protecting national cultural heritage including national treasures and
+20          national historical landmarks, sites or monuments from hazards and disasters; and
+21      16. Perform such other functions, as provided by law or assignment of the President, and
+22          undertake the necessary actions to ensure the attainment of the overall goals and objectives
+23          of this Act.
+24
+25                                          ARTICLE III
+26                                     EMERGENCY MEASURES
+27
+28              Sec. 6. Emergency Measures. - The Department shall undertake and implement such
+29   immediate measures as may be necessary to ensure the protection and preservation of life or
+30   property in anticipation of, during, and in the aftermath of emergencies, hazards and disasters,
+31   including preemptive and forced evacuations.
+32
+33          a. Local government units shall enact an ordinance on and implement necessary and
+34             appropriate emergency measures, including preemptive and forced evacuations, to
+35             ensure the protection and preservation of life or property in anticipation of, during, and
+36             in the aftermath of disasters. It shall be mandatory for Local Government Units to
+37             provide evacuation centers, with due consideration to the capacity of local facilities,
+38             when requested by the Department, in anticipation of, during, and in the aftermath of
+39             emergencies, hazards and disasters. In providing such evacuation centers, due regard
+40             shall be given to the most vulnerable and marginalized groups, respecting the dignity
+41             and culture of persons, observing equality, and using proportionate force in
+42             implementing such emergency measures. Preemptive evacuation shall be the preferred
+43             as the primary mode of moving people that will be affected by disasters.
+44          b. Forced evacuation shall be considered as an emergency measure of last resort, and shall
+45             be carried out by the affected local government unit, pursuant to a duly issued order by
+46             the local chief executive: Provided, That in case of the failure of the local chief
+47             executive to issue such an order, the forced evacuation shall be implemented by the
+48             Department, which may direct and compel the assistance of law enforcement and other
+49             relevant government agencies to implement such measure.
+50          c. Any person who willfully and deliberately disregards or disobeys a preemptive or
+51             forced evacuation implemented by the local government unit or the Department, as the
+52             case may be, releases such local government unit or the Department from any liability
+53             for injury, death, damage to, or loss of property due to such disobedience.
+54          d. Whenever necessary, the Department may recommend to the President the calling out
+55             of the Armed Forces of the Philippines to prevent or suppress lawless violence
+56             occurring before, during, and in the aftermath of disasters.
+
+
+                                                                                                      10
+ 1          e. The Department may ration the distribution of basic goods in critical shortage, and/or
+ 2             restrict or ban the transfer of such goods outside the area covered by the emergency
+ 3             measure.
+ 4          f. The Department may temporarily take over or direct the operation of any private utility
+ 5             or business for urgent public purpose in anticipation of, during, and in the aftermath of
+ 6             emergencies, hazards, and disasters and only when there is imminent danger of loss of
+ 7             lives and/or damage to property, subject to the payment of just compensation.
+ 8          g. Local government units shall likewise enact the abovementioned emergency measures
+ 9             including preemptive and forced evacuations, to ensure the protection and preservation
+10             of life or property in anticipation of, during, and in the aftermath of disaster.
+11          h. With the concurrence of the DOF, the Department shall recommend to the Monetary
+12             Board the deferment of payment for monetary debts of LGUs and/or private entities
+13             that have been affected by disasters
+14
+15                                        ARTICLE IV
+16                               ORGANIZATION AND MANAGEMENT
+17
+18                Sec. 7. The Secretary, - The Department shall be headed by the Secretary of Disaster
+19   Resilience, hereinafter referred to as the Secretary, who shall be appointed by the President, subject
+20   to confirmation by the Commission on Appointments.
+21
+22               The Secretary shall preferably have a solid background in any of the scientific,
+23   engineering, and public management fields relevant to resilience to natural hazards and climate
+24   change; and demonstrated managerial acumen.
+25
+26              Sec. 8. Powers and Functions of the Secretary. - The Secretary shall exercise the
+27   following powers and functions:
+28
+29      a. Establish and promulgate policies, rules, and regulations for the effective and efficient
+30          operation of the Department and implement these to carry out its mandate, functions,
+31          programs, and activities;
+32      b. Exercise executive direction over the operations of the Department and administrative
+33          supervisions over its attached agencies;
+34      c. Exercise control and supervision over all functions and activities of the Department and its
+35          officers and personnel;
+36      d. Appoint officers and employees of the Department, except those whose appointments are
+37          vested in the President, in accordance with civil service law, rules, and regulations;
+38      e. Exercise disciplinary authority over officers and employees of the Department in accordance
+39          with law, and investigate such officers and employees, or designate a committee or officer
+40          to conduct an investigation;
+41      f. Manage the financial, human, and other resources of the Department;
+42      g. Collaborate with other government agencies, the private sector, and civil society
+43          organizations on the policies, programs, projects, and activities of the Department, as may
+44          be necessary;
+45      h. Advise the President on the promulgation of executive and administrative issuances and the
+46          formulation of regulatory and legislative proposals on matters pertaining to disaster
+47          resilience;
+48      i. Represent the Philippines and articulate the national contribution to global, regional, and
+49          other inter-governmental disaster risk reduction and humanitarian platforms, in
+50          coordination with the Department of Foreign Affairs; and
+51      j. Perform such other functions as may be provided by law or assigned by the President.
+52
+53               Sec. 9. The Undersecretaries. - The Secretary shall be assisted by at least four (4)
+54   Undersecretaries, who shall be responsible for the following functional areas, including the
+55   establishment of a robust and responsive ICT system to effectively support the mandate and
+56   operations of the Department:
+57
+
+
+                                                                                                        11
+ 1      a. Disaster Risk Reduction - the formulation, adoption, and implementation of policies and
+ 2         programs to reduce existing and future disaster risks to minimize loss and damage to lives
+ 3         and properties, including the formulation of the required policies and programs in the
+ 4         NDRF and relevant national investment plans;
+ 5      b. Disaster Preparedness and Response - the implementation of projects and programs to
+ 6         prepare and respond to disasters, including the enhancement of capabilities of local
+ 7         government units, the development of a database of exposure or elements at risk per area
+ 8         and database of volunteers, the establishment of safe and strategic evacuation centers, and
+ 9         the implementation of responsive and efficient prepositioning and distribution of goods;
+10      c. Recovery and Building Forward Better - the formulation and implementation of
+11         rehabilitation plans for disaster-affected areas and ensuring the implementation of disaster
+12         recovery and rehabilitation measures, such as post-disaster shelters and livelihood projects,
+13         in collaboration with relevant government agencies, local government units, and other
+14         stakeholders; and
+15      d. Support to Operations - the formulation and implementation of policies, programs,
+16         projects, and activities to ensure the efficient, effective, and responsive performance of the
+17         Department's mandate, powers, and functions. Support to operations includes knowledge
+18         management, institutional development and planning, finance, administration, and human
+19         resources management.
+20
+21                The Undersecretaries shall have operational control and supervision over the bureaus,
+22   divisions, offices, and units assigned to their respective functional areas.
+23
+24              Sec. 10. The Assistant Secretaries and Directors. - The Department shall have such
+25   number of Assistant Secretaries and Directors as may be necessary for the effective and efficient
+26   implementation and performance of its mandate, powers, and functions.
+27
+28                 Sec. 11. Qualifications. - All the Undersecretaries, Assistant Secretaries, and other
+29   officials of the Department shall preferably be specialists and have a good track record in any of
+30   the following fields, as applicable to their mandated key result areas and functions: disaster risk
+31   reduction and management, science and technology, environmental science or management, urban
+32   planning, civil engineering, public finance, information and communications technology, logistics
+33   management, mass communication, among other fields directly relevant to ensuring the country's
+34   disaster resilience. The appointing authority and other responsible officials shall ensure that the
+35   Department's human resources possess the competencies, skills, behavioral attributes, training and
+36   experience necessary for them to become efficient, effective, and responsive in performing their
+37   functions and contribute to the attainment of the overall goals and delivery of the intended
+38   outcomes of this Act.
+39
+40               Sec. 12. Structure and Staffing Pattern. -The Department shall determine its
+41   organizational structure and staffing pattern and create such services, divisions, and units, as it
+42   may require or deem necessary, subject to the approval of the Department of Budget and
+43   Management.
+44
+45               Sec. 13. Regional Disaster Resilience Offices. - The Department shall establish
+46   and maintain Regional Disaster Resilience Offices (RDROs) in each administrative region, to be
+47   headed by a Regional Director. The Department shall create policies and programs to establish
+48   collaboration and coordination among the different RDROs.
+49
+50              Sec. 14. Powers and Functions of RDROs. - The RDROs shall have the following
+51   powers and functions:
+52
+53      a. Review the LDRPs and Provincial DRPs of LGUs within its jurisdiction, and require the
+54          amendment of such LDRPs and/or Provincial DRPs if necessary, to ensure compliance
+55          with the NDRF and relevant national investment plans;
+56      b. Monitor and direct LDROs and PDROs to implement their respective LDRPs and PDRPs;
+
+
+                                                                                                      12
+ 1      c. Recommend to the appropriate local legislative body the enactment of ordinances to
+ 2          implement the LDRP, NDRF and relevant national investment plans at the city, municipal
+ 3          or provincial level, and to comply with other requirements of this Act;
+ 4      d. Review reports on the utilization of the LDRF and other disaster risk and management
+ 5          resources of LGUs within its jurisdiction, and give recommendations, as necessary;
+ 6      e. Disburse to, and monitor the use by, LGUs of funds granted by the Department pursuant to
+ 7          this Act and its IRR;
+ 8      f. Provide, upon the request of LGUs or unilaterally at its own discretion, assistance to LGU(s)
+ 9          within its jurisdiction as necessary to ensure the implementation of LDRPs/Provincial
+10          LDRs, NDR and relevant national investment plans, and to render efficient and timely
+11          disaster preparedness, response and recovery measures;
+12      g. Identify and report to the Department issues and problems relating to, or affecting, the
+13          disaster resilience of LGUs within its jurisdiction, and make recommendations to the
+14          Department and/or to the LGUs to address such issues or problems;
+15      h. Formulate and establish mechanisms to mobilize and direct LDROs and PDROs within its
+16          jurisdiction as necessary for disaster preparedness and response at the regional level;
+17      i. Establish and maintain, in coordination with the Department, a Regional Command and
+18          Control Center (RCCC), which includes, among others, an information management
+19          system at the regional level, which consolidates and integrates information from the
+20          provinces, cities and municipalities within its jurisdiction, a multi-hazard early warning
+21          and communications system, and a monitoring system that enables the RDRO to oversee,
+22          supervise, monitor and respond to the needs of LGUs within its jurisdiction in relation to
+23          disaster resilience activities;
+24      j. Assist in the implementation, of rehabilitation plan(s) for LGUs within its coverage: and
+25      k. Conduct other activities and act on other matters, in accordance with policies and procedures
+26          of the Department and applicable laws, to achieve the purposes of this Act.
+27
+28                Sec. 15. Special Disaster Response Teams. - The RDROs may organize and/or
+29   activate Special Disaster Response Teams (SDRTs) to assist LGUs in responding to hazards and
+30   disasters that are beyond their capacities, as deemed necessary.
+31
+32                Sec. 16. Local Disaster Resilience Offices. - The Local Disaster Risk Reduction
+33   Management Offices in provinces, cities, and municipalities are hereby renamed as the Provincial,
+34   City, and Municipal Disaster Resilience Offices, respectively, and shall collectively be called the
+35   Local Disaster Resilience Offices (LDROs). Provincial, city, and municipal governments shall
+36   establish their respective LDROs.
+37
+38              The Barangay Disaster Risk Reduction and Management Committees are hereby
+39   renamed as the Barangay Disaster Resilience Committees (BDRC).
+40
+41              All Local Disaster Risk Reduction Management Councils are hereby abolished.
+42
+43                The LDROs shall be under the control and supervision of the provincial governor or
+44   the city or municipal mayor, as the case may be. The budgetary requirements for personal services,
+45   maintenance and other operating expenditures, and capital outlay of the LDROs shall be sourced
+46   from the General Fund of the local government units concerned: Provided, That, the personal
+47   services limitations under Section 325(a) of Republic Act No. 7160, otherwise known as the Local
+48   Government Code of 1991, shall not apply in relation to the creation and appointment of at least
+49   five (5) positions in the LDROs. Other maintenance and operating expenditures and the capital
+50   outlay requirements of LDROs in the implementation of disaster risk reduction management and
+51   climate change adaptation programs shall be charged to the Local Disaster Resilience Fund of local
+52   government units.
+53
+54              Sec. 17. Local Disaster Resilience Officer. - The LDRO shall be headed by a full-
+55   time Local Disaster Resilience Officer, who shall have a regular plantilla position and shall be
+56   appointed by the local chief executive: Provided, That the qualifications standards pertaining to
+
+
+                                                                                                      13
+ 1   experience and training set by the Civil Service Commission for the position may be waived by
+ 2   the Department in exceptional cases upon the request of the local chief executive.
+ 3
+ 4               Sec. 18. Powers and Functions of City and Municipal Disaster Resilience Offices. -
+ 5   The City and Municipal Disaster Resilience Offices shall have the following powers and functions:
+ 6
+ 7      a. Formulate and implement, in coordination with the Department, a comprehensive and
+ 8          integrated Local Disaster Resilience Plan in accordance with the NDRF and the relevant
+ 9          national investment plans;
+10      b. Design, program, coordinate, and implement disaster resilience activities consistent with the
+11          standards and guidelines provided by the Department, and implement the NDRF and the
+12          relevant national investment plans at the city or municipal level;
+13      c. Prepare and submit to the Sangguniang Panglungsod or Bavan, as the case may be, the
+14          LDRP, the proposed programming of the LDR Fund, other dedicated disaster resilience
+15          resources, and other funds of the LDRO;
+16      d. Recommend to the Sangguniang Panglungsod or Bavan, as the case may be, the enactment
+17          of ordinances to implement the LDRP, NDRF, relevant national investment plans, and the
+18          provisions of this Act;
+19      e. Prepare and submit to the Department a report on the utilization of its Local Disaster
+20          Resilience Fund and other disaster risk reduction and management resources;
+21      f. Establish and maintain, in coordination with the Department, an information management
+22          system within the LGU, which, among others, consolidates and includes local risk
+23          information (such as natural hazards, profile of the LOU's vulnerable or marginalized
+24          groups), local risk maps, and a disaggregated database of human resource, equipment,
+25          services, resources, directories and location of critical infrastructures with their capacities
+26          (such as hospitals and evacuation centers);
+27      g. Operate and maintain, in coordination with the Department, a multi-hazard early warning
+28          and communications system to provide accurate and timely information to the public;
+29      h. Organize and conduct training and knowledge management activities on disaster resilience
+30          at the local level, in coordination with the Disaster Research, Education, and Training
+31          Institute;
+32      i. Recommend to the local chief executive the procurement of emergency works, goods, and
+33          services in compliance with the regulations, orders, and policies of DBM and Government
+34          Procurement Policy Board (GPPB), to implement the LDRP or support early recovery and
+35          post-disaster activities;
+36      j. Recommend, in coordination with the DOF and other relevant agencies, to the local chief
+37          executive, access to foreign loans to finance projects, programs, and policies for disaster
+38          preparedness, response, recovery, and rehabilitation, subject to terms and conditions agreed
+39          upon by the local government unit and the lender; k.
+40      k. Monitor and mobilize instrumentalities and entities of the LGU and its partner LGUs, CSOs,
+41          private sector, organized volunteers, and sectoral organizations for disaster resilience
+42          activities, in accordance with policies and procedures of the Department and applicable
+43          laws;
+44      l. Coordinate and provide the necessary support or assistance to the Department in the
+45          implementation of rehabilitation plan(s) within the city or municipality covered by the
+46          LDRO;
+47      m. Coordinate with the Department, other government agencies, members of the private sector
+48          and other stakeholders in the LGU to establish a Business Continuity Plan as part of their
+49          LDRP's disaster preparedness measures;
+50      n. Establish linkage/network and coordination mechanisms with other LGUs and the
+51          Department for disaster resilience activities and to achieve the purposes of this Act; and
+52      o. Conduct other activities and act on other matters, in accordance with policies and procedures
+53          of the Department and applicable laws, to achieve the purposes of this Act.
+54
+55               Sec. 19. Powers and Functions of the Provincial Disaster Resilience Offices. —The
+56   Provincial Disaster Resilience Offices shall have the following powers and functions:
+57
+
+
+                                                                                                        14
+ 1      a. Formulate and implement, in close coordination with the Department and the local
+ 2          government units under the jurisdiction of the provincial government, a comprehensive and
+ 3          integrated Provincial Disaster Resilience Plan in accordance with the NDRF;
+ 4      b. Review the LDRPs of cities and/or municipalities within its jurisdiction, and require the
+ 5          amendment of such LDRPs if necessary, to ensure compliance with the Provincial DRP
+ 6          and the NDRF;
+ 7      c. Design, program, coordinate, or implement disaster resilience activities consistent with the
+ 8          standards and guidelines provided by the Department, and implement the NDRF and the
+ 9          relevant national investment plans at the provincial level;
+10      d. Prepare and submit to the Sangguniang Panlalawigan, the Provincial DRP, the proposed
+11          programming of the province's Local Disaster Resilience Fund, other dedicated disaster
+12          resilience resources, and other funding sources of the PDRO;
+13      e. Recommend to the Sangguniang Panlalawigan the enactment of local ordinances to
+14          implement the Provincial LDRP, NDRF and relevant national investment plans at the
+15          provincial level, and to comply with other requirements of this Act:
+16      f. Prepare and submit to the Department, a report on the utilization of the province's Local
+17          Disaster Resilience Fund and other disaster risk reduction and management resources;
+18      g. Establish and maintain, in coordination with the Department, a Provincial Command and
+19          Control Center (PCCC), which includes, among others, an information management
+20          system at the provincial level, which consolidates and integrates information from the cities
+21          and/or municipalities within its jurisdiction, a multi-hazard early warning and
+22          communications system that is connected with the cities and/or municipalities within its
+23          jurisdiction, and a monitoring system that enables the PDRO to oversee, supervise, monitor
+24          and respond to the needs of cities and/or municipalities within its jurisdiction in relation to
+25          disaster resilience activities;
+26      h. Recommend to the Provincial Governor the procurement of emergency works, goods, and
+27          services in compliance with the regulations, orders, and policies of DBM and GPPB, to
+28          implement the provincial LDRP or support early recovery and post-disaster activities of
+29          the PDRO;
+30      i. Recommend, in coordination with the DOF, to the Provincial Governor to access foreign
+31          loans to finance its policies, programs, projects, and activities for disaster preparedness,
+32          response, recovery, and rehabilitation, subject to terms and conditions agreed upon by the
+33          Provincial Government and the lender;
+34      j. Formulate and establish mechanisms to mobilize and direct LDROs within its jurisdiction
+35          as necessary for disaster preparedness and response at the provincial level;
+36      k. Coordinate and provide the necessary support or assistance to the Department in the
+37          implementation of rehabilitation plan(s) within the cities and/or municipalities covered by
+38          the PDRO; and
+39      l. Conduct other activities and/or act on other matters, in accordance with policies and
+40          procedures of the Department and applicable laws, to achieve the purposes of this Act.
+41
+42               Sec. 20. Service continuity of the Department. - To ensure service continuity, the
+43   Department and its regional and attached offices shall be established in a reasonably resilient
+44   location; and/or undertake the necessary interventions to make its offices and systems disaster-
+45   resilient.
+46
+47                                 ARTICLE V
+48              WHOLE OF GOVERNMENT AND WHOLE OF NATION APPROACH
+49
+50                Sec. 21. Synergy with Stakeholders. - The Department shall ensure seamless synergy
+51   and coordination with stakeholders, including national government agencies, local government
+52   units, government-owned or -controlled corporations (GOCCS), CSOs, the academe, and the
+53   private sector, in relation to disaster resilience programs and projects and the development and
+54   promotion of research, education, and training mechanisms. The Department shall establish a
+55   platform, paradigm, and mechanisms for convergence and coordination with stakeholders,
+56   including the development of standards, protocols, and procedures for seamless collaboration for
+57   disaster resilience.
+
+                                                                                                        15
+ 1
+ 2                Sec. 22. Establishment of Multi-Stakeholders Convergence Unit. - The Department,
+ 3   with the assistance of other relevant government agencies and stakeholders, shall establish a Multi-
+ 4   Stakeholders Convergence Unit (MSCU), which shall closely engage the private sector, CSOs,
+ 5   academe, and other non-government stakeholders and strengthen public-private collaboration
+ 6   towards disaster resilience by way of the following interventions, among others:
+ 7      a. Implementation of business continuity practices to ensure the continued delivery of
+ 8           products and services, in the event of disasters;
+ 9      b. Crafting and implementation of a National Continuity Policy to ensure government service
+10           continuity during and after emergencies and disasters, and ensure the quick return of
+11           government to full operations;
+12      c. Establishment, incorporation, and application of business continuity plans as part of the
+13           LDRPs of LGUs;
+14      d. Facilitation or assistance in obtaining and/or processing incentives for the private sector
+15           and other non-government stakeholders, such as but not limited to tax credits;
+16      e. Preparation and facilitation of the issuance of special rules for Micro, Small, and Medium
+17           Enterprises (MSMEs) such as, but not limited to, mechanisms involving procurement and
+18           liquidity to create enabling environments for disaster preparedness, recovery and building
+19           forward better; and
+20      f. Formulation of investment programs for disaster affected areas in partnership with the
+21           private business sector and civil society organizations.
+22
+23              The MSCU shall establish a platform that includes, among others, a database for
+24   monitoring and coordinating efforts and resources of stakeholders.
+25
+26               Sec. 23. Roles and Responsibilities of Stakeholders. - The commitment, goodwill,
+27   knowledge, experience and resources of relevant stakeholders are critical to realize a safer,
+28   adaptive, resilient and inclusive Filipino community. Citizens have the shared vision and duty to
+29   provide support to the State in the implementation of policies and programs, particularly the
+30   Disaster Resilience Framework and Disaster Resilience Plan at the national, regional and local
+31   levels.
+32
+33      a. Civil society, non-governmental organizations, international non-governmental
+34         organizations, private sector, practitioners, and volunteers shall participate, in
+35         collaboration with public institutions, in the exchange of information, learnings, and
+36         guidance on disaster resilience. The Department shall encourage and institutionalize their
+37         engagement in the implementation of local, regional, national, and global plans and
+38         strategies: enhance public awareness and promote a culture of disaster resilience; b.
+39      b. The women, children, and youth, as agents of change, shall endeavor to contribute actively
+40         and participate in disaster resilience trainings and information dissemination;
+41      c. Senior citizens, and persons with disabilities shall contribute their knowledge and
+42         experience on disaster preparedness and resiliency;
+43      d. Indigenous peoples and Muslim Filipinos shall share their traditional knowledge and
+44         practical experience on disaster resiliency;
+45      e. Urban and rural poor, and migrants shall participate in building resilient resettlement
+46         communities;
+47      f. Emergency responders and volunteer organizations shall contribute to resilience by
+48         promptly and efficiently responding to disasters and emergencies consistent with the
+49         policies of the Research, Education and Training Institute of the Department;
+50      g. Academia, scientific and research entities, and networks are encouraged to undertake
+51         relevant research on disaster resiliency in partnership with the Department and other
+52         stakeholders for better decision-making;
+53      h. The private sector is encouraged to integrate disaster resiliency projects and programs in
+54         their corporate social responsibility initiatives; and
+55      i. The media shall provide prompt and accurate information to the public on early warning
+56         systems, natural hazards, and disaster resilience activities of the Department.
+57
+
+
+                                                                                                       16
+ 1               Sec. 24. Disaster Resilience Assembly. - The Department, with the assistance of
+ 2   RDROs, shall establish and convene a Disaster Resilience Assembly (DRA), at the regional and
+ 3   national level, which will be held on a semestral basis, or as frequently as necessary to ensure the
+ 4   proactive engagement of the relevant government and non-government stakeholders, such as the
+ 5   Union of Local Authorities of the Philippines (ULAP), League of Municipalities of the Philippines
+ 6   (LMP), CSOs, academe, DRRM practitioners, the private sector, and the national government
+ 7   agencies, among others, to ensure effective collaboration towards achieving the goals of this Act.
+ 8
+ 9               The LGUs may convene local DRAs within their jurisdictions, as necessary for the
+10   attainment of disaster resilience at the local level.
+11
+12               Sec. 25. Inter-operability of Systems. - The Department shall establish mechanisms
+13   to ensure the inter-operability of systems among government agencies, and to allow access of
+14   agencies to the IDRIS (Integrated Disaster Resilience Information System). It shall develop
+15   protocols to allow real-time access to information by government agencies in relation to natural
+16   disasters and the implementation of disaster resilience measures.
+17
+18                Sec. 26. National organization Of all Local Disaster Resilience Officers. - There
+19   shall be a national organization of all local disaster resilience officers for the primary purpose of:
+20
+21      a.  Developing capacity, and exchanging knowledge, experiences, and best practices
+22         concerning local government disaster resilience;
+23      b. Fostering inter-operability of the local disaster resilience offices' systems; Facilitating
+24         inter-LGU cooperation and collaboration;
+25      c. Providing inputs and feedback to the Department on resilience concerns at the local level;
+26         and
+27      d. Enhancing synergy in other areas of common concern.
+28
+29                                 ARTICLE VI
+30        MAINSTREAMING, INTEGRATION AND CONVERGENCE OF DISASTER RISK
+31                                REDUCTION
+32
+33
+34
+35               Sec. 27. Integration of DRR and Climate Change Adaptation in the National
+36   Disaster Resilience Framework and Disaster Resilience Plan. - The existing NDRRM
+37   Framework and Plan, and the National Climate Change Strategic Framework and Plan shall be
+38   integrated and harmonized into the NDRF and the NDRPIP. The NDRF and NDRPIP shall be
+39   reviewed and updated every three (3) years.
+40
+41               Sec. 28. Ecosystem-Based Approach to Prevention and Mitigation, Rehabliitation
+42   and Recovery from Disasters. - The Department shall ensure the application of ecosystems-based
+43   approaches in disaster risk reduction, particularly through ecosystem management and restoration
+44   as defined in this Act, and ensuring that environmental and natural resource policies are risk-
+45   informed.
+46
+47                               ARTICLE VII
+48    NATIONAL DISASTER OPERATIONS CENTER, ALTERNATIVE COMMAND CENTER,
+49                   AND RESEARCH AND TRAINING INSTITUTE
+50
+51               Sec. 29. National Disaster Operations Center. - The Department shall establish,
+52   within one (1) year from the approval of this Act, and act as the primary operator of, the Nationai
+53   Disaster Operations Center (NDOC), Aiternative Command and Control Centers (ACCCs), and a
+54   Disaster Resilience Research and Training Institute (DRRTI).
+55
+56              The NDOC is a physical center equipped with the necessary tools and systems to
+57   monitor, manage, and respond to disasters in all areas of the country. The NDOC shall also provide
+
+                                                                                                         17
+ 1   the necessary support for the overall coordination and implementation of emergency and disaster
+ 2   response measures throughout the country.
+ 3
+ 4              The ACCCs are command centers established in other locations as alternative or to
+ 5   provide supplemental support to the NDOC. The number and location of ACCCs shall be
+ 6   determined by the Department as may be necessary in each of the country's major island groups.
+ 7   Temporary ACCC may likewise be established by the Department, if necessary.
+ 8
+ 9                Sec. 30. DRRTI Functions and Inter-agency Knowledge Sharing. -The DRRTI shall
+10   be a platform for providing training, and for collecting, consolidating, managing, analyzing, and/or
+11   sharing knowledge and information to improve and/or enhance disaster resilience. The DRRTI
+12   shall:
+13
+14      a. Establish reliable and up-to-date IDRIS through close and seamless collaboration with the
+15         Department of Science and Technology (DOST), Department of Information and
+16         Communications Technology (DICT), and other appropriate agencies;
+17      b. Conduct disaster-related research programs, seminars, and trainings for all types of
+18         stakeholders;
+19      c. Consolidate, organize and/or prepare training materials and publications;
+20      d. Conduct other activities consistent with promoting the formation and dissemination of
+21         knowledge and information relating to disaster resilience and disaster management;
+22      e. Establish a database that includes relevant information from other government agencies
+23         and third parties for the department to better prepare and respond to natural hazards
+24         including, but not limited to, an inventory of hazardous materials per area; and
+25      f. Consult and coordinate with, and consolidate information/data from, relevant government
+26         agencies, such as, but not limited to, DOST, LGUs and relevant CSOs to enhance the
+27         IDRIS and to promote knowledge sharing among all stakeholders.
+28
+29               Sec. 31. Compliance and Accreditation of DRRTI with International Standards. -
+30   The Department shall strive to obtain certification from, and accreditation by international
+31   accreditation bodies of the DRRTI to ensure DRRTI's compliance with international standards.
+32   The Department shall likewise ensure collaboration with key countries and international
+33   organizations to incorporate best practices on disaster resilience in the Department's policies and
+34   programs.
+35
+36                                     ARTICLE VIII
+37                            INTEGRATION, MAINSTREAMING
+38                          DISASTER RESILIENCE INFORMATION,
+39                     EDUCATION AND COMMUNICATION CONVERGENCE
+40
+41                Sec. 32. Integrated Disaster Resilience Information System. - The Department shall
+42   establish a National and Regional Information Management System for Disaster Resilience, which
+43   shall be a database of all relevant disaster risk reduction and climate change data, including a
+44   geographic information system on geo-hazard assessments and climate risk. It shall be the
+45   repository of current and multi- temporal information for wide- scale disaster risk analysis. The
+46   IDRIS shall be accessible at all times to the responsible officials and entities to enable the timely,
+47   reliable, and accurate collection, processing, analysis, and dissemination of information to support
+48   overall decision-making and effective coordination at both the national and sub-national level. The
+49   protocols and procedures for this shall be defined in the IRR of this Act.
+50
+51                Sec. 33. Disaster Resilience Education and Training. —To instill a culture of safety
+52   and security including emergency preparedness and disaster resiliency, the Department, in
+53   partnership with the public and private sectors shall encourage the inclusion of appropriate
+54   information on disaster resilience in their various training programs and immersion activities. The
+55   Information Education and Communication materials on disaster resilience shall be informative
+56   and holistic, gender, culture and disability sensitive using various available platforms.
+57
+
+
+                                                                                                        18
+ 1                                         ARTICLE IX
+ 2                                   DISASTER RISK TRANSFER,
+ 3                                  INSURANCE AND INCENTIVES
+ 4
+ 5               Sec. 34. Disaster Risk Transfer Insurance and Sociai Welfare -
+ 6
+ 7      a. The Department shall oversee all disaster risk-sharing and risk-transfer instruments and
+ 8         other related initiatives to ensure the protection of property and livelihood, both public and
+ 9         private.
+10      b. The Department, in collaboration with the DOF, BSP, LBP, GSIS, and the Insurance
+11         Commission, shall create, establish, and implement, among others, disaster insurance
+12         pools, revolving funds, insurance and risk-transfer schemes and/or facilities, and other
+13         financial disaster resilience measures to ensure the protection of public and/or private
+14         properties and livelihood against the adverse effects of natural disasters. For this purpose,
+15         the Department and/or DOF may engage or require the participation of government banks,
+16         insurance agencies and financial institutions.
+17      c. To attain disaster resilience and to achieve the purposes of this Act, the Department shall
+18         have the discretion and authority to require government agencies and GOCCs to insure
+19         their assets and/or properties such as, among others, vessels, vehicles, equipment,
+20         machineries, permanent buildings, properties stored therein, or properties in transit, against
+21         insurable risks and pay the premiums therefor, to compensate the Government and/or
+22         GOCC, as applicable, for any damage to, or loss of properties due to a natural disaster.
+23      d. The Department shall endeavor the local government units to insure primary assets for
+24         unforeseen or contingent potential losses, damages and disruption from natural hazards
+25         chargeable against their respective Local Disaster Resilience Fund (LDRF).
+26
+27               Sec. 35. Recognition and Incentives. —The Department, in partnership with the
+28   private sector, shall establish an incentives program that recognizes outstanding performance of
+29   LDRO, NGOs, CSOs, schools, hospitals, and other stakeholders in promoting and implementing
+30   significant disaster risk reduction management-climate change adaptation programs and
+31   innovations, and meritorious acts of individuals, groups or institutions during natural.
+32
+33                                    ARTICLE X
+34                    PREPAREDNESS AND INTEGRATED EARLY WARNING
+35
+36               Sec. 36. Standards for Disaster Preparedness Activities. –
+37
+38      a. The Department shall establish standards and protocols for disaster preparedness,
+39         contingency planning, localizing and operationalizing disaster risk reduction and
+40         management, preparedness for disaster response, preparedness for early recovery,
+41         continuity of essential services, and other relevant preparedness activities.
+42      b. The LGUs shall identify safe and strategic sites, and establish evacuation centers with
+43         appropriate and adequate facilities in accordance with government-approved standards as
+44         provided under Republic Act No. 10821, otherwise known as 'The Children’s Emergency
+45         Relief Protection Act", to avoid disruption of school classes and lessen the use of school
+46         buildings and facilities as evacuation centers.
+47
+48               The LGUs shall immediately compensate said schools used as evacuation centers. The
+49      schools may seek compensation for renovation, replacement, or repairs of damaged facilities
+50      for such use.
+51
+52               Sec. 37. Muiti-Hazard Early Warning and Risk communication Standards. -
+53
+54      a. There shall be a streamlined policy governing early warning systems and risk
+55         communication protocols to ensure effective and efficient measures to prepare for, respond
+56         to and recover from potential risks and disasters.
+
+
+                                                                                                      19
+ 1      b. The Department shall formulate and implement multi-hazard early warning protocols
+ 2         integrating all disaster preparedness systems in collaboration with local executives,
+ 3         community-based organizations, civil society organizations, and other nongovernmental
+ 4         organizations for proper use and application.
+ 5
+ 6               Sec. 38. Early Warning Mandate. -
+ 7
+ 8      a.    The Department shall issue an integrated early warning alert for the impending
+ 9           occurrence of hazards that will enable the public to prepare timely and act appropriately
+10           to minimize potential harm or loss.
+11      b.   The Department shall require mobile phone service providers to send out alerts at regular
+12           intervals in the event of an impending natural hazard, in accordance with Republic Act
+13           No. 10639, otherwise known as the "Free Mobile Disaster Alerts Act".
+14      c.   The Department shall recognize and proactively support local or indigenous modes of
+15           early warning systems and allow open access to near real-time data from both local and
+16           international sources made available through various platforms such as websites, mobile
+17           apps, and social media to empower local communities and individuals.
+18      d.   Any person who transmits early warning concerning the abovementioned phenomena by
+19           means of signs in designs, colors, lights, or sound shall do so in compliance with the
+20           methods recognized or approved by the Department.
+21      e.   The Department at the national and local level shall use an integrated early warning
+22           system to ensure it is consistent and locally contextualized with the communication
+23           protocol and safe evacuation procedure of the affected communities.
+24      f.   The Department shall work with other agencies or organizations on pre-crisis information
+25           mapping of the humanitarian needs of at-risk Communities that will enhance the overall
+26           prepositioning of resources at the national and local level.
+27      g.   The Department shall recognize and proactively support local or indigenous modes of
+28           early warning systems and allow open access to near real-time data from both local and
+29           international sources made available through various platforms such as websites, mobile
+30           apps, and social media to empower local communities and individuals.
+31
+32                                       ARTICLE XI
+33                         DISASTER RESPONSE AND EARLY RECOVERY
+34
+35               Sec. 39. Declaration of State of Calamity. - The Department shall declare a cluster of
+36   barangays, municipalities, cities, provinces, and regions under a state of calamity, and the lifting
+37   thereof, based on the criteria set by the Department.
+38
+39                The declaration and lifting of the state of calamity may also be issued by the local
+40   Sanggunian, upon the recommendation of the LDRO, based on the results of the damage
+41   assessment and needs analysis: Provided, That through the Department, the LDRO may seek from
+42   the local legislative body or Sanggunian, the declaration of a state of imminent disaster to enable
+43   the local executives to implement pre-emptive evacuation and precautionary measures in order to
+44   save lives and minimize damage to property, loss and disruption of livelihood that require the use
+45   of funds and resources under the LDRF.
+46
+47               Sec. 40. Levels of Responsibility for Disaster Preparedness and Response. - The
+48   primary responsibility for disaster preparedness and response shall be exercised at the local or
+49   national level, as applicable, in close and seamless collaboration with the relevant national
+50   government instrumentalities, non-government stakeholders, and international partners
+51
+52              Sec. 41. Disaster Preparedness and Response in the NCR. - When at least two cities
+53   and/or municipality in the NCR are affected, the SDR shall be responsible for leading the disaster
+54   preparedness and response efforts, in collaboration with the affected LCDs, the MMDA, and the
+55   concerned government instrumentalities and non-government stakeholders.
+56
+
+
+
+                                                                                                       20
+ 1                Sec. 42. Inter-Local Government Assistance. - LGUs are hereby authorized to extend
+ 2   the necessary assistance to another LGU, whether through funding or donation of goods and/or
+ 3   services, and conducting disaster preparedness and response operations, to help save lives and
+ 4   minimize damage to property. These include the pre-positioning and provision of basic goods,
+ 5   training of first responders, among others, subject to the accounting and auditing rules to be
+ 6   defined in the IRR of this Act.
+ 7
+ 8                 Sec. 43. Accreditation, Mobilization, and Protection of Disaster Volunteers and
+ 9   National Service Reserve Corps, CSOs and the Private Sector. -The government agencies, CSOs,
+10   private sector and LGUs may mobilize individuals or organized volunteers to augment their
+11   respective personnel complement and logistical requirements in the delivery of disaster risk
+12   reduction programs and activities. The agencies, CSOs, private sector, and LGUs concerned shall
+13   take full responsibility for the enhancement, welfare and protection of volunteers, and shall submit
+14   the list of volunteers to the Department, through the LDROs, for accreditation and inclusion in the
+15   database of community disaster volunteers.
+16
+17          A national roster of Accredited Disaster Resilience Volunteers and Institutions, National
+18   Service Reserve Corps, CSOs and the private sector shall be maintained by the Department through
+19   the LDROs. Accreditation shall be done at the municipal or city level.
+20
+21          The mobilization of volunteers shall be in accordance with this Act and implementing
+22   guidelines to be formulated by the Department. Any volunteer who incurs death or injury white
+23   engaged in any of the activities defined under this Act shall be entitled to compensatory benefits
+24   and individual personnel accident insurance as may be defined in the IRR.
+25
+26                Sec. 44. Reporting of Humanitarian Assistance. - The concerned local government
+27   unit shall submit a report to the Department, taking into account all domestic or international
+28   humanitarian assistance received and distributed within its area of responsibility.
+29
+30                                         ARTICLE XII
+31                                   HUMANITARIAN ASSISTANCE
+32
+33               Sec. 45. Management of Humanitarian Assistance. –
+34
+35      a. The Department shall have the power to receive and manage humanitarian assistance from
+36         any person or entity, whether from local or international sources.
+37      b. The importation by, and humanitarian assistance to, the Department of, among others,
+38         food, clothing, medical assistance, equipment, and materials for relief, recovery and other
+39         disaster management activities are hereby authorized in accordance with Section 105 of
+40         the Tariff and Customs Code of the Philippines, as amended, and the prevailing provisions
+41         of the General Appropriations Act covering national internal revenue taxes and import
+42         duties of national and local government agencies.
+43
+44                Sec. 46. International Humanitarian Assistance. - The Department shall promulgate
+45   guidelines on international humanitarian assistance, including the initiation, entry, facilitation,
+46   transit, regulation and termination thereof, as well as those involving international disaster relief
+47   and personnel assisting international actors, visa waiver, recognition of foreign professional
+48   qualifications, entry of international disaster goods and equipment, and exemption from port
+49   duties, taxes, and restrictions.
+50
+51               Sec. 47. Assessment of the Need for International Humanitarian Assistance. –
+52
+53      a. Immediately after the declaration of a state of calamity by the local sanggunian of the
+54         relevant local government unit or by the Department, as the case may be, the Department
+55         shall determine whether domestic capacities are likely to be sufficient to attend to the needs
+56         of affected persons for international humanitarian assistance. This determination may also
+57         be made, at the discretion of the President, prior to the onset of an imminent disaster.
+
+                                                                                                       21
+ 1      b. In the event of a determination by the Department that domestic response capacities are not
+ 2         likely to be sufficient due to the impact of the disaster, the Department shall recommend
+ 3         to the President that a request be made for international humanitarian assistance.
+ 4      c. A determination that domestic capacities are likely to be sufficient and that international
+ 5         humanitarian assistance is therefore unnecessary may be reviewed and rescinded by the
+ 6         Department, with the approval of the President, at any time, in light of prevailing
+ 7         circumstances and available information.
+ 8
+ 9               Sec. 48. Humanitarian Assistance Action Center. - The Department shall create an
+10   inter-agency one-stop shop mechanism called the Humanitarian Assistance Action Center
+11   (HAAC) for the processing and release of entry and facilitation of goods, articles or equipment
+12   and services and international relief workers for the provision of international humanitarian
+13   assistance and the processing of necessary documents for assisting international actors.
+14
+15          The Department shall lead and manage the HAAC, which shall be composed of the
+16   following:
+17
+18      a.   Bureau of Customs;
+19      b.   Department of Foreign Affairs;
+20      c.   Department of Social Welfare and Development;
+21      d.   Department of Health;
+22      e.   Food and Drug Administration;
+23      f.   Department of Agriculture;
+24      g.   Department of Energy;
+25      h.   Department of National Defense;
+26      i.   Philippine National Police;
+27      j.   Philippine Coast Guard; and
+28      k.   Bureau of Immigration.
+29
+30               Sec. 49. Request for international Humanitarian Assistance. –
+31
+32      a. In cognizance of the urgency, criticality and intensity of an imminent risk, the Department
+33         shall issue a flash appeal to the family of nations, under regional and multilateral
+34         conventions, for assistance in preparedness, including preemptive measures, search,
+35         rescue, and retrieval, relief, recovery, and reconstruction.
+36      b. The President may request international humanitarian assistance, upon the advice of the
+37         Secretary. Such request may be specifically directed to particular assisting international
+38         actors or may be a general request directed to the international community.
+39
+40               Sec. 50. Regulation of Humanitarian Assistance. -
+41
+42      a.  The Department shall ensure the efficient and effective monitoring of humanitarian
+43         assistance from domestic or international donors, establish and operate a platform,
+44         including an online platform, to facilitate, and provide public access to information on
+45         donations.
+46      b. The Department shall include in the IRR of this Act guidelines and accountabilities on
+47         the receipt, management, distribution, accounting, and reporting of all humanitarian
+48         assistance, whether in cash or in kind, consistent with the rules on the use of foreign and
+49         local aid during calamities and disasters issued by the COA and other relevant
+50         government agencies.
+51
+52                                   ARTICLE XIII
+53               OFFER AND FACILITATION OF HUMANITARIAN ASSISTANCE
+54                                TO FOREIGN STATES
+55
+56              Sec. 51. Offer and Facilitation of International Humanitarian Assistance to
+57   Foreign States. - In the event of a disaster occurring in a foreign state for which international
+
+                                                                                                     22
+ 1   humanitarian assistance is required, the Department, in coordination with the DFA, may offer,
+ 2   facilitate, provide, and deploy international humanitarian assistance to said foreign state, which
+ 3   shall be subject to guidelines to be promulgated by the Department for the purpose.
+ 4
+ 5               Sec. 52. Accreditation. - The Department, in coordination with relevant government
+ 6   agencies and organizations, shall provide and facilitate the necessary training and accreditation to
+ 7   the respective government personnel to be deployed for such offer, facilitation and provision of
+ 8   international humanitarian assistance to a foreign state.
+ 9
+10                                             ARTICLE XIV
+11                                              RECOVERY
+12
+13               Sec. 53. Standards for Recovery. - The Department shall observe internationally
+14   accepted standards for recovery, planning, programming and implementation of the recovery
+15   process. Towards this end, the Department shall:
+16
+17      a. Improve the community's physical, social and economic resilience, consistent with the
+18         principle of "building forward better";
+19      b. Use locally-driven, centrally-supported processes based on legal mandates with
+20         supplementary capacity support when requested;
+21      c. Redirect development outside danger zones to minimize loss of lives and structures
+22         resulting from typhoons, flooding, landslides, and other hazards
+23      d. Employ outcome-driven planning and implementation;
+24      e. Maximize use of Private-Public sector partnership where possible;
+25      f. Consider local conditions such as culture, security situation and existing capacities of
+26         communities in identifying programs and projects;
+27      g. Ensure access to public transport, physical and mental health services, markets, schools,
+28         sustainable livelihoods, and other public services in planning for settlement areas; and
+29      h. h. Ensure restoration of peace and order and recovery of government functions.
+30
+31                                    ARTICLE XV
+32                     REMEDIAL MEASURES UNDER STATE OF CALAMITY
+33
+34              Sec. 54. Declaration of State of Calamity. - A state of calamity may be declared
+35   when any of the following requisites are present:
+36
+37      a. A natural hazard, including climate change, poses imminent threat to human life and/or
+38         danger to property; or
+39      b. A significant impact is caused by a natural hazard or climate change, which demands
+40         immediate action.
+41
+42      The following shall exercise this power, respectively:
+43      a. The President, upon recommendation of the SDR, whether in whole or part of an area;
+44      b. The SDR, upon recommendation of the RDRO, for disasters covering two or more
+45         provinces of the same region; and
+46      c. The local sanggunian, upon recommendation of the concerned local disaster resilience
+47         office, within its jurisdiction.
+48
+49               Sec. 55. Remedial Measures understate of Calamity. - Upon the declaration of a state
+50   of calamity, the following remedial measures shall be immediately undertaken by concerned
+51   government agencies at the national and local levels:
+52
+53      a. Imposition of price ceiling on basic necessities and prime commodities by the Price
+54         Coordinating Council (PCC), as provided for under Republic Act no. 7581. Otherwise
+55         known as the "Price Act", as amended by Republic Act no. 10623;
+56      b. Monitoring, prevention and control by the Local Price Coordination Council of overpricing
+57         or profiteering and hoarding of prime commodities, medicines and petroleum products;
+
+                                                                                                       23
+ 1      c. Programming or reprogramming of funds for the repair of critical facilities or public
+ 2         infrastructures that are vital for the quick delivery of humanitarian assistance, to reduce
+ 3         further threat to lives and arrest further deterioration of properties and loss of livelihoods
+ 4         in the affected communities, following the "build forward better" principle;
+ 5      d. Grant of no-interest loans by government financing or lending institutions to the most
+ 6         vulnerable and marginalized groups or individuals;
+ 7      e. Local tax exemptions, incentives or reliefs under such terms and conditions as may be
+ 8         deemed necessary by the affected local government unit; and
+ 9      f. Use of alternative modes of procurement under Article XVI of this Act, by the Department,
+10         LGUs or the relevant government instrumentalities in relation to the urgent procurement
+11         of emergency works, goods or services to effectively respond to, quickly recover from
+12         disasters, and build forward better.
+13
+14                                            ARTICLE XVI
+15                                           PROCUREMENT
+16
+17               Sec. 56. Procurement. - In general, the procurement rules provided under Republic
+18   Act No. 9184, otherwise known as the "Government Procurement Reform Act” as amended by
+19   RA No. 12009, shall apply. However, alternative modes of procurement as provided in this Act
+20   may be resorted to by the Department, RDROs, or LGUs in any of the following emergency
+21   situations:
+22
+23      a. There is imminent danger to life or property during a state of calamity, as provided under
+24         this Act, and the procurement is necessary to avert or reduce such danger to life or property;
+25         or
+26      b. The procurement is necessary to restore vital public services, infrastructure facilities and
+27         other public utilities; or
+28      c. Time is of the essence in implementing a project, program or activity to effectively respond
+29         to a disaster and save lives or
+30      d. There are other circumstances that require immediate procurement necessary to prevent
+31         damage to or loss of life or property.
+32
+33              Sec. 57. Alternative Modes of Procurement - During emergency situations as
+34   provided under this Act, the Department, RDROs or LGUs may resort to the following modes of
+35   procurement:
+36
+37      a. Direct negotiation under Republic Act No. 9184, otherwise known as the "Government
+38         Procurement Reform Act", as amended, and its implementing rules and regulations;
+39      b. Simplified or pre-arranged contracts such as, among others, pre-signed agreements, stand-
+40         by contracts, pre-arranged systems of procurement with a pre-approved list of contractors
+41         for construction projects, pre-negotiated contracts, advanced procurements contracts, and
+42         framework contracts. The parameters, requirements and conditions for these types of
+43         contracts shall be defined in this Act's IRR.
+44
+45              Sec. 58. Special Rules on Procurement for Reconstruction and Rehabilitation of
+46   Affected Areas. -
+47
+48      a. The Department, with the assistance of, or in collaboration with, relevant government
+49         agencies, shall create special rules on procurement for services, goods, and materials to be
+50         used for reconstruction and rehabilitation efforts in case of a natural disaster, including but
+51         not limited to, the construction of post-disaster shelters and provision of service contracts,
+52         to ensure the procurement of quality-oriented goods, materials, and equipment and to
+53         guarantee effective, efficient, and speedy procurement to achieve the goals of this act.
+54      b. In case of procurement of services, goods, or materials for reconstruction and rehabilitation
+55         efforts, whether from local or international sources, the Department and the relevant
+56         government agencies shall provide less bureaucratic restrictions, more flexible
+57         procurement policies, or exemption from, or reduction of, customs duties.
+
+                                                                                                       24
+ 1
+ 2               Sec. 59. Procurement from Qualified Suppliers or Contracts. - As an exception to
+ 3   the provisions of Republic Act No. 9184, otherwise known as the "Government Procurement
+ 4   Reform Act", and its implementing rules and regulations, the Department shall have the power to
+ 5   procure goods and services from either local or foreign suppliers or contractors for purposes of
+ 6   implementing programs, projects, and activities related to disaster resilience and disaster
+ 7   management. The conditions, limitations, application processes, eligibility requirements and
+ 8   assessment criteria for local and foreign suppliers and contractors shall be provided in this Act's
+ 9   IRR.
+10
+11                Sec. 60. Pre-Arranged Contracts or Agreements with Private Sector Entities. -
+12   Notwithstanding Republic Act No. 9184, otherwise known as the "Government Procurement
+13   Reform Act", the Department shall have authority to enter into pre-arranged or contingency
+14   contracts or agreements with private sector entities for the purpose of, among others, establishing,
+15   a logistics system for the efficient and prompt distribution of goods, equipment or other materials
+16   required for disaster response and management; securing food, medicines, fuel, or other supplies
+17   from groceries, pharmacies, gas stations or other sources in the event of a disaster in a specific
+18   area; ensuring an alternative source of power or water from private utilities in the event of a disaster
+19   in a specific area; or other arranging the immediate supply of other goods, services or equipment
+20   necessary for disaster response and management. The conditions, limitations and parameters of
+21   contracts or arrangements authorized under this Section shall be provided in this Act's IRR.
+22
+23
+24               Sec. 61. Other Procurement Ruies and Policies. - In view of the urgency and to avoid
+25   unnecessary delays to procure goods, services, and implement projects for the purpose of
+26   providing responsive, effective, and efficient rescue, recovery, relief, and rehabilitation efforts for,
+27   and to continue the provision of basic services to, disaster victims or disaster affected areas, the
+28   DBM and GPPB shall issue appropriate resolutions, orders, and policies to effectively implement
+29   the provisions of this Act.
+30
+31                Sec. 62. Government Accounting and Auditing Policies. - The COA shall review,
+32   align, and issue policies or rules to improve the efficiency and expediency of procurement and
+33   audit processes for programs and projects related to disaster resilience and management.
+34
+35                                       ARTICLE XVII
+36                         SPECIAL RULES ON BORROWINGS AND TAXES
+37
+38                Sec. 63. Rules on Borrowing. - The LGUs shall access foreign financing, through the
+39   DOF, Bangko Sentral ng Pilipinas (BSP), and other relevant agencies, as applicable, to implement
+40   disaster prevention, mitigation, early recovery, and rehabilitation measures at the provincial, city,
+41   or municipal level.
+42
+43                Sec. 64. Special Rules on Tax and Duties. - To facilitate prompt, efficient and
+44   effective response to, recovery from disasters, and building forward better in disaster-affected
+45   areas, the following shall be granted special exemptions from existing taxation laws, rules, and
+46   regulations:
+47
+48       a. Exemption from taxes and import duties for foreign disaster assistance or international
+49          donations coursed through the Department;
+50       b. Exemption from donor's tax and allowing the treatment of donations as a deductible
+51          expense for local disaster assistance coursed through the Department;
+52       c. Exemption from the Value Added Tax (VAT) for goods or services donated from abroad
+53          as coursed through the Department;
+54       d. Tax incentives to encourage members of the private sector to render aid or provide disaster
+55          assistance, and/or to invest in disaster resilience and climate change adaptation and
+56          mitigation measures for their residences, communities and/or businesses.
+57
+
+
+                                                                                                          25
+ 1               LGUs may also implement local tax rules that would grant disaster victims reasonable
+ 2   reduction, exemption, or deferment of local taxes or other types of tax assessments; or take other
+ 3   necessary action at the local level to provide tax relief to disaster victims.
+ 4
+ 5               Sec. 65. Customs Duties and Tariffs on Donations. -The BOC shall create rules that
+ 6   would, among others, hasten the processing and release of donated goods and equipment to disaster
+ 7   victims and/or affected areas.
+ 8
+ 9                Sec. 66. Economic Recovery and Development of Disaster-Prone Areas. – The
+10   Department, in coordination with the Department of Trade and Industry (DTI) and other relevant
+11   agencies, shall craft policies, and implement the necessary programs and projects to stimulate
+12   economic activities and encourage investments to assist disaster-affected areas develop or recover
+13   faster, as applicable.
+14
+15               The Department, in collaboration with the relevant LGUs and other stakeholders, shall
+16   likewise establish dual purpose structures in disaster-affected areas, such as, among others,
+17   community agricultural centers, classrooms, and water harvesting tanks to develop and promote
+18   investments in disaster-prone or affected areas.
+19
+20                                        ARTICLE XVIII
+21                               PROHIBITED ACTS AND PENALTIES
+22
+23               Sec. 67. Prohibited Acts. - Any public official, private person, group or corporation
+24   who commits any of the following prohibited acts shall be held liable and be subjected to the
+25   criminal and administrative penalties as provided for in Section 71 of this Act, without prejudice
+26   to the imposition of other criminal, civil and administrative liabilities under existing laws.
+27
+28      1. Prohibited Acts of Public Officials. - The following acts, if committed by public officials
+29         without justifiable cause, shall be considered as gross neglect of duty:
+30                      i. Dereliction of duties that leads to destruction, loss of lives, critical damage
+31                         of facilities and misuse of funds;
+32                     ii. Failure to enforce laws, standards, or regulations such as the National
+33                         Building Code, Solid Waste Management Act, Water Code, and other
+34                         relevant laws, leading to destruction, loss of lives, and/or critical damage of
+35                         facilities;
+36                   iii. Failure to create a functional LDR Office within six (6) months from the
+37                         approval of this Act;
+38                    iv. Failure to appoint a permanent local disaster resilience officer within six (6)
+39                         months from approval of this Act;
+40                     v. Failure to prepare and implement a Contingency and Adaptation Plan for
+41                         hazards frequently occurring within their jurisdictions;
+42                    vi. Failure to formulate and implement the LDRP with the corresponding
+43                         budget allocation; and
+44                   vii. Sexual exploitation and abuse and other forms of sexual misconduct on the
+45                         affected population or at-risk communities.
+46      2. Prohibited Acts of Public Officials and Private Persons or Institutions. –
+47                      i. Delay, without justifiable cause in the delivery, proper handling or storage
+48                         of aid commodities, resulting to damage or spoilage;
+49                     ii. Withholding the distribution of relief goods due to (i) political or partisan
+50                         considerations; (il) discrimination based on race, ethnicity, religion, or
+51                         gender; and (i) other similar circumstances;
+52                   iii. Preventing the entry and distribution of relief goods in disaster-stricken
+53                         areas. including appropriate technology, tools, equipment, accessories,
+54                         disaster teams or experts;
+55                    iv. Buying, for consumption or resale, from disaster relief agencies any relief
+56                         goods, equipment or other and commodities, which are intended for
+57                         distribution to disaster-affected communities;
+
+                                                                                                       26
+ 1                       v. Buying, for consumption or resale, from the recipient disaster affected
+ 2                          persons any relief goods, equipment or other aid commodities received by
+ 3                          them;
+ 4                      vi. Selling of relief goods, equipment or other aid commodities, which are
+ 5                          intended for distribution to disaster victims;
+ 6                     vii. Forcibly seizing relief goods, equipment or other aid commodities intended
+ 7                          for or consigned to a specific group of victims or relief agency;
+ 8                    viii. Diverting or misdelivery of relief goods, equipment or other aid
+ 9                          commodities to persons other than the rightful recipient or consignee;
+10                      ix. Accepting, possessing, using or disposing relief goods, equipment or other
+11                          aid commodities not intended for nor consigned to him or her;
+12                       x. Misrepresenting the source of relief goods, equipment or other aid
+13                          commodities by:
+14                               1. Either covering, replacing or defacing the labels of the containers to
+15                                   make it appear that the goods, equipment or other aid commodities
+16                                   came from another agency or persons;
+17                               2. Repacking the goods, equipment or other aid commodities into
+18                                   containers with different markings to make it appear that the goods
+19                                   came from another agency or persons or was released upon the
+20                                   instance of a particular agency. person, or persons; and
+21                               3. Making false verbal claim that the goods, equipment or other and
+22                                   commodity in its untampered original containers actually came from
+23                                   another agency or persons or was released upon the instance of a
+24                                   particular agency, person, or persons;
+25                      xi. Substituting or replacing relief goods, equipment or other aid commodities
+26                          with the same items or inferior/cheaper quality;
+27                     xii. Illegal solicitations by persons or organizations representing others as
+28                          defined in the standards and guidelines set by the Department;
+29                    xiii. Deliberate use of false at inflated data in support of the request for funding,
+30                          relief goods, equipment or other aid commodities for emergency assistance
+31                          or livelihood projects;
+32                     xiv. Stealing, taking, or processing of any of the equipment, accessories and
+33                          other vital facility or items or any part thereof;
+34                      xv. Selling or buying stolen equipment, accessories, and other vital facility
+35                          items or any part thereof;
+36                     xvi. Tampering with or stealing hazard monitoring and disaster preparedness
+37                          equipment and paraphernalia;
+38                    xvii. Attempting to commit any of the abovementioned prohibited acts; and
+39                   xviii. Benefitting from the proceeds or fruits of any of the abovementioned
+40                          prohibited acts knowing that the proceeds or fruits are derived from the
+41                          commission of said prohibited acts.
+42
+43                Sec. 68. Penalties. - Any individual, corporation, partnership, association or other
+44   juridical entity that commits any of the prohibited acts in the preceding section shall be made liable
+45   for the following:
+46
+47      a. The penalty of imprisonment of not less than twelve (12) years but not more than fifteen
+48          (15) years or a fine of not less than One Million Pesos (Php 1,000,000.00) but not more
+49          than Three Million Pesos (Php3,000,000.00), or both imprisonment and fine at the
+50          discretion of the court shall be imposed upon any person found guilty of violating
+51          subsections (a)(1) to (b)(16) of the preceding section, as well as the confiscation or
+52          forfeiture in favor of the government of the objects and the instrumentalities used in the
+53          commission of the prohibited acts;
+54      b. The penalty of imprisonment of not less than six (6) years but not more than eight (8) years
+55          or a fine of not less than Five Hundred Thousand Pesos (Php 500,000.00) but not more
+56          than One Million Pesos (Php 1,000,000.00), or both imprisonment and fine at the discretion
+
+
+                                                                                                        27
+ 1           of the court, shall be imposed upon any person who attempts to commit any of the
+ 2           prohibited acts in the preceding Section, in violation of Subsection (b)(17) thereof;
+ 3      c. The penalty of imprisonment of not less than two (2) years but not more than six (6) years
+ 4           or a fine of not less than Two Hundred Thousand Pesos (Php 200,000.00) but not more
+ 5           than Five Hundred Thousand Pesos (Php 500,000.00), or both imprisonment and fine at
+ 6           the discretion of the court, shall be imposed upon any person found guilty of unlawfully
+ 7           benefiting from the proceeds or fruits of any of the prohibited in the preceding section, in
+ 8           violation of subsection (b)(18) thereof;
+ 9      d. Aside from the penalty of fine or imprisonment or both, perpetual disqualification from
+10           public office shall be imposed if the offender is a public officer, along with the confiscation
+11           or forfeiture in favor of the government of the objects and the instrumentalities used in the
+12           commission of any of the prohibited acts in the preceding section;
+13      e. If the offender is a corporation, partnership or association, or other juridical entity, the
+14           penalty shall be imposed upon the officer or officers of the corporation. partnership,
+15           association or entity responsible for the violation without prejudice to the cancellation or
+16           revocation of these entities' registration, license or accreditation issued to them by any
+17           licensing or accredited body of the government. If such offender is an alien, he or she shall,
+18           in addition to the penalties prescribed in this act, be deported without further proceedings
+19           after service of sentence;
+20      f. Payment of the full cost of repair or replacement of the government risk reduction and
+21           preparedness equipment, accessories and other vital facility Items, or any part thereof;
+22           which is the object of the crime shall likewise be imposed upon any person who shall
+23           commit any of the prohibited acts in the preceding Section; and
+24      g. The prosecution for offenses set forth under the preceding section shall be without prejudice
+25           to any criminal liability for violation of Republic Act No. 3815, as amended, otherwise
+26           known as the "Revised Penal Code", and other existing laws, as well as the imposition of
+27           applicable administrative or civil liabilities.
+28
+29                 Sec. 69. Liability for Unlawful Performance of Duties and State Liability in case
+30   of Defense Litigation. - In case a lawsuit is filed against any personnel of the Department as a
+31   result of the performance of his or her duties, and such performance was found to be lawful, or she
+32   shall be reimbursed by the Department for reasonable costs of litigation. For this purpose, the
+33   Department is authorized to procure applicable liability insurance for its officers and employees.
+34
+35                Sec. 70. Disciplinary Powers of the President - The President, subject to the
+36   recommendation of the Department Secretary and the Department of the Interior and Local
+37   Government (DILG), shall have the power to impose administrative sanctions against local chief
+38   executives and barangay officials for willful or negligent acts that relate to the implementation of,
+39   or compliance with, this Act and its IRR or relating to their official functions, which adversely
+40   affect disaster resilience projects such as, but not limited to, delayed issuance of permits or failure
+41   to implement local ordinances.
+42
+43                                          ARTICLE XIX
+44                                    DISASTER RESILIENCE FUND
+45
+46               Sec. 71. Appropriations and Management of Disaster Resilience Fund. – The budget
+47   of the Department shall be composed of the following, which shall be collectively called the
+48   Disaster Resilience Fund:
+49
+50      a. Annual General Appropriations - shall provide the funding requirements for, among others,
+51         research, operations, maintenance, plans, and programs of the Department of Disaster
+52         Resilience, including, but not limited to, establishment of evacuation centers, retrofitting
+53         of structures, establishment of emergency operating centers, and implementation of other
+54         disaster risk reduction projects.
+55      b. Disaster Contingency Fund - shall be in a lump-sum form to provide funds in case of
+56         imminent hazards or actual disasters for, among others, immediate response, relief and
+57         quick recovery measures for disaster affected areas.
+
+                                                                                                         28
+ 1      c. Rehabilitation and Recovery Fund - shall provide the funding requirements for
+ 2         rehabilitation and/or reconstruction projects of disaster affected areas such as public
+ 3         classrooms, government buildings, public hospitals, permanent shelters and livelihood
+ 4         programs.
+ 5
+ 6               The Disaster Resilience Fund shall be managed by the Department to finance its
+ 7   operations, and disaster risk reduction, disaster preparedness, response, recovery, rehabilitation
+ 8   and building forward better programs, projects and activities formulated at the national level.
+ 9
+10               Sec. 72. Continuing Appropriations. - The unutilized balances from the Disaster
+11   Contingency Fund, and Rehabilitation and Recovery Fund shall be treated as Continuing
+12   Appropriations, which may be used to finance the cost of projects, programs, and/or activities even
+13   when such costs are incurred beyond the fiscal year of the GAA from which such funds were
+14   appropriated.
+15
+16               Sec. 73. Fund Regulations. - The DBM and COA shall establish rules and regulations
+17   that apply specifically to the Disaster Resilience Fund to ensure that funds required for disaster
+18   response, recovery, and rehabilitation are available and/or released efficiently and expeditiously
+19   through innovative budgeting and auditing mechanisms, which may include, among others,
+20   providing for longer validity periods for funds and/or exemption from cash-based budgeting rules;
+21   imposing auditing or reporting requirements, which apply specifically to the utilization of the
+22   Disaster Resilience Fund.
+23
+24                Sec. 74. Local Disaster Resilience Fund and Local Disaster Contingency Fund. -
+25   LGUs shall annually set aside not less than ten percent (10%) of their local budget, to constitute a
+26   Local Disaster Resilience Fund (LDRF). The LCD shall use its LDRF to maintain and operate its
+27   local disaster resilience office to maintain its officers, employees and staff, and to implement plans,
+28   programs and activities under its LDRP. Thirty percent (30%) of the LDRF shall be set aside as
+29   Local Disaster Contingency Fund (LDCF), which shall be used for disaster response and quick
+30   recovery measures. Nothing contained in this Act shall prevent LGUs from providing additional
+31   funding or allocating additional resources for disaster resilience activities, plans and programs
+32   within their jurisdiction.
+33
+34                Sec. 75. Supplemental LDRF. —The Department may allocate and disburse funds to
+35   supplement an LGU's LDRF based on the parameters and requirements indicated in the IRR. In
+36   determining such parameters and requirements, the IRR shall aim to provide supplemental funds
+37   to LGUs with low income and/or high exposure to natural hazards. Supplemental LDRFs shall, as
+38   much as possible, fill gaps or shortages in LGU resources to ensure that LGUs can implement
+39   disaster resilience measures such as, among others, implementing their LDRP/Provincial LDRP,
+40   establishing their local disaster resilience offices, obtaining and/or maintaining the necessary
+41   equipment and staff in their local disaster resilience offices, and implementing the NDRF and at
+42   the local levels.
+43
+44              Sec. 76. People's Survival Fund. - The Department shall manage and administer the
+45   People's Survival Fund, created under Republic Act no. 10174, and facilitate its utilization by
+46   LGUs, through RDROs, to implement climate change adaptation and mitigation projects of LGUs
+47   and enhance the climate resilience of vulnerable communities.
+48
+49                Sec. 77. Multi-Donor Trust Fund. - The Department shall create and manage,
+50   together with the Bureau of Treasury, a Multi-Donor Trust Fund for the processing, releasing and
+51   accounting of money and other similar resources intended for disaster assistance. The Department
+52   shall establish a system to ensure transparency in the management and use of the Multi-Donor
+53   Trust Fund.
+54
+55               Sec. 78. Financial Administration. - The Department shall manage all finds
+56   appropriated to it by Congress and received from other sources. The Department shall also manage
+57   all donations received by It, subject to the auditing powers of the COA. To fund its operations, the
+
+                                                                                                         29
+ 1   Department shall have the power to collect fees derived from the DRRTI and other related
+ 2   activities.
+ 3
+ 4                                       ARTICLE XX
+ 5                             SPECIAL COURTS AND INJUNCTIONS
+ 6
+ 7               Sec. 79. Special Courts on Disaster Resilience Matters. - To ensure the prompt and
+ 8   expeditious resolution of disputes relating to disaster response, recovery or rehabilitation
+ 9   measures, the Supreme Court shall designate special courts to hear, try, and decide cases arising
+10   from the following, among others:
+11
+12      a. Expropriation, eminent domain or right-of-way issues related to the implementation of
+13         disaster resilience projects;
+14      b. Failure to comply with standards for disaster risk reduction and continuity planning,
+15         including, but not limited to, infrastructure standards and designs;
+16      c. Commission of prohibited acts under Article XVIII of this Act; and
+17      d. Disputes involving donations, relief goods, or contracts executed or implemented pursuant
+18         to the provisions of this Act.
+19
+20
+21               Sec. 80. Dispute Resolution Mechanisms. - The Department shall establish a Disaster
+22   Resolution Board, which shall resolve disputes involving administrative matters related to:
+23      a. Accreditation or denial of accreditation of disaster resilience training institutions,
+24          trainers, instructors, donors, volunteers, and Assisting Domestic or International Actors;
+25      b. Decisions of the RDROs;
+26      c. Contracts entered into by the Department or any of its agents pursuant to the provisions
+27          of this Act; and
+28      d. Other administrative matters or issues as may be determined by the Department.
+29
+30          The composition, structure, and other organizational matters related to the DRB shall be
+31   defined and provided in this Act's IRR.
+32
+33
+34               Sec. 81. Imposition of Temporary Restraining Order. - No Court, except the Supreme
+35   Court, shall have the power to issue an injunction or a temporary restraining order against any
+36   action taken or projects implemented by the Department or its agents pursuant to this Act.
+37
+38                                           ARTICLE XXI
+39                                        FINAL PROVISIONS
+40
+41              Sec. 82. Transfer of Functions. — The following are hereby transferred to the
+42   Department:
+43
+44      a. All the functions of the Climate Change Commission (CCC);
+45      b. Natural disaster-related functions of the National Disaster Risk Reduction and
+46         Management Council (NDRRMC) and the Office of Civil Defense (OCD); and
+47      c. Natural disaster-response functions of the Department of Sociai Welfare and
+48         Development (DSWD).
+49
+50           Accordingly, the CCC and NDRRMC are hereby abolished. The DILG, DND, DSWD,
+51   and other relevant government instrumentalities, including the AFP, BFP, PNP, PCG, and OCD,
+52   shall continue to perform their functions related to the management of human- induced disasters,
+53   as provided by existing laws.
+54
+55               Sec. 83. Transfer of Resources. - The transfer of powers and functions listed above
+56   shall include the corresponding funds and appropriations, plantilla positions, data, records,
+57   equipment, facilities, properties and other resources of the concerned government
+
+                                                                                                    30
+ 1   instrumentalities. The Department shall have the power to reorganize or reallocate these resources
+ 2   and positions, as may be necessary to attain the goals and objectives of this Act.
+ 3
+ 4                Sec. 84. Program Management Office for the Earthquake Resiliency of the Greater
+ 5   Metro Manila Area. - The Program Management Office for the Earthquake Resiliency of the
+ 6   Greater Metro Manila Area (PMO-ERG), as created pursuant to and mandated by Executive Order
+ 7   no. 52, s. 2018, shall be attached to the Department and be authorized to implement earthquake
+ 8   resiliency programs, projects, and activities, as it may deem necessary to carry out its mandate and
+ 9   attain its overall goals. The Head of the PMO-ERG shall report directly to the SDR.
+10
+11                Sec. 85. Post-Disaster Shelters. - The Department shall establish a post-disaster
+12   shelter recovery policy framework for low-income/informal settler families, with the assistance of
+13   the appropriate housing agencies and the applicable LGUs. It shall determine, among others, the
+14   appropriate shelter modalities depending on the following phases: emergency, temporary or
+15   transitional, and permanent. The Department shall likewise identify, assess, and decide on safe
+16   zones for the implementation of recovery or rehabilitation projects.
+17
+18
+19               Sec. 86. Cultural Heritage. - To protect, preserve, and promote the nation's historical
+20   and cultural heritage, the Department shall assist the relevant cultural and heritage agencies and
+21   the appropriate LGUs to give priority protection and restoration to all national cultural treasures
+22   or national historical landmarks, sites, or monuments in post-disaster recovery or rehabilitation
+23   measures.
+24
+25                Sec. 87. Indigenous People. -The Department, with the assistance of the National
+26   Commission on Indigenous Peoples (NCIP) and the applicable LGUs, shall devise and implement
+27   mechanisms that foster social protection for indigenous communities that are vulnerable to the
+28   effects of natural disasters.
+29
+30                The Department shall ensure respect for, and protection of, the traditional resource
+31   right of the Indigenous Cultural Communities/Indigenous Peoples (ICCs/IPs) to their ancestral
+32   domains, and recognize the customary laws and traditional resource use and management,
+33   knowledge, and practices in ancestral domains.
+34
+35                In ancestral domains that are disaster-prone, the Department, with the assistance of
+36   the NCIP and applicable LGUs, shall create an Ancestral Domain Disaster Management and
+37   Resiliency Plan. It shall likewise properly communicate and explain information on disaster risks
+38   in ancestral domains with the concerned ICCs/IPs and, as much as possible, engage such ICCs/IPs
+39   in jointly formulating a disaster resiliency plan for their ancestral domain.
+40
+41
+42               Sec. 88. Incentives Program. - The Department shall establish an incentives program
+43   that recognizes the outstanding promotion and implementation by local disaster resilience offices,
+44   CSOs, academe, and other institutions of disaster resilience programs and/or projects, and the
+45   meritorious acts of individuals or entities during natural disasters.
+46
+47                Sec. 89. Structural Audit of Government Buildings and Critical Infrastructure. -
+48   The Department shall be assisted by the DPWH, DOTr, Department of Energy (DOE), DON,
+49   DepEd, DICT, DILG, local building officials, and other relevant government instrumentalities and
+50   stakeholders, in ensuring the effective and expeditious conduct of structural audit, as often as
+51   necessary, on government buildings, critical infrastructure, and private structures to attain the
+52   disaster risk reduction goals of this Act.
+53
+54               Sec. 90. Transitory Provision. - The functions, assets, funds, equipment, properties,
+55   transactions, and personnel of the affected and transferred agencies, and the formulation of the
+56   internal organic structure, staffing pattern, operating system, and revised budget of the
+57   Department, shall be completed within one (1) year from the effectivity of this Act, during which
+
+                                                                                                       31
+ 1   time the existing personnel shall continue to assume their posts on holdover capacity. The
+ 2   Department, in collaboration with the DBM, shall come up with its Organizational Structure and
+ 3   Staffing Pattern, both of which shall be approved within thirty (30) days from the effectivity of
+ 4   this Act.
+ 5
+ 6           The Secretary of National Defense shall serve as the interim SDR until such time that the
+ 7   SDR has been appointed and taken his/her oath of office. Upon assumption to duty, the SDR shall
+ 8   make use of the existing structure, systems, and personnel in responding to natural hazards and
+ 9   disasters within the transition period.
+10
+11           In accordance with Section 12 of this Act and the critical importance of attracting the most
+12   competent and dedicated personnel to the Department, suitable and qualified career personnel from
+13   the NDRRMC-OCD, DSWD, and the CCC, as defined by the CSC and other pertinent rules, may
+14   be absorbed by the Department. The system and mechanics for this shall be defined in the IRR of
+15   this Act.
+16
+17
+18                Sec. 91. Magna carta Benefits. - Qualified employees of the Department, including
+19   those of its attached agencies, shall be covered by and entitled to the benefits under Republic Act
+20   No. 8439, otherwise known as the Magna Carta for Scientists, Engineers, Researchers and other 5
+21   & T Personnel in the Government, and Republic Act No. 7305, otherwise known as the Magna
+22   Carta of Public Health Workers.
+23
+24                Sec. 92. Hazard Pay. - All personnel of the Department and the local disaster
+25   resilience offices are entitled to receive hazard pay, subject to the guidelines to be set forth in the
+26   IRR of this Act.
+27
+28                Sec. 93. Separation Benefits of Officials and Employees of Affected Agencies. -
+29   National government employees displaced or separated from service as a result of this Act shall
+30   be entitled to either separation pay and other benefits in accordance with existing laws, rules, or
+31   regulations, or be entitled to avail themselves of the privileges provided under a separation plan
+32   that shall be one and one-half month salary for every year of service in the government.
+33
+34           In no case shall there be any diminution of benefits under the separation plan until the full
+35   implementation of this Act. With respect to employees who are not retained by the Department,
+36   the government, through the Department of Labor and Employment, shall endeavor to implement
+37   training, job counseling, and job placement programs.
+38
+39               Sec. 94. Appropriations. - The amount necessary for the initial implementation of
+40   this Act shall be taken from the current fiscal year's unexpended and unobligated appropriations
+41   of all agencies herein absorbed, transferred, and attached to the Department. Thereafter, the
+42   amounts necessary for the operation of the Department and the implementation of this Act shall
+43   be included in the annual General Appropriations Act.
+44
+45               Sec. 95. Implementing Rules and Regulations. - The Department, DBM, DND, DOF,
+46   DILG, DOST, NEDA, and the PMS shail collectively craft and issue, within ninety (90) days from
+47   the effectivity of this Act, the Implementing Rules and Regulations (IRR) for the effective
+48   implementation of this Act. They may call upon other relevant government instrumentalities and
+49   stakeholders to assist in the crafting of the IRR.
+50
+51                Sec. 96. Joint Congressional Oversight Committee on Disaster Resilience. - There
+52   shall be created a Joint Congressional Oversight Committee on Disaster Resilience to monitor the
+53   implementation of this Act. The committee shall be composed of six (6) Members of the House of
+54   Representatives and six (6) Senators to be designated by the Speaker of the House of
+55   Representatives and the President of the Senate, respectively; Provided. That; two (2) Members of
+56   the House of Representatives and two (2) Senators shall come from the Minority of their respective
+57   houses of Congress. The committee shall be jointly chaired by a Member of the House of
+
+                                                                                                         32
+ 1   Representatives and a Senator designated by the Speaker of the House of Representatives and the
+ 2   President of the Senate, respectively.
+ 3
+ 4                Sec. 97. Mandatory Review. - Within five (5) years after the effectivity of this Act, or
+ 5   as the need arises, the Joint Congressional Oversight Committee on Disaster Resilience shall
+ 6   conduct systematic evaluation of the accomplishments and impact of this Act, as well as the
+ 7   performance of the Department of its mandate and functions, for purposes of determining remedial
+ 8   legislation.
+ 9
+10                Sec. 98. Interpretation. - Any doubt in the interpretation of any provision of this Act
+11   shall be resolved in favor of a liberal interpretation that will fulfill the objectives of this Act,
+12   especially in relation to the provision of effective, efficient and timely disaster response,
+13   rehabilitation and recovery.
+14
+15
+16                Sec. 99. Separability Clause. - If any provision of this Act is declared unconstitutional
+17   or invalid, the remaining provisions not affected shall continue to be in full force and effect.
+18
+19               Sec. 100. Repealing Clause. - The provisions of Republic Act no. 10121, Republic
+20   Act no. 7160, Republic Act no. 7916, Republic Act no. 9184, and all other laws, decrees, executive
+21   orders, proclamations and other executive issuances, which are not consistent with or contrary to
+22   the provisions of this Act, are hereby repealed or amended.
+23
+24                Sec. 101. Effectivity. - This Act shall take effect fifteen (15) days after its publication
+25   in the Official Gazette or in a newspaper of general circulation.
+             Approved,
+
+
+
+
+                                                                                                          33
+

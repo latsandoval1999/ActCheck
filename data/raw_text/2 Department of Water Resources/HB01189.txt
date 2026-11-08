@@ -1,0 +1,2250 @@
+===== [page 1] =====
+Republic of the Philippines
+HOUSE OF REPRESENTATIVES
+
+Quezon City, Metro Manila
+
+TWENTIETH CONGRESS
+
+First Regular Session
+
+House Bill No. 1 189
+
+Introduced by Representative
+
+BRIAN DANIEL POE LLAMANZARES, PhD, MNSA
+
+AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE
+MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES
+AND THE WATER REGULATORY COMMISSION, DEFINING THEIR MANDATE,
+
+POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR
+OTHER PURPOSES
+
+EXPLANATORY NOTE
+
+The Philippines is a water-rich country, with total annual renewable water resources
+amounting to 479 billion cubic meters (m*). This equates to an annual per capita availability of
+6,100 m’—twice that of the rest of Asia and six times the global scarcity threshold of 1,000 m?.
+Despite this abundance, many Filipinos still suffer from the lack of access to affordable, safe
+drinking water and an effective sanitation system.
+
+The Department of Environment and Natural Resources has acknowledged that the
+government “...still scrambles to avert a water crisis during the summer season or when the
+country experiences the El Nifio phenomenon.” This vulnerability was most evident during the
+water crises of March 2018, which caused shortages across the east zone of Metro Manila, and
+again in March 2019, when approximately 10,000 households in Metro Manila lost access to
+water.
+===== [page 2] =====
+The country also lacks a strong “liquid-in, liquid-out" system. While some households
+have access to potable water, only a small fraction receives adequate sanitation and sewerage
+services. This imbalance contributes to the prevalence of water-borne and tropical diseases such
+as leptospirosis, dengue, and typhoid. In fact, approximately 31% of illnesses in the Philippines
+are water-related due to the lack of clean water supply and efficient sanitary infrastructure.
+
+This persistent problem has severely impacted the health, sanitation, food security,
+livelihood, and overall quality of life of Filipinos—especially the poor, who often have the least
+access to clean water and yet pay disproportionately high costs to obtain it.
+
+Although several laws related to water management exist, enforcement remains weak.
+The water sector suffers from poor data management, fragmented regulation, and weak
+coordination among water agencies, regulatory bodies, and local government units (LGUs).
+Currently, there are four main regulatory agencies overseeing water services: the National Water
+Resources Board (NWRB), the Local Water Utilities Administration (LWUA), LGUs, and
+national agencies such as the Metropolitan Waterworks and Sewerage System (MWSS), along
+with entities operating in industrial zones.
+
+The current regulatory framework is disjointed and marked by overlapping mandates,
+inconsistent economic regulations, and administrative fragmentation. This has led to
+inefficiencies in the delivery of water and sanitation services nationwide. The absence of a lead
+agency in the water sector has made unified planning and governance nearly impossible.
+
+This bill seeks to address these issues by establishing two key institutions:
+
+1, The Water Regulatory Commission — an independent, quasi-judicial body that will
+rationalize the economic and administrative regulation of water utilities. Its powers will
+include setting policy for water supply, sewerage, and septage management: issuing
+licenses; approving and reviewing rates; reviewing and suspending contracts; initiating
+investigations; and revoking issuances and memoranda that do not align with the
+Commission’s mandate. Most importantly, it will ensure that consumer welfare is
+prioritized.
+
+2, The Department of Water Resources — a new executive department that will serve as
+the central policy-making, planning, coordinating, implementing, and monitoring agency
+for the water sector. It will oversee the integrated and sustainable management of the
+country’s water resources and ensure their equitable and optimal use, with the ultimate
+goal of achieving universal access to safe, adequate, and affordable water supply,
+sanitation, and septage services.
+
+Access to clean and affordable water, and living in communities free from human waste,
+are basic human rights. This principle was affirmed by the United Nations General Assembly in
+2010 through Resolution 64/292, which explicitly recognized the Right to Water and Sanitation.
+===== [page 3] =====
+To uphold this right for every Filipino, and to provide a coherent, accountable, and effective
+framework for water governance, the immediate passage of this bill is earnestly sought.
+
+DLoca~
+HON. BRJAN DANIEL POE ZLAMANZARES, PhD, MNSA
+
+Representative
+
+FPJ Panday Bayanihan Party-List
+===== [page 4] =====
+Republic of the Philippines
+HOUSE OF REPRESENTATIVES
+
+Quezon City, Metro Manila
+
+TWENTIETH CONGRESS
+
+First Regular Session
+
+House Bill No. 1189
+
+Introduced by Representative
+
+BRIAN DANIEL POE LLAMANZARES, PhD, MNSA
+
+AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER
+RESOURCE MANAGEMENT AND CREATING THE DEPARTMENT OF WATER
+RESOURCES AND THE WATER REGULATORY COMMISSION, DEFINING THEIR
+MANDATE, POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR,
+AND FOR OTHER PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+assembled:
+
+CHAPTER I
+INTRODUCTORY AND GENERAL PROVISIONS
+Section 1. Short Title. - This Act shall be known as the "Department of Water Resources Act”.
+
+Sec. 2. Declaration of Policy. -
+
+a. The State recognizes that water is fundamental to individual life, health, and dignity, and that
+every person has a right to access safe and clean water for personal and domestic use;
+
+b. The State affirms that the right of all Filipinos to safe and clean drinking water and sanitation
+is essential to the full enjoyment of life and all human rights and hence, the attainment of a
+nationwide water supply and sanitation services at reasonable rates must be pursued in an
+===== [page 5] =====
+orderly, rational, efficient, and dynamic manner;
+
+c. The State emphasizes that water is a public good essential subject to conflicting forms of
+economic, agricultural, and industrial activities, and is thus a scarce resource whose use must be
+carefully regulated to prevent resource depletion and to ensure its availability to future
+generations;
+
+d. The State also maintains that water is indispensable to the existence and sustainability of
+natural ecosystems, and as such its use must neither endanger the balance and health of the
+environment nor compromise the rhythm and harmony of nature;
+
+e. The State further maintains that water resources are interconnected with climate, soil
+condition, land use and land cover, forest cover, and other natural resources. As such, the
+management of water will require inter-sectoral and inter-agency collaboration as well as
+harmonization of laws, policies, institutions, and stakeholders; and
+
+f. Finally, while the State maintains that all water resources remain under its full ownership,
+control, and supervision, it emphasizes that it may enter into arrangements with the private
+sector, as well as with civil society and community-based organizations, on the basis of
+beneficial use, to ensure the efficient and affordable delivery of water supply, sanitation, and
+septage services to end-users.
+
+In accordance with these precepts, it is hereby declared the policy of the State to provide for the
+rational, evidence-based, and integrated management of all water resources in the country to ensure
+universal access to safe, adequate, and affordable water supply, sanitation, and septage services,
+through a policy and regulatory regime that encourages innovation and responsible private sector
+participation, while ensuring ecological preservation and environmental sustainability.
+
+Sec. 3. Definition of Terms. - The following terms are hereby defined as follows:
+
+a. Bulk water supplier - refers to any entity, natural or juridical, whether public or private,
+supplying or intending to supply large quantities of raw or treated water to buyers who will use it
+for own consumption, such as industrial companies, or for retail distribution to consumers such as
+Water Districts or subdivisions managing their own distribution network;
+b. Flood Control - refers to methods, acts, and protocols to be observed in order to prevent and
+reduce the detrimental and catastrophic effects of flood waters which include sediment-laden or
+turbid flows, and hyper-concentrated flows or debris flows;
+c. Flood Risk Management or FRM - refers to such acts of defining and determining the
+appropriate methods, acts and protocols aimed at preventing and reducing the risk of incurring loss
+of both life and property due to flood waters. Flood risk management consists of a cycle of
+prevention, mitigation, adaptation, preparedness, and early warning, and, response and recovery.
+The elements of FRM include: integrating land-use planning and coastal zone management into
+water management; adopting a holistic approach so that FRM is part of wider risk or multi-hazard
+management of earthquakes, landslides, and storm surges; managing risk and uncertainty as a
+whole so it is not only hydrological uncertainties but also social, economic, and political
+===== [page 6] =====
+uncertainties in view of the human behavior and cultural dimensions of FRM;
+d. Gender Equality - refers to the principle of asserting the equality of men and women and their
+right to enjoy equal conditions realizing their full human potentials to contribute to and benefit
+from the results of development, and with the State recognizing that all human beings are free and
+equal in dignity and rights;
+e. Infrastructure and public works - refer only to wholly or primarily water-related projects and
+shall not incorporate projects that do not otherwise fall within the purview of the objectives,
+powers, and duties of the Department of Water Resources (DWR);
+f. Integrated Water Resource Management or IWRM - refers to a systematic, collaborative and
+multi-stakeholder process which promotes the coordinated development and management of
+water, land, and related resources within geophysical boundaries in order to maximize the resultant
+economic and social welfare in an equitable manner and without compromising the sustainability
+of vital ecosystems;
+g. Levels of water supply - refer to the following:
+
+1. Level I or the point source is a protected well or a developed spring with an outlet but
+without any distribution system, generally adaptable for rural and upland areas where the
+houses are thinly scattered and is a facility which usually serves an average of 15
+households.
+
+2. Level II or the communal faucet system or stand posts is a system composed of a water
+source, a reservoir, a piped distribution network, and communal faucets where one faucet
+serves 4 to 6 households and is generally suitable for rural and urban fringe areas where
+houses are clustered densely to justify a simple piped system.
+
+3. Level III or the waterworks system or individual house connections is a system with a
+water source, a reservoir, a piped distribution network and household taps, suitable for
+densely populated urban areas.
+h. License - refers to the Water Supply and/or Sanitation Services Operating License that
+the Water Regulatory Commission (WRC) is authorized to grant and issue to Service
+Providers;
+
+i. Licensee - refers to the Service Provider to whom a License is granted or issued by the
+WRC;
+
+j. Missionary Water - refers to water supply or services to areas that have no existing safe
+water supply and services due to geographic limitation or absence of economic and market
+viability;
+
+k. National Water Resources Management Framework Plan or NWRMEFP - refers to
+a policy document that incorporates a framework to guide the development and
+management of all the country's water resources in the Philippines; the general strategies
+to be pursued to ensure the sustainability of the resource and work towards the water
+security; and provides top-level direction on the utilization of existing water resources in
+line with national development plans, policies, and programs. The plan shall also include
+a water infrastructure roadmap for all waters of the country as well as provide general
+===== [page 7] =====
+guidance on how these shall be financed within an integrated financing framework that can
+draw on public, private and international development finance. The plan shall be reviewed
+at the start of every new presidential administration to ensure its alignment with changing
+times;
+
+|. Regulatory Units - refer to the regulatory offices established under this Act to issue
+Licenses authorizing the operation of Water Supply and Sanitation Services, and provide,
+review, determine, fix, and approve water and sewerage tariffs, rates and charges that
+Licensees may impose;
+m. River basin - refers to an area of land drained by a stream or body of fixed water and
+its tributaries having a common outlet for surface run-off,
+n. River Basin Organization or RBO - refers to multi-stakeholder organizations which
+plan, coordinate, and monitor activities within a river basin cluster;
+o. Sanitation - refers to the provision of facilities and services for the safe management of
+human excreta from the toilet to containment and storage and treatment onsite or
+conveyance, treatment and eventual safe end use or disposal, and includes the safe
+management of solid waste and animal waste;
+p. Sediment management - refers to control of sediment erosion and deposition in rivers,
+reservoirs, and coastal zones through non-structural and structural measures and control
+works;
+
+q. Sustainable Development Goals or SDGs - refer to the universal call to action to end
+poverty, protect the planet, and ensure that all people enjoy peace and prosperity by 2030
+adopted by all United Nations Member States in 2015;
+r. Septage - refers to sludge produced on individual onsite wastewater disposal systems,
+principally septic tanks and cesspools;
+s. Septage Management - refers to the provision of proper collection, treatment, and
+disposal of septage;
+t. Service Area - refers to the area covered by the water distribution system, sewerage, and
+septage management services;
+u. Service Provider - refers to any entity, natural or juridical, whether private or public,
+providing or intending to provide levels I] & III water supply, including bulk water
+suppliers, sewerage, septage treatment, and disposal services for domestic, residential,
+industrial, or commercial use;
+v. Sewage - refers to water-carried waste in solution or suspension including sanitary waste
+(waste products of normal living), commercial waste, industrial waste, agricultural waste,
+and surface runoff conveyed by a sewerage system for treatment or disposal. For the
+purposes of this Act, the definition of septage shall be included in the use of sewage;
+w. Sewerage - refers to any system or network of sanitary pipelines, ditches, channels or
+conduits including pumping stations, lift stations and force mains, service connections
+including other constructions, devices or appliances appurtenant thereof, which includes
+the collection, sanitary piping transport, pumping and treatment of water-borne human or
+===== [page 8] =====
+animal waste removed from residences, buildings, institutions and industrial and
+commercial establishments to point of sewage treatment plant disposal;
+x. Sewers - refer to pipes or such other works or structures which are built and constructed
+
+to carry, transport, and dispose sewage;
+y. Social inclusion - refers to the process of improving the terms for disadvantaged
+individuals and groups to take part in society;
+
+z. Tariffs - refer to such amounts which may be charged by licensees of water supply
+and/or sanitation services for their services based on principles, standards, and guidelines
+established by the DWR;
+aa. Water Demand Management or WDM - refers to any method whether technical,
+economic, administrative, financial, or social that will accomplish one or more of the
+following:
+a. Reduce the quantity or quality of water required to accomplish a specific task;
+b. Adjust the nature of the task or the way it is undertaken so that it can be
+accomplished with less water or with lower quality water;
+c. Reduce the loss in quantity or quality of water as it flows from source, through use,
+to disposal;
+Shift the timing of use from peak to off-peak periods; and
+e. Increase the ability of the water system to continue to serve society during times
+when water is in short supply.
+
+bb. Water District - refers to government-owned and controlled corporations organized
+under Presidential Decree No. 198, as amended, created primarily to acquire, install,
+operate, maintain and improve water supply and distribution systems for domestic,
+industrial, and municipal uses of residents and to provide, maintain, and operate waste
+water collection, treatment and disposal facilities within the boundaries of the district;
+cc. Water pollution - refers to any alteration of the physical, chemical, biological, or
+radiological properties of a water body resulting in the impairment of its purity or quality;
+dd. Water Resource - refers to water under the ground or groundwater, water above the
+ground such as surface water, run-offs, floods, stormwater and urban drainage, and treated
+wastewater, water in the atmosphere or rain water, and the waters of the sea within the
+territorial jurisdiction of the Philippines;
+ee. Water Resources Regions - refer to the contiguous clusters of river basins which are
+grouped together according to the hydrological boundaries, physiographic features, and
+homogeneity in climate, whether or not straddling different local government units, for
+administrative purposes under the DWR;
+ff. Water Resources Regional Offices or WRROs - refer to the field office of the
+Department which are to be established in accordance with the identified water resources
+regions in the country;
+gg. Water Service Providers or WSPs - refer to the water districts, any Local Government
+Unit (LGU)-run water utility, Barangay Waterworks and Sanitation Association (BWSA),
+===== [page 9] =====
+Rural Waterworks and Sanitation Association (RWSA), cooperatives and private sector
+who provides water supply services to any given area;
+hh. Water supply service - refers to any activity comprising Levels I, II and III water
+supply including bulk suppliers, suppliers to subdivisions and other water service
+providers.
+
+CHAPTER II
+THE DEPARTMENT OF WATER RESOURCES
+
+Sec. 4. Establishment. - To carry out the policy and objectives declared under this Act, there is
+hereby established the Department of Water Resources, hereafter referred to as "the Department",
+which shall be established within one hundred twenty (120) days after the effectivity of this Act.
+
+Sec. 5. Mandate and Objectives. - The Department shall be the primary policy, planning,
+coordinating, implementing, monitoring, and administrative entity of the Executive Branch of the
+government responsible for the comprehensive and integrated development and management of
+the water resources of the Philippines, and their optimal allocation among competing uses, towards
+achieving universal access to safe, adequate, and affordable water supply, sanitation, and septage
+services.
+
+Sec. 6. Powers and Functions. - The Department shall exercise the following powers and
+functions:
+
+I. Policy Making and Planning
+
+a) Ensure that Integrated Water Resources Management (IWRM) is adopted as the strategic
+framework for water management policymaking and planning in the country and
+coordinate the implementation, promotion, revision and enhancement of IWRM plans;
+
+b) Formulate policies, strategies, and targets in coordination with other relevant agencies
+and stakeholders to meet the goals and objectives for water resource sustainability and
+protection, water allocation and management, water supply and sanitation, water quality,
+irrigation, hydropower, flood control, stormwater, and urban drainage;
+
+c) Formulate and develop policies and strategies to promote universal access to safe,
+adequate, affordable, and sustainable water supply, and improved sanitation services for
+all Filipinos;
+
+d) Establish guidelines and standards for quality drinking water and sanitation;
+
+e) Develop and regularly update a comprehensive and integrated National Water Resources
+Management Framework Plan (NWRMFP) and ensure its integration into existing land use
+===== [page 10] =====
+plans, within the context of a National Physical Framework Plan, to ensure the
+harmonization of planning of water, land, subsurface, and air resources;
+
+f) Review, approve, and provide oversight over all water-related development plans and
+programs of any agency or local government unit (LGU) within the context of the National
+Water Resource Management Framework Plan, and overall national plans and program;
+
+g) Assist and provide the National Economic and Development Authority (NEDA) with
+the required data and input from and for the water sector in the formulation of the country's
+short-term and long-term strategic development plans and actions, and recommend the
+adoption of general policies and guidelines for water resources development by the NEDA
+Board;
+
+h) Strengthen and coordinate policy making and planning for flood management, integrated
+with stormwater or urban drainage and appropriate retention or retarding basins in order to
+harvest and reuse water, and to plan against, prevent, and minimize the detrimental and
+catastrophic effects of flooding;
+
+i) Develop and implement, in coordination with other relevant agencies and stakeholders,
+effective codes, standards, benchmarks, and reasonable guidelines to ensure the safety of
+all public, and private water structures in the country, and assure efficiency and proper
+quality in the construction of water, sanitation, irrigation, hydropower, flood control and
+drainage infrastructure;
+
+j) Ensure that the planning and design of water infrastructure considers the highest
+efficiency and most appropriate technology and quality, in accordance with national
+development objectives;
+
+k) Ensure that gender equality, social inclusion, environmental protection, climate
+resiliency and disaster risk reduction are integrated into any water resources management
+planning, policy making, and the design and construction of water infrastructure;
+
+1) Act as the lead agency in ensuring the effective implementation of all laws and
+implementing rules and regulations on water resources, including but not limited to the
+following: i. Republic Act No. 9275, otherwise known as the "Philippine Clean Water Act
+of 2004"; ii. Presidential Decree No. 1067, otherwise known as "The Water Code of the
+Philippines"; iii. Sections 9, 10, 11, 12 & 13, Chapter II of Presidential Decree No. 856,
+otherwise known as the "Code on Sanitation of the Philippines";
+
+m) Review all water laws and implementing rules and regulations in the preceding section,
+and to propose amendments thereof to Congress;
+===== [page 11] =====
+n) Enter any property of public dominion or any private land, building or enclave, whether
+inhabited or not, or authorize a representative thereof, for the purpose of conducting
+hydrologic surveys and investigations, including assessing and evaluating the conditions
+of water facilities installed, and determining compliance with water laws and standards,
+evaluating the conditions of water facilities installed, and determining compliance with the
+NWRMEFP, LWRMP, and other laws and regulations on water resource management as
+defined by this Act; and
+
+0) Issue and promote rules and regulations as may be necessary to implement and enforce
+its powers and functions under this Act;
+
+Il. Data Collection and Evidence Gathering
+
+a) Establish, operate, and maintain a centralized water resources data center necessary for
+the scientific survey and appraisal of surface and ground water potentials of the country
+and determine the annual renewable water available per available water resources region;
+
+b) Effect inter-sectoral, inter-agency and inter-departmental coordination on all aspects of
+data gathering for water resources development planning and compel submissions of
+statistics and data on water management with the aim of operationalizing the IWRM
+framework;
+
+c) Undertake river basin survey, inventory and appraisal of water and related resources and
+develop comprehensive basin-wide plans of storage, retardation, and control to maximize
+conservation and multipurpose use of water in the basin;
+
+d) Collect, regularly update, monitor, and analyze water resources data including
+climatology, and hydrologic and other water-related data;
+
+e) Conduct continuing hydrologic and hydrometeorological surveys and studies of the
+country's renewable water supply, and establish, operate, and maintain observation station
+networks with a view towards formulating long-term policies to balance the sustainability
+and optimal multiple use of water resources, defining the hydrologic boundaries of basins
+of the existing water supply sources and developing or updating and implementing
+countrywide comprehensive basin-wide master plans;
+
+f) Establish, operate, and maintain observation station networks and a centralized water
+resources data center for the scientific survey and appraisal of surface and groundwater
+potentials of the country, and determine the annual renewable water available per water
+resources region;
+
+g) Develop and continuously update a computerized decision support system that
+incorporates data management system relating to acquisition and database, model base in
+===== [page 12] =====
+terms of physical design, planning and decision models, and user-friendly interface
+concerning graphical and visualization tools; and
+
+h) Promote Philippine participation in information sharing and education around best
+practices in the international movements to achieve universal access to safe water and
+improved sanitation and the integration of water, energy, food security and environment.
+
+III. Water Resource Management and Allocation
+a) Issue and enforce guidelines and rules and regulations on the following:
+i. Abstraction, diversion, and development of the country's water resources;
+
+ii. Equitable and optimal allocation of the country's water resources for domestic
+and municipal water supply, irrigation, sanitation;
+
+iii. Irrigation, hydropower, navigation, fisheries, livestock raising, industrial,
+recreational, and other purposes;
+
+iv. Determination and granting of water rights, including adjudication in cases of
+conflicting uses, amending for this purpose Act No. 2152, otherwise known as "The
+Irrigation Act", and other laws relating to the appropriation and utilization of
+surface and groundwater: Provided, that the adjudication of conflicting water rights
+shall be exercised by the Water Adjudication Board;
+
+v. Such other coherent water protocols as may be necessary, including the operating
+rules of all existing and future water infrastructure, legal and technical mechanisms
+for intra-sectoral transfers and the standards of beneficial and priority uses of water
+in times of crisis and national emergencies;
+
+vi. Guidelines for the determination of costs and fees of all water rights, tariffs,
+permits, and licenses through a science-based method which will accurately reflect
+the current or future projected state of the water resource to be allocated: Provided,
+that the actual methodology for setting rates and tariffs shall be the exclusive power
+of the Water Regulatory Commission;
+
+vii. Methods and standards for basic data collection and project identification,
+formulation and planning, and appropriate sanctions to be imposed for non-
+compliance;
+
+viii. Standards for water quality, in particular drinking water, as well as sanitation,
+septage, and water pollution; and
+===== [page 13] =====
+ix. Treatment and utilization of flood control, rain-water run-off, stormwater, and
+urban drainage;
+
+b) Exercise original jurisdiction over all disputes relating to appropriation, utilization,
+exploitation, development, control, conservation and protection of all water resources, the
+adjudication of which shall be enforced by the Water Adjudication Board;
+
+c) Regularly review regulations prescribed by any government agency pertaining to water
+use, exploitation, development, and conservation or protection of waters, water resources,
+and watershed or basin areas with respect to this Act;
+
+d) Impose fees or charges, as may be deemed necessary for water resources conservation
+and protection, such as:
+
+i. Polluter's Fee, which shall be based on the net waste load depending on the
+wastewater charge formula pursuant to Republic Act No. 9275;
+
+ii. Raw water price, which shall take into account, among others, the scarcity of
+water; and
+
+iii. Appropriate structures for payment of environmental services;
+
+e) Deputize LGUs to collect the national fees or charges for resource regulation within their
+respective jurisdictions;
+
+f) Conduct and/or promote special studies and research on water economics and other water
+resources development and management issues and concerns such as climate change,
+weather modification, flood monitoring and modeling, environmental quality, and
+desalination; and
+
+g) Raise public awareness through information, education, and communications programs,
+and build capacities for informed participation in water resources management at the
+national and river-basin level.
+
+IV. Administration and Management
+
+a) Develop guidelines including rules of partnership among the Department, field offices
+of national government agencies, LGUs, and other stakeholders, and facilitate the
+establishment of multi-stakeholder river basin organizations (RBOs) per river basin, and
+strengthen and support existing RBOs and monitor their activities,
+
+b) Develop materials for capacity building and training on RBO development and conduct
+training and workshops for prospective RBOs;
+===== [page 14] =====
+c) Provide technical assistance to water users including farmers, communities, and LGUs
+and other water service providers (WSP) whether directly or in coordination with other
+agencies on all aspects of Integrated water resources management,
+
+d) Conduct a performance audit of all water-related agencies and institutions, including but
+not limited to The Local Water Utilities Administration (LWUA) and water districts,
+MWSS, MWSS-RO and its concessionaires, LGU-run utilities. Tourism Infrastructure and
+Enterprise Zone Authority, Philippine Economic Zone Authority, Bases Conversion and
+Development Authority, Subic Bay Metropolitan Authority, DILG, and NIA, shall be
+conducted by the Department;
+
+e) Respond to consumer complaints, and ensure the adequate promotion of consumer
+interests;
+
+f) Deputize agents, whether from the public or private sector, to assist in the performance
+of any of the powers and functions of the Department;
+
+g) Appoint, hire and maintain adequate staff and personnel, advisers and/or consultants
+with suitable qualifications and experience, as necessary, and in accordance with the
+Government Procurement Law.
+
+V. Coordination
+
+a) Coordinate and integrate water resources development activities of the country within
+the context of national plans and policies for social and economic development;
+
+b) Coordinate with other government agencies, universities, academe, and private
+professional groups in all aspects of data gathering, the conduct of special studies and
+research on all related aspects of water resources management and development such as
+climate change, environmental quality, desalination, and the development of operating
+strategies, procedures, and protocols with accompanying computerized decision tools for
+major water facilities;
+
+c) Coordinate with the concerned and relevant agencies engaged in flood control, flood risk
+management, and drought risk management; and;
+
+d) Coordinate proactively with local government units to ensure the integration of water
+resources development plans into their comprehensive land use plans (CLUPs),
+Comprehensive Development Plans (CDPs) or Provincial Physical Framework and
+Development Plan (PPFDP): Provided, That no zoning and land use plan shall become
+effective and enforceable unless and until a certification of the integration of a water,
+sewage, and sanitation resource management plan has been issued by the Department.
+Should the Department have serious concerns affecting conservation and sustainability of
+===== [page 15] =====
+water supply, such concerns must first be resolved by the Department and the concerned
+LGU and/or national agency: Provided further, that in the absence of such concerns, the
+concerned LGU and/or government agency may, ninety (90) days from the submission of
+its zoning and land use plan and after submitting to the Department a written notice of
+compliance with the provision, proceed with the implementation of its zoning and land use
+plan without prejudice to later integration of the water resource management plan for the
+locality.
+
+VI. Other Functions
+
+a) Create, when necessary, water resource subsidiaries, instrumentalities, and entities to
+engage in water transmission, water distribution, waste water treatment and management,
+and sanitation in accordance with existing relevant laws, with the exception of the
+formation of new water district which shall remain under the Local Water Utilities
+Administration;
+
+b) Enter into contracts, joint venture agreements or understanding, public-private
+partnerships, and memorandum of agreements or understanding, either domestic or foreign
+relating to investment and financing water-related projects, under such terms and
+conditions as the Department may deem proper and reasonable subject to existing laws;
+
+c) Review existing guidelines appropriate for private sector participation in the water sector
+and make needed recommendations to the Public Private Partnership (PPP) Center of
+NEDA and other concerned agencies to promote and enable more PPPs in the sector; and
+
+d) Exercise such other powers and functions necessary or incidental to the effective
+administration and management of the country's water resources.
+
+Sec. 7. Offices, Functions, and Personnel to be Completely Absorbed by the Department - In
+addition to the powers and functions enumerated above, the following offices are hereby abolished,
+and their respective powers and functions, and the corresponding personnel, funds and
+appropriations, records, equipment, and property shall be absorbed by the Department:
+
+a) The National Water Resources Board, whose mandate, powers, and functions are
+provided in Presidential Decree No. 424, with the exception of its water utility regulation
+units and functions, which shall be absorbed by the Water Regulatory Commission created
+under Chapter VI of this Act;
+
+b) The River Basin Control Office (RBCO) of the DENR whose mandate, powers and
+functions are found in Executive Order No. 510 and Executive Order No. 816, as amended:
+Provided, that the Department of Environment and Natural Resources (DENR) shall
+===== [page 16] =====
+continue to have primary authority and responsibility for protecting the environment and
+managing the country's watersheds;
+
+c) The Manila Bay Task Force created under Administrative Order No. 16, s. 2019, and
+the Manila Bay Coordinating Office (MBCO) of the DENR which was created by virtue
+of DENR Special Order 2011-01, which were created to implement the Writ of Continuing
+Mandamus issued by the Supreme Court in the case of Metro Manila Development
+Authority, et al., v. Concerned Residents of Manila Bay (G.R. Nos. 171947-48, 18
+December 2008 and 15 December 2011);
+
+d) The Flood Control Management Cluster of the DPWH;
+e) The Water Supply and Sanitation Unit of the DILG;
+
+f) The Water Quality Management Section of the Environmental Management Bureau of
+the DENR;
+
+Sec. 8. Powers and Functions to be Transferred to the Department - The powers and functions
+of the following agencies, bureaus, and units and the corresponding personnel, funds and
+appropriations, records, equipment, and property are also hereby transferred to the Department:
+
+a) The powers and functions of the National Pollution Control Commission with respect to
+the adjudication of water pollution cases under Republic Act No. 3931 entitled, An Act
+Creating the National Water and Air Pollution Control Commission, Presidential Decree
+984 entitled Providing for the Revision of Republic Act No. 3931, Commonly Known as
+the Pollution Control Law, and for Other Purposes, particularly with respect to Section 6
+letters (e),(f), (g), (j), (k) and Republic Act No. 9275, which shall be exercised by the Water
+Adjudication Board;
+
+b) The powers and functions of the Mines and Geosciences Bureau (MGB) of the DENR
+to conduct hydrological surveys and groundwater mapping;
+
+c) The powers and functions of the Bureau of Design and Bureau of Research and
+Standards of the DPWH with regard to conduct of hydrological surveys monitoring of
+stream flow and other water data collection;
+
+d) The powers and functions of the DPWH with regard to the planning, programming,
+administration, monitoring, and management of the National Sewerage and Septage
+Management Program (NSSMP);
+
+e) The powers and functions of the DPWH with regard to the construction of water wells,
+rainwater collectors and springs under Republic Act No. 6716, otherwise known as 'An Act
+===== [page 17] =====
+Sec. 9.
+
+Providing for the Construction Of Water Wells, Rainwater Collectors, Development of
+Springs and Rehabilitation of Existing Water Wells in All Barangays in the Philippines’;
+
+f) The powers and functions of the DOH with regard to drinking water quality, in particular
+the Philippine National Standards for Drinking Water of 2017 under DOH-Administrative
+Order No. 2017-0010;
+
+g) The powers and functions of the Bureau of Soils and Water Management concerned
+with the utilization and management of water including rainmaking projects;
+
+h) The powers and functions of the Tourism Infrastructure and Enterprise Zone Authority,
+under Section 5(c)(1) of Presidential Decree No. 564, s. 1974, otherwise known as the
+Philippine Tourism Authority Charter, Chapter IV, Subchapter IV-A, Section 69 (f) of
+Republic Act No. 9593, otherwise known as the "Tourism Act of 2009" with regard to the
+construction, acquisition, owning, lease, operation, and/or maintenance of dams,
+reservoirs, water distribution systems, and sewerage systems: Provided, that the power to
+set rates, tariffs, and charges shall be transferred to the Water Regulatory Commission;
+
+i) The powers and functions of the Bureau of Fisheries and Aquatic Resources of the
+Department of Agriculture (DA) with regard to the formulation of plans for the proper
+management, development and utilization of aquatic resources of the country; and
+
+j) The powers and functions of the Biodiversity Management Bureau of the DENR, with
+regard to the protection and conservation of natural wetlands such as lakes, marshes,
+swamps.
+
+Organization. - The Department shall be comprised of the following:
+
+a) The Department Proper, which shall consist of the Office of the Secretary; the Offices
+of the Undersecretaries and the Assistant Secretaries; the Water Adjudication Board, the
+Bureaus; the Department Services; the Regional Water Resource Offices; and
+
+b) The attached agencies.
+
+Sec. 10. Secretary of the Department of Water Resources. - The authority and responsibility
+
+for the
+
+exercise of the mandate of the Department and for the discharge of its powers and functions
+
+shall be vested in the Secretary of the Department, hereinafter referred to as the Secretary, who
+shall be appointed by the President, subject to confirmation by the Commission on Appointments.
+The Secretary shall:
+
+a) Advise the President on the promulgation of executive or administrative orders,
+regulations, proclamations and other Issuances relative to matters under the jurisdiction of
+the Department;
+===== [page 18] =====
+b) Establish the policies and standards for the effective, efficient, and economical operation
+of the Department pursuant to the President's guidelines;
+
+c) Advise the President on the status of water management and supply, recommend to the
+President the declaration of a state calamity in areas affected by water supply, and submit
+proposals to restore normalcy in the affected areas;
+
+d) Promulgate rules and regulations necessary to carry out the objectives, policies and
+functions of the Department;
+
+e) Exercise supervision and control over all bureaus and offices under the Department as
+well as its officers and personnel;
+
+f) Supervise all attached agencies and corporations in accordance with law;
+
+g) Create regional offices and such other service units, bureaus, and divisions as may be
+necessary;
+
+h) Call upon and deputize any official, agent, employee, agency, or instrumentality of the
+national and local government for any assistance that it may deem necessary to carry out
+the purposes of this Chapter, subject to existing laws;
+
+i) Represent the Department in contracts, awards, and the like;
+
+j) Delegate authority for the performance of any power or function, as defined herein to
+officials and employees under his direction as deemed appropriate;
+
+k) Participate in meetings of the National Economic and Development Authority (NEDA),
+of which he shall be a member;
+
+1) Act as the Chairperson of the governing board of the agencies that were attached to the
+Department; and
+
+m) Perform such other duties and responsibilities as may be provided by law.
+
+Sec. 11. Office of the Secretary. - The Office of the Secretary shall be composed of the Secretary
+and his/her Immediate staff.
+
+Sec. 12. The Offices of the Undersecretaries. - The Secretary shall be assisted by not more than
+five (5) Undersecretaries, who shall be appointed by the President upon the recommendation of
+the Secretary. The Offices of the Undersecretaries shall be comprised of the Undersecretaries and
+their immediate staff.
+===== [page 19] =====
+The Secretary is hereby authorized to delineate and assign the respective functional areas of
+responsibility of the Undersecretaries: Provided, that such responsibility shall be with respect to
+the mandate and objectives of the Department: Provided further, that no Undersecretary shall be
+assigned primarily to administrative responsibilities.
+
+Within his/her functional area of responsibility, the Undersecretary shall:
+
+a) Advise and assist the Secretary in the formulation and implementation of the policies,
+plans, programs, and projects of the Department,
+
+b) Supervise all the operational activities of the assigned units for which the Undersecretary
+is responsible to the Secretary; and
+
+c) Perform such other functions deemed necessary as may be assigned or delegated by the
+Secretary to promote efficiency and effectiveness in the delivery of public services or as
+may be required by law,
+
+Sec. 13. Assistant Secretaries. - The Secretary shall be assisted by six (6) Assistant Secretaries to
+be appointed by the President of the Philippines upon the recommendation of the Secretary: one
+each for Planning and Policy Service, Decision Support System Service, Comptrollership and
+Financial Management Service, Legal and Legislative Service, and Administrative and Human
+Resources Management Service.
+
+Sec. 14. Qualifications of the Department Secretary, Undersecretaries, and Assistant
+Secretaries. - a) No person shall be appointed Secretary, Undersecretary, or Assistant Secretary
+unless he/she possesses extensive knowledge of public administration and has a minimum of seven
+(7) years of experience in the administration of water, sanitation, irrigation, flood control, and
+drainage programs, preferably in a public agency;
+
+b) At least one (1) of the Undersecretaries and at least two (2) of the Assistant Secretaries
+shall be career officers;
+
+c) No officer, external auditor, accountant or legal counsel of any private company or
+enterprises primarily engaged in the water industry shall be eligible for appointment as
+Secretary, Undersecretary, or Assistance Secretary within two (2) years from his/her
+retirement, resignation, or separation therefrom.
+
+Sec. 15. The Water Resources Adjudication Board. - There is hereby created a Water Resources
+Adjudication Board, hereafter referred to as "the Board" under the Office of the Secretary. The
+Board shall exercise quasi-judicial powers granted to it under this Act.
+
+Sec. 16. Jurisdiction. - The Board shall exercise original jurisdiction over the following:
+===== [page 20] =====
+a) All disputes relating to the appropriation, utilization, exploitation, development, control,
+conservation and protection of waters; and the compliance of water service provider with the rules
+and regulations set forth by the Department;
+
+b) Enforcement of agreements between water service providers;
+c) All cases concerning of water pollution under the following laws:
+
+1. Republic Act No. 3931 entitled, An Act Creating The National Water And Air Pollution
+Control Commission, Presidential Decree 984 entitled Providing For The Revision Of
+Republic Act No. 3931, Commonly Known as the Pollution Control Law, And For Other
+Purposes, particularly with respect to Section 6 letters (e),(f), (g), G), (k); and
+
+2. Republic Act No. 9275;
+
+Sec. 17. Composition. -The Board shall be composed of the Secretary as the Chairperson, two (2)
+Undersecretaries as may be designated by the Secretary, and three (3) other representatives from
+other stakeholders to be designated by the Secretary as members.
+
+Sec. 18. Powers and Functions. -The Board shall have the following powers:
+a) Investigate and decide on complaints involving violations of this Act;
+b) Issue subpoena duces tecum and subpoena ad testificandum;
+
+c) Cite any person or party in contempt for refusal to appear, testify or comply with the
+lawful orders of the Adjudicatory Board in relation to any matter subject to Its
+investigation;
+
+d) Hear, receive evidence, and decide on cases falling within its jurisdiction;
+e) Promulgate Its own rules and procedures; and
+
+f) Exercise such other powers as may be necessary to carry out Its duties and
+responsibilities under this Act.
+
+Sec. 19. Orders and Decisions. - Every order or decision rendered by the Adjudicatory Board
+shall be In writing and shall state clearly and distinctly the facts and the law on which it Is based.
+The Adjudicatory Board shall decide each case or application within thirty (30) days following its
+formal submission for resolution. It shall publish and make available for public inspection all
+decisions and final orders In the adjudication of contested cases or applications.
+
+Sec. 20. Appeals Procedure and Prohibition Against Injunction. - a) The orders, rulings, and
+decisions of the Adjudicatory Board shall become final and executory after fifteen (15) days from
+===== [page 21] =====
+receipt of such order, ruling, or decision, unless, prior to the lapse of this period, an appeal was
+made with the Secretary of Water Resources;
+
+b) All decisions where the penalty imposed Is a fine shall be immediately executory, except
+upon the filing of a bond equivalent to the fine imposed or as may be fixed by the
+Adjudicatory Board;
+
+c) No injunction may be issued by any court or administrative agency to restrain any
+proceeding before the Adjudicatory Board, or the implementation or execution of any
+order, ruling, or decision of the Adjudicatory Board, except on the basis of a question of
+law in a petition for certiorari brought before the Supreme Court.
+
+Sec. 21. Bureaus. -The Department shall have the following Bureaus:
+
+a) The Bureau of Water Quality Management shall exercise supervision and control over
+all aspects of water quality management to ensure the sustainability of the country's water
+resources and the protection of the environment, taking into account proper and Integrated
+treatment of freshwater and wastewater within the whole process. For this purpose, the
+Bureau shall exercise the following functions:
+
+I. Establish water quality guidelines for freshwater and coastal/marine waters as basis
+
+for classifying water bodies in the country. Specifically, develop water quality
+
+indices or composite metrics to measure of the quality status and health of natural
+
+water bodies in relation to ecological integrity and function;
+
+Establish effluent standards for point sources of pollution;
+
+Establish Internationally accepted procedures for sampling and analysis;
+
+Prepare an integrated water quality management framework;
+
+Prepare the ten-year water quality management plans for each water quality
+
+management area as part of the River Basin Master Plans and in support of the
+
+NWRMFP;
+
+6. Classify groundwater sources and prepare a national groundwater vulnerability
+map;
+
+7. Classify or reclassify all water bodies according to their beneficial usages using the
+established water quality guidelines established;
+
+8. Issue permits, clearances and similar instruments pursuant to the Clean Water Act
+of 2004;
+
+9. Collect the wastewater discharge fees for all permittees;
+
+10. Monitor the compliance of water discharge permittees with the effluent standards;
+
+1]. Regularly monitor the water quality of major water bodies in the country and
+analyze the data to identify possible sources of pollution;
+
+12. Issue notices of violations and/or cease and desist orders for those found in
+violation;
+
+VP WN
+===== [page 22] =====
+13.
+
+File the needed cases against violators with the Water Adjudication Board;
+
+14. Perform such functions and activities, as may be mandated by law, which are
+
+necessary for the effective performance of the abovementioned objectives
+
+b) The Bureau of Flood Control and Drainage shall plan and design flood control and
+drainage structures and facilities in accordance with technical standards, guidelines and
+manuals. For this purpose. It shall have the following duties and responsibilities:
+
+1,
+
+NAVE
+
+10 9
+
+10.
+11.
+
+12.
+13.
+
+14.
+
+Formulate policy, strategies and programs on flood risk management in the context
+of integrated flood management (IFM) which Integrates water, land, coastal zone
+and multi-hazard management. In integrating land-use planning and water
+management, the Department should harmonize and synthesize plans to enable the
+sharing of Information between land-use planning and water management
+authorities. In integrating hazard management, a holistic approach should be
+adopted so that IFM should be part of a wider risk or multi-hazard management
+system such as earthquake, landslides, fire, tsunami, and other calamities of even
+gravity or similar nature;
+
+Integrate climate change and disaster risk reduction and management in policies
+and plans;
+
+Prepare master plans of flood management and drainage in river basins in
+coordination with the concerned water resources region and river basin
+organizations;
+
+Prepare master plans of urban drainage in cities/municipalities;
+
+Prepare feasibility studies of recommended measures in the master plans;
+
+Plan and design structural measures for flood control and drainage;
+
+Implement and/or collaborate with concerned agencies on the nonstructural
+measures;
+
+Patrol and Investigate rivers Including the monitoring of stream flows;
+
+Conduct post-disaster investigation and evaluation and damage assessment of flood
+infrastructures after extreme events;
+
+Conduct research and development on water and sediment-related disasters;
+Develop design guidelines, criteria and standards on flood control and drainage
+structures;
+
+Provide technical assistance to other agencies, LCDs and other stakeholders;
+Advise the Secretary on declaring flood control areas and recommend guidelines
+for flood plain management plans in these areas; and
+
+Perform such functions and activities, as may be mandated by law, which are
+necessary for the effective performance of the abovementioned objectives.
+===== [page 23] =====
+Sec. 22. The Bureau Directors. - The Bureaus of the Department shall be headed by a Bureau
+Director who shall be responsible for efficiently and effectively carrying out the functions of the
+Bureau concerned. The Bureau Director shall be assisted by one (1) Assistant Director.
+
+Sec. 23. The Department Services. - The Department shall have the following services:
+
+a) The Planning and Policy Service shall provide the Department with the capability to
+undertake water infrastructure development planning and programming, and shall exercise
+the following functions:
+
+1.
+2.
+
+9.
+
+Advise the Secretary on all matters relating to water resources planning;
+
+Assist the Undersecretary for Planning and Policy on all matters related to the
+specific functions of the position;
+
+Formulate strategies and priorities for water resources management and
+development consistent with national development objectives, and initiate or
+undertake relevant surveys for development planning;
+
+Develop and regularly update a comprehensive and integrated National Water
+Resources Management Framework Plan and ensure its integration into existing
+land use plans, within the context of a National Physical Framework Plan, to ensure
+the harmonization of planning of water, land, subsurface, and air resources;
+Coordinate river-basin planning following the integrated water resources
+management framework and the river-basin approach;
+
+Formulate or update existing River Basin Master or Comprehensive Plans which
+includes all aspects of water management and development such as water supply
+and sanitation, irrigation, flood control and stormwater or urban drainage, drought
+risk management, water resource development systems and other public water
+works projects. Including phasing of Implementation;
+
+Identify based on the river basin master plan; priority packages for water
+infrastructure development per river basin including water supply, sanitation,
+irrigation, flood control and stormwater or urban drainage, drought risk
+management, water resource development systems, and other public works
+projects; package project proposals for funding and prioritize project
+implementation and the allocation of funds and other resources; and undertake or
+supervise and evaluate the conduct of feasibility studies and project preparation
+thereof;
+
+Evaluate and appraise all regional and inter-regional infrastructure water
+development plans and programs as to their feasibility and consistency with
+approved strategies and long and medium-term plans;
+
+Initiate regular Department-wide planning exercises and act as the secretariat
+thereof;
+
+10. Gather, analyze, and organize needed statistical data and information;
+===== [page 24] =====
+It.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+Provide technical assistance related to its functions to the other services, bureaus
+and the regional offices as needed;
+
+Conduct of hydrologic and hydraulic surveys and assessments of surface waters;
+Develop general criteria and standards on project investigation, formulation,
+planning;
+
+Develop guidelines and standards on social inclusion in water resources
+management and ensure policies, programs, and plans are compliant with the
+gender and development framework of the government;
+
+Coordinate closely with PAGASA for rainfall and other climate data which shall
+be considered in the planning for water resources development and management
+and for various water infrastructure; and
+
+Perform such functions and activities, as may be mandated by law, which are
+necessary for the effective performance of the abovementioned objectives.
+
+b) The Decision Support System Service shall provide the Department with water resource
+management tools and computerized decision support system that incorporates data
+management system relating to acquisition and database, and model base in terms of
+physical, design, planning, and decision models Including services related to networking,
+data management, and Information and knowledge or learning management systems for
+administrative and nontechnical support for the Department. It shall provide the Secretary
+timely reports on the status of various Department projects and activities. For this purpose,
+it shall exercise the following functions:
+
+1.
+
+Provide the Secretary the needed data and processed information to aid in policy
+and management decisions under the mandate of the Department;
+
+Publish available real-time raw water data as well as verified or validated water
+data in print and/or electronic form, in tabular and graphical displays as time series
+and/or spatial data through the use of the internet;
+
+Conduct and publish in print and/or electronic form, standard data analysis such as
+basic statistical analysis, trend analysis, analysis of runs, and cluster analysis;
+Develop and continuously update water resource management, computerized
+decision support system (DSS) that incorporates data management system relating
+to acquisition and database, model base in terms of physical, design, planning and
+decision models, and user-friendly interface such as graphical and visualization
+tools. The DSS is composed of a measurement or data acquisition system;
+information or database management system; analytical and numerical models for
+design, planning, decision or evaluation purposes; and a user-friendly interface
+which includes graphical interface or visualization tools;
+
+Develop and maintain specific models to include the following: long-term
+climatologic and weather forecasting model; watershed models and river-flood
+plain models; groundwater models and coupled to surface water models; flood
+===== [page 25] =====
+forecasting model for major rivers; optimization-simulation and/or management
+models for watershed conservation, conjunctive surface and groundwater use,
+irrigation scheduling, normal and emergency operations of multi-purpose
+reservoirs; and water quality and ecological models;
+
+Develop and manage the management Information system and knowledge systems
+of the Department including the retrieval and processing of monitoring Information
+on all projects and activities of concern to the Secretary and the web portal, and
+conduct systems and process engineering, software development, software
+configuration management; develop and manage the Department's corporate
+database, unified database for water industry, data warehouse, other water
+information resources, library services and document management and archiving
+services; develop and manage the Department's ICT infrastructure and provide
+ICT-related services to the Department including computer networking and voice
+communications services and data exchange; manage the literacy and training
+services of the Department on various ICTs, knowledge management tools, and
+applications; and
+
+Perform such functions and activities, as may be mandated by law, which are
+necessary for the effective performance of the abovementioned objectives.
+
+c) The Administrative and Human Resource Service shall provide the Department with
+services relating to human resources development, personnel, records, facilities
+maintenance, medical and dental, security and property and procurement services, and shall
+exercise the following functions:
+
+1.
+
+Advise the Secretary on all matters relating to internal administration and human
+resources management;
+
+Prepare and implement an integrated personnel development plan that shall include
+provisions for merit promotions, performance evaluation, job rotation, suggestions
+and incentive awards systems, and health and welfare services;
+
+Provide services related to human resources training, education and development
+including manpower, career planning and forecasting, and development of
+indigenous training materials;
+
+Develop, establish and maintain an efficient and cost-effective property
+procurement system and facilities and coordinate or otherwise interface with
+relevant agencies, whether government or private, for the purpose of developing or
+upgrading the system;
+
+Secure and maintain necessary Department facilities, and develop, establish, and
+maintain an efficient and effective security system covering, among others,
+personnel, physical installations, equipment, documents and materials including the
+conduct of security Investigations;
+===== [page 26] =====
+Coordinate with the appropriate government agencies for a more efficient conduct
+of administrative processes;
+
+Develop, establish, and maintain an efficient records system;
+
+Provide assistance in its area of specialization to the Department Proper, bureaus
+and regional and water district offices and, when requested, the government
+agencies and corporations attached to the Department; and
+
+Perform such functions and activities, as may be mandated by law, which are
+necessary for the effective performance of the abovementioned objectives.
+
+e) The Legal and Legislative Service shall provide the Department with services on such
+legal affairs as contract letting and litigation, legal and legislative research, complaints and
+investigation, legal counselling and other matters of law, and shall exercise the following
+functions:
+
+10.
+
+Advise the Secretary on all matters relating to legal and legislative affairs;
+Prepare Department contracts and legal instruments, review and Interpret all
+contracts and agreements entered into by the Department and evaluate all legal
+proposals;
+
+Conduct administrative investigation and the review of administrative charges
+against officers and employees of the Department;
+
+Exercise functional jurisdiction over the legal staffs of Regional Offices;
+
+Provide legal assistance to the Department Proper, the bureaus and regional offices
+and when requested, the attached corporations;
+
+Develop and prepare the Department's Legislative Agenda, recommend
+presidential certification of the urgency of priority water bills, and other water-
+related legislations;
+
+Coordinate and maintain linkages among the various offices, bureaus, regional
+offices and attached agencies to the DWR along with other government agencies
+on policy matters affecting the Department's mandate in relation to legislation;
+Maintain effective liaison with the Congress regarding congressional Inquiries, and
+enactment of water-related laws;
+
+Monitor the progress of the Department's priority or certified bills to ensure their
+passage; and
+
+Perform such functions and activities, as may be mandated by law, which are
+necessary for the effective performance of the abovementioned objectives.
+
+d) The Comptrollership and Financial Management Service shall provide the Department
+with coordinated services relating to financial systems and procedures, budget, cash,
+accounting and all financial housekeeping matters, and shall exercise the following
+functions:
+===== [page 27] =====
+Advise the Secretary on all matters relating to the accounting of government
+expenditures and receipts, budgeting and cash management, project finances and
+financial systems and procedures;
+
+Prepare budget proposals and pursue formal budget authorizations, undertake
+budget execution, and prepare and submit all appropriate reports to the proper
+offices;
+
+Develop and maintain accounting, financial and assets management systems,
+procedures and practices in the Department Proper, Bureaus and Regional Offices;
+Review and appraise systems and procedures, organizational structure, assets
+management practices, accounting, and other records, reports, and performance
+standards such as budgets and standard costs of the Department, bureaus, and
+regional offices;
+
+Provide assistance in Its area of specialization to any unit of the Department and,
+when requested, to government corporations and councils attached to the
+Department; and
+
+Perform such functions and activities, as may be mandated by law, which are
+necessary for the effective performance of the abovementioned objectives.
+
+e) The Resource Allocation Service shall provide the Department with services on resource
+allocation and shall exercise the following functions:
+
+l.
+2.
+
+Ned
+
+Advise the Secretary on all matters relating to water resource allocation;
+Determine, grant and regulate water rights for the appropriate, optimal and
+sustainable use of surface and ground water;
+
+Determine, evaluate and grant waterworks and sewerage franchises;
+
+Investigate violations of the water rights and the Water Code, and Impose the
+appropriate sanctions in accordance with existing laws, rules and regulations as
+well as future rules and regulations which the Department shall promulgate;
+Adjudicate water use conflicts; and
+
+Perform such functions and activities, as may be mandated by law, which are
+necessary for the effective performance of the abovementioned objectives.
+
+f) The Internal Audit Service shall regularly conduct a comprehensive audit of various
+Department activities, and shall report directly to the Secretary, and shall exercise the
+following powers and functions:
+
+1.
+
+Advise the Secretary on all matters relating to management control and operations
+audit;
+
+Conduct management and operations performance audit of Department activities
+and units, and determine as to the degree of compliance with established objectives,
+===== [page 28] =====
+policies, standards, methods and procedures, government regulations, and
+contractual obligations of the Department;
+
+Analyze and evaluate management deficiencies and assist top management to solve
+problems by recommending realistic courses of action; and
+
+Perform such functions and activities, as may be mandated by law, which are
+necessary for the effective performance of the abovementioned objectives.
+
+g) The Public Affairs Service shall enhance government relations with all stakeholders
+including the media and shall ensure that women, men, elderly, and people with disabilities
+shall be consulted, organized and can take active part in all aspects of water resources
+development and management activities. It shall also lead the planning and organizing of
+the special events of the Department, and shall exercise the following functions:
+
+I.
+2.
+
+eo Pnny
+
+II
+
+13.
+
+14.
+
+15.
+
+16.
+17.
+
+Advise the Secretary on matters pertaining to public affairs services;
+
+Develop and supervise the implementation of comprehensible communications
+programs on relevant policies, programs, and plans of the Department;
+
+Produce and supervise the dissemination of communication materials In line with
+the priorities of the Department and the national government public Information
+programs;
+
+Conduct public opinion and attitude surveys to identify the interests and concerns
+of the stakeholders of the Department;
+
+Establish editorial policies on print and broadcast media;
+
+Establish and maintain linkages with the tri-media and presence in social media;
+Coordinate the conduct of interviews and news conferences;
+
+Act as spokesperson for the Department;
+
+Coordinate with various Department units, concerned government agencies, tri-
+media and other stakeholders on matters related to the above-enumerated functions;
+
+. Coordinate with the appropriate national government agencies involved in public
+
+information affairs.
+
+. Conduct public consultations and discussions;
+12.
+
+Develop and disseminate relevant and appropriate materials and programs for
+public Information and education, as well as advocacy campaign;
+
+Conduct seminars and workshops involving the LGUs and the general public on
+current water issues and problems;
+
+Conduct capability building seminars of various stakeholders to promote
+meaningful participation in the Department's policy making, planning,
+development and implementation of various programs and projects;
+
+Coordinate the organization and promotion of special events and water exhibits;
+Act as the focal office for all water-related events; and
+
+Perform such functions and activities, as may be mandated by law, which are
+necessary for the effective performance of the abovementioned objectives.
+===== [page 29] =====
+Sec. 24 Attached Agencies. - The Department shall! exercise administrative supervision over the
+following agencies for purposes of policy and program coordination, monitoring, and evaluation:
+
+a) The Water Regulatory Commission established under Chapter VI of this Act;
+
+b) The LWUA, whose mandate, powers and functions are defined In Presidential Decree
+No. 198, as amended otherwise known as the Public Water Utilities Act of 1973 shall be
+transferred from the Department of Public Works and Highways and attached to the
+Department: Provided, that the powers and functions of LWUA, and the corresponding
+personnel, funds and appropriations, records, equipment, and property thereof, pertaining
+to the establishment of water districts, system exclusion. Integration, joint investment and
+operation, district annexation and de-annexation, and the regulation of their tariffs, rates,
+and charges shall be transferred to the Water Regulatory Commission. The LWUA shall
+continue to be primarily a specialized lending institution for the promotion, development,
+and financing of local water utilities and other Service Providers. In the implementation of
+its functions, the LWUA shall:
+
+1. Prescribe minimum standards and regulations in order to assure acceptable
+standards of construction materials and supplies, maintenance, operation, personnel
+training, accounting, and fiscal practices for local water utilities;
+
+2. Furnish technical assistance and personnel training programs for local water
+utilities; c) The Metropolitan Waterworks and Sewerage System (MWSS), whose
+mandates, powers, and functions are defined under Republic Act No. 6234, as
+amended entitled. An Act Creating the Metropolitan Waterworks And Sewerage
+System and Dissolving the National Waterworks and Sewerage Authority and for
+Other Purposes, shall be transferred from the DPWH and attached to the
+Department: Provided, that powers of the MWSS to periodically fix water rates and
+sewerage service fees under Sections 2(c) and 3(h) of R.A. No. 6234, and the
+corresponding personnel, funds and appropriations, records, equipment, and
+property thereof shall be transferred to the Water Regulatory Commission. The
+MWSS shall continue to facilitate the exercise by the concessionaires of its agency
+powers, carry out accounting and notification functions, monitor, report, and
+administer loans, and perform related functions in connections with existing
+projects, manage and dispose Its retained assets, and manage and operate the
+Umiray-Angat Transbasin Project; d) The Laguna Lake Development Authority
+(LLDA), whose mandate, powers and functions are defined under Republic Act No.
+4850, as amended entitled. An Act Creating the Laguna Lake Development
+Authority, Prescribing Its Powers, Functions and Duties, Providing Funds Therefor,
+and for Other Purposes shall be transferred from DENR and attached to the
+Department: Provided, that the power to set rates and fees for the use of the lake
+waters and its tributaries for all beneficial purposes under Section 4-B, and the
+===== [page 30] =====
+corresponding personnel, funds and appropriations, records, equipment, and
+property thereof shall be transferred to the Water Regulatory Commission:
+Provided, further: that the rates fees set by the WRC shall no longer be subject to
+the approval of the President of the Philippines. The LLDA shall continue to serve
+as the lake management and development authority similar to a multi-stakeholder
+river basin organization and shall ensure the implementation of the Laguna Lake
+Master Plan which shall be updated by the Department to ensure alignment with
+the NWRMFP; e) The National Irrigation Administration (NIA), whose mandates,
+powers and functions are defined under Republic Act No. 3601 as amended, is
+hereby transferred from the Department of Agriculture to the Department:
+Provided, that the power to set irrigation service fees for farmers with more than
+eight (8) hectares of land, corporate farms, and plantations drawing water for
+agricultural crop production; and fishponds and other persons, natural or juridical,
+drawing water for non-agricultural purposes, or using the irrigation systems as
+drainage facilities, shall be subject to the guidelines of the Department; and f) Any
+other agency performing water resources management conservation, and protection
+functions which the President deemed necessary to be transferred to the
+Department.
+
+Sec. 25. The Water Resources Regional Offices. - Water Resources Regional Offices, which
+shall be organized per water resources region, shall be responsible for Implementing the mandates,
+powers, and duties of the Department at the field level, except for policymaking which will be
+vested solely with the Central Office. The master planning for the nearby river basins such as the
+Pasig-Marikina-Laguna Lake-Cavite, shall be the responsibility of the Central Office. For this
+purpose, the duties and responsibilities of the WRRO shall be as follows:
+
+a) Formulate or update and coordinate the river basin master plans for river basins within
+Its jurisdictions ensuring consistency with the NWRMFP;
+
+b) Advocate and strongly support the creation and functioning of multi-stakeholder River
+Basin Organizations (RBOs) and serve as the secretariat of the said RBOs;
+
+c) Undertake and evaluate the planning, design, and work supervision functions of the
+Department for the water infrastructures within the region;
+
+d) Ensure the implementation of laws, policies, programs, rules, and regulations regarding
+the abovementioned infrastructure as well as public and private physical structures;
+
+¢) Provide technical assistance related to the water-related functions of other agencies
+within the region especially the local government;
+===== [page 31] =====
+f) Coordinate with other departments, agencies. Institutions and organizations, especially
+local government units within the region In the planning and implementation of the river
+basin master plans;
+
+g) Conduct continuing consultations with the local communities, take appropriate measures
+to make the services of the Department responsive to the Central Office and recommend
+such appropriate actions as may be necessary; and
+
+h) Perform such functions and activities, as may be mandated by law, which are necessary
+for the effective performance of the above mentioned objectives.
+
+The Department shall retain existing Project Management Offices as may be required, which shall
+be under the supervision and control of the appropriate Water Resources Regional Office Director,
+unless otherwise determined by the Secretary for reasons of supra- regional scope, magnitude and
+multi-functional coverage.
+
+Sec. 26. The Water Office Regional Directors. - The Water Resources Regional Offices shall be
+headed by a Water Resources Regional Director who shall be responsible for efficiently and
+effectively carrying out the duties and responsibilities of the Office.
+
+Towards this end, the Water Resources Regional Director shall, within his or her defined powers
+exercise functional and administrative supervision over ail units within the region including the
+authority to commit their resources and personnel to integrated regional water resources
+management, water supply and sanitation management, and flood control and flood risk
+management Initiatives.
+
+The Water Resources Regional Director shall also perform such other related duties and
+responsibilities as may be assigned or delegated by the Secretary or as may be required by law.
+
+The Water Resources Regional Director shall be assisted by two (2) Assistant Water Resources
+Regional Office Directors who shall exercise supervision over: (1) the planning, project design
+and evaluation function and (2) technical assistance to the River Basin Organizations within the
+water resources region.
+
+CHAPTER HI
+THE NATIONAL WATER SECTOR POLICY COUNCIL
+
+Sec. 27. Creation of the National Water Sector Policy Council. - There is hereby established a
+National Water Sector Policy Council (NWSPC) which shall exercise policymaking, coordination,
+harmonization, integration, supervision, monitoring and evaluation functions with regard to water,
+land, subsurface, air, and other natural resources. The Council shall be composed of the following
+members:
+===== [page 32] =====
+a) The Secretary of the Department of Water Resources as Chairperson;
+
+b) The Director-General of the National Economic and Development Authority as the
+Vice-Chairperson;
+
+c) The Secretary of the Department of Health (DOH);
+
+d) The Secretary of the Department of the Interior and Local Government (DILG);
+
+e) The Secretary of the Department of Energy (DOE);
+
+f) The Secretary of the Department of Agriculture (DA);
+
+g) The Secretary of the Department of Social Welfare and Development (DSWD);
+
+h) The Secretary of the Department of Public Works and Highways (DP WH);
+
+i) The Secretary of the Department of Budget and Management (DBM);
+
+j) The Secretary of the Department of Environment and Natural Resources (DENR);
+
+k) A Representative from the Office of the President (OP); and
+
+1) The Chairperson of National Commission on Indigenous Peoples (NCIP) as members.
+
+The Staff of the Department shall serve as Secretariat to the Board.
+Sec. 28. Powers and Functions. -The powers and functions of the Board shall be as follows:
+
+a) Approve the National Water Resources Management Framework Plan (N WRMFP), and
+to ensure its consistency with the National Physical Framework Plan, which shall serve as
+a principal guide to water management efforts in the country and shall be reviewed on a
+five (5)-year interval, or as may be deemed necessary, in order to ensure its relevance to
+the times;
+
+b) Ensure harmonization of all policies involving water, land, subsurface, air and other
+resources which are connected to the water sector;
+
+c) Ensure a multi-stakeholder participation in the development, updating, and sharing of
+Information system as policy, planning and decision-making tools;
+
+The powers and functions and the corresponding personnel, funds and appropriations, records,
+equipment, and property of the NEDA Infrastructure Committee-Subcommittee on Water
+Resources, as established under NEDA-Infrastructure Committee (INFRACOM) Resolution No.
+2, s. 2008, shall also be absorbed by the Department.
+===== [page 33] =====
+CHAPTER IV
+INTERDEPARTMENTAL RELATIONS AND INSTITUTIONAL ARRAN GEMENTS
+OF THE DWR
+
+Sec. 29. Interface And Institutional Arrangements With Other Agencies. - a) The Department
+of Environment and Natural Resources (DENR) shall continue to have primary authority and
+responsibility for protecting the environment and managing the country's watersheds;
+
+b) The Department of Energy (DOE) and the National Power Corporation (NPC) shall
+continue to have primary authority and responsibility for setting up and running
+hydropower plants, but shall ensure that any hydropower plant development plans are
+consistent with the National Water Development and Management Plan;
+
+c) The Department shall coordinate with the Department of Agriculture (DA) to ensure
+agricultural development that reduces sources of long-term pollution for surface water and
+groundwater, and agricultural and industrial economic development that employs water
+efficiency, water recycling or reuse and the appropriate treatment of wastewater;
+
+d) The Department shal! coordinate with the National Disaster Risk Reduction
+Management Council (NDRRMC) to ensure that Its plans and designs for flood control,
+flood risk management and drought risk management are aligned with the objectives and
+plans of the said Department;
+
+e) The Department shall coordinate with Climate Change Commission (CCC), PAGASA,
+and NAMRIA for scientific studies, integrated surveys, mapping, charting and decision
+support systems;
+
+f) The Department shall coordinate with the Department of Tourism (DOT) on recreational
+use of water resources;
+
+g) The Department shall coordinate with the Philippine Reclamation Authority and
+economic Zone authorities on water resources development and water requirements within
+reclamation areas and economic zones, respectively; and
+
+h) The Department shall coordinate with relevant government agencies, Including Local
+Government Units (LGUs) for development projects and to ensure cross-cutting
+collaboration between and among all water subsectors and facilitate inter-agency subsector
+coordination, strategic development, planning, monitoring and provision of technical,
+institutional and financial capacity building support to their different stakeholders at the
+water subsector level.
+
+CHAPTER V
+LOCAL GOVERNMENT PLANNING INTEGRATION
+===== [page 34] =====
+Sec. 30. Local Water Resource Management Council. - There is hereby created and established
+in every LGU a Local Water Resource Management Council, hereinafter referred to as the
+"LWRMC".
+
+Sec. 31. LWRMC Composition. - The LWRMC shall be composed of, but not limited to, the
+following:
+
+a) The Local Chief Executives, Chairperson;
+
+b) The Local Planning and Development Officer, member;
+c) The Head of the LWRMO, member;
+
+d) The Head of the Local Disaster Risk Reduction Management Office, member;
+e) The Head of the Local Social Welfare and Development Office, member;
+
+f) The Head of the Local Health Office, member;
+
+g) The Head of the Local Sanitation Office, member;
+
+h) The Head of the Local Solid Waste Management Office, member;
+
+i) The Head of the Local Environment Office, member
+
+j) The Head of the Local Agriculture Office, member;
+
+k) The Head of the Local Engineering Office, member;
+
+1) The Head of the Local Budget Office, member;
+
+m) The Provincial Director/City/Municipal Chief of the Philippine National Police (PNP),
+member;
+
+n) The President of the Association of Barangay Captains (ABC), member
+
+0) One (1) member of the Board of Directors from an LWD within the province, city, or
+municipality;
+
+p) One (1) Civil Society Organization (CSO) representative, member; and q) One (1)
+private sector representative, member.
+
+Sec. 32. LWRMC Functions. - The LWRMCs shall have the following functions:
+
+a) Formulate and implement a comprehensive and Integrated Local Water Resource
+Management Plan (LWRMP) which shall serve as the principal guide to water management
+===== [page 35] =====
+efforts within the territorial jurisdiction of the LCD following the policies and framework
+of the NWRM. The LWRMP shall be reviewed on a five (5)-year interval, or as may be
+deemed necessary, in order to ensure its relevance to the times;
+
+b) Submit the LWRMP and progress reports on the LWRMP to the WRRO;
+
+c) Monitor and evaluate the implementation of the LWRMPs and regularly review and test
+the plan consistent with the policy of the NWSPC;
+
+d) Ensure the integration of water resource management into local development plans,
+programs, and budgets as a strategy in sustainable development of water supply; and
+
+e) Convene once every three (3) months or as necessary.
+
+Sec. 33. Local Water Resource Management Office (LWRMO). - There shall be established an
+LWRMC in every province, city and municipality, which shall be responsible for setting the
+implementation and coordination of LWRMPs within their territorial jurisdiction. The LWRMO
+shall be under the office of the governor, city or municipal mayor. The LWRMOs shall be initially
+organized and composed of a Head Officer to be assisted by three (3) staff responsible for: (1)
+administration and training; (2) research and planning; and (3) operations. The LWRMO shall
+perform the following functions:
+
+a) Design, program, and implement activities consistent with the LWRMP;
+b) Facilitate communications between the LGU and the WRRO;
+c) Serve as secretariat and arm of the LWRMC;
+
+d) Facilitate trainings and seminars between the LWRMC and the WRRO on water
+resource management;
+
+e) Prepare and submit to the local Sanggunian through the LWRMC and the annual
+LWRMP and budget, and the enactment of local ordinances consistent with the LWRMP
+and the requirements of this Act;
+
+f) Facilitate joint programs and activities between the LGU and the WRRO;
+
+g) Gather, record, and consolidate Information relating to water resource management in
+its respective territorial jurisdiction, and transmit the information to the WRRO;
+
+h) Present the consolidated information on water resource management in the LWRMC
+meetings;
+===== [page 36] =====
+i) Establish linkages and networks with other LGUs for water resource management as
+required by the LWRMP;
+
+j) Disseminate Information and raise public awareness about water resource management;
+k) Submit progress reports on the implementation of the LWRMP to the LWRMC;
+1) Mobilize resources and personnel necessary to implement the LWRMP;
+
+m) Develop, strengthen and operationalize mechanisms for partnership or networking with
+LWDs, local communities, and the private sector;
+
+n) Coordinate other water resource management activities; and
+o) Act on other matters that may be authorized by the LWRMC.
+
+Sec. 34. Exemption of Local Government Units within Metro Manila. - Local Government
+Units within Metro Manila shall be under the Central Regulatory Unit of the Commission, and are
+hereby exempted from the provisions of this Chapter.
+
+Sec. 35. Penalties for Non-Compliance. - Failure of the LWRMC and LWRMO to perform its
+respective functions under this Chapter shall subject the responsible members or employees to the
+appropriate civil, administrative, and criminal liabilities provided in this Act and under existing
+laws.
+
+CHAPTER VI
+THE WATER REGULATORY COMMISSION
+
+Sec. 36. Establishment - There is hereby created and established an Independent, quasi-judicial
+regulatory body to be known as the Water Regulatory Commission, hereinafter referred to as "the
+Commission", which shall be organized within one hundred twenty (120) days after the effectivity
+of this Act. The Commission shall have a Board of Commissioners, and shall be vested with
+powers and functions, as conferred and set forth hereunder.
+
+The Commission shall be placed under the administrative supervision of the Department of Water
+Resources (DWR) as an attached agency.
+
+Sec. 37. The Regulatory Units. - The Regulatory Units of the Commission shall be composed of
+the Regional Regulatory Units and the Central Regulatory Unit. The Regional Regulatory Units
+shall be established by the Commission in accordance with the rules, regulations, guidelines, and
+standards that the Commission shall issue, and as provided in this Act.
+
+The economic regulatory units and functions of the MWSS, NWRB, LWUA, SBMA, PEZA, and
+TIEZA are hereby transferred to the Commission, and shall collectively comprise its Central
+===== [page 37] =====
+Regulatory Unit for Water Supply and Sanitation Services that: (a) provide services to more than
+one province; and (b) are owned, operated and/or maintained by special economic zones and Metro
+Manila concessionaires.
+
+Sec. 38. Powers and Functions of the Commission. - The overall authority and powers of the
+Commission shall cover and apply to all Service Providers, whether private or public, providing
+or intending to provide levels II & III water supply, including suppliers to subdivisions and/or
+other Service Providers, sewerage, and/or septage treatment and disposal services for domestic,
+residential, institutional, industrial or commercial use. The Commission shall exercise the
+following powers and functions:
+
+a) Issue and promulgate rules, regulations and guidelines as may be necessary to implement
+and enforce its powers and functions under this Act;
+
+b) Promulgate and enforce just and reasonable technical standards, classifications and
+measurements of service;
+
+c) Appoint the central and regional regulators;
+
+d) Establish rules and regulations to monitor, avoid, and provide remedies for, any market
+power abuse or anti-competitive or discriminatory act or behavior by or against any
+participant in the water supply and sanitation sector. Upon finding that a market participant
+has engaged in, or fell victim to such act or behavior, the Commission shall act to stop
+and/or redress the same. Such remedies may, without limitation, include the imposition of
+price controls, issuance of injunctions, requirement of divestment or disgorgement of
+excess profits, invalidation of contracts and imposition of fines and penalties pursuant to
+this Act.
+
+e) Adopt and require that books, records, and accounts be kept and maintained in
+accordance with the prescribed uniform accounting system;
+
+f) Fix and determine proper and adequate rates of depreciation of properties and equipment
+used in Water Supply and Sanitation Service/s;
+
+g) Impose and collect annual levies determined as a percentage of gross revenue accruing
+in relation to the licensed activities, and reasonable fees and surcharges as may be
+necessary for achieving the purposes, powers, and functions of the Commission;
+
+h) Require the submission reports of finances and operations, verified under oaths by the
+owner or president and secretary of the Licensee;
+
+i) Determine and require the monitoring and submission of such data, statistics and other
+information from the Regulatory Units and any or all licensees as may be necessary for the
+===== [page 38] =====
+effective and efficient exercise of its duties, functions, powers and responsibilities:
+Provided, that such data, statistics, and other information shall also be submitted to the
+Department for integration in the centralized database on water resources;
+
+J) Investigate, motu propio or upon complaint in writing, any matter concerning the
+operation of the service and issues on price manipulation and anti-competitive behavior;
+
+k) Impose penalties and fines against any Licensee or against its owners, directors, officers,
+agents or representatives for any violation of this Act or of the license, order, rule regulation
+or requirement issued by the Commission;
+
+1) Require any Licensee to pay the actual expenses incurred by the Commission in any
+investigation if it shall be found that a Licensee violated any provision of this Act or of the
+license, order, rule regulation or requirement issued by the Commission;
+
+m) Advise, apprise, and coordinate with the Department of Water, the National Water
+Policy Council, and other relevant agencies of the national or local government on any
+matter relating to Water Supply and/or Sanitation Services;
+
+n) Deputize agents, whether from the public or private sector, to assist in the performance
+of any of the powers and functions of the Commission;
+
+0) Appoint an interim or temporary management committee upon appeal and after due
+hearing, to ensure continuity of service in cases a Licensee fails to meet conditions of the
+license and the concerned Regulatory Unit fails or refuses to appoint an interim
+management committee as provided in the following section;
+
+p) Appoint, hire and maintain adequate staff and personnel, advisers, and/or consultants,
+with suitable qualifications and experience, as necessary;
+
+q) Exercise original and exclusive jurisdiction over all cases contesting rates, fees, fines
+and penalties imposed by the Regulatory Units in the exercise of their powers, functions
+and responsibilities, as provided under this Act, and over all cases involving disputes
+between and among participants or stakeholders in the Water Supply and/or Sanitation
+Services; and
+
+r) Such other incidental powers and functions as may be necessary to attain the objectives
+of this Act.
+
+Sec. 39. Powers and Functions of the Regulatory Units. - The Regulatory Units of the
+Commission shall have the following powers and functions:
+===== [page 39] =====
+a) Issue Licenses authorizing the operation of Water Supply and/or Sanitation Services in
+any specified area or areas within the Philippines;
+
+b) Impose fines, charges, and other penalties upon any Provider and/or its officers and
+stockholders who shall fail or refuse to register and/or obtain a License prior to operation
+or commencement of business, as provided hereunder;
+
+c) Review, determine, fix, and approve, consistent with the rules, guidelines, procedures
+and methodologies which the Commission shall provide, proposed water and sewerage
+tariffs, rates and charges that Licensees may impose upon their customers/consumers;
+
+d) Appraise and value property and equipment used by Licensees in providing water supply
+and sanitation service/s;
+
+e) Enforce technical, financial, and other performance standards set by the Commission for
+licensees/utilities;
+
+f) Respond to consumer complaints and ensure the adequate promotion of consumer
+interests and investigate motu propio price manipulation and anti-competitive behavior;
+
+g) Investigate accidents directly or indirectly arising from or connected with the
+maintenance or operation of the service, and make such order or recommendation as the
+public interest may warrant;
+
+h) Upon petition or motu propio, where its determination public interest so dictates, require
+the review and/or approval of contracts or agreements that may impact on the tariff and
+rates of service provision entered into by Service Providers;
+
+i} Require the submission of reports, plans, and other documents that define the
+performance targets of the licensees or utilities, and regular accomplishment reports;
+
+j) Impose and collect annual levies determined as a percentage of gross revenue accruing
+in relation to the licensed activities, and reasonable fees and surcharges as may be
+necessary for achieving the purposes, powers and functions of the regulator;
+
+k) Conduct benchmarking and monitor the performance of licensees or utilities under their
+jurisdiction, and publish reports detailing the results thereof, as may be necessary or
+required by the Commission;
+
+l) Amend, modify, suspend or revoke any License issued by them, after due notice and
+hearing, on any of the following grounds:
+===== [page 40] =====
+1. When the facts and circumstances on the strength of which the license was issued
+have been materially misrepresented or has materially changed;
+
+2. Where the Licensee has failed to meet or comply with terms, conditions and
+performance targets, including but not limited to service expansion, that may have
+been set in the license;
+
+3. Where the Licensee is found to be manifestly inefficient in the operation of or
+provision of Water Supply and Sanitation services in its area; or
+
+4, When the Licensee thereof has violated or willfully refused to comply with any
+order, rule or regulation of the Commission or any provision of this Act; m) Appoint
+an interim management committee to ensure continuity of service in case a
+Licensee fails to meet the conditions of the license; and n) Submit performance
+plans and reports as required by the Commission.
+
+Sec. 40. Composition of the Water Regulatory Commission. - a) The Commission shall be a
+collegial body composed of five (5) full-time members consisting of a Chairperson and four (4)
+members, who shall all be appointed by the President of the Philippines. All members of the
+Commission must be citizens and residents of the Philippines, at least thirty five (35) years of age,
+and of good moral character, recognized integrity and competence in the field of law, business,
+commerce, finance, accounting or public administration, water or utility economics, management,
+physical or engineering services, hydrology and other related services, with at least three (3) years
+actual and distinguished experience in their respective fields of expertise. Provided, that out of the
+four members of the Commission, at least one (1) shall be a member of the Philippine Bar with at
+least ten years of experience in the active practice of law, and at least one (1) shall be a certified
+public accountant with at least ten years of experience in active practice;
+
+b) The term of office of each member of the Commission shall be seven (7) years: Provided,
+that among the members first appointed, the Chairperson shall serve for a period of seven
+(7) years, two (2) members shall serve for five (5) years and the other two (2) members
+shall serve for three (3) years: Provided further, that any member whose term has expired
+as specified herein shall serve as such until his successor shall have been appointed and
+qualified: Provided furthermore, that any appointment to fill a vacancy in the Commission
+arising from death, removal, retirement or resignation shall be made only for the unexpired
+term: Provided, finally, that in no case shall any member serve for more than seven (7)
+years in the Commission.
+
+c) The Commission shall meet as often as may be necessary on such day or days as the
+Chairperson may fix. The presence of at least three (3) members of the Commission shall
+constitute a quorum, which shall be necessary for the transaction of any business. The
+affirmative vote of majority of the members of the Commission where a quorum is present
+shall be necessary for the adoption of any order, resolution, decisions, or other act of the
+Commission in the exercise of its quasi-judicial functions: Provided, That in promulgating
+===== [page 41] =====
+rules, regulations, guidelines and in the exercise of its quasi-legislative functions, an
+affirmative vote of three (3) members shall be required;
+
+d) The Chairman of the Commission shall exercise general executive control and
+supervision of the Commission and its members, staff and personnel, agents, and
+representatives. Within three (3) months from the creation of the Commission and the
+appointment of all Members of the Commission, the Chairman shall submit for the
+approval by the President of the Philippines the new organizational structure and plantilla
+positions necessary to carry out the powers and functions of the Commission, including
+those of the Central and Provincial Regulatory Units. The staff and personnel positions of
+the Commission shall be filled by regular appointments in accordance with a staffing plan
+to be prepared by the Commission.
+
+e) Members of the Commission shal! enjoy security of tenure and shall not be suspended
+or removed from office except for just cause as specified by law.
+
+f) The Chairman and members of the Commission or any of their relatives within the fourth
+civil degree of consanguinity or affinity, legitimate or common law, shall be prohibited
+from holding any interest whatsoever, either as investor, stockholder, officer or director, in
+any company or entity engaged in provision of water supply and distribution, septage
+management and sewerage services and must, therefore, divest through sale or legal
+disposition of any and all interests in the water sector upon assumption of office.
+
+Sec. 41. Secretariat of the Commission. - The Commission shall establish a Secretariat which
+shall provide the Commission with technical and support services such as:
+
+a) Provide the necessary technical inputs and secretariat support to the Commission to
+facilitate the conduct of its functions;
+
+b) Coordinate with Regulatory Units to ensure proper implementation of the rules,
+regulations, and guidelines promulgated by the Commission;
+
+c) Monitor and assess activities of the Regulatory Units vis-a-vis their respective annual
+performance plans and targets;
+
+d) Maintain a database on the water supply and sanitation subsector; and
+
+e) Coordinate with other relevant agencies of the national or local government on any
+matter relating to water supply and sanitation.
+
+Sec. 42. The Executive Director. - The Commission shall appoint an Executive Director who
+shall head the Commission Secretariat, keep and maintain the official records, and report of the
+===== [page 42] =====
+proceedings of the Commission, and administer oaths in all matters falling within the jurisdiction
+of the Commission.
+
+The Executive Director shall be responsible for the effective implementation of the policies, plans,
+programs, rules, regulations, and directives of the Commission; coordinate and supervise the
+activities of the different operating units under the Commission; and perform such functions as
+may be assigned by the Chairperson and/or other members of the Commission.
+
+Sec. 43. Enhancement of Technical Competence. - The Commission shall establish rigorous
+training programs for its staff for the purpose of enhancing the technical competence of the
+Commission in the following areas: evaluation of technical performance and monitoring
+compliance with service and performance standards, performance-based rate-setting reform,
+environmental standards and such other areas as will enable the Commission to adequately perform
+its duties and functions.
+
+Sec. 44. Composition and Other Emoluments. - The compensation of the members of the
+Commission and its staff shall be exempted from the coverage of Republic Act. No. 6758,
+otherwise known as the Salary Standardization Act: Provided, that the salaries of the Commission
+and its staff shall conform as closely as possible to the principles of R.A. 6758. For this purpose,
+the schedule of compensation of the Commission and its Regulatory Units and staff shall be
+submitted for approval of the President of the Philippines. The compensation schedule of the
+Commission and its Regulatory Units and staff shall be implemented within six (6) months from
+the effectivity of this Act and may be upgraded by the President of the Philippines as the need
+arises: Provided further, that in no case shall the compensation of the Commission and its staff be
+upgraded more than once a year. Pertinent civil service laws, rules, and regulations of the
+Philippines shall be applicable to the Commission.
+
+The Chairman and members of the Commission shall initially be entitled to the same salaries,
+allowances and benefits as those of the Presiding Justice and Associate Justices of the Supreme
+Court, respectively.
+
+CHAPTER VII
+REGISTRATION AND LICENSING
+
+Sec. 45. Registration and Licensing of All Water Supply and/or Sanitation Services. - All
+Water Supply and/or Sanitation Service Providers, including but not limited to Bulk Water
+Suppliers, operators of privately-owned water supply systems, local government managed utilities,
+barangay waterworks associations, water districts, cooperatives, those providing services to
+subdivisions and/or other Service Providers, shall register with the Commission and, subject to
+such rules, guidelines, procedures and other issuances of the Commission, obtain a License to
+operate from the appropriate Regulatory Units.
+===== [page 43] =====
+The Commission shall also ensure that the grant and revocation of licenses are carried out fairly,
+transparently, and without discrimination. Issuances of the Commission shall specify, among
+others, the qualifications, requirements and procedure for the grant and revocation of Licenses
+including the standards and performance targets that shall continuously be complied with to keep
+the licenses valid.
+
+The Commission shall specify the requirements and procedure for existing holders of Certificate
+of Public Convenience, Certificates of Public Convenience and Necessity issued by NWRB, and/or
+Conformance issued by LWUA, to convert their existing certificates into Licenses issued by the
+Commission. All existing providers of Water Supply and/or Sanitation Services without a legal
+and valid Certificate of Public Convenience/Certificate of Public Convenience and Necessity or
+Certificate of Conformance shall register with the Commission and apply for a License within six
+(6) months from the effectivity of this Act.
+
+Unless otherwise provided in this Act or by the Commission, no public water supply and/or
+sanitation service provider shall commence or conduct the business of providing water supply and
+sanitation services without first obtaining a license.
+
+Concession agreements and other contracts for water supply provision and/or water sanitation and
+treatment services currently existing shall remain valid and enforceable unless otherwise
+terminated, after due notice and hearing for reasons provided in the existing terms and conditions
+under the concession or service agreement or contract, or invalidated by the Commission, after
+due notice and hearing, where national security, national emergency, or public interest so dictates.
+
+Sec. 46. No Exclusivity on Grants for Water Supply and/or Sanitation Services. - Except for
+Service Areas with respect to which exclusive rights to provide Water Supply and/or Sanitation
+Services are granted under existing laws, licensees do not have the exclusive right to provide Water
+Supply and/or Sanitation Services within a Service Area and consequently, the Regulatory Board
+may issue one or more licenses for operator within any existing or proposed Service Areas, as
+decided by the Supreme Court in Metropolitan Cebu Water District vs. Margarita A. Adaia (G.R.
+No. 168914, 04 July 2007).
+
+Sec. 47. Conditions of License. - The Commission and/or the concerned Regulatory Unit, may
+impose such conditions in the issued License, as it may deem necessary, such as but not limited
+to:
+
+a) Tariffs, rates, and charges that may be imposed from its customers/consumers,
+b) Term fixing the duration of the privilege;
+
+c) Grounds for modification, suspension, or cancellation of the License;
+===== [page 44] =====
+d) Minimum technical performance and service level standards, such as but not limited to:
+(1) water pressure; (2) minimum flow rates; (3) connections; (4) sewerage discharge,
+billing, and metering requirements, and sanctions for failure to comply with the standards
+set;
+
+e) Expansion targets and service level improvements over time;
+
+f) Restrictions or conditions for transferability of the business or controlling interest in the
+business;
+
+g) Reportorial requirements and obligations of the grantee;
+
+h) Submission to annual performance audit by the Commission or its duly authorized
+representative(s).
+
+Sec. 48. Rights and Duties of Licensees. -
+
+a) Any person granted a License under this Act shall have the obligation to ensure that
+licensed activities are conducted to further public interest and, in particular:
+
+1. Foster the maintenance and development of efficient, coordinated, and viable
+operation of their licensed activities;
+
+2. Ensure that their water supply and/or sanitation services are provided in a diligent,
+conscientious and workmanlike manner, in accordance with applicable laws rules
+and regulations issued by the Commission and the generally accepted standards and
+practices in the water supply and sanitation industry;
+
+3. Comply with drinking water quality requirements and standards that may be
+established by the Commission; and
+
+4. Ensure that provision of services shall not be discontinued without notice to, and
+approval by, the Commission.
+
+b) Any person granted a License under this Act shall, to the extent allowed by law and
+specified in the License, have the right to acquire or lease land, lay or repair water or
+sanitation mains, and other relevant facilities in public ways to fulfill their obligations;
+
+c) Subject to any condition or limitation laid down in the License, a licensee may
+disconnect water supply and/or sanitation services to a customer if such customer defaults
+in the payment of fees due to the licensee for the water supplied or sanitation services
+provided, or for acts of pilferage pursuant to Sections 8, 9, 10, and 11 of Republic Act No.
+8041, otherwise known as the Water Crisis Act of 1995;
+
+d) Any License issued under this Act shall contain provisions designed to ensure that
+Licensees:
+===== [page 45] =====
+1. Publish the Tariff and other charges approved by and the terms and conditions
+imposed by the Commission for the provision of water supply and/or sanitation
+services;
+
+2. Prepare, within three (3) months from the issuance of a License, in consultation
+with its customers, a customer service code specifying the manner and procedure
+for: i. Metering, billing, and collection of the Licensee's approved tariff and other
+charges; ii. Disconnection or suspension of service in case of non-payment of tariffs
+and/or other charges, or acts of pilferage; and iii. Recommendation and recovery of
+arrears in tariffs and other charges.
+
+3. Maintain financial accounts in accordance with the manner and procedure specified
+in the License and as may be required by the Commission; and
+
+4. Maintain and, upon request by anyone during regular office hours, promptly make
+available for scrutiny and inspection such data, statistics and other information, as
+may be required by the Commission.
+
+Sec. 49. Setting Tariffs/ Rates and Other Charges. - Regulatory Units shall establish tariffs,
+rates and other charges which are fair and reasonable, and ensure environmental sustainability,
+economic viability, and a fair return on investments considering the prevailing cost of capital in
+the domestic and international markets.
+
+Tariffs, rates, and charges shall be based on, and consistent with, a scientific and evidence-based
+rate-setting methodology that the Commission shall, after due consultation with the Department,
+define and publish, taking into account the following, among others:
+
+a) Reasonable and prudent capital and recurrent costs of providing the service including a
+reasonable rate of return on capital;
+
+b) Efficiency of the service;
+
+c) Incentives for enhancement of efficiency;
+
+d) Willingness to pay of the customers/consumers;
+
+e) Equity considerations;
+
+f) Environmental sustainability; and g) Administrative simplicity.
+
+Tariffs, rates, and charges set by the Regulatory Units shall be presumed valid and reasonable
+unless a protest or contest is filed with the Commission.
+
+Sec. 50. Direct Access. - Fifty-one (51) percent of the registered water consumers in a
+municipality, city or province may petition for direct access to water from any water service
+provider subject to concurrence by the service provider and approval by the Commission. The
+===== [page 46] =====
+Commission shall promulgate the implementing rules and procedures for this mode of service or
+direct access water service.
+
+Sec. 51. Promotion of Innovative Schemes to Improve Efficiency and Management of
+Systems. - The Commission shall promote innovative schemes such as the consolidation and/or
+integration of water supply and/or sanitation services, and/or providers in the same service area,
+where it shall result in improved efficiency, service expansion, and/or lower costs.
+
+To this end, the Commission shall establish and issue such rules and guidelines as may be
+necessary to
+
+(a) create incentives to encourage efficiency and service expansion;
+(b) establish the standards and targets that service providers are required to meet; and
+
+(c) define the fines and penalties that shall be imposed for failure to meet such standards
+and targets.
+
+CHAPTER VIII
+PROCEEDINGS BEFORE THE COMMISSION
+
+Sec. 52. Proceedings Before the Commission. - For the purpose of any investigation, inquiry or
+proceeding, the Commission shall:
+
+a) Issue subpoena duces tecum and subpoena ad testificandum;
+b) Appoint hearing officers to hear and receive evidence on behalf of the Commission;
+
+c) Cite any person or party for contempt for refusal to appear, testify or comply with an
+order of the Commission on any matter that is the subject of investigation, inquiry or
+proceeding before the Commission.
+
+Sec. 53. Orders and Decisions of the Commission. - The orders, resolutions and decisions of the
+Commission shall be promulgated promptly, expeditiously, and reasonably, and shall be in writing
+stating clearly and distinctly the facts and law on which it is based. The Commission shall publish
+and make available for public inspection, all decisions and final orders in the adjudication of
+contested cases or applications.
+
+Sec. 54. Appeals Procedure and Prohibition Against Injunction. -
+
+a) The orders, rulings, and decisions of the Commission are final and executory unless
+appealed to the Court of Appeals within fifteen (15) days from receipt of notice of such
+order, ruling or decision: Provided, that orders, rulings, and decisions of the Commission
+approving tariffs, shall be immediately executory and may be suspended only upon appeal
+===== [page 47] =====
+and filing of a bond, in an amount to be fixed by the Commission, to answer for damages
+occasioned by the suspension or stay of execution of such orders, rulings, and decisions.
+
+b) No injunction may be issued by any court or administrative agency to restrain any
+proceeding before, or the implementation or execution of any order, ruling, or decision of
+the Commission, except on the basis of a question of law brought before the Supreme Court
+on certiorari: Provided, that this prohibition shall not apply when the matter is of extreme
+urgency involving a constitutional issue, such that unless a temporary restraining order is
+issued, grave injustice and irreparable injury will arise. In such a case, the applicant shall
+file a bond, in an amount to be fixed by the Court, which bond shall accrue in favor of the
+government if the court should finally decide that the applicant was not entitled to the relief
+sought.
+
+c) Subject to Sec. 40, Paragraph (b) of this Act, an act or decision of the Commission shall
+not be invalid merely because of a defect or irregularity in, or in connection with, the
+appointment or vacancy in the Office of the Chairperson or any other member of the
+Commission.
+
+CHAPTER IX
+TRANSITORY AND FINAL PROVISIONS
+
+Sec. 55. Transfer of Rights and Obligations. - The Department and the Commission shall, by
+virtue of this Act, be subrogated to all the rights, and assume all the obligations, of the Water
+Utilities Division of the NWRB, the Regulatory Offices of MWSS and LWUA, the Regulatory
+Units of all special economic zones, and al] other government agencies and units whose powers
+and functions have been transferred to them.
+
+The transfer of powers and functions to the Department and the Commission, as herein provided
+for, shall take effect within six (6) months after the effectivity of this Act. The foregoing transfer
+of powers and functions shall include all applicable funds, personnel, records, property and
+equipment, as may be necessary. The same shall apply to agencies which have been attached to
+the Department by virtue of this Act.
+
+All agencies transferred, subsumed and attached to the Department or the Commission, shall
+continue to function under their present mandates until transition is effected under this Act, and
+the heads of the affected agencies shall continue to serve until replaced.
+
+All rights and obligations of the affected agencies are hereby transferred to and assumed by the
+Department or the Commission, and shall be acted upon in accordance with the rules and
+regulations of the Commission on Audit and other pertinent laws, rules, and regulations.
+===== [page 48] =====
+Sec. 56. Absorption or Separation from Service of Employees of the Subrogated Agencies. -
+The existing employees of the Water Utilities Division of the NWRB, the Regulatory Offices of
+MWSS and LWUA, the Regulatory Units of all special economic zones, and all other government
+agencies and units whose powers and functions have been transferred to the Commission shall
+enjoy the security of tenure, and shall be absorbed by the Department, in accordance with their
+staffing pattern and the selection process as prescribed under Republic Act No. 6656 or the
+Government Reorganization Law.
+
+Employees opting to be separated from the service as a consequence of the consolidation and
+reconstitution under the provisions of this Act, shall within one (1) month from their separation or
+phase out from the service, receive separation benefits in accordance with existing laws and those
+who are qualified to retire shall be allowed to retire and be entitled to all benefits under any of the
+existing retirement laws.
+
+Sec. 57. Applicability of Ease of Doing Business Law. - The prescribed processing time provided
+under Section 9.b of Republic Act No. 11032 otherwise known as the Ease of Doing Business and
+Efficient Government Service Delivery Act of 2018, shall be applicable to all agencies and LGUs
+covered under this Act particularly on accessing government services.
+
+Sec. 58. Funding for the Commission. - The sum of Three Hundred Million (P300,000,000.00)
+pesos shall be allocated from any available funds of the National Treasury, and appropriated and
+authorized to be released, for the organization and initial operations of the Commission.
+
+Thereafter, funds sufficient to fully carry out the objectives, powers, and functions of the
+Commission and its Regulatory Units shall be appropriated every fiscal year in the General
+Appropriations Act, in an amount that shall not be less than the amount appropriated for it the
+previous year.
+
+The Commission shall submit its annual budget, which shall include, among others, detailed
+information on the compensation and benefits received by their employees, to the Department for
+approval.
+
+Subject to existing rules and regulations of the Department of Budget and Management (DBM),
+all funds and monies collected by the Commission from fees, charges, surcharges and penalties,
+which the Commission may impose and collect under this Act, shall accrue directly and
+automatically to the Commission and shall be utilized solely for its operations. The guidelines for
+the collection and disbursement of these proceeds shall be defined in the implementing rules and
+regulations of this Act.
+
+A proportion of the abovementioned amounts shall be used for training and capacity building
+purposes, including the upgrade and procurement of equipment and software as may be necessary
+===== [page 49] =====
+for the efficient and effective exercise of its power, subject to existing laws on procurement,
+accounting and auditing rules and regulations.
+
+The amount of funds and monies collected, and the costs and purposes for which such were
+expended, shall be made publicly available upon request, as well as on an official website that the
+Commission shall establish.
+
+Sec. 59. Water Trust Fund. - There is hereby created a Water Trust Fund in the Bureau of
+Treasury. All non-tax revenues, including raw water pricing, permit fees, registration fees,
+supervision and regulation enforcement fees, filing fees, testing fees, and other service income
+from the use of water resources shall be remitted to the Water Trust Fund. The trust fund shall be
+accounted separately from the government's general revenues and shall be automatically
+appropriated to the Department. Proceeds from the trust fund shall be utilized for water
+development, water sanitation and waste water treatment and management, and water
+sustainability programs and projects authorized under this Act: Provided, That a maximum of ten
+percent (10%) of the total income generated from raw water extraction shall be given as share of
+the concerned local government unit or Indigenous people (IP) who owned the specific areas or
+land where the raw water was sourced.
+
+Sec. 60. Appropriations. - The sum of two billion pesos (P2,000,000,000.00) shall be set aside
+from available funds of the National Treasury and is hereby appropriated and authorized to be
+released for the organization of the Department and the current year's appropriations of the NWRB,
+RCBO, NIA, MCBO and the Water Quality Management Section of the EMB of the DENR, the
+Flood Management Cluster of the DPWH, the Water Supply and Sanitation Unit of the DILG shall
+be used for its initial operations. Thereafter, such sums as may be necessary for the continued
+implementation of this Act shall be included in the General Appropriations Act. The Department
+shall include in its proposed budget the necessary amount to enable it to achieve its mandate and
+to carry out its powers and functions.
+
+Sec. 61. Implementing Rules and Regulations. - Within one hundred eighty (180) days from the
+effectivity of this Act, the Department, in consultation with concerned government agencies, the
+Senate Committee on Public Services, and the Committee on Civil Service, Professional
+Regulation, and Government Reorganization, and the House of Representatives Committee on
+Government Reorganization, shall promulgate the necessary implementing rules and regulations
+for the implementation of this Act: Provided, that the revised implementing rules and regulations
+shall take effect fifteen (15) days following its publication in two (2) newspapers of general
+circulation.
+
+Sec. 62. Separability Clause. - If for any reason, any portion or provision of this Act shall be held
+unconstitutional or invalid, the remaining provisions not affected thereby shall continue to be in
+full force and effect.
+===== [page 50] =====
+Sec. 63. Repealing Clause. -
+
+a) The following provisions are hereby repealed: i. The provision with respect to fixing of
+water rates and sanitation service fees of Section 3 (h) and Section 12, and regulation of
+waterworks and deep wells of Section 3 (n), regulation of waterworks and sanitation
+systems in privately owned subdivisions of Section 3 (p) of Republic Act 6234; ii. Section
+62 on regulation and Section 63 on rate review of Presidential Decree No. 198 otherwise
+known as the "Provincial Water Utilities Act of 1973", as amended by Letter of Instruction
+No. 700 - "Providing Measures To Control And Regulate Increase In Water Rates", Letter
+of Instruction No. 744 - "Relative To Reliable Water Supply At Reasonable Rates In The
+Countryside", Executive Order No. 124, 30 January 1987 - "Reorganization Act of the
+Ministry of Public Works and Highways", and Executive Order No. 123, 30 January 1987
+- "Reorganization Act of Ministry of Social Services and Development”, is hereby repealed
+or modified accordingly.
+
+b) The following provisions are hereby amended accordingly: i. Section 154, Article V,
+Chapter 1, Title One, Book II of Republic Act No. 7160 otherwise known as the "Local
+Government Code of 1991", and its implementing rules and regulations on the power of
+the local government units to fix the rates of water utilities owned, operated and maintained
+by them within their jurisdiction is hereby repealed or modified accordingly. ii. Section 13
+(b) on regulation of enterprises within the Economic Zone under Republic Act No. 7916
+as amended, otherwise known as the Special Economic Zone Act of 1995, is hereby
+repealed or modified accordingly; iii. Provisions under Section 69 of Republic Act No.
+9593 or The Tourism Act of 2009 and its Implementing Rules and Regulations which
+mandates the Tourism Infrastructure and Enterprise Zone Authority to grant franchises,
+supervise the operation of public utilities, and register, monitor and regulate enterprises
+within Tourism Enterprise Zones, are hereby repealed or modified accordingly.
+
+c) All other laws, presidential decrees, executive orders, presidential proclamations, rules
+and regulations, or parts thereof which are inconsistent with the provisions of this Act are
+hereby repealed or amended accordingly.
+
+Sec. 64. Effectivity. - This Act shall take effect thirty (30) days after its publication in the
+Official Gazette.
+
+Approved,

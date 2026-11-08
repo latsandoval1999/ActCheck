@@ -1,0 +1,239 @@
+{
+  "target": "HB-20-2322",
+  "reference": "SB-20-1624",
+  "verdict": "partly different",
+  "problem_diagnosis": {
+    "problem": "The target bill says the agriculture and fisheries sector does not lack laws, policies, programs or advisory bodies; the problem is that these are implemented in silos. It adds that advisory bodies report only to their mother departments and that their documents are not available to the public. It proposes a temporary congressional commission to review all existing programs across agencies and recommend a more integrated approach.",
+    "evidence": [
+      {
+        "point": "The cause of the sector's problems is fragmented, siloed implementation of existing frameworks, policies, programs and bodies.",
+        "supported_by_data_in_note": false,
+        "section": "HB-20-2322:note",
+        "quote": "it is the fact that the frameworks, policies, programs, projects and bodies created by legislation and other national policies are currently being implemented and operationalized in silos"
+      },
+      {
+        "point": "The problem is not a lack of legislation, programs or advisory bodies.",
+        "supported_by_data_in_note": false,
+        "section": "HB-20-2322:note",
+        "quote": "it is not the absence of legislation, nor the absence of policies, programs and projects, nor the absence of advisory and consultative bodies"
+      },
+      {
+        "point": "Advisory and consultative bodies answer only to their parent departments.",
+        "supported_by_data_in_note": false,
+        "section": "HB-20-2322:note",
+        "quote": "Advisory and consultative bodies currently convened fall under the jurisdictions and report solely to their mother departments"
+      },
+      {
+        "point": "Information from these bodies is not disclosed to the public.",
+        "supported_by_data_in_note": false,
+        "section": "HB-20-2322:note",
+        "quote": "with documents and other pertinent information undisclosed and unavailable to the public even upon request"
+      },
+      {
+        "point": "Congress already has two oversight committees on agriculture and fisheries created by law. The note cites the laws by number but gives no data on how those committees have performed.",
+        "supported_by_data_in_note": false,
+        "section": "HB-20-2322:note",
+        "quote": "two congressional oversight committees on national agriculture and fisheries policy and programs have been created by law"
+      }
+    ]
+  },
+  "differences": [
+    {
+      "category": "mandate",
+      "fiscal_direction": "no cost effect",
+      "description": "The stated end goal of the commission differs. The target aims its reforms at ensuring food security. The reference aims them at making the country globally competitive in agriculture and fisheries, even though the reference, not the target, puts 'Food Security' in the commission's name.",
+      "target_section": "HB-20-2322:s4",
+      "target_quote": "for the purpose of recommending transformative, concrete and targeted reforms in the sector with the end of ensuring food security in the Philippines",
+      "reference_section": "SB-20-1624:s3",
+      "reference_quote": "for the purpose of recommending transformative, concrete, and targeted reforms in order to make the Philippines globally competitive in the agriculture and fisheries sector"
+    },
+    {
+      "category": "structure",
+      "fiscal_direction": "likely raises cost",
+      "description": "The target has 12 members (six per chamber); the reference has 10 (five per chamber). Members are unpaid in both bills, but travel, communications and other expenses are allowed, so the larger body in the target likely costs somewhat more.",
+      "target_section": "HB-20-2322:s5",
+      "target_quote": "The Commission shall be composed of twelve (12) members, with six (6) members from the Senate and six (6) members from the House of Representatives",
+      "reference_section": "SB-20-1624:s7",
+      "reference_quote": "The AGRICOM shall be composed of ten (10) members, with five (5) members each from the Senate and the House of Representatives."
+    },
+    {
+      "category": "structure",
+      "fiscal_direction": "no cost effect",
+      "description": "The target makes seven committee chairpersons ex officio members: three from the Senate (agriculture, economic affairs, environment and climate change) and four from the House (agriculture, aquaculture and fisheries, agrarian reform, climate change). It names no chairperson of the commission. The reference makes the two agriculture committee chairs Co-Chairpersons, and the presiding officers designate the remaining members.",
+      "target_section": "HB-20-2322:s5",
+      "target_quote": "the Senate Committee on Economic Affairs, and the Senate Committee on Environment, Natural Resources and Climate Change shall be members of the Commission on the part of the Senate",
+      "reference_section": "SB-20-1624:s7",
+      "reference_quote": "the Chairperson of the House Committee on Agriculture and Food shall be the Co-Chairpersons of the AGRICOM."
+    },
+    {
+      "category": "staffing and compensation",
+      "fiscal_direction": "no cost effect",
+      "description": "Both bills set the Executive Director at Salary Grade 29, full-time. The target adds qualifications: Philippine citizenship, good moral standing, probity and independence, and substantial experience in agriculture, fisheries, economics or sustainability policy.",
+      "target_section": "HB-20-2322:s6",
+      "target_quote": "The ED shall be a citizen of the Philippines with good moral standing and reputation, of recognized probity and independence",
+      "reference_section": "SB-20-1624:s9",
+      "reference_quote": "The AGRICOM shall appoint a recognized expert in agriculture and fisheries as Executive Director."
+    },
+    {
+      "category": "structure",
+      "fiscal_direction": "unclear",
+      "description": "Only the target names the Philippine Institute for Development Studies (PIDS) as the commission's research arm, producing data-based research for as long as the commission exists. The bill does not say whether PIDS or the commission's appropriation pays for this work.",
+      "target_section": "HB-20-2322:s8",
+      "target_quote": "The PIDS shall serve as the research arm of the Commission.",
+      "reference_section": "",
+      "reference_quote": ""
+    },
+    {
+      "category": "mandate",
+      "fiscal_direction": "unclear",
+      "description": "Only the reference sets out what the national assessment must cover. The list includes compliance of DA, DAR, DENR and other agencies with their legal mandates, factors that have hindered modernization, best practices, a monitoring and evaluation plan, and the role of LGUs. The target leaves the assessment's scope more general.",
+      "target_section": "",
+      "target_quote": "",
+      "reference_section": "SB-20-1624:s6",
+      "reference_quote": "The observance of the legal mandates of the DA, DAR, DENR, and other government agencies in charge of agriculture"
+    },
+    {
+      "category": "mandate",
+      "fiscal_direction": "likely lowers cost",
+      "description": "The reference's objectives include operational tasks beyond review: developing and implementing training programs for farmers, and identifying markets and helping agri-businesses meet global standards. The target's objectives stay focused on reviewing and re-prioritizing programs. Compared with the reference, the target therefore likely costs less.",
+      "target_section": "HB-20-2322:s3",
+      "target_quote": "Refocus and re-prioritize support programs for agriculture and fisheries to ensure food security in basic staples for all local Filipino communities",
+      "reference_section": "SB-20-1624:s4",
+      "reference_quote": "Develop and implement programs to further educate and train farmers, farmworkers, cooperatives, and agri-entrepreneurs in modern and sustainable practices for increasing and improving production"
+    },
+    {
+      "category": "structure",
+      "fiscal_direction": "no cost effect",
+      "description": "In the target, standing committees may be chaired by commission members or by experts from multisectoral groups. In the reference, each standing committee must be chaired by a member.",
+      "target_section": "HB-20-2322:s12",
+      "target_quote": "The members of the Commission shall establish from among its members standing committees, to be chaired by such members or experts from",
+      "reference_section": "SB-20-1624:s10",
+      "reference_quote": "The AGRICOM shall establish standing committees, each chaired by a member."
+    },
+    {
+      "category": "funding",
+      "fiscal_direction": "unclear",
+      "description": "The reference fixes the initial funding at P200,000,000, charged to Senate and House appropriations. The target charges an unspecified 'amount necessary' to the same source. Because no amount is set, the cost of the target's start-up phase cannot be compared with the reference's.",
+      "target_section": "HB-20-2322:s13",
+      "target_quote": "The amount necessary for the initial implementation of this Act shall be charged against available appropriations of the Senate and the House of Representatives.",
+      "reference_section": "SB-20-1624:s13",
+      "reference_quote": "The amount of Two hundred million pesos (P200,000,000) for the initial implementation of this Act shall be charged against available appropriations of the Senate and the House of Representatives."
+    },
+    {
+      "category": "funding",
+      "fiscal_direction": "likely raises cost",
+      "description": "Only the target allows the annual General Appropriations Act to cover 'any deficiency in the current year'. This lets shortfalls be funded through the GAA in addition to continuing costs.",
+      "target_section": "HB-20-2322:s13",
+      "target_quote": "the amount necessary for its continuous implementation, including any deficiency in the current year, shall be included in the annual General Appropriations Act",
+      "reference_section": "SB-20-1624:s13",
+      "reference_quote": "the amount necessary for its continuous implementation shall be included in the annual General Appropriations Act"
+    }
+  ],
+  "design_options": [
+    {
+      "option": "Larger congressional commission (12 members) whose ex officio members are the chairs of seven related Senate and House committees (agriculture, economic affairs, environment, fisheries, agrarian reform, climate change), with no designated chairperson",
+      "found_in": "HB-20-2322",
+      "trade_off": "Brings more related committees into the commission, at the cost of a larger body with more expense claims and no designated leader.",
+      "section": "HB-20-2322:s5",
+      "quote": "The Commission shall be composed of twelve (12) members, with six (6) members from the Senate and six (6) members from the House of Representatives"
+    },
+    {
+      "option": "Smaller congressional commission (10 members) co-chaired by the two agriculture committee chairs, with the remaining members designated by the presiding officers",
+      "found_in": "SB-20-1624",
+      "trade_off": "Leadership is clearer and the body is cheaper, but fewer related committees have a guaranteed seat.",
+      "section": "SB-20-1624:s7",
+      "quote": "the Chairperson of the House Committee on Agriculture and Food shall be the Co-Chairpersons of the AGRICOM."
+    },
+    {
+      "option": "Use an existing government research institute (PIDS) as the commission's research arm, alongside the Technical Secretariat",
+      "found_in": "HB-20-2322",
+      "trade_off": "Draws on existing research capacity instead of hiring it, but shifts workload to PIDS without a stated funding arrangement.",
+      "section": "HB-20-2322:s8",
+      "quote": "The PIDS shall serve as the research arm of the Commission."
+    },
+    {
+      "option": "Rely on the Technical Secretariat and member-chaired standing committees that bring in outside experts, with no designated research institute",
+      "found_in": "SB-20-1624",
+      "trade_off": "Keeps research within the commission's own budget and control, but the secretariat and committees must find and engage expertise themselves.",
+      "section": "SB-20-1624:s10",
+      "quote": "The Committees shall engage experts and resource persons from different sectors, whether public or private, towards providing recommendations"
+    },
+    {
+      "option": "Fixed initial appropriation charged to congressional budgets",
+      "found_in": "SB-20-1624",
+      "trade_off": "Caps and makes visible the start-up cost, but may not match actual needs.",
+      "section": "SB-20-1624:s13",
+      "quote": "The amount of Two hundred million pesos (P200,000,000) for the initial implementation of this Act shall be charged against available appropriations of the Senate and the House of Representatives."
+    },
+    {
+      "option": "Open-ended initial appropriation ('amount necessary'), with current-year deficiencies chargeable to the GAA",
+      "found_in": "HB-20-2322",
+      "trade_off": "Gives flexibility to fund actual needs, but leaves the start-up cost unstated and harder to control.",
+      "section": "HB-20-2322:s13",
+      "quote": "the amount necessary for its continuous implementation, including any deficiency in the current year, shall be included in the annual General Appropriations Act"
+    }
+  ],
+  "baseline_corrections": [
+    {
+      "target_section": "HB-20-2322:s16",
+      "reference_section": "SB-20-1624:s15",
+      "note": "The baseline paired the target's Effectivity clause with the reference's Repealing Clause. The OCR merged the reference's SEC. 16 Effectivity into the s15 text. Both Effectivity clauses take effect 15 days after publication, so they differ only in wording. The rule-based n_sections count (16 vs 15) comes from this OCR merge: the reference also has 16 sections."
+    },
+    {
+      "target_section": "HB-20-2322:s10",
+      "reference_section": "SB-20-1624:s12",
+      "note": "Marked 'changed', but the Duration clauses match apart from OCR line numbers in the reference (three years from organization in both)."
+    },
+    {
+      "target_section": "HB-20-2322:s9",
+      "reference_section": "SB-20-1624:s11",
+      "note": "Marked 'changed', but the Advisory Council provisions match in substance: same eleven sector seats and same appointing authorities. The differences are wording only ('always present', 'members')."
+    },
+    {
+      "target_section": "HB-20-2322:s7",
+      "reference_section": "SB-20-1624:s8",
+      "note": "Marked 'changed', but the Technical Secretariat provisions match in substance. The cross-reference to Section 11 vs Section 5 reflects different numbering of the powers section, and the phrase on a 'competent and efficient secretariat' is wording only."
+    },
+    {
+      "target_section": "HB-20-2322:s14",
+      "reference_section": "SB-20-1624:s14",
+      "note": "The Separability clauses differ only in wording."
+    },
+    {
+      "target_section": "HB-20-2322:s15",
+      "reference_section": "SB-20-1624:s15",
+      "note": "The Repealing clauses differ only in the list of issuances named. The effect (repeal of inconsistent provisions) is the same. Neither bill abolishes or transfers an existing office."
+    },
+    {
+      "target_section": "HB-20-2322:s1",
+      "reference_section": "SB-20-1624:s1",
+      "note": "The Short Titles differ only in the name ('and Food Security' in the reference). The substantive point is the purpose clause in s4/s3, recorded under differences."
+    },
+    {
+      "target_section": "HB-20-2322:s11",
+      "reference_section": "SB-20-1624:s5",
+      "note": "In the visible text, the powers largely match: recommendations on sectoral plans, infrastructure, trainings, financing and coordination; workplan and budget approval; hearings; subpoenas. The reference lists bureaucracy review and the harmonization of DA/DAR/DENR programs as powers, while the target puts bureaucracy restructuring among its objectives (HB-20-2322:s3). Both sections are truncated."
+    },
+    {
+      "target_section": "HB-20-2322:s2",
+      "reference_section": "SB-20-1624:s2",
+      "note": "The Declarations of Policy are framed differently: the target uses broad social-order and rural development language, the reference focuses on farmers' rights and support services. Neither changes the commission's structure, powers or funding, so this is not counted as a substantial difference."
+    },
+    {
+      "target_section": "",
+      "reference_section": "",
+      "note": "The rule-based fact diff is correct that the head salary grade does not differ (SG 29 in both) and that membership does differ (12 vs 10). The peso_amounts difference is real: only the reference specifies P200,000,000."
+    }
+  ],
+  "gaps": [
+    "The reference bill's explanatory note was not provided (empty), so its problem statement and evidence cannot be compared.",
+    "The target's explanatory note is cut off mid-sentence ('Some council'), so further evidence or data it may contain could not be reviewed.",
+    "Target s3 (objectives) and s11 (powers) and reference s4 (objectives) and s5 (powers) are truncated. Further differences in powers, such as reporting duties to Congress or the President, cannot be ruled out.",
+    "Neither bill's visible text includes a reporting or final-output provision, so oversight and reporting differences could not be assessed.",
+    "The target bill names no chairperson of the commission. The provided sections do not show whether this is settled elsewhere in the bill.",
+    "Reference s6 refers to 'the three (3) agencies' but lists 'DA, DAR, DENR, and other government agencies'. It is unclear whether the assessment is limited to three agencies.",
+    "The bills do not say how PIDS's research-arm work under HB-20-2322:s8 would be funded.",
+    "The family design variants differ only in name; all are congressional commissions. No bill provided contains a department, authority or executive-office alternative, so no such design option can be offered.",
+    "The reference text is OCR output with embedded line numbers and artifacts, so minor wording differences may come from OCR errors."
+  ]
+}

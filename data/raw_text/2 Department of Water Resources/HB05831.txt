@@ -1,0 +1,2202 @@
+                                          Republic of the Philippines
+                                        HOUSE OF REPRESENTATIVES
+                                          Quezon City, Metro Manila                                             November 11, 2025
+                                                                                                                   2:06 pm
+                                              TWENTIETH CONGRESS
+                                                First Regular Session
+
+                                                            5831
+                                          HOUSE BILL NO. ___________
+
+
+              Introduced by Representative AGATHA PAULA “AGAY” A. CRUZ
+
+
+                                               EXPLANATORY NOTE
+
+       It is a paradox that the Philippines has more than 30 water-related agencies, yet
+the water sector remains a governance orphan. Overlapping agency mandates and
+functions produced inconsistent standards and spending inefficiencies. A 2024 World
+Bank assessment found that fragmentation of policymaking has prevented coordinated
+planning, allocation, and management of water resources.1
+
+        The proposed Department of Water Resources (DWR) Act responds to this
+institutional problem with structural clarity and regulatory coherence.
+
+        First, it creates the DWR as the central policy, planning, and coordinating authority
+for the comprehensive and integrated development, allocation, protection, and climate-
+resilient management of water resources across basins and jurisdictions.
+
+      Second, it establishes an independent Water Regulatory Commission (WRC) to
+promulgate and set just and reasonable tariffs; license, benchmark, and audit service
+providers; enforce service-quality and performance standards; and protect consumers
+through due process and transparency.
+
+       Third, it consolidates financing under a Water Trust Fund to prioritize missionary
+areas, climate-resilient infrastructure, wastewater and septage management, and
+watershed rehabilitation, with audit safeguards and multi-stakeholder oversight.
+
+       The measure also codifies the following principles: (1) water is a basic human right
+and a vital public resource; (2) all waters belong to the State and must be allocated
+equitably and efficiently; (3) responsible private participation must be encouraged
+without tolerating monopolies or anti-competitive behavior; and (4) water and water-
+related infrastructure are projects imbued with national interest, which must be
+streamlined, accountable, climate-smart execution.
+
+
+1   The     World   Bank,    Philippine   Water   Supply   and    Sanitation  Project,  THE   WORLD     BANK,   2024,   available   at
+https://documents1.worldbank.org/curated/en/099052624232518179/pdf/P5042571bacf5e001a57316e17763b6f71.pdf
+       By marrying policymaking with science, planning with budgeting, and regulation
+with consumer protection, this bill steers the country back on-track for the attainment of
+Sustainable Development Goals 6 and climate-resilient development.2
+
+       This much-needed reform recognizes the constitutional duty of the State as
+steward of our waters. Stewardship demands coherence, competence, and courage. As
+climate volatility intensifies droughts and floods, we can no longer maintain the status
+quo of a fragmented water policy.
+
+      For equity, safety, and growth, the immediate passage of the “Department of
+Water Resources Act” is earnestly sought.
+
+
+
+
+                                      AGATHA PAULA “AGAY” AGUILAR CRUZ
+                                     Representative, Fifth Legislative District of Bulacan
+
+
+
+
+2   Ibid.
+                                    Republic of the Philippines
+                                  HOUSE OF REPRESENTATIVES
+                                          Quezon City
+
+                                       TWENTIETH CONGRESS
+                                         First Regular Session
+
+                                                      5831
+                                    HOUSE BILL NO. ___________
+
+
+               Introduced by Representative AGATHA PAULA “AGAY” A. CRUZ
+
+
+                                 AN ACT
+        ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE
+      MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES
+          AND THE WATER REGULATORY COMMISSION, DEFINING THEIR
+       MANDATES, POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS
+                    THEREFOR, AND FOR OTHER PURPOSES
+
+            Be it enacted by the Senate and the House of Representatives of the Philippines in Congress
+     assembled:
+
+ 1                                         CHAPTER I
+ 2                                     GENERAL PROVISIONS
+ 3
+ 4         Section 1. Short Title. – This Act shall be known as the “Department of Water
+ 5   Resources (DWR) Act.”
+ 6
+ 7          Section 2. Declaration of Policy. – It is hereby declared the policy of the State that
+ 8   water is a basic human right and a vital public resource essential to life, health, and
+ 9   development. All waters belong to the State, which shall ensure their sustainable
+10   development, equitable allocation, effective protection, and utilization for the benefit of
+11   present and future generations.
+12
+13          Towards these ends, the State shall:
+14          (a) Guarantee universal access to safe, affordable, adequate, and sustainable water
+15              supply, sanitation, and septage management services for all communities;
+16          (b) Ensure the protection, conservation, and restoration of water bodies,
+17              watersheds, and related ecosystems through sound environmental governance
+18              and integrated management;
+19          (c) Pursue climate change adaptation, disaster risk reduction, and multi-hazard
+20              resilience in water policy, planning, and infrastructure development;
+21          (d) Encourage responsible private sector participation in water resource
+22              development and service delivery, while safeguarding public interest and
+
+
+
+                                                            DEPARTMENT OF WATER RESOURCES (DWR) ACT | 1
+ 1       ensuring competition in accordance with the principles of equity, transparency,
+ 2       and accountability;
+ 3   (e) Strengthen institutional coordination among national agencies, local
+ 4       government units, and stakeholders to ensure coherence in policy, regulation,
+ 5       and investment;
+ 6   (f) Uphold the rights of Indigenous Peoples and local communities to equitable
+ 7       access and participation in water governance, consistent with Republic Act No.
+ 8       8371 or the Indigenous Peoples’ Rights Act of 1997; and
+ 9   (g) Declare all water and water-related infrastructure projects as imbued with
+10       national interest, prioritizing those that promote inclusive growth, public
+11       health, and climate resilience.
+12
+13   Section 3. Definition of Terms. – As used in this Act:
+14
+15   (a)   Bulk water supplier refers to any entity, natural or juridical, whether public or
+16         private, supplying or intending to supply large quantities of raw or treated
+17         water to buyers for their own consumption, such as industrial companies, or
+18         for retail distribution to consumers such as water service providers or real
+19         estate developers managing their own distribution network.
+20
+21   (b)   Environmental services refer to qualitative functions of natural non-produced
+22         assets of land, water, and air, including related ecosystems, and their biota,
+23         and which may be categorized into three basic types: (a) disposal services
+24         which reflect the functions of the natural environment as an absorptive sink
+25         for residuals; (b) productive services which reflect the economic functions of
+26         providing natural resource inputs and space for production and
+27         consumption, and (c) consumer or consumption services which provide for
+28         physiological as well as recreational and related needs of human beings.
+29
+30   (c)   Flood Control refers to methods, acts, and protocols to be observed in order to
+31         prevent and reduce the detrimental and catastrophic effects of flood waters
+32         which include sediment-laden or turbid flows, and hyper-concentrated flows
+33         or debris flows.
+34
+35   (d)   Flood Risk Management (FRM) refers to acts of defining and determining the
+36         appropriate methods, acts, and protocols aimed at preventing and reducing
+37         the risk of loss of both life and property due to flood waters. Flood risk
+38         management consists of a cycle of prevention, mitigation, adaptation,
+39         preparedness and early warning, and response and recovery. The elements
+40         of FRM include: integrating land-use planning and coastal zone management
+41         into water management; adopting a holistic approach so that FRM is part of
+42         wider risk or multi-hazard management of earthquakes, landslides,
+43         droughts, and storm surges; managing risk and uncertainty as a whole so it
+44         not only mitigates hydrological uncertainties but also social, economic and
+
+
+
+                                                  DEPARTMENT OF WATER RESOURCES (DWR) ACT | 2
+ 1         political uncertainties on account of human behavior and the cultural
+ 2         dimensions of FRM.
+ 3
+ 4   (e)   Gender Equality refers to the principle asserting the equality of men and
+ 5         women and their right to enjoy equal conditions realizing their full human
+ 6         potentials to contribute to and benefit from the results of development, and
+ 7         with the State recognizing that all human beings are free and equal in dignity
+ 8         and rights.
+ 9
+10   (f)   Infrastructure and public works refer only to wholly or primarily water-related
+11         projects and does not include projects that do not fall within the purview of
+12         the objectives, power and duties of the DWR created under this Act.
+13
+14   (g)   Integrated Water Resource Management (IWRM) refers to a systematic,
+15         collaborative, and multi-stakeholder process which promotes the
+16         coordinated development and management of water, land, and related
+17         resources within geophysical boundaries in order to maximize the resultant
+18         economic and social welfare in an equitable manner, and without
+19         compromising the sustainability of vital ecosystems.
+20
+21   (h)   License refers to the Water Supply and/or Sanitation Services Operating
+22         License that the Water Regulatory Commission (WRC) is authorized to grant
+23         and issue to service providers.
+24
+25   (i)   Licensee refers to a service provider to whom a license is granted or issued by
+26         the WRC.
+27
+28   (j)   Missionary Water Services refer to water supply or services to areas that have
+29         no existing safe water supply and services due to geographic limitation or
+30         absence of economic and market viability.
+31
+32   (k)   National Water Resources Management Plan (NWRMP) refers to a policy
+33         document that contains a framework to guide the development and
+34         management of all the water resources in the Philippines, the general
+35         strategies and work to be pursued to ensure the sustainability of the resource
+36         towards water security, and top-level direction on the utilization of existing
+37         water resources in line with national development plans, policies, and
+38         programs in accordance with the IWRM framework. The NWRMP shall also
+39         include a water infrastructure development program or all waters of the
+40         country as well as provide general guidance on how this shall be supported
+41         within an integrated financing framework that can draw from public, private,
+42         and international development funding sources.
+43
+44   (l)   Net Waste Load refers to the difference of the initial waste load of the
+
+
+
+                                                 DEPARTMENT OF WATER RESOURCES (DWR) ACT | 3
+ 1         abstracted water and the waste load of the final effluent discharge of an
+ 2         industry.
+ 3
+ 4   (m) River basin refers to an area of land drained by a stream or body of fixed water
+ 5       and its tributaries which have a common outlet for surface run-off.
+ 6
+ 7   (n)   River Basin Organization (RBO) refers to a multi-stakeholder organization
+ 8         which plan, coordinate, and monitor activities within a river basin cluster.
+ 9
+10   (o)   Sanitation refers to the provision of facilities and services for the safe
+11         management of human excreta and wastewater, from collection to
+12         containment, and storage and treatment onsite or conveyance, treatment and
+13         eventual safe end use or disposal, and includes the safe management of solid
+14         waste and animal waste.
+15
+16   (p)   Sediment management refers to control of sediment erosion and deposition in
+17         rivers, reservoirs, and coastal zones through non-structural and structural
+18         measures and control works.
+19
+20   (q)   Sustainable Development Goals (SDGs) also known as the 17 Global Goals refer
+21         to the universal call to action to end poverty, protect the planet and ensure
+22         that all people enjoy peace and prosperity by 2030 adopted by Member States
+23         of the United Nations in 2015.
+24
+25   (r)   Septage refers to the liquid and solid material pumped from a septic tank,
+26         cesspool, or other primary treatment source.
+27
+28   (s)   Septage Management refers to the provision of proper collection, treatment,
+29         and disposal of septage.
+30
+31   (t)   Service Area refers to the area covered by the water distribution system,
+32         sewerage or septage management services.
+33
+34   (u)   Sewage refers to water borne human or animal wastes, excluding oil or oil
+35         waste, removed from residences, buildings, institutions, and industrial and
+36         commercial establishments together with such groundwater, surface water
+37         and storm water as may be present including such waste from vessels,
+38         offshore structures, other receptacles intended to receive or retain waste or
+39         other places or the combination thereof.
+40
+41   (v)   Sewerage refers to any system or network of pipelines, ditches, channels or
+42         conduits including pumping stations, lift stations and force mains, service
+43         connections including other infrastructure, devices, or appliances
+44         appurtenant thereto, which include the collection, transport, pumping and
+
+
+
+                                                 DEPARTMENT OF WATER RESOURCES (DWR) ACT | 4
+ 1         treatment of sewage to a point of disposal.
+ 2
+ 3   (w) Sewers refer to pipes or such other works or structures which are built and
+ 4       constructed to carry, transport, and dispose sewage.
+ 5
+ 6   (x)   Social inclusion refers to the process of improving the terms for marginalized
+ 7         and disadvantaged individuals, indigenous peoples, and similar groups to
+ 8         take part in society.
+ 9
+10   (y)   Tariffs refer to amounts which may be charged by licensees for their water
+11         supply and sanitation services based on principles, standards, and guidelines
+12         established by the Water Regulatory Commission.
+13
+14   (z)   Water Demand Management refers to any method, whether technical,
+15         economic, administrative, financial, or social, that will accomplish one or
+16         more of the following: (1) Reduce the quantity or quality of water required to
+17         accomplish a specific task; (2) less water or with lower quality water; Adjust
+18         the nature of the task or the way it is undertaken so that it can be
+19         accomplished with (3) Reduce the loss in quantity or quality of water as it
+20         flows from source, through use, to disposal; (4) Shift the timing of use from
+21         peak to off-peak periods; and (5) Increase the ability of the water system to
+22         continue to serve society during times when water is in short supply.
+23
+24   (aa) Water Districts refer to government-owned and controlled corporations,
+25        organized under Presidential Decree (PD) No. 198, as amended, or the Local
+26        Water Utilities Administration Law, created primarily to acquire, install,
+27        operate, maintain, and improve water supply and distribution systems for
+28        domestic, industrial and municipal uses of residents and to provide, maintain
+29        and operate waste water collection, treatment and disposal facilities within
+30        the boundaries of the district.
+31
+32   (bb) Water pollution refers to any alteration of the physical, chemical, biological, or
+33        radiological properties of a body of water resulting in the impairment of its
+34        purity or quality.
+35
+36   (cc) Water Resource refers to water under the ground or groundwater, water above
+37        the ground such as surface water, run-offs, floods, storm water and urban
+38        drainage, treated wastewater, water in the atmosphere or rain water, and the
+39        waters of the sea within the territorial jurisdiction of the Philippines.
+40
+41   (dd) Water resource allocation refers to the process of sharing the limited water
+42        resources between competing users. This consists of (i) determining water
+43        availability, and (ii) determining how the water should be shared among
+44        competing users. For the purposes of this Act, resource allocation shall also
+
+
+
+                                                  DEPARTMENT OF WATER RESOURCES (DWR) ACT | 5
+ 1                 mean water resources allocation.
+ 2
+ 3          (ee) Water Resources Regions refer to the contiguous clusters of river basins which
+ 4               are grouped together according to the hydrological boundaries,
+ 5               physiographic features, and homogeneity in climate, whether or not they
+ 6               straddle different local government units, for administrative purposes under
+ 7               the DWR.
+ 8
+ 9          (ff)   Water Service Provider (WSP) refers to the water district, any local government
+10                 unit (LGU)-run water utility, Barangay Waterworks and Sanitation
+11                 Association, Rural Waterworks Sanitation Association, cooperatives engaged
+12                 in water service provision, or private sector entity that provides water supply
+13                 services to any given area.
+14
+15          (gg) Water supply service refers to any activity comprising Levels I, II and III water
+16               supply including bulk suppliers, suppliers to subdivisions, and other WSPs.
+17
+18                                    CHAPTER II
+19                           DEPARTMENT OF WATER RESOURCES
+20
+21           Section 4. Establishment of the Department of Water Resources. – There is hereby
+22   established the Department of Water Resources (DWR).
+23
+24           Section 5. Mandate and Objectives. – The Department shall be the primary policy,
+25   planning, coordinating, implementing, monitoring, and administrative arm of the
+26   Executive Branch of the government responsible for the comprehensive, sustainable,
+27   climate-resilient, and integrated development, allocation, utilization, and management of
+28   the water resources of the Philippines for domestic and municipal water supply,
+29   sanitation, irrigation, hydropower, industry, navigation, flood management, and
+30   recreation, and water utilization aspects of fisheries or aquaculture.
+31
+32          The Department shall also be the primary agency responsible for the planning and
+33   policy formulation towards the attainment of universal access to safe, adequate,
+34   affordable, and sustainable water supply, sanitation, and septage services.
+35
+36         The Department shall be the primary national agency to enforce PD 1067,
+37   otherwise known as The Water Code of the Philippines.
+38
+39          In the implementation of Republic Act (RA) No. 9275, otherwise known as the
+40   Philippine Clean Water Act of 2004, the Department shall be responsible for preparing,
+41   formulating and implementing a five-year plan of action for a national and a regional
+42   septage management plan, which shall contain measures for the construction of
+43   wastewater treatment facilities and provision, installation, operation and maintenance
+44   and, where practicable, the integration of sewerage, septage management, storm water
+
+
+
+                                                         DEPARTMENT OF WATER RESOURCES (DWR) ACT | 6
+ 1   management and other sanitation facilities. Compliance with the mandate to implement
+ 2   septage management services and systems by any WSP pursuant to the Philippine Clean
+ 3   Water Act of 2004 shall be reckoned within five (5) years from the date of promulgation
+ 4   or publication of the septage management plan formulated by the Department.
+ 5
+ 6          Section 6. Guiding Principles. – In pursuing its mandate, the DWR shall be guided
+ 7   by the following key principles:
+ 8
+ 9          (a) The concept of good water governance for water security and sufficiency shall
+10              be adopted across all levels of governance by stakeholders such as the national
+11              government, local government units (LGUs), non-government organizations
+12              (NGOs), private organizations, individuals, global societal actors, and in
+13              various sectors such as water supply, irrigation, fisheries, hydropower,
+14              navigation, ecosystem services, climate change, and recreation. It shall entail
+15              publicly transparent, socially accountable, and multi-stakeholder participatory
+16              water policy planning, management, and decision-making processes;
+17
+18          (b) Access to safe water supply and improved sanitation is a human right that
+19              needs to be fulfilled and protected;
+20
+21          (c) Integrated Water Resource Management (IWRM) shall be adopted as the basic
+22              framework which is the coordinated development and management of water,
+23              land, and related resources within hydrological boundaries to optimize
+24              economic and social welfare without compromising the sustainability of vital
+25              ecosystems. The IWRM Framework shall include an enabling environment that
+26              utilizes proper policies, legal instruments, and institutional frameworks for
+27              effective implementation, participatory and collaborative water policy and
+28              management decisions, and management instruments for efficient use of
+29              updated and accurate data, science-based decision support systems, proper
+30              information, education, communication programs, assessment and allocation
+31              tools, or regulatory functions. It shall observe the mutual accountability
+32              mechanism among stakeholders at the national, regional, and global levels
+33              reinforcing multi-stakeholder decision-making following a framework with
+34              specific, measurable, attainable, relevant, and timely actions;
+35
+36          (d) Each river basin has its unique characteristics relating to the physical,
+37              sociocultural, and other aspects, and water management shall be performed at
+38              river-basin level, involving all the stakeholders at that particular river basin;
+39
+40          (e) Integrated and accurate data collection and analysis and the use of scientific
+41              decision support systems shall be undertaken in water resources management
+42              including flood modeling and warning systems that are essential for an
+43              effective, efficient, and sustainable water resources management system;
+44
+
+
+
+                                                        DEPARTMENT OF WATER RESOURCES (DWR) ACT | 7
+ 1   (f) The State shall prioritize the development of surface water to ensure adequate
+ 2       and reliable supply of water: Provided, That the development of water resources
+ 3       shall include strategies for the mitigation of water-related hazards and climate
+ 4       change adaptation;
+ 5
+ 6   (g) Water resources shall be fairly and sustainably managed, and water services
+ 7       shall be provided where they are intended and most needed;
+ 8
+ 9   (h) The proper operation and maintenance of waterworks systems resulting in the
+10       uninterrupted and adequate supply and distribution of potable water for
+11       domestic and other purposes, and the proper operation and maintenance of
+12       sewerage systems which are essential services to public health and safety, are
+13       to be ensured at all times; and
+14
+15   (i) The State recognizes the role of the private sector and mobilization of private
+16       resources in the development of waterworks systems through concession
+17       agreements, joint venture agreements, bulk water supply agreements,
+18       management and service agreements and other contracts for water supply
+19       provision, water sanitation and treatment services, and the development,
+20       operation and maintenance of water supply and septage management systems.
+21       The State shall encourage the private sector to provide the needed investments
+22       for programs and projects to ensure adequate water supply and promote water
+23       security.
+24
+25   Section 7. Objectives of the Department. – The DWR shall:
+26
+27   (a) Promote and adopt water demand management as a national policy to ensure
+28       that water is optimized, that water efficiency and conservation become a way
+29       of life, that the recycling and reuse of water and treated wastewater are widely
+30       practiced, that water is properly priced to encourage efficient use and
+31       conservation, and that rainwater, flood waters, and run-offs are captured or
+32       harvested, stored and treated for future use;
+33
+34   (b) Prioritize and seek the immediate attainment of universal access to safe,
+35       adequate, affordable and sustainable water supply and improved sanitation
+36       services for all Filipinos, either through public programs and projects or public-
+37       private partnership or other mechanisms, in a manner consistent with the
+38       protection, preservation, and revival of the quality of the country’s water
+39       resources, and to adopt all needed measures to advance the right of the people
+40       to a balanced and healthful ecology in accord with the rhythm and harmony of
+41       nature: Provided, That the DWR shall pursue universal access to clean water by
+42       2030;
+43
+
+
+
+
+                                                  DEPARTMENT OF WATER RESOURCES (DWR) ACT | 8
+ 1         (c) Strengthen and coordinate integrated water resources management planning
+ 2             and policy making to ensure sustainable and fair allocation and efficient use of
+ 3             water resources among competing uses and users;
+ 4
+ 5         (d) Ensure that integrated water resources management is strongly coordinated
+ 6             with land use and coastal and multi-hazard planning and management;
+ 7
+ 8         (e) Develop sustainably, and manage water sources and water resources toward
+ 9             water security, taking into consideration water, land, and related resources
+10             aimed at increasing water dependability for different uses, optimizing
+11             economic benefits and social welfare without compromising the sustainability
+12             of vital environmental systems;
+13
+14         (f) Strengthen and coordinate policy making and planning towards ensuring the
+15             availability of water for food security and energy security, as well as towards
+16             the protection of communities and environments against flood and other water
+17             induced hazards including sediment hazards;
+18
+19         (g) Ensure that the strategy for water resources development and conservation is
+20             participatory, and that planners, policymakers, and other stakeholders,
+21             including water users, community members, indigenous and marginalized
+22             peoples, are involved at all levels;
+23
+24         (h) Develop a standardized pricing framework for water use, septage and
+25             sewerage services that accounts for environmental externalities and pricing
+26             considerations such as reasonable rate of return; rate adjustment mechanisms
+27             for consumer price indices and currency fluctuations; and other factors
+28             relevant to the operation of waterworks systems and infrastructure;
+29
+30         (i) Ensure that all sources of water, including surface water, groundwater,
+31             rainwater and floodwater are identified, mapped, monitored, conserved and
+32             managed for productive use and the resulting wastewater is managed
+33             properly, reused, and responsibly disposed of following approved
+34             environmental standards; and
+35
+36         (j) Prioritize and provide technical and financial assistance to fourth, fifth and
+37             sixth class municipalities in the Philippines in the development of water
+38             resources and waterworks systems and provision of water and sanitation
+39             services.
+40
+41          Section 8. Powers and Functions. – The DWR shall exercise powers on
+42   policymaking, resource allocation and regulation, institutional arrangement and
+43   coordination, and other related functions. These shall include:
+44
+
+
+
+                                                       DEPARTMENT OF WATER RESOURCES (DWR) ACT | 9
+ 1   I.   Policymaking and Planning
+ 2
+ 3        (a)   Ensure that Integrated Water Resources Management (IWRM) is
+ 4              adopted as the strategic framework for water management
+ 5              policymaking and planning in the country and coordinate the
+ 6              implementation, promotion, revision and enhancement of IWRM
+ 7              plans;
+ 8
+ 9        (b)   Formulate policies, strategies, and targets in coordination with other
+10              relevant entities to meet the goals and objectives for water supply and
+11              sanitation, water quality, irrigation, hydropower, flood control, storm
+12              water utilization, and urban drainage. Such policies shall, among
+13              other guidelines, integrate the issues of water and sanitation, food
+14              security, energy, environment and flood control, and climate change;
+15
+16        (c)   Formulate and develop policies to promote universal access to safe,
+17              adequate, affordable, and sustainable water supply, and improved
+18              sanitation services for all Filipinos;
+19
+20        (d)   Prepare the NWRMP in consultation with other agencies and
+21              stakeholders, following the IWRM framework and integrating therein
+22              a national land use plan, submit the NWRMP to the Department of
+23              Economy, Planning, and Development (DEPDev) for approval and
+24              eventual adoption, and regularly update, every five years or as
+25              deemed necessary by the DWR, in order to ensure its relevance to the
+26              times;
+27
+28        (e)   Undertake river basin survey, inventory and appraisal of water and
+29              related resources, and develop comprehensive basin-wide plans of
+30              storage, retardation, and control to maximize conservation and
+31              multipurpose use of water in the basin;
+32
+33        (f)   Conduct continuing hydrological and hydrometeorological surveys
+34              and studies of the country’s renewable water supply, and establish,
+35              operate, and maintain observation station networks;
+36
+37        (g)   Formulate long-term policies to balance the sustainability and optimal
+38              multiple use of water resources, define the hydrologic boundaries of
+39              basins of the existing water supply sources, and develop or update
+40              existing River Basin Master or Comprehensive Plans which includes
+41              all aspects of water management and development such as water
+42              supply and sanitation, irrigation, flood control and storm water or
+43              urban drainage, drought risk management, water resource
+
+
+
+
+                                              DEPARTMENT OF WATER RESOURCES (DWR) ACT | 10
+ 1         development systems and other public water works projects,
+ 2         including phasing of implementation;
+ 3
+ 4   (h)   Identify, based on the river basin master plans, priority packages for
+ 5         water infrastructure development per river basin, including water
+ 6         supply, sanitation, irrigation, hydropower, flood control and storm
+ 7         water or urban drainage, drought risk management, water resource
+ 8         development systems and other public works projects;
+ 9
+10   (i)   Evaluate and appraise all regional and inter-regional infrastructure
+11         water development plans and programs as to their feasibility and
+12         consistency with approved strategies and medium and long-term
+13         plans;
+14
+15   (j)   Formulate policy, strategies, master plans and programs on flood risk
+16         management in the context of integrated flood management (IFM)
+17         which integrates water, land, coastal zone and multi- hazard
+18         management. In integrating land use planning and water
+19         management, the DWR shall harmonize and synthesize plans to
+20         enable the sharing of information between land-use planning and
+21         water management authorities. In this regard, a holistic approach
+22         shall be adopted by making the IFM a part of a wider risk or multi-
+23         hazard management system that includes earthquakes, landslides,
+24         fires, tsunamis, droughts, and other calamities of the same gravity or
+25         nature;
+26
+27   (k)   Strengthen and coordinate policy making and planning for flood
+28         management, integrated with storm water or urban drainage and
+29         appropriate retention or retarding basins in order to harvest and reuse
+30         water, and to plan against, prevent, and minimize the detrimental and
+31         catastrophic effects of flooding;
+32
+33   (l)   Assist and provide the DEPDev with the required data and input from
+34         the water sector in the formulation of the country’s short-term and
+35         long-term strategic development plans and actions, and recommend
+36         the adoption of general policies and guidelines for water resources
+37         development;
+38
+39   (m) Review, approve, and provide oversight over all water-related
+40       development plans, programs, and projects of any agency within the
+41       context of the NWRMP, and overall national plans and programs;
+42
+43   (n)   Develop and implement, in coordination with other relevant agencies,
+44         effective codes, standards, benchmarks, and reasonable guidelines on
+
+
+
+                                         DEPARTMENT OF WATER RESOURCES (DWR) ACT | 11
+ 1         project investigation, formulation and planning of water resources
+ 2         infrastructure, to ensure the safety of all public and private water
+ 3         structures in the country, and assure efficiency and proper quality in
+ 4         the construction of water, sanitation, irrigation, hydropower, flood
+ 5         control and drainage infrastructure;
+ 6
+ 7   (o)   Ensure that gender equality, social inclusion, environmental
+ 8         protection, climate resiliency, disaster risk reduction, and indigenous
+ 9         knowledge systems and practices are integrated into any water
+10         resource management planning, policy making, and the design and
+11         construction of water infrastructure;
+12
+13   (p)   Ensure that the planning of water infrastructure considers the highest
+14         efficiency and most appropriate technology and quality, in accordance
+15         with national development objectives;
+16
+17   (q)   Review existing guidelines appropriate for private sector
+18         participation in the water sector and submit recommendations to the
+19         Public-Private Partnership (PPP) Center and other concerned agencies
+20         to promote and enable more PPPs in the sector;
+21
+22   (r)   Gather, analyze, and organize needed statistical data and information;
+23         for those water-related data generated by other concerned agencies,
+24         establish, in coordination with these agencies, the guidelines,
+25         standards, methodologies, and protocols for data collection that will
+26         be officially recognized by the DWR, and institute mechanisms for
+27         coordination with other agencies as regards their submission and
+28         certification of submitted water-related data to the DWR;
+29
+30   (s)   In case of gaps in data collection by other agencies, under item (r)
+31         above, the DWR may collect the said data in accordance with the
+32         established guidelines, standards, methodologies and protocols, and
+33         in coordination with the respective agencies: Provided, That both the
+34         DWR and other agencies ensure that duplication of roles in data
+35         collection is prevented;
+36
+37   (t)   Ensure continued stakeholder engagement through the creation of a
+38         Multi-Sectoral Stakeholder Council with representatives from all
+39         water sector, including vulnerable and indigenous communities:
+40         Provided, That the Multi-Sectoral Stakeholder Council shall be the
+41         primary avenue for all multi-sectoral consultations mandated under
+42         this Act, and shall be consulted in the formulation of all national plans,
+43         programs, and policies of the DWR: Provided, further, That the sectoral
+
+
+
+
+                                          DEPARTMENT OF WATER RESOURCES (DWR) ACT | 12
+ 1               representatives shall be appointed by the President of the Philippines,
+ 2               hereinafter referred to as the President;
+ 3
+ 4         (u)   Build a central repository of water data and effect inter-sectoral, inter-
+ 5               agency, and inter-departmental coordination on all aspects of data
+ 6               gathering and management for water resources development
+ 7               planning and compel the submission of statistics and data on water
+ 8               utilization with the aim of operationalizing the integrated approach to
+ 9               water resources management;
+10
+11         (v)   Ensure the effective implementation of all the provisions of PD 1067;
+12
+13         (w) Promote Philippine participation in information sharing and
+14             education on best practices in support of international efforts to
+15             achieve universal access to safe water and improved sanitation; and
+16             the integration of water, energy, environment and food security;
+17
+18         (x)   Ensure that the easements provided for in Title VII, Chapter 2, Section
+19               2 of RA 386, otherwise known as the Civil Code of the Philippines and
+20               other relevant laws are enforced, especially in all the esteros and
+21               waterways, as well as abate the dumping of untreated wastewater and
+22               sewage into water bodies, including all acts and omissions in violation
+23               of PD 984, also known as National Pollution Control Decree of 1976,
+24               as amended, and other related laws; and
+25
+26         (y)   Issue and promulgate rules, regulations and guidelines as may be
+27               necessary to implement and enforce its powers and functions under
+28               this Act.
+29
+30   II.   Resource Allocation and Regulation
+31
+32         (a)   Manage and conserve the country’s water resources to ensure the
+33               optimal use thereof for domestic water supply, sanitation, irrigation,
+34               hydropower, navigation, flood control, and recreation purposes, and
+35               enhance and maintain water quality, conserve watersheds, control
+36               water pollution, and restore the environment, without compromising
+37               the natural ecosystem functions and services;
+38
+39         (b)   Regulate and control the utilization, abstraction, diversion and
+40               development of water resources, taking in consideration their
+41               equitable distribution among competing demands and determine the
+42               standards of beneficial and priority uses of water in times of crisis and
+43               national emergencies;
+44
+
+
+
+                                                DEPARTMENT OF WATER RESOURCES (DWR) ACT | 13
+ 1   (c)   Formulate, promulgate, and enforce rules and regulations for the
+ 2         development and optimum use of water resources and its
+ 3         administration and management, including coherent water protocols,
+ 4         operating rules of all existing and future water infrastructure; general
+ 5         criteria, methods and standards for basic data collection and project
+ 6         identification, formulation and planning, and appropriate sanctions to
+ 7         be imposed for noncompliance;
+ 8
+ 9   (d)   Regularly review regulations prescribed by any government agency
+10         pertaining to water use, exploitation, development, and conservation
+11         or protection of waters, water resources, and watershed or basin areas
+12         with respect to this Act;
+13
+14   (e)   Impose fees or charges, as may be deemed necessary for water
+15         resources development, conservation and protection, such as:
+16         (1) Polluter’s Fee, which shall be based on the net waste load
+17             depending on the wastewater charge formula pursuant to Section
+18             13 of Republic Act No. 9275: Provided, That the implementation of
+19             which shall be transferred from the Department of Environment
+20             and Natural Resources (DENR) to the DWR;
+21         (2) Raw water price, which shall take into account, among others, the
+22             scarcity of water; and
+23         (3) Appropriate payment structures for ecosystem services, which
+24             shall not exceed five centavos (PhP 0.05) per cubic meter of water
+25             consumption;
+26
+27   (f)   Deputize LGUs to collect the national fees or charges for resource
+28         regulation within their respective jurisdictions;
+29
+30   (g)   Collect, regularly update, monitor, and analyze water resources data
+31         including climatology, hydrological and other water-related data and
+32         ensure that such data is easily accessible by relevant and authorized
+33         users;
+34
+35   (h)   Establish, operate, and maintain observation station networks and a
+36         centralized water resources data center for the scientific survey and
+37         appraisal of surface and groundwater potentials of the country, and
+38         determine the annual renewable water available per water resources
+39         region;
+40
+41   (i)   Maintain a database that will contain updated relevant information on
+42         water data which will be accessible by relevant and authorized users;
+43
+
+
+
+
+                                         DEPARTMENT OF WATER RESOURCES (DWR) ACT | 14
+ 1          (j)   Develop and continuously update a computerized decision support
+ 2                system that incorporates data management systems relating to
+ 3                acquisition and database, model base in terms of physical design,
+ 4                planning and decision models, and user-friendly interface concerning
+ 5                graphical and visualization tools;
+ 6
+ 7          (k)   Conduct and promote special studies and research on water
+ 8                economics and other aspects of water resources development and
+ 9                management as may be needed to support the policy and plan
+10                proposals of the DWR, such as, but not limited to, impacts of climate
+11                change, weather modification, flood monitoring and modeling,
+12                environmental quality, and desalination;
+13
+14          (l)   Raise public awareness through information, education and
+15                communications programs, and build capacities for informed
+16                participation in water resources management at the national and
+17                river-basin level; and
+18
+19          (m) Review the status of water permits issued and outstanding as of the
+20              date of the effectivity of this Act and compliance by the water permit
+21              holders with the terms of their respective water permits.
+22
+23          If, in the determination of the DWR, acting on the basis of information,
+24          records and reports submitted by any holders of such water permits, there
+25          is non-use of the water resource covered by such water permits for a period
+26          of one (1) year from the date of issuance thereof, the DWR shall cause the
+27          termination or cancellation of any such water permits to the National Water
+28          Resources Allocation Board: Provided, That the review made by the DWR
+29          shall be considered prima facie evidence of non-use in respect of any
+30          affected water permit. For purposes of this Section, “non-use” refers to the
+31          failure of the water permit holder to utilize the water resource or construct
+32          substantial works, facilities, systems or other infrastructure had been
+33          constructed in pursuit of or for the purpose stipulated in the water permit.
+34
+35          The DWR shall submit a report to Congress on the completion of its review
+36          under this section within one (1) year from the effectivity of this Act.
+37
+38   III.   Institutional Arrangement with Public Water Agencies and Organizations
+39
+40          (a)   Develop guidelines including rules of partnership, between and
+41                among the DWR, field offices of national government agencies, LGUs
+42                and other stakeholders in water resource management, and facilitate
+43                the establishment of multi-stakeholder river basin organizations
+
+
+
+
+                                               DEPARTMENT OF WATER RESOURCES (DWR) ACT | 15
+ 1         (RBOs) per river basin, and strengthen and support existing RBOs and
+ 2         monitor their activities;
+ 3
+ 4   (b)   Coordinate the planned and ongoing river basin initiatives of
+ 5         government agencies and corporations, to which the DWR shall
+ 6         review and endorse approval and funding from the national budget
+ 7         thereof, as may be provided under existing laws, rules and
+ 8         regulations;
+ 9
+10   (c)   Harmonize all relevant national river basin policies and formulate
+11         new policies and create enabling policy environment that shall allow
+12         effective and efficient management and governance of the country’s
+13         river basins. To this end, all concerned national government agencies
+14         and corporations shall consult the DWR in such planning and
+15         implementation;
+16
+17   (d)   Serve as the national policy coordination office for LGUs and non-
+18         governmental organizations in the development and sustainability of
+19         all river and catchment basins, for which the DWR shall recommend
+20         the approval and funding thereof of national government agency and
+21         corporations’ support to such local and nongovernment river and
+22         catchment basin initiatives;
+23
+24   (e)   Serve as the government’s central river basin database management
+25         agency, to which all government agencies and existing river basin
+26         organizations with relevant mandates and developmental initiatives
+27         within the river basins are required to cooperate and regularly submit
+28         their updated databases for integration and consolidation;
+29
+30   (f)   Develop materials for capacity building and training of prospective
+31         RBOs, as well as other concerned units of the DWR and other water-
+32         related agencies, LGUs, and WSPs particularly in the areas of
+33         integrated water resources management and river basin master
+34         planning;
+35
+36   (g)   Authorize its representatives or any deputized agent to enter any
+37         property of public dominion with prior notice and consent: and any
+38         private land, building or enclave, whether inhabited or not, for the
+39         purpose of conducting hydrologic surveys and investigations,
+40         including assessing and evaluating the conditions of water facilities
+41         installed, and determining compliance with water laws and
+42         standards;
+43
+
+
+
+
+                                        DEPARTMENT OF WATER RESOURCES (DWR) ACT | 16
+ 1         (h)   Provide technical assistance to water users including farmers,
+ 2               communities, and LGUs and other WSP whether directly or in
+ 3               coordination with other agencies on all aspects of integrated water
+ 4               resources management;
+ 5
+ 6         (i)   Respond to consumer complaints, and ensure the adequate promotion
+ 7               of consumer interests; and
+ 8
+ 9         (j)   Deputize agents, whether from the public or private sector, to assist in
+10               the performance of any of the powers and functions of the DWR.
+11
+12   IV.   Coordination
+13
+14         (a)   Coordinate and integrate water resources development activities of
+15               the country within the context of national plans and policies for social
+16               and economic development;
+17
+18         (b)   Coordinate with other government agencies, universities, academe
+19               and private professional groups in all aspects of data gathering, the
+20               conduct of special studies and research on all related aspects of water
+21               resources management and development such as climate change,
+22               environmental quality, desalination, and the development of
+23               operating strategies, procedures, and protocols and accompanying
+24               computerized decision tools for major water facilities;
+25
+26         (c)   Coordinate with the concerned and relevant agencies engaged in
+27               flood control, flood risk management, and drought risk management;
+28               and
+29
+30         (d)   Coordinate proactively with LGUs to ensure the integration of water
+31               resources development plans into their comprehensive land use plans,
+32               Comprehensive Development Plans or Provincial Physical
+33               Framework and Development Plan.
+34
+35   V.    Other Functions
+36
+37         (a)   Create when there are no existing water resources or operators, water
+38               resource subsidiaries, instrumentalities, and entities to engage in
+39               water source development, water supply, water transmission, water
+40               distribution, waste water treatment and management, missionary
+41               water access, storm water management, and sanitation in accordance
+42               with existing laws, without prejudice to private entities capable of and
+43               willing to engage in the aforementioned activities through concession
+44               agreements, joint venture agreements, bulk water agreements, or
+
+
+
+                                               DEPARTMENT OF WATER RESOURCES (DWR) ACT | 17
+ 1                       service agreements or contracts. For this purpose, the DWR shall
+ 2                       ensure compliance with existing frameworks, rules, regulations and
+ 3                       guidelines for private sector participation in water transmission,
+ 4                       water distribution, waste water treatment and management, storm
+ 5                       water management, and sanitation.
+ 6
+ 7                 (b)   Enter into contracts, joint venture agreements or understanding,
+ 8                       public-private partnerships, and memorandum of agreements or
+ 9                       understanding, either domestic or foreign, relating to investment and
+10                       financing water-related projects, under such terms and conditions as
+11                       the DWR may deem proper and reasonable subject to existing laws:
+12                       Provided, That government entities with mandates to enter into
+13                       contracts with private entities under existing laws shall continue to
+14                       have such authority: Provided, further, That nothing in this Act shall
+15                       be interpreted as adding approval, endorsement, or consent
+16                       requirements for water-related government projects;
+17
+18                 (c)   Appoint, hire, and maintain adequate staff and personnel, advisers or
+19                       consultants with suitable qualifications and experience, as necessary,
+20                       subject to existing rules and regulations; and
+21
+22                 (d)   Exercise such other powers and functions necessary or incidental to
+23                       the effective administration and management of the country’s water
+24                       resources.
+25
+26          Section 9. Organization Structure. – The DWR shall consist of:
+27
+28          (a) The Office of the Secretary, which shall house the Office of the Department
+29              Secretary, the Offices of the Undersecretaries, the Offices of the Assistant
+30              Secretaries, and their immediate support staff;
+31          (b) Bureaus and Services;
+32          (c) Regional Water Resources Offices; and
+33          (d) Attached agencies.
+34
+35          Section 10. Secretary of the DWR. – The authority and responsibility for the
+36   exercise of the mandate of the DWR and for the discharge of its powers and functions
+37   shall be vested in the Secretary of the DWR, hereinafter referred to as the Secretary of
+38   Water Resources, who shall be appointed by the President, subject to confirmation by the
+39   Commission on Appointments, and shall exercise supervision and control over all offices,
+40   bureaus, and attached agencies of the Department.
+41
+42          The Secretary of Water Resources shall:
+43
+
+
+
+
+                                                      DEPARTMENT OF WATER RESOURCES (DWR) ACT | 18
+ 1         (a) Recommend policies on water resources and advise the President on the
+ 2             promulgation of executive or administrative orders, regulations,
+ 3             proclamations and other issuances relative to matters under the jurisdiction of
+ 4             the DWR;
+ 5
+ 6         (b) Establish the policies and standards for the operation of the DWR pursuant to
+ 7             the President’s guidelines;
+ 8
+ 9         (c) Advise the President on the status of water management and supply in the
+10             country, recommend to the President the declaration of a state calamity in areas
+11             affected by water supply, and submit proposals to restore normalcy in the
+12             affected areas;
+13
+14         (d) Promulgate rules and regulations necessary to carry out the objectives, policies,
+15             and functions of the DWR;
+16
+17         (e) Exercise supervision and control over all bureaus and offices under the DWR;
+18
+19         (f) Supervise all attached agencies and corporations in accordance with law;
+20
+21         (g) Represent the DWR in contracts, awards, and other similar agreements;
+22
+23         (h) Delegate authority for the performance of any power or function, as defined
+24             herein to officials and employees under his direction as deemed appropriate;
+25
+26         (i) Act as the Chairperson of the governing board of the attached agencies of the
+27             DWR;
+28
+29         (j) Designate and appoint officers and employees of the DWR, excluding the
+30             Undersecretaries, Assistant Secretaries, and Regional and Assistant Regional
+31             Directors, in accordance with the civil service laws, rules and regulations;
+32
+33         (k) Discipline the officials and employees of the DWR, including officials and
+34             employees of all the bureaus and offices under it, in accordance with civil
+35             service laws, rules, and regulations; and
+36
+37         (l) Perform such other duties and responsibilities as may be provided by law.
+38
+39         The Secretary of Water Resources shall also serve as a voting member of the
+40   governing boards of the Climate Change Commission, National Disaster Risk Reduction
+41   and Management Council, and National Land Use Committee.
+42
+43         Section 11. Undersecretaries and Assistant Secretaries. – The Secretary of Water
+44   Resources shall be assisted by not more than three (3) Undersecretaries and three (3)
+
+
+
+                                                      DEPARTMENT OF WATER RESOURCES (DWR) ACT | 19
+ 1   Assistant Secretaries, all of which shall be appointed by the President upon the
+ 2   recommendation of the Secretary of Water Resources: Provided, That at least one (1)
+ 3   Undersecretary and one (1) of the Assistant Secretaries shall be career officers.
+ 4
+ 5          The Secretary of Water Resources is hereby authorized to delineate and assign the
+ 6   respective functional areas of responsibility of the Undersecretaries and Assistant
+ 7   Secretaries in accordance with the mandate and objectives of the DWR. Within their
+ 8   respective functional areas of responsibility, the Undersecretaries and Assistant
+ 9   Secretaries shall have the powers and functions as provided for in Chapter 2, Book IV of
+10   the Administrative Code of 1987.
+11
+12          Section 12. Qualifications and Appointment. – No person shall be appointed
+13   Secretary, Undersecretary, and Assistant Secretary of the DWR unless the person is a
+14   citizen and resident of the Philippines, of good moral character, of proven integrity,
+15   competence and expertise in water resource management.
+16
+17           Section 13. Department Bureaus and Services, and Regional Water Resources
+18   Offices. – The DWR shall establish, operate, and maintain the Bureaus and Services under
+19   it such as, but not limited to:
+20
+21          (a) Policy and Planning Bureau;
+22          (b) Decision Support System Bureau;
+23          (c) Bureau of Technical Services;
+24          (d) Legal and Legislative Research Service;
+25          (e) Internal Audit Service;
+26          (f) Public Affairs Service;
+27          (g) Administrative and Human Resources Service;
+28          (h) Flood Control and Drainage Coordination Service;
+29          (i) Comptrollership and Financial Management Service; and
+30          (j) Local Water Service Providers Bureau.
+31
+32           Regional Water Resources Offices shall be organized per water resources region
+33   and shall be responsible for implementing the mandates, powers, and duties of the DWR
+34   at the field level, except for policymaking which will be vested solely in the DWR.
+35
+36          The Bureaus, Services and Regional Offices shall each be headed by a Director,
+37   who shall be responsible for the efficient and effective discharge of the functions of the
+38   Bureau, Service, or Office concerned. The Bureau Director and Regional Director shall be
+39   assisted by one (1) Assistant Director.
+40
+41          The DWR shall retain existing Project Management Offices as may be required,
+42   which shall be under the supervision and control of the appropriate official determined
+43   by the Secretary of Water Resources.
+44
+
+
+
+                                                      DEPARTMENT OF WATER RESOURCES (DWR) ACT | 20
+ 1        Section 14. Attached Agencies. – The following agencies shall be attached to the
+ 2   DWR for purposes of policy and program coordination, monitoring, and evaluation:
+ 3
+ 4         (a) The Metropolitan Waterworks and Sewerage System (MWSS), whose
+ 5             mandate, powers, and functions are defined under RA 6234, as amended
+ 6             entitled, “An Act Creating the Metropolitan Waterworks and Sewerage
+ 7             System and Dissolving the National Waterworks and Sewerage Authority,
+ 8             and For Other Purposes, ” shall be transferred from the DENR and attached
+ 9             to the DWR: Provided, That the MWSS shall continue to facilitate the exercise
+10             by the concessionaires of their responsibility; carry out accounting and
+11             notification functions; monitor, report, and administer loans; perform related
+12             functions in connection with existing projects; manage, operate, and dispose
+13             its retained assets: Provided, further, That its regulatory arm, the MWSS–
+14             Regulatory Office, shall be fully absorbed by the Water Regulatory
+15             Commission created under this Act;
+16
+17         (b) The National Irrigation Administration (NIA), whose mandate, powers, and
+18             functions are defined under RA 3601 entitled “An Act Granting the National
+19             Irrigation Administration,” as amended by PD 552 and PD 1702; and
+20
+21         (c) The Laguna Lake Development Authority (LLDA), whose mandate, powers
+22             and functions are defined under RA 4850, as amended entitled “An Act
+23             Creating the Laguna Lake Development Authority, Prescribing Its Powers,
+24             Functions and Duties, Providing Funds Therefor, and For Other Purposes”
+25             shall be transferred from the DENR and attached to the DWR. The LLDA shall
+26             continue to serve as the lake management and development authority similar
+27             to a multi-stakeholder river basin organization and shall ensure the
+28             implementation of the Laguna Lake Master Plan which shall be updated by
+29             the DWR to ensure alignment with the NWRMP. The Secretary of Water
+30             Resources shall be the Chairperson of the Governing Boards of the
+31             aforementioned government-owned and controlled corporations to be
+32             attached under the DWR. In case existing laws, rules and regulations provide
+33             for a specific process in appointing the agency’s Chairperson, the Secretary of
+34             Water Resources shall serve as Co-Chairperson. Any other agency performing
+35             water resources management, conservation and protection functions may be
+36             transferred to the DWR as the President deems necessary.
+37
+38          Section 15. Offices, Functions and Personnel to be Completely Subsumed Under
+39   the DWR. – The following offices with their applicable powers, functions, personnel,
+40   funds and appropriations, records, equipment and property shall be subsumed under the
+41   DWR:
+42
+43         (a) The National Water Resources Board (NWRB) with its divisions and sections,
+44             whose mandate, powers and functions are provided in PD 424 creating the
+
+
+
+                                                     DEPARTMENT OF WATER RESOURCES (DWR) ACT | 21
+ 1      National Water Resources Council, now NWRB, as amended: Provided, That
+ 2      its water utility regulation units and functions vested under Commonwealth
+ 3      Act No. 146, also known as the Public Service Act, as amended, shall be
+ 4      absorbed by the Water Regulatory Commission created under this Act:
+ 5      Provided, further, That its resource allocation or regulation units vested under
+ 6      PD 1067 shall be absorbed by the National Water Resources Allocation Board
+ 7      and the Resource Allocation Office, also created under Section 18 of this Act;
+ 8
+ 9   (b) The Local Water Utilities Administration (LWUA) with its services,
+10       departments and divisions, whose mandate, powers and functions are
+11       provided for in Title Ill of Presidential Decree No. 198, as amended, otherwise
+12       known as the “Local Water Utilities Administration Law”: Provided, That its
+13       economic regulatory functions over local water districts shall be fully absorbed
+14       by the Water Regulatory Commission created under this Act. In the
+15       implementation of its functions, LWUA will be transformed into the Local
+16       Water Service Providers Bureau (LWSPB) which shall:
+17      (1) Furnish technical assistance and personnel training including training
+18          programs for accounting and fiscal practices of local water service
+19          providers;
+20      (2) Monitor and evaluate compliance with local water standards of water
+21          service providers; and
+22      (3) Effect system integration, joint investment and operation, district
+23          annexation and de-annexation whenever economically warranted, in
+24          accordance with Section 50 of PD No. 198, as amended by Section 22, PD
+25          No. 768. The authority of LWUA to review, approve and regulate the tariff
+26          rates of local water utilities to whom it has extended loans or other
+27          financing under Section 64 of PD No. 198, as amended, is hereby transferred
+28          to the Water Regulatory Commission as provided in this Act;
+29
+30   (c) The River Basin Control Office (RBCO) of the DENR whose mandate, powers
+31       and functions are provided in Executive Order (EO) No. 510, Series of 2006 and
+32       EO 816, Series of 2009, as amended: Provided, That its function pertaining to
+33       watershed reforestation activities shall be transferred to the DENR-Forest
+34       Management Bureau, but the targeting of priority watershed areas shall be
+35       coordinated with the DWR;
+36
+37   (d) The Manila Bay Coordinating Office of the DENR which was strengthened by
+38       virtue of DENR Administrative Order 2011-01 to coordinate the efforts of the
+39       fourteen (14) national agencies covered by the Mandamus Order of the
+40       Supreme Court to rehabilitate Manila Bay;
+41
+42   (e) The Water Supply and Sanitation Unit of the Department of the Interior and
+43       Local Government (DILG); and
+44
+
+
+
+                                                DEPARTMENT OF WATER RESOURCES (DWR) ACT | 22
+ 1         (f) The Water Resources Management Office of the DENR whose mandate,
+ 2             powers and functions are provided in EO 22, series of 2023.
+ 3
+ 4          Section 16. Functions to be Transferred to the DWR. – The following functions of
+ 5   the respective agencies, bureaus, and units shall be transferred to the DWR:
+ 6
+ 7         (a) The planning, programming, administration, monitoring, management of the
+ 8             National Sewerage and Septage Management Program (NSSMP) of the
+ 9             Department of Public Works and Highways (DPWH); and
+10
+11         (b) The following functions of the dissolved Pasig River Rehabilitation
+12             Commission and transferred to the Manila Bay Task Force per EO 93, series of
+13             2019:
+14             (1) Updating and leading in the overall implementation of the Pasig River
+15                 Rehabilitation Master Plan; and
+16             (2) Ensuring that the easements provided for in the Civil Code and other
+17                 relevant laws are enforced, especially in all the esteros and waterways as
+18                 well as abating the dumping of untreated wastewater and sewage into
+19                 water systems, including all acts and omissions in violation of PD 984, as
+20                 amended, and other related laws.
+21
+22                               CHAPTER III
+23                      INTERDEPARTMENTAL RELATIONS
+24           AND INSTITUTIONAL ARRANGEMENTS OF THE DEPARTMENT
+25
+26         Section 17. Interface and Institutional Arrangements with Other Agencies. –
+27
+28         (a) The Department of Health (DOH) shall continue to have primary authority and
+29             responsibility for setting and enforcing drinking water quality standards. The
+30             DWR shall coordinate with the DOH in this aspect, and shall ensure
+31             consistency of standards and targets, as well as the compliance of permittees
+32             with mandated standards;
+33
+34         (b) The DENR shall continue to have primary authority and responsibility for
+35             protecting the environment and managing the country’s watersheds. Further,
+36             the Pollution Adjudication Board shall remain to have jurisdiction with respect
+37             to adjudication of pollution cases based on exceedance of the DENR Effluent
+38             Standards and other acts defined as prohibited under Section 27 of RA 9275
+39             and filed by this DWR. Furthermore, the DWR shall coordinate with the DENR
+40             regarding the establishment of protocols for management of all water-related
+41             data being collected by the DENR;
+42
+
+
+
+
+                                                     DEPARTMENT OF WATER RESOURCES (DWR) ACT | 23
+ 1   (c) The Department of Energy (DOE) and the National Power Corporation shall
+ 2       ensure that hydropower plant development plans are consistent with the
+ 3       National Water Development and Management Plan;
+ 4
+ 5   (d) The DWR shall coordinate with the Department of Agriculture (DA) to ensure
+ 6       agricultural development that reduces long-term pollution for surface water
+ 7       and groundwater, and agricultural and industrial economic development that
+ 8       employs water efficiency, water recycling or reuse, and the appropriate
+ 9       treatment of wastewater. Furthermore, the DWR shall coordinate with the DA
+10       and its Bureau of Soils and Water Management (BSWM) regarding the
+11       establishment of protocols for management of all water-related data being
+12       collected by DA, as well as the outputs of research and studies by BSWM which
+13       may serve as input to policy formulation by the DWR;
+14
+15   (e) The DWR shall coordinate with the National Disaster Risk Reduction and
+16       Management Council to ensure that its plans and designs for flood control,
+17       flood risk management and drought risk management are aligned with the
+18       objectives and plans of the DWR;
+19
+20   (f) The DWR shall coordinate with Climate Change Commission, Philippine
+21       Atmospheric, Geophysical and Astronomical Services Administration, and
+22       National Mapping and Resource Information Authority for scientific studies,
+23       integrated surveys, mapping, charting, and decision support systems;
+24
+25   (g) The DWR shall coordinate with the Department of Tourism (DOT) on
+26       recreational or visual use of water resources;
+27
+28   (h) The DWR shall coordinate with the Philippine Reclamation Authority,
+29       Tourism Infrastructure and Enterprise Zone Authority and economic zone
+30       authorities on water resources development and water requirements within
+31       reclamation areas, tourism development areas, and economic zones,
+32       respectively;
+33
+34   (i) The DWR shall coordinate with the Bangsamoro Autonomous Region in
+35       Muslim Mindanao (BARMM), specifically its Economic and Development
+36       Council, Disaster Risk Reduction and Management Council, and Ministry of
+37       Environment, Natural Resources and Energy, regarding the preparation of
+38       master plans of river basins that overlap with the inland waters within the
+39       BARMM’s jurisdiction, and ensure the alignment of these plans with the
+40       NWRMP and the Bangsamoro Development Plan and other related regional
+41       plans of BARMM;
+42
+43   (j) The DWR shall coordinate with the DPWH as regards the construction of water
+44       projects including flood control and other related projects within the purview
+
+
+
+                                               DEPARTMENT OF WATER RESOURCES (DWR) ACT | 24
+ 1             of the DPWH: Provided, That the flood management plans are aligned with the
+ 2             NWRMP, and that flood waters be considered and harnessed as potential water
+ 3             source: Provider, further, That the DWR shall coordinate with the DPWH
+ 4             regarding the establishment of protocols for management of all water-related
+ 5             data being collected by the DPWH and its Bureaus;
+ 6
+ 7         (k) The DWR shall coordinate with the LGUs that own the specific areas or land
+ 8             where raw water will be sourced, as regards the implementation of Section 38
+ 9             of this Act, specifically on the sharing of the total income generated from raw
+10             water pricing;
+11
+12         (l) The DWR shall coordinate with the Department of Human Settlements and
+13             Urban Development (DHSUD) in planning, monitoring and enforcing
+14             integrated land use and water resources management in the Comprehensive
+15             Land Use Development Plans and Zoning Ordinances of the LGUs to ensure,
+16             among others, the protection of water sources and that water availability is
+17             factored in proposed land use development plans and projects;
+18
+19         (m)The DWR shall coordinate with relevant government agencies, including
+20            LGUs, with respect to development projects and shall ensure cross-cutting
+21            collaboration between and among all water subsectors and facilitate inter-
+22            agency subsector coordination, strategic development, planning, monitoring
+23            and provision of technical, institutional and financial capacity building support
+24            to their different stakeholders at the water subsector level; and
+25
+26         (n) All other departments and agencies of the government implementing water-
+27             related functions and projects shall ensure that the programs and projects are
+28             consistent with the national water management plan of the DWR.
+29
+30                               CHAPTER IV
+31               NATIONAL WATER RESOURCES ALLOCATION BOARD
+32                   AND THE RESOURCE ALLOCATION OFFICE
+33
+34          Section 18. Reconstitution of the National Water Resources Board (NWRB) as the
+35   National Water Resources Allocation Board. – The NWRB is hereby reconstituted and
+36   shall henceforth be known as the National Water Resources Allocation Board (NWRAB).
+37   The water resources allocation and regulation functions of the NWRB are hereby
+38   transferred to the NWRAB, which shall supervise the effective appropriation and
+39   regulation of the water resources in the country in accordance with PD 1067.
+40
+41          The NWRAB shall be composed of the Secretary of Water Resources as the Chair,
+42   with the Secretary of Environment and Natural Resources as the Vice-Chairperson, and
+43   the heads of agencies of the DEPDev, Department of Justice (DOJ), Department of Science
+
+
+
+
+                                                      DEPARTMENT OF WATER RESOURCES (DWR) ACT | 25
+ 1   and Technology (DOST), and the University of the Philippines – National Hydraulic
+ 2   Research Center, as members.
+ 3
+ 4          Section 19. Functions of the NWRAB. – The NWRAB shall perform the following
+ 5   functions:
+ 6
+ 7         (a) Promulgate, among others, rules and regulations for the exploitation and
+ 8             optimum utilization of water resources, in accordance with PD 1067 and other
+ 9             existing laws, including the imposition on water appropriators of such fees or
+10             charges by the DWR: Provided, That the imposition and collection of such fees
+11             and charges shall be implemented by the DWR;
+12
+13         (b) Approve the guidelines and processes pertaining to water regulation, as
+14             recommended by the Secretariat;
+15
+16         (c) Review and decide on requests for permits to extract or utilize the country’s
+17             water resources and grant the corresponding water rights, upon
+18             recommendation of the Resource Allocation Office: Provided, That the water
+19             rights are exercised within five (5) years of granting of such rights: Provided,
+20             further, That applicants for water permits shall submit proof of land ownership
+21             of, or right to use the property where the water source is located: Provided,
+22             finally, That, if the applicant is currently using the water source being applied
+23             for domestic or municipal purposes upon effectivity of this Act, such applicant
+24             may submit such proof of prior use of possession of said property in lieu of
+25             ownership or right to use;
+26
+27         (d) Exercise appellate jurisdiction over decisions in cases involving the following:
+28            (1) Violations and disputes relating to the appropriation, utilization,
+29                exploitation, development, control, conservation and protection of waters;
+30            (2) Violations and disputes on raw water fees; and
+31            (3) Violations and disputes involving water permits, administrative allocation
+32                of water resources and transfer of water rights;
+33
+34         (e) Issue subpoena duces tecum and subpoena ad testificandum;
+35
+36         (f) Cite any person or party in contempt for refusal to appear, testify or comply
+37             with the lawful orders of the Board in relation to any matter subject to its
+38             investigation;
+39
+40         (g) Hear, receive evidence, and decide on cases falling within its jurisdiction;
+41
+42         (h) Impose the appropriate sanctions over violations committed by appropriators
+43             in accordance with existing laws, rules and regulations as well as future rules
+44             and regulations which the Board shall promulgate;
+
+
+
+                                                      DEPARTMENT OF WATER RESOURCES (DWR) ACT | 26
+ 1
+ 2          (i) Review, update, and revise all fees, charges, and penalties imposed on all water
+ 3              appropriators as stated under Chapter VII and VIII of PD 1067, upon
+ 4              recommendation by the Secretariat, and based on scientific and evidence-based
+ 5              studies;
+ 6
+ 7          (j) Delegate specific tasks vested unto the NWRAB that may be undertaken by the
+ 8              Executive Director, as may be necessary;
+ 9
+10          (k) Promulgate its own rules and procedures; and
+11
+12          (l) Exercise such other powers as may be necessary to carry out its duties and
+13              responsibilities under this law.
+14
+15         No injunction may be issued by any court to restrain any proceeding before the
+16   Board except on the basis of question of law by the Supreme Court on certiorari.
+17
+18           Every order or decision rendered by the NWRAB shall be in writing and shall state
+19   clearly and distinctly the facts and the law on which it is based. The NWRAB shall decide
+20   each case or application within thirty (30) days following its formal submission for
+21   resolution. It shall publish and make available for public inspection all decisions and final
+22   orders including those in the adjudication of contested cases or applications.
+23
+24          Section 20. Resource Allocation Office. – There is hereby created a Resource
+25   Allocation Office (RAO) which shall be attached to the DWR. It shall serve as Secretariat
+26   to the NWRAB and shall exercise the following functions in order to provide technical
+27   support to the Board towards the effective regulation of the country’s water resources:
+28
+29          (a) Advise the NWRAB on all matters relating to resource allocation and
+30              regulation;
+31          (b) Formulate rules and regulation for the exploitation and optimum utilization of
+32              surface water, groundwater, and seawater extraction and use, for the approval
+33              of the NWRAB, and for implementation by the RAO, including the processes
+34              for the application of water permits, in accordance with PD 1067 and other
+35              existing laws;
+36          (c) Process applications of rights to utilize water resources for the appropriate,
+37              optimal and sustainable use of surface and ground water, for the approval of
+38              the NWRAB or its Executive Director, as may be delegated by the Board;
+39          (d) Upon approval by the NWRAB, issue water permits granted to water
+40              appropriators;
+41          (e) Monitor performance of water rights grantees including, among others,
+42              ensuring that water utilization is in accordance with the terms of the permits
+43              granted unto them;
+44          (f) Investigate, motu proprio, violations of the water rights and the Water Code;
+
+
+
+                                                        DEPARTMENT OF WATER RESOURCES (DWR) ACT | 27
+ 1          (g) In the case of violations and conflicts between and among users, file the
+ 2              necessary cases for the decision of the NWRAB;
+ 3          (h) Enforce the decisions promulgated by the NWRAB;
+ 4          (i) Coordinate with other relevant units of the DWR regarding the generation,
+ 5              updating, managing, and sharing of water data relevant to each other’s
+ 6              performance of functions;
+ 7          (j) Respond to consumer complaints, and ensure the adequate promotion of
+ 8              consumer interests; and
+ 9          (k) Perform such other related functions and activities which are necessary for the
+10              effective regulation of water-related services.
+11
+12          The Office shall be headed by an Executive Director which shall have the rank of
+13   an Undersecretary, and shall be assisted by one (1) Deputy Executive Director which shall
+14   have the rank of an Assistant Secretary.
+15
+16                                    CHAPTER V
+17                           WATER REGULATORY COMMISSION
+18
+19           Section 21. Water Regulatory Commission (WRC). – There is hereby created and
+20   established as an independent, quasi-judicial regulatory body to be known as the Water
+21   Regulatory Commission (WRC), which shall be organized within one hundred eighty
+22   (180) days after the effectivity of this Act. The WRC shall have a Board of Commissioners,
+23   and shall be vested with powers and functions, as conferred and set forth hereunder.
+24
+25          Section 22. Powers and Functions of the WRC. – The overall authority and powers
+26   of the WRC shall cover and apply to all service providers, whether private or public,
+27   providing or intending to provide water supply, including suppliers to subdivisions or
+28   other service providers, sewerage, or septage treatment and disposal services for
+29   domestic, residential, institutional, industrial or commercial use.
+30
+31          The WRC shall exercise the following powers and functions:
+32          (a) Issue and promulgate rules, regulations and guidelines as may be necessary
+33              to implement and enforce its powers and functions under this Act;
+34
+35          (b)   Promulgate and enforce just and reasonable technical standards,
+36                classifications and measurements of service: Provided, That local water
+37                districts, LGU-run and private utilities, especially level II and III water
+38                service providers found performing significantly below prescribed standards
+39                shall be required to submit a Public Service Improvement Plan with
+40                committed performance improvements with a one-year implementation
+41                timeframe: Provided, further, That unjustifiable failure to implement
+42                provisions of, or meet commitments in, the Public Service Improvement Plan
+43                shall be cause for dissolution, consolidation, privatization, or management
+44                takeover of the local water district: Provided, finally, That the WRC shall have
+
+
+
+                                                        DEPARTMENT OF WATER RESOURCES (DWR) ACT | 28
+ 1         the power to cause such dissolution, consolidation, privatization, or
+ 2         management takeover and shall mandate the DWR to implement the same;
+ 3
+ 4   (c)   Coordinate with the DWR in the implementation of intervention,
+ 5         consolidation, dissolution, privatization, or takeover, and shall ensure the
+ 6         continuity of delivery of public service;
+ 7
+ 8   (d)   Coordinate with the Philippine Competition Commission (PCC) and provide
+ 9         technical support in the WRC’s exercise of authority and jurisdiction to
+10         establish rules and enforce regulations to monitor, investigate, provide
+11         remedies for, and provide inputs in the Philippine Competition WRC’s
+12         hearings and deliberations on cases involving any market power abuse or
+13         anti-competitive or discriminatory act or behavior by or against any
+14         participant in the water supply and sanitation sector, excluding only those
+15         agreements involving projects that are not considered natural monopolies,
+16         including in respect of the determination of whether any merger, acquisition,
+17         joint venture or other transaction, agreement or arrangement by, between or
+18         among water service providers or any participant in the water supply and
+19         sanitation sector is anti-competitive or will substantially prevent, restrict or
+20         lessen competition in the relevant market. Without prejudice to the actions
+21         that the Philippine Competition Commission, pursuant to RA 10667, may
+22         undertake on its own, the WRC may be directed by the Philippine
+23         Competition Commission, upon finding that a market participant has
+24         engaged in, or fell victim to such act or behavior, to stop or redress the same
+25         within the functions and powers granted to the WRC under this Act;
+26
+27   (e)   Issue licenses authorizing the operation of water supply and sanitation
+28         services, including community water services, in any specified area or areas
+29         with water supply and sanitation services in any specified area in the
+30         Philippines: Provided, That any license to use water resources or operate water
+31         supply and sanitation services shall be considered expired if not exercised by
+32         the licensee within five (5) years upon the date of issuance;
+33
+34   (f)   Impose and collect annual levies, and reasonable fees and surcharges as may
+35         be necessary for achieving the purposes, powers and functions of the WRC:
+36         Provided, That the rate of annual levies and fees shall be determined strictly
+37         on a partial cost recovery basis for the reasonable and actual cost of
+38         regulation: Provided, further, That nothing in this section shall be construed as
+39         authorizing the WRC to impose and collect ad valorem annual levies;
+40
+41   (g)   With due regard to the standardized pricing framework developed by the
+42         DWR pursuant to Section 7(h) of this Act, review, determine, fix and approve,
+43         consistent with the rules, guidelines, procedures and methodologies which
+44         the WRC shall provide, proposed water and sewerage and septage
+
+
+
+                                                 DEPARTMENT OF WATER RESOURCES (DWR) ACT | 29
+ 1         management tariffs, rates and charges that licensees may impose upon their
+ 2         consumers. The sewerage and septage management tariffs, rates and charges
+ 3         may be in the form of an environmental fee based on the actual water
+ 4         consumption of the consumers for regular conduct of desludging and fixed
+ 5         fees for emergency desludging.
+ 6
+ 7         The WRC shall endeavor to adopt a local pricing framework, which shall
+ 8         provide for the minimum water, sewerage and septage management rates
+ 9         and allow for uniform adjustments to the consumer price index, or foreign
+10         exchange, as applicable, across one or more areas: Provided, That service
+11         providers may apply for adjustments to the tariff rates taking into
+12         consideration their actual and proposed expenditures in the construction,
+13         operation, and maintenance of their respective water, sewerage, and septage
+14         management systems.
+15
+16         All applications for the imposition or adjustment of water and sewerage and
+17         septage tariffs, rates and charges shall be acted upon by the WRC within a
+18         period of four (4) months. If the WRC fails to issue a decision or resolution
+19         within said prescribed period, the application shall be deemed approved;
+20
+21   (h)   Appraise and value property and equipment used by licensees in providing
+22         water supply and sanitation services and, for this purpose, develop a
+23         database for the value of the property and equipment used by the licensees
+24         in providing water supply and sanitation services by requiring each licensee
+25         to submit, on a periodic basis, an appraisal report covering such assets duly
+26         signed and sealed by an appraisal firm duly accredited by the Securities and
+27         Exchange Commission: Provided, That unless otherwise expressly warranted,
+28         the value of such property and equipment as determined by such
+29         independent appraisal firms shall be presumed a true and reasonable
+30         valuation thereof;
+31
+32   (i)   Enforce technical, financial, and other performance standards set by the WRC
+33         for licensees or utilities;
+34
+35   (j)   Respond to consumer complaints and ensure the adequate promotion of
+36         consumer interests and investigate motu propio violations of Sections 27, 28
+37         and 29 of this Act;
+38
+39   (k)   Investigate accidents directly or indirectly arising from or connected with the
+40         maintenance or operation of the service, and make such order or
+41         recommendation as the public interest may warrant;
+42
+43   (l)   Require the review or approval of contracts or agreements that may impact
+44         on the tariff and rates of service provision entered into by service providers
+
+
+
+                                                DEPARTMENT OF WATER RESOURCES (DWR) ACT | 30
+ 1         upon petition or motu propio wherein its determination public interest so
+ 2         dictates;
+ 3
+ 4   (m) Require the submission of reports, plans, and other documents that define
+ 5       the performance targets of the licensees or utilities, and regular
+ 6       accomplishment reports;
+ 7
+ 8   (n)   Conduct benchmarking and monitor the performance of licensees or utilities
+ 9         under their jurisdiction, and publish reports detailing the results thereof;
+10
+11   (o)   Amend, modify, suspend, or revoke any license issued by them, after due
+12         notice and hearing, on any of the following grounds: (1) when the facts and
+13         circumstances on the strength of which the license was issued have been
+14         materially misrepresented or have materially changed; (2) where the licensee
+15         has failed to meet or comply with terms, conditions, and performance targets,
+16         including but not limited to service expansion, that may have targets,
+17         including but not limited to service expansions, that may have been set in the
+18         license; (3) where the licensee is found to be manifestly inefficient in the
+19         operation of or provision of water supply and sanitation services in its area;
+20         or (4) when the licensee thereof has violated or willfully refused to comply
+21         with any order, rule or regulation of the WRC or any provision of this Act;
+22
+23   (p)   Appoint an interim management committee to ensure continuity of service
+24         in case a licensee, including those run by local government units, or local
+25         water districts, fails to meet the conditions of the license;
+26
+27   (q)   Adopt and require that books, records, and accounts be kept and maintained
+28         in accordance with the prescribed uniform accounting system;
+29
+30   (r)   Fix and determine, for rate-setting purposes, the proper and adequate rates
+31         of depreciation of properties and equipment used in water supply and
+32         sanitation services;
+33
+34   (s)   Impose and collect annual levies and reasonable fees and surcharges as may
+35         be necessary for achieving the purposes, powers and functions of the WRC;
+36
+37   (t)   Require the submission of reports on finances and operations, verified under
+38         oaths by the owner or president and secretary of the board of the licensee;
+39
+40   (u)   Determine and require the monitoring and submission of such data, statistics
+41         and other information from any or all licensees as may be necessary for the
+42         effective and efficient exercise of its duties, functions, powers and
+43         responsibilities;
+44
+
+
+
+                                                DEPARTMENT OF WATER RESOURCES (DWR) ACT | 31
+ 1   (v)   Investigate, motu propio or upon a written complaint, any matter concerning
+ 2         the operation of the service and violations of Sections 28 and 29 and other
+ 3         provisions of this Act, including alleged inefficient or inappropriate
+ 4         performance of obligations by water service providers, and, after due
+ 5         process, render decisions thereon within one (1) year;
+ 6
+ 7   (w) Impose penalties and fines against any licensee or against its owners,
+ 8       directors, officers, agents or representatives for any violation of this Act or of
+ 9       the license, order, rule regulation or requirement issued by the WRC;
+10
+11   (x)   Require any licensee to pay the actual expenses incurred by the WRC in any
+12         investigation if it shall be found that a licensee violated any provision of this
+13         Act or of the license, order, rule, regulation or requirement issued by the
+14         WRC;
+15
+16   (y)   Advise, apprise and coordinate with other relevant agencies of the national
+17         or local government on any matter relating to water supply and sanitation
+18         services;
+19
+20   (z)   Deputize agents, whether from the public or private sector, to assist in the
+21         performance of any of the powers and functions of the WRC;
+22
+23   (aa) Appoint an interim or temporary management committee upon appeal and
+24        after due hearing, to ensure continuity of service in case a licensee, including
+25        those run by local government units, or local water districts, fails to meet
+26        conditions of the license;
+27
+28   (bb) Appoint, hire and maintain adequate staff and personnel, advisers, or
+29        consultants, with suitable qualifications and experience, as necessary;
+30
+31   (cc) Exercise original and exclusive jurisdiction over all cases involving disputes
+32        between and among participants or stakeholders in the water supply and
+33        sanitation services;
+34
+35   (dd) Issue rules and regulations on terms and conditions prescribing minimum
+36        and mandatory terms for concession agreements, joint venture agreements,
+37        management agreements, service contracts or other contractual
+38        arrangements that may be entered into by government entities including
+39        local water utilities and local government units and private sector entities or
+40        other water service providers for the provision of water or sanitation services,
+41        such as the (i) the term, scope and total cost of the activity, which may be
+42        subdivided into phases; (ii) committed contributions and corresponding
+43        performance security requirements in accordance with any agreed phased
+
+
+
+
+                                                 DEPARTMENT OF WATER RESOURCES (DWR) ACT | 32
+ 1          implementation of the activity; and (iii) cost recovery schemes and
+ 2          percentage of the parties’ share in the profits and losses, among others;
+ 3
+ 4   (ee) Upon the recommendation of the DWR, and after due notice and hearing,
+ 5        terminate or cancel water permits issued and outstanding as of the date of
+ 6        the effectivity of this Act to any government or private sector entities to
+ 7        ensure optimal and efficient use of water resources. The WRC shall
+ 8        principally rely on the prima facie findings of the DWR, acting on the basis
+ 9        of information, records and reports submitted by any holders of such water
+10        permits as of the effectivity date of this Act, that the water resource covered
+11        by such water permits have not been substantially utilized or no substantial
+12        water works facilities, systems or other infrastructure has been constructed
+13        in pursuit thereof, in each case, for a period one (1) year from the date of
+14        issuance thereof, or if the water is used, totally or partially, for any purpose
+15        other than those approved in the water permit. The WRC shall decide on the
+16        recommendation for the DWR within six (6) months from receipt of the
+17        recommendation. The WRC by itself may exercise this function;
+18
+19   (ff)   Issue rules, guidelines, procedures, and methodologies for the determination
+20          of the appropriate water and sewerage and septage management tariffs, rates
+21          and charges and review and confirm such tariffs;
+22
+23   (gg) Issue rules, guidelines, procedures and methodologies for the computation
+24        of any adjustment of any approved water and sewerage and septage
+25        management tariffs, rates and charges based on the prevailing consumer
+26        price index or foreign exchange adjustments set by the appropriate national
+27        government agency, or any other factors customary in the water or sanitation
+28        industries which require adjustment or rebasing of the tariffs, which
+29        adjustment shall be implemented automatically subject to a thirty (30) day
+30        prior written notice to the WRC;
+31
+32   (hh) Determine the existence of any material adverse government action which
+33        has a material and adverse effect on any of the rights and privileges of, or on
+34        the enjoyment or exercise thereof by the licensees, or which has a material
+35        and adverse effect on the licensees’ ability to comply with their financial or
+36        other contractual obligations to provide water or sanitation services, and
+37        determine the appropriate remedial measures therefor, which may include
+38        compensation or extension of permits or licenses; and
+39
+40   (ii)   Perform such other incidental powers and functions as may be necessary to
+41          attain the objectives of this Act.
+42
+43   Section 23. Composition of the WRC. –
+44
+
+
+
+                                                DEPARTMENT OF WATER RESOURCES (DWR) ACT | 33
+ 1   (a) The WRC shall be a collegial body composed of five (5) full-time members
+ 2       consisting of a Chairperson and four (4) members, who shall all be appointed
+ 3       by the President. All members of the WRC must be citizens and residents of
+ 4       the Philippines, at least thirty-five (35) years of age, and of good moral
+ 5       character, of recognized integrity and competence in the field of law, business,
+ 6       commerce, finance, accounting or public administration, water or utility
+ 7       economics, management, physical or engineering services, hydrology and
+ 8       other related services, with at least three (3) years of actual and distinguished
+ 9       experience in their respective fields of expertise: Provided, That out of the four
+10       (4) members of the WRC, at least one (1) shall be a member of the Philippine
+11       Bar with at least ten (10) years of experience in the active practice of law, at
+12       least one (1) shall be a certified public accountant with at least ten (10) years of
+13       experience in active practice, and at least one (1) shall be a licensed engineer
+14       with experience in the water sector.
+15
+16   (b) The term of office of each member of the WRC shall be seven (7) years: Provided,
+17       That among the members first appointed, the Chairperson shall serve for a
+18       period of seven (7) years, two (2) members shall serve for five (5) years and the
+19       other two (2) members shall serve for three (3) years: Provided, further, That any
+20       member whose term has expired as specified herein shall serve as such until a
+21       successor shall have been appointed and qualified: Provided, furthermore, That
+22       any appointment to fill a vacancy in the WRC arising from death, removal,
+23       retirement or resignation shall be made only for the unexpired term: Provided,
+24       finally, That in no case shall any member serve for more than seven (7) years in
+25       the WRC.
+26
+27   (c) The WRC shall meet as often as may be necessary on such day or days as the
+28       Chairperson may fix. The presence of at least three (3) members of the WRC
+29       shall constitute a quorum, which shall be necessary for the transaction of any
+30       business. The affirmative vote of majority of the members of the WRC where a
+31       quorum is present shall be necessary for the adoption of any order, resolution,
+32       decisions, or other act of the WRC in the exercise of its quasi-judicial functions:
+33       Provided, That in promulgating rules, regulations, guidelines and in exercising
+34       its quasi-legislative functions, an affirmative vote of three (3) members shall be
+35       required.
+36
+37   (d) The Chairperson of the WRC shall exercise general executive control and
+38       supervision over the WRC and its members, staff and personnel, agents and
+39       representatives. Within three (3) months from the creation of the WRC and the
+40       appointment of all Members of the WRC, the Chairperson shall determine and
+41       establish the organizational structure and plantilla positions necessary to carry
+42       out the powers and functions of the WRC subject to the review and approval
+43       of the Department of Budget and Management (DBM).
+44
+
+
+
+                                                  DEPARTMENT OF WATER RESOURCES (DWR) ACT | 34
+ 1             The plantilla positions of the WRC shall be filled by regular appointments in
+ 2             accordance with Civil Service laws, rules, and regulations. Members of the
+ 3             WRC shall enjoy security of tenure and shall not be suspended or removed
+ 4             from office except for just cause as specified by law.
+ 5
+ 6          (e) The Chairperson and members of the WRC or any of their relatives within the
+ 7              fourth civil degree of consanguinity or affinity, legitimate or common law,
+ 8              shall be prohibited from holding any interest whatsoever, either as investor,
+ 9              stockholder, officer or director, in any company or entity engaged in provision
+10              of water supply and distribution, septage management and sewerage services
+11              and must, therefore, divest through sale or legal disposition of any and all
+12              interests in the water sector upon assumption to office.
+13
+14          Section 24. Secretariat of the WRC. – The WRC shall establish a Secretariat which
+15   shall provide the WRC with technical and support services including the following:
+16
+17          (a) Provide the necessary technical inputs and secretariat support to the WRC to
+18              facilitate the conduct of its functions;
+19
+20          (b) Maintain a database on the water supply and sanitation subsector; and
+21
+22          (c) Coordinate with other relevant agencies of the national or local government
+23              on any matter relating to water supply and sanitation.
+24
+25           Section 25. Executive Director. – The WRC shall appoint an Executive Director
+26   who shall head the Commission Secretariat, keep and maintain the official records of the
+27   WRC, render a report on the proceedings of the WRC, and administer oaths in all matters
+28   falling within the jurisdiction of the WRC.
+29
+30          The Executive Director shall be responsible for the effective implementation of the
+31   policies, plans, programs, rules, regulations and directives of the WRC; coordinate and
+32   supervise the activities of the different operating units under the WRC; and perform such
+33   functions as may be assigned by the Chairperson or other members of the WRC.
+34
+35         Section 26. Compensation and Other Emoluments. – The compensation of the
+36   members of the WRC and its staff shall conform to the provisions of RA 6758, as amended,
+37   otherwise known as the Compensation and Position Classification Act of 1989, as
+38   amended, and other relevant laws.
+39
+40                                    CHAPTER VI
+41                            REGISTRATION AND LICENSING
+42
+43          Section 27. Registration and Licensing of All Water Supply and Sanitation
+44   Services. – All water supply and sanitation service providers, including bulk water
+
+
+
+                                                      DEPARTMENT OF WATER RESOURCES (DWR) ACT | 35
+ 1   suppliers and those providing services to subdivisions and other service providers, shall
+ 2   register with the WRC and, subject to its rules, guidelines, procedures and other issuances
+ 3   of the WRC, obtain a license to operate from the appropriate regulatory units: Provided,
+ 4   That the WRC shall act on the application for the issuance or the conversion of such
+ 5   licenses and renewals thereof within the maximum period of one (1) year as provided
+ 6   under this Act or by RA 11032, otherwise known as the Ease of Doing Business and
+ 7   Efficient Government Service Delivery Act of 2018.
+ 8
+ 9           The WRC shall ensure that the grant and revocation of licenses are carried out
+10   fairly, transparently, and without discrimination. Issuances of the WRC shall specify,
+11   among others, the qualifications, requirements, and procedure for the grant and
+12   revocation of licenses including the standards and performance targets that shall
+13   continuously be complied with to keep the licenses valid. Unless otherwise provided in
+14   this Act or by the WRC, no public water supply and sanitation service provider shall
+15   commence or conduct the business of providing water supply and sanitation services
+16   without first obtaining a license. Concession agreements and other contracts for water
+17   supply provision and water sanitation and treatment services currently existing shall
+18   remain valid and enforceable unless otherwise terminated, after due notice and hearing
+19   for reasons provided in the existing terms and conditions under the concession or service
+20   agreement or contract, or when invalidated by the WRC, after due notice and hearing,
+21   where national security, national emergency or public interest so dictates.
+22
+23           Concession agreements, joint venture agreement, bulk water supply agreements,
+24   management and service agreements, and other contracts for water supply provision and
+25   water sanitation and treatment services currently existing shall remain valid and
+26   enforceable unless otherwise terminated, after due notice and hearing for reasons
+27   provided in the existing terms and conditions under the concession or service agreement
+28   or contract, or when invalidated by the WRC, after due notice and hearing, where national
+29   security, national emergency or public interest so dictates. Until the issuance of new or
+30   converted or updated registrations, licenses or permits, as contemplated under this Act,
+31   such existing concession agreements, joint venture agreements, bulk water supply
+32   agreements, management and service agreements and other contracts for water supply
+33   provision or water sanitation treatment services shall serve as the license or other legal
+34   basis for the authority to engage in water supply or sanitation services during the term
+35   thereof.
+36
+37          Section 28. Conditions of License. – The WRC may impose such conditions on the
+38   licensee as it may deem necessary, such as:
+39
+40          (a) Tariffs, rates and charges that may be imposed from its customers or
+41              consumers;
+42          (b) Term fixing the duration of the privilege;
+43          (c) Grounds for modification, suspension or cancellation of the License;
+44          (d) Minimum technical performance and service level standards;
+
+
+
+                                                       DEPARTMENT OF WATER RESOURCES (DWR) ACT | 36
+ 1          (e) Expansion targets and service level improvements over time;
+ 2          (f) Restrictions or conditions for transferability of the business or controlling
+ 3              interest in the business;
+ 4          (g) Reportorial requirements and obligations of the grantee; and
+ 5          (h) Submission to annual performance audit by the WRC or its duly authorized
+ 6              representative(s).
+ 7
+ 8           The WRC shall specify the requirements and procedure for existing holders of a
+ 9   Certificate of Public Convenience (CPC), Certificates of Public Convenience and Necessity
+10   (CPCN) issued by NWRB, or CoC issued by LWUA, to convert their existing certificates
+11   into licenses to operate in accordance with Section 27 hereof.
+12
+13          To ensure continuity of water and sanitation services, a CPC, CPCN, provisional
+14   authority or a CoC issued by NWRB or the LWUA prior to the effectivity of this Act shall
+15   remain valid for a period of five (5) years counted from the later of the date of issuance
+16   thereof or the date of effectivity of the implementing rules and regulations duly issued by
+17   the WRC for the conversion thereof into licenses to operate in accordance with this Act.
+18
+19           All local water utilities, existing water service providers or holders of CPCN or
+20   CoC shall be duly prioritized in the issuance of the licenses to operate over the areas where
+21   they currently operate or as may be covered by their franchises. The submission of the
+22   CPC, CPCN, provisional authority, or the CoC issued by the NWRB or LWUA shall be
+23   sufficient basis for the issuance of the new and converted or updated licenses to operate
+24   required and contemplated under this Act. To ensure continuity of service, the WRC shall
+25   complete the issuance of such converted or updated licenses not later than six (6) months
+26   from the effectivity of the implementing rules and regulations issued by the WRC
+27   pursuant to this Act.
+28
+29          All existing providers of water supply and sanitation services without a legal and
+30   valid CPC, CPCN, provisional authority or CoC shall register with the WRC for a license
+31   within six (6) months from the effectivity of this Act.
+32
+33          Section 29. Rights and Duties of Licensees. –
+34
+35          (a) Any person granted a license under this Act shall have the obligation to ensure
+36              that licensed activities are conducted to further public interest and, in
+37              particular:
+38              (1) Foster the maintenance and development of efficient, coordinated, and
+39                  viable operation of their licensed activities;
+40              (2) Ensure that their water supply and sanitation services are provided in a
+41                  diligent, conscientious and workman like manner, in accordance with
+42                  applicable laws, rules, and regulations issued by the WRC and the
+43                  generally accepted standards and practices of the water supply and
+44                  sanitation industry; and
+
+
+
+                                                        DEPARTMENT OF WATER RESOURCES (DWR) ACT | 37
+ 1              (3) Comply with drinking water quality requirements and standards that may
+ 2                  be established by the WRC and the DOH.
+ 3
+ 4          (b) Any person granted a license under this Act shall, to the extent allowed by law
+ 5              and specified in the license, has the right to acquire or lease land, lay or repair
+ 6              water or sanitation main lines and other relevant facilities in public ways to
+ 7              fulfill the terms and conditions under the license.
+ 8
+ 9          (c) Subject to any condition or limitation laid down in the license, a licensee may
+10              discontinue water supply and sanitation services to a customer if such
+11              customer defaults in the payment of fees due to the licensee for the water
+12              supplied or sanitation services provided, or for acts of pilferage pursuant to
+13              Sections 8, 9, 10, and 11 of RA 8041, otherwise known as the Water Crisis Act
+14              of 1995.
+15
+16          (d) Any license issued under this Act shall contain provisions designed to ensure
+17              that licensees:
+18              (1) Publish the tariff and other charges approved by and the terms and
+19                  conditions imposed by the WRC for the provision of water supply and
+20                  sanitation services;
+21              (2) Prepare, within three (3) months from the issuance of a license, in
+22                  consultation with its customers, a Customer Service Code specifying the
+23                  manner and procedure for: (a) metering, billing, and collection of the
+24                  licensee’s approved tariff and other charges, (b) disconnection or
+25                  suspension of service in case of non-payment of tariffs or other charges, or
+26                  acts of pilferage, and (c) recommendation and recovery of arrears in tariffs
+27                  and other charges;
+28              (3) Maintain financial accounts in accordance with the manner and procedure
+29                  specified in the license and as may be required by the WRC; and
+30              (4) Maintain and upon request by anyone during regular office hours,
+31                  promptly make available for scrutiny and inspection such data, statistics
+32                  and other information, as may be required by the WRC.
+33
+34          Section 30. Setting Tariffs, Rates, and Other Charges. – With due regard to the
+35   standardized pricing framework developed by the DWR pursuant to Section 7(h) of this
+36   Act, the WRC shall establish tariffs, rates and other charges which are fair and reasonable,
+37   and ensure economic viability and a fair return on investments.
+38
+39          Service providers may apply for the setting of tariffs, rates and charges based on
+40   and consistent with a rate-setting methodology that the WRC shall, after due consultation,
+41   define and publish, taking into account the following, among others:
+42
+43          (a) Reasonable and prudent capital and recurrent costs of providing the service
+44              including a reasonable rate of return on capital;
+
+
+
+                                                        DEPARTMENT OF WATER RESOURCES (DWR) ACT | 38
+ 1
+ 2          (b) Efficiency of the service;
+ 3          (c) Incentives for enhancement of efficiency;
+ 4          (d) Capacity to pay of the customers/consumers;
+ 5          (e) Equity considerations;
+ 6          (f) Administrative simplicity;
+ 7          (g) In cases involving valid and subsisting concession agreements prior to the
+ 8              enactment of this Act, the methodology provided under the Concession
+ 9              Agreement;
+10          (h) Compliance with obligations as set out under pertinent laws, jurisprudence,
+11              and, in cases involving valid and subsisting concession agreements prior to the
+12              enactment of this Act, the provisions of the Concession Agreement; and
+13          (i) To the fullest extent practicable, the terms and conditions of the tariffs, rates or
+14              other price-setting mechanisms set forth in any concession agreement, joint
+15              venture agreement or other similar agreement for the provision of water or
+16              sanitation services by an existing service provider.
+17
+18           Tariffs, rates and charges set shall be presumed valid and reasonable unless
+19   invalidated by the WRC, after due notice and hearing, acting on a protest or contest duly
+20   filed with the WRC to ensure continuity of service, application for setting of tariffs, rates
+21   and other charges shall be decided within a non-extendible period of ninety (90) days
+22   from the date of filing thereof, and the failure of the WRC to act on any such applications
+23   shall result in a provisional approval: Provided, That in no case shall proceedings on any
+24   applications for the setting of tariffs, rates and other charges exceed to a total period of
+25   one hundred twenty (120) days reckoned from the date of filing of the application.
+26
+27           Section 31. Direct Access. – Fifty-one percent (51%) of the registered water
+28   consumers in a service area, municipality, city or province may petition for direct access
+29   to water from any water service provider subject to concurrence by and reasonable
+30   compensation to the service provider and approval by the WRC. If the petition for direct
+31   access from any water service provider is approved by the WRC, the new water service
+32   provider shall reimburse the existing service provider for, as applicable, either the book
+33   value or the market value as determined by an independent appraiser accredited by the
+34   WRC, whichever is higher, of the water source, water supply or water distribution or
+35   transmission facilities, pipelines and other equipment which shall be transferred to or
+36   utilized by the new water service provider. The WRC shall promulgate the implementing
+37   rules and procedures for this mode of service, which shall include, among others, financial
+38   and technical capability of the new service provider.
+39
+40          Section 32. Innovative Schemes to Improve Efficiency and Management of
+41   Systems. – The WRC shall promote innovative schemes such as the consolidation or
+42   integration of water supply and sanitation services, or providers in the same service area,
+43   where it shall result in improved efficiency, service expansion and lower costs. To this
+44   end, the WRC shall establish and issue such rules and guidelines as may be necessary to
+
+
+
+                                                         DEPARTMENT OF WATER RESOURCES (DWR) ACT | 39
+ 1   (a) create incentives to encourage efficiency and service expansion; (b) establish the
+ 2   standards and targets that service providers are required to meet; and (c) define the fines
+ 3   and penalties that shall be imposed for failure to meet such standards and targets.
+ 4
+ 5                                  CHAPTER VII
+ 6                 QUASI-JUDICIAL FUNCTIONS OF THE COMMISSION
+ 7
+ 8          Section 33. Proceedings Before the WRC. – For the purpose of any investigation,
+ 9   inquiry or proceeding, the WRC shall:
+10
+11          (a) Issue subpoena duces tecum and subpoena ad testificandum;
+12          (b) Appoint hearing officers to hear and receive evidence on behalf of the WRC;
+13              and
+14          (c) Cite any person or party for contempt for refusal to appear, testify, or comply
+15              with an order of the WRC on any matter that is the subject of investigation,
+16              inquiry or proceeding before the WRC.
+17
+18          Section 34. Orders and Decisions of the WRC. – Any order, resolution, or decision
+19   of the WRC shall be promulgated promptly, expeditiously, reasonably, and in writing,
+20   and shall state clearly and distinctly the facts and law on which it is based. The WRC shall
+21   publish and make available for public inspection, all decisions and final orders in the
+22   adjudication of contested cases or applications.
+23
+24          Section 35. Appeals Procedure and Prohibition Against Injunction. –
+25
+26          (a) The orders, rulings, and decisions of the WRC are final and executory unless
+27              appealed to the Court of Appeals within fifteen (15) days from receipt of notice
+28              of such order, ruling or decision: Provided, That orders, rulings, and decisions
+29              of the WRC approving tariffs, shall be immediately executory and may be
+30              suspended only upon appeal and filing of a bond, in an amount to be fixed by
+31              the WRC, to answer for damages occasioned by the suspension or stay of
+32              execution of such orders, rulings, and decisions.
+33
+34          (b) No injunction may be issued by any court or administrative agency to restrain
+35              any proceeding before, or the implementation or execution of any order, ruling,
+36              or decision of the WRC, except on the basis of a question of law brought before
+37              the Supreme Court on certiorari.
+38
+39          (c) Any act or decision of the WRC shall not be invalidated merely because of a
+40              defect or irregularity in, or in connection with, the appointment or vacancy in
+41              the Office of the Chairperson or any other member of the WRC.
+42
+43                              CHAPTER VIII
+44              INTERDEPARTMENTAL RELATIONS OF THE COMMISSION
+
+
+
+                                                       DEPARTMENT OF WATER RESOURCES (DWR) ACT | 40
+ 1
+ 2          Section 36. Interface with Other Sector Regulators. –
+ 3
+ 4          (a) The DENR shall continue to exercise primary jurisdiction over programs aimed
+ 5              at protecting the environment and the quality of water sources from waste and
+ 6              pollution, and shall promulgate rules, regulations, and standards in this
+ 7              regard. The DOH shall continue to exercise primary jurisdiction over the
+ 8              determination and enforcement of standards for quality drinking water and
+ 9              sanitation.
+10
+11          (b) The WRC shall coordinate with the:
+12              (1) DOH to ensure that the standards and targets for quality drinking water
+13                  and sanitation are consistently complied with;
+14              (2) LGUs for development projects relating to water supply and sanitation; and
+15              (3) PCC for the provision of its technical advisory services in the exercise of the
+16                  exclusive authority and jurisdiction of the WRC to investigate and act on
+17                  any market power abuse or anti-competitive or discriminatory act or
+18                  behavior by or against any participant in the water supply and sanitation
+19                  sector.
+20
+21                                      CHAPTER IX
+22                                 TRANSITORY PROVISIONS
+23
+24          Section 37. Organizational Structure and Staffing Pattern. – The Secretary of the
+25   DWR and the Chairperson of the WRC shall determine the respective organizational
+26   structure and staffing pattern of the DWR and the WRC in accordance with the revised
+27   compensation and position classification system subject to the evaluation and approval of
+28   the DBM and in compliance with the civil service laws, rules and regulations and other
+29   relevant laws.
+30
+31           Section 38. Transfer of Rights and Functions. – The DWR shall, by virtue of this
+32   Act be subrogated to all the rights and assume all the functions of the government
+33   agencies and units whose powers and functions have been subsumed, absorbed,
+34   transferred or attached to the DWR. The WRC shall also, by virtue of this Act, be
+35   subrogated to all the rights, and assume all the functions, of the Water Utilities Division
+36   of the NWRB, the regulatory offices of MWSS and LWUA, the regulatory units of all
+37   special economic zones, and all other government agencies and units whose powers and
+38   functions have been transferred to the WRC in accordance with the rules and regulations
+39   of the Civil Service Commission (CSC).
+40
+41           The transfer of powers and functions to the DWR or the WRC of the concerned
+42   agencies as herein provided for, shall be deemed completed within twelve (12) months
+43   after the effectivity of this Act. All agencies transferred, subsumed and attached to the
+44   DWR or WRC shall continue to function under their present mandates until the six-month
+
+
+
+                                                        DEPARTMENT OF WATER RESOURCES (DWR) ACT | 41
+ 1   transition period mandated under this Act shall have lapsed. The transfer of powers and
+ 2   functions shall include all applicable funds, personnel, records, property and equipment,
+ 3   as may be necessary. The heads of the affected agencies shall continue to serve until
+ 4   replaced.
+ 5
+ 6          All rights and functions of the affected agencies are hereby transferred to and
+ 7   assumed by the DWR or WRC and shall be acted upon in accordance with the rules and
+ 8   regulations of the WRC on Audit and other pertinent laws, rules, and regulations.
+ 9
+10           Performance audit of all water-related agencies and institutions, including LWUA
+11   and water districts, MWSS, MWSS-RO and its concessionaires, LGU-run utilities, Tourism
+12   Infrastructure and Enterprise Zone Authority, Philippine Economic Zone Authority,
+13   Bases Conversion and Development Authority, Subic Bay Metropolitan Authority, DILG,
+14   and NIA, shall be conducted by the DWR.
+15
+16           Section 39. Absorption, Separation or Retirement from Service of Employees of the
+17   Subrogated Agencies. – The current employees of all government agencies and units
+18   whose powers and functions have been transferred to, absorbed or subsumed by the DWR
+19   or WRC shall enjoy security of tenure, in accordance with their staffing pattern and the
+20   selection process as prescribed under RA 6656 or the Government Reorganization Law.
+21   Employees opting to be separated from the service as a consequence of the consolidation,
+22   and reconstitution under the provisions of this Act shall, within one (1) month from their
+23   separation or phase out from the service, receive separation benefits in accordance with
+24   existing laws, and those who are qualified to retire shall be allowed to retire and be
+25   entitled to all benefits under existing retirement laws.
+26
+27                                       CHAPTER X
+28                                    FINAL PROVISIONS
+29
+30          Section 40. Applicability of Ease of Doing Business Law. – The prescribed
+31   processing time provided under Section 9(b) of RA 11032 shall be applicable to all agencies
+32   and LGUs covered under this Act particularly on accessing government services.
+33
+34           Section 41. Appropriations. – The amount necessary for the initial implementation
+35   of this Act shall be charged against the currents year’s appropriations of the agencies,
+36   entities, divisions, sections or units subsumed or transferred to the DWR. Thereafter, such
+37   amount shall be included in the annual General Appropriations Act.
+38
+39          Section 42. Water Trust Fund. – There is hereby created a Water Trust Fund in the
+40   Bureau of Treasury sourced from raw water pricing, permit fees, registration fees,
+41   supervision and regulation enforcement fees, filing fees, testing fees, payments for
+42   ecosystem services, and other service income from the use of water resources. The Trust
+43   Fund shall be administered by the DWR. The annual levies, and reasonable fees and
+44   surcharges as may be necessary for achieving the purposes, powers and function of the
+
+
+
+                                                       DEPARTMENT OF WATER RESOURCES (DWR) ACT | 42
+ 1   WRC under Section 22(f) of this Act shall also be remitted to the Water Trust Fund.
+ 2   Proceeds from the trust fund shall be utilized for water development, water sanitation
+ 3   and waste water treatment and management, and water sustainability programs and
+ 4   projects authorized under this Act: Provided, That a maximum of ten percent (10%) of the
+ 5   total proceeds generated from raw water extraction and all payments for ecosystem
+ 6   services shall be given as share of the concerned local government unit or indigenous
+ 7   peoples (IP) community who own the specific areas or land where the raw water was
+ 8   sourced: Provided, further, That the DWR shall prescribe standards for programs and
+ 9   projects where proceeds from payments for ecosystem services shall be utilized.
+10
+11         Section 43. Implementing Rules and Regulations. – Upon the effectivity of this Act,
+12   the DWR and the WRC, as may be applicable, as well as DEPDev, DBM, DENR, CSC, and
+13   the National Commission on Indigenous Peoples (NCIP) in consultation with concerned
+14   government agencies shall:
+15
+16          (a) Promulgate the rules and regulations of the DWR and the WRC necessary for
+17              the effective implementation of this Act within one hundred twenty (120) days
+18              after its effectivity; and
+19
+20          (b) Submit to the DBM the DWR’s and the WRC’s budget for fiscal year following
+21              the promulgation of its implementing rules and regulations; and implement
+22              the training of the personnel of the DWR and the WRC.
+23
+24           Section 44. Mandatory Review. – The DWR and the WRC shall conduct a review
+25   of the implementation of this Act at the end of the fifth (5th) year from the date of its
+26   effectivity and submit a report to Congress.
+27           ection 15. Reporting and Accountability. – The DWR shall submit an annual report
+28   to Congress on water resource status, policy implementation, and financial performance
+29   of the sector. All plans, data, and reports shall be published online.
+30
+31          Section 45. Separability Clause. – If any provision of this Act is declared
+32   unconstitutional, the remainder thereof not otherwise affected shall remain in full force
+33   and effect.
+34
+35          Section 46. Repealing Clause. –
+36
+37          (a) The following provisions are hereby repealed:
+38
+39             (1) Section 3(h) and Section 12 on the provision with respect to fixing of water
+40                 rates and sanitation service fees, Section 3 (n) on the provision with respect
+41                 to regulation of waterworks and deep wells, and Section 3 (p) on the
+42                 provision with respect to regulation of waterworks and sanitation systems
+43                 in privately owned subdivisions of RA 6234 entitled “An Act Creating The
+44                 Metropolitan Waterworks And Sewerage System And Dissolving The
+
+
+
+                                                       DEPARTMENT OF WATER RESOURCES (DWR) ACT | 43
+ 1          National Waterworks And Sewerage Authority, And For Other Purposes,”
+ 2          as amended;
+ 3      (2) Section 62, 63, and 66 of Title III on Local Water Utilities Administration
+ 4          Law of Presidential Decree No. 198 otherwise known as the Provincial
+ 5          Water Utilities Act of 1973, as amended by Letter of Instruction No. 700,
+ 6          series of 1978, Letter of Instruction No. 744, Series of 1978, EO 124, Series of
+ 7          1987, EO 123, Series of 2002, and EO 860, Series of 2010, on the regulation
+ 8          of water districts;
+ 9      (3) Section 1 of EO 124-A Series of 1987, amending EO 124, dated 30 January
+10          1987, Reorganizing the Department of Public Works and Highways,
+11          Redefining Its Powers and Functions, and For Other Purposes on
+12          reorganizing the National Water Resources Council into the National Water
+13          Resources Board;
+14      (4) EO 510 series of 2006 creating the RBCO, and EO 516 series of 2009
+15          declaring the RBCO under the DENR as lead government agency for the
+16          integrated planning, management, rehabilitation, and development of the
+17          country’s river basins; and
+18      (5) EO 22, Series of 2023 creating the Water Resources Management Office of
+19          the DENR.
+20
+21   (b) The following provisions are hereby amended accordingly:
+22
+23      (1) Section 3 paragraph 3 Commonwealth Act No. 146, as amended, pertaining
+24          to all cases involving the fixing of rates;
+25      (2) Section 154, Article V, Chapter I, Title One, Book II of RA 7160, as amended,
+26          otherwise known as the “Local Government Code of 1991”, and its
+27          implementing rules and regulations on the power of the LGUs to fix the
+28          rates of water utilities owned, operated and maintained by them within
+29          their jurisdiction is hereby repealed or modified accordingly;
+30      (3) Section 13(b) on the regulation of enterprises within the Economic Zone
+31          under RA 7916 as amended, otherwise known as “The Special Economic
+32          Zone Act of 1995”;
+33      (4) Section 69 of RA 9593, otherwise known as “The Tourism Act of 2009”, and
+34          its implementing rules and regulations which mandate the Tourism
+35          Infrastructure and Enterprise Zone Authority to grant franchises, supervise
+36          the operation of public utilities, and register, monitor and regulate
+37          enterprises within Tourism Enterprise Zones, are hereby repealed or
+38          modified accordingly;
+39      (5) Sections 7 of RA 9275, transferring the administration of the NSSMP from
+40          the DPWH to the DWR;
+41      (6) Articles 3(d) and Chapters VII and VIII of PD 1067 pertaining to the
+42          enforcement of the Water Code;
+43      (7) Section 15 (Conditions in Permits) of the Implementing Rules and
+44          Regulations (IRR) of PD 1067;
+
+
+
+                                                 DEPARTMENT OF WATER RESOURCES (DWR) ACT | 44
+ 1             (8) Section 3.2(b) EO 149, Series of 1993 transferring the Laguna Lake
+ 2                 Development Authority from the Office of the President to the DENR; and
+ 3             (9) EO 168, Series of 2022, which transferred the National Irrigation
+ 4                 Administration from the Office of the President to the DA.
+ 5
+ 6          All other laws, presidential decrees, executive orders, presidential proclamations,
+ 7   rules and regulations, or parts thereof which are inconsistent with the provisions of this
+ 8   Act are hereby repealed or amended accordingly.
+ 9
+10          Section 47. Effectivity. – This Act shall take effect fifteen (15) days after its
+11   publication in the Official Gazette or in a newspaper of general circulation.
+12
+13          Approved,
+
+
+
+
+                                                      DEPARTMENT OF WATER RESOURCES (DWR) ACT | 45
+
