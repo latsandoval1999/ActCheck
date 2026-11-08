@@ -1,0 +1,599 @@
+                                 Republic of the Philippines
+                              HOUSE OF REPRESENTATIVES
+                                       Quezon City                                 September 16, 2026
+                                                                                      3:51 pm
+                                      Twentieth Congress
+                                      2nd Regular Session
+                                      HOUSE BILL NO.___ 11365
+
+_____________________________________________________________________________
+           Introduced by Rep. Antonio T. Kho and Rep. Elisa “Olga” T. Kho
+_____________________________________________________________________________
+
+                                    EXPLANATORY NOTE
+
+The Philippine justice system continuously faces the challenge of solving crimes efficiently,
+accurately, and fairly. Modern forensic science, particularly Deoxyribonucleic Acid (DNA)
+technology, provides law enforcement agencies and courts with a powerful scientific tool for
+identifying individuals, linking biological evidence to persons, excluding innocent individuals, and
+assisting in the resolution of otherwise difficult or unsolved cases.
+
+DNA evidence may be recovered from biological materials found at crime scenes and from other
+sources relevant to criminal investigations. When properly collected, analyzed, stored, and
+compared, DNA profiles can establish associations between crime-scene evidence and individuals
+with a high degree of scientific reliability. A national forensic DNA database can therefore
+complement existing investigative techniques and strengthen the evidentiary foundation of
+criminal investigations and prosecutions.
+
+Several legislative measures have previously recognized the need for a Philippine forensic DNA
+database. Among these are House Bill No. 94 of the 19th Congress, which sought to institutionalize
+a national forensic DNA database for criminal investigations, identification of missing persons and
+unidentified human remains, and related purposes, as well as House Bill No. 1179 filed during the
+20th Congress, which similarly proposed the establishment of a forensic DNA database in the
+Philippines.
+
+Despite these legislative initiatives, there remains a need for a comprehensive statutory framework
+that will establish, maintain, regulate, and ensure the proper use of a Philippine National Forensic
+DNA Database. The proposed measure seeks to provide such a framework while ensuring that the
+collection and processing of DNA information are conducted in accordance with law, scientific
+standards, due process, privacy rights, and other constitutional safeguards.
+The proposed Philippine National Forensic DNA Database shall serve as a centralized forensic
+resource for authorized government agencies. It shall facilitate the comparison of DNA profiles
+obtained from crime-scene evidence with legally obtained reference profiles, subject to the
+requirements and safeguards provided under the proposed Act.
+
+At the same time, the use of DNA information presents legitimate concerns involving privacy,
+confidentiality, data security, consent, unlawful collection, unauthorized access, and misuse of
+genetic information. The proposed legislation therefore intends to establish clear rules governing
+the collection, submission, storage, retention, access, disclosure, use, and destruction of DNA
+samples and profiles. Appropriate safeguards should be incorporated to ensure that the database is
+utilized strictly for legitimate forensic and law-enforcement purposes and is not used for
+unauthorized discrimination, surveillance, or other purposes inconsistent with law.
+
+The establishment of a national forensic DNA database will also promote greater coordination
+among the Philippine National Police, National Bureau of Investigation, Department of Justice,
+courts, forensic laboratories, and other authorized government agencies. A unified system can help
+minimize duplication of forensic records, facilitate lawful information-sharing, and improve the
+country's capacity to investigate and resolve crimes through scientifically supported evidence.
+
+Importantly, DNA evidence should complement—not replace—the constitutional rights of persons
+accused of crimes. A DNA match must be evaluated together with other evidence and the
+applicable rules of evidence and procedure. The proposed Act therefore seeks to balance the
+legitimate needs of law enforcement with the fundamental rights to due process, privacy, and
+protection against unreasonable searches and seizures.
+
+The experience of previous legislative proposals demonstrates the continuing recognition of the
+importance of establishing a forensic DNA database in the Philippines. Senate Bill No. 1456 of
+the 19th Congress and Senate Bill No. 357 of the 20th Congress, for example, both proposed
+legislations establishing a forensic DNA database, with the latter specifically proposing a
+Philippine National Police forensic DNA database.
+
+This measure is therefore intended to provide the Philippines with a modern, scientifically
+grounded, secure, and accountable forensic DNA infrastructure capable of supporting criminal
+investigations, improving the identification of offenders and exoneration of innocent persons,
+assisting in the identification of missing persons and unidentified remains, and strengthening the
+administration of justice.
+
+For these reasons, the immediate passage of this measure is earnestly sought.
+
+
+
+REP. ANTONIO T. KHO                                 REP. ELISA “OLGA” T. KHO
+
+1st District, Masbate                               2ND District, Masbate
+                                 Republic of the Philippines
+                              HOUSE OF REPRESENTATIVES
+                                       Quezon City
+
+
+                                       Twentieth Congress
+                                       2nd Regular Session
+                                       HOUSE BILL NO.___  11365
+______________________________________________________________________________
+           Introduced by Rep. Antonio T. Kho and Rep. Elisa “Olga” T. Kho
+______________________________________________________________________________
+
+                               AN ACT
+  ESTABLISHING THE PHILIPPINE NATIONAL FORENSIC DNA DATABASE AND
+                  APPROPRIATING FUNDS THEREFOR
+
+
+      Be it enacted by the Senate and the House of Representatives of the Philippines in
+Congress assembled:
+
+                                           ARTICLE I
+                                         PRELIMINARY
+
+SECTION 1. Short Title. This Act shall be known as the "PNP Forensic DNA Database Act ".
+
+SEC. 2. Declaration of Policy. —
+
+It is hereby declared the policy of the State to strengthen the administration of justice and enhance
+the capability of law enforcement agencies through the responsible use of modern forensic science
+and technology.
+
+The State recognizes the value of deoxyribonucleic acid (DNA) analysis in the investigation and
+prosecution of crimes, identification of missing persons and unidentified human remains,
+exclusion of innocent persons from criminal investigations, and the accurate identification of
+persons in accordance with law.
+The State shall establish a national forensic DNA database subject to the principles of legality,
+necessity, proportionality, scientific integrity, due process, confidentiality, data protection, and
+respect for human rights.
+
+SEC. 3. Definition of Terms. —
+
+For purposes of this Act:
+
+(a) Biological Sample refers to any organic material originating from the human body that contains
+or may contain DNA, including blood, saliva, buccal cells, hair, skin cells, tissue, bone, teeth,
+semen, and other biological material capable of DNA analysis;
+
+(b) Buccal Swab refers to a biological sample collected from the inside of the cheek for the purpose
+of obtaining DNA;
+
+(c) Certified DNA Collector refers to a person who has successfully completed the training and
+certification requirements prescribed under this Act for the lawful collection of DNA samples;
+
+(d) Crime Scene Sample refers to a biological sample obtained from a crime scene or from an
+object, person, or location reasonably connected with the commission of an offense;
+
+(e) DNA or Deoxyribonucleic Acid refers to the molecule containing genetic information found in
+cells and biological materials;
+
+(f) DNA Analysis refers to the scientific examination of a biological sample for the purpose of
+obtaining a DNA profile;
+
+(g) DNA Profile refers to the result of DNA analysis consisting of genetic information used for
+forensic identification and comparison;
+
+(h) Forensic DNA Database refers to the organized electronic repository of DNA profiles lawfully
+obtained and processed pursuant to this Act;
+
+(i) Missing Person refers to a person whose whereabouts are unknown and whose disappearance
+has been reported to the proper authorities;
+
+(j) Unidentified Human Remains refers to human remains whose identity has not been established
+through available identification procedures;
+
+(k) National Forensic DNA Database refers to the centralized database established under Section
+4 of this Act;
+
+(l) DNA Laboratory refers to a laboratory authorized and appropriately accredited or certified to
+conduct forensic DNA examination;
+(m) DNA Matching refers to the comparison of DNA profiles for the purpose of determining
+whether they are consistent with originating from the same individual or related individuals,
+subject to applicable scientific standards;
+
+(n) Data Subject refers to an individual whose personal or sensitive personal information is
+processed pursuant to this Act; and
+
+(o) Authorized User refers to a person duly designated and authorized under this Act to access or
+process information contained in the National Forensic DNA Database.
+
+SEC. 4. Establishment of the Philippine National Forensic DNA Database. —
+
+There is hereby established a Philippine National Forensic DNA Database (PNFDD) which shall
+serve as the centralized repository of forensic DNA profiles lawfully obtained pursuant to this Act.
+
+The PNFDD shall be administered by the Philippine National Police (PNP) through its appropriate
+forensic laboratory or forensic group, subject to the supervision and oversight mechanisms
+provided under this Act.
+
+The PNFDD shall maintain appropriate interoperability with authorized government forensic
+systems, subject to data protection, confidentiality, security, and access requirements.
+
+SEC. 5. Objectives of the National Forensic DNA Database. —
+
+The PNFDD shall have the following objectives:
+
+(a) To assist in the investigation and resolution of criminal offenses;
+
+(b) To establish or exclude the possible identity of persons connected with crime-scene evidence;
+
+(c) To assist in identifying missing persons and unidentified human remains;
+
+(d) To assist in the identification of victims of disasters, accidents, and mass-casualty incidents;
+
+(e) To prevent wrongful identification and wrongful prosecution of innocent persons;
+
+(f) To facilitate the comparison of lawfully obtained DNA profiles from different crime scenes;
+
+(g) To strengthen the scientific and technological capability of Philippine law enforcement
+agencies; and
+
+(h) To promote the proper, ethical, and scientifically reliable use of forensic DNA evidence.
+
+SEC. 6. Indices of the National Forensic DNA Database. —
+
+The PNFDD may contain separate and appropriately segregated indices for:
+(a) Crime scene DNA profiles;
+
+(b) DNA profiles lawfully obtained from persons in accordance with this Act and other applicable
+laws;
+
+(c) Convicted persons, subject to applicable legal requirements;
+
+(d) Missing persons;
+
+(e) Unidentified human remains;
+
+(f) Voluntary DNA contributors;
+
+(g) Law enforcement personnel where DNA profiling is necessary for legitimate forensic
+identification purposes; and
+
+(h) Other categories expressly authorized by law or by rules promulgated pursuant to this Act.
+
+Each index shall have separate access, retention, disclosure, and destruction rules as may be
+necessary to protect the rights of individuals.
+
+SEC. 7. Collection of DNA Samples. —
+
+DNA samples shall be collected only by a Certified DNA Collector or other duly authorized
+forensic personnel and in accordance with established scientific procedures.
+
+The collection of DNA samples shall be conducted in a manner that preserves the dignity, privacy,
+safety, and constitutional rights of the person from whom the sample is obtained.
+
+A biological sample obtained pursuant to a valid warrant, lawful arrest, court order, applicable
+law, or other legally recognized authority may be processed without requiring separate consent,
+subject to the requirements of this Act and Republic Act No. 10173, otherwise known as the “Data
+Privacy Act of 2012.”
+
+SEC. 8. Collection from Crime Scenes. —
+
+DNA samples recovered from crime scenes shall be collected, documented, packaged, transported,
+stored, and analyzed in accordance with established forensic standards.
+
+Every transfer, handling, examination, storage, and disposition of a crime-scene biological sample
+shall be documented to preserve its chain of custody.
+
+SEC. 9. Collection from Persons. —
+
+The collection of DNA samples from persons shall be undertaken only under circumstances
+authorized by this Act or other applicable law.
+Nothing in this Act shall be construed as authorizing arbitrary or indiscriminate collection of DNA
+samples.
+
+The collection and processing of DNA shall be limited to what is reasonably necessary for the
+legitimate forensic purpose for which the sample was obtained.
+
+SEC. 10. Voluntary DNA Contribution. —
+
+Any person may voluntarily provide a DNA sample for legitimate forensic purposes, subject to
+written informed consent.
+
+The consent form shall clearly state:
+
+(a) The purpose of the collection;
+
+(b) The manner in which the DNA profile shall be processed;
+
+(c) The agencies or persons authorized to access the information;
+
+(d) The applicable retention period;
+
+(e) The circumstances under which the profile may be disclosed; and
+
+(f) The person's rights under applicable data protection laws.
+
+SEC. 11. Missing Persons and Unidentified Human Remains. —
+
+The PNFDD shall maintain an appropriate index for missing persons and unidentified human
+remains.
+
+DNA profiles obtained from relatives of missing persons may be voluntarily submitted for
+comparison, subject to informed consent and applicable privacy safeguards.
+
+The PNFDD shall facilitate DNA comparisons for the purpose of identifying missing persons and
+unidentified human remains, including those arising from disasters, accidents, and mass-casualty
+incidents.
+
+SEC. 12. DNA Analysis and Forensic Laboratories. —
+
+DNA analysis under this Act shall be performed only by duly authorized and appropriately
+accredited or certified forensic laboratories.
+
+The responsible agency shall establish minimum standards concerning:
+
+(a) Personnel qualifications;
+(b) Laboratory facilities;
+
+(c) DNA extraction and analysis;
+
+(d) Quality assurance and quality control;
+
+(e) Proficiency testing;
+
+(f) Equipment calibration and maintenance;
+
+(g) Contamination prevention;
+
+(h) Documentation; and
+
+(i) Preservation and security of biological samples.
+
+SEC. 13. Chain of Custody. —
+
+All biological samples and DNA evidence shall be subject to strict chain-of-custody procedures.
+
+The person who collects, receives, transfers, examines, stores, or disposes of a biological sample
+shall properly document the relevant transaction.
+
+Failure to comply with established chain-of-custody requirements shall be considered in
+determining the evidentiary reliability of the DNA evidence in accordance with the Rules of Court
+and other applicable laws.
+
+SEC. 14. DNA Profile Rather Than Full Genetic Information. —
+
+To the extent scientifically and legally practicable, the PNFDD shall retain only the DNA
+information necessary for legitimate forensic identification purposes.
+
+The system shall not be used to obtain or analyze genetic information relating to medical
+conditions, disease susceptibility, physical characteristics, behavioral traits, or other characteristics
+unrelated to legitimate forensic identification, except when expressly authorized by law and
+scientifically necessary for an identified lawful purpose.
+
+SEC. 15. Access to the National Forensic DNA Database. —
+
+Access to the PNFDD shall be restricted to duly authorized personnel.
+
+Access shall be granted only when necessary for:
+
+(a) A criminal investigation;
+
+(b) Identification of missing persons;
+(c) Identification of unidentified human remains;
+
+(d) Identification of disaster or mass-casualty victims;
+
+(e) Judicial proceedings;
+
+(f) Quality assurance and forensic research authorized under this Act; or
+
+(g) Other purposes expressly authorized by law.
+
+Every access to the PNFDD shall be logged and auditable.
+
+SEC. 16. DNA Matching and Investigative Leads. —
+
+A DNA match generated by the PNFDD shall constitute a forensic investigative lead and shall be
+evaluated together with other evidence in accordance with the Rules of Court and applicable laws.
+
+A database match shall not, by itself, be deemed conclusive proof of guilt.
+
+Nothing in this Act shall diminish the constitutional presumption of innocence or the rights of an
+accused under the Constitution.
+
+SEC. 17. Disclosure of DNA Information. —
+
+DNA profiles and related personal information contained in the PNFDD shall be treated as
+confidential.
+
+Disclosure shall be permitted only:
+
+(a) To authorized law enforcement or forensic personnel for a lawful purpose;
+
+(b) Pursuant to an order of a competent court;
+
+(c) As necessary for judicial proceedings;
+
+(d) For identification of missing persons or unidentified human remains;
+
+(e) As required by law; or
+
+(f) With the informed consent of the data subject, when consent is legally applicable.
+
+Unauthorized disclosure shall be subject to the penalties provided under this Act, Republic Act
+No. 10173, and other applicable laws.
+SEC. 18. Data Privacy and Security. —
+
+The collection, processing, storage, use, disclosure, and destruction of personal and sensitive
+personal information under this Act shall comply with Republic Act No. 10173, its implementing
+rules and regulations, and applicable issuances of the National Privacy Commission.
+
+The PNFDD shall implement appropriate organizational, physical, and technical security measures
+to protect DNA information against unauthorized access, alteration, disclosure, loss, destruction,
+or other unlawful processing.
+
+The PNP shall designate a Data Protection Officer or appropriate responsible officer for the
+PNFDD, without prejudice to the authority of the National Privacy Commission under existing
+law.
+
+SEC. 19. Retention and Destruction of DNA Profiles and Samples. —
+
+DNA profiles and biological samples shall not be retained indefinitely unless retention is expressly
+authorized by law and is necessary for a legitimate forensic purpose.
+
+The implementing rules shall establish specific retention periods for each category of DNA profile
+and biological sample.
+
+Where the legal basis for retention ceases to exist, the corresponding DNA profile and biological
+sample shall be removed or destroyed in accordance with applicable law and established
+procedures.
+
+Destruction shall be properly documented and auditable.
+
+SEC. 20. Expungement. —
+
+A person whose DNA profile is retained in the PNFDD may request expungement when:
+
+(a) The profile was unlawfully collected;
+
+(b) The person was acquitted and there is no other lawful basis for continued retention;
+
+(c) The applicable retention period has expired;
+
+(d) The person was erroneously included in the database; or
+
+(e) Other circumstances provided by law or the implementing rules exist.
+
+The implementing rules shall establish the procedure for filing, evaluating, and resolving requests
+for expungement.
+SEC. 21. Prohibited Acts. —
+
+The following acts are prohibited:
+
+(a) Unauthorized collection of DNA samples;
+
+(b) Unauthorized access to the PNFDD;
+
+(c) Unauthorized disclosure of DNA profiles or related information;
+
+(d) Unauthorized alteration, deletion, insertion, or manipulation of DNA records;
+
+(e) Use of DNA information for a purpose not authorized by this Act or other applicable law;
+
+(f) Falsification of DNA collection, examination, or database records;
+
+(g) Tampering with biological samples or DNA evidence;
+
+(h) Intentional violation of chain-of-custody procedures for the purpose of compromising
+evidence; and
+
+(i) Any other act that compromises the integrity, confidentiality, or security of the PNFDD.
+
+SEC. 22. Penalties. —
+
+Any person who commits any of the prohibited acts under the preceding section shall, upon
+conviction, be punished by imprisonment of not less than two (2) years but not more than six (6)
+years, or a fine of not less than Five hundred thousand pesos (₱500,000.00) but not more than Two
+million pesos (₱2,000,000.00), or both, at the discretion of the court, without prejudice to the
+application of higher penalties provided under Republic Act No. 10173 or other applicable laws.
+
+If the offender is a public officer or employee, the appropriate administrative penalties shall
+likewise apply.
+
+SEC. 23. Forensic DNA Database Oversight Council. —
+
+There is hereby created a Forensic DNA Database Oversight Council composed of representatives
+from:
+
+(a) The Department of the Interior and Local Government;
+
+(b) The Philippine National Police;
+
+(c) The National Bureau of Investigation;
+
+(d) The Department of Justice;
+(e) The National Privacy Commission;
+
+(f) The Department of Science and Technology;
+
+(g) The Department of Health; and
+
+(h) Such other agencies as may be designated by the President.
+
+The Council shall formulate policies and standards for the effective, ethical, scientifically sound,
+and rights-respecting implementation of this Act.
+
+SEC. 24. Functions of the Oversight Council. —
+
+The Council shall:
+
+(a) Develop national policies on forensic DNA database management;
+
+(b) Recommend standards for DNA collection, examination, storage, and disposal;
+
+(c) Monitor compliance with privacy and security requirements;
+
+(d) Promote interoperability among authorized forensic institutions;
+
+(e) Recommend measures to strengthen forensic DNA capabilities;
+
+(f) Review the implementation of this Act; and
+
+(g) Submit an annual report to Congress concerning the implementation and operation of the
+PNFDD.
+
+SEC. 25. Research and Training. —
+
+The implementing agencies shall develop continuing education and training programs for DNA
+collectors, forensic scientists, investigators, prosecutors, and other authorized personnel.
+
+The government shall encourage scientific research and development relating to forensic DNA
+technology, subject to applicable ethical, privacy, and data-protection standards.
+
+SEC. 26. International Cooperation. —
+
+The appropriate government agencies may cooperate with foreign governments, international
+organizations, and recognized forensic institutions in matters involving forensic DNA technology,
+subject to Philippine laws on privacy, confidentiality, mutual legal assistance, extradition, and
+international cooperation.
+No DNA profile or biological sample shall be transferred outside the Philippines except pursuant
+to law, treaty, international agreement, court order, or other lawful authority.
+
+SEC. 27. Implementing Rules and Regulations. —
+
+Within one hundred eighty (180) days from the effectivity of this Act, the PNP, in coordination
+with the Department of Justice, National Bureau of Investigation, National Privacy Commission,
+Department of Science and Technology, and other concerned agencies, shall promulgate the
+implementing rules and regulations necessary to carry out the provisions of this Act.
+
+The IRR shall include rules concerning DNA collection, laboratory standards, chain of custody,
+database access, retention, expungement, cybersecurity, breach notification, audit procedures, and
+accountability.
+
+SEC. 28. Congressional Oversight. —
+
+The appropriate committees of the Senate and the House of Representatives shall exercise
+congressional oversight over the implementation of this Act.
+
+The implementing agencies shall submit an annual report to Congress containing, among others:
+
+(a) The number of DNA profiles maintained;
+
+(b) The number of DNA matches generated;
+
+(c) The number of cases assisted by the database;
+
+(d) The number of missing persons and unidentified remains identified;
+
+(e) Data security incidents, if any;
+
+(f) Measures undertaken to protect privacy and confidentiality; and
+
+(g) The status of appropriations and expenditures for the implementation of this Act.
+
+The report shall not contain personally identifiable information except when disclosure is
+authorized by law.
+
+SEC. 29. Appropriations. —
+
+The amount necessary for the initial implementation of this Act shall be charged against the current
+appropriations of the Philippine National Police and other concerned agencies.
+
+Thereafter, such sums as may be necessary for the continued implementation of this Act shall be
+included in the annual General Appropriations Act.
+Appropriations shall cover, among others:
+
+(a) Establishment and modernization of forensic DNA laboratories;
+
+(b) Acquisition and maintenance of laboratory equipment;
+
+(c) Establishment and maintenance of the secure database infrastructure;
+
+(d) Training and certification of personnel;
+
+(e) Cybersecurity and data-protection measures;
+
+(f) Quality assurance and accreditation;
+
+(g) Collection, storage, and preservation of biological samples; and
+
+(h) Other necessary expenses for the effective implementation of this Act.
+
+SEC. 30. Separability Clause. If any provision of this Act is declared invalid or unconstitutional,
+the remainder thereof not affected thereby shall remain in force and in effect.
+
+SEC. 31. Repealing Clause. All existing laws, orders, rules and regulations or parts thereof deemed
+inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+SEC. 32. Effectivity. This Act shall take effect fifteen (15) days following the completion of its
+publication in the Official Gazette or in a newspaper of general circulation, whichever comes first.
+
+
+
+
+Approved,
+

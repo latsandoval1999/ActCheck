@@ -1,0 +1,600 @@
+ 1                                Republic of the Philippines
+ 2                              HOUSE OF REPRESENTATIVES
+ 3                                Quezon City, Metro Manila
+ 4                                TWENTIETH CONGRESS                               October 1, 2026
+ 5                                 Second Regular Session                            8:56 am
+ 6
+ 7
+ 8                                                 11568
+                                  HOUSE BILL NO. __________
+ 9
+10
+11                         Introduced by Hon. Julienne “Jam” L. Baronda
+12
+13
+14                                   EXPLANATORY NOTE
+15
+16   Republic Act No. 11697, otherwise known as the “Electric Vehicle Industry
+17   Development Act” (EVIDA), established the national policy for the development and
+18   adoption of electric vehicles in the Philippines.
+19
+20   As electric mobility expands, the emergency-response capability of government must
+21   develop alongside it.
+22
+23   Electric vehicles equipped with rechargeable traction batteries present emergency-response
+24   considerations different from those encountered in conventional vehicle fires. Battery
+25   thermal runaway may involve extreme heat, hazardous gases, prolonged incident
+26   management, and the possibility of reignition even after visible flames have been controlled.
+27
+28   Republic Act No. 9514, otherwise known as the “Revised Fire Code of the Philippines of
+29   2008”, mandates the Bureau of Fire Protection (BFP) to prevent and suppress destructive
+30   fires and enforce appropriate fire-safety standards.
+31
+32   Republic Act No. 11589, otherwise known as the “Bureau of Fire Protection
+33   Modernization Act”, further strengthens the capabilities of the BFP through the acquisition
+34   of modern fire suppression, rescue, hazardous-materials, specialized equipment, training,
+35   research and other resources necessary for effective emergency response.
+36
+37   There is therefore a need to ensure that the continuing growth of the electric vehicle
+38   industry is accompanied by a corresponding strengthening of the capability of the BFP to
+39   respond to electric vehicle fires and battery-related emergencies.
+40
+41   This measure establishes a statutory public-safety responsibility requiring manufacturers,
+42   assemblers, importers and, where applicable, distributors that first introduce covered
+43   electric vehicles into the Philippine market to provide the BFP with one (1) approved
+44   Electric Vehicle Fire Response Safety Set (EVFRSS) for every ten (10) covered electric
+45   vehicles introduced into the Philippine market.
+46
+47   Each EVFRSS shall include an appropriate BFP-approved Electric Vehicle Fire
+48   Containment Device (EVFCD) and such complementary equipment as may be required by
+49   the BFP.
+50
+51   The measure adopts technology-neutral terminology and does not mandate any particular
+52   brand, design or proprietary product. Technical requirements shall be determined and
+53   periodically reviewed by the BFP, in coordination with concerned government agencies,
+54   based on prevailing fire science, applicable safety standards and technological
+55   developments.
+56
+ 57   The measure likewise provides safeguards against double counting, establishes reporting
+ 58   and accountability mechanisms, requires proper government inventory and accounting of
+ 59   equipment received, mandates technical cooperation and firefighter training, and provides
+ 60   administrative due process.
+ 61
+ 62   As the number of electric vehicles on Philippine roads increases, the country’s capacity to
+ 63   safely respond to electric vehicle emergencies must increase with it.
+ 64
+ 65   In view of the foregoing, the immediate passage of this measure is earnestly sought.
+ 66
+ 67
+ 68
+ 69
+ 70
+ 71                           HON. JULIENNE “JAM” L. BARONDA
+ 72                                      Representative
+ 73                                  Lone District, Iloilo City
+ 74
+ 75
+ 76
+ 77
+ 78
+ 79
+ 80
+ 81
+ 82
+ 83
+ 84
+ 85
+ 86
+ 87
+ 88
+ 89
+ 90
+ 91
+ 92
+ 93
+ 94
+ 95
+ 96
+ 97
+ 98
+ 99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113                                 Republic of the Philippines
+114                               HOUSE OF REPRESENTATIVES
+115                                 Quezon City, Metro Manila
+116                                 TWENTIETH CONGRESS
+117                                  Second Regular Session
+118
+119
+120                                                  11568
+                                    HOUSE BILL NO. __________
+121
+122
+123                           Introduced by Hon. Julienne “Jam” L. Baronda
+124
+125
+126      AN ACT ESTABLISHING AN ELECTRIC VEHICLE FIRE SAFETY AND
+127          EMERGENCY RESPONSE SUPPORT PROGRAM, REQUIRING
+128   MANUFACTURERS, ASSEMBLERS, IMPORTERS AND, WHERE APPLICABLE,
+129    DISTRIBUTORS OF ELECTRIC VEHICLES TO PROVIDE THE BUREAU OF
+130    FIRE PROTECTION WITH ELECTRIC VEHICLE FIRE RESPONSE SAFETY
+131      EQUIPMENT FOR EVERY TEN (10) COVERED ELECTRIC VEHICLES
+132       INTRODUCED INTO THE PHILIPPINE MARKET, STRENGTHENING
+133      FIREFIGHTER TRAINING AND INDUSTRY COOPERATION, AND FOR
+134                          OTHER PURPOSES
+
+135         Be it enacted by the Senate and House of Representatives of the Philippines in
+136   Congress assembled:
+
+137   SECTION 1. Short Title.
+138         This Act shall be known as the “Electric Vehicle Fire Safety and Emergency
+139   Response Support Act.”
+140
+141   SEC. 2. Declaration of Policy.
+142          It is hereby declared the policy of the State to promote environmentally sustainable
+143   transportation while protecting life, property, communities and emergency responders from
+144   emerging fire and safety risks associated with electric vehicle technologies.
+145
+146         The State recognizes that the development and adoption of electric vehicles must be
+147   accompanied by appropriate fire prevention, containment, suppression, rescue, recovery and
+148   emergency-response capabilities.
+149
+150          Toward this end, entities introducing covered electric vehicles into the Philippine
+151   market shall share a reasonable and proportionate responsibility for strengthening the
+152   capability of government to respond to electric vehicle and traction-battery emergencies.
+153
+154          Implementation of this Act shall be technology-neutral, transparent, competitive,
+155   equitable and non-discriminatory and shall not favor any particular manufacturer, supplier,
+156   brand, technology or country of origin.
+157
+158   SEC. 3. Objectives.
+159         This Act shall:
+160
+161         (a) Strengthen the capability of the BFP to respond to electric vehicle fires and
+162         battery-related emergencies;
+163
+164         (b) Establish a predictable and proportionate industry contribution to EV fire-
+165         response capability;
+166
+167         (c) Equip BFP personnel with appropriate fire containment, suppression, monitoring
+168         and responder-safety equipment;
+169
+170         (d) Provide firefighters with appropriate technical information and specialized
+171         training;
+172
+173         (e) Promote evidence-based and technology-neutral standards for EV fire response;
+174
+175         (f) Protect firefighters and the public from thermal runaway, reignition, hazardous
+176         gases, electrical hazards and related risks; and
+177
+178         (g) Integrate EV emergency preparedness into the country’s transition toward
+179         electric mobility.
+180
+181   SEC. 4. Definition of Terms.
+182         For purposes of this Act:
+183
+184         (a) BFP refers to the Bureau of Fire Protection;
+185
+186         (b) Covered Electric Vehicle or Covered EV refers to a four-wheeled or larger
+187         electric vehicle equipped with a rechargeable traction battery, including battery
+188         electric vehicles, hybrid-electric vehicles and plug-in hybrid-electric vehicles as
+189         defined under Republic Act No. 11697, and such other classes of electric vehicles as
+190         may subsequently be included pursuant to this Act;
+191
+192         (c) Electric Vehicle Fire Containment Device or EVFCD refers to a purpose-
+193         designed, high-temperature-resistant device, system or equipment intended to
+194         contain, isolate, control or limit the spread of heat, flame, smoke and other hazards
+195         arising from an electric vehicle or traction-battery fire, including devices designed
+196         for deployment over, under or around a vehicle, subject to technical standards and
+197         operational protocols prescribed or recognized by the BFP;
+198
+199         (d) Electric Vehicle Fire Response Safety Set or EVFRSS refers to a standardized
+200         package of BFP-approved equipment intended for the containment, control,
+201         suppression, isolation, monitoring or management of electric vehicle fires and
+202         battery-related emergencies;
+203
+204         (e) Importer and Manufacturer or Assembler shall have the meanings assigned to
+205         them under Republic Act No. 11697;
+206
+207         (f) Distributor refers to a natural or juridical person engaged in the commercial
+208         distribution of Covered EVs in the Philippines who directly imports or otherwise
+209         first places such vehicles in the Philippine market when no manufacturer, assembler
+210         or importer has previously assumed the obligation imposed under this Act;
+211
+212         (g) Covered Entity refers to the manufacturer, assembler, importer or, where
+213         applicable, distributor responsible for first introducing a Covered EV into the
+214         Philippine market; and
+215
+216         (h) Introduced into the Philippine Market refers to the importation for commercial
+217         distribution, first sale or commercial disposition of a Covered EV in the Philippines,
+218         subject to the anti-double-counting provisions of this Act.
+219
+220   SEC. 5. Coverage.
+221          This Act shall apply to Covered Entities that manufacture, assemble, import or
+222   directly introduce Covered EVs for sale, distribution, lease, fleet operation or other
+223   commercial use in the Philippines.
+224
+225          Light electric vehicles weighing less than fifty kilograms (50 kg), including electric
+226   bicycles, electric scooters and similar micromobility devices, shall initially be excluded
+227   from the mandatory contribution under this Act.
+228
+229          The BFP, DOE, DTI and DOTr may recommend to Congress a separate
+230   proportionate fire-safety framework for light electric vehicles based on battery capacity, fire
+231   risk, market volume and available scientific evidence.
+232
+233         Covered EVs imported exclusively for research, testing, exhibition, diplomatic use,
+234   temporary admission or subsequent re-exportation, and which are not placed in ordinary
+235   commercial use in the Philippines, shall be exempt, subject to verification under the
+236   Implementing Rules and Regulations.
+237
+238   SEC. 6. Mandatory Electric Vehicle Fire Safety Contribution.
+239          For every ten (10) Covered EVs introduced into the Philippine market by a Covered
+240   Entity, such entity shall provide to the BFP, without cost to the National Government, at
+241   least one (1) BFP-approved Electric Vehicle Fire Response Safety Set (EVFRSS).
+242
+243          Each EVFRSS shall include at least one (1) appropriate Electric Vehicle Fire
+244   Containment Device (EVFCD) and such complementary equipment as may be prescribed
+245   by the BFP.
+246
+247          The obligation imposed under this section shall constitute a statutory in-kind public-
+248   safety contribution and shall not require payment or reimbursement by the BFP or any other
+249   government agency.
+250
+251          Only completed groups of ten (10) Covered EVs shall give rise to an immediate
+252   contribution obligation.
+253
+254          Any remainder of fewer than ten (10) vehicles at the end of a reporting period shall
+255   be carried forward to succeeding reporting periods until the cumulative total reaches ten (10)
+256   vehicles.
+257
+258   SEC. 7. No Double Counting.
+259         A Covered EV shall be counted only once for purposes of determining the obligation
+260   under Section 6 of this Act.
+261
+262   An imported EV subsequently sold or distributed by a dealer or distributor shall not create a
+263   second contribution obligation when the importer has already accounted for the vehicle.
+264
+265   For locally manufactured or assembled EVs, responsibility shall attach to the manufacturer
+266   or assembler upon first commercial disposition.
+267
+268           A distributor shall become responsible only when it directly imports or otherwise
+269   first introduces the Covered EV into the Philippine market and no upstream Covered Entity
+270   has accounted for the vehicle.
+271
+272          The BFP, DOE, DTI, Bureau of Customs and Land Transportation Office shall
+273   establish an appropriate verification mechanism to prevent duplication of obligations.
+274
+275   SEC. 8. Composition of the Electric Vehicle Fire Response Safety Set.
+276         Each EVFRSS shall contain equipment determined by the BFP to be reasonably
+277   necessary for safe and effective response to EV and traction-battery emergencies.
+278
+279          The set shall include an appropriate EVFCD and may include:
+280
+281          (a) Thermal-imaging or temperature-monitoring equipment;
+282
+283          (b) Equipment for vehicle isolation and exposure protection;
+284
+285          (c) Specialized water-delivery equipment, nozzles or adapters;
+286
+287          (d) Battery-fire incident warning, marking or isolation devices;
+288
+289          (e) Appropriate electrical-safety equipment;
+290
+291          (f) Appropriate responder personal protective equipment;
+292
+293          (g) Post-fire monitoring equipment; and
+294
+295          (h) Such other equipment determined by the BFP to be necessary for containment,
+296          suppression, monitoring, recovery or responder protection.
+297
+298          All specifications shall be performance-based, technology-neutral and non-brand-
+299   specific.
+300
+301         Nothing in this Act shall authorize the government to require compliance through the
+302   purchase or provision of a particular commercial brand or proprietary product.
+303
+304   SEC. 9. Standards and Operational Use of Electric Vehicle Fire Containment Devices.
+305         The BFP shall prescribe operational protocols governing the deployment and use of
+306   EVFCDs.
+307
+308          Such protocols shall take into consideration battery thermal runaway, accumulation
+309   of flammable or hazardous gases, firefighter positioning and safety, ventilation, temperature
+310   and thermal monitoring, appropriate extinguishing or cooling agents, exposure protection,
+311   device deployment and removal, reignition risk, post-fire monitoring, towing and temporary
+312   storage, and other relevant operational considerations.
+313
+314           Nothing in this Act shall require an incident commander to deploy an EVFCD when,
+315   based on conditions at the incident scene, such deployment would increase the danger to
+316   firefighters, vehicle occupants, bystanders or property.
+317
+318         The BFP may recognize or approve safer or more effective successor technologies or
+319   equivalent equipment as fire science and EV technology develop.
+320
+321   SEC. 10. Technical Standards and Certification.
+322          Within one hundred eighty (180) days from the effectivity of this Act, the BFP, in
+323   coordination with the DTI-Bureau of Philippine Standards, DOE, DOTr, DOST, DENR and
+324   other appropriate agencies, shall establish minimum technical specifications, testing
+325   requirements and certification procedures for EVFRSS and EVFCD equipment.
+326
+327          Standards shall consider heat and flame resistance; thermal performance; mechanical
+328   strength and durability; electrical safety; dimensions appropriate to different vehicle classes;
+329   hazards associated with thermal runaway and flammable gases; compatibility with BFP
+330   operational procedures; inspection, maintenance, storage and replacement requirements;
+331   applicable Philippine National Standards; recognized international standards where
+332   appropriate; and independently validated scientific and operational research.
+333
+334         The standards shall be periodically reviewed to account for advances in EV battery
+335   technology and fire science.
+336
+337   SEC. 11. Acceptance, Ownership, Inventory and Accountability.
+338         Upon inspection and formal acceptance by the BFP, equipment provided pursuant to
+339   this Act shall become property of the National Government under the custody and
+340   accountability of the BFP.
+341
+342          All equipment shall be inspected, recorded, valued, inventoried and accounted for in
+343   accordance with applicable Commission on Audit rules and government accounting and
+344   property-management standards.
+345
+346           The BFP shall maintain an electronic national inventory identifying the quantity,
+347   classification, location, condition, service life and operational status of equipment received.
+348
+349        No government official or employee shall solicit, demand or receive any equipment,
+350   money or consideration beyond that authorized by this Act or other applicable laws.
+351
+352   SEC. 12. Strategic Allocation.
+353          The BFP shall determine the allocation and deployment of equipment received under
+354   this Act based upon objective fire-risk and operational criteria.
+355
+356           Priority may be given to areas with high concentrations of registered EVs; highly
+357   urbanized and densely populated areas; major highways and expressways; EV charging
+358   hubs; parking buildings and large parking facilities; ports, airports and transportation
+359   terminals; areas operating substantial electric public transportation fleets; BFP stations
+360   strategically positioned for highway or regional emergency response; and other areas
+361   identified through BFP risk assessment.
+362
+363          No Covered Entity may condition its compliance upon the deployment of its
+364   contribution to a particular locality, fire station or political jurisdiction.
+365
+366   SEC. 13. Industry Technical Cooperation.
+367          Manufacturers, assemblers and importers shall make available to the BFP
+368   appropriate emergency-response information for Covered EV models introduced into the
+369   Philippines, including, where applicable:
+370
+371          (a) Emergency Response Guides;
+372
+373          (b) Battery location and configuration;
+374
+375          (c) High-voltage isolation procedures;
+376
+377          (d) Emergency vehicle shutdown procedures;
+378
+379          (e) Thermal-runaway considerations;
+380
+381          (f) Towing and recovery precautions;
+382
+383          (g) Post-fire storage and reignition precautions; and
+384
+385          (h) Such other technical information reasonably necessary to protect emergency
+386          responders and the public.
+387
+388          Nothing in this section shall require disclosure of proprietary information or trade
+389   secrets beyond information reasonably necessary for life safety and emergency response,
+390   subject to applicable law.
+391
+392   SEC. 14. Training and Capability Development.
+393         The BFP shall establish and periodically update a standardized Electric Vehicle Fire
+394   and Battery Emergency Response Training Program.
+395
+396         Training shall include EV identification, high-voltage and electrical hazards, vehicle
+397   and battery isolation, battery thermal runaway, containment and suppression strategies,
+398   EVFCD deployment, exposure protection, firefighter safety, hazardous gases, post-fire
+399   monitoring and reignition, towing and recovery coordination, and battery-related
+400   hazardous-materials considerations.
+401
+402           Covered Entities shall provide reasonable model-specific technical assistance and
+403   safety information necessary for BFP training without cost to the government.
+404
+405   SEC. 15. Reporting and Interagency Verification.
+406         Covered Entities shall submit periodic electronic compliance reports containing:
+407
+408         (a) The number and classification of Covered EVs introduced into the Philippine
+409         market;
+410
+411         (b) The cumulative vehicle count;
+412
+413         (c) The number of EVFRSS obligations generated;
+414
+415         (d) The number and description of EVFRSS delivered;
+416
+417         (e) Applicable certificates of conformity or compliance; and
+418
+419         (f) Such other information reasonably necessary to verify compliance.
+420
+421         The BFP, DOE, DTI, DOTr, Bureau of Customs and Land Transportation Office
+422   may exchange information necessary to verify compliance.
+423
+424          Any processing of personal information shall comply with Republic Act No. 10173,
+425   otherwise known as the “Data Privacy Act of 2012,” including the principles of
+426   transparency, legitimate purpose and proportionality.
+427
+428         Only information reasonably necessary to implement this Act shall be collected,
+429   processed, retained or exchanged.
+430
+431   SEC. 16. Compliance Certification and Ease of Doing Business.
+432         The BFP shall establish an electronic system for recording compliance.
+433
+434          Government agencies shall, to the greatest extent practicable, utilize existing
+435   databases and interoperable government systems and shall not require Covered Entities to
+436   repeatedly submit information already lawfully available to another government agency.
+437
+438          Implementation shall be consistent with Republic Act No. 11032, otherwise known
+439   as the “Ease of Doing Business and Efficient Government Service Delivery Act of 2018.”
+440
+441   SEC. 17. Administrative Due Process.
+442         No administrative penalty shall be imposed without written notice and reasonable
+443   opportunity to be heard.
+444
+445         Upon determination of a compliance deficiency, the BFP shall issue a written Notice
+446   of Compliance specifying the nature and factual basis of the deficiency, the corrective
+447   action required, the period for compliance, and the consequences of continued
+448   noncompliance.
+449
+450           The Covered Entity shall be given thirty (30) days from receipt to comply or submit
+451   its explanation.
+452
+453        For justifiable reasons and where public safety will not be materially prejudiced, the
+454   BFP may grant a reasonable extension.
+455
+456         A final administrative decision shall state its factual and legal basis and may be
+457   appealed to the Secretary of the Interior and Local Government, without prejudice to
+458   remedies available under law.
+459
+460   SEC. 18. Administrative Penalties.
+461          After notice and opportunity to be heard, a Covered Entity that willfully or
+462   repeatedly fails to comply with this Act may be subject to an administrative fine of not less
+463   than Fifty Thousand Pesos (P50,000.00) but not more than Five Hundred Thousand Pesos
+464   (P500,000.00) for each reporting period of noncompliance.
+465
+466          Payment of the administrative fine shall not extinguish the obligation to provide the
+467   required EVFRSS.
+468
+469          Continued noncompliance after a final administrative order may constitute a separate
+470   violation for each succeeding reporting period.
+471
+472           Where authorized by existing law, the appropriate regulatory agency may, after due
+473   process, impose appropriate regulatory sanctions directly related to the activity under its
+474   jurisdiction.
+475
+476          Falsification, fraud, corruption, misrepresentation or other unlawful acts committed
+477   in connection with implementation of this Act shall be prosecuted under applicable laws.
+478
+479   SEC. 19. Corporate Social Responsibility and Sustainability Recognition.
+480          Compliance with the statutory contribution established under this Act may be
+481   recognized by a Covered Entity as part of its corporate social responsibility, environmental,
+482   social and governance, sustainability or public-safety program, subject to applicable
+483   accounting, taxation and regulatory rules.
+484
+485          Such recognition shall not convert the mandatory statutory obligation into a
+486   voluntary donation and shall not reduce or substitute for the minimum contribution required
+487   under this Act.
+488
+489   SEC. 20. Research, Testing and Periodic Technical Review.
+490           The BFP, in coordination with the DOST, DTI-BPS, DOE, DOTr, academic
+491   institutions and qualified technical organizations, shall encourage continuing research,
+492   testing and evaluation involving EV fires and battery emergencies.
+493
+494         At least once every two (2) years, or earlier when significant scientific or
+495   technological developments warrant, the concerned agencies shall review:
+496
+497         (a) EVFCD technical specifications;
+498
+499          (b) EVFRSS composition;
+500
+501          (c) Changes in traction-battery chemistry and vehicle design;
+502
+503          (d) EV fire suppression and containment research;
+504
+505          (e) BFP operational experience;
+506
+507          (f) Firefighter injuries and safety incidents;
+508
+509          (g) Post-fire and reignition incidents; and
+510
+511          (h) International fire-safety standards and best practices.
+512
+513          Technical specifications may thereafter be updated through regulations without
+514   requiring amendment of this Act, provided that the statutory purpose and contribution ratio
+515   established herein are preserved.
+516
+517   SEC. 21. Harmonization with EVIDA and Existing Regulatory Framework.
+518           Implementation of this Act shall be harmonized with the Comprehensive Roadmap
+519   for the Electric Vehicle Industry under Republic Act No. 11697.
+520
+521           The appropriate interagency mechanisms established under EVIDA may be utilized
+522   for harmonizing EV policies under this Act, with the BFP participating on matters involving
+523   fire safety and emergency response.
+524
+525         Nothing herein shall diminish or transfer the existing statutory authority of the DOE,
+526   DTI, DOTr, DOST, DENR, DILG, BFP, Bureau of Customs, Land Transportation Office,
+527   Commission on Audit or other competent government agencies.
+528
+529   SEC. 22. Equal and Non-Discriminatory Application.
+530           The requirements of this Act shall apply equally to Covered EVs meeting the same
+531   classification and safety criteria, whether locally manufactured, assembled or imported,
+532   subject only to reasonable distinctions based upon vehicle class, battery characteristics, fire
+533   risk or other objective safety considerations.
+534
+535          No implementing rule shall discriminate against a vehicle, manufacturer or supplier
+536   solely on the basis of country of origin.
+537
+538   SEC. 23. Implementing Rules and Regulations.
+539          Within one hundred eighty (180) days from the effectivity of this Act, the DILG,
+540   through the BFP, in coordination with the DOE, DTI, DOTr, DOST, DENR, Bureau of
+541   Customs, Land Transportation Office, Commission on Audit and other concerned agencies,
+542   shall promulgate the necessary Implementing Rules and Regulations after appropriate
+543   stakeholder consultation.
+544
+545           The IRR shall provide for vehicle-counting and anti-double-counting procedures;
+546   reporting periods; EVFRSS and EVFCD technical standards; product testing and
+547   certification; inspection and acceptance; property recording and inventory; strategic
+548   allocation; training requirements; compliance verification; administrative enforcement and
+549   appeals; transitional arrangements; and other matters necessary to implement this Act.
+550
+551   SEC. 24. Transition Period and Prospective Application.
+552          Covered Entities shall be given six (6) months from the effectivity of the IRR to
+553   establish the necessary compliance systems.
+554
+555          The mandatory contribution shall apply prospectively only to Covered EVs
+556   introduced into the Philippine market after expiration of the transition period.
+557
+558          Covered EVs introduced before such date shall not be retroactively counted.
+559
+560   SEC. 25. Appropriations.
+561          The amount necessary for the initial implementation of this Act shall be charged
+562   against the current appropriations of the BFP and other concerned agencies.
+563
+564          Thereafter, such sums as may be necessary for administration, training, testing,
+565   inspection, maintenance, storage and implementation shall be included in the annual
+566   General Appropriations Act, subject to applicable budgeting, accounting and auditing laws,
+567   rules and regulations.
+568
+569          Nothing in this section shall authorize government reimbursement for an EVFRSS
+570   required as a statutory contribution under Section 6 of this Act.
+571
+572   SEC. 26. Construction with Existing Laws.
+573          This Act shall be construed in harmony with Republic Act No. 11697, the Electric
+574   Vehicle Industry Development Act; Republic Act No. 9514, the Revised Fire Code of the
+575   Philippines of 2008; Republic Act No. 11589, the Bureau of Fire Protection Modernization
+576   Act; Republic Act No. 6969, the Toxic Substances and Hazardous and Nuclear Wastes
+577   Control Act of 1990; Republic Act No. 10173, the Data Privacy Act of 2012; Republic Act
+578   No. 11032, the Ease of Doing Business and Efficient Government Service Delivery Act of
+579   2018; Republic Act No. 12009, the New Government Procurement Act, where applicable;
+580   and other applicable laws, treaties, rules and regulations.
+581
+582   SEC. 27. Separability Clause.
+583         If any provision or part of this Act is declared unconstitutional or invalid, the
+584   remaining provisions or portions not affected thereby shall remain in full force and effect.
+585
+586   SEC. 28. Repealing Clause.
+587          All laws, decrees, executive orders, administrative orders, rules, regulations and
+588   other issuances or parts thereof inconsistent with this Act are hereby repealed, amended or
+589   modified accordingly.
+590
+591   SEC. 29. Effectivity.
+592           This Act shall take effect fifteen (15) days after its publication in the Official Gazette
+593   or in a newspaper of general circulation.
+594
+595          Approved,
+
