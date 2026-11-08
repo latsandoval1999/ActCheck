@@ -179,6 +179,12 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-check{background:var(--gold-soft); border:1px solid #E8D79F; border-radius:6px; padding:.7rem .95rem .3rem; margin-top:.7rem;}
 .ac-check-h{font:800 .74rem var(--sans); letter-spacing:.09em; text-transform:uppercase; color:#7A5A00; margin-bottom:.3rem;}
 .st-key-casecol [data-testid="stVerticalBlockBorderWrapper"]{background:var(--card);}
+/* review queue: the open bill stands out, the others are dimmed */
+[class*="st-key-qcard_"]{opacity:.55; background:transparent !important; transition:opacity .15s;}
+[class*="st-key-qcard_"]:hover{opacity:.9;}
+[class*="st-key-qactive_"]{background:#fff !important; border:2px solid var(--navy) !important; border-left:6px solid var(--red) !important;
+  box-shadow:0 6px 18px rgba(11,37,69,.12);}
+.ac-qnow{font:800 .68rem var(--sans); letter-spacing:.09em; text-transform:uppercase; color:var(--red);}
 
 /* Streamlit widgets */
 .stButton > button, .stDownloadButton > button, .stLinkButton > a{border-radius:3px; font-weight:700;}
