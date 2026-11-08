@@ -230,6 +230,7 @@ def title_of(text):
     """The bill's title: the first upper-case 'AN ACT ...' (bill titles are printed in capitals), so a title quoted
     in the explanatory note in ordinary case is not mistaken for it; falls back to any 'An Act' if none."""
     stop = r"(?:\n\s*\n|EXPLANATORY\s+NOTE|Be\s+it\s+enacted)"
+    text = re.sub(r"\bAN\s+ACT\s*\n\s*\n", "AN ACT ", text)      # some bills print 'AN ACT' on its own line
     m = re.search(r"(AN\s+ACT\b.*?)" + stop, text, re.S) or re.search(r"(AN\s+ACT\b.*?)" + stop, text, re.S | re.I)
     return " ".join(m.group(1).split())[:600] if m else ""
 
