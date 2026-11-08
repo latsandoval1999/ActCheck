@@ -32,7 +32,7 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 
 /* masthead + navigation */
 .ac-mast{display:flex; align-items:center; justify-content:space-between; gap:1rem; background:var(--ink-dark);
-  margin:0 calc(-1 * var(--pad)); padding:.85rem var(--pad) .75rem; border-radius:0;}
+  margin:-1rem calc(-1 * var(--pad)) 0; padding:.85rem var(--pad) .75rem; border-radius:0;}
 .ac-brand{display:flex; align-items:center; gap:.7rem; text-decoration:none;}
 .ac-brand img{height:38px;}
 .ac-word{font:900 1.55rem/1 var(--serif); color:#fff; letter-spacing:.005em;}
@@ -41,7 +41,7 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-mast-right{font:600 .72rem var(--mono); color:#BDB8AC; text-align:right; text-transform:uppercase; letter-spacing:.06em;}
 .st-key-nav > div, .st-key-nav [data-testid="stRadio"]{width:100% !important; max-width:100% !important;}
 .ac-brand, .ac-brand *{text-decoration:none !important;}
-.st-key-nav{background:var(--ink-dark); border-radius:0; padding:0 calc(var(--pad) - .85rem) .5rem; margin:-1rem calc(-1 * var(--pad)) 0;
+.st-key-nav{background:var(--ink-dark); border-radius:0; padding:0 calc(var(--pad) - .85rem) .5rem; margin:0 calc(-1 * var(--pad)) 0;
   width:calc(100% + 2 * var(--pad)) !important; max-width:none !important; border-top:1px solid #253247;}
 .st-key-nav [data-testid="stWidgetLabel"]{display:none;}
 .st-key-nav div[role="radiogroup"]{gap:.15rem; flex-wrap:wrap; padding-top:.45rem;}
