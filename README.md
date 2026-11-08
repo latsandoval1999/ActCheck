@@ -1,6 +1,10 @@
 # ActCheck
 
-*Checking bills before they become Acts.* A student prototype for PP5538, not an official DBM system.
+**An Agentic AI System for Philippine Legislative Review.** *Trace the bill. Spot the changes. Weigh the impact.*
+
+A tool to aid government analysts to trace a bill's history, see what changed, and assess its legal and budget implications in order to provide comments for legislators.
+
+A prototype made as an individual project by Louise Antonette T. Sandoval (Lee Kuan Yew School of Public Policy, National University of Singapore) for PP5538 Digital Technology and Public Policy. Not an official government website.
 
 | Agent | Portfolio project | Role |
 |---|---|---|
@@ -16,12 +20,11 @@ Live portal: https://act-check.streamlit.app Built for the PP5538 Agentic AI Por
 
 ## How the portal works
 
-1. **Daily check (TrAIce, monitoring).** Every morning a scheduled GitHub job (`.github/workflows/daily-watch.yml` → `pipeline/watch.py`) refreshes the bill list from Open Congress Data, looks for newly filed House bills (House documents server) and Senate bills (the Senate website's public listing), reads them (OCR if scanned), tags the pilot-scope ones and lists them all on **Home** and **Bills**. Optionally TrAIce drafts an evidence brief for each new pilot-scope bill.
-2. **Open a bill → Run full review.** One click runs TrAIce (history, earlier and parallel versions in both chambers, existing laws), CompAIre (problem, substantial differences vs the closest related measure, design options) and AppraisAI (preliminary review, cost range, risks, preliminary comments), then the red-teamer.
-3. **Reviewer works through the tabs**: Evidence · Comparison · Appraisal (approve) · Comments & report (edit comments, download Word/Markdown report) · Memo & letter (memo after approval; letter after the reviewer decides the position).
-4. **Ask about this bill**: a chat that answers only from the bill's workspace and cites sections (citations are checked).
-
-Without an API key, every rules-only part still works and each agent step offers a **free route**: download the prompt, run it in a Claude chat, paste the reply back to check and save it.
+- **Home:** bills listed (18th–20th Congress), bills in the 20th Congress, new bills from the daily run; shares of bills by type and scope of application (rules on titles, `pipeline/typology.py`); how a review flows.
+- **Bills:** every bill with Congress, Bill type, Type, Status and "Applies to" filters. Click a title for details; **Review** sends it to the workspace (bills without full text are fetched from their source PDF first, `pipeline/ondemand.py`).
+- **Review workspace:** the bills under review; for each, Step 1 TrAIce (trace), Step 2 CompAIre (compare), Step 3 AppraisAI (weigh, with red-team check), each with a run button, a free route and a reviewer checklist (notes and file uploads) that unlocks the next step; Step 4 comments and report; Step 5 the DBM-format memo and letter (Tahoma, Word download, `agents/documents.py`).
+- **BILLy:** the floating "Ask Billy" companion answers questions about the open bill (AI with checked citations, or search mode without a key, `agents/billy.py`).
+- **How it Works:** each agent and how ActCheck fits the BILLS process in the DBM Citizen's Charter.
 
 ## What it does
 

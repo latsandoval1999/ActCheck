@@ -206,17 +206,20 @@ def run_redteam(bid, draft):
 
 
 def run_memo(bid, approved_review, bureau_inputs=""):
+    """AppraisAI's memo draft as template fields (s1, s1_1, s2, s3_2, s3_3, s4, s5)."""
     from agents import llm
     system, user = build_memo_messages(bid, approved_review, bureau_inputs)
     text, meta = llm.call("memo", system, user, max_tokens=5000)
-    return {"memo": text, "checks": check_document(bid, text, "memo"), "meta": meta}
+    out = llm.parse_json(text)
+    return {"memo": out, "meta": meta}
 
 
 def run_letter(bid, memo_text):
+    """AppraisAI's letter draft as template fields (p1 to p4)."""
     from agents import llm
     system, user = build_letter_messages(bid, memo_text)
     text, meta = llm.call("letter", system, user, max_tokens=3000)
-    return {"letter": text, "checks": check_document(bid, text, "letter"), "meta": meta}
+    return {"letter": llm.parse_json(text), "meta": meta}
 
 
 def review_markdown(bid, draft, cost=None):

@@ -12,10 +12,12 @@ the agents are tuned and tested on those, but every bill is listed.
 import csv
 import gzip
 import json
+import re
 from functools import lru_cache
 from pathlib import Path
 
 from pipeline.watch import screen, SENATE
+from pipeline import typology
 
 ROOT = Path(__file__).resolve().parents[1]
 PROC = ROOT / "data" / "processed"
@@ -24,6 +26,16 @@ HOUSE_PDF = "https://docs.congress.hrep.online/legisdocs/basic_{c}/HB{n:05d}.pdf
 SCOPE = {"entity-creating": "Creates a national agency (pilot)", "local entity (excluded)": "Local office or facility",
          "not entity-creating": "Other legislation", "no title found": "Other legislation"}
 CHAMBER = {"HB": "House", "SB": "Senate"}
+
+
+PROPER = {"philippines": "Philippines", "president": "President", "house of representatives": "House of Representatives",
+          "senate": "Senate", "malacanang": "Malacañang", "house": "House"}
+
+
+def proper(s):
+    for k, v in PROPER.items():
+        s = re.sub(rf"\b{k}\b", v, s)
+    return s
 
 
 def _rows_index():
@@ -89,12 +101,17 @@ def build(_stamp=None):
         num = b.get("number", 0)
         if not b.get("source_url") and b.get("chamber") == "HB" and str(b.get("congress")) == "20":
             b["source_url"] = HOUSE_PDF.format(c=20, n=num)
+        cat = typology.category(title)
+        app = typology.application(title, cat)
+        status = " ".join((b.get("status") or "").split())
+        status = proper(status[:1].upper() + status[1:].lower()) if status else "Status not yet available"
         text = "Full text" if b.get("in_corpus") else ("Text pending" if b.get("text_state") == "pending" else "Listing only")
         out.append({
             "id": b["id"], "label": f"{'HB' if b.get('chamber') == 'HB' else 'SB'} {num}",
             "chamber": CHAMBER.get(b.get("chamber"), b.get("chamber", "")), "congress": str(b.get("congress", "")),
             "number": num, "date_filed": b.get("date_filed", ""), "short_title": b.get("short_title", ""), "title": title,
-            "status": b.get("status", ""), "committee": b.get("committee", ""), "author": b.get("author", ""),
+            "status": status, "type": cat, "applies_to": app, "house_origin": typology.house_origin(cat, app),
+            "bill_type": "House Bill" if b.get("chamber") == "HB" else "Senate Bill", "committee": b.get("committee", ""), "author": b.get("author", ""),
             "scope": SCOPE.get(screen(title), "Other legislation"), "text": text, "found": b.get("found", ""),
             "source": b.get("source", "Corpus"), "source_url": b.get("source_url", ""), "reviewable": bool(b.get("in_corpus")),
         })

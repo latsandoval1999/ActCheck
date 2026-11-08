@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 104" role="img" aria-label="ActCheck">
+  <g fill="none" stroke="#D4A72C" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 14 V86" stroke-width="9"/>
+    <path d="M14 27 H96" stroke-width="9"/>
+    <path d="M22 31 L11 60 M22 31 L33 60" stroke-width="4"/>
+    <path d="M80 52 L91 64 L113 27" stroke-width="9"/>
+  </g>
+  <circle cx="60" cy="11" r="8" fill="#D4A72C"/>
+  <path d="M5 60 H39 A17 15 0 0 1 5 60 Z" fill="#D4A72C"/>
+  <path d="M38 98 Q38 86 60 86 Q82 86 82 98 Z" fill="#D4A72C"/>
+</svg>

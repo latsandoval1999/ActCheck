@@ -43,3 +43,6 @@ Portal renamed ActCheck; agents renamed TrAIce (P1), CompAIre (P2) and AppraisAI
 
 ## Scope and portal v2 (8 Nov 2026)
 Scope widened: the portal lists every House and Senate bill (Open Congress Data + Senate website listing + daily check); agents remain tested on the pilot scope (bills creating a national agency). Senate route moved to the new senate.gov.ph listing feed. Portal redesigned (Home, Bills, Review workspace, Ask ActCheck, Library, Run log, About) with a prototype notice on every page.
+
+## Portal v3 (8 Nov 2026), from the author's edit list
+BantAI-style redesign (navy, gold, red; hero photo with on-screen images replaced; scale-and-check logo); footer credit; homepage summary, typology chart and workflow; Bills tab with Type and Status filters, clickable titles, View bill and Review; on-demand text fetch; review workspace with queue, sequential steps, gating checklists with notes and uploads, concise outputs; DBM-format memo and letter (Tahoma, fields pre-filled from the approved review; AppraisAI memo/letter prompts now return template fields); BILLy companion (search mode without a key); How it Works tab with the Citizen's Charter process.

@@ -1,4 +1,11 @@
 [theme]
-primaryColor = "#1F3864"
 base = "light"
+primaryColor = "#B8322A"
+backgroundColor = "#F4F1EA"
+secondaryBackgroundColor = "#FAF8F3"
+textColor = "#121826"
 font = "sans serif"
+
+[server]
+enableStaticServing = true
+maxUploadSize = 25

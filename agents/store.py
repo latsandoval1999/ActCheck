@@ -22,11 +22,12 @@ def load(bid):
     return json.loads(p.read_text()) if p.exists() else {"bill": bid, "status": "new", "trail": []}
 
 
-def save(bid, key, value, note=None):
+def save(bid, key, value, note=None, trail=True):
     DIR.mkdir(parents=True, exist_ok=True)
     rec = load(bid)
     rec[key] = value
-    rec["trail"].append({"time": datetime.now(timezone.utc).isoformat(timespec="seconds"), "event": note or f"saved {key}"})
+    if trail:
+        rec["trail"].append({"time": datetime.now(timezone.utc).isoformat(timespec="seconds"), "event": note or f"saved {key}"})
     _path(bid).write_text(json.dumps(rec, indent=1, ensure_ascii=False))
     return rec
 
@@ -42,3 +43,27 @@ def all_status():
     if not DIR.exists():
         return {}
     return {p.stem: json.loads(p.read_text()).get("status", "new") for p in DIR.glob("*.json")}
+
+
+def queue(bid, note="Added to the review workspace"):
+    """Put a bill in the review workspace (creates its record if needed)."""
+    if not _path(bid).exists():
+        save(bid, "queued", datetime.now(timezone.utc).isoformat(timespec="seconds"), note)
+    return load(bid)
+
+
+def queue_list():
+    """Bills in the review workspace, most recently touched first: [(bid, record)]."""
+    if not DIR.exists():
+        return []
+    recs = [(p.stem, json.loads(p.read_text())) for p in DIR.glob("*.json")]
+    return sorted(recs, key=lambda r: (r[1].get("trail") or [{"time": ""}])[-1]["time"], reverse=True)
+
+
+def save_upload(bid, step, name, data):
+    """Store a file the reviewer attached to a checklist item; returns its saved name."""
+    d = DIR / "files" / bid
+    d.mkdir(parents=True, exist_ok=True)
+    safe = "".join(ch if ch.isalnum() or ch in "._-" else "_" for ch in name)[:80]
+    (d / f"{step}_{safe}").write_bytes(data)
+    return f"{step}_{safe}"
