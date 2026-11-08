@@ -205,8 +205,8 @@ SOURCES = {"HB": house_fetch}
 
 
 # ---------------- text ----------------
-def pdf_to_text(pdf_bytes):
-    """pdftotext; OCR with tesseract when the PDF has no text layer. Returns (text, method)."""
+def pdf_to_text(pdf_bytes, ocr=True):
+    """pdftotext; OCR with tesseract when the PDF has no text layer (unless ocr=False). Returns (text, method)."""
     with tempfile.TemporaryDirectory() as d:
         p = Path(d) / "bill.pdf"
         p.write_bytes(pdf_bytes)
@@ -215,7 +215,7 @@ def pdf_to_text(pdf_bytes):
             txt = subprocess.run(["pdftotext", "-layout", str(p), "-"], capture_output=True, text=True).stdout
         if len("".join(txt.split())) >= 300:
             return txt, "pdf_text"
-        if shutil.which("pdftoppm") and shutil.which("tesseract"):
+        if ocr and shutil.which("pdftoppm") and shutil.which("tesseract"):
             subprocess.run(["pdftoppm", "-r", "300", "-gray", "-png", str(p), str(Path(d) / "pg")], check=False)
             pages = sorted(Path(d).glob("pg-*.png"), key=lambda x: int(re.findall(r"\d+", x.stem)[-1]))
             out = []
@@ -344,7 +344,74 @@ def run_senate(state, inbox, known, report, max_pdfs, delay, dry_run, recent_day
     report["senate_texts"] = {"fetched": fetched, "still_pending": sum(1 for x in inbox if x["chamber"] == ch and x.get("text") == "pending")}
 
 
-def run(max_probe=60, stop_after=8, pending_days=21, delay=4.0, dry_run=False, chambers=("HB", "SB"), max_pdfs=25):
+def known_house_numbers():
+    """20th Congress House bill numbers already listed (Open Congress Data index, corpus)."""
+    import gzip
+    nums = set()
+    idx = ROOT / "data" / "processed" / "bill_index.csv.gz"
+    if idx.exists():
+        with gzip.open(idx, "rt", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                if r.get("chamber") == "HB" and r.get("congress") == CONGRESS and r.get("number", "").isdigit():
+                    nums.add(int(r["number"]))
+    try:
+        from pipeline.compare import load
+        for b in load()[0].values():
+            if b.get("chamber") == "HB" and b.get("congress") == CONGRESS:
+                nums.add(int(b["id"].split("-")[2]))
+    except Exception:
+        pass
+    return nums
+
+
+def run_backfill(state, inbox, known, report, max_n, delay, dry_run):
+    """Catch-up: work backwards through House numbers that are missing from every list, fetching each
+    bill from the House documents server. Runs alongside the daily check; up to max_n numbers per run."""
+    if max_n <= 0:
+        return
+    bf = state.setdefault("backfill", {"next": state["last_seen"]["HB"], "absent": []})
+    listed = known_house_numbers() | {int(x["number"]) for x in inbox if x["chamber"] == "HB"}
+    absent = set(bf.get("absent", []))
+    todo, n = [], bf["next"]
+    while n >= 1 and len(todo) < max_n:
+        if n not in listed and n not in absent:
+            todo.append(n)
+        n -= 1
+    report["backfill"] = {"checked": [todo[0], todo[-1]] if todo else [], "remaining": sum(
+        1 for k in range(1, n + 1) if k not in listed and k not in absent)}
+    if dry_run:
+        print(f"HB catch-up: would check {len(todo)} missing numbers from {todo[:1]} down to {todo[-1:]}")
+        return
+    found, errors = 0, 0
+    for k in todo:
+        data, info = SOURCES["HB"](k)
+        time.sleep(delay)
+        if data is None:
+            if info.startswith(("unavailable", "HTTP 5")):
+                errors += 1
+                if errors >= 5:
+                    report["errors"]["HB catch-up"] = "House documents server unavailable; catch-up will resume next run"
+                    return
+                continue
+            absent.add(k)                     # not on the server (withdrawn, or never uploaded)
+            bf["next"] = k - 1
+            continue
+        text, method = pdf_to_text(data, ocr=False)
+        title = title_of(text)
+        if method != "no_text":
+            save_text("HB", k, text)
+        bid = f"HB-{CONGRESS}-{k}"
+        inbox.append({"id": bid, "chamber": "HB", "number": k, "congress": CONGRESS, "title": title, "screen": screen(title),
+                      "text": "saved" if method != "no_text" else "scanned (OCR pending)", "text_method": method,
+                      "source_url": info, "found": now(), "status": "new", "backfill": True})
+        known.add(bid)
+        found += 1
+        bf["next"] = k - 1
+    bf["absent"] = sorted(absent)
+    report["backfill"]["added"] = found
+
+
+def run(max_probe=60, stop_after=8, pending_days=21, delay=4.0, dry_run=False, chambers=("HB", "SB"), max_pdfs=25, backfill=150):
     WATCH.mkdir(parents=True, exist_ok=True)
     state = load_json(STATE, None) or initial_state()
     inbox = load_json(INBOX, [])
@@ -358,8 +425,13 @@ def run(max_probe=60, stop_after=8, pending_days=21, delay=4.0, dry_run=False, c
         run_house(state, inbox, known, report, max_probe, stop_after, pending_days, delay, dry_run)
     if "SB" in chambers:
         run_senate(state, inbox, known, report, max_pdfs, delay, dry_run)
+    if "HB" in chambers:
+        run_backfill(state, inbox, known, report, backfill, delay, dry_run)
     if not dry_run:
         summary = {k: report[k] for k in ("time", "checked", "errors")} | {"found": len(report["found"])}
+        if report.get("backfill"):
+            summary["catch_up_added"] = report["backfill"].get("added", 0)
+            summary["catch_up_remaining"] = report["backfill"].get("remaining")
         summary["pilot_scope"] = sum(1 for f in report["found"] if f["screen"] == PILOT)
         state["runs"] = (state.get("runs", []) + [summary])[-60:]
         STATE.write_text(json.dumps(state, indent=1))
@@ -394,12 +466,13 @@ if __name__ == "__main__":
     ap.add_argument("--max-probe", type=int, default=60)
     ap.add_argument("--max-pdfs", type=int, default=25, help="Senate bill texts to download per run")
     ap.add_argument("--stop-after", type=int, default=8)
+    ap.add_argument("--backfill", type=int, default=150, help="missing older House numbers to catch up per run (0 to skip)")
     ap.add_argument("--delay", type=float, default=4.0)
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--chamber", choices=["HB", "SB"])
     ap.add_argument("--triage", action="store_true", help="after the run, rebuild the corpus and run Agent 1 on new bills")
     a = ap.parse_args()
-    rep = run(a.max_probe, a.stop_after, delay=max(2.0, a.delay), dry_run=a.dry_run, chambers=(a.chamber,) if a.chamber else ("HB", "SB"), max_pdfs=a.max_pdfs)
+    rep = run(a.max_probe, a.stop_after, delay=max(2.0, a.delay), dry_run=a.dry_run, chambers=(a.chamber,) if a.chamber else ("HB", "SB"), max_pdfs=a.max_pdfs, backfill=a.backfill)
     print(json.dumps(rep, indent=1, ensure_ascii=False))
     if a.triage and not a.dry_run:
         subprocess.run(["python", "-m", "pipeline.build_corpus"], cwd=ROOT, check=False)

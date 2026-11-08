@@ -32,6 +32,12 @@ PROPER = {"philippines": "Philippines", "president": "President", "house of repr
           "senate": "Senate", "malacanang": "Malacañang", "house": "House"}
 
 
+def senate_link(url):
+    """Old Senate PDF links (web.senate.gov.ph/lisdata/...) now live under senate.gov.ph/legacy/lis_bills/."""
+    m = re.match(r"https?://(?:web\.|legacy\.)?senate\.gov\.ph/lisdata/(.+\.pdf)$", url or "", re.I)
+    return f"{SENATE}/legacy/lis_bills/{m.group(1)}" if m else url
+
+
 def proper(s):
     for k, v in PROPER.items():
         s = re.sub(rf"\b{k}\b", v, s)
@@ -87,7 +93,8 @@ def build(_stamp=None):
         put(x["id"], chamber=x["chamber"], congress=x["congress"], number=int(x["number"]), date_filed=x.get("date_filed"),
             title=x.get("title"), short_title=x.get("short_title"), status=x.get("legislative_status"),
             source_url=x.get("pdf_url") or x.get("source_url"), found=x.get("found", "")[:10],
-            source="Daily check", text_state=x.get("text"))
+            source="House documents server (catch-up)" if x.get("backfill") else "Daily check",
+            text_state="pending" if str(x.get("text", "")).startswith(("pending", "scanned")) else x.get("text"))
     for b in corpus.values():
         if b.get("chamber") not in CHAMBER or not b.get("congress"):
             continue
@@ -99,6 +106,7 @@ def build(_stamp=None):
     for b in bills.values():
         title = b.get("title", "")
         num = b.get("number", 0)
+        b["source_url"] = senate_link(b.get("source_url", ""))
         if not b.get("source_url") and b.get("chamber") == "HB" and str(b.get("congress")) == "20":
             b["source_url"] = HOUSE_PDF.format(c=20, n=num)
         cat = typology.category(title)

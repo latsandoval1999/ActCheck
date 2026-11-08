@@ -68,3 +68,19 @@ def test_senate_listing_and_texts(tmp_path, monkeypatch):
     assert inbox["SB-20-52"]["date_filed"] == w.iso_date(DATE1)
     assert (tmp_path / "senate_listing.csv").read_text().count("\n") == 5   # header + 4 bills, all listed
     assert rep["senate_texts"] == {"fetched": 1, "still_pending": 1}
+
+
+def test_house_catch_up(tmp_path, monkeypatch):
+    _setup(tmp_path, monkeypatch)
+    monkeypatch.setattr(w, "known_house_numbers", lambda: {100, 98, 97})
+    pages = {99: "AN ACT CREATING THE PHILIPPINE SPACE AUTHORITY\n\nEXPLANATORY NOTE", 95: "AN ACT AMENDING THE TARIFF CODE\n\nEXPLANATORY NOTE"}
+    calls = []
+    monkeypatch.setattr(w, "SOURCES", {"HB": lambda n: (calls.append(n), (b"%PDF", f"url{n}") if n in pages else (None, "HTTP 404"))[1]})
+    monkeypatch.setattr(w, "pdf_to_text", lambda data, ocr=True: (pages[calls[-1]], "pdf_text"))
+    monkeypatch.setattr(w, "senate_list_page", lambda p: ([], False))
+    rep = w.run(max_probe=1, stop_after=1, delay=0, backfill=3)
+    inbox = {x["id"]: x for x in json.loads((tmp_path / "inbox.json").read_text())}
+    assert {"HB-20-99", "HB-20-95"} <= set(inbox) and inbox["HB-20-99"]["backfill"]
+    assert rep["found"] == [] or all(not f["id"].startswith("HB-20-9") for f in rep["found"])   # catch-up is not 'new'
+    st = json.loads((tmp_path / "state.json").read_text())
+    assert 96 in st["backfill"]["absent"] and st["runs"][-1]["catch_up_added"] == 2

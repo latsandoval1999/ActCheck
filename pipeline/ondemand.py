@@ -21,7 +21,8 @@ def _pdf_for(row):
         sid = (listing.get(n) or {}).get("system_id")
         if sid:
             return watch.senate_pdf(sid)
-    url = row.get("source_url") or ""
+    from pipeline.catalogue import senate_link
+    url = senate_link(row.get("source_url") or "")
     if ch == "HB" and not url.lower().endswith(".pdf"):
         url = HOUSE_PDF.format(c=c, n=n)
     if not url.lower().endswith(".pdf"):
@@ -30,7 +31,9 @@ def _pdf_for(row):
         return None, "blocked by robots.txt"
     try:
         data = watch.http_get(url)
-        return (data, url) if data.startswith(b"%PDF") else (None, "the source did not return a PDF")
+        if data.startswith(b"%PDF"):
+            return data, url
+        return None, "the source did not return a PDF (it may be behind a bot check)"
     except urllib.error.HTTPError as e:
         return None, f"the source returned HTTP {e.code}"
     except Exception as e:

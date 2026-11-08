@@ -558,7 +558,9 @@ if page == "Home":
     ui.hero(APP_NAME, SUBHEADING, TAGLINE, DESCRIPTION, stats=[(f"{len(cat):,}", "Bills listed, 18th to 20th Congress", "House and Senate bills from public sources", ""),
               (f"{len(c20):,}", "Bills in the 20th Congress", f"{int((c20['chamber'] == 'House').sum()):,} House · {int((c20['chamber'] == 'Senate').sum()):,} Senate", "gold"),
               (f"{last.get('found', 0):,}", "New bills from the daily run",
-               (f"Found on {last['time'][:10]} · {len(inbox):,} since the daily check began" if last else "The daily check runs at 06:17 Manila time"), "red")])
+               (f"Found on {last['time'][:10]} · {sum(1 for x in inbox if not x.get('backfill')):,} since the daily check began"
+                + (f" · {sum(1 for x in inbox if x.get('backfill')):,} older bills caught up" if any(x.get('backfill') for x in inbox) else "")
+                if last else "The daily check runs at 06:17 Manila time"), "red")])
 
     ui.section("Bills by type", "What the bills propose",
                "Philippine bills can be classified by who or where they apply to and by what they propose to do. Shares are computed from each "
