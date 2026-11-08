@@ -469,6 +469,22 @@ def case(bid):
 
 
 # ---------------- BILLy ----------------
+def _billy_ask(bid, question=None):
+    """Callback: runs before the page redraws, so the answer is ready when the panel shows."""
+    from agents import billy as B
+    q = (question or st.session_state.get(f"billy_in_{bid}", "")).strip()
+    if not q:
+        return
+    hist = st.session_state.setdefault(f"billy_{bid}", [])
+    hist.append({"role": "user", "content": q})
+    try:
+        ans, _ = B.answer(bid, hist[:-1], q, bool(llm.api_key()))
+    except Exception as e:
+        ans = f"Sorry, I couldn't answer that: {e}"
+    hist.append({"role": "assistant", "content": ans})
+    st.session_state[f"billy_in_{bid}"] = ""
+
+
 def billy():
     from agents import billy as B
     bid = st.session_state.get("bill") if st.session_state.get("bill") in bills else None
@@ -485,25 +501,17 @@ def billy():
                     ui.html(f'<div class="ac-msg u">{escape(m["content"])}</div>')
                 else:
                     st.markdown(m["content"])
-            if not hist:
-                st.caption("Try one of these:")
-            q = None
-            for i, s in enumerate(B.suggestions(bid)[:4] if not hist else []):
-                if st.button(s, key=f"bsug_{bid}_{i}"):
-                    q = s
-            with st.form(f"billy_form_{bid}", clear_on_submit=True):
-                typed = st.text_input("Ask about this bill", placeholder="e.g. Who appoints the head of the new body?")
-                if st.form_submit_button("Ask") and typed.strip():
-                    q = typed.strip()
+            st.caption("Try one of these:" if not hist else "Ask another question:")
+            for i, s in enumerate(B.suggestions(bid)[:4]):
+                if not any(m["content"] == s for m in hist):
+                    st.button(s, key=f"bsug_{bid}_{i}", on_click=_billy_ask, args=(bid, s))
+            st.text_input("Ask about this bill", key=f"billy_in_{bid}", placeholder="e.g. Who appoints the head of the new body?",
+                          on_change=_billy_ask, args=(bid,))
+            c1, c2 = st.columns(2)
+            c1.button("Ask", key=f"billy_go_{bid}", on_click=_billy_ask, args=(bid,), type="primary")
+            if hist:
+                c2.button("Clear chat", key=f"billy_clr_{bid}", on_click=lambda: st.session_state.update({f"billy_{bid}": []}))
             st.caption("AI answers with checked citations." if live else "Search mode (no API key): I quote the bill's own sections.")
-            if q:
-                hist.append({"role": "user", "content": q})
-                try:
-                    ans, _ = B.answer(bid, [m for m in hist[:-1]], q, live)
-                except Exception as e:
-                    ans = f"Sorry, I couldn't answer that: {e}"
-                hist.append({"role": "assistant", "content": ans})
-                st.rerun()
 
 
 # ================= pages =================
