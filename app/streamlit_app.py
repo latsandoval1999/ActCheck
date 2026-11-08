@@ -485,8 +485,30 @@ def _billy_ask(bid, question=None):
     st.session_state[f"billy_in_{bid}"] = ""
 
 
-def billy():
+@st.fragment
+def billy_body(bid):
+    """Runs as a fragment: asking a question refreshes only this panel, so it stays open and answers quickly."""
     from agents import billy as B
+    hist = st.session_state.setdefault(f"billy_{bid}", [])
+    for m in hist[-6:]:
+        if m["role"] == "user":
+            ui.html(f'<div class="ac-msg u">{escape(m["content"])}</div>')
+        else:
+            st.markdown(m["content"])
+    st.caption("Try one of these:" if not hist else "Ask another question:")
+    for i, s in enumerate(B.suggestions(bid)[:4]):
+        if not any(m["content"] == s for m in hist):
+            st.button(s, key=f"bsug_{bid}_{i}", on_click=_billy_ask, args=(bid, s))
+    st.text_input("Ask about this bill", key=f"billy_in_{bid}", placeholder="e.g. Who appoints the head of the new body?",
+                  on_change=_billy_ask, args=(bid,))
+    c1, c2 = st.columns(2)
+    c1.button("Ask", key=f"billy_go_{bid}", on_click=_billy_ask, args=(bid,), type="primary")
+    if hist:
+        c2.button("Clear chat", key=f"billy_clr_{bid}", on_click=lambda: st.session_state.update({f"billy_{bid}": []}))
+    st.caption("AI answers with checked citations." if bool(llm.api_key()) else "Search mode (no API key): I quote the bill's own sections.")
+
+
+def billy():
     bid = st.session_state.get("bill") if st.session_state.get("bill") in bills else None
     with st.container(key="billy"):
         with st.popover("Ask Billy"):
@@ -495,23 +517,7 @@ def billy():
             if not bid:
                 st.write("Open a bill in the review workspace and I'll answer questions about it, citing its sections.")
                 return
-            hist = st.session_state.setdefault(f"billy_{bid}", [])
-            for m in hist[-6:]:
-                if m["role"] == "user":
-                    ui.html(f'<div class="ac-msg u">{escape(m["content"])}</div>')
-                else:
-                    st.markdown(m["content"])
-            st.caption("Try one of these:" if not hist else "Ask another question:")
-            for i, s in enumerate(B.suggestions(bid)[:4]):
-                if not any(m["content"] == s for m in hist):
-                    st.button(s, key=f"bsug_{bid}_{i}", on_click=_billy_ask, args=(bid, s))
-            st.text_input("Ask about this bill", key=f"billy_in_{bid}", placeholder="e.g. Who appoints the head of the new body?",
-                          on_change=_billy_ask, args=(bid,))
-            c1, c2 = st.columns(2)
-            c1.button("Ask", key=f"billy_go_{bid}", on_click=_billy_ask, args=(bid,), type="primary")
-            if hist:
-                c2.button("Clear chat", key=f"billy_clr_{bid}", on_click=lambda: st.session_state.update({f"billy_{bid}": []}))
-            st.caption("AI answers with checked citations." if live else "Search mode (no API key): I quote the bill's own sections.")
+            billy_body(bid)
 
 
 # ================= pages =================
