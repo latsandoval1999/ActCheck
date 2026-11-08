@@ -553,10 +553,9 @@ if page == "Home":
     runs = ws.get("runs", [])
     inbox_p = ROOT / "data" / "watch" / "inbox.json"
     inbox = json.loads(inbox_p.read_text()) if inbox_p.exists() else []
-    ui.hero(APP_NAME, SUBHEADING, TAGLINE, DESCRIPTION)
     last = runs[-1] if runs else {}
     c20 = cat[cat["congress"] == "20"]
-    ui.stats([(f"{len(cat):,}", "Bills listed, 18th to 20th Congress", "House and Senate bills from public sources", ""),
+    ui.hero(APP_NAME, SUBHEADING, TAGLINE, DESCRIPTION, stats=[(f"{len(cat):,}", "Bills listed, 18th to 20th Congress", "House and Senate bills from public sources", ""),
               (f"{len(c20):,}", "Bills in the 20th Congress", f"{int((c20['chamber'] == 'House').sum()):,} House · {int((c20['chamber'] == 'Senate').sum()):,} Senate", "gold"),
               (f"{last.get('found', 0):,}", "New bills from the daily run",
                (f"Found on {last['time'][:10]} · {len(inbox):,} since the daily check began" if last else "The daily check runs at 06:17 Manila time"), "red")])

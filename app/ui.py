@@ -59,7 +59,7 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
   background:#0F1F3B url('app/static/hero.jpg') right top / auto 100% no-repeat;}
 .ac-hero::before{content:""; position:absolute; inset:0;
   background:linear-gradient(90deg, rgba(15,31,59,.96) 0%, rgba(15,31,59,.88) 30%, rgba(15,31,59,.4) 50%, rgba(15,31,59,0) 68%);}
-.ac-hero-in{position:relative; padding:3.4rem var(--pad) 2.2rem; max-width:calc(760px + var(--pad));}
+.ac-hero-in{position:relative; padding:3.2rem var(--pad) 1.8rem; max-width:calc(760px + var(--pad));}
 .ac-hero-brand{display:flex; align-items:center; gap:.9rem; border-left:4px solid var(--red); padding-left:.9rem;}
 .ac-hero-brand img{height:64px;}
 .ac-hero h1{font:900 3.1rem/1 var(--serif) !important; color:#fff !important; margin:0 !important; padding:0 !important;}
@@ -73,6 +73,14 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-btn.red{background:var(--red); color:#fff !important; border:2px solid var(--red);}
 .ac-btn.out{color:#fff !important; border:2px solid #fff;}
 .ac-credit{font-size:.72rem; color:#AEB6C4; margin:1.6rem 0 0;}
+.ac-hstats{position:relative; display:grid; grid-template-columns:repeat(3, 1fr); gap:1rem; padding:0 var(--pad) 2.4rem; max-width:calc(1250px + var(--pad));}
+.ac-hstat{background:rgba(10,22,40,.82); border:1px solid rgba(255,255,255,.16); border-top:5px solid #7FA3D9; border-radius:3px;
+  padding:1rem 1.15rem; backdrop-filter:blur(2px);}
+.ac-hstat.gold{border-top-color:var(--gold);} .ac-hstat.red{border-top-color:#D9473B;}
+.ac-hstat .v{font:700 2.2rem/1.05 var(--mono); color:#A9C3EA;}
+.ac-hstat.gold .v{color:#F0C75A;} .ac-hstat.red .v{color:#F08A7E;}
+.ac-hstat .l{font-weight:700; font-size:.98rem; margin-top:.35rem; color:#fff;}
+.ac-hstat .s{font-size:.82rem; color:#C3CAD6; margin-top:.15rem;}
 
 /* section titles, kicker labels */
 .ac-kicker{font:800 .74rem var(--sans); letter-spacing:.1em; text-transform:uppercase; color:var(--red);}
@@ -205,7 +213,7 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 @media (max-width: 900px){
   .ac-mast{padding-left:calc(var(--pad) + 2.4rem);}
   .ac-hero{min-height:0; background-size:cover; background-position:right center;} .ac-hero::before{background:rgba(15,31,59,.86);} .ac-hero h1{font-size:2.3rem !important;}
-  .ac-stats{grid-template-columns:1fr;} .ac-foot-grid{grid-template-columns:1fr;}
+  .ac-stats{grid-template-columns:1fr;} .ac-hstats{grid-template-columns:1fr;} .ac-foot-grid{grid-template-columns:1fr;}
   .ac-flow{grid-template-columns:1fr;} .ac-arrow{transform:rotate(90deg); height:22px;}
   .ac-bar{grid-template-columns:1fr 70px;} .ac-bar .t{grid-column:1 / -1; grid-row:2;}
   .ac-mast-right{display:none;} .ac-progress{flex-wrap:wrap;} .ac-progress div{flex:1 1 30%;}
@@ -228,8 +236,14 @@ def masthead(app, sub):
 <div class="ac-mast-right">Philippine legislative review<br>18th–20th Congress</div></div>""")
 
 
-def hero(app, sub, tagline, desc, credit=""):
+def hero(app, sub, tagline, desc, credit="", stats=None):
+    """stats: (value, label, sub, colour) cards shown inside the banner below the buttons."""
     credit_html = f'<div class="ac-credit">{escape(credit)}</div>' if credit else ""
+    stats_html = ""
+    if stats:
+        stats_html = '<div class="ac-hstats">' + "".join(
+            f'<div class="ac-hstat {c}"><div class="v">{escape(str(v))}</div><div class="l">{escape(l)}</div><div class="s">{escape(s)}</div></div>'
+            for v, l, s, c in stats) + "</div>"
     t = " ".join(f"<b>{escape(w.split(' ', 1)[0])}</b> {escape(w.split(' ', 1)[1])}" if " " in w else escape(w)
                  for w in [s.strip() + "." for s in tagline.strip(".").split(".") if s.strip()])
     html(f"""<div class="ac-hero"><div class="ac-hero-in">
@@ -239,7 +253,7 @@ def hero(app, sub, tagline, desc, credit=""):
 <div class="ac-btns"><a class="ac-btn red" href="?page=Bills" target="_self">Browse the bills →</a>
 <a class="ac-btn out" href="?page=How it Works" target="_self">How it works</a></div>
 {credit_html}
-</div></div>""")
+</div>{stats_html}</div>""")
 
 
 def section(kicker, title, text=""):
