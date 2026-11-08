@@ -54,10 +54,11 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .st-key-nav label[data-selected="true"] p, .st-key-nav label:has(input:checked) p{color:#fff;}
 
 /* hero */
-.ac-hero{position:relative; border-radius:0; overflow:hidden; margin:-1rem calc(-1 * var(--pad)) 0; min-height:560px;
-  background:#0B2545 url('app/static/hero.jpg') right center / cover no-repeat;}
+/* The whole photo is shown: it fills the banner's height and sits on the right; the left is the photo's own navy (#0F1F3B). */
+.ac-hero{position:relative; border-radius:0; overflow:hidden; margin:-1rem calc(-1 * var(--pad)) 0; min-height:clamp(600px, 37vw, 780px);
+  background:#0F1F3B url('app/static/hero.jpg') right top / auto 100% no-repeat;}
 .ac-hero::before{content:""; position:absolute; inset:0;
-  background:linear-gradient(90deg, rgba(10,22,40,.97) 0%, rgba(10,22,40,.9) 38%, rgba(10,22,40,.45) 62%, rgba(10,22,40,.1) 100%);}
+  background:linear-gradient(90deg, rgba(15,31,59,.96) 0%, rgba(15,31,59,.88) 30%, rgba(15,31,59,.4) 50%, rgba(15,31,59,0) 68%);}
 .ac-hero-in{position:relative; padding:3.4rem var(--pad) 2.2rem; max-width:calc(760px + var(--pad));}
 .ac-hero-brand{display:flex; align-items:center; gap:.9rem; border-left:4px solid var(--red); padding-left:.9rem;}
 .ac-hero-brand img{height:64px;}
@@ -203,7 +204,7 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 
 @media (max-width: 900px){
   .ac-mast{padding-left:calc(var(--pad) + 2.4rem);}
-  .ac-hero{min-height:0;} .ac-hero::before{background:rgba(10,22,40,.86);} .ac-hero h1{font-size:2.3rem !important;}
+  .ac-hero{min-height:0; background-size:cover; background-position:right center;} .ac-hero::before{background:rgba(15,31,59,.86);} .ac-hero h1{font-size:2.3rem !important;}
   .ac-stats{grid-template-columns:1fr;} .ac-foot-grid{grid-template-columns:1fr;}
   .ac-flow{grid-template-columns:1fr;} .ac-arrow{transform:rotate(90deg); height:22px;}
   .ac-bar{grid-template-columns:1fr 70px;} .ac-bar .t{grid-column:1 / -1; grid-row:2;}
