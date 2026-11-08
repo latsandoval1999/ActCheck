@@ -65,7 +65,7 @@ def check_table(checks):
 
 def pick(df, key, column_config=None, height=None):
     """Single-row selection from a dataframe; returns the row position or None."""
-    kw = {"height": height} if height else {}
+    kw = {"height": min(height, 38 + 35 * max(len(df), 1))} if height else {}
     ev = st.dataframe(df, use_container_width=True, hide_index=True, on_select="rerun", selection_mode="single-row",
                       key=key, column_config=column_config, **kw)
     rows = ev.selection.rows if ev and hasattr(ev, "selection") else []
