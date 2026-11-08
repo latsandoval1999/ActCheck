@@ -36,6 +36,8 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-word span{color:var(--gold);}
 .ac-sub{font-size:.78rem; color:#BDB8AC; margin-top:.15rem; font-weight:500;}
 .ac-mast-right{font:600 .72rem var(--mono); color:#BDB8AC; text-align:right; text-transform:uppercase; letter-spacing:.06em;}
+.st-key-nav, .st-key-nav > div, .st-key-nav [data-testid="stRadio"]{width:100% !important; max-width:100% !important;}
+.ac-brand, .ac-brand *{text-decoration:none !important;}
 .st-key-nav{background:var(--ink-dark); border-radius:0 0 12px 12px; padding:0 .9rem .55rem; margin-top:-1rem; border-top:1px solid #253247;}
 .st-key-nav [data-testid="stWidgetLabel"]{display:none;}
 .st-key-nav div[role="radiogroup"]{gap:.15rem; flex-wrap:wrap; padding-top:.45rem;}
@@ -128,7 +130,11 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .st-key-billgrid [data-testid="stHorizontalBlock"]{border-bottom:1px solid var(--line2); padding:.25rem 0; align-items:center;}
 .st-key-billgrid [data-testid="stBaseButton-tertiary"]{text-align:left; justify-content:flex-start; padding:0; min-height:0;
   color:var(--navy); font-weight:600; line-height:1.35;}
-.st-key-billgrid [data-testid="stBaseButton-tertiary"] p{text-align:left; font-size:.9rem;}
+.st-key-billgrid [data-testid="stBaseButton-tertiary"] p{text-align:left; font-size:.88rem; white-space:normal; overflow:visible;
+  text-overflow:clip; display:block;}
+.st-key-billgrid [data-testid="stBaseButton-tertiary"] div{white-space:normal; overflow:visible;}
+.st-key-billgrid [data-testid="stBaseButton-secondary"]{padding:.25rem .7rem; min-height:0;}
+.st-key-billgrid [data-testid="stBaseButton-secondary"] p{font-size:.82rem;}
 .st-key-billgrid [data-testid="stBaseButton-tertiary"]:hover p{color:var(--red); text-decoration:underline;}
 .ac-billno{font:700 .9rem var(--mono); color:var(--ink);}
 .ac-filed{font-size:.75rem; color:var(--mute); margin-top:-.2rem;}

@@ -190,6 +190,7 @@ def checklist(bid, step, items, heading="Reviewer checklist: tick every item to 
         if changed:
             allcl[step] = cl
             store.save(bid, "checklist", allcl, trail=False)
+            st.rerun()                       # refresh so the step locks and the progress bar reflect the change
         n_done = sum(1 for i in range(len(items)) if (cl.get(str(i)) or {}).get("done"))
         st.caption(f"{n_done} of {len(items)} items done.")
     return n_done == len(items) and len(items) > 0
