@@ -58,6 +58,30 @@ def bill_table(stamp):
     return pd.DataFrame(catalogue.build(stamp))
 
 
+# The rules-only analyses take a few seconds each; cache them per bill (the stamp changes when the corpus does).
+@st.cache_data(show_spinner="Gathering the evidence...", max_entries=64)
+def c_evidence(bid, stamp):
+    from agents.research import evidence_pack
+    return evidence_pack(bid)
+
+
+@st.cache_data(show_spinner="Finding related bills...", max_entries=64)
+def c_related(bid, stamp):
+    return related_bills(bid, top=15)
+
+
+@st.cache_data(show_spinner="Comparing the bills...", max_entries=64)
+def c_compare(bid, ref, stamp):
+    from agents.diagnosis import report_markdown
+    return report_markdown(bid, ref)
+
+
+@st.cache_data(show_spinner=False, max_entries=64)
+def c_cost(bid, stamp):
+    from agents.costing import cost_range
+    return cost_range(bid)
+
+
 # ---------------- navigation ----------------
 def go(page, bill=None):
     """Navigate on the next run (widget state can only be changed before widgets are drawn)."""
@@ -211,7 +235,7 @@ def pick_reference(bid, research_out):
             for r in research_out.get("related", []):
                 if lab in (r.get("relationship") or "") and r.get("id") in bills and r["id"] != bid:
                     return r["id"]
-    rel = related_bills(bid, top=1)
+    rel = c_related(bid, catalogue.stamp())
     return rel[0]["id"] if rel else None
 
 
@@ -302,7 +326,7 @@ def case(bid):
         free_route(f"p1_{bid}", lambda: p1_msgs(bid)[:2],
                    lambda out: (store.save(bid, "research", {"output": out, "checks": p1_check(out)}, f"{AGENT1} (free route)"),
                                 store.set_status(bid, "in review")))
-        render.trace(evidence_pack(bid), research_out, (rec.get("research") or {}).get("checks"))
+        render.trace(c_evidence(bid, catalogue.stamp()), research_out, (rec.get("research") or {}).get("checks"))
         checklist(bid, "s1", CHECK1)
 
     # Step 2: CompAIre
@@ -313,7 +337,7 @@ def case(bid):
         if not d1:
             st.caption("🔒 Complete Step 1's checklist to unlock this step.")
         else:
-            cand = [r["id"] for r in related_bills(bid, top=15)]
+            cand = [r["id"] for r in c_related(bid, catalogue.stamp())]
             default_ref = pick_reference(bid, research_out) or (cand[0] if cand else None)
             if default_ref and default_ref not in cand:
                 cand = [default_ref] + cand
@@ -334,7 +358,7 @@ def case(bid):
             if dia and dia.get("reference") == ref:
                 render.compare(dia["output"], dia.get("checks"))
             else:
-                render.compare(None, baseline_md=p2_md(bid, ref))
+                render.compare(None, baseline_md=c_compare(bid, ref, catalogue.stamp()))
             checklist(bid, "s2", CHECK2)
 
     # Step 3: AppraisAI
@@ -359,7 +383,7 @@ def case(bid):
             if rev:
                 free_route(f"p3rt_{bid}", lambda: build_redteam_messages(bid, rev),
                            lambda out: store.save(bid, "redteam", {"output": out}, "Red-team (free route)"))
-            render.appraise(rev, cost_range(bid), peso, check_review(bid, rev) if rev else None, (rec.get("redteam") or {}).get("output"))
+            render.appraise(rev, c_cost(bid, catalogue.stamp()), peso, check_review(bid, rev) if rev else None, (rec.get("redteam") or {}).get("output"))
             if not rev:
                 st.caption(f"{AGENT3} has not drafted a review yet. The checklist below can still be completed from the rules-only analysis.")
             done3 = checklist(bid, "s3", check3, "Reviewer checklist: verify, then approve to unlock comments, memo and letter")
