@@ -422,6 +422,13 @@ def run(max_probe=60, stop_after=8, pending_days=21, delay=4.0, dry_run=False, c
         if x.get("status") == "not for review":
             x["status"] = "new"
         x.setdefault("text", "saved")
+    for x in inbox:                     # re-read titles that look wrong (empty, too short, or not the capitalised title)
+        if x["chamber"] == "HB" and x.get("text") == "saved" and (len(x.get("title", "")) < 20 or not x.get("title", "").isupper()):
+            f = TEXT / f"{x['congress']}th Congress" / f"HB{int(x['number']):05d}.txt"
+            if f.exists():
+                new = title_of(f.read_text(errors="ignore"))
+                if new and new != x.get("title"):
+                    x["title"], x["screen"] = new, screen(new)
     known = {x["id"] for x in inbox}
     report = {"time": now(), "checked": {}, "found": [], "errors": {}}
     if "HB" in chambers:
