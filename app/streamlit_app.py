@@ -264,11 +264,14 @@ def paper(fields, kind):
 
 
 def field_editor(key, fields, spec):
-    with st.form(key):
+    # the widget keys carry a fingerprint of the saved text, so the boxes always show the latest saved version
+    import hashlib
+    rev = hashlib.md5(json.dumps(fields, sort_keys=True).encode()).hexdigest()[:8]
+    with st.form(f"{key}_{rev}"):
         new = {}
         for k, lab in spec:
             v = str(fields.get(k, ""))
-            new[k] = st.text_area(lab, v, height=68 if len(v) < 120 else 150, key=f"{key}_{k}")
+            new[k] = st.text_area(lab, v, height=68 if len(v) < 120 else 150, key=f"{key}_{k}_{rev}")
         ok = st.form_submit_button("Save edits", type="primary")
     return new if ok else None
 

@@ -62,13 +62,13 @@ def memo_prefill(bid, review, comments=None, bureau_inputs="", status=""):
         "subject": f"PRELIMINARY COMMENTS ON {bill_name(bid).upper()} ENTITLED \"{title.upper()}\"",
         "s1": (f"This pertains to [the request of the Committee on ______ dated ______] for the comments and recommendations of the "
                f"Department of Budget and Management (DBM) on {bill_name(bid)} entitled \"{title}.\""
-               + (f" Status as listed: {status}." if status else "")),
+               + (f" Its status as listed is: {status.lower()}." if status and not status.startswith("Status not") else "")),
         "s1_1": "[BILLS referred the bill to the concerned DBM bureaus, e.g. the Budget and Management Bureau (BMB) and the "
                 "Organization, Position Classification and Compensation Bureau (OPCCB), for comments on ______.]",
         "s2": review.get("summary", ""),
         "s3_1": bureau_inputs.strip() or "[Comments of the concerned bureaus, as received.]",
         "s3_2": "\n".join(lines) or "[Proposed comments.]",
-        "s3_3": fiscal,
+        "s3_3": fiscal or "[Fiscal implications: to be completed from the AppraisAI review and the bureaus' comments.]",
         "s4": POSITION_PLACEHOLDER,
         "s5": "Should the Secretary find merit in the recommendation, attached is the draft letter to [the Chairperson, Committee on ______, "
               "House of Representatives / Senate of the Philippines] conveying the DBM comments.",
@@ -104,7 +104,12 @@ def letter_prefill(bid, memo_fields, chamber_hint=None):
     title = bills[bid]["title"].rstrip(".")
     chamber = "Senate of the Philippines" if bid.startswith("SB") else "House of Representatives"
     place = "Pasay City" if bid.startswith("SB") else "Quezon City"
-    pos = (memo_fields.get("s4") or "").strip()
+    s4 = (memo_fields.get("s4") or "").upper()
+    chosen = next((x for x in sorted(POSITIONS, key=len, reverse=True) if x.upper() in s4), None)
+    stance = {"support": "supports the passage of the bill",
+              "support with amendments": "supports the bill, subject to the comments below",
+              "defer": "respectfully recommends that action on the bill be deferred, in view of the comments below",
+              "oppose": "is unable to support the bill, in view of the comments below"}.get(chosen, "[states its position]")
     return {
         "date": today(),
         "addressee": "[HON. ______]",
@@ -114,8 +119,8 @@ def letter_prefill(bid, memo_fields, chamber_hint=None):
         "salutation": "Dear [Chairperson ______]:",
         "p1": (f"This refers to [your letter dated ______ requesting] the comments of the Department of Budget and Management (DBM) "
                f"on {bill_name(bid)} entitled \"{title}.\""),
-        "p2": (f"After review, the DBM {pos if pos and '[' not in pos else '[position]'}. In particular, we respectfully offer the "
-               f"following comments:\n{memo_fields.get('s3_2', '')}"),
+        "p2": (f"After review, the DBM {stance}. In particular, we respectfully offer the following comments:\n"
+               f"{memo_fields.get('s3_2', '')}"),
         "p3": memo_fields.get("s3_3", ""),
         "p4": "We trust that these comments will be considered in the Committee's deliberations. The DBM remains available to provide "
               "further technical assistance on the measure.",
