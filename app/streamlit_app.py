@@ -553,9 +553,9 @@ if page == "Home":
     runs = ws.get("runs", [])
     inbox_p = ROOT / "data" / "watch" / "inbox.json"
     inbox = json.loads(inbox_p.read_text()) if inbox_p.exists() else []
-    ui.hero(APP_NAME, SUBHEADING, TAGLINE, DESCRIPTION)
-    ui.html('<div class="ac-credit">Illustration: collage of the House of Representatives plenary hall and Filipino communities, provided by the author; '
-            'on-screen images replaced.</div>')
+    ui.hero(APP_NAME, SUBHEADING, TAGLINE, DESCRIPTION,
+            credit="Illustration: collage of the House of Representatives plenary hall and Filipino communities, provided by the author; "
+                   "on-screen images replaced.")
     last = runs[-1] if runs else {}
     c20 = cat[cat["congress"] == "20"]
     ui.stats([(f"{len(cat):,}", "Bills listed, 18th to 20th Congress", "House and Senate bills from public sources", ""),

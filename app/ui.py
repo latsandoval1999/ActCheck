@@ -18,27 +18,31 @@ CSS = """
   --paper:#F4F1EA; --soft:#FAF8F3; --card:#FFFFFF; --ink:#121826; --ink2:#3A3F4B; --mute:#6B6F7A; --line:#D8D3C7; --line2:#E6E1D6;
   --green:#1E6B47; --green-soft:#E3F2E9; --serif:'Source Serif 4', Georgia, serif; --sans:'Libre Franklin', system-ui, -apple-system, sans-serif;
   --mono:'IBM Plex Mono', ui-monospace, monospace;
+  --pad:clamp(1rem, 3.2vw, 3.5rem);   /* side margin of the page; full-width bands reach past it */
 }
 html, body, .stApp, .stMarkdown, button, input, textarea, select, label {font-family:var(--sans);}
 .stApp{background:var(--paper); color:var(--ink);}
-[data-testid="stHeader"]{background:transparent; height:2rem;}
+[data-testid="stHeader"]{background:transparent; height:0;}
+[data-testid="stSidebarCollapsedControl"] button, [data-testid="stExpandSidebarButton"], [data-testid="stSidebarCollapsedControl"] svg{color:#fff !important;}
+.stApp{overflow-x:hidden;}
 #MainMenu, footer, [data-testid="stToolbar"], [data-testid="stDecoration"]{visibility:hidden;}
-.block-container{padding-top:.6rem; padding-bottom:6rem; max-width:1200px;}
+.block-container{padding:0 var(--pad) 0 !important; max-width:100% !important;}
 h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important; letter-spacing:-.01em;}
 .stMarkdown p{line-height:1.6;}
 
 /* masthead + navigation */
 .ac-mast{display:flex; align-items:center; justify-content:space-between; gap:1rem; background:var(--ink-dark);
-  padding:.75rem 1.2rem; border-radius:12px 12px 0 0;}
+  margin:0 calc(-1 * var(--pad)); padding:.85rem var(--pad) .75rem; border-radius:0;}
 .ac-brand{display:flex; align-items:center; gap:.7rem; text-decoration:none;}
 .ac-brand img{height:38px;}
 .ac-word{font:900 1.55rem/1 var(--serif); color:#fff; letter-spacing:.005em;}
 .ac-word span{color:var(--gold);}
 .ac-sub{font-size:.78rem; color:#BDB8AC; margin-top:.15rem; font-weight:500;}
 .ac-mast-right{font:600 .72rem var(--mono); color:#BDB8AC; text-align:right; text-transform:uppercase; letter-spacing:.06em;}
-.st-key-nav, .st-key-nav > div, .st-key-nav [data-testid="stRadio"]{width:100% !important; max-width:100% !important;}
+.st-key-nav > div, .st-key-nav [data-testid="stRadio"]{width:100% !important; max-width:100% !important;}
 .ac-brand, .ac-brand *{text-decoration:none !important;}
-.st-key-nav{background:var(--ink-dark); border-radius:0 0 12px 12px; padding:0 .9rem .55rem; margin-top:-1rem; border-top:1px solid #253247;}
+.st-key-nav{background:var(--ink-dark); border-radius:0; padding:0 calc(var(--pad) - .85rem) .5rem; margin:-1rem calc(-1 * var(--pad)) 0;
+  width:calc(100% + 2 * var(--pad)) !important; max-width:none !important; border-top:1px solid #253247;}
 .st-key-nav [data-testid="stWidgetLabel"]{display:none;}
 .st-key-nav div[role="radiogroup"]{gap:.15rem; flex-wrap:wrap; padding-top:.45rem;}
 .st-key-nav label[data-testid="stRadioOption"], .st-key-nav div[role="radiogroup"] label{margin:0 !important; padding:.38rem .85rem;
@@ -50,11 +54,11 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .st-key-nav label[data-selected="true"] p, .st-key-nav label:has(input:checked) p{color:#fff;}
 
 /* hero */
-.ac-hero{position:relative; border-radius:14px; overflow:hidden; margin:1rem 0 .3rem; min-height:440px;
+.ac-hero{position:relative; border-radius:0; overflow:hidden; margin:-1rem calc(-1 * var(--pad)) 0; min-height:560px;
   background:#0B2545 url('app/static/hero.jpg') right center / cover no-repeat;}
 .ac-hero::before{content:""; position:absolute; inset:0;
   background:linear-gradient(90deg, rgba(10,22,40,.97) 0%, rgba(10,22,40,.9) 38%, rgba(10,22,40,.45) 62%, rgba(10,22,40,.1) 100%);}
-.ac-hero-in{position:relative; padding:2.4rem 2.2rem 2rem; max-width:640px;}
+.ac-hero-in{position:relative; padding:3.4rem var(--pad) 2.2rem; max-width:calc(760px + var(--pad));}
 .ac-hero-brand{display:flex; align-items:center; gap:.9rem; border-left:4px solid var(--red); padding-left:.9rem;}
 .ac-hero-brand img{height:64px;}
 .ac-hero h1{font:900 3.1rem/1 var(--serif) !important; color:#fff !important; margin:0 !important; padding:0 !important;}
@@ -67,7 +71,7 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-btn{display:inline-block; padding:.62rem 1.05rem; font-weight:700; font-size:.92rem; text-decoration:none !important; border-radius:3px;}
 .ac-btn.red{background:var(--red); color:#fff !important; border:2px solid var(--red);}
 .ac-btn.out{color:#fff !important; border:2px solid #fff;}
-.ac-credit{font-size:.72rem; color:var(--mute); margin:.25rem 0 0;}
+.ac-credit{font-size:.72rem; color:#AEB6C4; margin:1.6rem 0 0;}
 
 /* section titles, kicker labels */
 .ac-kicker{font:800 .74rem var(--sans); letter-spacing:.1em; text-transform:uppercase; color:var(--red);}
@@ -189,7 +193,8 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-msg.u{background:#E3E9F3; margin-left:2rem;} .ac-msg.b{background:var(--soft); border:1px solid var(--line); margin-right:1rem;}
 
 /* footer */
-.ac-foot{margin-top:3rem; background:var(--ink-dark); color:#C9CDD6; border-radius:12px; padding:1.5rem 1.6rem 1.1rem; font-size:.84rem; line-height:1.55;}
+.ac-foot{margin:3rem calc(-1 * var(--pad)) 0; background:var(--ink-dark); color:#C9CDD6; border-radius:0; padding:2rem var(--pad) 5.5rem;
+  font-size:.84rem; line-height:1.55;}
 .ac-foot-grid{display:grid; grid-template-columns:1.3fr 1fr 1fr; gap:1.5rem;}
 .ac-foot h5{color:#fff; font:800 .98rem var(--serif); margin:0 0 .35rem;}
 .ac-foot a{color:var(--gold) !important;}
@@ -197,6 +202,7 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-footnote b{color:#fff;}
 
 @media (max-width: 900px){
+  .ac-mast{padding-left:calc(var(--pad) + 2.4rem);}
   .ac-hero{min-height:0;} .ac-hero::before{background:rgba(10,22,40,.86);} .ac-hero h1{font-size:2.3rem !important;}
   .ac-stats{grid-template-columns:1fr;} .ac-foot-grid{grid-template-columns:1fr;}
   .ac-flow{grid-template-columns:1fr;} .ac-arrow{transform:rotate(90deg); height:22px;}
@@ -221,7 +227,8 @@ def masthead(app, sub):
 <div class="ac-mast-right">Philippine legislative review<br>18th–20th Congress</div></div>""")
 
 
-def hero(app, sub, tagline, desc):
+def hero(app, sub, tagline, desc, credit=""):
+    credit_html = f'<div class="ac-credit">{escape(credit)}</div>' if credit else ""
     t = " ".join(f"<b>{escape(w.split(' ', 1)[0])}</b> {escape(w.split(' ', 1)[1])}" if " " in w else escape(w)
                  for w in [s.strip() + "." for s in tagline.strip(".").split(".") if s.strip()])
     html(f"""<div class="ac-hero"><div class="ac-hero-in">
@@ -230,6 +237,7 @@ def hero(app, sub, tagline, desc):
 <div class="ac-desc">{escape(desc)}</div>
 <div class="ac-btns"><a class="ac-btn red" href="?page=Bills" target="_self">Browse the bills →</a>
 <a class="ac-btn out" href="?page=How it Works" target="_self">How it works</a></div>
+{credit_html}
 </div></div>""")
 
 
