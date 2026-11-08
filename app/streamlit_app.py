@@ -76,6 +76,18 @@ def c_compare(bid, ref, stamp):
     return report_markdown(bid, ref)
 
 
+@st.cache_data(show_spinner="Comparing the bills...", max_entries=64)
+def c_facts(bid, ref, stamp):
+    from agents.diagnosis import fact_diff
+    return fact_diff(bid, ref)
+
+
+@st.cache_data(show_spinner="Matching sections...", max_entries=64)
+def c_align(bid, ref, stamp):
+    from pipeline.compare import align
+    return align(bid, ref)
+
+
 @st.cache_data(show_spinner=False, max_entries=64)
 def c_cost(bid, stamp):
     from agents.costing import cost_range
@@ -102,13 +114,13 @@ if st.session_state.get("nav") not in PAGES:
 
 with st.sidebar:
     st.markdown("### Reviewer settings")
-    pasted = st.text_input("Anthropic API key (optional, kept for this session only)", type="password")
+    pasted = st.text_input("AI access key from Anthropic (optional; kept only while this page is open)", type="password")
     if pasted:
         st.session_state["user_api_key"] = pasted
     st.selectbox("Model", list(llm.MODELS), format_func=lambda m: llm.MODELS[m], key="model",
                  help="Haiku is about 20 times cheaper; Sonnet gives better citations and comparisons.")
     live = bool(llm.api_key())
-    st.write("AI agents:", "**on**" if live else "**off**: rules-only checks, BILLy in search mode, free route for each agent")
+    st.write("AI agents:", "**on**" if live else "**off**. ActCheck still shows its own analysis, BILLy searches the bill's text, and each agent can be run in your Claude chat.")
     st.caption(LABEL)
 
 ui.masthead(APP_NAME, SUBHEADING)
@@ -134,24 +146,24 @@ def house_note(row):
 
 def free_route(key, prompt_fn, on_reply, json_reply=True):
     """Download the prompt, run it in a Claude chat, paste the reply back."""
-    with st.expander("No API key? Free route: run this step in a Claude chat"):
-        st.caption("1) Download the prompt. 2) Attach it to a new Claude chat and ask it to follow the SYSTEM PROMPT and reply "
-                   + ("with the JSON only." if json_reply else "with the document only.") + " 3) Paste the reply here.")
+    with st.expander("No AI key? Run this step in your Claude chat instead"):
+        st.caption("1) Download the instructions. 2) Open a new Claude chat, attach the file and ask Claude to follow it exactly. "
+                   "3) Paste Claude's reply below. ActCheck checks the reply before saving it.")
         try:
             system, user = prompt_fn()
-            st.download_button("Download prompt", f"=== SYSTEM PROMPT ===\n{system}\n=== USER MESSAGE ===\n{user}",
+            st.download_button("Download the instructions", f"=== SYSTEM PROMPT ===\n{system}\n=== USER MESSAGE ===\n{user}",
                                file_name=f"prompt_{key}.txt", key=f"dl_{key}")
         except Exception as e:
             st.info(str(e))
             return
-        reply = st.text_area("Paste the reply", key=f"reply_{key}", height=140)
-        if st.button("Check and save reply", key=f"save_{key}", disabled=not reply.strip()):
+        reply = st.text_area("Paste Claude's reply", key=f"reply_{key}", height=140)
+        if st.button("Check and save the reply", key=f"save_{key}", disabled=not reply.strip()):
             try:
                 on_reply(llm.parse_json(reply) if json_reply else reply)
                 st.success("Checked and saved.")
                 st.rerun()
             except Exception as e:
-                st.error(f"Could not read the reply: {e}")
+                st.error(f"ActCheck could not read the reply ({e}). Make sure you pasted the whole reply.")
 
 
 # ---------------- Bills: review action and details dialog ----------------
@@ -179,7 +191,7 @@ def bill_dialog(row):
     meta = [("Short title", row["short_title"]), ("Filed", row["date_filed"]), ("Committee", row["committee"]),
             ("Author", row["author"]), ("Listed from", row["source"])]
     st.caption(" · ".join(f"{k}: {v}" for k, v in meta if v))
-    st.caption("Type and 'applies to' are classified from the title by rules; confirm them during review.")
+    st.caption("The type and scope are assigned from the bill's title and should be confirmed during review.")
     c1, c2 = st.columns(2)
     if c1.button("Review this bill", type="primary", key=f"dlg_rev_{row['id']}"):
         start_review(row)
@@ -299,7 +311,7 @@ def case(bid):
     def all_done(step, n):
         c = cl.get(step) or {}
         return n > 0 and all((c.get(str(i)) or {}).get("done") for i in range(n))
-    check3 = (rev or {}).get("checklist") or ["Costing assumptions marked 'to verify' are checked.", "The red-team issues are resolved or noted.",
+    check3 = (rev or {}).get("checklist") or ["The cost assumptions marked 'to verify' have been checked.", "The issues raised by the second reviewer are resolved or noted.",
                                                "The preliminary comments are edited and complete."]
     check3 = list(check3[:10]) + ["I have verified this review against the sources and approve it as the basis for the memo."]
     d1, d2, d3 = all_done("s1", len(CHECK1)), all_done("s2", len(CHECK2)), all_done("s3", len(check3))
@@ -310,17 +322,19 @@ def case(bid):
         prev = [True, d1, d2, d3, d3][i]
         states.append("done" if d else ("now" if prev else ""))
     ui.progress(STEPS, states)
-    st.caption(f"Text: {b['text_source']} ({b['n_sections']} sections)" + (" · OCR text: check quotes against the PDF" if b["text_source"] == "ocr" else "")
-               + ("" if live else " · AI agents are off: add a key under Reviewer settings (top-left ›) or use each step's free route."))
+    st.caption((f"Bill text recognized from a scanned PDF ({b['n_sections']} sections); check quotes against the original."
+                if b["text_source"] == "ocr" else f"Bill text read from the PDF ({b['n_sections']} sections).")
+               + ("" if live else " AI agents are off: add a key under Reviewer settings (the › arrow at the top left), or run each step in your Claude chat."))
     if row.get("type") != "Government organization and mandates":
-        ui.notice(f"<b>Outside the pilot scope.</b> {AGENT1} and {AGENT2} work on any bill. {AGENT3}'s costing engine is built for bills that "
-                  "create a new agency, so treat its cost range as not applicable here.", "navy")
+        ui.notice(f"<b>Outside the pilot scope.</b> This bill does not appear to create a new government agency. {AGENT1} and {AGENT2} can review "
+                  f"any bill; {AGENT3}'s cost estimate is designed for new agencies, so it may not apply here.", "navy")
 
     # Step 1: TrAIce
     with st.container(border=True):
         ui.step_header(1, AGENT1, "Trace the bill", "done" if d1 else "now")
-        ui.html(f'<div class="ac-step-d">Finds the bill\'s earlier versions in past Congresses, its counterpart and refiled copies in both chambers, '
-                f'and the existing laws it amends or overlaps with. Every link is cited to a section and the quote is checked automatically.</div>')
+        ui.html('<div class="ac-step-d">Finds earlier versions of the bill in past Congresses, its counterpart and refiled copies in both chambers, '
+                'and the existing laws it amends or overlaps with. Each finding points to a section and quotes it, and ActCheck checks every '
+                'quote against the original text.</div>')
         if st.button(f"▶ Run {AGENT1}", type="primary", disabled=not live, key="run1"):
             from agents.research import run_agent as run1
             with st.spinner(f"{AGENT1} is tracing the bill..."):
@@ -337,8 +351,9 @@ def case(bid):
     # Step 2: CompAIre
     with st.container(border=True):
         ui.step_header(2, AGENT2, "Spot the changes", "done" if d2 else ("now" if d1 else "lock"))
-        ui.html('<div class="ac-step-d">Compares the bill with the closest related measure, section by section: the problem it addresses, '
-                'the substantial differences (with their likely cost effect) and the design options seen across related bills.</div>')
+        ui.html('<div class="ac-step-d">Compares the bill with the most closely related measure, section by section. It describes the problem '
+                'the bill addresses, the main differences between the two versions and their likely effect on cost, and the design choices '
+                'seen across related bills.</div>')
         if not d1:
             st.caption("🔒 Complete Step 1's checklist to unlock this step.")
         else:
@@ -363,21 +378,22 @@ def case(bid):
             if dia and dia.get("reference") == ref:
                 render.compare(dia["output"], dia.get("checks"))
             else:
-                render.compare(None, baseline_md=c_compare(bid, ref, catalogue.stamp()))
+                render.compare_plain(bid, ref, c_facts(bid, ref, catalogue.stamp()), c_align(bid, ref, catalogue.stamp()))
             checklist(bid, "s2", CHECK2)
 
     # Step 3: AppraisAI
     with st.container(border=True):
         ui.step_header(3, AGENT3, "Weigh the impact", "done" if d3 else ("now" if d2 else "lock"))
-        ui.html('<div class="ac-step-d">Drafts the preliminary review: a first-year cost range from the rules-based costing engine (salary schedule '
-                'and comparator agencies), implementation risks, overlaps and preliminary comments. A separate red-teamer then checks the draft.</div>')
+        ui.html('<div class="ac-step-d">Prepares the preliminary review: an estimated first-year cost based on the government salary schedule and '
+                'the actual spending of similar agencies, possible implementation risks, overlaps with existing agencies, and draft comments. '
+                'A second AI reviewer then checks the draft for errors.</div>')
         if not d2:
             st.caption("🔒 Complete Step 2's checklist to unlock this step.")
         else:
             dia_out = (rec.get("diagnosis") or {}).get("output")
-            if st.button(f"▶ Run {AGENT3} (with red-team check)", type="primary", disabled=not live, key="run3"):
+            if st.button(f"▶ Run {AGENT3} (with a second check)", type="primary", disabled=not live, key="run3"):
                 from agents.appraisal import run_review, run_redteam
-                with st.spinner(f"{AGENT3} is weighing the impact, then the red-teamer checks it..."):
+                with st.spinner(f"{AGENT3} is weighing the impact, then a second reviewer checks the draft..."):
                     r3 = run_review(bid, research_out, dia_out)
                     store.save(bid, "review", {"output": r3["draft"], "checks": r3["checks"]}, f"{AGENT3} review")
                     rt = run_redteam(bid, r3["draft"])
@@ -390,7 +406,7 @@ def case(bid):
                            lambda out: store.save(bid, "redteam", {"output": out}, "Red-team (free route)"))
             render.appraise(rev, c_cost(bid, catalogue.stamp()), peso, check_review(bid, rev) if rev else None, (rec.get("redteam") or {}).get("output"))
             if not rev:
-                st.caption(f"{AGENT3} has not drafted a review yet. The checklist below can still be completed from the rules-only analysis.")
+                st.caption(f"{AGENT3} has not drafted a review yet. You can still complete the checklist using ActCheck's own analysis above.")
             done3 = checklist(bid, "s3", check3, "Reviewer checklist: verify, then approve to unlock comments, memo and letter")
             if done3 and not rec.get("approved_review"):
                 store.save(bid, "approved_review", rev or {"summary": b["title"]}, "Reviewer approved the review")
@@ -534,7 +550,8 @@ def billy_body(bid):
     c1.button("Ask", key=f"billy_go_{bid}", on_click=_billy_ask, args=(bid,), type="primary")
     if hist:
         c2.button("Clear chat", key=f"billy_clr_{bid}", on_click=lambda: st.session_state.update({f"billy_{bid}": []}))
-    st.caption("AI answers with checked citations." if bool(llm.api_key()) else "Search mode (no API key): I quote the bill's own sections.")
+    st.caption("Answers come from the bill's own text, with every citation checked." if bool(llm.api_key())
+               else "Without an AI key, BILLy answers by quoting the parts of the bill that best match your question.")
 
 
 def billy():
@@ -565,8 +582,8 @@ if page == "Home":
                 if last else "The daily check runs at 06:17 Manila time"), "red")])
 
     ui.section("Bills by type", "What the bills propose",
-               "Philippine bills can be classified by who or where they apply to and by what they propose to do. Shares are computed from each "
-               "bill's title with ActCheck's rules (one primary type per bill), so read them as approximate.")
+               "Bills can be grouped by whom they apply to and by what they propose to do. ActCheck assigns each bill one main type based "
+               "on its title, so the shares below are approximate.")
     which = st.radio("Congress", ["20th", "19th", "18th", "All"], horizontal=True, key="home_cong")
     d = cat if which == "All" else cat[cat["congress"] == which[:2]]
     n = max(len(d), 1)
@@ -579,7 +596,7 @@ if page == "Home":
     ui.note("<b>Why scope matters for review.</b> Under Article VI, Section 24 of the 1987 Constitution, appropriation, revenue or tariff bills, "
             "bills authorizing an increase of the public debt, bills of local application and private bills originate exclusively in the House "
             "of Representatives; the Senate may propose or concur with amendments. ActCheck flags these bills so the reviewer can follow the "
-            "House version. Highlighted in gold: the pilot type the agents are tested on (government organization and mandates).")
+            "House version. The type in gold, government organization and mandates, is the one the agents are being tested on first.")
 
     ui.section("How a review flows", "From a newly filed bill to comments for legislators",
                "Three agents prepare the evidence; the analyst checks each step before the next one opens and decides the position.")
@@ -590,14 +607,14 @@ if page == "Home":
              ("Step 2", f"{AGENT2} · Spot the changes", "Compares the bill with the closest related measure, section by section, and flags "
               "what changed and its likely cost effect.", "Output: substantial differences and design options", False),
              ("Step 3", f"{AGENT3} · Weigh the impact", "Estimates a first-year cost range, notes risks and overlaps, and drafts preliminary "
-              "comments; a red-teamer checks the draft.", "Output: preliminary review and comments", False),
+              "comments; a second reviewer checks the draft.", "Output: preliminary review and comments", False),
              ("The analyst", "Decide and send", "Ticks each checklist, edits the comments, sets the position and finalizes the DBM memo and letter.",
               "Output: memo to the Secretary and letter to Congress", True)])
 
 elif page == "Bills":
     ui.section("Legislative measures", "Every House and Senate bill",
                "Filter by Congress, bill type, type of measure and status. Click a title for details, or <b>Review</b> to send the bill to your "
-               "review workspace. Bills without full text are fetched from their source when you review them.")
+               "review workspace. If ActCheck does not yet have a bill's full text, it downloads it from the official source when you click Review.")
     with st.container(border=True):
         f1, f2, f3, f4 = st.columns([0.8, 0.9, 1.6, 1.5])
         congress = f1.selectbox("Congress", ["20th", "19th", "18th", "All"])
@@ -691,8 +708,12 @@ elif page == "Review workspace":
             case(bid)
 
 elif page == "Library":
-    ui.section("Document library", "Full texts in ActCheck", "Bills, committee reports and existing laws, split into sections for citation.")
-    lib = pd.DataFrame([{k: b.get(k) for k in ("id", "label", "congress", "family", "kind", "n_sections", "text_source", "title")}
+    ui.section("Document library", "Full texts in ActCheck",
+               "The bills, committee reports and existing laws that ActCheck has read, divided into sections so that each finding can point "
+               "to the exact provision.")
+    lib = pd.DataFrame([{"Document": b.get("label"), "Congress": b.get("congress") or "", "Group": b.get("family"),
+                         "Kind": str(b.get("kind", "")).replace("_", " "), "Sections": b.get("n_sections"),
+                         "Text": "scanned (recognized)" if b.get("text_source") == "ocr" else "PDF text", "Title": b.get("title")}
                         for b in bills.values()])
     st.dataframe(lib, use_container_width=True, hide_index=True, height=320)
     pick_id = st.selectbox("Read a document", sorted(bills), format_func=lambda x: f"{x} · {bills[x]['title'][:100]}")
@@ -701,7 +722,7 @@ elif page == "Library":
             st.write(s["text"])
 
 elif page == "Run log":
-    ui.section("Run log", "Every agent run and daily check", "For the portfolio's run log and AI-use disclosure.")
+    ui.section("Run log", "Every agent run and daily check", "A record of each time an agent was run and each daily check, kept for transparency.")
     rows = []
     for f in sorted((ROOT / "logs").glob("*.jsonl")):
         for x in f.read_text().splitlines():

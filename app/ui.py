@@ -55,7 +55,7 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 
 /* hero */
 /* The whole photo is shown: it fills the banner's height and sits on the right; the left is the photo's own navy (#0F1F3B). */
-.ac-hero{position:relative; border-radius:0; overflow:hidden; margin:-1rem calc(-1 * var(--pad)) 0; min-height:clamp(600px, 37vw, 780px);
+.ac-hero{position:relative; border-radius:0; overflow:hidden; margin:-1rem calc(-1 * var(--pad)) 0; min-height:clamp(540px, 30vw, 660px);
   background:#0F1F3B url('app/static/hero.jpg') right top / auto 100% no-repeat;}
 .ac-hero::before{content:""; position:absolute; inset:0;
   background:linear-gradient(90deg, rgba(15,31,59,.96) 0%, rgba(15,31,59,.88) 30%, rgba(15,31,59,.4) 50%, rgba(15,31,59,0) 68%);}
@@ -73,7 +73,7 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-btn.red{background:var(--red); color:#fff !important; border:2px solid var(--red);}
 .ac-btn.out{color:#fff !important; border:2px solid #fff;}
 .ac-credit{font-size:.72rem; color:#AEB6C4; margin:1.6rem 0 0;}
-.ac-hstats{position:relative; display:grid; grid-template-columns:repeat(3, 1fr); gap:1rem; padding:0 var(--pad) 2.4rem; max-width:calc(1250px + var(--pad));}
+.ac-hstats{position:relative; display:grid; grid-template-columns:repeat(3, 1fr); gap:1rem; padding:0 var(--pad) 1.6rem; max-width:calc(1250px + var(--pad));}
 .ac-hstat{background:rgba(10,22,40,.82); border:1px solid rgba(255,255,255,.16); border-top:5px solid #7FA3D9; border-radius:3px;
   padding:1rem 1.15rem; backdrop-filter:blur(2px);}
 .ac-hstat.gold{border-top-color:var(--gold);} .ac-hstat.red{border-top-color:#D9473B;}
@@ -189,7 +189,7 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 [data-testid="stExpander"] details{background:#fff; border-radius:4px;}
 
 /* Ask Billy floating companion */
-.st-key-billy{position:fixed; right:22px; bottom:20px; z-index:9999; width:auto !important;}
+.st-key-billy{position:fixed; right:28px; bottom:96px; z-index:9999; width:auto !important;}
 .st-key-billy [data-testid="stPopover"] > div > button, .st-key-billy [data-testid="stPopoverButton"]{
   background:var(--ink-dark) url('app/static/billy.png') 10px center / 46px 46px no-repeat; color:#fff; border:2px solid var(--gold);
   border-radius:40px; padding:.55rem 1.1rem .55rem 62px; min-height:60px; box-shadow:0 8px 24px rgba(10,22,40,.35);}

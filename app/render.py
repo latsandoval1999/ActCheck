@@ -46,7 +46,7 @@ def trace(pack, out=None, checks=None):
     entity = (out or {}).get("entity_proposed") or p.get("entity") or "not detected"
     ui.html(f'<div class="ac-out"><p><b>Entity proposed:</b> {escape(entity)}. '
             + (f"<b>Substitutes:</b> {escape(', '.join(p['substitutes']))}. " if p.get("substitutes") else "")
-            + f"<b>Text:</b> {escape(p['text_source'])}, {p['n_sections']} sections.</p></div>")
+            + f"<b>Text:</b> {'recognized from a scanned PDF' if p['text_source'] == 'ocr' else 'read from the PDF'}, {p['n_sections']} sections.</p></div>")
     if out:
         verification(checks)
         rel = out.get("related", [])
@@ -63,9 +63,9 @@ def trace(pack, out=None, checks=None):
                 for g in out["gaps"]:
                     st.markdown(f"- {g}")
     else:
-        ui.notice("Rules-only evidence (no AI yet): the closest bills by text similarity and the laws the bill cites or resembles.", "navy")
-        ui.table(["Bill", "Similarity", "Likely relationship", "Title"],
-                 [[escape(label(r["id"])), f"{r['similarity']:.2f}" if r.get("similarity") is not None else "–",
+        ui.notice("<b>Before any AI is used:</b> the bills whose wording is most similar to this one, and the laws it cites or closely resembles.", "navy")
+        ui.table(["Bill", "Wording in common", "Likely relationship", "Title"],
+                 [[escape(label(r["id"])), f"{r['similarity']:.0%}" if r.get("similarity") is not None else "–",
                    escape(r.get("baseline_label", "")), escape(short(r.get("title"), 110))] for r in pack["related"][:10]], mono_cols=(0, 1))
         if pack.get("laws"):
             ui.table(["Law", "Why listed", "Title"], [[escape(label(l["law"])), escape(l.get("why", "")), escape(short(l.get("title"), 120))]
@@ -78,8 +78,8 @@ FISCAL = {"likely raises cost": "red", "likely lowers cost": "green", "no cost e
 def compare(out, checks=None, baseline_md=None):
     """Step 2: CompAIre."""
     if not out:
-        ui.notice("Rules-only comparison (no AI yet): section-by-section alignment and fact differences with the reference bill.", "navy")
-        with st.expander("Show the rules-only comparison", expanded=True):
+        ui.notice("<b>Before any AI is used:</b> ActCheck's own section-by-section comparison with the related bill.", "navy")
+        with st.expander("Show the comparison", expanded=True):
             st.markdown(baseline_md or "")
         return
     ui.badges([(f"Verdict: {out.get('verdict', '')}", "navy"), (f"Compared with {label(out.get('reference'))}", "")])
@@ -105,11 +105,69 @@ def compare(out, checks=None, baseline_md=None):
     quotes(cites or rows, "q_compare")
     extra = out.get("baseline_corrections", []), out.get("gaps", [])
     if any(extra):
-        with st.expander("Corrections to the rules-only alignment, and gaps"):
+        with st.expander("Where the agent corrected ActCheck's own section matching, and open gaps"):
             for c in extra[0]:
                 st.markdown(f"- **{c.get('target_section')} ↔ {c.get('reference_section')}**: {c.get('note')}")
             for g in extra[1]:
                 st.markdown(f"- Gap: {g}")
+
+
+def _facts_cell(v, key):
+    if not v:
+        return "not stated"
+    out = []
+    for x in v if isinstance(v, list) else [v]:
+        if isinstance(x, (list, tuple)) and len(x) == 2:
+            val, sec = x
+            if key == "head_salary_grades":
+                val = f"SG {val}"
+            elif key == "peso_amounts":
+                val = f"₱{float(val):,.0f} million" if float(val) < 100000 else f"₱{float(val):,.0f}"
+            elif key == "members":
+                val = f"{val} members"
+            out.append(f"{val} (Sec. {sec})")
+        else:
+            out.append(str(x))
+    return "; ".join(out)
+
+
+FACT_LABELS = {"head_salary_grades": "Salary grade of the head", "members": "Composition", "peso_amounts": "Amounts stated",
+               "funding_source": "Source of funds", "abolishes_or_transfers_in_sections": "Abolishes or transfers offices",
+               "n_sections": "Number of sections"}
+
+
+def compare_plain(bid, ref, facts, aligned):
+    """Step 2 without AI: key facts side by side, and how each section matches."""
+    a, b = label(bid).split(" (")[0], label(ref).split(" (")[0]
+    same = sum(1 for x in aligned if x["status"] == "same")
+    changed = sum(1 for x in aligned if x["status"] == "changed")
+    only_a = sum(1 for x in aligned if x["a_section"] and not x["b_section"])
+    only_b = sum(1 for x in aligned if x["b_section"] and not x["a_section"])
+    ui.notice(f"<b>Before any AI is used:</b> ActCheck matched the sections of {escape(a)} with those of {escape(b)}. "
+              f"{same} are nearly the same, {changed} are changed, {only_a} appear only in {escape(a)} and {only_b} only in {escape(b)}.", "navy")
+    rows = []
+    for k, lab in FACT_LABELS.items():
+        f = facts.get(k)
+        if not f:
+            continue
+        ta, tb = f.get("target"), f.get("reference")
+        cell_a = str(ta) if k == "n_sections" else escape(_facts_cell(ta, k))
+        cell_b = str(tb) if k == "n_sections" else escape(_facts_cell(tb, k))
+        rows.append([escape(lab), cell_a, cell_b, '<span class="ac-badge red">Different</span>' if f.get("differs") else "Same"])
+    ui.html("<p><b>Key facts</b></p>")
+    ui.table(["Item", a, b, ""], rows)
+    def closeness(x):
+        if not x["b_section"]:
+            return f"Only in {a}"
+        if not x["a_section"]:
+            return f"Only in {b}"
+        s = x.get("similarity") or 0
+        return "Nearly the same" if s >= 0.85 else "Similar, with changes" if s >= 0.45 else "Mostly rewritten"
+    ui.html("<p><b>Section by section</b></p>")
+    ui.table([f"{a} section", f"Matching {b} section", "How close"],
+             [[escape(f"Sec. {x['a_no']}. {x['a_heading']}") if x["a_section"] else "–",
+               escape(f"Sec. {x['b_no']}. {x['b_heading']}") if x["b_section"] else "–",
+               closeness(x)] for x in aligned])
 
 
 def appraise(rev, cost, peso, checks=None, redteam=None):
@@ -118,7 +176,7 @@ def appraise(rev, cost, peso, checks=None, redteam=None):
     c1.metric("Entity type", cost["entity_type"])
     c2.metric("First-year cost range", f"{peso(cost['range']['low'])} – {peso(cost['range']['high'])}")
     c3.metric("Amount stated in the bill", ", ".join(peso(x["pesos"]) for x in cost["stated_in_bill"]) or "none")
-    with st.expander("Costing assumptions and comparator agencies"):
+    with st.expander("Cost assumptions and similar agencies used for comparison"):
         a = pd.DataFrame(cost["assumptions"])
         st.dataframe(a, use_container_width=True, hide_index=True)
         st.dataframe(pd.DataFrame(cost["method_b_comparators"]["comparators"]), use_container_width=True, hide_index=True)
@@ -129,7 +187,7 @@ def appraise(rev, cost, peso, checks=None, redteam=None):
     if checks:
         verification(checks.get("citations"))
         for x in checks.get("unsupported_numbers", []):
-            ui.notice(f"<b>Figure not from the costing engine or the bill:</b> {escape(str(x))}", "red")
+            ui.notice(f"<b>Amount not found in the cost estimate or the bill:</b> {escape(str(x))}", "red")
         for x in checks.get("governance_flags", []):
             ui.notice(f"<b>Governance rule:</b> {escape(str(x))}", "red")
     risks = rev.get("risks", [])
@@ -143,9 +201,9 @@ def appraise(rev, cost, peso, checks=None, redteam=None):
     if redteam:
         sev = redteam.get("issues", [])
         n_med = sum(1 for i in sev if i.get("severity") in ("high", "medium"))
-        ui.notice(f"<b>Red-teamer:</b> {escape(redteam.get('release_recommendation', ''))} · {len(sev)} issues, {n_med} high or medium.",
+        ui.notice(f"<b>Second reviewer:</b> {escape(redteam.get('release_recommendation', ''))} · {len(sev)} issues raised, {n_med} of high or medium importance.",
                   "red" if n_med else "")
-        with st.expander("Red-team issues"):
+        with st.expander("Issues raised by the second reviewer"):
             ui.table(["Severity", "Where", "Problem"], [[f'<span class="ac-badge {"red" if i.get("severity") in ("high", "medium") else ""}">'
                                                          f'{escape(i.get("severity", ""))}</span>', escape(short(i.get("where"), 60)),
                                                          escape(short(i.get("problem"), 240))] for i in sev])
