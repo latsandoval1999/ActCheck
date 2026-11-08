@@ -28,17 +28,21 @@ BENCH = ROOT / "data" / "benchmarks"
 # Mandatory benefits on top of basic salary (annual). Rates as commonly applied in the
 # national government; each must be confirmed against current DBM issuances.
 BENEFITS = [
-    ("Year-end bonus (one month basic)", "months", 1.0, "RA 11466 / DBM circulars (to verify)"),
-    ("Mid-year bonus (one month basic)", "months", 1.0, "RA 11466 / DBM circulars (to verify)"),
-    ("GSIS retirement and life insurance, government share 12% of basic", "pct", 0.12, "RA 8291 (to verify)"),
-    ("PhilHealth, government share 2.5% of basic", "pct", 0.025, "RA 11223 and PhilHealth circulars (to verify)"),
-    ("PERA, P2,000 per month", "fixed_monthly", 2000, "DBM circulars (to verify)"),
-    ("Pag-IBIG government share, P200 per month", "fixed_monthly", 200, "HDMF circulars (to verify)"),
-    ("ECC, P100 per month", "fixed_monthly", 100, "PD 626 as amended (to verify)"),
-    ("Clothing/uniform allowance, P7,000 per year", "fixed_annual", 7000, "DBM circulars (to verify)"),
-    ("Cash gift, P5,000 per year", "fixed_annual", 5000, "DBM circulars (to verify)"),
-    ("Productivity enhancement incentive, P5,000 per year", "fixed_annual", 5000, "DBM circulars (to verify)"),
+    ("Year-end bonus (one month basic)", "months", 1.0, "RA 11466; paid with the first November payroll"),
+    ("Mid-year bonus (one month basic)", "months", 1.0, "RA 11466 / EO 201 s. 2016; paid from May 15"),
+    ("GSIS retirement and life insurance, government share 12% of basic", "pct", 0.12, "RA 8291, Sec. 5"),
+    ("PhilHealth, government share 2.5% of basic (half of 5%), capped at P2,500 a month", "philhealth", 0.025,
+     "RA 11223; DBM Circular Letter 2024-3 (5% shared equally, floor P10,000, ceiling P100,000)"),
+    ("PERA, P2,000 per month", "fixed_monthly", 2000, "DBM rules on PERA (unchanged in 2026)"),
+    ("Pag-IBIG government share, P200 per month", "fixed_monthly", 200, "2% of the P10,000 maximum fund salary (HDMF, 2024) (to verify)"),
+    ("ECC, P100 per month", "fixed_monthly", 100, "PD 626 as amended; GSIS Resolution No. 9 s. 2003 (raised from P30 to P100)"),
+    ("Clothing/uniform allowance, P7,000 per year", "fixed_annual", 7000, "DBM-COA rules on uniform/clothing allowance"),
+    ("Cash gift, P5,000 per year", "fixed_annual", 5000, "RA 11466 (with the year-end bonus)"),
+    ("Productivity enhancement incentive, P5,000 per year", "fixed_annual", 5000, "DBM Circular Letter 2025-13 under BC 2017-4 (needs yearly authority)"),
+    ("Medical allowance, up to P7,000 per year", "fixed_annual", 7000, "EO 64 s. 2024; DBM Budget Circular 2024-6 (from FY 2025)"),
 ]
+# Not included because they are discretionary or position-specific: Service Recognition Incentive (P20,000 when
+# authorized by an Administrative Order), RATA for officials, hazard pay, overtime, loyalty and anniversary awards.
 
 # Default headcount ranges by entity type, anchored on comparators in coa_comparators.csv.
 STAFF_DEFAULTS = {
@@ -81,7 +85,8 @@ def annual_cost_per_person(monthly_basic):
     annual = monthly_basic * 12
     total = annual
     for _, kind, v, _ in BENEFITS:
-        total += {"months": monthly_basic * v, "pct": annual * v, "fixed_monthly": v * 12, "fixed_annual": v}[kind]
+        total += {"months": monthly_basic * v, "pct": annual * v, "fixed_monthly": v * 12, "fixed_annual": v,
+                  "philhealth": min(max(monthly_basic, 10000), 100000) * v * 12}[kind]
     return total
 
 
@@ -119,8 +124,9 @@ def cost_range(bid, staff=None, avg_sg=None, mooe=None, comparator_names=None):
         # denominator: all personnel if reported, else AUTHORIZED positions (not filled ones, which
         # would load the whole agency's spending onto fewer people and inflate the per-staff cost)
         staff_n = float(c["personnel_total"] or c["plantilla_authorized"] or c["plantilla_filled"] or 0)
-        if staff_n and c["obligations"]:
-            comps.append({"agency": c["agency"], "year": c["year"], "per_staff": float(c["obligations"]) / staff_n,
+        oblig = c.get("obligations_operating") or c["obligations"]      # excludes large program funds where the report shows them
+        if staff_n and oblig:
+            comps.append({"agency": c["agency"], "year": c["year"], "per_staff": float(oblig) / staff_n,
                           "denominator": "personnel_total" if c["personnel_total"] else "plantilla_authorized" if c["plantilla_authorized"] else "plantilla_filled",
                           "note": "All-in: total agency obligations (including programs) per staff member; an upper-bound benchmark", "source": c["source"]})
     if comps:
@@ -137,7 +143,7 @@ def cost_range(bid, staff=None, avg_sg=None, mooe=None, comparator_names=None):
         {"assumption": f"Headcount {s_lo:,}-{s_hi:,}", "source": s_src, "to_verify": True},
         {"assumption": f"Average staff salary grade SG-{g_lo} to SG-{g_hi}, Step 1", "source": g_src, "to_verify": True},
         {"assumption": f"MOOE {m_lo:.0%}-{m_hi:.0%} of personnel cost", "source": m_src, "to_verify": True},
-        {"assumption": "Monthly salaries from the 2026 salary schedule", "source": "DBM NBC No. 601, Annex A (data/benchmarks/salary_schedule_2026.csv)", "to_verify": False},
+        {"assumption": "Monthly salaries from the 2026 salary schedule (third tranche under EO 64 s. 2024)", "source": "DBM NBC No. 601, Annex A (data/benchmarks/salary_schedule_2026.csv)", "to_verify": False},
         {"assumption": "Method B uses total agency obligations per staff member, which include program funds: treat its top as an upper bound", "source": "data/benchmarks/coa_comparators.csv", "to_verify": True},
     ]
     if head_sg:
