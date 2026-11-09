@@ -1,0 +1,262 @@
+ 1
+ 2
+ 3
+ 4
+ 5                                                                                                             September 2, 2026
+ 6                                                                                                                  1:56 pm
+ 7                                               Republic of the Philippines
+ 8                                               House of Representatives
+ 9                                                     Quezon City
+10
+11                                               TWENTIETH CONGRESS
+12
+13                                                 Second Regular Session
+14
+15                                              House Bill No. 11064
+                                                              __________
+16
+17             ------------------------------------------------------------------------------------------------------------------
+18                              Introduced by Representative Jernie Jett V. Nisay
+19   ------------------------------------------------------------------------------------------------------------------
+20
+21                                                EXPLANATORY NOTE
+22
+23   During a disaster, every minute matters and every household should be seen, heard,
+24   and accounted for. Yet recent weather-related tragedies continue to expose gaps in
+25   communication between households and the government, particularly in knowing who
+26   needs help, where they are, and whether assistance has reached them.
+27
+28   In times of disaster, a single phone call can mean the difference between life and death.
+29   Behind every report of flooding, every evacuation, and every call for rescue is a family
+30   waiting, hoping, and trusting that help will come very soon.
+31
+32   This proposed measure seeks to establish an integrated, household-level climate and
+33   disaster resilience system that connects households, barangays, LDRRMOs, and
+34   relevant government agencies through a unified digital platform. It will allow households
+35   to receive not just localized warnings but also report emergencies, request assistance,
+36   access verified emergency contacts, and share their location when help is needed, to
+37   enable rescuers to track and assist as soon as possible.
+38
+39   No household should be left without a way to call for help, and no government responder
+40   should be left without a way to find them.
+41
+42   In view of the foregoing, the immediate passage of this bill is earnestly sought.
+43
+44
+45
+46                                                                                      REP. JERNIE JETT V. NISAY
+47                                                                                        Pusong Pinoy Partylist
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7                                               Republic of the Philippines
+ 8                                               House of Representatives
+ 9                                                     Quezon City
+10
+11                                               TWENTIETH CONGRESS
+12
+13                                                Second Regular Session
+14
+15                                              House Bill No. 11064
+                                                              __________
+16
+17   ------------------------------------------------------------------------------------------------------------------
+18                              Introduced by Representative Jernie Jett V. Nisay
+19   ------------------------------------------------------------------------------------------------------------------
+20
+21                                  AN ACT
+22        ESTABLISHING A NATIONAL HOUSEHOLD CLIMATE AND DISASTER
+23      RESILIENCE INFORMATION AND RESPONSE SYSTEM, PROVIDING FOR A
+24      UNIFIED HOUSEHOLD-LEVEL CLIMATE RISK MAP, REAL-TIME TWO-WAY
+25     EMERGENCY COMMUNICATION, AND INTEGRATED DISASTER RESPONSE,
+26                        AND FOR OTHER PURPOSES
+27
+28   Be it enacted by the Senate and House of Representatives of the Philippines in
+29   Congress assembled:
+
+30        SECTION 1. Short Title. – This Act shall be known as the “Household
+31   Emergency Response Act”.
+32
+33           SECTION 2. Declaration of Policy. – It is the policy of the State to protect the
+34   lives, safety, and welfare of its people from the effects of climate change and climate-
+35   related disasters. The State recognizes that timely information, effective
+36   communication, and rapid response are essential to saving lives and protecting
+37   communities during emergencies.
+38
+39          Towards this end, the State shall ensure that every household has access to
+40   timely and localized climate and disaster information and a reliable means to
+41   communicate with, request assistance from, and receive updates from the government.
+42   The State shall strengthen coordination among households, barangays, local disaster
+43   risk reduction and management offices, and national government agencies through an
+44   integrated and accessible information and response system.
+
+45         SECTION 3. National Household Climate and Disaster Resilience
+46   Information and Response System. – There is hereby established a National
+47   Household Climate and Disaster Resilience Information and Response System,
+ 1   hereinafter referred to as the “System”, which shall integrate relevant climate, weather,
+ 2   hazard, emergency, and household vulnerability information maintained by government
+ 3   agencies and local government units.
+
+ 4   The System shall consist of:
+ 5         (a) Household Climate and Disaster Risk Map and Risk Profile;
+ 6         (b) National Climate and Disaster Resilience Mobile Application and Website;
+ 7         (c) Two-Way Emergency Communication and Reporting System;
+ 8         (d) Centralized Emergency Contact Directory; and
+ 9         (e) Integrated Disaster Response and Incident Tracking System.
+10
+11          SECTION 4. Household Climate and Disaster Risk Map. – The System shall
+12   establish a digital, georeferenced map of households and relevant community facilities,
+13   integrated with available government hazard and climate-risk information.
+
+14         The map shall, where available, include layers identifying areas vulnerable to:
+
+15         (a) flooding and excessive rainfall;
+16         (b) landslides and soil instability;
+17         (c) storm surges and coastal hazards;
+18         (d) extreme heat;
+19         (e) drought;
+20         (f) typhoons and other climate-related hazards; and
+21         (g) other hazards.
+
+22            The map shall likewise identify relevant facilities, including evacuation centers,
+23   hospitals, health facilities, police and fire stations, major roads, bridges, and other
+24   facilities for disaster response.
+
+25         SECTION 5. Household Climate Risk Profile. – Each household shall be
+26   assigned a Household Climate Risk Profile based on its geographic location, hazard
+27   exposure, and other relevant vulnerability information.
+
+28           The profile may include the presence of persons with disabilities, senior citizens,
+29   children, persons with medical or mobility needs, and other persons who may require
+30   priority assistance during disasters.
+
+31          Household information shall be collected, processed, stored, and shared only for
+32   legitimate disaster preparedness, early warning, emergency response, recovery, and
+33   related public safety purposes and shall be subject to the Data Privacy Act of 2012 and
+34   other applicable laws.
+ 1           SECTION 6. National Climate and Disaster Resilience Mobile Application
+ 2   and Web Portal. – The Department of Information and Communications Technology
+ 3   (DICT), in coordination with the Climate Change Commission (CCC), National Disaster
+ 4   Risk Reduction and Management Council (NDRRMC), Philippine Atmospheric,
+ 5   Geophysical and Astronomical Services Administration (PAGASA), Department of the
+ 6   Interior and Local Government (DILG), local government units, and other concerned
+ 7   agencies, shall establish and maintain a National Climate and Disaster Resilience
+ 8   Mobile Application and Web Portal.
+
+ 9         The System shall, at a minimum, enable a household to:
+
+10         (a) view the climate and disaster risks applicable to its location;
+11         (b) receive localized weather, climate, and disaster warnings and advisories;
+12         (c) view evacuation centers, hospitals, emergency facilities, and other relevant
+13            locations;
+14         (d) access emergency contact numbers of the appropriate barangay, LGU,
+15            LDRRMO, police, fire, medical, rescue, and other emergency services;
+16         (e) receive evacuation orders, routes, and other instructions issued by competent
+17            authorities;
+18         (f) report flooding, landslides, infrastructure damage, stranded or missing
+19            persons, medical emergencies, and other disaster-related incidents;
+20         (g) request emergency assistance;
+21         (h) attach photographs, videos, and other relevant information to an incident
+22            report;
+23         (i) share the household's location with authorized emergency responders when
+24            requesting assistance; and
+25         (j) receive updates regarding the status and action taken on an emergency
+26            report.
+
+27         The System shall be designed to operate through SMS to ensure accessibility in
+28   areas with limited internet connectivity.
+
+29          SECTION 7. Two-Way Emergency Communication and Incident Tracking. –
+30   The System shall provide a two-way communication mechanism between households
+31   and the appropriate barangay, LDRRMO, and other authorized government responders.
+
+32         Every emergency report or request for assistance shall, where practicable, be
+33   assigned a unique reference number and recorded in the System.
+
+34         The household shall be able to receive updates on the status of its report,
+ 1   including its receipt, assignment to a responding unit, action taken, and resolution.
+
+ 2          Reports shall be automatically routed to the appropriate barangay or local
+ 3   disaster risk reduction and management office based on the location of the reporting
+ 4   household.
+
+ 5          SECTION 8. Emergency Location and Distress Function. The System shall
+ 6   provide an emergency location-sharing and distress function through which a household
+ 7   requesting emergency assistance may voluntarily transmit its current location to
+ 8   authorized responders.
+
+ 9         The location information shall be used solely for emergency response and shall
+10   be accessible only to authorized personnel.
+
+11         SECTION 9. Centralized Emergency Contact Directory. The System shall
+12   maintain a verified and regularly updated directory of emergency contact numbers
+13   nationwide, including, where applicable:
+
+14          (a) barangay officials and emergency responders;
+15          (b) LDRRMO;
+16          (c) police and fire stations;
+17          (d) hospitals and emergency medical services;
+18          (e) evacuation centers;
+19          (f) local government hotlines; and
+20          (g) other government and accredited emergency service providers.
+
+21        The System shall automatically identify and display the appropriate local
+22   emergency contacts based on the location of the household.
+
+23         SECTION 10. Role of Barangays. - Every barangay shall serve as the first-level
+24   monitoring and response unit under the System and shall:
+
+25          (a) monitor and act upon reports and requests for assistance from households
+26              within its jurisdiction;
+27          (b) maintain updated information on households; and
+28          (c) coordinate with the LDRRMO on incidents requiring additional assistance or
+29              resources.
+
+30          The DILG shall prescribe the guidelines and standards for the implementation of
+31   this Section in coordination with the NDRRMC and other concerned agencies.
+
+32         SECTION 11. Role of the LDRRMO. The LDRRMO established under Republic
+33   Act No. 10121 shall serve as the local coordinating and response office for the System
+ 1   and shall:
+
+ 2          (a) oversee the operation of the System within its jurisdiction;
+ 3          (b) coordinate and respond to incidents escalated by barangays;
+ 4          (c) coordinate with PAGASA and other concerned agencies on climate and
+ 5                disaster information; and
+ 6          (d) ensure the timely dissemination of localized warnings and advisories and the
+ 7                appropriate response to household reports.
+
+ 8          The DILG, in coordination with the NDRRMC, shall prescribe the operational
+ 9   guidelines and escalation protocols for the implementation of this Section.
+
+10         SECTION 12. Role of PAGASA. PAGASA shall provide the System with official
+11   weather forecasts, climate projections, hazard-related information, and other relevant
+12   data necessary for timely and accurate public warnings and local disaster
+13   preparedness.
+
+14          PAGASA shall establish the appropriate standards and protocols for the
+15   integration and dissemination of such information through the System.
+
+16           SECTION 13. Role of the DICT. The Department of Information and
+17   Communications Technology (DICT) shall develop, establish, and maintain the digital
+18   infrastructure of the System, including the mobile application and web portal, and ensure
+19   its interoperability with relevant government information systems.
+
+20          SECTION 14. Repealing Clause. – All laws, decrees, orders, rules and
+21   regulations, and other issuances or parts thereof which are inconsistent with the
+22   provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+23         SECTION 15. Separability Clause. – If any portion of this Act is declared
+24   unconstitutional, any provisions not affected thereby shall remain in force and effect.
+
+25          SECTION 16. Effectivity. – This Act shall take effect fifteen (15) days following
+26   the completion of its publication in the Official Gazette or in a newspaper of general
+27   circulation in the Philippines.
+
+28
+29    Approved,
+30
+

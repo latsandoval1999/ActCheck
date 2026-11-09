@@ -1,0 +1,765 @@
+                           Republic of the Philippines
+                        HOUSE OF REPRESENTATIVES
+                         Constitution Hills, Quezon City              October 7, 2026
+                                                                        11:34 am
+                            TWENTIETH CONGRESS
+                             Second Regular Session
+
+                                            11636
+                            House Bill No. ________
+______________________________________________________________________________
+            Introduced by: REPRESENTATIVE ERIC L. OLIVAREZ
+
+                            EXPLANATORY NOTE
+
+       Unmanned systems, commonly known as drones, have become
+increasingly accessible and are now widely used for recreational, commercial,
+agricultural, scientific, media, disaster response, and government purposes.
+Their continued development has contributed to innovation, improved
+efficiency, and economic development across various sectors.
+
+      The proliferation of unmanned systems, however, has also raised
+concerns relating to public safety, national security, privacy, aviation safety,
+and the protection of critical infrastructure. Unauthorized operations near
+airports, military installations, government facilities, densely populated
+areas, and public events demonstrate the need for a clear and comprehensive
+legal framework governing the registration, possession, operation, and
+accountability of unmanned systems.
+
+      At present, regulations issued by the Civil Aviation Authority of the
+Philippines (CAAP) principally govern unmanned aircraft operations. There
+remains a need for legislation establishing a broader and coordinated
+framework covering unmanned systems operating in the air, on land, and in
+maritime environments, while recognizing the respective mandates of
+concerned government agencies.
+
+      This proposed measure seeks to establish a comprehensive regulatory
+framework governing the possession and operation of unmanned systems. It
+provides for appropriate registration and licensing requirements, operational
+standards, prohibited acts, privacy safeguards, enforcement mechanisms,
+and penalties, while recognizing legitimate uses of unmanned systems for
+commercial, educational, research, agricultural, humanitarian, disaster
+response, and other lawful purposes.
+
+       The measure likewise establishes an inter-agency mechanism to
+promote coordination among concerned government agencies and to ensure
+that regulation keeps pace with technological developments. It recognizes the
+need to balance public safety and national security with innovation, research,
+economic activity, and the responsible development of the unmanned systems
+industry.
+
+     In view of the foregoing, the immediate passage of this bill is earnestly
+sought.
+
+
+                                                        ERIC L. OLIVAREZ
+                          Republic of the Philippines
+                       HOUSE OF REPRESENTATIVES
+                        Constitution Hills, Quezon City
+
+                           TWENTIETH CONGRESS
+                            Second Regular Session
+
+                                            11636
+                              House Bill No. ___
+______________________________________________________________________________
+            Introduced by: REPRESENTATIVE ERIC L. OLIVAREZ
+
+
+                            “AN ACT
+      REGULATING THE POSSESSION AND OPERATION OF
+      UNMANNED    SYSTEMS,   PROVIDING   PENALTIES FOR
+      VIOLATIONS THEREOF, AND FOR OTHER PURPOSES”
+
+          Be it enacted by the Senate and the House of Representatives of the
+   Philippines in Congress assembled:
+
+                                  ARTICLE I
+                              GENERAL PROVISIONS
+
+     SECTION 1. Short Title. - This Act shall be known as the "Unmanned
+Systems Regulation and Safety Act of 2026."
+
+       SECTION 2. Declaration of Policy. - It is the declared policy of the
+State to promote and govern the use of technology for national development
+while safeguarding the life, liberty, property, privacy, and security of its
+citizens.
+
+      The State recognizes the immense potential of drones, formally known
+as Unmanned Systems (US), for commercial, recreational, scientific,
+agricultural, humanitarian, disaster response, and public service
+applications. However, the State likewise recognizes the risks they may pose
+to public safety, national security, aviation safety, privacy, and critical
+infrastructure.
+
+      Therefore, the State shall establish a comprehensive regulatory
+framework to ensure that the importation, manufacture, sale, ownership,
+possession, and operation of unmanned systems are conducted responsibly
+and safely. This framework shall balance technological innovation with
+public welfare and security, promote coordination among government
+agencies, and prescribe clear standards and penalties for unlawful use.
+       SECTION 3. Definition of Terms. - As used in this Act, the
+following terms shall mean:
+
+        a. Agricultural Operation - refers to the use of an Unmanned
+           System for agricultural purposes, including but not limited
+           to crop dusting, seeding, pest control, crop health
+           monitoring, and livestock management;
+
+        b. CAAP Regulations - refers to the applicable rules and
+           regulations of the Civil Aviation Authority of the Philippines,
+           including relevant Civil Aviation Regulations and issuances
+           governing unmanned aircraft operations;
+
+        c. Commercial Operation - refers to any authorized use of an
+           unmanned system for work, business, or in connection with
+           any form of compensation or hire;
+
+        d. Controlled Airspace - refers to airspace of defined
+           dimensions within which air traffic control service is
+           provided;
+
+        e. Critical Infrastructure - refers to assets, systems, and
+           networks so vital to the Republic of the Philippines that their
+           incapacitation, disruption, or destruction would have a
+           debilitating impact on national security, economic stability,
+           public health, or safety;
+
+        f. Unmanned System Operator or Remote Pilot - refers to any
+           natural or juridical person who commands, controls,
+           operates, or otherwise exercises operational control over an
+           Unmanned System;
+
+        g. Drone Owner - refers to the natural or juridical person in
+           whose name the drone is registered;
+
+        h. Law Enforcement Agency (LEA) - refers to the Philippine
+           National Police (PNP), National Bureau of Investigation (NBI),
+           Philippine Drug Enforcement Agency (PDEA), and other
+           government agencies authorized by law to perform law
+           enforcement functions;
+
+        i. Law Enforcement Operation - refers to the activities
+           undertaken by government agents to enforce the law,
+           maintain public order, prevent and detect crime, and
+           apprehend offenders;
+j. Modification - refers to any alteration to a drone's hardware
+   or software that materially changes its flight capabilities,
+   payload capacity, communication systems, or operational
+   range from its original manufacturer specifications;
+
+k. Prohibited or No-Fly Zone - refers to a designated area or
+   airspace within which unmanned system operations are
+   prohibited for national security, public safety, or aviation
+   safety reasons;
+
+l. Public Safety and Security Operation - refers to the
+   authorized use of an Unmanned System by a government
+   entity for public service purposes, such as search and
+   rescue,   law    enforcement,    reconnaissance,    tactical
+   operations, disaster response, and other purposes necessary
+   to promote law and order, safety, and security;
+
+m. Recreational Operation - refers to the authorized use of an
+   Unmanned System for personal interest, hobby, or
+   amusement purposes, with no commercial or professional
+   intent;
+
+n. Restricted Zone - refers to a designated area or airspace
+   within which unmanned system operations are subject to
+   specified conditions or limitations;
+
+o. Unmanned Aircraft System (UAS) - refers to an unmanned
+   system designed for flight in the atmosphere;
+
+p. Unmanned Ground-Based System (UGS) - refers to an
+   unmanned system designed for operation on land surfaces;
+
+q. Unmanned Maritime System (UMS) - refers to an unmanned
+   system designed for operation on the surface of or
+   underneath the water, including submersible and semi-
+   submersible vehicles;
+
+r. Unmanned System (US) - refers to any remotely,
+   automatically, or autonomously controlled vehicle and its
+   associated control systems, operating in the air, on land, or
+   in water, without a human pilot or operator on board;
+
+s. Visual Line of Sight (VLOS) - refers to the operator's ability
+   to maintain direct unaided visual contact with the
+   unmanned system during flight; and
+         t. Weaponized Drone - refers to any Unmanned System
+            equipped with or used to deploy any firearm, explosive,
+            chemical, biological, radiological, or other hazardous
+            payload intended to cause harm, injury, or death.
+
+     SECTION 4. Categories and Classifications of Drones. - All
+drones shall be classified based on their Maximum Take-Off Weight
+(MTOW) and/or operational risk as follows:
+
+      a. Based on Weight:
+
+         1. Category 1 (Micro): Less than 250 grams. Exempt from
+            registration if used exclusively for recreational purposes,
+            subject to applicable CAAP regulations;
+
+         2. Category 2 (Small): 250 grams to 7 kilograms. Requires
+            registration and applicable operator licensing;
+
+         3. Category 3 (Standard): Over 7 kilograms but not exceeding
+            25 kilograms. Requires stricter certification; and
+
+         4. Category 4 (Large): Over 25 kilograms. Subject to regulatory
+            requirements appropriate to their size, weight, and
+            operational risk.
+
+      b. Based on Operational Risk:
+
+         1. Class 1 (Low-Risk): Recreational flights in approved areas;
+
+         2. Class 2 (Medium-Risk): Commercial operations within
+            VLOS, such as aerial photography or mapping; and
+
+         3. Class 3 (High-Risk): Specialized operations such as Beyond
+            Visual Line of Sight (BVLOS) flights, nighttime operations, or
+            drone delivery services, which require special authorization
+            or permits.
+
+
+                        ARTICLE II
+          GOVERNANCE, REGISTRATION, AND LICENSING
+
+       SECTION 5. Inter-Agency Council on Unmanned Systems (IAC-
+US). - To ensure a holistic and harmonized regulatory approach, an Inter-
+Agency Council on Unmanned Systems is hereby created.
+      It shall be chaired by the Secretary of the Department of
+Transportation (DOTr) and shall be composed of the heads or duly
+authorized representatives of the following agencies: Department of
+National Defense (DND), Department of Interior and Local Government
+(DILG), Department of Trade and Industry (DTI), Department of
+Information and Communication Technology (DICT), Department of
+Science and Technology (DOST), Department of Agriculture (DA),
+National Security Council (NSC), Civil Aviation Authority of the
+Philippines (CAAP), Armed Forces of the Philippines (AFP), Philippine
+National Police (PNP), Bureau of Fire Protection (BFP), and Philippine
+Coast Guard (PCG).
+
+      The IAC-US shall serve as the primary inter-agency coordinating
+body for policy development and implementation of this Act, without
+prejudice to the statutory mandates and regulatory authority of the
+member agencies.
+
+      SECTION 6. Mandatory Unmanned System Registration. - All
+Unmanned Systems, except UAS weighing less than 250 grams used
+exclusively for recreational purposes, shall be registered in the Philippine
+Unmanned Systems Registry, subject to applicable regulations and
+exemptions established pursuant to this Act.
+
+      The IAC-US shall establish and maintain an interoperable registry
+framework. The CAAP shall administer the registration of UAS, the PCG
+shall administer the registration of UMS, and the appropriate
+government agency designated pursuant to the implementing rules and
+regulations shall administer the registration of UGS.
+
+       Registration shall be renewable every three (3) years, unless a
+different period is prescribed by the appropriate regulatory agency based
+on the nature and risk of the unmanned system.
+
+      SECTION 7. Mandatory Operator Licensing. - No person shall
+operate an unmanned system subject to mandatory registration without
+the appropriate and valid Remote Operator's License or equivalent
+authorization required under applicable regulations.
+
+      The IAC-US, through the appropriate regulatory agencies, shall
+establish license categories based on the domain, class, and risk level of
+the operation. Applicants shall satisfy the applicable knowledge,
+competency, and practical skills requirements relevant to their intended
+operation.
+
+      SECTION 8. Accreditation of Importers, Manufacturers, and
+Sellers. - Any entity engaged in the importation, manufacture, assembly,
+sale, distribution, or lease of drones in the Philippines shall secure the
+appropriate accreditation or authorization from the competent
+government agency, in coordination with the CAAP and other concerned
+agencies, as applicable.
+
+      Accredited entities shall:
+
+       a. Maintain records of sales, including the buyer's name and
+          contact information and the drone's serial number, subject to
+          the Data Privacy Act of 2012 and other applicable laws;
+
+       b. Provide a point-of-sale safety briefing or information material to
+          buyers outlining the key provisions of this Act and applicable
+          operating requirements; and
+
+       c. Submit periodic sales reports to the appropriate regulatory
+          agency in accordance with the implementing rules and
+          regulations.
+
+
+                             ARTICLE III
+                         RULES OF OPERATION
+
+         SECTION 9. General Operating Rules. - All unmanned system
+   operations shall adhere to the following unless otherwise authorized
+   by the appropriate regulatory authority:
+
+      a. Operate within prescribed operational boundaries;
+
+      b. Maintain continuous VLOS with the system, unless specifically
+         authorized for BVLOS, autonomous, or other operations;
+
+      c. For UAS, fly at a maximum altitude of 400 feet (122 meters)
+         above ground level, unless otherwise authorized under
+         applicable aviation regulations;
+
+      d. Do not operate over crowds, densely populated assemblies,
+         schools, hospitals, or public gatherings in a manner that
+         presents a risk to persons or property, except when specifically
+         authorized or when necessary for lawful emergency, public
+         safety, medical, scientific, or other legitimate operations;
+
+      e. Do not operate a drone from a moving vehicle unless specifically
+         authorized by the appropriate regulatory authority;
+     f. Yield the right-of-way to all manned aircraft, vessels, and other
+        vehicles, as applicable;
+
+     g. Do not operate over critical infrastructure or designated public
+        gatherings without the required authorization; and
+
+     h. The operator must not be under the influence of alcohol or
+        prohibited substances while operating an unmanned system.
+
+     SECTION 10. Prohibited Acts. - The following acts are declared
+unlawful:
+
+     a. Operating a drone without the registration, license, permit, or
+        authorization required under this Act or applicable regulations;
+
+     b. Importing, manufacturing, assembling, leasing, selling, or
+        distributing drones or covered components without the
+        required accreditation or authorization;
+
+     c. Selling or leasing a drone to a person without the required
+        license or authorization, when such license or authorization is
+        legally required;
+
+     d. Weaponizing a drone or equipping it with firearms, explosives,
+        biological agents, or other dangerous or hazardous materials for
+        unlawful purposes;
+
+     e. Using a drone for unlawful surveillance, harassment,
+        eavesdropping, or other conduct that unlawfully violates the
+        privacy or other rights of any person, in violation of this Act,
+        Republic Act No. 10173, or other applicable laws;
+
+     f. Using a drone to aid or commit any crime, including but not
+        limited to smuggling, illegal drug trafficking, or reconnaissance
+        for criminal or terrorist activities;
+
+     g. Intentionally interfering with lawful law enforcement,
+        emergency response, or disaster relief operations;
+
+     h. Hacking, spoofing, jamming, or otherwise illegally interfering
+        with the command, control, or navigation signal of a registered
+        drone;
+
+     i. Operating a drone while under the influence of alcohol or
+        prohibited drugs; and
+      j. Using a drone in furtherance of an unlawful activity or
+         committing similar acts prohibited under this Act or other
+         applicable laws.
+
+      SECTION 11. Prohibited and Restricted Zones. - Unmanned
+system operations shall be prohibited or restricted in areas and airspace
+designated by the appropriate regulatory authority, consistent with
+applicable aviation, national security, and public safety regulations.
+
+      Unless otherwise authorized, it shall be strictly prohibited to
+operate an unmanned system:
+
+      a. Within restricted or prohibited airspace established around
+         airports or airfields pursuant to applicable CAAP regulations;
+
+      b. Over critical infrastructure and designated national security
+         areas, including military bases, Malacañang Palace, and major
+         government installations, when such operations are prohibited
+         or restricted by competent authority; and
+
+      c. Over areas where a Temporary Flight Restriction (TFR) is in
+         effect, as declared by the CAAP or other competent authority for
+         emergencies, major events, or public safety and security
+         operations.
+
+      SECTION 12. Protection of Privacy. - The use of a drone for
+surveillance, eavesdropping, or capturing, processing, or transmitting
+images, videos, audio, or other personal data in circumstances that
+unlawfully intrude upon a person's reasonable expectation of privacy is
+prohibited.
+
+      Nothing in this section shall be construed to prohibit lawful
+photography, documentation, journalism, scientific research, public
+safety operations, disaster response, or other legitimate activities,
+subject to Republic Act No. 10173, the "Data Privacy Act of 2012," and
+other applicable laws.
+
+     Violations of this section shall be without prejudice to liability
+under Republic Act No. 10173 and other applicable laws.
+
+      SECTION 13. Regulation on Drone Modification. - Any
+modification to a drone that materially alters its flight performance,
+weight, payload capacity, or communication systems shall be declared to
+and, when required by applicable regulations, approved by the
+appropriate regulatory authority.
+      The weaponization of a drone by attaching firearms, explosives,
+biological agents, hazardous materials, or any weapon intended for
+unlawful harm is prohibited.
+
+
+                      ARTICLE IV
+  ROLE OF GOVERNMENT AGENCIES AND SPECIAL OPERATIONS
+
+      SECTION 14. Role of Local Government Units. - Consistent with
+the Local Government Code and other applicable laws, LGUs may enact
+ordinances governing the operation of drones within areas under their
+jurisdiction, such as public parks, plazas, and heritage sites.
+
+       Such ordinances shall be supplementary to this Act and its
+implementing rules and regulations and shall not contradict national
+policies, aviation regulations, or standards established by competent
+national government agencies.
+
+      SECTION 15. Use for National Security and Law Enforcement.
+- Duly constituted government agencies, including the Armed Forces of
+the Philippines (AFP) and the Philippine National Police (PNP), may
+operate unmanned systems for national security, intelligence, law
+enforcement, border control, counter-terrorism, and other lawful
+government operations.
+
+      The use of such systems, including counter-unmanned system
+technology, shall be governed by applicable laws, rules of engagement,
+constitutional safeguards, and protocols established in the implementing
+rules and regulations.
+
+      SECTION 16. Use for Disaster and Emergency Response. -
+Government agencies such as the National Disaster Risk Reduction and
+Management Council (NDRRMC), Philippine Institute of Volcanology and
+Seismology (PHIVOLCS), BFP, National Mapping and Resource
+Information Authority (NAMRIA), and PCG are authorized to deploy and
+operate unmanned systems as a component of disaster risk assessment,
+monitoring, search and rescue, emergency response, and post-disaster
+recovery operations.
+
+      During a declared state of calamity or emergency, appropriate
+exemptions from ordinary operating requirements may be granted by the
+competent regulatory authority when necessary for life-saving or
+emergency operations, provided that reasonable safety measures are
+observed.
+       SECTION 17. Use for Research and Development. - The State
+shall encourage the use of unmanned systems for scientific research and
+technological development.
+
+      The Department of Science and Technology (DOST), in
+coordination with the IAC-US and appropriate regulatory agencies, shall
+
+      a. Establish designated special-use areas for safe testing and
+         experimentation;
+
+      b. Develop a streamlined process for issuing experimental or
+         research permits to accredited academic and scientific
+         institutions; and
+
+      c. Promote partnerships between the government, academe, and
+         industry to advance local unmanned systems technology.
+
+      SECTION 18. Use of Drones for Agricultural Purposes. - The use
+of drones for agricultural activities is hereby recognized as a vital tool for
+enhancing food security and modernizing the agricultural sector. Such
+use shall be governed by the following:
+
+      a. Authorization and Scope. - The State shall support and regulate
+         the use of agricultural drones for purposes including, but not
+         limited to:
+
+         1. Precision dispensing in applying fertilizers, pesticides,
+            herbicides, seeds, or water;
+
+         2. Crop management in conducting crop health monitoring,
+            soil analysis, irrigation assessment, and yield estimation
+            through multispectral or thermal imaging; and
+
+         3. Livestock monitoring to oversee livestock location, health,
+            and grazing patterns.
+
+      b. Special Permit and Operator Certification. - The operation of a
+         drone for dispensing any chemical, biological, or agricultural
+         substance shall require the appropriate permit from the CAAP
+         and other applicable authorizations.
+
+         Operators shall obtain any specialized agricultural drone
+         certification required under applicable regulations. Such
+         certification shall include appropriate training in the safe
+         handling and application of agrochemicals, spray drift
+         mitigation, and operation of drone-mounted dispersal systems,
+          conducted by training organizations         accredited   by   the
+          appropriate government agencies.
+
+     c. Operational Safety and Coordination. - All agricultural drone
+        operations involving chemical dispensing shall adhere to safety
+        protocols established by the Fertilizer and Pesticide Authority
+        (FPA), DA, CAAP, and other concerned agencies, which shall
+        include:
+
+          1. Buffer Zones: Maintaining appropriate buffer zones from
+             residential areas, schools, bodies of water, and other
+             sensitive areas to prevent contamination;
+
+          2. Public Notification: Providing prior notification to the
+             concerned local government unit or barangay before
+             conducting large-scale spraying operations, when required
+             by applicable regulations; and
+
+          3. Extended Visual Line of Sight (EVLOS): To facilitate
+             operations over large plantations, operations beyond the
+             direct sight of the remote pilot may be allowed, provided that
+             trained visual observers are utilized to keep the drone in
+             sight and maintain communication with the pilot, subject to
+             CAAP approval and applicable safety requirements.
+
+      SECTION 19. Enforcement Authority. - The PNP and other law
+enforcement agencies authorized by law shall enforce the provisions of
+this Act.
+
+       They shall have the authority, subject to the Constitution and
+existing laws, to:
+
+     a.    Demand the presentation of the drone's registration,
+           operator's license, permit, or other required authorization
+           during a lawful inspection;
+
+     b.    Order the immediate landing or grounding of any drone
+           reasonably believed to be operating in violation of this Act,
+           when necessary to protect public safety or security;
+
+     c.    Seize, confiscate, and impound any drone operated in
+           violation of this Act or used in the commission of a crime,
+           subject to applicable laws, rules of procedure, and evidentiary
+           requirements; and
+      d.   Employ authorized counter-drone technology when a drone
+           poses an imminent threat to public safety, national security,
+           or the security of a critical or high-value installation or event,
+           subject to applicable laws, rules of engagement, and standard
+           operating procedures.
+
+      SECTION 20. Counter-Drone Measures. – The PNP, AFP, and
+other authorized national security agencies may use reasonable and
+necessary measures, including approved counter-drone technologies, to
+detect, identify, disable, or neutralize an unmanned system that poses
+an imminent threat to public safety, critical infrastructure, or national
+security.
+
+      The use of such measures shall be governed by applicable laws
+and protocols established in the implementing rules and regulations,
+including safeguards to minimize risks to persons, property, and other
+lawful unmanned system operations.
+
+                              ARTICLE V
+                           PENAL PROVISIONS
+
+      SECTION 21. Fines and Penalties. – Any person who violates the
+provisions of this Act shall be subject to the applicable administrative or
+criminal penalties provided herein, without prejudice to liability under
+other applicable laws.
+
+      a. Any person operating an unregistered drone required to be
+         registered, or failing to mark the drone with its registration
+         number, shall be fined from Fifty Thousand Pesos (₱50,000) to
+         One Hundred Thousand Pesos (₱100,000), without prejudice to
+         the suspension or revocation of the applicable license or
+         authorization;
+
+      b. Any person operating a drone without a valid Remote Pilot
+         License or required authorization shall be fined from One
+         Hundred Thousand Pesos (₱100,000) to Two Hundred
+         Thousand Pesos (₱200,000) and may be disqualified from
+         applying for a license for a period not exceeding one (1) year,
+         subject to applicable administrative procedures;
+
+      c. Any person violating the General Operating Rules under Section
+         9 shall be fined Twenty Thousand Pesos (₱20,000) to Fifty
+         Thousand Pesos (₱50,000) per violation;
+
+      d. Any person or entity that fails to comply with the accreditation
+         requirements for importers, manufacturers, and sellers shall be
+   fined from Three Hundred Thousand Pesos (₱300,000) to One
+   Million Pesos (₱1,000,000), without prejudice to the suspension
+   or revocation of the entity's applicable permit or accreditation;
+
+e. Any person who willfully operates a drone in a Prohibited Zone
+   or in a manner that violates the conditions of a Restricted Zone
+   shall be punished by prisión correccional in its medium and
+   maximum periods and a fine of Two Hundred Thousand Pesos
+   (₱200,000) to Five Hundred Thousand Pesos (₱500,000),
+   without prejudice to liability under other applicable laws;
+
+f. Any person who uses a drone to commit unlawful surveillance,
+   recording, or other privacy-intrusive acts in violation of Section
+   10 shall be punished by prisión correccional in its minimum
+   and medium periods and a fine of One Hundred Thousand
+   Pesos (₱100,000) to Three Hundred Thousand Pesos
+   (₱300,000), without prejudice to separate liability under
+   Republic Act No. 10173, the Data Privacy Act of 2012, Republic
+   Act No. 10175, the Cybercrime Prevention Act of 2012, and
+   other applicable laws;
+
+g. The act of attaching any firearm, explosive, chemical, biological,
+   radiological, or other deadly weapon or hazardous material to a
+   drone for an unlawful purpose shall be punished by reclusión
+   temporal in its maximum period to reclusión perpetua, and a
+   fine of One Million Pesos (₱1,000,000) to Two Million Pesos
+   (₱2,000,000), without prejudice to liability under other
+   applicable laws;
+
+h. Any person who intentionally uses a drone to interfere with the
+   lawful operations of law enforcement officers, firefighters,
+   emergency responders, or disaster response personnel shall be
+   punished by prisión correccional in its maximum period and a
+   fine of Five Hundred Thousand Pesos (₱500,000);
+
+i. Any person who uses a drone to unlawfully gather, collect,
+   record, or transmit information, images, or electronic data from
+   a military installation, critical infrastructure, or government
+   facility for purposes of espionage or to aid a foreign power or
+   entity hostile to the Republic of the Philippines shall be
+   punished by reclusión perpetua and a fine of Five Million Pesos
+   (₱5,000,000) to Ten Million Pesos (₱10,000,000), without
+   prejudice to liability under applicable national security laws;
+
+j. If the offender is a public officer or employee, the penalty of
+   perpetual absolute disqualification from public office shall be
+         imposed when authorized by law and applicable to the offense,
+         in addition to the imprisonment and fine; and
+
+      k. If the offender is a foreign national, the offender shall be
+         prosecuted and, after service of sentence and compliance with
+         applicable legal proceedings, may be subjected to deportation
+         in accordance with Philippine immigration laws.
+
+      SECTION 22. Use of an Unmanned System as a Special
+Aggravating Circumstance. - In any crime punishable under the
+Revised Penal Code or any special penal law, the use of an Unmanned
+System in the planning, commission, facilitation, or concealment of such
+crime may, when provided by law and established in accordance with
+applicable rules, be considered an aggravating circumstance.
+
+      When applicable, the penalty shall be imposed in accordance with
+the provisions of the Revised Penal Code or the special penal law
+governing the offense.
+
+                         ARTICLE VI
+             IMPLEMENTING RULES AND REGULATIONS
+
+      SECTION 23. Authority to Promulgate Implementing Rules
+and Regulations (IRR). - The DOTr, through the CAAP, as the lead
+implementing agency for UAS-related matters, shall formulate, in
+consultation with the IAC-US and relevant stakeholders, the rules and
+regulations necessary for the effective implementation of this Act.
+
+      The IRR shall be prepared in coordination with the following
+government agencies:
+
+      a. Department of the Interior and Local Government (DILG);
+
+      b. Department of National Defense (DND);
+
+      c. Department of Trade and Industry (DTI);
+
+      d. Department of Information and Communications Technology
+         (DICT);
+
+      e. Department of Agriculture (DA);
+
+      f. Department of Environment and Natural Resources (DENR);
+
+      g. National Privacy Commission (NPC);
+      h. Philippine National Police (PNP);
+
+      i. Bureau of Fire Protection (BFP); and
+
+      j. Other agencies as may be deemed necessary.
+
+      SECTION 24. Scope and Content of the IRR. - The IRR shall be
+promulgated within ninety (90) days from the effectivity of this Act and
+shall provide detailed procedures and standards for the following
+matters:
+
+      a. Registration and Marking: The procedure for drone registration,
+         renewal, transfer of ownership, de-registration, fees, and the
+         specific requirements for displaying registration markings;
+
+      b. Licensing and Training: The curriculum, standards, and
+         procedures for the aeronautical knowledge examination,
+         practical skills assessment, and issuance of Remote Pilot
+         Licenses for various categories and classes of operations,
+         including standards for accredited drone pilot training
+         organizations;
+
+      c. Airspace and Flight Rules: The precise definition and
+         publication of Prohibited and Restricted Zones and the process
+         for establishing Temporary Flight Restrictions (TFRs) for
+         emergencies or special events;
+
+      d. Special Operations Permits: The application process and safety
+         requirements for Class 3 (High-Risk) operations, including
+         BVLOS, nighttime operations, and drone delivery services;
+
+      e. Law Enforcement Protocols: The rules of engagement and
+         standard operating procedures for the PNP and other law
+         enforcement agencies in the inspection, seizure, and disposition
+         of drones, as well as the authorized use of counter-drone
+         technologies;
+
+      f. Governmental Use Protocols: The specific guidelines for drone
+         use by the BFP, PNP, AFP, and other government agencies,
+         including inter-agency coordination during joint operations;
+
+      g. Privacy and Data Protection: The specific guidelines to ensure
+         compliance with the Data Privacy Act, particularly for drones
+         equipped with advanced surveillance and data-capturing
+         technologies;
+      h. Accreditation and Sales Monitoring: The detailed requirements
+         and procedures for the accreditation of drone importers,
+         manufacturers, and sellers and the mechanism for reporting
+         sales data; and
+
+      i. Fines and Penalties: A detailed schedule of administrative fines
+         and a clear procedure for the adjudication of administrative
+         offenses, consistent with due process and the authority of the
+         appropriate regulatory agency.
+
+      SECTION 25. Transitory Provision. - Within six (6) months from
+the effectivity of the implementing rules and regulations, owners and
+operators of unmanned systems that are required to be registered or
+licensed under this Act shall be given a period within which to comply
+with the registration, licensing, and permitting requirements without
+incurring penalties solely for failure to comply during such transition
+period, provided that the unmanned system is not used in the
+commission of an offense or in a manner that poses an imminent threat
+to public safety, national security, or aviation safety.
+
+       SECTION 26. Separability Clause. - If for any reason, any
+provision of this Act is declared unconstitutional or invalid, such parts
+not affected thereby shall remain in full force and effect.
+
+      SECTION 27. Repealing Clause. - All laws, decrees, executive
+orders, rules and regulations, and other issuances or parts thereof which
+are inconsistent with the provisions of this Act are hereby repealed,
+amended, or modified accordingly.
+
+     SECTION 28. Effectivity. - This Act shall take effect fifteen (15)
+days after its publication in the Official Gazette or in any two (2)
+newspapers of general circulation in the Philippines.
+
+      Approved,
+

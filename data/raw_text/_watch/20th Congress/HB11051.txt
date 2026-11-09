@@ -1,0 +1,256 @@
+                             Republic of the Philippines
+                           HOUSE OF REPRESENTATIVES
+                             Quezon City, Metro Manila
+                                                                          September 1, 2026
+                                                                             5:24 pm
+                               TWENTIETH CONGRESS
+                                Second Regular Session
+
+                                             11051
+                          HOUSE BILL NO. _______________
+
+
+                         Introduced by ANG PROBINSYANO
+                    Party-List Representative Alfred Delos Santos
+
+
+                                EXPLANATORY NOTE
+
+       Access to affordable and formal credit remains out of reach for millions of
+Filipinos, particularly those without an established credit history, such as
+informal sector workers, farmers, fisherfolk, and micro, small, and medium
+enterprises (MSMEs). Financial institutions play a central role in closing this
+gap, and the growing availability of alternative and digital transaction data
+presents new opportunities to responsibly assess the creditworthiness of
+previously underserved borrowers.
+
+      The Bangko Sentral ng Pilipinas (BSP) has itself recognized the value of
+alternative data, such as mobile, utility, and online transaction data, in painting
+a more complete picture of a borrower’s creditworthiness, allowing more
+individuals and businesses, especially those with thin or no credit files, to be
+assessed for credit. Realizing this potential, however, requires that credit scoring
+models built on such data remain accurate, fair, and free from undue bias
+against the very sectors they are meant to serve.
+
+      Given BSP’s immediate action in ensuring liquidity in the economy
+through decreased lending rates and reserve requirement during the COVID-19
+Pandemic, the pressure is on for banks to operationalize such measures post-
+pandemic and continue to normalize such practice. While the intention of the
+government is to provide support, banks would need to immediately scale their
+operations to manage worsening credit positions of existing borrowers and
+accommodate possible increase in new credit due to lowered interest rates.1
+
+      The lack of alternatives and exclusionary mechanisms of financial credit
+scoring systems have led many FIlipinos to resort to more expensive, poorly-
+supervised, and potentially illegal lending operations that impose abusive
+
+1
+    https://www.pwc.com/ph/en/business-unusual/banks-approach-to-covid-19.html
+interest rates and practice predatory lending activities, to the detriment of many
+disadvantaged and underprivileged sectors of the society.
+
+      The lack of alternatives and exclusionary mechanisms of financial credit
+scoring systems have led many FIlipinos to resort to more expensive, poorly-
+supervised, and potentially illegal lending operations that impose abusive
+interest rates and practice predatory lending activities, to the detriment of many
+disadvantaged and underprivileged sectors of the society.
+
+      This bill seeks to encourage the development of non-traditional
+approaches to credit scoring, with the aim of including more sectors of the society
+that have been excluded under more conventional and traditional approaches.
+With a fairer and more inclusive approach to credit scoring, more members of
+the agriculture sector, MSMEs, informal sector, and other vulnerable groups will
+be able to access more affordable credit that proactively enables them to engage
+in more productive economic activities.
+
+      This Act specifically mandates a credit inclusiveness study to determine
+whether conventional credit scoring techniques exclude specific segments and
+sectors of the society; grants the Bangko Sentral ng Pilipinas (BSP) clear
+regulatory oversight of credit scoring methods; requires a regular review of credit
+scoring models to assess their inclusivity; and allows the BSP to prohibit credit
+scoring models that are deemed to be unduly exclusionary.
+
+       Finally, this bill responds to the continuing need to translate financial
+system liquidity into credit in the real economy, particularly for sectors that
+remain underserved by conventional credit scoring systems. Through this, more
+Filipinos will be able to engage in productive economic activity that will help
+sustain and broaden the country’s economic growth.
+
+     In view of the foregoing, the immediate passage of this bill is earnestly
+sought.
+
+
+
+                                             ALFRED C. DELOS SANTOS
+                                       Representative, Ang Probinsyano Partylist
+                         Republic of the Philippines
+                       HOUSE OF REPRESENTATIVES
+                         Quezon City, Metro Manila
+
+                          TWENTIETH CONGRESS
+                           Second Regular Session
+
+                                         11051
+                      HOUSE BILL NO. _______________
+
+
+                     Introduced by ANG PROBINSYANO
+                Party-List Representative Alfred Delos Santos
+
+
+  AN ACT TO ESTABLISH FAIR AND INCLUSIVE CREDIT REPORTING
+ MECHANISMS TO ENSURE EQUITABLE CREDIT ACCESS TO THE MOST
+  VULNERABLE SECTORS OF SOCIETY AND FOR OTHER PURPOSES
+
+       Be it enacted by the Senate and the House of Representatives of the
+Philippines in Congress assembled:
+
+      SECTION 1. Short Title. — This Act shall also be known as the "Fair and
+Inclusive Credit Information and Scoring Act."
+
+     SECTION. 2. Definition of Terms. — For the purpose of this Act:
+
+        a. "Alternative Modeling Techniques" shall refer to statistical and
+           mathematical techniques that are not traditional modeling
+           techniques, including decision trees, random forests, artificial
+           neural networks, nearest neighbor, genetic programming, and
+           boosting algorithms;
+        b. "Consumer Report" shall refer to any written, oral, or other
+           communication of any information by a consumer reporting agency
+           bearing on a consumer's creditworthiness, credit standing, credit
+           capacity, character, general reputation, personal characteristics, or
+           mode of living which is used or expected to be used or collected in
+           whole or in part for the purpose of serving as a factor in establishing
+           the consumer's eligibility for (1) credit or insurance to be used
+           primarily for personal, family, or household purposes, or (2)
+           employment purposes, or (3) other purposes authorized by law.
+        c. "Non-Traditional Data" shall refer to data related to
+           telecommunications, utility payments, rent payments, remittances,
+           wire transfers, data not otherwise regularly included in consumer
+           reports issued by consumer reporting agencies described under
+           section 603(p), and such other items as the Bureau of Consumer
+           Financial Protection deems appropriate.
+         d. "Traditional Modeling Techniques" shall refer to statistical and
+            mathematical techniques (including models, algorithms, linear and
+            logistic regression methods, and their outputs) that are traditionally
+            used in automated underwriting processes.
+
+       SECTION 3. Credit Inclusiveness Study. — The Credit Information
+Corporation (CC), in collaboration with the Philippine Institute for Development
+Studies (PIDS) and the Bangko Sentral ng Pilipinas (BSP) shall carry out a study
+to assess the impact (including the availability and affordability of credit and
+other non-credit decisions, the potential positive and negative impacts on
+consumer credit scores, and any unintended consequences) of using traditional
+modeling techniques or alternative modeling techniques to analyze non-
+traditional data from a consumer report and of including non-traditional data on
+consumer reports on the following:
+
+         a. Consumers with no or minimal traditional credit history;
+         b. Traditionally underserved communities and populations, such as
+            members of indigenous communities;
+         c. Consumers residing in rural areas;
+         d. Consumers residing in urban areas;
+         e. Religious and ethnic minorities;
+         f. Consumers across various income strata, particularly consumers
+            whose income is less than the annual median income as determined
+            by the Philippine Statistics Authority (PSA);
+         g. Refugees and non-permanent residents;
+         h. Self-employed and small and medium enterprises; and
+         i. Consumers residing in informal housing and or state-funded
+            housing projects for low-income families.
+
+      SECTION 4. Additional considerations in the credit inclusiveness study. —
+In assessing impacts under Section 3 of this Act, the CIC, PIDS, and BSP shall
+also consider impacts on:
+
+         a. the privacy, security, and confidentiality of the financial, medical,
+            and personally identifiable information of consumers;
+         b. the control of consumers over how such information may or will be
+            used or considered;
+         c. the understanding of consumers of how such information may be
+            used or considered and the ease with which a consumer may decide
+            to restrict or prohibit such use or consideration of such information;
+         d. potential discriminatory effects; and
+         e. disparate outcomes the use or consideration of such information
+            may cause.
+
+     SECTION 5. Consideration of other state studies. — In assessing impacts
+under Section 3 of this Act, the CIC shall also consider recent government
+studies on alternative data, including the body of research on financial inclusion
+which may be available from the BSP.
+
+      SECTION 6. Annual report to Congress. — Not later than one (1) year after
+the date of the enactment of this Act, the CIC shall issue a report to the
+Committee on Banks and Financial Intermediaries of the House of
+Representatives and the Committee on Banks, Financial Institutions and
+Currencies of the Senate containing all findings and determinations, including
+any recommendations for any legislative or regulatory changes. made in carrying
+out the study required under Section 3 of this Act.
+
+       SECTION 7. Oversight of credit scoring models. — Not later than one (1)
+year after the date of the enactment of this Act, the Monetary Board shall (in
+consultation with the Philippine Deposit Insurance Corporation, the Securities
+and Exchange Commission, and the CIC) issue final regulations applicable to
+any person that creates, maintains, utilizes, or purchases credit scoring models
+used in making credit decisions to establish standards for validating the
+accuracy and predictive value of all such credit scoring models, both before
+release for initial use and at regular intervals thereafter, for as long as such
+credit scoring models are made available for purchase or use by such person.
+
+       SECTION 8. Inclusivity and fairness in credit scoring models. — At least
+once every two (2) years. the BSP and CIC shall conduct a review of credit scoring
+models to determine whether the use of any particular factors, or the weight or
+consideration given to certain factors by credit scoring models, is inappropriate,
+including if such factors do not enhance or contribute to the accuracy and
+predictive value of the models. Upon the conclusion of its review, the BSP may
+prohibit any of its supervised financial institutions from weighing, considering,
+or including certain factors in, or making available for purchase or use, certain
+credit scoring models or versions, as the BSP determines appropriate.
+
+       SECTION 9. Review of changes to credit scoring models. — With respect to
+a person that creates credit scoring models used in making credit decisions, if
+such person creates a new credit scoring model (including a revision to an
+existing scoring model) that would, when compared to previous credit scoring
+models created by such person, lower the credit scores of a class of consumers,
+the BSP may review such new credit scoring model and, if the BSP determines
+that such new credit scoring model is inappropriate (including, with respect to a
+revision to an existing scoring model, if such revision does not enhance or
+contribute to the accuracy and predictive value of the existing scoring model),
+the BSP may prohibit such new credit scoring model.
+
+       SECTION 10. Implementing Rules and Regulations. — Unless otherwise
+stated, the BSP and the CIC shall jointly issue the rules and regulations
+necessary for the implementation of this Act, within ninety (90) days upon its
+effectivity.
+      SECTION 11. Oversight Committee. — The Committee on Banks and
+Financial Intermediaries of the House of Representatives and the Committee on
+Banks, Financial Institutions and Currencies of the Senate shall select, from
+each committee, a delegation of five (5) members, with at least one (1) member
+representing the legislative body's minority coalition, to constitute the
+Congressional Oversight Committee on Fair Credit Reporting, which shall be co-
+chaired by the Chairpersons of both Committees.
+
+      The Oversight Committee shall convene within one hundred and twenty
+(120) days after the date of effectivity of this Act to determine whether:
+
+         a. The BSP and the CIC have issued the Rules and Regulations
+            necessary for the implementation of this Act;
+         b. The study mandated under this Act has been initiated; and
+         c. Other mandates under this Act have been initiated or fully complied
+            with.
+
+       SECTION 12. Separability Clause. – If any provision or part of this Act is
+held invalid or unconstitutional, the remaining provisions or parts unaffected
+shall remain in full force and effect.
+
+      SECTION 13. Repealing Clause. – All laws, executive orders, presidential
+decrees or issuances, letters of instruction, administrative orders, rules, and
+regulations contrary to or inconsistent with the provisions of this Act are hereby
+repealed, amended, or modified accordingly.
+
+      SECTION 14. Effectivity Clause. – This Act shall take effect fifteen (15) days
+after its publication in the Official Gazette or in a newspaper of general
+circulation.
+
+      Approved,
+

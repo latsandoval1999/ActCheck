@@ -1,0 +1,593 @@
+                       TWENTIETH CONGRESS OF THE
+                       REPUBLIC OF THE PHILIPPINES                      September 7, 2026
+                           Second Regular Session                           1:00 pm
+
+                        HOUSE OF REPRESENTATIVES
+                                            11137
+                             HOUSE BILL NO. ______
+
+                 Introduced by REP. ALEXANDER T. PIMENTEL
+
+                             EXPLANATORY NOTE
+
+Artificial Intelligence (AI) has moved from the margins of Philippine economic
+and civic life to its center. Independent industry research cited in recent House
+deliberations found that more than nine in ten surveyed Philippine organizations
+have already adopted AI in some form, with more than half using generative AI
+tools for over a year. AI already assists in hiring and firing decisions, credit and
+loan approvals, medical triage, classroom instruction, government frontline
+services, and the content millions of Filipinos see on their screens every day.
+This proliferation of AI across the economy and daily life can no longer be treated
+as a future concern to be legislated once the technology matures. It is a present
+reality, and a national regulatory framework must be set in place now, before
+gaps in oversight translate into irreversible harm to workers, consumers, and
+vulnerable groups.
+
+Despite this reality, the Philippines has no single law that defines or regulates
+AI as such. Existing statutes like the Data Privacy Act of 2012, the Cybercrime
+Prevention Act of 2012, and the recently enacted E-Governance Act each cover
+only a slice of the problem, while the executive branch's National AI Strategy for
+the Philippines (NAIS-PH), approved in May 2025, and the Department of Science
+and Technology's National Artificial Intelligence Center for Research and
+Innovation (NAICRI), activated in February 2026, provide policy direction and
+research infrastructure but carry no binding regulatory force on their own.
+
+Congress has not been silent on this gap. Both chambers of the 19th and 20th
+Congresses have seen a steady stream of measures responding to different facets
+of AI governance.
+
+The Department of Information and Communications Technology has
+consistently urged that AI regulation be "principle-based and flexible" and
+calibrated to actual risk, cautioning that heavy-handed rules could stifle
+innovation and discourage the investment the country needs to remain
+competitive; industry and startup groups have echoed concerns that blanket
+registration or documentation requirements could be disproportionately
+burdensome for micro, small, and medium enterprises. At the same time, labor
+advocates pointing to the Department of Labor and Employment's own
+acknowledgment that Filipino workers are already losing jobs to automation
+have pressed for enforceable protections: advance notice before AI-driven
+displacement, access to retraining, and an assurance that no worker will be
+dismissed by an algorithm alone.
+Civil society and academic voices behind the AI Bill of Rights language found in
+earlier bills have emphasized transparency, protection from discriminatory
+profiling, a right to human review of consequential decisions, and safeguards for
+children and other vulnerable groups. Data privacy regulators and legal
+commentators, for their part, have stressed that any new AI framework must
+remain harmonized with, rather than duplicate or contradict, the Data Privacy
+Act of 2012. Community concerns have also emerged around the energy and
+water footprint of the AI data centers now concentrating around Metro Manila
+and Cebu.
+
+This bill seeks to reconcile these positions in a single, risk-based, and workable
+framework. It does not impose uniform, one-size-fits-all obligations on every AI
+system regardless of its actual risk profile. Instead it: (i) affirms a Bill of Rights
+in Artificial Intelligence covering notice, explanation, human review, data
+control, and protection from discrimination; (ii) creates the National Artificial
+Intelligence Regulatory Authority (NAIRA) under the Department of Information
+and Communications Technology, supported by a National AI Multi-Stakeholder
+Advisory Council representing government, labor, industry, academe, and civil
+society; (iii) classifies AI systems by risk prohibiting unacceptable uses outright,
+subjecting only high-risk systems to registration and pre-deployment review,
+requiring basic transparency for limited-risk systems, and leaving minimal-risk
+innovation largely unencumbered; (iv) guarantees that no Filipino worker may
+be dismissed, demoted, or have compensation reduced on the sole basis of an
+automated decision, and requires at least sixty (60) days' advance notice and
+access to retraining before AI-driven displacement; (v) establishes a regulatory
+sandbox to keep the door open for startups, researchers, and MSMEs; and (vi)
+provides proportionate administrative, civil, and criminal remedies for violations.
+
+Innovation and regulation are not opposing goals. A clear, predictable, and
+appropriately calibrated legal framework is the foundation on which sustained
+public trust and, with it, sustained AI adoption and investment will be built. In
+view of the foregoing, the immediate passage of this bill is earnestly requested.
+
+
+
+
+REP. ALEXANDER T. PIMENTEL
+                       TWENTIETH CONGRESS OF THE
+                       REPUBLIC OF THE PHILIPPINES
+                           Second Regular Session
+
+                        HOUSE OF REPRESENTATIVES
+                                           11137
+                            HOUSE BILL NO. ______
+
+                Introduced by REP. ALEXANDER T. PIMENTEL
+
+  AN ACT ESTABLISHING A NATIONAL REGULATORY FRAMEWORK FOR
+      THE DEVELOPMENT, DEPLOYMENT, AND USE OF ARTIFICIAL
+   INTELLIGENCE SYSTEMS IN THE PHILIPPINES, CREATING FOR THE
+   PURPOSE THE NATIONAL ARTIFICIAL INTELLIGENCE REGULATORY
+  AUTHORITY AND THE NATIONAL AI MULTI-STAKEHOLDER ADVISORY
+     COUNCIL, PROVIDING PENALTIES FOR VIOLATIONS THEREOF,
+    APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in
+Congress assembled:
+
+                                  CHAPTER I
+                               General Provisions
+
+       SEC. 1. Short Title. – This Act shall be known as the “Philippine Artificial
+Intelligence Regulatory Framework Act.”
+
+       SEC. 2. Declaration of Policy. – It is the policy of the State to promote
+the responsible, ethical, and inclusive development and use of Artificial
+Intelligence (AI) as a tool for national development, economic competitiveness,
+and improved delivery of public services, while protecting the constitutional
+rights of every Filipino, including the rights to privacy, due process, equal
+protection, and gainful employment. The State recognizes that innovation and
+regulation are not opposing goals: a clear, predictable, and risk-based legal
+framework is necessary to build the public trust on which continued AI adoption
+and investment depend. Towards this end, the State shall adopt a framework
+that is proportionate to the actual risk posed by an AI system, that avoids
+imposing undue compliance burdens on low-risk innovation, startups, and
+micro, small, and medium enterprises (MSMEs), and that establishes clear,
+enforceable safeguards where an AI system poses a significant risk to safety,
+livelihood, or fundamental rights.
+
+       SEC. 3. Scope and Coverage. – This Act shall apply to the research,
+development, deployment, importation, sale, and use of AI systems by public and
+private entities operating within the Philippines, and to AI systems that, although
+hosted, trained, or developed abroad, produce effects on persons, entities, or
+data within Philippine territory. This Act shall apply suppletorily to sector-
+specific rules issued by financial, health, education, telecommunications,
+electoral, and other regulators, which shall retain primary jurisdiction over
+matters within their respective competence, in coordination with the Authority
+created under this Act.
+SEC. 4. Definition of Terms. – For purposes of this Act:
+
+(a) “Artificial Intelligence (AI)” refers to a machine-based system that, for a
+    given set of human-defined objectives, generates outputs such as
+    predictions, recommendations, content, or decisions that influence real
+    or virtual environments, with varying degrees of autonomy.
+
+(b) “AI System” means any software, hardware, or combination thereof that
+    implements one or more AI techniques, including machine learning, to
+    process data and produce an output for a given set of objectives.
+
+(c) “Automated Decision” means a decision made, in whole or in
+   substantial part, by an AI system without meaningful human judgment
+   applied to the specific case, that produces legal effects on a person or
+   similarly and significantly affects that person.
+
+(d) “Deployer” means any natural or juridical person that puts an AI
+   system into use, whether by developing it in-house or by procuring it
+   from a developer.
+
+(e) “Developer” means any natural or juridical person that designs, builds,
+    trains, or substantially modifies an AI system.
+
+(f) “Foundation Model” means a large-scale AI model trained on broad data
+     and adaptable to a wide range of downstream tasks.
+
+(g) “Generative AI” means an AI system capable of generating text, images,
+    audio, video, code, or other content that resembles human-generated
+    output.
+
+(h) “High-Risk AI System” means an AI system classified as such under
+    Section 18 of this Act.
+
+(i) “Human Oversight” means the presence of effective mechanisms
+    enabling a natural person to understand, monitor, intervene in, or
+    override the operation or output of an AI system.
+
+(j) “Regulatory Sandbox” means a controlled, time-bound testing
+    environment authorized by the Authority under Section 32 that allows
+    for conditional exemptions from specified requirements of this Act.
+
+(k) “Synthetic Content” means image, audio, video, or text content that has
+    been generated or manipulated by an AI system such that it would
+    falsely appear to a reasonable person to be authentic or to accurately
+    depict a real person, place, or event.
+
+(l) “Authority” refers to the National Artificial Intelligence Regulatory
+    Authority (NAIRA) created under Section 6 of this Act.
+
+(m) “Council” refers to the National AI Multi-Stakeholder Advisory Council
+   created under Section 13 of this Act.
+
+                            CHAPTER II
+              Bill of Rights in Artificial Intelligence
+       SEC. 5. AI Bill of Rights. – In recognition of the impact of AI on Filipino
+life, work, and society, and in order to preserve human dignity and democratic
+accountability, the State affirms the following rights of every person in relation
+to the design, deployment, and use of AI systems:
+
+      (a) Right to Notice. – Every person has the right to know, in clear and
+          accessible terms, when they are interacting with, or are subject to a
+          decision made or materially assisted by, an AI system, unless such use
+          is clearly evident from the context.
+
+      (b) Right to Explanation. – Every person subject to an automated decision
+          affecting their rights, benefits, or opportunities has the right to a
+          meaningful explanation of the logic, main factors, and data involved.
+
+      (c) Right to Human Review. – No automated decision that materially affects
+          a person's employment, credit, insurance, government benefit, or
+          access to education shall be made solely by an AI system, and every
+          such person has the right to request review and, where warranted,
+          correction or reversal by a competent human officer.
+
+      (d) Right to Data Control. – Consistent with Republic Act No. 10173, every
+          person has the right to access, correct, and object to the processing of
+          their personal data by an AI system, including a right to request the
+          removal of their personal data from training or operational datasets,
+          subject to legitimate retention requirements under law.
+
+      (e) Right against Algorithmic Discrimination. – Every person has the right
+          to be free from unlawful discrimination, profiling, or surveillance by an
+          AI system on the basis of any characteristic protected under existing
+          law.
+
+      (f) Right to Safety. – Every person has the right to be protected from a high-
+          risk AI system that has not undergone the risk assessment,
+          registration, and human-oversight requirements of this Act.
+
+      (g) Right to Redress. – Every person adversely affected by a violation of this
+          Act has the right to file a complaint with the Authority and to pursue
+          civil, administrative, or criminal remedies as provided herein and under
+          other applicable law.
+
+      (h) Rights of Workers. – No worker shall be dismissed, demoted, or have
+          their wages or benefits diminished on the sole basis of an automated
+          decision, and every worker is entitled to advance notice, consultation,
+          and transition support in connection with AI-driven changes to their
+          work, as further provided in Section 24 of this Act.
+
+                               CHAPTER III
+         The National Artificial Intelligence Regulatory Authority
+
+     SEC. 6. Creation of the National Artificial Intelligence Regulatory
+Authority (NAIRA). – There is hereby created the National Artificial Intelligence
+Regulatory Authority (NAIRA), attached to the Department of Information and
+Communications Technology (DICT) for purposes of policy and program
+coordination, which shall exercise regulatory, quasi-judicial, and administrative
+functions over AI systems in the Philippines as provided in this Act. NAIRA shall
+have the authority to promulgate rules, conduct investigations, impose
+administrative sanctions, and issue orders necessary to carry out the purposes
+of this Act.
+
+      SEC. 7. Powers and Functions. – NAIRA shall have the following powers
+and functions:
+
+      (a) Formulate, issue, and enforce rules, standards, and technical
+         requirements for the classification, registration, and oversight of AI
+         systems;
+
+      (b) Classify AI systems by level of risk pursuant to Chapter V of this Act
+          and maintain an indicative, periodically updated list of high-risk AI use
+          cases;
+
+      (c) Establish and maintain the National AI Registry required under Section
+          10;
+
+      (d) Conduct pre-deployment reviews, audits, and post-deployment
+         monitoring of high-risk AI systems;
+
+      (e) Investigate complaints, issue compliance orders, cease-and-desist
+          orders, and impose administrative fines under Section 35;
+
+      (f) Refer suspected criminal violations of this Act to the Department of
+          Justice and appropriate law enforcement agencies;
+
+      (g) Issue binding and advisory opinions on the application of this Act;
+
+      (h) Coordinate with sectoral regulators, including the Bangko Sentral ng
+          Pilipinas, the Securities and Exchange Commission, the Insurance
+          Commission, the National Privacy Commission, the Department of
+          Health, the Department of Education, the Commission on Higher
+          Education, the Commission on Elections, and the National
+          Telecommunications Commission, on matters of overlapping
+          jurisdiction;
+
+      (i) Administer the regulatory sandbox program under Section 32;
+
+      (j) Promote the development of domestic AI talent, research, and industry
+          in coordination with the Department of Science and Technology and the
+          Department of Trade and Industry; and
+
+      (k) Submit an annual report to Congress on the state of AI regulation,
+          registrations, enforcement actions, and legislative recommendations.
+
+     SEC. 8. Organizational Structure. – NAIRA shall be headed by a Director-
+General, appointed by the President of the Philippines, and shall be assisted by
+Deputy Director-Generals for: (a) Standards and Risk Classification; (b)
+Compliance and Enforcement; (c) Innovation and Regulatory Sandbox; and (d)
+Consumer and Worker Protection. The Director-General shall, within ninety (90)
+days from the effectivity of this Act, submit a staffing pattern and budget
+proposal to the Department of Budget and Management.
+
+       SEC. 9. Qualifications of the Director-General. – The Director-General
+shall be a natural-born Filipino citizen of good moral character with at least ten
+(10) years of relevant experience in AI, computer science, law, public policy, or a
+related field.
+
+      SEC. 10. National AI Registry. – There is hereby established a National
+AI Registry, which shall record all high-risk AI systems required to be registered
+under Section 19. Registration shall not be required for limited-risk or minimal-
+risk AI systems. The Registry shall be made publicly accessible in a manner that
+protects legitimate trade secrets and proprietary information.
+
+      SEC. 11. Rule-Making and Public Consultation. – All proposed rules and
+regulations of NAIRA shall undergo public notice and consultation for not less
+than thirty (30) calendar days and shall be published in the Official Gazette, in
+a newspaper of general circulation, or on the official NAIRA website prior to
+taking effect.
+
+      SEC. 12. Funding. – The initial funding requirement for the establishment
+of NAIRA shall be charged against the current appropriations of the DICT.
+Thereafter, such sums as may be necessary for its continued operation shall be
+included in the annual General Appropriations Act.
+
+                                CHAPTER IV
+               National AI Multi-Stakeholder Advisory Council
+
+      SEC. 13. Creation of the Council. – There is hereby created the National
+AI Multi-Stakeholder Advisory Council, which shall serve as an independent
+advisory body to NAIRA, composed of eleven (11) members appointed by the
+President upon recommendation of the DICT Secretary, as follows:
+
+      (a) One (1) AI researcher or machine learning expert;
+
+      (b) One (1) ethicist, philosopher, or scholar with a demonstrated body of
+          work on AI ethics;
+
+      (c) One (1) representative of a national labor federation or trade union;
+
+      (d) One (1) human rights or data privacy legal expert;
+
+      (e) One (1) sociologist, anthropologist, or public-interest technologist;
+
+      (f) One (1) representative of the youth or academic sector under thirty (30)
+          years of age;
+
+      (g) One (1) representative of MSMEs or the startup sector;
+
+      (h) One (1) representative of a consumer protection organization;
+
+      (i) One (1) media practitioner or researcher on disinformation or
+          algorithmic harms;
+      (j) One (1) representative from Visayas, and one (1) representative from
+          Mindanao, rotating every three (3) years.
+
+      SEC. 14. Functions of the Council. – The Council shall: (a) issue non-
+binding opinions on proposed high-risk classifications and major NAIRA rules;
+(b) conduct public hearings and consultations on proposed AI regulations; (c)
+submit an annual AI Ethics and Public Impact Report to Congress and the
+President; and (d) receive a written explanation from NAIRA whenever the
+Authority adopts a position contrary to the Council's recommendation.
+
+      SEC. 15. Term and Secretariat Support. – Members of the Council shall
+serve a term of three (3) years, renewable once, and shall receive honoraria as
+may be determined by the Department of Budget and Management, subject to
+availability of funds. The DICT shall provide secretariat support to the Council.
+
+                                CHAPTER V
+                   Risk-Based Classification of AI Systems
+
+       SEC. 16. Risk Tiers. – AI systems shall be classified into the following
+tiers: (a) Unacceptable Risk, which is prohibited outright under Section 17; (b)
+High Risk, subject to the requirements of Section 19; (c) Limited Risk, subject to
+the transparency requirements of Section 20; and (d) Minimal Risk, subject to
+Section 21.
+
+      SEC. 17. Prohibited AI Practices. – The following AI practices are
+prohibited:
+
+      (a) The use of AI by a public authority to evaluate or classify the
+         trustworthiness of persons based on their social behavior or personal
+         characteristics, leading to detrimental or unfavorable treatment
+         unrelated to the context in which the data was originally generated;
+
+      (b) The use of AI techniques that materially distort a person's behavior
+          through subliminal, manipulative, or deceptive means in a manner
+          likely to cause significant harm;
+
+      (c) The use of real-time, indiscriminate biometric identification of persons
+          in publicly accessible spaces for law enforcement purposes, except
+          upon judicial authorization or as otherwise provided by law;
+
+      (d) The use of AI to exploit the vulnerabilities of children, persons with
+          disabilities, or the elderly in a manner likely to cause harm;
+
+      (e) The use of AI to create or distribute synthetic content depicting a real,
+          identifiable person without their consent, where such content is
+          deceptively presented as authentic and is likely to cause reputational,
+          financial, or electoral harm; and
+
+      (f) The use of AI to infer the emotional state of an employee or student
+          without their consent, except where necessary for safety or medical
+          purposes.
+       SEC. 18. High-Risk AI Systems. – NAIRA shall classify an AI system as
+high-risk based on: (a) its use in critical sectors such as health, finance,
+education, employment, credit, law enforcement, government benefits, or critical
+infrastructure; (b) its degree of autonomy and the extent of human oversight
+available; (c) its use for biometric identification or profiling; and (d) the scale of
+its deployment and the number of persons potentially affected. NAIRA shall issue
+and periodically update an indicative list of high-risk AI use cases.
+
+       SEC. 19. Obligations for High-Risk AI Systems. – A deployer of a high-
+risk AI system shall, prior to deployment: (a) register the system with the National
+AI Registry; (b) conduct and document a risk assessment, including bias and
+fairness testing; (c) implement an effective human oversight mechanism; (d)
+establish post-deployment monitoring and incident-reporting procedures; and
+(e) adopt commensurate cybersecurity safeguards. Failure to comply shall be
+subject to the sanctions under Section 35.
+
+      SEC. 20. Limited-Risk AI Systems. – A deployer of a limited-risk AI
+system, including a generative AI system, shall disclose to users, in a clear and
+conspicuous manner, that they are interacting with an AI system or that content
+has been generated or materially altered by AI, and shall, where feasible, provide
+an accessible means of obtaining human assistance.
+
+      SEC. 21. Minimal-Risk AI Systems. – A minimal-risk AI system shall not
+be subject to mandatory registration or pre-deployment review under this Act.
+NAIRA may issue voluntary codes of conduct for the responsible development of
+such systems.
+
+                                CHAPTER VI
+                    Cross-Cutting and Sectoral Obligations
+
+       SEC. 22. Alignment with the Data Privacy Act of 2012. – Republic Act
+No. 10173 shall apply suppletorily to this Act. The National Privacy Commission
+shall retain jurisdiction over complaints involving the unlawful processing of
+personal data by an AI system. NAIRA and the National Privacy Commission
+shall jointly issue guidelines on automated decision-making and profiling within
+one (1) year from the effectivity of this Act.
+
+      SEC. 23. AI in Government Services. – A government agency deploying
+a high-risk AI system for public-facing decisions shall register the system with
+NAIRA, publish a plain-language notice of the system's function and available
+appeal channels, and ensure that a duly authorized human officer remains
+accountable for the final government action.
+
+      SEC. 24. Protection of Workers from AI-Driven Displacement. – No
+employer shall dismiss, demote, or reduce the compensation or benefits of an
+employee based solely on the output of an AI or automated system, without
+human review by a duly authorized officer. An employer intending to adopt an
+AI system reasonably expected to result in the redundancy or displacement of
+workers shall provide affected workers, and their recognized labor organization
+where one exists, written notice of not less than sixty (60) calendar days prior to
+implementation, and shall, in coordination with the Department of Labor and
+Employment (DOLE), offer reasonable retraining, upskilling, or transition
+assistance to displaced workers. DOLE, in coordination with NAIRA, shall issue
+implementing guidelines within one hundred eighty (180) days from the
+effectivity of this Act.
+
+       SEC. 25. AI in Recruitment and Employment Decisions. – An employer
+using AI in recruitment, performance evaluation, or termination shall disclose
+such use to applicants and employees, conduct periodic bias testing, and ensure
+that final adverse decisions remain subject to human review upon request.
+
+       SEC. 26. AI in Credit, Insurance, and Financial Services. – A financial
+institution using AI for credit scoring, underwriting, or claims processing shall
+disclose the use of automated processing to affected clients and provide a right
+to request human review of an adverse decision, without prejudice to the
+continuing prudential authority of the Bangko Sentral ng Pilipinas, the
+Securities and Exchange Commission, and the Insurance Commission, which
+shall coordinate with NAIRA on applicable technical standards.
+
+      SEC. 27. AI in Elections and Political Communication. – Synthetic or
+AI-generated campaign content shall be conspicuously labeled as such. This Act
+shall be construed to complement, and not to diminish, the authority of the
+Commission on Elections to regulate the use of AI in electoral activities.
+
+       SEC. 28. AI in Health Care. – An AI system intended for clinical diagnosis,
+triage, or treatment recommendation shall be reviewed with the Department of
+Health prior to deployment and shall remain assistive to, and shall not replace,
+the independent judgment of a duly licensed health professional.
+
+      SEC. 29. AI in Education. – An AI system used for student grading,
+ranking, or profiling shall not be the sole basis of an academic decision. The
+Department of Education and the Commission on Higher Education, in
+coordination with NAIRA, shall issue standards for the use of AI in basic and
+higher education and shall integrate AI literacy and ethics into relevant
+curricula.
+
+      SEC. 30. AI Data Centers and Environmental Disclosure. – An operator
+of an AI training or inference data center exceeding a capacity threshold set by
+NAIRA, in coordination with the Department of Energy and the Department of
+Environment and Natural Resources, shall disclose its annual energy and water
+consumption, secure applicable environmental compliance certificates, and
+consult host communities prior to the commencement of operations.
+
+       SEC. 31. Advanced AI Systems and Future Preparedness. – NAIRA shall
+establish a foresight function to monitor the development of advanced or highly
+general-purpose AI systems and shall submit a strategic risk report to Congress
+at least once every three (3) years. NAIRA may issue precautionary advisories or
+time-bound restrictions, not exceeding twelve (12) months unless renewed, on
+emerging AI applications presenting significant and unregulated risk to rights,
+safety, or national security.
+
+                                 CHAPTER VII
+                 Regulatory Sandbox and Innovation Support
+
+      SEC. 32. Regulatory Sandbox Program. – NAIRA shall establish a
+regulatory sandbox program allowing startups, researchers, and MSMEs to test
+AI systems under time-bound, supervised conditions with conditional
+exemptions from specified requirements of this Act, subject to a risk mitigation
+plan, reporting requirements, and defined geographic or functional limits.
+
+      SEC. 33. Support for Domestic AI Development. – The State shall
+promote the development of locally built AI systems, including Filipino-language
+models, through grants, research support, and partnerships coordinated with
+the Department of Science and Technology, the National AI Center for Research
+and Innovation, and the Commission on Higher Education. NAIRA shall establish
+a simplified compliance track for MSMEs.
+
+      SEC. 34. AI Safety and Research Fund. – There is hereby created an AI
+Safety and Research Fund, to be administered by NAIRA and funded through the
+annual General Appropriations Act, to support independent safety and bias
+audits, adversarial testing, and the development of national AI safety
+benchmarks.
+
+                              CHAPTER VIII
+                    Enforcement, Penalties, and Remedies
+
+      SEC. 35. Administrative Sanctions. – NAIRA may impose the following
+administrative sanctions, without prejudice to civil or criminal liability: (a) a fine
+not exceeding Five Million Pesos (P5,000,000.00) per violation for the
+unauthorized deployment of a high-risk AI system without registration, with a
+grace period for first-time violators who have not caused substantial harm; (b) a
+fine not exceeding One Million Pesos (P1,000,000.00) for failure to disclose the
+use of AI or to label synthetic content as required under this Act; (c) suspension
+or revocation of registration; and (d) disqualification from government
+procurement.
+
+       SEC. 36. Criminal Liability. – The willful commission of a prohibited AI
+practice under Section 17, or the malicious use of AI to enable fraud, identity
+theft, or the non-consensual creation of deceptive synthetic content depicting a
+real person, shall be punished by imprisonment of six (6) months to six (6) years,
+or a fine of not more than Two Million Pesos (P2,000,000.00), or both, at the
+discretion of the court, without prejudice to prosecution under the Revised Penal
+Code, Republic Act No. 10175, or other applicable law.
+
+      SEC. 37. Liability of Juridical Persons. – Where a violation is committed
+by a juridical person, the officer or employee who authorized, directed, or
+knowingly allowed the violation, and the compliance officer who failed to act
+despite knowledge thereof, shall be held solidarily liable with the entity.
+
+      SEC. 38. Civil Remedies. – Any person whose rights are violated under
+this Act may file an action for injunctive relief, actual, moral, or exemplary
+damages, correction or deletion of data, or such other relief as the courts may
+deem just and equitable.
+      SEC. 39. Whistleblower Protection. – A person who reports a violation
+of this Act in good faith shall be protected from retaliation. An entity that
+voluntarily discloses and promptly corrects a violation may, at the discretion of
+NAIRA, be granted mitigation of penalties.
+
+                                  CHAPTER IX
+                                Final Provisions
+
+      SEC. 40. Implementing Rules and Regulations. – Within one hundred
+eighty (180) days from the effectivity of this Act, NAIRA and the DICT, in
+consultation with the National Privacy Commission, the Department of Justice,
+DOLE, the Department of Trade and Industry, and the Council, shall promulgate
+the implementing rules and regulations of this Act.
+
+       SEC. 41. Periodic Review. – The appropriate committees of the Senate
+and the House of Representatives shall review this Act at least once every three
+(3) years to account for technological developments and emerging risks.
+
+       SEC. 42. Suppletory Application. – Republic Act No. 10173 (Data Privacy
+Act of 2012), Republic Act No. 10175 (Cybercrime Prevention Act of 2012), the
+Labor Code of the Philippines, and other applicable laws shall apply suppletorily
+to this Act.
+
+       SEC. 43. Separability Clause. – If any provision of this Act is declared
+invalid or unconstitutional, the remaining provisions not affected thereby shall
+remain in full force and effect.
+
+      SEC. 44. Repealing Clause. – All laws, decrees, executive orders, rules
+and regulations, or parts thereof inconsistent with this Act are hereby repealed,
+amended, or modified accordingly.
+
+      SEC. 45. Effectivity. – This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in a newspaper of general circulation.
+
+
+
+Approved,
+

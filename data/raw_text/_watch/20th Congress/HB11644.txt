@@ -1,0 +1,425 @@
+                                           Republic of the Philippines
+                                          HOUSE OF REPRESENTATIVES
+                                                 Quezon City                                            October 7, 2026
+                                                                                                          3:39 pm
+                                               TWENTIETH CONGRESS
+                                               Second Regular Session
+
+                                                             11644
+                                              HOUSE BILL NO. _______
+
+
+                            Introduced by HON. JORGE DANIEL S. BOCOBO
+
+
+                                 AN ACT
+       PENALIZING THE MALICIOUS CREATION, DISTRIBUTION, AND USE OF
+    DIGITALLY MANIPULATED MEDIA THROUGH ARTIFICIAL INTELLIGENCE AND
+      OTHER HARMFUL APPLICATIONS THEREOF, AND FOR OTHER PURPOSES
+
+                                               EXPLANATORY NOTE
+
+     “A false witness will not go unpunished, and whoever pours out lies will not go free.”
+                                         Proverbs 19:5
+
+The society has entered the age of Artificial Intelligence (AI), which gained prominence with
+the release of ChatGPT in 2022. Since then, AI has permeated various industries and aspects
+of everyday life, influencing everything from critical infrastructure to mobile applications. As
+this era is still in its early stages, AI’s transformative potential for efficiency and innovation is
+expected to significantly impact governance, economics, healthcare, climate management,
+finance, and agriculture. However, as with every new technology, the advent of AI has brought
+with it its own share of pitfalls.
+
+In 2022, fraudsters in Thailand successfully scammed thousands from the public by using
+deepfake technology to make it appear to victims that they were police officers.1 In early
+2024, a multinational company in Hong Kong lost more than US$25 million in a scam after its
+employees were fooled by deepfake technology, with one incident involving a digitally
+recreated version of its chief financial officer ordering money transfers in a video conference
+call.2
+
+The misuse of AI has become even more prevalent in the Philippines, with its more than 97
+million internet users, of whom more than 90 million are on social media. In fact, the
+Philippines saw the largest increase in deepfakes in 2023, up by 4500% from 2022. And it is
+not limited to large scams; several Filipino personalities had their pictures, videos, and voices
+used by fraudsters to sell products without their knowledge and consent.3
+
+The dangers of the misuse of AI technology to compromise critical state processes, such as
+elections, have not escaped the awareness of the government. In September 2024, the
+
+1
+  The Strait Times (2022). Don't fall for 'Deepfake' video calls from scammers: Thai police. Retrieved from:
+https://www.straitstimes.com/asia/se-asia/dont-fall-for-deepfake-video-calls-from-scammers-thai-police on Oct.7, 2026
+2
+ Chen, H. and Magramo, K. (2024). Finance worker pays out $25 million after video call with deepfake ‘chief financial officer’.
+Retrieved from: https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk on Oct. 7, 2026
+3
+  Reyes, M.A. (2025). The Dangers of deepfakes. Philippine Star. Retrieved from:
+https://www.philstar.com/business/2025/03/23/2430318/danger-deepfakes#google_vignette on Oct. 7, 2026
+Commission on Elections promulgated Resolution No. 11064, providing for guidelines on the
+use of AI, among others, for digital election campaigns, with a particular emphasis on
+prohibiting and punishing its misuse for disinformation and misinformation in connection with
+the 2025 national and local elections.4
+
+However, while this particular resolution by the election body is welcome, it remains a stopgap
+measure nonetheless. The primary legislation in our legal system, the Data Privacy Act and
+the Cybercrime Prevention Act, both enacted in 2012, were crafted long before the legislature
+could define how AI and its related technologies could be used and misused in different ways.
+
+The proposed measure aims to establish a long-term and forward-looking framework for the
+regulation of AI and its related technologies, with a particular focus on preventing, through
+legislative criminalization, the malicious and unethical use of AI, including the deliberate
+creation and alteration of media, and the circulation and use thereof, to injure persons and
+reputations, fabricate false realities, compromise safety and privacy, and ultimately erode the
+public’s confidence in legitimate information and technology. It modernizes laws such as the
+Revised Penal Code and the Cybercrime Prevention Act by expressly defining AI-enabled and
+-related offenses, providing for increased penalties where AI and its related technologies are
+used and misused to commit crimes and other violations. It also holds the creators of these
+technologies accountable by mandating the implementation of reasonable safeguards.
+
+This proposed legislation aims to balance the state’s interests in preserving the safety, privacy,
+free speech, and general welfare of its people with the authority and effectiveness that the
+law needs to not only respond to but also preempt the effects of the misuse of AI.
+
+Through this measure, the misuse of AI may be prevented while ensuring that its potential is
+harnessed for the benefit of the Filipinos and society.
+
+In view of the foregoing, the early approval of this bill is earnestly sought.
+
+
+
+
+                                                                               JORGE DANIEL S. BOCOBO
+
+
+
+
+4
+  Commission on Elections. (2024). Retrieved from:
+https://www.comelec.gov.ph/index.html?r=2025NLE/Resolutions/res11064A on Oct. 7, 2026
+                                  Republic of the Philippines
+                                 HOUSE OF REPRESENTATIVES
+                                        Quezon City
+
+                                    TWENTIETH CONGRESS
+                                    Second Regular Session
+
+                                                  11644
+                                   HOUSE BILL NO. _______
+
+
+                      Introduced by HON. JORGE DANIEL S. BOCOBO
+
+
+                               AN ACT
+     PENALIZING THE MALICIOUS CREATION, DISTRIBUTION, AND USE OF
+  DIGITALLY MANIPULATED MEDIA THROUGH ARTIFICIAL INTELLIGENCE AND
+    OTHER HARMFUL APPLICATIONS THEREOF, AND FOR OTHER PURPOSES
+
+Section 1. Short Title. – This Act shall be known as the “Safeguarding Against Fraud and
+Exploitation by Artificial Intelligence (SAFE AI) Act.”
+
+Sec. 2. Declaration of Policy. – The State recognizes both the transformative potential of
+artificial intelligence and the profound risks associated with its malicious use. The creation and
+spread of deceptive digital media undermines public trust, endangers personal dignity, and
+threatens national security and democratic processes. Thus, it is hereby declared the policy
+of the State to protect its citizens from the harms of deceptive AI-generated content. This
+shall be achieved by criminalizing its creation, distribution, and use when intended to defraud,
+deceive, or cause harm, while upholding the freedom of expression and fostering responsible
+innovation.
+
+Sec. 3. Definition of Terms. –
+
+   a. “Artificial Intelligence (AI)” refers to a set of technologies that seek to simulate human
+      traits such as knowledge, reasoning, problem-solving, perception, learning and
+      planning, and, depending on the AI model, produce an output or decision;
+
+   b. “Bots” refer to a software program or hardware system designed to perform
+      automated, repetitive, pre-defined tasks on the internet often used on social media to
+      simulate or imitate human user behavior;
+
+   c. “Critical Infrastructure” refers to an asset or system, whether physical or virtual, so
+      essential to the maintenance of vital societal functions or to the delivery of essential
+      public services that the incapacity or destruction of such systems and assets would
+      have a debilitating impact on national defense and security, national economy, public
+      health or safety, there administration of justice, and other functions analogous thereto.
+      It may include, but is not limited to, an asset or system affecting telecommunications,
+      water and energy supply, emergency services, food security, fuel supply, banking and
+      finance, transportation, radio and television, information systems and technology,
+      chemical and nuclear sectors;
+
+   d. “Deepfakes” refer to images, videos, or audio files created using artificial intelligence
+      to fabricate realistic representations of people, places, events, or statements;
+   e. “Digitally manipulated” or “synthetic media” refers to images, videos, or audio files
+      created or altered using artificial intelligence technology to fabricate or intentionally
+      re-contextualize realistic representations of people, events, or statements, making it
+      appear that an action, statement, or event transpired differently from reality or did not
+      transpire at all, including deepfakes and other forms of media manipulation or re-
+      contextualization;
+
+   f.   “Disinformation” refers to false or misleading content that is spread with an intention
+        to deceive or secure economic or political gain and which may cause public harm;
+
+   g. “Fake accounts” refer to social media profiles or internet profiles created using false,
+      misleading, or inauthentic identities, or otherwise manipulated to deceive users into
+      believing they are interacting with genuine individuals or entities, often with the intent
+      to mislead, manipulate, or deceive the public;
+
+   h. “Internet technology” refers to the interconnected hardware, software,
+      communications protocol, applications, and services that collectively enable global data
+      transmission processing and exchange;
+
+   i.   “Malinformation” refers to information that stems from the truth but is often
+        exaggerated or used out of context to mislead, manipulate, or cause harm;
+
+   j.   “Misinformation” refers to false or misleading content shared without malicious intent
+        although the effects can still be harmful, such as when the same stems from a reckless
+        disregard for the truth or falsity of the content; and
+
+   k. “Online platforms” refer to websites and applications that enable users to create,
+      share, and exchange content online, engage in social networking, and interact with
+      others in real-time or asynchronously, often involving user-generated content and
+      facilitated through various forms of communication and media sharing.
+
+Sec. 4. Artificial Intelligence Technology Offenses. – The following acts constitute the
+offense of unlawful use and application of AI technology punishable under this Act:
+
+   a. The intentional creation of synthetic media or alteration of any audio, visual, or
+      audiovisual media using AI technology to produce a digitally manipulated or synthetic
+      media that:
+
+               (i) Falsely depicts an identifiable person engaging in an act or making a
+               statement they did not actually engage in or make, or one that they did engage
+               in or make but with a significantly altered meaning;
+
+               (ii) Falsely represents an event to have occurred when in fact it did not, or
+               misrepresents how an event actually occurred.
+
+   b. The intentional distribution, publication, circulation, or dissemination to the public or a
+      segment thereof, of digitally manipulated or synthetic media, such as deepfakes or
+      other fraudulent AI-generated content, with knowledge of its falsity and with malicious
+      intent, regardless of whether the distributor is the original creator;
+   c. The unauthorized acquisition, use, misuse, transfer, possession, alteration, or deletion
+      of identifying information belonging to another person using AI technology, without
+      the knowledge and consent of the person concerned, for impersonation, deception,
+      fraud, or other malicious purposes;
+
+   d. The creation, deployment, or management of AI-powered bots or fake accounts
+      intended to spread disinformation, misinformation, or malinformation, commit fraud,
+      or otherwise engage in other unlawful activities as defined by this Act or other existing
+      laws; and
+
+   e. The use of AI technology to generate or systematically propagate disinformation,
+      misinformation, or malinformation with the intention to incite hate or incite violence
+      against a particular person, group or sector, create widespread fear and panic,
+      endanger the public or compromise public safety, or undermine public order or public
+      trust.
+
+For purposes of this section, developers, providers, or distributors of software or applications
+using AI technologies capable of generating synthetic media or altering or manipulating media
+shall ensure that such tools contain a built-in mechanism to automatically embed conspicuous,
+permanent, and non-removable watermarks or equivalent disclosures in any output generated
+using such technology, clearly indicating that it was created, generated, or altered using AI.
+
+Sec. 5. Liability under Other Laws. – All crimes defined and penalized by the Revised
+Penal Code, as amended, and special laws, if committed by, through, and with the use of AI
+technology shall be covered by the relevant provisions of this Act: Provided, That the penalty
+to be imposed shall be one (1) degree higher than that provided for by the Revised Penal
+Code, as amended, and special laws, as the case may be.
+
+A prosecution under this Act shall be without prejudice to any liability for violation of any
+provision of the Revised Penal Code, as amended, or other special laws.
+
+Sec. 6. Enforcement and Supervision. – The National Telecommunications Commission
+(NTC), in coordination with the Department of Information and Communications Technology,
+the Department of Justice, and other relevant agencies, shall exercise primary enforcement
+authority under this Act. For this purpose, the NTC is hereby empowered to:
+
+   a. Issue immediate takedown or blocking orders directing the concerned internet service
+      providers (ISPs), domain-name registries, content-delivery networks, social media
+      platforms, mobile application stores, or any other digital intermediary to remove,
+      disable access to, or render inaccessible within the Philippines, any and all content
+      including but not limited to images, videos, audio files, or other synthetic media or
+      altered or manipulated media — found to be in violation of this Act: Provided, That
+      takedown or blocking orders shall be limited only to the specific illicit material and shall
+      not extend to the entire website, platform, or application unless it is shown that such
+      website, platform, or application is primarily used, or has repeatedly been used, to
+      create, host, distribute, or facilitate content that is prohibited under this Act.
+
+   b. Impose administrative sanctions including fines, suspension, or revocation of
+      certificates, franchises, or licenses upon any digital intermediary that, without
+      justifiable cause, fails to obey a lawful blocking or takedown order.
+For purposes of this section, digital intermediaries shall implement the blocking or takedown
+order within thirty-six (36) hours after formal notice is received: Provided, That if the content
+is sexual in nature or constitutes non-consensual intimate content, the order shall be executed
+within twelve (12) hours from receipt of such notice: Provided, further, That if the content
+poses a danger to critical infrastructure or to national security, or in cases involving sexually
+explicit content depicting minors, the order shall be implemented immediately upon receipt of
+the notice.
+
+The Cybercrime Investigation and Coordinating Center, jointly with the National Bureau of
+Investigation (NBI) Cybercrime Division and the Philippine National Police (PNP) Anti-
+Cybercrime Group, shall have the following responsibilities:
+
+   a. To investigate any violation under this Act;
+
+   b. To determine and verify whether AI technology was used in the commission of any
+      violation of this Act; and
+
+   c. To conduct digital forensic investigations to preserve electronic evidence necessary for
+      prosecution.
+
+In the issuance and implementation of any and all orders under this provision, the State shall
+be guided by the principle of protecting the general interest and welfare of the public. To
+prevent ongoing or imminent harm, these orders shall be immediately executory, subject to
+judicial review and without prejudice to lawful orders issued by a competent court.
+
+Sec. 7. Penalties. — Any person found guilty of the unlawful acts defined in Section 4 of this
+Act, where such acts are not already covered with higher penalties under the amendments to
+the Revised Penal Code or any other special laws, shall be punished as follows:
+
+   a. The acts defined under Section 4(a) and (b) shall be punishable by prision correccional
+      or a fine ranging from One Hundred Thousand Pesos (Php 100,000.00) to Five Hundred
+      Thousand Pesos (Php 500,000.00), or both.
+
+       If the digitally manipulated or synthetic media generated or distributed is of a sexual
+       nature or constitutes non-consensual intimate content, the penalty shall be prision
+       mayor or a fine ranging from Five Hundred Thousand Pesos (Php 500,000.00) to One
+       Million Pesos (Php 1,000,000.00), or both.
+
+       If the victim is a minor, or if the digitally manipulated or synthetic media generated or
+       distributed is used to facilitate child sexual abuse or child exploitation materials, the
+       penalty shall be reclusion perpetua or a fine ranging from One Million Pesos (Php
+       1,000,000.00) to Five Million Pesos (Php 5,000,000.00), or both.
+
+   b. The acts defined under Section 4(c) shall be punishable by prision mayor or a fine
+      ranging from Two Hundred Thousand Pesos (Php 200,000.00) to One Million Pesos
+      (Php 1,000,000.00), or both.
+
+   c. The acts defined under Section 4(d) shall be punishable by prision correccional or a
+      fine ranging from Fifty Thousand Pesos (Php 50,000.00) to Three hundred Thousand
+      Pesos (Php 300,000.00), or both.
+   d. The acts defined under Section 4(e) shall be punishable by prision mayor or a fine
+      ranging from One Hundred Thousand Pesos (Php 100,000.00) to One Million Pesos
+      (Php 1,000,000.00), or both.
+
+       If such disinformation, malinformation, or misinformation endangers critical
+       infrastructure or national security, the penalty shall be reclusion temporal or a fine
+       ranging from Five Hundred Thousand Pesos (Php 500,000.00) to Five Million Pesos
+       (Php 5,000,000.00), or both.
+
+       If the offender is a juridical person, the penalty shall be a fine of double the amount
+       specified for the offense, and the officer or officers responsible for the offense shall be
+       subject to the prescribed imprisonment. If the offender is an alien, he or she shall, in
+       addition to the penalties prescribed, be deported immediately after serving the
+       sentence.
+
+Sec. 8. Exceptions. — The provisions of this Act shall not apply to:
+
+   a. The creation, distribution, or use of digitally manipulated or synthetic media for
+      legitimate purposes such as, but not limited to, marketing, advertising, parody, satire,
+      commentary, artistic expression, academic research, education, or news reporting,
+      provided that:
+
+          i.   There is clear disclosure accompanying the content with a watermark clearly
+               indicating that it has been created, generated, or modified using AI technology
+               and that it does not represent the authentic image, speech, or conduct of the
+               person depicted or the actual event portrayed. For purposes of this section, the
+               disclosure must be placed in a conspicuous location to a reasonable viewer or
+               listener; or
+         ii.   In the case of parody or satire, the transformative nature of the work makes it
+               apparent that it is not a factual representation.
+
+   b. AI-generated content created with the informed consent of every individual whose
+      likeness or voice is used and only for the purpose to which they have consented.
+
+The burden of proving that the creation, distribution, or use falls under these exceptions lies
+with the person using, commissioning, or distributing the AI-generated content.
+
+Sec. 9. Liability for the Provision of Malicious or Unsafe AI Systems. – It shall be
+unlawful for any developer or provider to make an AI system available to the public, whether
+for commercial gain or otherwise, under any of the following circumstances:
+
+   a. The AI system is primarily designed or explicitly marketed for the purpose of
+      committing any of the unlawful acts defined in this Act, the Revised Penal Code, and
+      other special penal laws; or
+
+   b. The developer or provider knows, or is grossly negligent in not knowing, that the AI
+      system will be predominantly used for such unlawful acts, and fails to implement
+      reasonable safeguards to prevent such use.
+
+For the purposes of this section, “reasonable safeguards” include, but are not limited to, user
+identity verification, content moderation mechanisms, digital watermarking of AI-generated
+content, and maintaining effective systems for reporting abuse.
+Any developer or provider of AI systems who fails to implement reasonable safeguards as
+defined in this Section shall be subject to administrative penalties, based on the gravity and
+repetition of the offense:
+
+   a. For failures that pose only minimal harm, result in no actual damage, or pertain
+      primarily to procedural deficiencies that do not materially impair the safeguard’s
+      function –
+
+           1. The first offense shall be punished by censure and a fine of Fifty Thousand
+              Pesos (Php 50,000.00).
+           2. The second offense shall be punished by a fine of One Hundred Fifty Thousand
+              Pesos (Php 100,000.00).
+           3. The third offense shall be punished by the temporary suspension of the permit
+              for the specific AI system for a period not exceeding six (6) months.
+
+   b. For failures that create a significant potential public harm, financial loss, or involve
+      gross negligence in addressing a known or foreseeable vulnerability –
+
+           1. The first offense shall be punished by a fine of Two Hundred Thousand Pesos
+              (Php 200,000.00) and the temporary suspension of the permit for the specific
+              AI system for up to six (6) months.
+
+           2. The second offense shall be punished by a fine of Five Hundred Thousand
+              Pesos (Php 500,000.00) and the temporary suspension of the primary license
+              to conduct business for a period of six (6) months to one (1) year.
+
+           3. The third offense shall be punished by the permanent revocation of the license,
+              registration, or permit to conduct business.
+
+   c. Failures that create a clear and present danger to public order, national security, or
+      undermine critical infrastructure shall be punished by a fine of not less than One Million
+      Pesos (Php 1,000,000.00) and the permanent revocation of the license, registration,
+      or permit to conduct business.
+
+The imposition of these administrative penalties shall be without prejudice to any separate
+civil or criminal liability that may arise from the harm caused by the content generated by the
+AI system they developed or provided.
+
+Sec. 10. Liability of Online Platforms. — Online platforms shall not be held liable for the
+creation or dissemination of their users of content that is violative of this Act, provided that
+upon receipt of:
+
+   a. A valid complaint from an end-user, the platform conducts a reasonable and prompt
+      assessment to determine whether the reported content appears to violate the
+      provisions of this Act, and, if warranted, takes expeditious action to remove or disable
+      access to the material; or
+
+   b. A lawful order from the NTC or of a competent court, the platform shall immediately
+      remove or disable access to the subject content within the period prescribed in such
+      order.
+Failure to act within a reasonable period after due notice, or to comply with a lawful order
+without justifiable cause, shall subject the platform to liability, in addition to any applicable
+administrative sanctions that may be imposed.
+
+Sec. 11. Implementing Rules and Regulations. – Within ninety (90) days from the
+effectivity of this Act, the Secretary of Justice, the Secretary of Information and
+Communications Technology, and the Commissioner of the National Telecommunications
+Commission, in consultation with relevant stakeholders from academe, industry, and civil
+society, shall jointly promulgate the necessary rules and regulations for the effective
+implementation of this Act.
+
+Sec. 12. Separability Clause. – If any provision of this Act is declared invalid or
+unconstitutional, the remaining provisions not affected thereby shall remain in full force and
+effect.
+
+Sec. 13. Repealing Clause. – All laws, decrees, executive orders, or issuances contrary to
+or inconsistent with this Act are hereby repealed, amended, or modified accordingly.
+
+Sec. 14. Effectivity Clause. – This Act shall take effect fifteen (15) days after its publication
+in the Official Gazette or in a newspaper of general circulation.
+
+Approved,
+
