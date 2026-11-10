@@ -1,0 +1,1088 @@
+                               Republic of the Philippines
+                            HOUSE OF REPRESENTATIVES
+                                 Quezon City, Manila
+
+                                TWENTIETH CONGRESS                             August 26, 2026
+                                 Second Regular Session                          9:23 am
+
+                                               10967
+                              HOUSE BILL NO. __________
+
+
+
+
+                                        Introduced by
+
+   Representatives Anna Victoria Veloso-Tuazon, Lolita T. Javier, Niko Raul S.J. Daza,
+        Reynolds Michael T. Tan, Stephen James T. Tan, Edwin Ongchuan, and
+                                  Carl Nicolas C. Cari
+
+
+
+
+                                     Explanatory Note
+
+        The Philippine energy sector is principally governed by Republic Act No. 9136,
+otherwise known as the Electric Power Industry Reform Act of 2001 (EPIRA), and Republic
+Act No. 9513, otherwise known as the Renewable Energy Act of 2008 (RE Act). EPIRA seeks
+to ensure reliable, secure, and affordable electricity while promoting private sector
+participation and the utilization of indigenous and renewable energy resources. Likewise, the
+RE Act establishes a framework for accelerating the development and use of renewable energy
+sources to achieve greater energy self-reliance and sustainability. Over the past years, the
+Department of Energy (DOE), the Energy Regulatory Commission (ERC), and other
+governmental agencies have implemented various programs to encourage renewable energy
+development intended to expand the country's renewable energy capacity. These policies reflect
+the State's commitment to enhancing energy security, improving electricity affordability, and
+increasing the share of renewable energy in the national energy mix.
+
+        Despite these advancements and programs, Qualified End-users remain predominantly
+dependent on centralized generation and distribution systems. While existing laws recognize
+the value of renewable energy, they do not provide a comprehensive framework specifically
+designed to empower ordinary Filipino households and local communities to become active
+participants in electricity generation for their own consumption through distributed renewable
+energy systems. Ordinary Filipinos continue to face fragmented permitting requirements,
+inconsistent local government processes, limited access to affordable financing, insufficient
+technical support, lengthy certification procedures, administrative delays, and other
+environmental attributes. As a result, many Qualified End-users remain unable to fully realize
+
+                                              1
+the benefits of generating electricity for their own use despite the availability of increasingly
+accessible renewable energy technologies.
+
+       This Act seeks to strengthen and complement the policy objectives of EPIRA and the
+RE Act by establishing a comprehensive framework that empowers Qualified End-users to
+generate, consume, store, and share electricity from distributed renewable energy systems
+primarily for self-consumption. Drawing strength from the core principles of our national
+energy statutes, this bill introduces critical structural enhancements:
+
+       1. Whole-of-Government Facilitation and Regulatory Streamlining: It mandates the
+          Department of Trade and Industry (DTI), the Bureau of Customs (BOC), local
+          government units (DILG) and other concerned agencies to establish streamlined
+          procedures, Green Lane mechanisms, and standardized permitting systems with
+          clear timelines and deemed-approved provisions to reduce unnecessary
+          administrative burdens.
+
+       2. True Consumer Empowerment: It scales up hosting and renewable energy (RE)
+          absorption capacity targets, ensuring that distribution networks can seamlessly
+          accommodate distributed generation.
+
+       3. Improved Net-Metering Framework: It streamlines net-metering mechanisms on a
+          direct kilowatt-hour (kWh) to kilowatt-hour equivalence offset, ensuring that
+          Qualified End-users receive fair value for clean energy exported to the grid.
+
+       4. Expanded Access to Financing: It activates accessible financing windows via the
+          RE Trust Fund for LGUs, dedicated green loans through the SSS and GSIS, and
+          specialized credit facilities from the Land Bank of the Philippines (LBP) and the
+          Development Bank of the Philippines (DBP) to support the acquisition and
+          installation of distributed renewable energy systems.
+
+        By facilitating the widespread adoption of distributed renewable energy systems, this
+measure is expected to expand Qualified End-user participation in the energy sector and
+strengthen the country's transition toward a more resilient, decentralized, and sustainable
+energy system. The proposed reforms will enable households, communities, small businesses,
+and LGUs to reduce their exposure to fluctuating electricity costs, improve energy reliability,
+and increase access to clean and locally generated electricity.
+
+        Ultimately, this measure recognizes that the energy security is no longer solely the
+responsibility of large power producers and utilities. It is likewise a shared responsibility and
+opportunity for every Filipino household, community, and local government. By granting
+Filipinos greater freedom and capacity to generate their own clean and affordable electricity,
+the State promotes energy independence, consumer empowerment, economic sustainability,
+and national resilience in the face of an increasingly uncertain global energy environment.
+
+
+                                               2
+       By decentralizing power generation and placing clean energy directly into the hands of,
+Qualified End-users, this bill empowers citizens and communities to lower their utility
+expenses, insulates our domestic economy from external geopolitical shocks and achieves true
+national energy self-sufficiency and security.
+
+       In view of the foregoing, the immediate approval of this bill is earnestly sought.
+
+
+
+
+                                                                    Lolita T. Javier
+     Anna Victoria Veloso-Tuazon
+                                                                   2nd District, Leyte
+          3rd District, Leyte
+
+
+
+                                                               Niko Raul S.J. Daza
+                                                              st
+         Stephen James T. Tan                                1 District, Northern Samar
+           1st District, Samar
+
+
+
+
+             Carl Nicolas C. Cari                            Reynolds Michael T. Tan
+              5th District, Leyte                               2nd District, Samar
+
+
+
+
+          Edwin Ongchuan
+        nd
+       2 District, Northern Samar
+
+
+
+
+                                              3
+                                Republic of the Philippines
+                             HOUSE OF REPRESENTATIVES
+                                  Quezon City, Manila
+
+                                  TWENTIETH CONGRESS
+                                   Second Regular Session
+
+                                                 10967
+                                HOUSE BILL NO. __________
+
+
+
+
+                                          Introduced by
+
+   Representatives Anna Victoria Veloso-Tuazon, Lolita T. Javier, Niko Raul S.J. Daza,
+        Reynolds Michael T. Tan, Stephen James T. Tan, Edwin Ongchuan, and
+                                  Carl Nicolas C. Cari
+
+
+
+                           AN ACT
+PROMOTING "SARILING KURYENTE" BY ADVOCATING THE RIGHTS OF
+HOUSEHOLDS, COMMUNITIES, AND OTHER QUALIFIED END-USERS TO
+GENERATE, STORE, CONSUME, AND SHARE ELECTRICITY FROM
+DISTRIBUTED RENEWABLE ENERGY SOURCES PRIMARILY FOR SELF-
+CONSUMPTION, PROVIDING ACCESSIBLE FINANCING MECHANISMS,
+INCENTIVES, AND REGULATORY REFORMS THEREFOR, AND FOR OTHER
+PURPOSES
+
+      Be it enacted by the Senate and the House of Representatives of the Philippines in
+Congress assembled:
+
+         SECTION 1. Short Title. – This Act shall be known as the "Sariling Kuryente Act of
+2026".
+
+        SECTION 2. Declaration of Policy. – It is hereby declared the policy of the State to
+protect and promote the right of the people to an affordable, reliable, sustainable, and secure
+supply of electricity. Recognizing that exorbitant electricity rates place an undue burden on
+Filipino households and industries and acknowledging the vulnerability of the national energy
+supply to volatile global markets, geopolitical conflicts, and external disruptions, the State shall
+actively foster energy self-reliance and security at the grassroots level.
+
+       Towards this end, the State shall promote Qualified End-user empowerment by
+encouraging the development and utilization of distributed renewable energy resources for self-
+consumption, consistent with the principles of energy security, affordability, sustainability,
+
+                                                 4
+technology neutrality, competition, public safety, engineering standards, environmental
+protection, and reliable operation of the electric power system. The State shall remove
+unnecessary regulatory and administrative barriers and promote policies that enable Qualified
+End-users to generate, store, consume, and share electricity from distributed renewable energy
+resources in accordance with this Act.
+
+        SECTION 3. Guiding Principles. — The implementation of this Act shall be guided
+by the principles of: (a) Qualified End-user empowerment; (b) technology neutrality; (c) least-
+cost energy transition; (d) energy security and resilience; (e) grid reliability and power quality;
+(f) public safety; (g) regulatory transparency and accountability; (h) fair and non-
+discriminatory access to distributed renewable energy; and (i) environmental sustainability.
+
+       SECTION 4. Objectives. — The primary objectives of this Act are:
+
+        (a) To Mitigate High Electricity Costs: To reduce electricity costs and improve
+            Qualified End-user welfare through self-generation from renewable energy sources
+            as well as encourage greater participation in the energy sector, foster competition,
+            reduce pressure on the power grid, and improve the overall efficiency of electricity
+            delivery and consumption.
+
+        (b) To Achieve Consumer Energy Self-Sufficiency: To empower Qualified End-users
+            to generate, store, consume and share electricity from distributed renewable energy
+            resources primarily for self-consumption.
+
+        (c) To Accelerate Renewable Energy Adoption: To accelerate the deployment of
+            distributed renewable energy systems, energy storage systems and other emerging
+            clean energy technologies through simplified regulatory processes, appropriate
+            incentives, and financing mechanisms.
+
+        (d) To Insulate Against External Disruptions: To strengthen national energy security
+            and resilience against fuel price volatility, supply disruptions, natural disasters, and
+            other emergencies by expanding distributed renewable energy resources.
+
+        (e) To Integrate Distributed Energy Resources and Smart Grid Technologies: Promote
+            the modernization of the electric power system through the integration of
+            distributed energy resources, smart grid technologies, energy storage systems, and
+            other enabling technologies.
+
+        (f) To Promote Active Energy Participation: Promote active Qualified End-user
+            participation in the energy transition through fair access to distributed renewable
+            energy, net metering, renewable energy markets, and other lawful mechanisms.
+
+       SECTION 5. Scope and Application. – This Act shall apply to all Qualified End-users
+within the Philippines who generate or intend to generate electricity primarily for their own
+
+                                                 5
+consumption using distributed renewable energy systems, as well as other similarly situated
+persons or entities as may be determined by the Department of Energy (DOE) through the
+Implementing Rules and Regulations (IRR) of this Act.
+
+       This Act shall govern the planning, installation, ownership, operation, maintenance,
+upgrading, and use of decentralized renewable energy systems primarily intended for self-
+consumption, subject to the following parameters:
+
+   (a) Eligible Technologies:
+       This Act shall apply to all forms of distributed renewable energy systems, including but
+       not limited to solar photovoltaic (PV), micro-wind turbines, run-of-river micro-hydro
+       systems, micro-biomass, and domestic battery energy storage systems (BESS), fuel
+       cells, renewable hydrogen, vehicle-to-home (V2H), vehicle-to-grid (V2G), thermal
+       storage and other future RE technologies capable of producing and/or storing electricity
+       for own use and consumption.
+
+   (b) Application to the Grid:
+       This Act shall apply to both off-grid (standalone) self-generation systems and grid-tied
+       systems. Grid-tied systems covered under this Act shall remain eligible to participate
+       in net-metering schemes and other compensation mechanisms authorized by law or
+       ERC rules or any subsequent peer-to-peer energy trading, virtual net metering and
+       community energy programs when authorized by law.
+
+        Nothing herein shall be construed to authorize the generation, transmission,
+distribution, supply, or sale of electricity as a public utility or regulated electricity business
+without the licenses, permits, franchises, or other authorizations required under existing laws.
+
+        SECTION 6. Rights of Qualified End-users. – Qualified End-users shall have the
+right to install, own, operate, maintain, upgrade, interconnect, generate, store, consume, and,
+where authorized by law, export or share electricity generated from distributed renewable
+energy systems, subject only to reasonable technical, safety, reliability, and environmental
+requirements established by law or regulation.
+
+       SECTION 7. Technical Compliance. — All systems installed under this Act shall
+comply with the Philippine Electrical Code, Fire Code of the Philippines, applicable DOE,
+ERC, DTI and other mandatory technical standards. Nothing in this Act shall be construed to
+exempt any person from compliance with applicable technical, safety, environmental, and
+interconnection requirements.
+
+         SECTION 8. Non-Application / Exclusions. – This Act shall not apply to large-scale
+commercial power generation facilities, independent power producers (IPPs), or any generation
+facility developed, financed and constructed primarily to engage in the business of generating
+electricity for sale to third parties.
+
+
+                                                6
+    SECTION 9. Definition of Terms –
+(a) “Battery Energy Storage System” (BESS) refers to a system with all related equipment
+    essential to its functioning as a single entity which is capable of storing electrical energy
+    through reactions from which it is able to charge or discharge electrical energy to the
+    power system.
+
+(b) “Community Renewable Energy System” (CRES) refers to a renewable-energy-based
+    Distributed Energy Resource System established for collective ownership,
+    participation, or benefit of a community.
+
+(c) “Distributed Energy Resources” (DER) refers to power sources connected to the
+    Distribution System or electrical system of the End-Users that could be aggregated to
+    meet a demand.
+
+(d) “Distributed Renewable Energy System” (DRES) under this Act refers to a micro-to-
+    small scale renewable energy generation facility—including, but not limited to, solar
+    photovoltaic, wind, biomass, or hybrid systems—owned or operated by private
+    residential, commercial, or industrial Qualified End-users, installed within or adjacent
+    to their premises, connected either on-grid or off-grid, primarily aimed at meeting the
+    energy consumption of the Qualified End-user and/or exporting or sharing excess
+    generation in accordance with national distribution and interconnection standards.
+
+(e) “Energy Storage System” (ESS) refers to a facility acting as a load and a generator,
+    which is designed to receive, store and convert such energy to electricity.
+
+(f) “Grid Interconnection” refers to the connection of a Community Renewable Energy
+    System, renewable energy facility, energy storage system, or distributed energy
+    resource to the transmission system or distribution system for purposes of delivering,
+    receiving, sharing, wheeling, importing, or exporting electricity, subject to applicable
+    technical, safety, and reliability requirements.
+
+(g) “Hosting Capacity” refers to the maximum amount of electric generation, energy
+    storage, demand-side resource, electric load, or other distributed energy resource that
+    can be interconnected to a transmission or distribution system, or a specific portion
+    thereof, without adversely affecting safety, reliability, power quality, or operational
+    performance and without requiring material system upgrades.
+
+(h) “Net Metering” refers to a system, appropriate for distributed generation, in which a
+    distribution grid user has a two-way connection to the grid and is only charged for his
+    net electricity consumption and is credited for any overall contribution to the electricity
+    grid.
+
+
+
+
+                                             7
+   (i) “Off-Grid System” refers to a local electricity supply system independent of the
+       national transmission and distribution grid, utilized by Qualified End-users who reside
+       in remote areas.
+
+   (j) “Renewable Energy Resources” refer to energy resources that do not have an upper
+       limit on a national scale and that continuously replenish themselves through natural
+       ecological cycles, including, but not limited to, solar energy, wind, biomass,
+       geothermal, ocean energy, and hydropower.
+
+   (k) “Qualified End-user” under this Act refers to any person or entity that consumes
+       electricity for its own domestic, residential, commercial, institutional, agricultural,
+       industrial, or governmental use and is authorized under this Act to install, own, operate,
+       and maintain distributed renewable energy systems for self-generation and self-
+       consumption.
+
+       The term includes without limitation to, households, condominium corporations,
+       homeowners' associations (HOAs), micro, small and medium enterprises (MSMEs),
+       cooperatives, farmers' organizations, indigenous peoples' communities (IPCs), local
+       government units (LGUs), government agencies, government-owned or -controlled
+       corporations (GOCCs), educational institutions, religious institutions, non-stock and
+       non-profit organizations, and other similarly situated entities.
+
+        SECTION 10. Recognition of Qualified End-user Self-Generation Rights. – The
+State recognizes the inherent right of Qualified End-Users to participate in energy generation
+through clean and renewable technologies. Qualified End-users shall be recognized as active
+energy participants ("prosumers") with full legal authorization to construct, install, own, and
+operate distributed renewable energy systems within their premises, without being classified
+as commercial generation companies under the EPIRA, provided that the electricity generated
+is intended primarily for self-consumption.
+
+        The DOE, ERC, and all local distribution utilities and electric cooperatives shall ensure
+that administrative policies, technical standards, and institutional frameworks foster rather than
+hinder this right.
+
+       Every Qualified End-user shall have the uninfringed right to install, own, finance,
+operate, or participate in end-user self-generation facilities from renewable energy sources
+primarily intended to meet their electricity requirements. In exercising this right, Qualified
+End-users shall be entitled to:
+
+   (a) Generate electricity from renewable energy and other qualified energy resources;
+
+   (b) Utilize safely, within end-user premises, generated renewable energy directly to supply
+       their internal electrical loads without arbitrary disconnections, unwarranted technical
+       restrictions, or punitive standby charges from distribution utilities or electric
+
+                                                8
+       cooperatives, provided the installation complies with the Philippine Electrical Code
+       (PEC) and national safety standards;
+
+   (c) Store excess electricity through appropriate energy storage technologies;
+
+   (d) Manage electricity consumption through energy efficiency and demand-side
+       management measures;
+
+   (e) Connect their distributed renewable energy systems safely to the distribution grid
+       through a streamlined, transparent, and non-discriminatory net-metering or equivalent
+       interconnection framework;
+
+   (f) Adopt innovative renewable energy technologies that promote energy independence;
+       and
+
+   (g) Share electricity generated from distributed renewable energy systems with other end-
+       users through peer-to-peer energy transactions.
+
+   No Qualified End-user shall be prohibited from developing a lawful distributed renewable
+energy facility solely on the basis that the end-user is connected to an existing electricity
+supplier or distribution network.
+
+         SECTION 12. Sources of Funds and Financing Mechanisms. — To effectively carry
+out the objectives of this Act, the funding and financial assistance required for the deployment
+of distributed renewable energy systems intended primarily for self-consumption for Qualified
+End-users shall be sourced and institutionalized through the following mechanisms:
+
+       (a) Renewable Energy Trust Fund (RE Trust Fund) for Local Government Units:
+           Subject to Republic Act No. 9513 and existing budgetary laws, the Department of
+           Energy (DOE) is hereby mandated to allocate and utilize a portion of the RE Trust
+           Fund, established under Republic Act No. 9513, specifically to extend grants and
+           financial support exclusively to LGUs.
+
+               This fund shall be utilized to install distributed renewable energy systems in
+           public buildings and structures, including but not limited to,
+           provincial/city/municipal capitol buildings, public schools, public markets,
+           transport terminals, health centers, public hospitals, recreational and community
+           facilities, public water systems, evacuation centers and disaster response facilities,
+           among eligible projects to reduce public operational costs and model energy self-
+           sufficiency.
+
+       (b) Dedicated Qualified End-user Distributed Renewable Energy Technologies
+           Financing Programs through SSS and GSIS: The Social Security System (SSS) and
+           the Government Service Insurance System (GSIS) are hereby encouraged and
+
+                                               9
+           authorized, consistent with their respective charters, to establish and maintain
+           dedicated, low-interest, and non-burdensome RE technology financing and green
+           loan programs, loan guarantees, and credit enhancements. These programs shall
+           provide Qualified End-users accessible credit options with highly competitive
+           interest rates and extended amortization terms, exclusively designated for the
+           procurement, installation, and integration of micro-generation and small-scale
+           renewable energy systems for own-use, including the purchase of battery energy
+           storage systems and the replacement of major components.
+
+                   The SSS and GSIS shall formulate simplified procedures and reasonable
+           repayment terms to encourage the participation of members in self-generated
+           electricity initiatives, ensuring that loan processing is streamlined and integrated
+           with existing member-benefit platforms.
+
+       (c) Public Financing and Specialized Credit Facilities via LBP and DBP: The Land
+           Bank of the Philippines (LBP) and the Development Bank of the Philippines (DBP)
+           are hereby directed to establish and maintain dedicated financing windows, loan
+           facilities, guarantee programs, credit enhancements, and other financial assistance
+           mechanisms to support the acquisition, installation, expansion, and maintenance of
+           micro-generation and small-scale renewable energy systems, including the
+           purchase of battery energy storage systems and the replacement of major
+           components, for own-use by Qualified End-users, subject to applicable banking
+           laws, credit evaluation and risk management policies.
+
+       (d) Additional Sources of Financing: The programs established under this Act may
+           likewise be supported through grants, subsidies, concessional financing, official
+           development assistance, climate finance facilities, ESG funds, blended finance
+           mechanisms, green bonds, public-private partnerships, carbon finance mechanisms,
+           and such other lawful sources as may be authorized by existing laws and
+           regulations.
+
+        The DOE is hereby authorized to develop, access, mobilize, and facilitate the utilization
+of international climate finance and other funding mechanisms from bilateral, multilateral, and
+international development partners, for the implementation of programs and projects under this
+Act.
+
+        SECTION 13. Incentives and Benefits for Qualified End-users. — Qualified End-
+users who install, own, and operate on-site distributed renewable energy systems under this Act
+shall be entitled to the following direct economic, technical, and market-based incentives:
+
+   (a) Kilowatt-Hour to Kilowatt-Hour (kWh-to-kWh) Equivalent Net-Metering Scheme:
+       Pursuant to the objectives of Republic Act No. 9513 and to maximize financial relief
+       from volatile power utility pricing, Qualified End-users participating in the Net-
+
+
+                                               10
+    Metering Program shall be credited based on a direct kilowatt-hour (kWh) to kilowatt-
+    hour equivalence offset for excess electricity exported back to the distribution grid.
+
+           Every kilowatt-hour exported by a Qualified End-user to the distribution system
+   shall directly offset an equivalent kilowatt-hour consumed from the grid during the
+   corresponding billing cycle. The ERC shall establish a fair, transparent and Qualified
+   End-user-responsive compensation mechanism for electricity exported to the grid.
+
+(b) Ownership and Monetization of Renewable Energy Certificates (RECs): Qualified
+    End-users owning or operating eligible distributed renewable energy systems and
+    technologies shall retain full legal ownership of the Renewable Energy Certificates
+    (RECs) and/or similar instruments arising from the generation of renewable electricity
+    by such systems. The RECs and/or and similar instruments corresponding to the
+    renewable electricity generated, whether consumed on-site or exported to the grid
+    pursuant to applicable laws, rules, and regulations, shall accrue exclusively to the
+    Qualified End-user unless expressly transferred, assigned, sold, or otherwise disposed
+    of through a written agreement.
+
+           The Department of Energy (DOE), the Energy Regulatory Commission (ERC),
+   and the Independent Electricity Market Operator of the Philippines (IEMOP) shall
+   establish streamlined and accessible administrative frameworks enabling Qualified
+   End-users to aggregate, hold, and trade their RECs through the Renewable Energy
+   Market (REM), either directly or through accredited aggregators recognized under
+   applicable laws, rules, and regulations. This mechanism shall convert private renewable
+   energy generation into a viable, direct secondary revenue stream, empowering ordinary
+   citizens to actively participate in and benefit from national environmental compliance
+   markets.
+
+           The DOE or ERC may prescribe reasonable minimum aggregation thresholds,
+   registration requirements, and participation rules for the aggregation, trading, transfer,
+   or monetization of Renewable Energy Certificates (RECs) and other environmental
+   attributes by Qualified End-users, taking into consideration market efficiency,
+   consumer protection, and the promotion of distributed renewable energy systems.
+
+(c) Priority Access to Future Incentive Programs: Qualified End-users shall be eligible to
+    participate in future government programs involving renewable energy credits, carbon
+    markets, distributed energy resource markets, green financing, incentive schemes,
+    demand-side management programs, demand response programs, flexibility services,
+    ancillary services, energy storage programs, and other market-based or regulatory
+    mechanisms established to promote renewable energy development, grid reliability,
+    energy security, and consumer participation in the electric power sector.
+
+          The DOE or ERC shall promulgate the necessary rules and regulations to enable
+   and facilitate the participation of Qualified End-users, whether individually or through
+
+                                          11
+       aggregation, in such programs and markets, including those that may be established in
+       the future.
+
+   (d) Protection Against Unjust Disqualification: No Qualified End-user shall be denied,
+       restricted, or otherwise discriminated against in the availment of incentives, credits,
+       certificates, financing programs, interconnection services, permitting processes, or
+       other benefits solely by reason of generating electricity primarily for personal
+       consumption rather than commercial sale.
+
+               No government agency, local government unit, distribution utility, electric
+       cooperative, financial institution, market participant, or other entity shall impose
+       discriminatory requirements, conditions, charges, procedures, timelines, or technical
+       standards on Qualified End-users that are not uniformly applied to similarly situated
+       persons or entities. Technical, engineering, safety, interconnection, inspection, and
+       operational requirements shall be fair, reasonable, transparent, non-discriminatory, and
+       consistently applied.
+
+        SECTION 14. Consumer Right to Grid Interconnection. — Qualified End-users
+utilizing distributed renewable energy systems capable of exporting power shall have the right
+to connect to the distribution grid. Distribution utilities and electric cooperatives must act on
+complete interconnection applications within the period prescribed by laws, rules, or
+regulations.
+
+       SECTION 15. Consumer Right to Non-Discriminatory Treatment. — Every
+Qualified End-user under this Act shall have the right to fair and equal treatment in permitting,
+financing, interconnection, net-metering, incentives, and access to government support
+programs. No Qualified End-user shall be denied, delayed, or subjected to unreasonable
+requirements solely because it generates electricity primarily for its own consumption.
+
+        SECTION 16. Interconnection Dispute Resolution. — Any unjustified and
+unreasonable delay, discrimination, unauthorized technical demand, arbitrary fees, or refusal
+by distribution utilities or electric cooperatives regarding distributed renewable energy systems
+shall be subject to immediate summary action and penalties by the ERC to protect prosumer
+rights. The ERC shall establish an expedited dispute resolution mechanism to protect the rights
+of Qualified End-Users and facilitate the timely connection of renewable energy systems to the
+grid.
+
+        SECTION 17. Battery Energy Storage Incentives. — Qualified End-users who install
+and integrate battery energy storage systems together with their renewable energy systems shall
+be eligible for financing assistance, incentives, and other support programs under this Act to
+improve energy reliability, resilience, and self-sufficiency.
+
+       SECTION 18. Community Renewable Energy Projects and Association Freedom. —
+Qualified End-Users may voluntarily join, organize, or participate in community renewable
+
+                                               12
+energy projects, homeowners' associations, cooperatives, or similar groups for the shared
+development, ownership, operation, and use of renewable energy systems, subject to applicable
+laws and regulations.
+
+      SECTION 19. Government Agency Mechanisms and Inter-Agency Responsibilities.
+— The following agencies shall perform the duties prescribed under this Act:
+
+   (a) Department of Energy (DOE): The DOE shall act as the primary lead agency tasked
+       with formulating and promulgating the comprehensive Implementing Rules and
+       Regulations (IRR) of this Act.
+
+                The DOE shall exercise overall policy coordination and implementation
+       monitoring functions under this Act and shall work closely with the Office of the
+       President, ERC, the Department of Trade and Industry (DTI), the Bureau of Customs
+       (BOC), the Technical Education and Skills Development Authority (TESDA), the
+       Department of the Interior and Local Government (DILG), government financial
+       institutions, and other concerned agencies to ensure the effective and coordinated
+       implementation of this Act. Nothing in this Act shall be construed to diminish or
+       interfere with the statutory independence, powers, or functions of the ERC or any other
+       constitutional or independent regulatory body.
+
+              The DOE shall establish a monitoring and evaluation system to assess
+       compliance with this Act and publish on its official website, an annual implementation
+       report containing information on program accomplishments, agency compliance,
+       deployment of distributed renewable energy systems, financing availments, challenges
+       encountered, and policy recommendations.
+
+               The DOE shall conduct a comprehensive review of the implementation and
+       effectiveness of this Act every three (3) years and, as necessary, recommend legislative,
+       regulatory, or policy measures to further strengthen citizen-generated electricity and
+       distributed renewable energy development in the country.
+
+               The DOE shall likewise publish annually on its official website a report on the
+       status, collections, allocations, disbursements, beneficiaries, and utilization of the
+       Renewable Energy Trust Fund and other financing mechanisms established or utilized
+       under this Act, subject to applicable transparency, auditing, and accountability
+       requirements.
+
+   (b) Department of Trade and Industry (DTI): The DTI, through the Bureau of Philippine
+       Standards (BPS), is mandated to streamline, standardize, and accelerate the certification
+       and registration requirements applicable to distributed renewable energy systems, such
+       as solar energy systems and components and other renewable energy technologies,
+       including photovoltaic panels, inverters, batteries, charge controllers, mounting
+       systems, wind energy equipment, biomass energy systems, micro-hydropower
+
+                                              13
+   components, energy storage systems, electric vehicle charging infrastructure, and other
+   related equipment.
+
+           The DTI shall adopt and implement internationally recognized product
+   standards, including applicable International Electrotechnical Commission (IEC),
+   International Organization for Standardization (ISO), or equivalent standards, to ensure
+   product quality, safety, reliability, and interoperability.
+
+           The DTI shall establish Green Lanes and designate dedicated personnel or
+   offices to process applications involving renewable energy equipment, products,
+   suppliers, installers, and service providers. Administrative processing of complete
+   applications shall be subject to prescribed timelines. Failure to act within such timelines
+   shall result only in the administrative processing stage being deemed approved, without
+   prejudice to the conduct and completion of the required technical, safety, quality,
+   testing, or compliance evaluations.
+
+           The DTI shall ensure that certification and trade facilitation processes are
+   administered in a manner that facilitates, rather than hinders, the deployment of
+   distributed renewable energy systems.
+
+           The DTI shall maintain and publish on its official website a regularly updated
+   registry of accredited renewable energy equipment, certified products, registered
+   suppliers, manufacturers, distributors, installers, service providers, testing laboratories,
+   and certification bodies authorized to operate under applicable laws and regulations.
+
+(c) Bureau of Customs (BOC): The Bureau of Customs shall establish dedicated Green
+    Lanes and expedited customs processing procedures for the importation of distributed
+    renewable energy equipment, components, spare parts, energy storage systems, and
+    other renewable energy technologies covered by this Act. Declarations and
+    consignments complying with standard safety certifications shall be processed on a
+    priority basis with minimum documentary delays and "deemed approved" release
+    parameters upon lapse of statutory working limits.
+
+            The BOC shall designate dedicated personnel or office to process, facilitate, and
+   prioritize applications, declarations, clearances, and shipments involving distributed
+   renewable energy equipment. The BOC shall likewise maximize the use of electronic
+   processing systems, digital documentation, risk-based assessment mechanisms, and
+   pre-arrival clearance procedures to expedite customs processing and reduce
+   administrative delays.
+
+          Shipments of distributed renewable energy equipment that comply with
+   applicable customs, safety, security, and other regulatory requirements shall be
+   processed on a priority basis and within prescribed processing timelines. Nothing in
+   this Act shall be construed to exempt any importation from the requirements of the
+
+                                           14
+   Customs Modernization and Tariff Act, customs laws, public safety regulations,
+   national security measures, or other applicable laws and regulations.
+
+          The BOC shall ensure that customs procedures facilitate, rather than
+   unnecessarily hinder, the timely importation and deployment of renewable energy
+   technologies intended for use by qualified end-users under this Act.
+
+(d) Technical Education and Skills Development Authority (TESDA): TESDA shall
+    formulate, expand, and implement nationwide technical-vocational education, training,
+    assessment, certification, and workforce development programs to build the technical
+    capacity of renewable energy professionals, including solar designers, photovoltaic
+    installers, electricians, technicians, inspectors, operators, maintenance personnel, and
+    battery energy storage system installers and technicians. This ensures a safe, highly
+    skilled, and standardized labor force available across all regions to support Qualified
+    End-users transitioning to self-generation.
+
+           TESDA shall coordinate with DOE, the Professional Regulation Commission
+   (PRC), the Commission on Higher Education (CHED), industry associations, and other
+   relevant stakeholders to align competency standards, training regulations, curriculum
+   requirements, and professional qualifications with national and international best
+   practices and industry needs.
+
+           TESDA shall establish continuing competency assessment, upskilling,
+   reskilling, and certification programs to ensure that renewable energy practitioners
+   maintain the knowledge, skills, and qualifications necessary to safely design, install,
+   operate, maintain, and inspect distributed renewable energy systems and related
+   renewable energy technologies. TESDA shall likewise develop and administer an
+   installer accreditation and competency certification program for renewable energy
+   systems and energy storage technologies, consistent with applicable laws, technical
+   standards, and industry requirements.
+
+           To ensure equitable access nationwide, TESDA shall promote the
+   decentralization of renewable energy training, assessment, and certification services
+   through regional, provincial, and local training centers, accredited institutions, mobile
+   training programs, and digital learning platforms, with priority given to underserved,
+   off-grid, geographically isolated, and disadvantaged areas. TESDA shall ensure the
+   availability of a skilled, competent, and regionally accessible renewable energy
+   workforce capable of supporting the safe and efficient deployment, operation, and
+   maintenance of distributed renewable energy systems throughout the country.
+
+(e) Department of the Interior and Local Government (DILG) and Local Government Units
+    (LGUs): The DILG, in coordination with DOE and LGUs, shall establish and enforce
+    a uniform, streamlined, and standardized permitting process for distributed renewable
+    energy systems covered by this Act. The DILG shall issue a nationwide permitting
+
+                                          15
+   template prescribing uniform documentary requirements, application forms,
+   procedures, and processing timelines applicable to all LGUs. The total processing
+   period for applications shall not exceed fifteen (15) working days from the submission
+   of complete requirements. Failure of the concerned LGU to act within the prescribed
+   period shall render the application administratively deemed approved; Provided, That
+   such deemed approval shall not apply to applications requiring technical, structural,
+   electrical, environmental, or fire safety evaluations, inspections, certifications, or
+   clearances, nor shall it exempt any applicant from complying with applicable safety and
+   engineering standards. No LGU shall require permits, clearances, certificates,
+   endorsements, fees, or documentary requirements that are not expressly authorized by
+   national law, this Act, or its Implementing Rules and Regulations.
+
+           Congress may, through existing tax laws or subsequent legislation, grant such
+   fiscal and non-fiscal incentives as may be necessary to further promote the deployment
+   of distributed renewable energy systems by Qualified End-users.
+
+           For purposes of real property taxation, the concerned LGU shall assess the
+   attributable real property tax (RPT), if any, on distributed renewable energy systems
+   installed, used, or operated by Qualified End-users for personal consumption. In lieu of
+   direct payment of RPT by the Qualified End-user, the corresponding amount shall be
+   sourced from the Local Government Support Fund (LGSF) and remitted to the
+   concerned LGU through such mechanism as may be established by the Office of the
+   President and the Department of Budget and Management (DBM), subject to existing
+   budgeting, accounting, auditing, and other applicable laws, rules, and regulations.
+
+(f) Inter-Agency Coordinating Council on Sariling Kuryente Act: There is hereby created
+    an Inter-Agency Coordinating Council, hereinafter referred to as the "Council," to be
+    chaired by the Secretary of Energy and composed of representatives from the DTI,
+    DILG, BOC, TESDA, ERC, Anti-Red Tape Authority (ARTA), DBP, LANDBANK,
+    and assisted by such other agencies as may be necessary for the effective
+    implementation of this Act. The Council shall include as advisers one (1) representative
+    each from a recognized end-user organization, the renewable energy industry, and
+    distribution utilities or electric cooperatives.
+
+           The Council shall serve as the primary inter-agency coordination mechanism
+   for the implementation of this Act and shall be responsible for policy coordination,
+   regulatory streamlining, inter-agency collaboration, monitoring of agency compliance,
+   and the prompt resolution of implementation issues and bottlenecks. It shall submit an
+   annual report, and such other reports as may be necessary, to the Office of the President
+   detailing the status of implementation, accomplishments, challenges, and policy
+   recommendations.
+
+         The Joint Congressional Power Commission (JCPC) created under Republic
+   Act No. 9136, shall exercise continuing oversight over the implementation of this Act
+
+                                          16
+       and may require the submission of reports, conduct reviews, and recommend such
+       legislative or policy measures as may be necessary to achieve the objectives of this Act.
+
+        SECTION 20. Expansion of Renewable Energy (RE) Absorption Capacity and Grid
+Integration Mandate. — The Department of Energy (DOE), the Energy Regulatory
+Commission (ERC), the National Grid Corporation of the Philippines (NGCP), the National
+Transmission Corporation (TransCo), and all distribution utilities (DUs) shall, within their
+respective mandates, adopt measures to progressively increase grid hosting and system
+absorption capacity for renewable energy, particularly variable renewable energy (VRE),
+distributed generation, rooftop solar photovoltaic systems, and other Distributed Renewable
+Energy Systems (DRES).
+
+        In formulating policies, plans, standards, and investment programs, the DOE and ERC
+shall encourage the development of transmission and distribution infrastructure, operational
+protocols, and interconnection standards capable of accommodating substantially higher levels
+of renewable energy penetration, with the objective of enabling the power system to support
+increased variable renewable energy integration.
+
+        The DOE and ERC shall likewise review and update existing distribution code
+provisions, interconnection requirements, and connection standards to promote transparent,
+objective, and non-discriminatory assessment of renewable energy interconnection
+applications, and to ensure that claims of grid constraints, hosting capacity limitations, or
+system saturation are supported by verifiable technical evidence.
+
+       SECTION 21. Prohibited Acts. — The following acts are hereby prohibited:
+
+   (a) Willful Refusal. Willfully refusing, obstructing, or imposing undue conditions on the
+       installation, operation, maintenance, upgrading, or interconnection of a qualified
+       distributed renewable energy systems intended primarily for self-consumption, except
+       on legitimate legal, technical, safety, reliability, or security grounds established by law
+       or regulation.
+
+   (b) Discriminatory Treatment. Subjecting owners or operators of qualified distributed
+       renewable energy systems to discriminatory charges, fees, technical requirements,
+       permitting requirements, interconnection conditions, or other regulatory burdens not
+       imposed on similarly situated consumers as well as discrimination in billing, metering,
+       inspections, and processing times.
+
+   (c) Imposition of Unlawful Charges. Imposing fees, taxes, penalties, standby charges,
+       minimum consumption requirements, unauthorized interconnection fees and
+       unreasonable upgrade charges, or other financial obligations that have the purpose or
+       effect of discouraging or impairing the exercise of the right to generate, store, consume,
+       or share renewable energy, unless expressly authorized by law or ERC regulation.
+
+
+                                               17
+   (d) Anti-Competitive Conduct. Engaging in any act or practice that restricts, prevents, or
+       unfairly limits participation in renewable energy self-generation, community energy
+       projects, energy sharing arrangements, abuse of dominant position by regulated
+       utilities, or the sale of excess renewable energy as allowed under this Act.
+
+   (e) Unauthorized Interference. Tampering with, disconnecting, damaging, disabling, or
+       otherwise interfering with any authorized distributed renewable energy facilities and
+       systems, smart meter, distributed energy resource, energy storage system, battery
+       energy storage systems, smart inverters, or associated equipment without lawful
+       authority, and unauthorized remote access or disabling of systems.
+
+   (f) False or Misleading Representations. Knowingly making false, fraudulent, deceptive,
+       or misleading statements, financing, warranties and performance guarantees regarding
+       the performance, safety, certification, capacity, eligibility, environmental attributes, or
+       economic benefits of renewable energy systems covered by this Act. This shall cover
+       installers, suppliers, financiers and marketers.
+
+   (g) Unauthorized Access or Energy Theft. Unauthorized access to, diversion of
+       manipulation of, or theft of electricity produced by authorized distributed renewable
+       energy facilities and systems or energy storage facility.
+
+   (h) Falsification of Records. Falsifying applications, permits, certifications, metering data,
+       energy production records, billing records, or other documents required under this Act.
+
+   (i) Misappropriation of Incentives. Obtaining or attempting to obtain any subsidy, grant,
+       tax incentive, credit, or benefit under this Act through fraud, misrepresentation, or
+       concealment of material facts.
+
+   (j) Any Other Act. Any act that defeats, circumvents, or frustrates the rights, objectives,
+       and policies established under this Act, as may be determined by the appropriate
+       regulatory authority after due notice and hearing.
+
+        SECTION 22. Prohibition Against Retaliatory Acts. — No distribution utility, electric
+cooperative, retail electricity supplier, grid operator, government agency, or any of their
+officers, employees, or agents shall engage in any retaliatory, discriminatory, or punitive act
+against an End-user on account of the installation, operation, ownership, or use of a distributed
+renewable energy system, participation in net-metering or similar programs, or the exercise of
+any right granted under this Act.
+
+        Any person aggrieved by a violation of this Section may file a complaint with the
+Energy Regulatory Commission, which shall have the authority to order corrective measures
+and impose appropriate administrative sanctions in accordance with existing laws and
+regulations.
+
+
+                                               18
+        SECTION 23. Protection of End-User Energy Data. — Metering, consumption,
+generation, export, and other energy usage data of an End-user shall be treated as confidential
+and shall not be disclosed, sold, shared, transferred, processed, or used for commercial,
+marketing, or any other purpose without the prior written consent of the end-user, except where
+disclosure is required by law, authorized by the Energy Regulatory Commission, or necessary
+for billing, system operations, grid reliability, cybersecurity, or other legitimate regulatory
+purposes.
+
+       Distribution utilities, electric cooperatives, retail electricity suppliers, aggregators,
+service providers, and other entities with access to such data shall implement appropriate
+measures to ensure its security, confidentiality, and protection against unauthorized access, use,
+disclosure, alteration, or destruction.
+
+         SECTION 24. Protection Against Unauthorized Disconnection. — No distribution
+utility, electric cooperative, retail electricity supplier, or other electricity service provider shall
+disconnect, refuse electric service to, or otherwise impair the provision of electric service to an
+End-user solely on the ground that the end-user has installed, owns, operates, or uses a
+distributed renewable energy system, energy storage system, or other self-generation facility
+authorized under this Act.
+
+       SECTION 25. Non-Compliance with Lawful Orders. — Willful failure or refusal to
+comply with any lawful order, directive, rule, regulation, or decision issued pursuant to this
+Act shall constitute a violation of this Act. The Department of Energy and the Energy
+Regulatory Commission shall have the authority to impose administrative fines and other
+appropriate sanctions, including the suspension or revocation of permits, licenses,
+accreditations, or operating authority, without prejudice to the filing of civil or criminal actions
+under applicable laws.
+
+        SECTION 26. Obstruction of Inspections and Investigations. — No person or entity
+covered by this Act shall obstruct, impede, delay, refuse, or otherwise interfere with any lawful
+inspection, audit, monitoring activity, inquiry, or investigation conducted by the Department of
+Energy, the Energy Regulatory Commission, or any duly authorized government authority in
+the exercise of its powers under this Act.
+
+       Any person or entity found to have violated this Section shall be subject to the
+administrative, civil, or criminal penalties provided under this Act and other applicable laws.
+
+        SECTION 27. False Claims of Accreditation or Certification. — It shall be unlawful
+for any person or entity to forge, falsify, alter, use, present, or misrepresent any accreditation,
+certification, license, permit, qualification, or similar credential required under this Act, or to
+falsely claim eligibility to perform activities regulated herein.
+
+
+
+
+                                                  19
+        Violations of this Section shall constitute a ground for the denial, suspension, or
+revocation of any accreditation, certification, license, permit, or authorization issued under this
+Act, in addition to any applicable administrative, civil, or criminal penalties.
+
+       SECTION 28. Penalties. —
+   (a) Any person who commits any prohibited act under this Act shall, upon conviction, be
+       punished with a fine of not less than One Hundred Thousand Pesos (PHP100,000.00)
+       but not more than Five Million Pesos (PHP5,000,000.00) or imprisonment of not less
+       than six (6) months but not more than six (6) years, or both, at the discretion of the
+       court.
+
+   (b) Where the violation consists of a willful refusal, delay, obstruction, discriminatory
+       treatment, or imposition of unlawful charges by a distribution utility, electric
+       cooperative, retail electricity supplier, homeowners' association, condominium
+       corporation, local government unit, or other juridical entity, the responsible entity shall
+       be liable for a fine of not less than Five Hundred Thousand Pesos (PHP500,000.00) but
+       not more than Ten Million Pesos (PHP10,000,000.00) for each violation, without
+       prejudice to the issuance of corrective orders and administrative sanctions by the
+       appropriate regulatory authority.
+
+   (c) Any person who knowingly falsifies records, submits fraudulent documents,
+       misrepresents technical or financial information, tampers with metering equipment,
+       steals electricity, or unlawfully obtains incentives under this Act shall suffer a fine of
+       not less than Five Hundred Thousand Pesos (PHP500,000.00) but not more than Ten
+       Million Pesos (PHP10,000,000.00), or imprisonment of not less than two (2) years but
+       not more than eight (8) years, or both, at the discretion of the court.
+
+   (d) If the offender is a corporation, partnership, association, cooperative, distribution
+       utility, electric cooperative, or other juridical entity, the president, general manager,
+       chief executive officer, members of the governing board, or other officers directly
+       responsible for the violation shall be held liable, without prejudice to the imposition of
+       administrative penalties upon the entity itself.
+
+   (e) If the offender is a public officer or employee, the maximum penalty shall be imposed,
+       without prejudice to administrative liability and disqualification from holding public
+       office in accordance with applicable laws.
+
+   (f) Each day that a continuing violation persists after receipt of a lawful order to comply
+       shall constitute a separate offense.
+
+   (g) The penalties provided under this Act shall be without prejudice to the application of
+       other civil, criminal, or administrative remedies and penalties provided under existing
+       laws.
+
+
+                                                20
+   (h) The DOE is further empowered to impose administrative fines and penalties for any
+       violation of the provisions of this Act, its IRR and other issuances relative to this Act.
+       This is without prejudice to the penalties provided for under existing environmental
+       regulations prescribed by the DENR and/or any other concerned government agency.
+
+
+        SECTION 29. Administrative Enforcement. — The Department of Energy, the Energy
+Regulatory Commission, and other competent government agencies shall have the authority to
+investigate violations of this Act, conduct administrative proceedings, issue compliance orders,
+and impose such administrative sanctions as may be authorized under this Act and other
+applicable laws, rules, and regulations.
+
+        SECTION 30. Administrative Complaint Mechanism. — Any person aggrieved by a
+violation of this Act may first file a complaint with the Department of Energy, the Energy
+Regulatory Commission, or the appropriate government agency exercising jurisdiction over
+the matter.
+
+       The filing of an administrative complaint shall not prejudice the right of the
+complainant to seek judicial relief after exhaustion of administrative remedies or upon
+unreasonable delay by the concerned agency in resolving the complaint, as may be provided
+by law or regulation.
+
+        SECTION 31. Promotion of Mediation and Alternative Dispute Resolution. — It is
+the policy of the State to encourage the amicable settlement of technical, interconnection,
+metering, billing, and other disputes arising under this Act through mediation and alternative
+dispute resolution mechanisms. Resort to such mechanisms shall not prejudice the right of any
+party to pursue the appropriate administrative or judicial remedies available under law.
+
+        SECTION 32. Whistleblower Protection. — Any person who, in good faith, reports a
+suspected violation of this Act shall be protected from retaliation. It shall be unlawful for any
+person or entity to take or threaten any adverse action against a whistleblower on account of
+such report or participation in an investigation, inspection, audit, administrative proceeding, or
+judicial action arising under this Act.
+
+        The identity of a whistleblower shall be kept confidential to the fullest extent permitted
+by law, unless disclosure is required by due process, court order, or with the whistleblower's
+written consent.
+
+        Any retaliatory act committed in violation of this Section shall constitute a separate and
+distinct offense and shall be subject to the penalties provided under this Act, without prejudice
+to any other remedies available under existing laws.
+
+      SECTION 33. Mitigation for Voluntary Compliance. — The voluntary disclosure and
+prompt correction of a violation before the initiation of a formal investigation or enforcement
+
+                                               21
+action may be considered a mitigating circumstance for purposes of determining administrative
+penalties under this Act. Such disclosure or correction shall not extinguish liability but may
+warrant a reduction of administrative sanctions, subject to rules to be prescribed by the
+appropriate regulatory authority.
+
+        SECTION 34. Education, Capacity Building, and Protection of Renewable Energy
+Prosumers. — The State shall promote public awareness, technical literacy, consumer
+protection, and capacity building to enable qualified persons and entities to exercise their rights
+under this Act and to participate effectively in renewable energy self-generation, self-
+consumption, energy storage, energy sharing, and related activities.
+
+       To this end, the Department of Energy (DOE), in coordination with the Energy
+Regulatory Commission (ERC), the National Electrification Commission (NEA), the
+Department of Trade and Industry (DTI), Department of the Interior and Local Government
+(DILG), Cooperative Development Authority (CDA), National Commission on Indigenous
+Peoples (NCIP), Department of Agriculture (DA), Department of Science and Technology
+(DOST), distribution utilities, electric cooperatives, academic institutions, and other relevant
+government agencies, shall develop and implement programs specifically for:
+
+   (a) Private citizens and households, to increase awareness of renewable energy
+       technologies, energy efficiency practices, consumer rights, available incentives,
+       financing options, system safety, and opportunities for self-generation and self-
+       consumption;
+
+   (b) The Department of Human Settlements and Urban Developments (DHSUD) shall
+       support the development and management of shared, community-based, and common-
+       area renewable energy systems, including guidance on governance, financing,
+       operation, maintenance, and energy sharing arrangements of Homeowners'
+       Associations (HOAs);
+
+   (c) The Department of Trade and Industry (DTI) shall facilitate the adoption by Micro,
+       Small, and Medium Enterprises (MSMEs) of distributed renewable energy systems
+       through technical assistance, business advisory services, financing information,
+       workforce development, and access to government support programs;
+
+   (d) The Department of Agriculture (DA) shall encourage and promote the use of renewable
+       energy for irrigation, post-harvest facilities, cold storage, processing operations, rural
+       electrification, and other productive agricultural activities of Agricultural Cooperatives
+       and Farmers' Organizations;
+
+   (e) The Department of the Interior and Local Government (DILG) shall strengthen local
+       planning, permitting, investment promotion, climate resilience initiatives, and the
+       integration of distributed renewable energy systems into local development programs
+       of the various Local Government Units;
+
+                                                22
+   (f) The National Commission on Indigenous Peoples (NCIP) shall encourage, assist and
+       strengthen the adoption, implementation and maintenance of Indigenous Peoples'
+       Communities of community-owned distributed renewable energy systems and
+       sustainable energy access, in a manner consistent with their rights, customs, traditions,
+       and self-determined development priorities, including capacity-building programs;
+
+   (g) Other similarly situated groups and organizations that may benefit from renewable
+       energy self-generation, self-consumption, and community energy projects.
+
+   (h) The Department of Energy (DOE) shall establish consumer education materials,
+       technical assistance platforms, and public information campaigns to provide accessible,
+       accurate, and up-to-date information regarding renewable energy systems, applicable
+       standards, interconnection procedures, available incentives, consumer rights, and
+       complaint mechanisms.
+
+        No person or entity engaged in the sale, installation, financing, leasing, or operation of
+distributed renewable energy systems shall engage in deceptive, fraudulent, or misleading
+marketing, advertising, pricing, or contractual practices. The Department of Energy (DOE), in
+coordination with the Department of Trade and Industry (DTI) and other appropriate agencies,
+shall adopt measures to protect consumers from unfair practices and ensure access to effective
+dispute resolution mechanisms.
+
+       SECTION 35. Periodic Review. — The DOE and the ERC shall jointly undertake a
+comprehensive review of the implementation of this Act every three (3) years and submit to
+Congress a report on their findings, including recommendations for legislative, regulatory, or
+policy measures necessary to improve the effectiveness of this Act and to address emerging
+technical, economic, and market developments affecting distributed renewable energy.
+
+        SECTION 36. Non-Impairment and Grandfathering of Existing Systems. —
+Existing distributed renewable energy installations and net-metering participants lawfully
+operating prior to the adoption of any subsequent regulatory change shall be grandfathered and
+allowed to continue operating under the rules, rates, benefits, and interconnection arrangements
+in effect at the time of their approval, unless the owner voluntarily elects to migrate to a new
+regulatory regime.
+
+       No regulatory change shall be applied retroactively so as to impair vested rights or
+materially diminish benefits previously granted under this Act.
+
+       SECTION 37. Appropriations. – Such sums as may be necessary for the initial
+implementation of this Act shall be taken from the current appropriations of the DOE.
+Thereafter, the fund necessary to carry out the provisions of this Act shall be included in the
+annual General Appropriations Act.
+
+
+                                               23
+        SECTION 38. Implementing Rules and Regulations. — Within ninety (90) days from
+the effectivity of this Act, the Department of Energy (DOE), in coordination with the Energy
+Regulatory Commission (ERC), Department of the Interior and Local Government (DILG) and
+National Electrification Administration (NEA) and other concerned agencies, shall promulgate
+the necessary rules and regulations for the effective implementation of this Act.
+
+        Failure of the concerned agencies to promulgate the IRR within the prescribed period
+shall not prevent the implementation and enforcement of this Act.
+
+       SECTION 39. Congressional Oversight. — Upon the effectivity of this Act, the Joint
+Congressional Power Commission created under Section 62 of Republic Act No. 9136,
+otherwise known as the "Electric Power Industry Reform Act of 2001" shall exercise oversight
+powers over the implementation of this Act.
+
+        SECTION 40. Separability Clause. — If any provision, section, or part of this Act is
+declared unconstitutional or invalid, the other sections or provisions not otherwise affected
+shall remain in full force and effect.
+
+        SECTION 41. Repealing Clause. — All laws, presidential decrees, executive orders,
+letters of instruction, administrative rules and regulations, or parts thereof contrary to or
+inconsistent with the provisions of this Act are hereby repealed, modified, or amended
+accordingly.
+
+        SECTION 42. Effectivity Clause. — This Act shall take effect fifteen (15) days after
+its complete publication in the Official Gazette or in at least two (2) newspapers of general
+circulation.
+
+       Approved,
+
+
+
+
+                                             24
+

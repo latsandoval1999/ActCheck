@@ -1,0 +1,666 @@
+                                     Republic of the Philippines
+                                  HOUSE OF REPRESENTATIVES
+                                             Quezon City
+                                                                                        August 25, 2026
+                                      TWENTIETH CONGRESS
+                                                                                          1:19 pm
+                                       Second Regular Session
+
+                                                       10942
+                                        HOUSE BILL NO. ____
+
+
+
+
+               Introduced by Representative ANTOLIN “LENLEN” A. ORETA III
+
+
+
+                               AN ACT
+ESTABLISHING A REGULATORY FRAMEWORK FOR DIGITAL PLATFORMS,
+PROMOTING RESPONSIBLE DIGITAL ENGAGEMENT AND ONLINE SAFETY FOR THE
+PROTECTION OF CHILDREN FROM ONLINE HARMS
+
+                                       EXPLANATORY NOTE
+
+The rapid advancement of information and communications technology has fundamentally reshaped the
+manner by which Filipinos communicate, access information, pursue education, conduct business, and
+participate in civic life. Digital platforms, including social networking services, messaging applications,
+online gaming platforms, content-sharing services, livestreaming platforms, and other interactive digital
+technologies have become indispensable tools in modern society. While these technologies have
+significantly contributed to economic growth, innovation, and digital inclusion, they have likewise
+created unprecedented challenges, particularly with respect to the protection of children in the online
+environment.
+
+The increasing accessibility of digital platforms has correspondingly heightened the exposure of children
+and adolescents to online harms such as cyberbullying, online grooming, identity theft, privacy
+violations, harmful and age-inappropriate content, deceptive digital practices, excessive screen time, and
+other forms of digital exploitation. These risks have become more complex as digital platforms continue
+to evolve, underscoring the need for a comprehensive regulatory framework that balances technological
+innovation with the State's constitutional duty to protect the welfare of its citizens.
+
+Empirical evidence demonstrates the urgency of legislative intervention. In Sexual Exploitation and
+Abuse of Children Online in the Philippines: A Review of Online News and Articles, Hernandez, Lacsina,
+Ylade, Aldaba, Lam, Estacio, and Lopez documented the alarming prevalence of Online Sexual
+Exploitation and Abuse of Children (OSEAC) in the Philippines. The study identified recurring incidents
+involving livestreamed child sexual abuse, child sexual abuse materials, and sextortion, with victims
+ranging from infancy to adolescence. It further observed that the widespread availability of digital
+technologies, coupled with socioeconomic vulnerabilities and inadequate online safeguards, has
+facilitated the proliferation of these offenses, thereby highlighting the necessity for stronger preventive
+measures and institutional responses.
+
+Complementing these findings, a study published in the Philippine Social Science Journal emphasizes
+that children's increasing engagement with digital platforms extends their exposure beyond criminal
+exploitation to a broader spectrum of psychosocial and developmental risks. The study identifies
+cyberbullying, problematic digital use, diminished parental supervision, privacy and data security
+concerns, and harmful online interactions as emerging issues that require coordinated interventions
+involving government, families, educational institutions, and digital platform operators. It likewise
+underscores that digital literacy, platform accountability, and child-centered online safety mechanisms
+are essential components of an effective child protection framework in the digital age.
+
+Although the Philippines has enacted significant legislation such as Republic Act No. 10173, otherwise
+known as the Data Privacy Act of 2012; Republic Act No. 10175, or the Cybercrime Prevention Act of
+2012; and Republic Act No. 11930, or the Anti-Online Sexual Abuse or Exploitation of Children and
+Anti-Child Sexual Abuse or Exploitation Materials Act, these laws principally address specific unlawful
+acts or regulate particular aspects of digital governance. At present, there remains no comprehensive
+statutory framework that establishes uniform safety standards, preventive obligations, and accountability
+mechanisms applicable to digital platform operators for the protection of children.
+
+This proposed measure seeks to address this legislative gap by establishing a comprehensive regulatory
+framework governing digital platforms operating within the Philippines. It mandates the adoption of age-
+appropriate safeguards, privacy-preserving age verification systems, digital well-being features, parental
+supervision mechanisms, transparent platform policies, and effective reporting and redress systems. It
+likewise institutionalizes inter-agency coordination among the Department of Information and
+Communications Technology, the National Telecommunications Commission, the National Privacy
+Commission, the Department of Health, the Department of Education, the Department of Social
+Welfare and Development, the Presidential Communications Office, the Council for the Welfare of
+Children, and other concerned agencies to ensure a coherent and whole-of-government approach to
+digital safety and child protection.
+
+Ultimately, this measure affirms the State's commitment to uphold the constitutional rights and welfare
+of children while fostering a safe, secure, and trustworthy digital ecosystem that promotes responsible
+innovation, protection, and ensures that technological advancement remains consistent with the public
+interest.
+
+In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+
+                                                                ANTOLIN “LENLEN” A. ORETA III
+                                                                   Lone District of Malabon City
+                                          Republic of the Philippines
+                                       HOUSE OF REPRESENTATIVES
+                                                Quezon City
+
+                                           TWENTIETH CONGRESS
+                                            Second Regular Session
+
+                                                            10942
+                                             HOUSE BILL NO. ____
+
+
+
+
+                    Introduced by Representative ANTOLIN “LENLEN” A. ORETA III
+
+
+
+
+                                    AN ACT
+     ESTABLISHING A REGULATORY FRAMEWORK FOR DIGITAL PLATFORMS,
+     PROMOTING RESPONSIBLE DIGITAL ENGAGEMENT AND ONLINE SAFETY FOR THE
+     PROTECTION OF CHILDREN FROM ONLINE HARMS
+
+     Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+                                                ARTICLE I
+                                         PRELIMINARY PROVISIONS
+
+ 1       SECTION 1. Short Title. - This Act shall be known as the “Digital Platform Safety and Protection
+ 2   Act."
+
+ 3        SEC. 2. Declaration of Policy. - It is hereby declared the policy of the State to promote a safe, secure,
+ 4   inclusive, and rights-based digital environment that protects users, particularly children and adolescents,
+ 5   from online harms while upholding the constitutional rights to freedom of expression, privacy, due process,
+ 6   access to information, and the best interests of the child. Towards this end, the State shall:
+
+ 7       (a) promote the responsible, transparent, and accountable operation of digital platforms;
+ 8       (b) safeguard children against online exploitation, abuse, cyberbullying, harmful and age-
+ 9           inappropriate content, deceptive digital practices, excessive screen exposure, and other
+10           foreseeable online risks;
+11       (c) encourage technological innovation while ensuring that digital development remains consistent
+12           with public welfare, child protection, and human rights;
+13       (d) strengthen the protection of personal information consistent with Republic Act No. 10173 or the
+14           Data Privacy Act of 2012;
+15       (e) promote digital literacy, digital citizenship, media and information literacy, cyber ethics, and
+16           healthy digital engagement;
+17       (f) empower parents, guardians, educators, and communities to guide children in the responsible use
+18           of digital technologies;
+19       (g) establish age-appropriate safeguards governing children's access to digital platforms and
+20           electronic gadgets;
+21       (h) strengthen cooperation among national government agencies, local government units,
+22           educational institutions, digital platform operators, parents, civil society organizations,
+23           professional associations, and community stakeholders in advancing child online safety; and
+24      (i) adopt a whole-of-government and whole-of-community approach in protecting children from
+25          online harms while promoting responsible participation in the digital environment.
+
+26        SEC. 3. Scope and Coverage. - This Act shall apply to all covered digital platforms that make their
+27   services available to users located within the Philippines, regardless of the place of incorporation or
+28   principal place of business of the platform operator, insofar as such services are directed to, accessed by,
+29   or substantially affect users within Philippine jurisdiction.
+
+30      This Act shall likewise establish age-based regulatory measures governing the use of digital platforms
+31   and electronic gadgets from birth until eighteen (18) years of age, including age-appropriate access
+32   restrictions, digital well-being standards, privacy protections, parental support mechanisms, educational
+33   interventions, and platform obligations corresponding to the developmental needs and evolving capacities
+34   of children and adolescents.
+
+35      Nothing in this Act shall be construed to diminish rights and protections guaranteed under the
+36   Constitution and existing laws relating to privacy, freedom of expression, child protection, cybersecurity,
+37   education, consumer protection, and data privacy.
+
+38        SEC. 4. Definition of Terms. - For purposes of this Act, the following terms shall be understood as
+39   follows:
+
+40      (a) Child refers to any person below eighteen (18) years of age, consistent with existing child
+41          protection laws, and shall likewise include persons eighteen (18) years of age or older who,
+42          because of physical or mental disability or condition, are unable to fully protect themselves from
+43          abuse, neglect, cruelty, exploitation, or discrimination.
+44      (b) Digital Platform refers to any internet-based service, website, application, online system, or
+45          digital technology that enables users to create, access, communicate, distribute, exchange,
+46          discover, recommend, monetize, or interact with digital content, goods, services, or information,
+47          including social media platforms, messaging services, online gaming platforms, content-sharing
+48          platforms, livestreaming services, search engines, online marketplaces, and similar interactive
+49          digital services.
+50      (c) Digital Platform Operator refers to any natural or juridical person that owns, develops, controls,
+51          manages, operates, or provides a digital platform or exercises substantial control over its design,
+52          operation, policies, algorithms, or data processing activities.
+53      (d) Social Media Platform refers to any internet-based application, website, or digital service that
+54          enables users to create profiles, communicate, establish social networks, publish or share user-
+55          generated content, or interact with other users through recommendation systems, personalized
+56          feeds, messaging, livestreaming, commenting, or similar interactive features.
+57      (e) High-Risk Digital Platform refers to a digital platform whose design, functions, services,
+58          algorithms, or business practices present a reasonably foreseeable risk of exposing children to
+59          harmful or age-inappropriate content, online exploitation, cyberbullying, manipulative or
+60          addictive platform features, privacy risks, excessive screen use, or other significant online harms,
+61          as may be determined by the Department of Information and Communications Technology
+62          (DICT) through the Implementing Rules and Regulations.
+63      (f) Age Assurance Measures refer to privacy-preserving policies, technologies, systems, or
+64          procedures used to verify, estimate, or otherwise establish the age or age range of users while
+65          ensuring proportionality, transparency, accountability, data minimization, and compliance with
+66          applicable data privacy laws.
+67      (g) Algorithmic Safety refers to any automated computational process, including those utilizing
+68          artificial intelligence, machine learning, predictive analytics, ranking, personalization, or similar
+69          technologies, that selects, recommends, prioritizes, amplifies, suppresses, or organizes digital
+ 70          content, advertisements, products, services, or user accounts based on user behavior, preferences,
+ 71          characteristics, or other data.
+ 72      (h) Digital Well-Being refers to the healthy, balanced, safe, and responsible use of digital
+ 73          technologies that promotes the physical, mental, emotional, psychological, cognitive,
+ 74          educational, and social well-being of children and other users while minimizing risks associated
+ 75          with excessive or harmful digital engagement.
+ 76      (i) Electronic Gadget refers to any internet-enabled or electronic device capable of accessing digital
+ 77          platforms or digital content, including smartphones, mobile phones, tablets, laptops, desktop
+ 78          computers, gaming consoles, wearable technologies, smart televisions, virtual or augmented
+ 79          reality devices, and similar electronic devices.
+ 80      (j) Harmful Online Content refers to digital content, activities, or communications that may
+ 81          reasonably be expected to expose children to exploitation, abuse, cyberbullying, online
+ 82          grooming, child sexual abuse or exploitation materials, self-harm or suicide promotion, violent
+ 83          or sexually explicit material, gambling-related content, fraudulent schemes, hate speech
+ 84          prohibited by law, or other content that poses a significant risk to their health, safety,
+ 85          development, or well-being.
+ 86      (k) Parent or Guardian refers to the biological parent, adoptive parent, legal guardian, foster parent,
+ 87          or any person exercising lawful parental authority or substitute parental care over a child pursuant
+ 88          to existing laws.
+ 89      (l) Community Stakeholders refer to Local Government Units (LGUs), Local Councils for the
+ 90          Protection of Children (LCPCs), Barangay Councils for the Protection of Children (BCPCs),
+ 91          Barangay Health Workers (BHWs), Barangay Child Development Workers (BCDWs),
+ 92          educational institutions, civil society organizations, youth organizations, professional
+ 93          associations, faith-based organizations, healthcare professionals, parents' organizations, and
+ 94          other public or private entities participating in child protection, digital literacy, and digital
+ 95          wellness initiatives.
+ 96      (m) Digital Literacy refers to the knowledge, skills, competencies, and ethical values necessary to
+ 97          safely, responsibly, critically, and effectively access, evaluate, create, communicate, and
+ 98          participate in digital environments, including media and information literacy, cybersecurity
+ 99          awareness, privacy protection, responsible digital citizenship, and the appropriate use of artificial
+100          intelligence and emerging technologies.
+
+101                                           ARTICLE II
+102                            GENERAL OBLIGATIONS OF DIGITAL PLATFORMS
+
+103      SEC. 5. General Duties of Digital Platforms. - All digital platform operators providing services to
+104   users within the Philippines shall:
+
+105      (a) establish and implement age-based access regulations consistent with the developmental needs
+106          of children;
+107      (b) adopt privacy-preserving age assurance mechanisms in accordance with this Act;
+108      (c) ensure that children's accounts are configured with the highest available privacy and safety
+109          settings by default;
+110      (d) obtain verifiable parental or guardian consent whenever required under applicable laws;
+111      (e) establish accessible, transparent, and child-friendly reporting and complaint mechanisms for
+112          cyberbullying, online exploitation, scams, harmful content, privacy violations, and other online
+113          harms;
+114      (f) provide digital well-being tools, including parental controls, screen-time monitoring, break
+115          reminders, usage dashboards, content filtering, and other protective features;
+116      (g) maintain transparent community standards, content moderation policies, advertising practices,
+117          and data processing policies written in language understandable to users;
+118      (h) conduct regular child impact and online safety risk assessments;
+119      (i) cooperate with competent government authorities in the enforcement of this Act; and
+120      (j) comply with all applicable laws relating to child protection, cybersecurity, consumer protection,
+121          digital safety, and data privacy.
+
+122   SEC. 6. Age-Appropriate Digital Platform Regulation. - Digital platform operators shall implement age-
+123   based safeguards that correspond to the developmental needs of children. The following age-based
+124   standards shall serve as the minimum national guide:
+
+125      (a) Ages 0–2 years. Screen exposure shall be prohibited, except for medically necessary purposes or
+126          supervised voice or video communication with immediate family members, recognizing that this
+127          developmental stage requires direct human interaction for healthy physical, cognitive, emotional,
+128          and social development.
+129      (b) Ages 2–5 years. Screen use shall be limited to not more than one (1) hour per day of high-quality,
+130          age-appropriate educational content under the active supervision of a parent, legal guardian, or
+131          caregiver.
+132      (c) Ages 6–12 years. Screen use shall be balanced with physical activity, adequate sleep, face-to-
+133          face social interaction, and learning, and shall not exceed two (2) hours per day for non-school-
+134          related purposes, subject to parental guidance and supervision.
+135      (d) Ages 13–15 years. Digital platform use shall promote digital literacy, responsible online
+136          behavior, privacy awareness, cyber safety, balanced screen time, and parental guidance. Platform
+137          operators shall provide enhanced privacy protections, age-appropriate content moderation, and
+138          digital well-being features.
+139      (e) Ages 16–17 years. Digital platform use shall encourage responsible digital citizenship and
+140          supervised independence. High-risk digital platforms shall provide youth safety features,
+141          enhanced privacy settings, content moderation, digital well-being tools, and mechanisms that
+142          discourage excessive or harmful online engagement while recognizing the evolving capacities of
+143          older adolescents.
+
+144      The Department of Health (DOH), in coordination with the Department of Information and
+145   Communications Technology (DICT), Department of Education (DepEd), Early Childhood Care and
+146   Development (ECCD) Council, and the Council for the Welfare of Children (CWC), shall periodically
+147   review these standards based on prevailing scientific evidence and child development research.
+
+148       SEC. 7. Age-Assurance and Verification. All high-risk digital platform operators shall implement
+149   privacy-preserving age assurance systems to ensure compliance with the age-based access requirements
+150   under this Act. Age assurance systems shall:
+
+151      (a) utilize reasonable, proportionate, and reliable methods to determine the age of users;
+152      (b) provide multiple verification options so that users are not compelled to submit government-issued
+153          identification unless strictly necessary;
+154      (c) minimize the collection, processing, retention, and disclosure of personal data in accordance with
+155          Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012;
+156      (d) ensure that personal information collected for age assurance shall be used solely for age
+157          verification and shall not be processed for advertising, profiling, behavioral targeting, or any
+158          unrelated commercial purpose;
+159      (e) permanently delete or anonymize personal information immediately upon completion of the
+160          verification process, unless a longer retention period is expressly authorized by law; and
+161       (f) undergo periodic security and privacy audits as may be required by the Department of
+162           Information and Communications Technology (DICT) and the National Privacy Commission
+163           (NPC).
+
+164      The DICT, in coordination with the NPC, shall periodically review age assurance technologies to
+165   ensure that such systems remain effective, proportionate, technologically current, and respectful of
+166   children's rights and privacy.
+
+167       SEC. 8. Duty of Care of Digital Platforms. – Every covered digital platform accessible within the
+168   Philippines owes children a statutory duty of care to identify, prevent, minimize, and mitigate reasonably
+169   foreseeable risks arising from the design, operation, business practices, and use of its services. In fulfilling
+170   this duty, digital platforms shall adopt reasonable, proportionate, and effective measures to safeguard the
+171   rights, safety, privacy, health, and well-being of children and adolescents, consistent with the obligations
+172   provided under this Act.
+
+173     SEC. 9. Obligations Under the Duty of Care. – The duty of care shall be proportionate to the nature,
+174   scale, and level of risk presented by the platform and shall include, at a minimum, the following
+175   obligations:
+
+176       (a) Risk Assessment. – Conduct, document, and regularly update comprehensive child safety risk
+177           assessments identifying potential harms arising from platform design, algorithms, content
+178           moderation systems, business models, and user interactions. Such assessments shall be reviewed
+179           at least annually and submitted to the DICT..
+180       (b) Risk Mitigation. – Implement appropriate and effective measures to address identified risks,
+181           including:
+182            (i)       Algorithmic Safety. - Designing or adjusting recommendation and ranking systems to
+183                      minimize the amplification or promotion of harmful, exploitative, manipulative,
+184                      violent, sexually explicit, self-harm, gambling-related, age-inappropriate, or
+185                      disinformation-related content directed at children and adolescents;
+186            (ii)      Content Moderation. - Maintaining effective, age-appropriate content moderation
+187                      systems capable of detecting, reviewing, restricting, or removing harmful online
+188                      content and conduct in accordance with this Act;
+189            (iii)     Privacy and Safety by Default. - Ensuring that accounts belonging to users below
+190                      eighteen (18) years of age are configured with the highest available privacy and safety
+191                      settings by default, including private profiles, restricted messaging, limited content
+192                      sharing, and similar protective measures;
+193            (iv)      Restrictions on Addictive Design Features. - Limiting, disabling, or otherwise
+194                      mitigating platform features that exploit the psychological vulnerabilities of children,
+195                      including infinite scrolling, autoplay, manipulative notifications, variable reward
+196                      mechanisms, lock-in loops, and similar engagement-maximizing designs;
+197            (v)       Reporting and Redress Mechanisms. - Providing accessible, child-friendly, and
+198                      effective mechanisms through which users may report harmful content, harassment,
+199                      exploitation, abuse, or other violations, and ensuring timely review, response, and
+200                      appropriate remedial action;
+201            (vi)      Transparency. - Publishing clear, accessible, and age-appropriate Terms of Service,
+202                      Community Standards, and Privacy Notices that explain platform rules, moderation
+203                      practices, and data processing affecting children and adolescents;
+204            (vii)     Human Oversight. - Ensuring that automated content moderation and decision-
+205                      making systems are subject to meaningful human review, particularly where decisions
+206                      significantly affect the rights, safety, or access of children and adolescents; and
+207           (viii)    Stakeholder Consultation. - Regularly consulting child development specialists,
+208                     educators, healthcare professionals, parents, youth representatives, child rights
+209                     organizations, and other relevant civil society organizations in the development,
+210                     implementation, and periodic evaluation of child safety policies, risk mitigation
+211                     measures, and digital well-being initiatives.
+
+212                                   ARTICLE III
+213            DIGITAL WELL-BEING, GADGET REGULATION, AND CHILD SUPPORT
+
+214     SEC. 10. Regulation of Gadget Use in Home and Community Settings. - The regulation of electronic
+215   gadget use by children outside school premises shall primarily recognize the constitutional rights and
+216   responsibilities of parents and legal guardians while promoting healthy child development through
+217   education, voluntary participation, and community support. Implementation shall be guided by the
+218   following framework:
+
+219      (a) Children Five (5) Years Old and Below. - For children five (5) years of age and below, including
+220          those not yet enrolled in school or outside school hours, guidance on age-appropriate gadget use
+221          shall be undertaken by the ECCD Council, in coordination with the DOH the CWC, and LGUs
+222          through their:
+223
+224               ●    Barangay Health Workers (BHWs);
+225               ●    Barangay Child Development Workers (BCDWs);
+226               ●    Child Development Centers; and
+227               ●    LCPCs.
+
+228      Such guidance shall focus on healthy child development, responsive caregiving, parent education,
+229   developmental milestones, and responsible screen use.
+
+230      (b) Children Six (6) Years Old to Eighteen (18) Years Old. - For children six (6) years of age up to
+231          eighteen (18) years of age outside school hours, implementation shall be coordinated by the
+232          Department of the Interior and Local Government (DILG) through the LGUs, in coordination
+233          with:
+234
+235           (i)      DOH;
+236           (ii)     DSWD;
+237           (iii)    DICT;
+238           (iv)     CWC;
+239           (v)      LCPCs;
+240           (vi)     BCPCs;
+241           (vii)    BHWs;
+242           (viii)   BCDWs; and
+243           (ix)     Accredited civil society organizations.
+
+244      Programs shall promote balanced gadget use, digital wellness, mental health, online safety,
+245   cyberbullying prevention, responsible gaming, and healthy family digital practices.
+
+246      (c) Home-Based Guidance. Parents, legal guardians, and caregivers shall remain the primary
+247          decision-makers regarding children's gadget use within the home.
+248      (d) Government agencies shall provide educational guidance and support without imposing intrusive
+249          monitoring or compulsory household inspections.
+250      SEC. 11 Regulation of Gadget Use in Educational Institutions. - All public and private basic
+251   education institutions shall establish age-appropriate policies governing the possession and use of
+252   electronic gadgets within school premises and during school-authorized activities.
+
+253       The Department of Education (DepEd), in consultation with the DICT, DOH, ECCD Council, CWC,
+254   teachers' organizations, Parents–Teachers Associations (PTAs), School Governing Councils (SGCs),
+255   school administrators, and child development experts, shall prescribe uniform minimum standards
+256   covering:
+
+257      (a) permitted classroom use;
+258      (b) prohibited use during instructional hours;
+259      (c) digital well-being policies;
+260      (d) responsible use of educational technologies;
+261      (e) procedures for temporary confiscation, safekeeping, documentation, and return of electronic
+262          gadgets when school rules are violated;
+263      (f) immediate notification of parents or guardians following confiscation; and
+264      (g) protection against loss, theft, or damage while gadgets remain under school custody.
+
+265      Nothing in this Act shall prohibit the use of school-owned digital equipment utilized for officially
+266   approved instructional, research, assessment, or assistive learning purposes under the direct supervision
+267   of teachers.
+
+268      SEC. 12. Permitted Use of Electronic Gadgets. Notwithstanding the age-based recommendations
+269   under this Act, children may use electronic gadgets under the following circumstances:
+
+270      (a) participation in supervised educational activities approved by schools or educational institutions;
+271      (b) use of assistive technologies for children with disabilities, developmental conditions, or special
+272          educational needs;
+273      (c) telemedicine, health monitoring, psychological counseling, or medically necessary healthcare
+274          services;
+275      (d) emergency communication;
+276      (e) supervised voice or video communication with parents, guardians, or immediate family members;
+277      (f) access to government services, emergency information, or public safety announcements;
+278      (g) officially sanctioned extracurricular, academic, cultural, or civic activities; and
+279      (h) such other circumstances as may be determined by the implementing agencies, provided that the
+280          use remains consistent with the developmental needs and best interests of the child.
+
+281       SEC. 13. Safeguards for Privacy, Family Autonomy, and Home Sanctity. - The implementation of
+282   this Act shall at all times respect the constitutional rights of parents and families, including the privacy
+283   of the home and the primary right and duty of parents in the upbringing and development of their children.
+284   Accordingly:
+
+285      (a) all home-based digital wellness activities shall be voluntary, educational, and supportive in
+286          nature;
+287      (b) no provision of this Act shall authorize warrantless entry into private residences or intrusive
+288          surveillance of household digital practices;
+289      (c) participation in Digital Wellness Pledges, family screen-time programs, parenting seminars, or
+290          home-based digital wellness initiatives shall be entirely voluntary;
+291      (d) all personal information collected under this Act shall be treated as confidential and processed in
+292          accordance with Republic Act No. 10173; and
+293      (e) all government interventions under this Act shall prioritize parental empowerment, child
+294          development, education, counseling, and voluntary compliance rather than punitive enforcement
+295          against parents or caregivers.
+
+296                                  ARTICLE IV
+297       DIGITAL LITERACY, PARENTAL SUPPORT, AND COMMUNITY ENGAGEMENT
+
+298      SEC. 14. Integration of Digital Literacy and Online Safety in Education. - The Department of
+299   Education (DepEd), in collaboration with the DICT, DOH, Commission on Higher Education (CHED),
+300   (ECCD)Council, and CWC), shall integrate digital literacy, media and information literacy, cyber ethics,
+301   responsible digital citizenship, data privacy, and online safety into the basic education curriculum, teacher
+302   education, and continuing professional development programs. Such integration shall include:
+303       (a) age-appropriate instruction on responsible internet use, fact-checking, digital citizenship, and
+304           respectful online behavior;
+305       (b) awareness of cyberbullying, online grooming, online sexual exploitation, scams, misinformation,
+306           disinformation, and other online harms;
+307       (c) practical instruction on privacy protection, cybersecurity, digital well-being, and healthy screen-
+308           time management;
+309       (d) responsible and ethical use of artificial intelligence and emerging digital technologies;
+310       (e) training materials for teachers, school administrators, guidance counselors, parents, and
+311           caregivers; and
+312       (f) periodic review of instructional materials to ensure consistency with evolving technologies and
+313           evidence-based child development standards.
+
+314                                           ARTICLE V
+315                                  ADMINISTRATION ENFORCEMENT
+
+316       SEC. 15. Lead Implementing Agency and National Coordination. - The DICT shall serve as the
+317   lead implementing agency of this Act. It shall formulate national policies, establish technical and
+318   operational standards, monitor compliance, coordinate inter-agency implementation, conduct compliance
+319   audits, issue advisory guidelines, and oversee the effective implementation and enforcement of this Act.
+
+320       To ensure a coordinated and whole-of-government approach, the following agencies shall perform
+321   the functions consistent with their respective mandates:
+
+322      (a) DICT - Serve as the lead agency responsible for policy formulation, implementation, monitoring,
+323          accreditation of age-assurance systems, compliance audits, digital platform regulation, public
+324          awareness campaigns, capacity-building programs, and overall enforcement coordination.
+325      (b) DOH - Conduct research and issue evidence-based recommendations on the physical, cognitive,
+326          emotional, psychosocial, and developmental effects of children's use of digital platforms and
+327          electronic gadgets. The DOH shall formulate public health guidelines on healthy screen use,
+328          digital well-being, and child development.
+329      (c) DepEd - Integrate digital literacy, cyber ethics, online safety, responsible digital citizenship, and
+330          digital well-being into the basic education curriculum. DepEd shall likewise issue policies
+331          governing the responsible use of electronic gadgets in schools, provide teacher training, and
+332          coordinate with parents, PTAs, and school administrators in implementing this Act.
+333      (d) DSWD - Develop family-oriented interventions, parental education programs, counseling
+334          services, and community-based child protection initiatives. The DSWD shall assist children and
+335          families affected by online harms and coordinate social welfare interventions with LGUs.
+336      (e) DILG - Supervise and monitor the implementation of this Act by LGUs strengthen local child
+337          protection mechanisms, and ensure that LGUs establish community-based digital wellness and
+338          online safety programs.
+339      (f) ECCD Council - Lead the implementation of age-appropriate digital wellness programs for
+340          children from birth to five (5) years of age by developing parenting resources, early childhood
+341          interventions, and guidance promoting healthy child development and responsible screen
+342          exposure.
+343      (g) CWC - Ensure that all policies and programs implemented under this Act remain consistent with
+344          the best interests of the child and the Philippine Child Protection Framework. The CWC shall
+345          coordinate child rights advocacy, stakeholder engagement, and policy monitoring.
+346      (h) NTC - Assist in monitoring digital platform operators and telecommunications entities, ensure
+347          compliance with lawful directives issued pursuant to this Act, and coordinate with the DICT in
+348          enforcing regulations involving electronic communications services.
+349      (i) NPC. - Ensure compliance with Republic Act No. 10173, otherwise known as the Data Privacy
+350          Act of 2012, particularly in relation to age-assurance systems, processing of children's personal
+351          data, and privacy-preserving technologies.
+352      (j) CHED - Promote digital literacy, online safety, cybersecurity awareness, and responsible digital
+353          citizenship programs in higher education institutions, including teacher education institutions.
+354      (k) Presidential Communications Office (PCO). - Lead nationwide information and advocacy
+355          campaigns to promote public awareness on responsible digital engagement, child online
+356          protection, digital wellness, and the objectives of this Act.
+
+357      The DICT shall establish an Inter-Agency Committee on Digital Platform Safety and Child Online
+358   Protection, composed of representatives from the agencies identified in this Section and such other
+359   agencies as may be necessary. The Committee shall coordinate implementation, facilitate information
+360   sharing, recommend policy improvements, monitor implementation, and submit an annual report to
+361   Congress on the implementation and effectiveness of this Act.
+
+362       SEC. 16. Local Implementation Framework. - The implementation of this Act at the local level
+363   shall be undertaken by the LGUs through a coordinated and community-based approach involving the
+364   LCPCs, BCPCs, Local School Boards, City or Municipal Social Welfare and Development Offices, Local
+365   Health Offices, BHs), BCDWs, educational institutions, Parents–Teachers Associations (PTAs), SGCs,
+366   civil society organizations, professional associations, and other community stakeholders.
+
+367      The LCPC shall serve as the principal coordinating body for the local implementation of this Act at
+368   the barangay, municipal, city and provincial levels and shall ensure the integration of child online
+369   protection, digital wellness, and responsible technology use into existing local child protection programs.
+370   For this purpose:
+
+371      (a) LGUs shall allocate appropriate financial and material resources for community-based digital
+372          literacy campaigns, and coordinate with national government agencies in monitoring and
+373          evaluating compliance with this Act.
+374      (b) LCPCs shall coordinate all child online protection initiatives within their jurisdiction, convene
+375          stakeholder consultations, monitor emerging digital risks affecting children, and recommend
+376          local policies and interventions.
+377      (c) BCPCs shall promote awareness activities at the barangay level, assist in identifying children
+378          requiring appropriate intervention, and support community-based digital wellness initiatives.
+379      (d) City or Municipal Social Welfare and Development Offices shall provide counseling, case
+380          management, referral services, and family interventions for children exposed to online
+381          exploitation, cyberbullying, digital addiction, or other online harms.
+382      (e) Local Health Offices, BHWs, and BCDWs shall conduct community education on healthy
+383          screen use, child development, mental health, and responsible gadget use, particularly for young
+384          children and their parents or caregivers.
+385      (f) Local School Boards, Schools, Teachers, and School Administrators shall implement school-
+386          based digital literacy and online safety programs, enforce school policies on gadget use,
+387          coordinate with parents and PTAs, and promote responsible digital engagement among learners.
+388      (g) PTAs and SGCs shall support schools in promoting responsible digital citizenship, organize
+389          parent education activities, encourage family participation in digital wellness programs, and
+390          strengthen school-community partnerships.
+391      (h) Civil Society Organizations, Professional Associations, Academic Institutions, Youth
+392          Organizations, Faith-Based Organizations, and Other Stakeholders shall assist in research,
+393          advocacy, capacity-building, community education, policy consultations, and the development
+394          of innovative programs that advance child online safety and digital well-being.
+
+395      Local implementation under this Act shall emphasize education, prevention, capacity-building,
+396   stakeholder collaboration, and voluntary family participation, while respecting parental authority,
+397   children's rights, and the privacy of the home. Community-based activities shall be advisory and
+398   supportive in nature and shall not authorize compulsory household inspections or intrusive monitoring of
+399   families.
+
+400       SEC. 17. School-Based Implementation. - Public and private educational institutions shall implement
+401   this Act through:
+
+402      (a) school administrators;
+403      (b) Teachers;
+404      (c) guidance counselors;
+405      (d) PTAs;
+406      (e) SGCs;
+407      (f) Student organizations; and
+408      (g) other appropriate school officials.
+
+409      Schools shall:
+
+410       (a) implement age-appropriate gadget-use policies;
+411       (b) conduct digital literacy and online safety activities;
+412       (c) provide counseling and intervention programs for learners affected by online harms;
+413       (d) orient parents regarding responsible digital engagement;
+414       (e) ensure safe educational use of digital technologies; and
+415       (f) coordinate with the LCPCs and local government units when necessary.
+416
+417      SEC. 19. Home and Community Implementation. - Implementation within the home shall recognize
+418   that parents and legal guardians have the primary responsibility for guiding children's digital engagement.
+419   Participation in home-based digital wellness initiatives shall remain voluntary.
+
+420     For children from birth to five (5) years of age, the ECCD Council, together with the DOH, LGUs,
+421   BHWs, and BCDWs, shall provide developmental guidance and parent education.
+
+422      For children six (6) years of age until below eighteen (18) years of age, LGUs, LCPCs, schools,
+423   community organizations, and relevant government agencies shall provide continuing education on
+424   healthy gadget use, digital wellness, cyber safety, and responsible online behavior.
+425        No provision of this Act shall authorize compulsory household inspections or intrusive monitoring
+426   of private homes.
+
+427        SEC. 20 Incentives and Recognition Programs. - To encourage responsible digital engagement,
+428   promote child online safety, and recognize exemplary compliance with this Act, the DICT, in
+429   collaboration with the DepEd, DOH, DSWD, DILG, ECCD Council, CWC, NT), NP), LGU), LCPC),
+430   and other concerned agencies, shall establish a National Digital Wellness Awards and Recognition
+431   Program. The Program shall recognize outstanding initiatives and best practices in promoting responsible
+432   digital citizenship, child online protection, digital literacy, and healthy technology use. Awards and
+433   incentives may include, but shall not be limited to:
+434
+435      (a) Digital Wellness Champion School Award shall be conferred upon public or private
+436          educational institutions that demonstrate exemplary implementation of digital literacy programs,
+437          responsible gadget-use policies, child online safety initiatives, and parent engagement activities.
+438      (b) Child Online Safety Champion LGU Award shall be conferred upon provinces, cities,
+439          municipalities, or barangays that establish innovative and effective community-based programs
+440          promoting child online protection, digital wellness, and responsible technology use.
+441      (c) Outstanding Local Council for the Protection of Children (LCPC) Award shall be granted
+442          to LCPCs that successfully integrate digital safety, online child protection, and digital wellness
+443          into local child protection programs.
+444      (d) Digital Wellness Educator Award shall be granted to teachers, school heads, guidance
+445          counselors, and education personnel who demonstrate excellence in promoting responsible
+446          digital citizenship and online safety among learners.
+447      (e) Responsible Digital Parenting Award shall be granted to Parents–Teachers Associations
+448          (PTAs), parent organizations, and community-based family support groups that actively promote
+449          healthy digital habits and child online safety.
+450      (f) Youth Digital Citizenship Leadership Award shall be granted to children, adolescents, youth
+451          organizations, or student leaders who demonstrate exemplary leadership in promoting
+452          responsible technology use, peer education, digital literacy, online safety, and positive digital
+453          engagement.
+454      (g) Digital Platform Child Safety Excellence Award shall be granted to covered digital platform
+455          operators that consistently demonstrate outstanding compliance with the child safety, privacy,
+456          transparency, age-assurance, and duty-of-care obligations established under this Act.
+457      (h) Community Digital Wellness Innovation Award shall granted to civil society organizations,
+458          academic institutions, healthcare organizations, professional associations, faith-based
+459          organizations, and other stakeholders that develop innovative and evidence-based programs
+460          advancing digital wellness and child online protection.
+
+461                                                   ARTICLE VI
+462                                                FINAL PROVISIONS
+
+463      SEC. 21. Periodic Review. - The DICT, in coordination with the DOH, DepEd, DILG, DSWD, ECCD
+464   Council, CWC, NTC, NPC, CHED, LGUs, LCPCs, and other concerned agencies and stakeholders, shall
+465   conduct a comprehensive review of the implementation and effectiveness of this Act every two (2) years.
+466
+467      Such review shall assess the effectiveness of age-appropriate regulations, child online safety measures,
+468   digital literacy initiatives, platform accountability mechanisms, and enforcement strategies, taking into
+469   consideration emerging technologies, scientific and pediatric evidence, international best practices, and
+470   evolving educational approaches. The DICT shall submit the results of such review, together with
+471   recommendations for legislative or policy amendments, to Congress.
+472        SEC. 23. Implementing Rules and Regulations. - Within ninety (90) days from the effectivity of
+473   this Act, the DICT shall, in coordination with the all concerned government agencies with their mandates
+474   under this Act, promulgate the necessary implementing rules and regulations for the effective
+475   implementation and enforcement of this Act.
+
+476       The DICT shall also conduct consultations with parents, children and youth organizations, teachers'
+477   associations, PTAs, SGCs, civil society organizations, professional associations, digital platform
+478   providers, academic institutions, healthcare professionals, and other relevant stakeholders to ensure that
+479   the implementing rules are evidence-based, child-centered, and responsive to technological
+480   developments.
+
+481      SEC. 24. Separability Clause. If any provision of this Act is declared unconstitutional or invalid, the
+482   remaining provisions not affected thereby shall continue to be in full force and effect.
+
+483      SEC. 25. Repealing Clause. All laws, decrees, executive orders, proclamations, administrative
+484   issuances, rules and regulations, or parts thereof inconsistent with the provisions of this Act are hereby
+485   repealed, amended, or modified accordingly.
+
+486      SEC. 26. Effectivity. This Act shall take effect fifteen (15) days after its publication in the Official
+487   Gazette or in at least one (1) newspaper of general circulation.
+
+488   Approved,
+

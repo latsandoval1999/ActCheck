@@ -1,0 +1,428 @@
+                                               Republic of the Philippines
+                                             HOUSE OF REPRESENTATIVES
+                                               Quezon City, Metro Manila
+                                                                                       August 24, 2026
+                                                   TWENTIETH CONGRESS                     2:56 pm
+                                                    Second Regular Session
+
+                                                                10887
+                                               HOUSE BILL NO. ___________
+
+
+                          Introduced by Representative AGATHA “AGAY” CRUZ
+
+
+                                                    EXPLANATORY NOTE
+
+      A loan application can now be completed in minutes. Unfortunately, so can the
+harassment that follows it.
+
+       Online lending has made credit faster and more accessible to Filipinos who may
+otherwise have difficulty obtaining funds through traditional channels. The Bangko
+Sentral ng Pilipinas’ 2025 Consumer Finance and Inclusion Survey found that one in four
+Filipino adults had outstanding loans and noted the growing reach of online lending
+platforms. The same survey found that speed of loan processing and approval is among
+the foremost considerations of borrowers. Speed and convenience clearly matter to
+borrowers, but convenience should not come at the cost of fairness, privacy, or dignity.
+
+       In March 2026, the Department of Information and Communications Technology,
+National Privacy Commission, and Securities and Exchange Commission jointly warned
+of reports involving online lending platforms engaged in harassment, intimidation, public
+shaming, and unlawful use of personal data.1 The advisory reiterated prohibitions against
+unnecessary access to borrowers’ contact lists, contacting persons other than lawful
+guarantors for debt collection, and using personal data for threatening or unfair collection
+practices.
+
+       Technology has changed not only how quickly people may borrow, but also how
+much information a lender may attempt to obtain and how easily pressure may be exerted
+on a borrower. A delinquent loan should not turn a borrower’s contact list into a collection
+directory, a family group chat into a public notice board, or a mobile phone into an
+instrument of humiliation. A debt is an obligation to pay; it is not a surrender of dignity,
+privacy, or basic rights.
+
+       This bill establishes durable minimum protections for online borrowers without
+attempting to legislate every technical detail of a rapidly evolving industry. It requires
+clear disclosure and affirmative acceptance of loan terms; promotes responsible lending;
+
+1   Joint Public Advisory on Online Lending Platforms (OLPs) issued on 18 March 2026
+prohibits undisclosed, excessive, fictitious, and circumvention-based charges; protects
+borrowers against unnecessary and disproportionate access to personal data; and
+prohibits harassment, public shaming, false threats, deceptive collection, and demands
+for payment from persons who never assumed the debt.
+
+      This measure likewise ensures that lenders cannot avoid accountability by
+outsourcing collection or other functions, and extends the core prohibitions to
+unauthorized online lenders.
+
+       Online lending has made borrowing possible with a few taps on a screen. Our laws
+must ensure that those few taps do not open the door to hidden charges, harassment, or
+misuse of a person’s private life. Credit may be digital, but the rights on the other side of
+the screen remain decidedly human.
+
+       In view of the foregoing, the immediate enactment of this bill is earnestly sought.
+
+
+
+
+                                                  AGATHA “AGAY” CRUZ
+                                      Representative, Fifth Legislative District of Bulacan
+                                    Republic of the Philippines
+                                  HOUSE OF REPRESENTATIVES
+                                          Quezon City
+
+                                       TWENTIETH CONGRESS
+                                        Second Regular Session
+
+                                                     10887
+                                    HOUSE BILL NO. ___________
+
+
+                     Introduced by Representative AGATHA “AGAY” CRUZ
+
+
+                                 AN ACT
+        PROTECTING BORROWERS FROM UNFAIR, DECEPTIVE, ABUSIVE, AND
+        PREDATORY ONLINE LENDING PRACTICES, ESTABLISHING MINIMUM
+        STANDARDS FOR ONLINE LENDING AND DIGITAL DEBT COLLECTION,
+        STRENGTHENING ENFORCEMENT AGAINST UNAUTHORIZED ONLINE
+               LENDING PLATFORMS, AND FOR OTHER PURPOSES
+
+            Be it enacted by the Senate and the House of Representatives of the Philippines in Congress
+     assembled:
+
+ 1          Section 1. Short Title. – This Act shall be known as the “Fair Online Lending Act.”
+ 2
+ 3          Section 2. Declaration of Policy. – It is the policy of the State to promote
+ 4   responsible and inclusive access to credit while protecting borrowers from unfair,
+ 5   deceptive, abusive, and predatory online lending practices.
+ 6
+ 7          Towards this end, the State shall promote transparency, responsible lending and
+ 8   pricing, data privacy and security, fair debt collection, effective consumer redress, and
+ 9   accountability of lenders and their service providers, while enabling legitimate innovation
+10   and access to credit.
+11
+12          Section 3. Definition of Terms. – As used in this Act:
+13
+14          (a) Borrower refers to a natural person who applies for or obtains a loan through
+15              an Online Lending Platform;
+16
+17          (b) Collection Agent refers to any natural or juridical person engaged by or acting
+18              on behalf of an Online Lender or Unauthorized Online Lender to collect or
+19              recover a loan obligation or communicate with a Borrower for such purpose;
+20
+21          (c) Online Lender refers to a financing company or lending company authorized by
+22              law to extend credit and which offers or administers loans through an Online
+
+
+
+                                                                             FAIR ONLINE LENDING ACT | 1
+ 1              Lending Platform;
+ 2
+ 3          (d) Online Lending Platform (OLP) refers to a mobile application, website, digital
+ 4              interface, or other financial technology-enabled platform through which a
+ 5              Borrower may apply for, obtain, manage, repay, or otherwise transact in
+ 6              relation to a loan;
+ 7
+ 8          (e) Third-Party Service Provider (TPSP) refers to any person or entity engaged by an
+ 9              Online Lender to perform or facilitate any material activity relating to the
+10              offering, processing, servicing, or collection of a loan; and
+11
+12          (f) Unauthorized Online Lender refers to any natural or juridical person that engages
+13              in, or holds itself out as engaging in, the business of extending credit to the
+14              public through digital means without the registration, Certificate of Authority,
+15              or other authorization required by law.
+16
+17          Section 4. Scope and Coverage. – This Act shall apply to financing companies and
+18   lending companies under the supervision of the Securities and Exchange Commission
+19   (SEC), their OLPs, and their TPSPs.
+20
+21          An Online Lender shall comply with the affirmative regulatory duties under
+22   Sections 6 and 7 of this Act. The prohibitions under such Sections shall likewise apply to
+23   an Unauthorized Online Lender. The other borrower protections and prohibitions under
+24   this Act shall apply to an Unauthorized Online Lender and to persons acting on its behalf
+25   whenever expressly so provided.
+26
+27           This Act shall apply when an online loan is marketed, offered, extended, serviced,
+28   or collected in the Philippines, or when the Borrower resides in the Philippines, subject to
+29   applicable rules on jurisdiction and enforcement.
+30
+31          Section 5. Authority to Engage in Online Lending. – No person shall engage in, or
+32   hold itself out as engaging in, the business of extending credit to the public through an
+33   OLP without the authority required by law.
+34
+35          No financing company or lending company shall operate or use an OLP unless it
+36   possesses a valid Certificate of Authority and complies with applicable SEC requirements
+37   governing OLPs.
+38
+39         Every OLP shall clearly identify the financing company or lending company
+40   responsible for the loan and provide sufficient information to enable a prospective
+41   Borrower to verify its authority to operate.
+42
+43          The SEC shall maintain and make publicly accessible an updated registry of duly
+44   authorized financing companies and lending companies, together with the OLPs
+
+
+
+                                                                         FAIR ONLINE LENDING ACT | 2
+ 1   registered, recorded, disclosed, or otherwise recognized by the SEC in accordance with
+ 2   applicable rules.
+ 3
+ 4          Section 6. Disclosure and Affirmative Acceptance of Loan Terms. – In addition to
+ 5   the disclosures required under Republic Act No. 3765, otherwise known as the “Truth in
+ 6   Lending Act,” and other applicable laws, an Online Lender shall, before a Borrower
+ 7   becomes bound by an online loan, clearly disclose the material terms of the transaction,
+ 8   including:
+ 9          (a) The principal amount of the loan;
+10          (b) The amount actually receivable by the Borrower after authorized deductions;
+11          (c) The applicable interest rate;
+12          (d) All fees, charges, deductions, and other costs;
+13          (e) The total amount payable;
+14          (f) The payment schedule; and
+15          (g) The applicable penalties or charges for late payment or nonpayment.
+16
+17          The disclosures shall be presented in plain and readily understandable language.
+18
+19          An Online Lender shall furnish the Borrower a copy of the final loan agreement
+20   and applicable disclosure statement in a form that may be retained or subsequently
+21   accessed.
+22
+23          No loan shall be consummated or disbursed without the Borrower’s affirmative
+24   acceptance of the final loan amount and material terms. Silence, inactivity, pre-selected
+25   consent, continued use of an application, or any other act that does not clearly manifest
+26   affirmative acceptance shall not constitute such acceptance.
+27
+28           Section 7. Responsible Lending and Loan Administration. – An Online Lender
+29   shall adopt reasonable and proportionate measures to assess a Borrower’s ability to repay
+30   and to prevent irresponsible lending and over-indebtedness, consistent with Republic Act
+31   No. 11765, otherwise known as the “Financial Products and Services Consumer Protection
+32   Act,” and applicable regulations.
+33
+34          An Online Lender shall disclose the resulting obligation and its material terms
+35   before any renewal, refinancing, rollover, or restructuring of a loan.
+36
+37          It shall be unlawful to:
+38          (a) Increase an approved loan amount or credit limit, or disburse an amount in
+39              excess of that affirmatively accepted by the Borrower, without the Borrower’s
+40              separate affirmative acceptance;
+41          (b) Automatically renew, roll over, refinance, or restructure a loan without the
+42              Borrower’s prior, informed, and affirmative consent; or
+43          (c) Structure a loan or series of transactions for the purpose of evading an
+44              applicable interest-rate, fee, penalty, or total-cost ceiling.
+
+
+
+                                                                       FAIR ONLINE LENDING ACT | 3
+ 1
+ 2          Section 8. Interest, Fees, Charges, and Penalties. – All interest, fees, charges,
+ 3   penalties, and other amounts imposed in connection with an online loan shall comply
+ 4   with applicable laws and regulations.
+ 5
+ 6         No Online Lender or Unauthorized Online Lender shall demand, collect, or receive
+ 7   any amount that:
+ 8         (a) Was not disclosed and agreed upon as required by law or is not otherwise
+ 9             lawfully imposable;
+10         (b) Exceeds an applicable statutory or regulatory ceiling;
+11         (c) Is false, fictitious, duplicative, or unrelated to a legitimate cost or service; or
+12         (d) Is structured, recharacterized, divided, transferred, or otherwise imposed for
+13             the purpose of circumventing an applicable ceiling or consumer protection
+14             requirement.
+15
+16          Pursuant to the Financial Products and Services Consumer Protection Act, the SEC
+17   may determine the reasonableness of interest charges, fees, penalties, and other loan costs
+18   within its jurisdiction and prescribe appropriate regulatory measures in accordance with
+19   law.
+20
+21          Section 9. Data Privacy and Protection Against Abusive Use of Personal Data. –
+22   An Online Lender, Unauthorized Online Lender, TPSP, Collection Agent, or person acting
+23   on behalf of any of them shall process personal information and sensitive personal
+24   information in accordance with Republic Act No. 10173, otherwise known as the “Data
+25   Privacy Act of 2012,” and applicable rules of the NPC.
+26
+27           No such person or entity shall require or obtain unnecessary, disproportionate,
+28   bulk, or indiscriminate access to a Borrower’s contact list, address book, call logs, private
+29   messages, photographs, media files, social media contacts, or similar information stored
+30   in or accessible through the Borrower’s device or account.
+31
+32          Personal information or sensitive personal information obtained from any source
+33   shall not be used for harassment, public shaming, reputational pressure, or unlawful
+34   disclosure of a Borrower’s indebtedness.
+35
+36          A person identified merely as a character reference shall not become liable for the
+37   Borrower’s debt. No person shall be treated as a guarantor, surety, co-maker, or other
+38   person liable for the obligation unless such person has separately and expressly assumed
+39   such liability in accordance with law.
+40
+41          Section 10. Fair Debt Collection. – An Online Lender, Unauthorized Online
+42   Lender, TPSP, Collection Agent, or person acting on behalf of any of them shall employ
+43   only reasonable and lawful means to collect an obligation and shall respect the dignity,
+44   privacy, and lawful rights of the Borrower and other persons contacted in connection with
+
+
+
+                                                                          FAIR ONLINE LENDING ACT | 4
+ 1   the debt.
+ 2
+ 3          The following acts are prohibited:
+ 4          (a) Using or threatening violence, physical harm, unlawful restraint, or damage to
+ 5              property;
+ 6          (b) Using obscene, insulting, degrading, or abusive language intended or
+ 7              reasonably likely to harass, humiliate, or intimidate a Borrower or other
+ 8              person;
+ 9          (c) Threatening arrest, criminal prosecution, imprisonment, seizure of property,
+10              or any other action that has no lawful basis, or falsely representing that such
+11              consequence will automatically result from mere nonpayment of a debt;
+12          (d) Falsely representing oneself as a court, law enforcement officer, government
+13              official, lawyer, or other person possessing authority that the collector does not
+14              possess;
+15          (e) Creating or using any document or communication falsely made to appear to
+16              have been issued by a court, law enforcement agency, government office, or
+17              other public authority;
+18          (f) Publishing or threatening to publish a Borrower’s identity, personal
+19              information, loan information, or alleged delinquency for the purpose of, or
+20              with the reasonably foreseeable effect of, shaming, humiliating, harassing,
+21              intimidating, or coercing the Borrower;
+22          (g) Disclosing the existence or details of a Borrower’s debt to any person who is
+23              not legally liable for the obligation, except when required or authorized by law;
+24          (h) Demanding payment from a character reference or any person who has not
+25              legally assumed liability for the debt;
+26          (i) Contacting a Borrower or other person repeatedly, excessively, or at
+27              unreasonable hours in a manner intended or reasonably likely to constitute
+28              harassment or abuse;
+29          (j) Making a false representation or employing a deceptive means to collect or
+30              attempt to collect a debt;
+31          (k) Collecting or attempting to collect any amount not lawfully due; or
+32          (l) Using personal data or device access in violation of this Act or applicable data
+33              privacy laws.
+34
+35          Nothing in this Section shall prevent a lender or its representative from truthfully
+36   informing a Borrower of lawful remedies available for the collection of an obligation or
+37   from commencing an action or proceeding authorized by law.
+38
+39          Section 11. Responsibility for Third-Party Service Providers. – The engagement
+40   of a TPSP shall not relieve an Online Lender of any responsibility or liability imposed
+41   under this Act or other applicable laws.
+42
+43          The responsibility and liability of an Online Lender for the acts or omissions of its
+44   directors, officers, employees, agents, and TPSPs shall be governed by the Financial
+
+
+
+                                                                         FAIR ONLINE LENDING ACT | 5
+ 1   Products and Services Consumer Protection Act and other applicable laws.
+ 2
+ 3          An Online Lender shall not avoid or diminish any responsibility or liability
+ 4   imposed by law through outsourcing, delegation, contractual allocation of functions, or
+ 5   the use of an affiliate or third party.
+ 6
+ 7           Section 12. Non-Waiver of Borrower Rights. – Any agreement, consent, waiver,
+ 8   authorization, acknowledgment, or stipulation that waives, limits, defeats, or circumvents
+ 9   a right or protection granted to a Borrower under this Act shall be void and unenforceable
+10   to that extent.
+11
+12         Section 13. Consumer Complaints and Redress. – Every Online Lender shall
+13   provide an accessible mechanism for receiving and resolving Borrower complaints.
+14
+15          Complaints and claims within the jurisdiction of the SEC shall be handled in
+16   accordance with the consumer redress, adjudication, reimbursement, disgorgement, and
+17   other enforcement powers granted to the SEC under the Financial Products and Services
+18   Consumer Protection Act and other applicable laws.
+19
+20          For purposes of enforcing this Act, the SEC shall have jurisdiction over
+21   Unauthorized Online Lenders with respect to administrative violations of this Act and
+22   may, after notice and opportunity to be heard, order the refund, restitution, crediting, or
+23   disgorgement of amounts unlawfully obtained or collected from Borrowers. Purely civil
+24   claims shall remain subject to the applicable monetary and jurisdictional limits prescribed
+25   under the Financial Products and Services Consumer Protection Act and other applicable
+26   laws.
+27
+28          The SEC may order the remedies provided under Section 16 of this Act, together
+29   with such restitution, disgorgement, or other relief as it may lawfully grant.
+30
+31         No Borrower shall recover more than once for the same injury or amount
+32   unlawfully collected.
+33
+34          Section 14. Enforcement Against Unauthorized Online Lending. – Upon a finding
+35   that a person or entity is engaging in online lending without the authority required by
+36   law, the SEC may issue a cease-and-desist order.
+37
+38           Pursuant to a final or otherwise enforceable order, the SEC may require, or seek
+39   the assistance of, application marketplaces, digital distribution platforms, payment
+40   service providers, advertising platforms, and other intermediaries to discontinue services
+41   that directly enable the operation of an Unauthorized Online Lender, subject to applicable
+42   law and the jurisdiction of the appropriate regulator.
+43
+44          Any measure under this Section shall be reasonably necessary and limited to the
+
+
+
+                                                                        FAIR ONLINE LENDING ACT | 6
+ 1   identified unlawful lending activity.
+ 2
+ 3          Section 15. Administrative Enforcement and Other Liabilities. – For violations of
+ 4   this Act, the SEC may exercise the enforcement powers and impose the administrative
+ 5   sanctions authorized under the Financial Products and Services Consumer Protection Act,
+ 6   the Financing Company Act of 1998, as amended, the Lending Company Regulation Act
+ 7   of 2007, as amended, Republic Act No. 11232, otherwise known as the “Revised
+ 8   Corporation Code of the Philippines,” and other applicable laws.
+ 9
+10          Where an act constitutes an offense or violation under the Data Privacy Act of 2012,
+11   Republic Act No. 10175, otherwise known as the “Cybercrime Prevention Act of 2012,”
+12   the Revised Penal Code, or any other law, the SEC may refer the matter to the appropriate
+13   government agency for investigation, prosecution, or other appropriate action.
+14
+15         Administrative liability under this Act shall be without prejudice to civil or
+16   criminal liability under applicable laws.
+17
+18          Section 16. Effect of Unlawful Charges and Practices. – Any interest, fee, charge,
+19   penalty, or other amount imposed or collected in violation of an applicable ceiling or
+20   prohibition shall be void to the extent of the unlawful or excessive amount.
+21
+22           Any amount unlawfully collected shall, as appropriate, be credited against the
+23   Borrower’s outstanding lawful obligation or refunded to the Borrower, without prejudice
+24   to restitution, disgorgement, or other relief available under law.
+25
+26          In the case of a loan lawfully extended by an authorized lender, the invalidity of
+27   an unlawful interest, fee, charge, penalty, collection practice, or contractual stipulation
+28   shall not, by itself, extinguish the Borrower’s obligation to repay the principal actually
+29   received and any other amounts lawfully due.
+30
+31          Nothing in this Section shall validate an unauthorized lending operation or confer
+32   upon an Unauthorized Online Lender a right to recover that it would not otherwise
+33   possess under existing law.
+34
+35           Section 17. Interagency Coordination. – The SEC shall coordinate with the BSP,
+36   Department of Information and Communications Technology, NPC, Department of
+37   Justice, National Bureau of Investigation, Philippine National Police, Cybercrime
+38   Investigation and Coordinating Center, and other concerned agencies for the effective
+39   enforcement of this Act, particularly against Unauthorized Online Lenders and cross-
+40   border online lending operations.
+41
+42            Section 18. Implementing Rules and Regulations. – Within ninety (90) days from
+43   the effectivity of this Act, the SEC shall promulgate the rules and regulations necessary
+44   for its implementation.
+
+
+
+                                                                        FAIR ONLINE LENDING ACT | 7
+ 1
+ 2          Rules involving matters within the statutory jurisdiction of the BSP or NPC shall
+ 3   be formulated in coordination with the respective agency.
+ 4
+ 5           Section 19. Separability Clause. – If any part or provision of this Act is held
+ 6   unconstitutional or invalid, the remainder thereof not otherwise affected shall remain in
+ 7   full force and effect.
+ 8
+ 9          Section 20. Repealing Clause. – All laws, executive orders, presidential decrees,
+10   administrative orders, rules and regulations, issuances, or parts thereof inconsistent with
+11   or contrary to the provisions of this Act are hereby repealed or amended accordingly.
+12
+13          Section 21. Effectivity. – This Act shall take effect fifteen (15) days after its
+14   publication in the Official Gazette or in a newspaper of general circulation.
+15
+16          Approved,
+
+
+
+
+                                                                        FAIR ONLINE LENDING ACT | 8
+

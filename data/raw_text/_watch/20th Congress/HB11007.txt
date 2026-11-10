@@ -1,0 +1,744 @@
+                                    Republic of the Philippines
+                                  HOUSE OF REPRESENTATIVES
+                                    Quezon City, Metro Manila                                       August 27, 2026
+                                                                                                        11:55 am
+                                      TWENTIETH CONGRESS
+                                        Second Regular Session
+
+                                                         11007
+                                         House Bill No. ________
+
+
+                           Introduced by Representative ERIC G. YAP
+
+
+                                        EXPLANATORY NOTE
+
+       This bill seeks to institutionalize a comprehensive regulatory framework
+governing the development, deployment, and use of Artificial Intelligence (AI) in the
+Philippines. It adopts a risk-proportionate approach that sets standards for
+transparency, human oversight, accountability, and safety according to the potential
+impact of AI systems.
+
+       Artificial intelligence has rapidly become an essential component of public
+administration, commerce, finance, education, healthcare, media, and critical
+infrastructure. In 2025, the United Nations Educational, Scientific and Cultural
+Organization (UNESCO)1 reported that while the Philippines has legal frameworks
+on privacy and cybersecurity, it still lacks an AI-specific regulatory regime
+addressing transparency, accountability, algorithmic bias, deepfakes, and other
+emerging risks associated with advanced AI systems. The Organisation for Economic
+Co-operation and Development (OECD)2 likewise noted that the National AI
+Strategy Roadmap 2.0 recognizes gaps in AI governance, intellectual property, and
+synthetic media regulation and calls for an adaptive framework that balances
+innovation with public protection. The Philippine Institute for Development Studies
+also found that local government units remain only at low to moderate levels of AI
+readiness due to limited institutional capacity, digital infrastructure, and governance
+mechanisms, demonstrating that AI adoption is advancing more rapidly than the
+country’s regulatory capacity3.
+
+         The measure establishes the Philippine AI Regulation Council (PARC) as the
+1
+   United Nations Educational, Scientific and Cultural Organization. (2025). UNESCO AI Readiness Assessment
+Report:    Anchoring    Ethics     in     AI     Governance       in    the     Philippines.    Accessed      from:
+https://www.unesco.org/en/articles/unesco-ai-readiness-assessment-report-anchoring-ethics-ai-governance-ph
+ilippines?hub=66941. Accessed on: July 25, 2026.
+2
+  Organisation for Economic Co-operation and Development. (2026). National AI Strategy Roadmap 2.0 (NAISR
+2.0).          OECD            AI             Policy             Observatory.            Accessed             from:
+https://oecd.ai/en/dashboards/policy-initiatives/national-ai-strategy-roadmap-20-naisr-20. Accessed on July
+25, 2026.
+3
+  Quimba, F. M. A., Caboverde, C. E. C., & Salazar, A. M. C. (2025). How ready are LGUs for AI adoption? Philippine
+Institute   for    Development       Studies     Discussion      Paper      No.     2025-48.    Accessed      from:
+https://www.pids.gov.ph/publication/discussion-papers/how-ready-are-lgus-for-ai-adoption. Accessed on July
+25, 2026.
+central body for AI governance and requires a Mandatory Technical Compliance
+Code for key actors in the AI value chain. It sets rules for risk classification, technical
+audits, training data records, AI disclosures, opt-out mechanisms, bias assessments,
+incident reporting, and regulatory sandboxes, while limiting regulatory
+requirements for personal, academic, educational, and artistic uses.
+
+       As artificial intelligence continues to reshape economic activity, public
+services, and social interaction, the country requires a modern legal framework that
+encourages technological advancement while protecting the rights, safety, and
+welfare of the Filipino people. The establishment of clear national standards for
+responsible AI governance shall strengthen regulatory certainty, improve investor
+confidence, safeguard innovation, and enable both government and industry to
+harness AI responsibly for inclusive and sustainable national development.
+
+      In view of the foregoing, the immediate approval of this measure is earnestly
+sought.
+
+
+
+                                  HON. ERIC G. YAP
+                            Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES
+                            Quezon City, Metro Manila
+
+                             TWENTIETH CONGRESS
+                               Second Regular Session
+
+                                               11007
+                               House Bill No. ________
+
+
+                    Introduced by Representative ERIC G. YAP
+
+
+                             AN ACT
+INSTITUTIONALIZING A COMPREHENSIVE REGULATORY FRAMEWORK
+ON THE USE OF ARTIFICIAL INTELLIGENCE
+
+      Be it enacted by the Senate and House of Representatives of the Philippines in
+Congress assembled:
+
+                                  CHAPTER I
+                              GENERAL PROVISIONS
+
+      Section 1. Short Title. – This Act shall be known as the “Framework for
+Accountable and Intelligent Regulation of Artificial Intelligence (FAIR-AI) Act”.
+
+       SEC. 2. Declaration of Policy. – It is hereby declared the policy of the State to
+promote technological innovation, safeguard constitutional rights, and protect
+public safety by establishing a risk-proportionate regulatory framework governing
+the development, deployment, and use of Artificial Intelligence (AI) across all public
+and private sectors.
+
+       Towards this end, the State shall enforce binding standards for transparency,
+accountability, and human oversight across the AI value chain, create adaptive
+governance mechanisms aligned with existing privacy and intellectual property
+laws, and foster responsible innovation while ensuring that non-commercial,
+personal, academic, and purely artistic uses remain free from unnecessary
+regulatory burdens unless they cause material harm, involve public sector
+deployment, or interface with critical infrastructure.
+
+       SEC. 3. Scope. – This Act shall apply to all natural and juridical persons,
+including government agencies, local government units, state universities and
+colleges, and government-owned or controlled corporations, engaged in the
+development, training, fine-tuning, deployment, or use of AI systems in:
+
+          a. ﻿Public sector including but not limited to government service delivery,
+       policy formulation, public administration, law enforcement, national security,
+       and judicial support systems;
+
+                                           1
+         b.​ ﻿Essential services including but not limited to healthcare delivery,
+      public education, social welfare, water and energy utilities, and emergency
+      response;
+
+         c.​ ﻿Critical infrastructure including but not limited to transportation
+      systems, telecommunications, financial infrastructure, and industrial control
+      systems;
+
+         d.​ ﻿Commerce, Trade, and Industry including but not limited to
+      advertising, manufacturing, logistics, financial services, e-commerce, and
+      employment systems;
+
+          e.​ ﻿Media and Communications including but not limited to news
+      production, content distribution, social media platforms, and public
+      information campaigns; and
+
+         f.​ ﻿Research and Development including but not limited to scientific
+      research, public health surveillance, and academic AI applications with public
+      impact.​
+
+       This Act shall not apply to AI use exclusively for personal, non-commercial,
+educational, or independent artistic creation unless such use involves public sector
+deployment, interfaces with critical infrastructure; processes personal data at scale,
+or causes material, demonstrable harm to identifiable persons or public interests.
+
+      SEC. 4. Definition of Terms. – As used in this Act:
+
+          a.​ ﻿Artificial intelligence (AI) refers to software systems or computational
+      processes capable of performing tasks requiring pattern recognition,
+      predictive modeling, natural language processing, or content generation
+      through machine learning, neural networks, or algorithmic inference, without
+      relying solely on explicit, step-by-step human programming for each output;
+
+          b.​ ﻿AI-generated content refers to any text, audio, image, video, code, or
+      data output produced or substantially modified by an AI system, regardless
+      of the degree of human prompting, editing, or oversight;
+
+         c.​ ﻿Automated Decision System refers to an AI system that makes or
+      substantially influences binding determinations affecting legal rights, access
+      to services, employment, benefits, or liberty, with or without subsequent
+      human review;
+
+         d.​ ﻿Text-and-Data Mining (TDM) refers to the automated computational
+      analysis of large-scale copyrighted or publicly available works to extract
+      patterns, statistical relationships, or structural insights for AI model training,
+      subject to applicable intellectual property and fair use provisions;
+
+
+
+                                           2
+    e.​ ﻿Original Work refers to an intellectual creation protected under
+Republic Act (RA) No. 8293, otherwise known as “Intellectual Property Code of
+the Philippines”, reflecting substantial human creative direction, selection, or
+arrangement. Purely AI-generated outputs without meaningful human
+creative input shall not qualify as original works under this definition,
+consistent with Section 2 of RA No. 8293, which requires authorship by a
+natural person;
+
+   f.​ ﻿Low-Risk AI Use refers to AI deployment with minimal direct impact
+on individual rights, public safety, or market integrity, including but not
+limited to internal business automation, non-deceptive creative or artistic
+experimentation, educational or illustrative content clearly labeled as such,
+and personal productivity tools;
+
+    g.​ ﻿Medium-Risk AI Use refers to AI deployment with direct public-facing
+or commercial impact that does not determine legal rights, essential services,
+or critical infrastructure, including but not limited to marketing and
+advertising, customer service automation, content distribution for profit, and
+news commentary or opinion generation;
+
+    h.​ ﻿High-Risk AI Use refers to AI deployment in contexts where errors,
+bias, or manipulation could materially affect constitutional rights, public
+safety, financial stability, health outcomes, or critical operations, including but
+not limited to automated eligibility determinations, financial credit or
+insurance underwriting, medical diagnosis or treatment planning, public
+safety or emergency response systems, and critical infrastructure control;
+
+    i.​ ﻿AI Value Chain refers to the sequential or interconnected roles
+involved in the AI lifecycle, comprising foundation model developers,
+fine-tuners, application developers, deployers, distributors, digital platforms,
+and end-users, for purposes of allocating accountability under this Act;
+
+   j.​ ﻿Foundational Model Developer refers to an entity that designs, trains,
+and distributes large-scale models intended for broad or downstream
+commercial, public, or industrial use;
+
+   k.​ ﻿Fine-Tuner refers to an entity that adapts, retrains, or modifies a
+foundation model or its parameters, prompts, or architectures for specific
+tasks, domains, or operational contexts;
+
+    l.​ Application Developer refers to an entity that builds software,
+interfaces, or integrated workflows that utilize AI models to deliver end-user
+or enterprise functions;
+
+   m.​ Distributor refers to any entity that commercially licenses, markets, or
+resells AI models, tools, or AI-generated content to third parties;
+
+   n.​ Deployer refers to any natural or juridical person, including
+
+
+                                     3
+      government agencies, local government units, state-owned or controlled
+      corporations, and private enterprises, that operationalizes or integrates Al
+      systems into commercial, industrial, public service, or administrative
+      workflows;
+
+         o.​ Digital Platform refers to an online service, including social networks,
+      content aggregators, streaming services, and e-commerce marketplaces, that
+      hosts, distributes, or monetizes user-uploaded or AI-generated content and
+      exercises editorial, algorithmic, or technical control over its presentation,
+      accessibility, or distribution;
+
+         p.​ End-User refers to the final recipient or consumer of AI-assisted
+      products, services, or content. End-users shall not be held liable under this
+      Act unless they modify, redistribute, or deploy AI-generated content for
+      commercial, public, or high-impact purposes;
+
+          q.​ Machine-Readable Disclosure Metadata refers to standardized,
+      structured data tags (e.g., JSON-LD, C2PA-compliant schemas, or formats
+      published by the Department of Information and Communications
+      Technology (DICT)) embedded in AI outputs to verifiably indicate AI
+      involvement, risk classification, deploying entity, and redress contact;
+
+          r.​ Training Data Provenance Log refers to a machine-verifiable,
+      tamper-evident record documenting the source, licensing status, opt-out
+      compliance, preprocessing steps, and retention period of datasets used to
+      train or fine-tune an Al system;
+
+         s.​ ﻿Opt-Out Mechanism refers to a technically feasible, machine-readable,
+      and publicly accessible method allowing rights-holders to prevent their
+      copyrighted works or identifiable likeness from being used in AI training or
+      generation;
+
+         t.​ ﻿Malicious Synthetic Media refers to AI-generated or Al-manipulated
+      audio, visual, or textual content that intentionally simulates a real person
+      without consent, or deceptively presents fabricated events as factual, with the
+      purpose of causing reputational, financial, physical harm, or fraud; and
+
+         u.​ ﻿Regulatory Sandbox refers to a time-bound, supervised testing
+      environment authorized by the Council, created under Section 6 of this Act,
+      wherein eligible entities may pilot novel AI applications under modified
+      compliance requirements, subject to predefined risk mitigation, monitoring,
+      and exit protocols.
+
+                           CHAPTER II
+        OPERATIONAL PRINCIPLES AND TECHNICAL STANDARDS
+
+      SEC. 5. Operational Principles. – All regulatory actions, technical standards,
+and enforcement decisions shall be guided by the following binding principles:
+
+
+                                         4
+         a.​ ﻿Human Oversight – Automated Decision Systems affecting legal
+      rights, essential services, or public safety shall maintain verifiable
+      human-review audit trails and appeal mechanisms;
+
+          b.​ ﻿Verifiable Transparency – AI involvement in public-facing or
+      commercial content shall be disclosed through machine-readable, technically
+      interoperable metadata conforming to DICT standards;
+
+         c.​ ﻿Risk-Proportionate Accountability – Compliance obligations shall scale
+      with the potential impact of AI deployment, with enhanced safeguards for
+      High-Risk Al Use as defined under Section 4(h) of this Act;
+
+         d.​ Fairness and Non-Discrimination – High-Risk AI Uses shall undergo
+      bias impact assessment prior to deployment; deployers shall implement
+      reasonable mitigation measures where systemic discrimination affecting
+      protected classes is identified;
+
+         e.​ ﻿Safety, Security, and Resilience – AI systems controlling or interfacing
+      with critical infrastructure, emergency response, or public safety operations
+      shall incorporate human-override capability, incident response protocols, and
+      annual resilience reporting to DICT;
+
+         f.​ Innovation and Economic Enablement – The State shall adopt
+      responsible innovation by maintaining regulatory sandboxes, issuing
+      advisory guidelines for micro, small, and medium enterprises, and ensuring
+      that compliance costs do not disproportionately burden emerging Filipino
+      developers and creators;
+
+          g.​ Adaptive Governance – Technical standards, disclosure schemas, and
+      risk-classification methodologies shall be reviewed by DICT in consultation
+      with relevant stakeholders; updates shall be published through the IRR
+      process without requiring legislative amendment; Provided, That they remain
+      within the scope and intent of this Act; and
+
+         h.​ Legal Compliance – All AI systems shall operate in conformity with
+      RA No. 8293, otherwise known as “Intellectual Property Code of the Philippines”;
+      RA No. 10173, otherwise known as “Data Privacy Act of 2012”; and other
+      applicable laws.
+
+                                CHAPTER III
+                    PHILIPPINE AI REGULATION COUNCIL
+
+       SEC. 6. Creation, Composition, and Membership. – There is hereby established a
+Philippine AI Regulation Council (PARC), hereinafter referred to as the Council,
+which shall serve as the central policy-making, coordinating, and regulatory body
+for the effective implementation of this Act. The Council shall be composed of the
+following:
+
+
+                                         5
+is hereby established. The composition of the Council shall be as follows:
+
+   a.​ Ex-Officio Members - The following executive departments and
+agencies shall serve as voting members by virtue of their office:
+
+         1.​ Department of Information and Communications Technology
+      (DICT), as Chairperson;
+
+         2.​ Department of       Economy,     Planning,   and    Development
+      (DEPDev), as Member;
+
+          3.​ Department of Trade and Industry (DTI), as Member;
+
+          4.​ Department of Finance (DOF), as Member;
+
+        5.​ Department of Interior and Local Government (DILG), as
+      Member;
+
+          6.​ Department of Justice (DOJ), as Member;
+
+        7.​ Intellectual Property Office of the Philippines (IPOPHL), as
+      Member; and
+
+          8.​ National Privacy Commission (NPC), as Member.
+
+   b.​ Advisory Members - The following executive departments and
+agencies shall designate representatives to serve in an advisory capacity, with
+the right to participate in deliberations, submit technical recommendations,
+and attend working committees:
+
+          1.​ Bangko Sentral ng Pilipinas (BSP);
+
+          2.​ Bureau of Philippine Standards (BPS);
+
+          3.​ Civil Service Commission (CSC);
+
+          4.​ National Youth Commission (NYC);
+
+          5.​ Department of Education (DepEd);
+
+          6.​ Department of Health (DOH);
+
+          7.​ Department of Energy (DOE); and
+
+          8.​ Department of Public Works and Highways (DPWH).
+
+   c.​ Permanent Consultants - The Council may, by resolution, appoint
+
+
+                                   6
+technical experts from academia, industry associations, developer networks,
+or civil society as permanent consultants to provide specialized input on
+standards development, risk assessment methodologies, or sector-specific
+guidelines.
+
+SEC. 7. Functions. – The Council shall exercise the following functions:
+
+   a.​ Develop and publish technical standards for Machine-Readable
+Disclosure Metadata, Training Data Provenance Logs, disclosure protocols,
+labeling specifications, and commercially feasible watermarking mechanisms,
+in consultation with industry, technical experts, the Bureau of Philippine
+Standards, and civil society;
+
+  b.​ Maintain and update a national registry of High-Risk AI Systems,
+Automated Decision Systems, and regulatory sandbox participants;
+
+   c.​ Conduct technical audits, compliance reviews, and risk assessments of
+AI deployments across all sectors, and issue compliance directives or
+corrective measures as necessary;
+
+   d.​ Operate a centralized, audit-tracked grievance portal and incident
+reporting system, and coordinate with relevant government bodies for
+investigation, resolution, or criminal referral;
+
+    e.​ Establish, administer, and monitor a Regulatory Sandbox program to
+enable time-bound, supervised testing of novel Al applications under
+modified technical compliance requirements, while preserving liability for
+intentional harm, fraud, or criminal violations;
+
+   f.​ Assess the macroeconomic, fiscal, employment, and developmental
+impacts of AI regulation, ensuring that technical standards, disclosure
+obligations, and compliance requirements are proportionate, budgetarily
+feasible, and aligned with national competitiveness goals;
+
+   g.​ Coordinate with relevant government agencies to ensure integrated
+oversight of data privacy, criminal enforcement, intellectual property,
+consumer protection, public safety, financial stability, education, and public
+sector administration;
+
+   h.​ Issue technical guidelines defining risk classifications, material harm
+thresholds, commercially feasible mitigation measures, and sector-specific
+compliance methodologies, subject to biennial review and public publication;
+
+   i.​ Publish anonymized incident trends, policy recommendations, and
+regulatory impact assessments to inform continuous improvement of AI
+governance frameworks; and
+
+   j.​ Perform such other functions as may be necessary to effectively
+
+
+                                    7
+       implement the provisions of this Act.
+
+       SEC. 8. Decision-Making and Quorum. – A majority of the voting members shall
+constitute a quorum. Decisions shall be made by majority vote of voting members
+present. In case of a tie, the Chairperson shall cast the deciding vote. Advisory
+members and permanent consultants may participate in deliberations.
+
+   SEC 9. Mandatory Technical Compliance Code for AI Value Chain. – The Council shall
+develop and promulgate a Mandatory Technical Compliance Code (MTCC) within
+one hundred twenty (120) days from the effectivity of this Act. Such Code shall have
+binding legal effect and shall apply exclusively to: Foundation Model Developers;
+Fine-Tuners; Application Developers; Deployers; Distributors; and Digital Platforms,
+as defined under Section 4, paragraphs (i), (k), (I), (m), (n) and (o) of this Act. The
+Code shall not apply to End-Users as defined in Section 4(p), academic researchers,
+or entities engaged in non-commercial, personal, educational, or purely artistic Al
+uses. The MTCC shall include:
+
+         a.​ ﻿Binding technical and operational standards for disclosure, metadata
+       embedding, labeling, and human oversight;
+
+          b.​ ﻿Required risk assessment and mitigation protocols for High-Risk AI
+       Use;
+
+          c.​ ﻿Mandatory incident detection, containment, and reporting procedures;
+
+           d.​ ﻿Compliance frameworks for honoring registered opt-out mechanisms
+       for copyrighted works and personal data; and
+
+          e.​ ﻿Value-chain   documentation,    audit, and     inter-actor   cooperation
+       obligations.​
+
+        Compliance with the MTCC shall be required for all covered actors.
+Documented adherence to the Code shall be considered a mitigating circumstance in
+determining administrative penalty, but shall not constitute a defense against
+liability for intentional violations: Provided, That the actor maintained verifiable
+records of compliance efforts; the violation did not involve intentional, fraudulent,
+or malicious conduct; and the deficiency was promptly remedied upon notice.
+
+       Failure to comply with the Code shall constitute an administrative violation
+subject to notices, directives for compliance, and suspension orders. The Code shall
+be published in the Official Gazette and on the PARC website within thirty (30) days
+of promulgation.
+
+       SEC. 10. Grievance and Reporting Mechanism. – The Council shall establish and
+maintain a centralized, accessible, and secure Artificial Intelligence (AI) Grievance
+and Incident Reporting Portal to facilitate the reporting of violations, harms, or risks
+associated with AI systems. The mechanism shall include the following:
+
+
+
+                                           8
+    a.​ ﻿Accessible Reporting Channels – The Portal shall be accessible via web
+interface, mobile application, and offline channels to ensure inclusivity.
+Reports may be filed by any natural or juridical person;
+
+   b.​ ﻿Categories of Reportable Incidents – The Portal shall allow users to
+categorize reports into, but not limited to:
+
+          1.​ ﻿Undisclosed Al-generated content;
+
+         2.​ ﻿Intellectual property infringement or unauthorized use of
+      protected works;
+
+          3.​ ﻿Malicious synthetic media, deepfakes, or non-consensual
+      likeness replication;
+
+         4.​ ﻿Bias, discrimination, or unfair outcomes from Automated
+      Decision Systems;
+
+          5.​ ﻿Data privacy violations involving AI processing; and
+
+          6.​ ﻿Safety failures in High-Risk AI systems.
+
+    c.​ Assessment Protocol – Upon receipt of a report, the Council, through
+an interdisciplinary technical team, shall:
+
+          1.​ ﻿Acknowledge receipt within forty-eight (48) hours;
+
+          2.​ ﻿Conduct an assessment to determine the severity and risk level
+      of the incident; and
+
+         3.​ ﻿For urgent cases involving imminent harm to public safety,
+      national security, or severe reputational damage, initiate an expedited
+      review within twenty-four (24) hours.
+
+   d.​ Coordination with Appropriate Agencies – The Council shall
+coordinate with appropriate agencies based on the nature of the complaint.
+
+  e.​ ﻿Remedial Actions and Redress – Depending on the findings, the
+Council may issue the following:
+
+          1.​ ﻿Direct digital platforms or deployers to remove or disable access
+      to violative content within a prescribed period;
+
+         2.​ ﻿Require the publication of corrections or clarifications where
+      misinformation has caused public harm;
+
+          3.​ ﻿Temporarily suspend the operation of an Al system pending
+      further investigation if it poses an immediate threat to public safety or
+
+
+                                   9
+             rights; and
+
+                4.​ ﻿Forward evidence of criminal liability to the DOJ for
+             appropriate legal action.
+
+          f.​ Whistleblower Protection – Individuals who report violations in good
+      faith, particularly employees or insiders of AI developers, deployers, or
+      digital platforms, shall be protected from retaliation, dismissal, or harassment
+      under existing whistleblower protection laws. The identity of reporters shall
+      remain confidential unless disclosure is required by court order; and
+
+          g.​ ﻿Transparency and Feedback – The Council shall publish anonymized
+      statistics on the number of reports received, types of violations, actions taken,
+      and resolution timelines on a quarterly basis. Reporters shall be informed of
+      the status and outcome of their complaints, subject to confidentiality and
+      legal constraints.
+
+        SEC. 11. Congressional Oversight and Reporting. – To ensure accountability and
+facilitate legislative review of the implementation of this Act, the Council shall
+submit reports to the Congress as follows:
+
+          a.​ Annual Comprehensive Report – Within sixty (60) days after the end
+      of each calendar year, the Council shall submit an annual report to the Senate
+      and the House of Representatives. The report shall include, but not be limited
+      to:
+
+                1.​ ﻿The number of AI systems registered in the national registry,
+             categorized by risk level (Low, Medium, High);
+
+                2.​ ﻿A summary of complaints received through the grievance
+             portal, investigations conducted, compliance directives issued, and
+             penalties imposed;
+
+                 3.​ ﻿An analysis of emerging AI-related risks;
+
+                 4.​ ﻿An assessment of the impact of Al regulation;
+
+                5.​ ﻿A statement of expenditures and              utilization of   funds
+             appropriated for the Council; and
+
+                6.​ ﻿Proposed amendments to this Act or related laws based on
+             technological advancements and regulatory gaps identified during the​
+              year.
+
+         b.​ Special Reports – The Council shall immediately submit special
+      reports to the Senate and House Committee on Information and
+      Communications Technology upon the occurrence of any of the following:
+
+
+
+                                          10
+                 1.​ ﻿A widespread or systemic failure of High-Risk AI systems
+             affecting public safety, national security, or critical infrastructure;
+
+                2.​ ﻿A significant breach of data privacy or intellectual property
+             rights involving AI systems that affects a large number of Filipinos;
+             and
+
+                3.​ ﻿Upon request by any committee within thirty (30) days from
+             receipt of such request.
+
+         c.​ Public Availability – All reports submitted to Congress, excluding
+      confidential information protected by law or involving ongoing
+      investigations, shall be made publicly available on the Council’s website
+      within fifteen (15) days from submission to ensure transparency and public
+      awareness; and
+
+         d.​ Congressional Hearings – The Chairperson of the Council, or their
+      duly authorized representative, shall appear before the Committee on
+      Information and Communications Technology of both the Senate and House
+      of Representatives at least once a year, or as often as required, to discuss the
+      annual report, address legislative concerns, and provide updates on the state
+      of Al governance in the Philippines.
+
+                               CHAPTER IV
+                      PROHIBITED ACTS AND PENALTIES
+
+      SEC. 12. Prohibited Acts. – It shall be unlawful for any natural or juridical
+person to commit the following acts:
+
+          a.​ ﻿The sale, lease, licensing, or public distribution of AI-generated content
+      classified as Medium-Risk or High-Risk under Section 4(g)-(h) without
+      affixing the clear, conspicuous, and machine-readable disclosure mandated
+      under Section 7 and the Mandatory Technical Compliance Code. Low-Risk AI
+      uses under Section 4(f) are exempt from pre-distribution disclosure but
+      remain subject to post-deployment notification;
+
+          b.​ The utilization of AI systems to train, fine-tune, or generate content
+      that substantially reproduces protected elements of an Original Work as
+      defined under RA No. 8293, otherwise known as “Intellectual Property Code of
+      the Philippines”, without authorization from the rights-holder, where the actor:
+      (1) acted with actual knowledge of the infringement; or (2) failed to maintain
+      a documented Training Data Provenance Log or honor registered opt-out
+      mechanisms under Section 4(r);
+
+         c.​ ﻿The false representation that AI-generated or AI-assisted content was
+      produced exclusively by human creators;
+
+         d.​ The intentional removal, alteration, encryption, masking, obfuscation,
+
+
+                                          11
+       or technological circumvention of any Al disclosure label, watermark,
+       metadata schema, or machine-readable identifier applied to content pursuant
+       to this Act, its Implementing Rules and Regulations (IRR), or the Mandatory
+       Technical Compliance Code (MTCC);
+
+           e.​ ﻿The generation, publication, or dissemination of Al-manipulated
+       audio, visual, or textual content that: (1) intentionally simulates a person
+       without their prior informed, explicit consent; or (2) deceptively presents
+       fabricated events as factual; with the purpose of causing reputational,
+       financial, or physical harm, defrauding any person or entity, or undermining
+       public safety, consistent with the prohibitions under RA No. 10175, otherwise
+       known as “Cybercrime Prevention Act of 2012”;
+
+          f.​ ﻿The use of AI systems to synthesize, clone, or simulate the identifiable
+       voice, facial likeness, or biometric markers of a natural person for
+       exploitation, harassment, or deception without prior informed, explicit
+       consent;
+
+          g.​ The failure by a digital platform to maintain accessible reporting
+       mechanisms, act upon verified notices from PARC within prescribed
+       timelines, publish required transparency reports, or implement reasonable
+       content moderation protocols as mandated under Section 8; and
+
+          h.​ ﻿The misclassification of a high-risk AI use as low or medium-risk.
+
+        SEC. 13. Liability of Juridical Entities and Responsible Officers. – Any natural
+person who is a director, officer, manager, or other individual exercising supervisory
+or decision-making authority over the AI system or activity in violation of this Act
+shall be held jointly and severally liable with the juridical entity only for fines and
+restitution, but shall additionally bear individual criminal liability separate from the
+entity. A responsible officer is liable under this section if:
+
+          a.​ ﻿The officer authorized, directed, consented to, or knowingly failed to
+       prevent the violation;
+
+          b.​ ﻿The officer acted with gross negligence, recklessness, or willful
+       disregard of the requirements of this Act; or
+
+          c.​ The officer had actual knowledge of the violation and failed to take
+       reasonable corrective action within a prudent timeframe after such
+       knowledge.
+
+       The criminal prosecution of a juridical entity shall not bar the separate
+prosecution of any responsible officer, and vice versa. A finding of criminal liability
+against the officer may be made even if the juridical entity is not prosecuted or
+cannot be penalized for reasons such as dissolution, insolvency, or other legal
+disability. The penalties imposable upon a responsible officer shall be the same as
+those prescribed under Section 14 of this Act for a natural person, without reduction,
+
+
+                                          12
+and shall be served personally.
+
+       The dissolution, liquidation, merger, or reorganization of a juridical entity
+after the commission of a violation shall not extinguish its liability for fines and
+sanctions under this Act. The successor-in-interest shall be liable for payment of
+fines and compliance with remedial orders.
+
+       SEC. 14. Fines and Penalties. – For any act prohibited under Section 12, the
+following fines and penalties shall be imposed upon conviction:
+
+          a.​ ﻿Violation of Section 12(a), (d), (g), (i), or (i) shall be punished by a fine
+      of not less than Two hundred fifty thousand pesos (Php 250,000.00) but not
+      more than Seven hundred fifty thousand pesos (Php 750,000.00), or
+      imprisonment of not less than six (6) months but not more than two (2) years,
+      or both;
+
+          b.​ ﻿Violation of Section 12(b), (c), or (h) shall be punished by a fine of not
+      less than Seven hundred fifty thousand pesos (Php 750,000.00) but not more
+      than Two million pesos (Php 2,000,000.00), or imprisonment of not less than
+      two (2) years but not more than four (4) years, or both; and
+
+         c.​ Violation of Section 12(e) or (f) shall be punished by a fine of not less
+      than Two million pesos (Php 2,000,000.00), or imprisonment of not less than
+      four (4) years but not more than eight (8) years, or both.
+
+                                     CHAPTER V
+                                  FINAL PROVISIONS
+
+      SEC. 15. Appropriations. – The amount necessary for the initial implementation
+of this Act shall be taken from the current appropriations of each of the
+member-agencies of the Council. Thereafter, the amount needed for the continued
+implementation of this Act shall be included in the annual appropriations of the
+Council as a distinct and separate item.
+
+       SEC. 16. Implementing Rules and Regulations. – Within ninety (90) days from
+the effectivity of this Act, the Council shall promulgate the rules and regulations
+necessary for the effective implementation of this Act. All guidelines, regulations,
+and other issuances mandated to be promulgated under this Act shall be issued
+within sixty (60) days from the promulgation of the IRR.
+
+       SEC. 17. Separability Clause. – If any portion or provision of this Act is
+declared invalid or unconstitutional, other provisions hereof shall remain in full
+force and effect.
+
+       SEC. 18. Repealing Clause. – All laws, presidential decrees, executive orders,
+rules and regulations which are inconsistent with the provisions of this Act are
+hereby repealed or amended accordingly.
+
+
+
+                                            13
+      SEC. 19. Effectivity. – This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in a national newspaper of general circulation.
+
+      Approved,
+
+
+
+
+                                         14
+
