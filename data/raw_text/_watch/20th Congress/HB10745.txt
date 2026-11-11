@@ -1,0 +1,469 @@
+                              Republic of the Philippines
+                             House of Representatives
+                                     Quezon City
+ 1
+ 2
+                                                                       August 12, 2026
+ 3                            TWENTIETH CONGRESS
+                                                                          3:13 pm
+ 4
+ 5                              Second Regular Session
+ 6
+ 7
+ 8                                             10745
+                           House Bill No. ________________
+ 9
+10                                  Introduced by
+11             Presley C. De Jesus, PhilRECA Party-List Representative
+12                Sergio C. Dagooc, APEC Party-List Representative
+13
+14                              EXPLANATORY NOTE
+15
+16   The Philippines continues to face the challenge of ensuring an electricity
+17   supply that is affordable, reliable, secure, and resilient. Advances in solar
+18   photovoltaic generation and battery energy storage technologies now provide
+19   households, businesses, health facilities, educational institutions,
+20   government establishments, and other electricity end-users with greater
+21   opportunities to generate and store electricity primarily for their own use.
+22
+23   Behind-the-meter (BTM) solar generation and battery energy storage systems
+24   (BESS) can enable consumers to reduce their dependence on electricity
+25   purchased from the distribution system, manage peak electricity
+26   consumption, improve energy resilience, and make greater use of electricity
+27   generated within their premises. Battery storage is particularly valuable
+28   because it allows electricity generated or purchased during periods of lower
+29   demand to be stored for use during periods of higher demand or interruptions
+30   in grid supply.
+31
+32   However, the adoption of these technologies should not be hindered by
+33   unnecessary or disproportionate regulatory requirements. At the same time,
+34   simplification must be accompanied by appropriate safeguards to protect
+35   consumers, electrical workers, distribution utilities, and the reliability and
+36   safety of the electric power system.
+37
+38   The Sariling Kuryente Act therefore establishes a proportionate and risk-
+ 1   based framework for BTM solar generation and BESS. It provides simplified
+ 2   regulatory treatment for standardized, low-risk systems and streamlines
+ 3   procedures for qualified zero-export systems, while preserving necessary
+ 4   technical, electrical, structural, fire, environmental, and distribution-system
+ 5   safety requirements.
+ 6
+ 7   The measure also strengthens consumer protection by requiring covered solar
+ 8   and storage equipment to comply with applicable Philippine National
+ 9   Standards and conformity-assessment requirements. It requires the
+10   installation and commissioning of covered systems to be undertaken by duly
+11   accredited    installers and    establishes    appropriate   accountability
+12   requirements, including mandatory liability insurance or other financial
+13   security, to protect consumers from unsafe installations, defective
+14   workmanship, and unqualified or unscrupulous service providers.
+15
+16   The bill further protects the ability of end-users to install BTM generation and
+17   energy storage systems on property they own or exclusively control, while
+18   allowing reasonable restrictions necessary for structural safety, public safety,
+19   and the protection of common property.
+20
+21   The bill also prioritizes energy storage as a means of increasing self-
+22   consumption, reducing peak demand, and supporting distribution-system
+23   reliability and resilience. It likewise recognizes the need to account for the
+24   adoption of BTM systems in electricity planning while preventing
+25   unreasonable cost shifting to consumers who do not have such systems. It
+26   also authorizes the development of appropriate financing programs,
+27   incentives, and targeted financial assistance for qualified end-users adopting
+28   BESS and integrated solar-plus-storage systems, with priority given to
+29   measures that support energy storage, reduce or shift peak demand, improve
+30   electricity reliability and resilience, and assist low-income or underserved
+31   consumers, subject to the availability of funds and applicable laws.
+32
+33   By reducing unnecessary regulatory barriers while maintaining appropriate
+34   safety, technical, environmental, and consumer-protection safeguards, the
+35   Sariling Kuryente Act seeks to make consumer-owned solar generation and
+36   energy storage simpler, faster, safer, and more accountable.
+37
+38   In view of the foregoing, the immediate passage of this bill is earnestly sought.
+39
+40
+41
+42   REP. PRESLEY C. DE JESUS                       REP. SERGIO C. DAGOOC
+43   PhilRECA Party-List                            APEC Party-List
+                              Republic of the Philippines
+                             House of Representatives
+                                     Quezon City
+ 1
+ 2
+ 3                            TWENTIETH CONGRESS
+ 4
+ 5                              Second Regular Session
+ 6
+ 7
+ 8                                             10745
+                           House Bill No. ________________
+ 9
+10                                  Introduced by
+11             Presley C. De Jesus, PhilRECA Party-List Representative
+12                Sergio C. Dagooc, APEC Party-List Representative
+13
+14                            AN ACT
+15   PROMOTING BEHIND-THE-METER SOLAR ENERGY GENERATION AND
+16   BATTERY ENERGY STORAGE SYSTEMS FOR OWN-USE, ESTABLISHING
+17   A   STREAMLINED  REGULATORY,     SAFETY,   AND  CONSUMER
+18   PROTECTION FRAMEWORK, AMENDING FOR THE PURPOSE REPUBLIC
+19   ACT NO. 9136, OTHERWISE KNOWN AS THE "ELECTRIC POWER
+20   INDUSTRY REFORM ACT OF 2001," AND FOR OTHER PURPOSES
+21
+22   Be it enacted by the Senate and the House of Representatives of the Republic
+23   of the Philippines in Congress assembled:
+24
+
+25        SECTION 1. Short Title. – This Act shall be known as the "Sariling
+26   Kuryente Act."
+
+27         SEC. 2. Declaration of Policy. – It is hereby declared the policy of the
+28   State to:
+
+29      (a) Promote the adoption of behind-the-meter (BTM) solar energy
+30          generation systems, battery energy storage systems (BESS), and
+31          integrated solar-plus-storage systems for own-use by households and
+32          other electricity end-users;
+33      (b) Simplify, harmonize, and expedite the permitting, registration,
+34          notification, inspection, commissioning, and operation of qualified BTM
+35          systems while maintaining necessary safety and reliability
+ 1       requirements;
+ 2   (c) Promote battery energy storage to increase self-consumption, reduce
+ 3       and shift peak electricity demand, improve consumer resilience, and
+ 4       support the reliability, stability, and efficient operation of the electric
+ 5       power system;
+ 6   (d) Protect consumers and electrical workers from unsafe installations,
+ 7       hazardous back-feeding, substandard equipment, and unqualified or
+ 8       fraudulent suppliers and installers;
+ 9   (e) Protect the right of electricity end-users to install qualified BTM systems
+10       on property they own or exclusively control, subject to reasonable
+11       requirements for structural safety, public safety, and the protection of
+12       common property; and
+13   (f) Establish proportionate regulatory requirements for BTM systems
+14       based on their characteristics and potential impact on the distribution
+15       system.
+
+16      SEC. 3. Definition of Terms. – For purposes of this Act:
+
+17   (a) Battery Energy Storage System (BESS) refers to equipment or
+18       technologies capable of storing electrical energy for subsequent use,
+19       including batteries, battery management systems, inverters, and
+20       associated control systems.
+21   (b) Behind-the-Meter (BTM) System refers to an electricity generation
+22       system, energy storage system, or integrated generation and storage
+23       system located on the end-user's side of the applicable point of
+24       connection with the distribution system.
+25   (c) Micro-Solar System (MSS) refers to a standardized small-scale solar
+26       generation system intended for own-use, consisting of:
+27       (1) photovoltaic (PV) modules with a total direct current (DC) nameplate
+28           capacity not exceeding one thousand watts (1,000 W) or one kilowatt
+29           (1 kW);
+30       (2) a factory-set, grid-tied micro-inverter with a maximum alternating
+31           current (AC) output of eight hundred watts (800 W) or zero point
+32           eight kilowatts (0.8 kW), equipped with an automatic anti-islanding
+33           disconnection safety mechanism; and
+34       (3) a standard connection designed for connection through a standard
+35           household wall outlet or circuit in accordance with the Philippine
+36           Electrical Code (PEC) and applicable safety standards.
+37   (d) Own-Use refers to the primary utilization of the generated energy by the
+38       owner, occupant, or user of the residential, commercial, or industrial
+39       property where the facility is installed, intended solely for own-use
+40       consumption without the export of electricity to the distribution system.
+41   (e) Self-Generating Facility Zero-Export System (SGF ZESS) refers to
+ 1          solar PV installations of any capacity that are intended solely for own-
+ 2          use and are not for the export of electricity to the distribution system,
+ 3          and are equipped with appropriate control, protection, and isolation
+ 4          mechanisms designed and configured to prevent the export of electricity
+ 5          to the distribution system.
+ 6      (f) Accredited Supplier refers to any person or entity accredited under
+ 7          this Act that sells, supplies, imports, distributes, designs, installs,
+ 8          commissions, maintains, repairs, or provides related services for BTM
+ 9          solar energy generation systems, BESS, or associated equipment. An
+10          Accredited Supplier shall maintain its own qualified team of installers
+11          and shall be directly accountable for the entire supply, installation,
+12          commissioning, warranty, and after-sales service of the BTM System.
+
+13         SEC. 4. Scope. — This Act shall apply to behind-the-meter solar energy
+14   generation systems, battery energy storage systems, and integrated solar-
+15   plus-storage systems installed primarily for the own-use of electricity end-
+16   users, subject to applicable laws, rules, regulations, and technical standards.
+
+17   Systems capable of exporting electricity to the distribution system shall
+18   remain subject to applicable laws and regulations governing interconnection
+19   and authorized electricity export.
+
+20        SEC. 5. Amendment to Republic Act No. 9136. — Section 6 of
+21   Republic Act No. 9136, otherwise known as the “Electric Power Industry
+22   Reform Act of 2001,” is hereby amended by adding the following paragraphs:
+
+23   “An electricity end-user that installs, owns, or operates a qualified
+24   behind-the-meter electricity generation or energy storage system
+25   primarily for own-use shall not, solely by reason thereof, be considered
+26   a generation company or be subject to regulatory requirements
+27   applicable exclusively to commercial generation or participation in the
+28   electricity market, provided that such system complies with applicable
+29   safety, technical, and other requirements under existing laws and
+30   regulations.”
+
+31         SEC. 6. Regulatory Framework. – The DOE, in coordination with the
+32   ERC, DTI, DILG, and other concerned government agencies within their
+33   respective mandates, shall establish a proportionate and risk-based
+34   regulatory framework for BTM Systems. The DOE shall lead the accreditation
+35   framework for Suppliers under this Act, in coordination with the DTI and
+36   DILG.
+
+37   The framework shall provide simplified procedures for standardized, low-risk
+38   systems, including qualified micro-solar and zero-export systems, while
+ 1   providing appropriate technical requirements for systems whose
+ 2   characteristics or configuration may materially affect the safety, operation, or
+ 3   reliability of the distribution system.
+
+ 4   The specific technical standards, system classifications, thresholds,
+ 5   documentary requirements, accreditation requirements, and procedures shall
+ 6   be prescribed pursuant to this Act and applicable laws.
+
+ 7          SEC. 7. Simplified Treatment of Micro-Solar Systems. — Qualified
+ 8   Micro-Solar Systems (MSS) within the capacity limits prescribed in this Act
+ 9   shall be subject to simplified regulatory treatment, subject to applicable safety
+10   and technical requirements.
+
+11   For qualified MSS installed for own-use, the accreditation of the Supplier and
+12   the required Notice of Installation shall, subject to applicable safety and
+13   technical standards, be in lieu of additional local permits, clearances, or
+14   approvals required solely for the installation of the system.
+
+15          The implementing rules and regulations shall prescribe the applicable
+16   notification, accreditation, inspection, registration, commissioning, and other
+17   procedures for qualified MSS, including the requirements that may be
+18   simplified or dispensed with for standardized, low-risk systems.
+
+19          SEC. 8. Distribution Utility Requirements and Charges. – A
+20   distribution utility shall not impose an interconnection, technical
+21   assessment, meter replacement, study, fee, or other requirement solely by
+22   reason of the installation of a qualified non-exporting BTM System, except
+23   when such requirement is authorized by law or applicable ERC rules and is
+24   reasonably necessary to address a documented and demonstrated safety,
+25   technical, billing, or reliability concern.
+
+26   Any authorized requirement or charge shall be reasonable, transparent,
+27   proportionate, and uniformly and non-discriminatorily applied.
+
+28         SEC. 9. Service Capacity. – The approved service capacity of an end-
+29   user shall not be reduced solely because of the installation of a qualified BTM
+30   System.
+
+31   Any modification of service capacity, transformer allocation, or service
+32   connection shall be based on a demonstrated technical or safety requirement
+33   and shall comply with applicable ERC rules.
+
+34          SEC. 10. Protection Against Unreasonable Restrictions. – No
+35   homeowners' association, subdivision developer, property manager, or similar
+36   entity shall unreasonably prohibit or effectively prevent the installation of a
+ 1   qualified BTM solar energy generation system, BESS, or integrated solar-plus-
+ 2   storage system on property owned or exclusively controlled by an end-user.
+
+ 3   Reasonable requirements or restrictions may be imposed only when necessary
+ 4   to address structural safety, electrical safety, fire safety, public safety, or the
+ 5   protection, integrity, or proper use of common property. Such requirements
+ 6   or restrictions shall not be applied in an unreasonable, arbitrary, or
+ 7   discriminatory manner so as to effectively prohibit the installation or
+ 8   operation of a qualified BTM System.
+
+ 9   The DOE, in coordination with the Department of Human Settlements and
+10   Urban Development (DHSUD), Department of the Interior and Local
+11   Government (DILG), Bureau of Fire Protection (BFP), and other concerned
+12   agencies within their respective mandates, shall develop appropriate
+13   guidelines or model rules for the implementation of this Section.
+
+14         SEC. 11. Safety and Technical Requirements. – All BTM Systems
+15   shall comply with applicable electrical, structural, fire, occupational,
+16   environmental, product-safety, and distribution-system safety requirements.
+
+17   Every BTM System electrically connected to the distribution system shall
+18   incorporate appropriate anti-islanding, export-control, isolation, or equivalent
+19   protective mechanisms to prevent unintended energization or back-feeding of
+20   the distribution system.
+
+21   Where required by applicable technical standards, the BTM System shall be
+22   equipped with an accessible and lockable manual disconnect, double-throw
+23   switch, or equivalent means of physical isolation.
+
+24   BTM Systems shall be appropriately labeled and identified to enable
+25   distribution utility personnel, electrical workers, emergency responders, and
+26   other authorized persons to safely identify and isolate the system.
+
+27   The specific protection, equipment, testing, commissioning, maintenance,
+28   labeling, and other technical requirements shall be prescribed pursuant to
+29   applicable laws, rules, regulations, codes, and technical standards.
+
+30         SEC. 12. Equipment Standards and Certification. – Solar
+31   photovoltaic (PV) modules, inverters, batteries, BESS equipment, protection
+32   devices, and other covered equipment shall comply with applicable Philippine
+33   National Standards and mandatory product-safety and conformity-
+34   assessment requirements.
+
+35   The Department of Trade and Industry (DTI), through the Bureau of Philippine
+36   Standards (BPS), shall administer applicable product standards and
+ 1   conformity-assessment requirements for covered equipment, in coordination
+ 2   with the DOE and other concerned agencies within their respective mandates.
+
+ 3   No person shall knowingly sell, distribute, import, install, or represent as
+ 4   compliant covered equipment that does not comply with applicable mandatory
+ 5   standards.
+
+ 6         SEC. 13. Accreditation and Accountability of Suppliers. – No
+ 7   person or entity shall undertake the supply, design, installation,
+ 8   commissioning, maintenance, repair, or other regulated installation services
+ 9   for BTM Systems covered by this Act unless duly accredited as a Supplier
+10   under this Act or otherwise authorized under applicable law.
+
+11   No person or entity shall represent itself as an Accredited Supplier, use the
+12   accreditation of another Supplier, or undertake installation through an
+13   unauthorized or unregistered installation team.
+
+14   The DOE, in coordination with the DTI, DILG, ERC, and other concerned
+15   agencies within their respective mandates, shall establish and maintain an
+16   accreditation system for Suppliers of BTM solar generation and BESS systems
+17   and associated equipment.
+
+18   Accreditation shall be granted only to Suppliers that demonstrate the required
+19   business registration, technical competency, financial capacity, equipment
+20   compliance, and other qualifications prescribed under this Act and its
+21   implementing rules and regulations.
+
+22   An Accredited Supplier shall maintain its own qualified team of installers and
+23   shall be directly and fully accountable for the entire supply, installation,
+24   testing, commissioning, warranty, maintenance, and after-sales service of the
+25   BTM System.
+
+26   The DOE, in coordination with the DTI and DILG, shall maintain a publicly
+27   accessible registry of Accredited Suppliers and their authorized installation
+28   teams.
+
+29         SEC. 14. Prevention of Fly-by-Night Suppliers and Substandard
+30   Installations. – No person or entity shall advertise, offer, represent, or
+31   provide BTM System supply or installation services as an Accredited Supplier
+32   unless duly accredited under this Act.
+
+33   An Accredited Supplier shall ensure that all BTM Systems supplied, installed,
+34   tested, or commissioned by it comply with applicable Philippine National
+35   Standards, the Philippine Electrical Code, fire and safety requirements, and
+36   other applicable technical standards.
+ 1   An Accredited Supplier shall be responsible for correcting, at its own expense,
+ 2   any defective or substandard installation attributable to its acts or omissions,
+ 3   without prejudice to applicable warranty, insurance, civil, or administrative
+ 4   remedies.
+
+ 5   The DOE, in coordination with the DTI, DILG, ERC, and other concerned
+ 6   agencies, shall establish measures to prevent fly-by-night suppliers,
+ 7   unauthorized operators, misrepresentation of accreditation, fraudulent or
+ 8   misleading representations, and substandard installations.
+
+ 9         The implementing rules and regulations shall prescribe appropriate
+10   requirements for supplier verification, installation records, warranties,
+11   consumer complaints, corrective measures, and other mechanisms necessary
+12   to protect consumers and ensure the quality and safety of BTM Systems.
+
+13          SEC. 15. Continuity of Supplier Obligations. – An Accredited
+14   Supplier that intends to cease, suspend, or discontinue its supply or
+15   installation activities for BTM Systems shall notify the DOE and other
+16   concerned government agencies within the period prescribed by the
+17   implementing rules and regulations.
+
+18   Such notification shall include measures for the orderly disposition of its
+19   outstanding obligations, including warranties, maintenance, after-sales
+20   service, and pending consumer complaints.
+
+21   The cessation, suspension, or discontinuance of business shall not extinguish
+22   the Supplier's obligations arising from BTM Systems previously supplied,
+23   installed, or commissioned, including applicable warranty and consumer
+24   protection obligations.
+
+25   The implementing rules and regulations shall prescribe the notification
+26   period, transition requirements, and procedures for the continued servicing
+27   of systems previously supplied or installed by a Supplier that ceases
+28   operations.
+
+29          SEC. 16. Penalties and Administrative Sanctions. – Any Accredited
+30   Supplier that violates this Act, its implementing rules and regulations,
+31   applicable safety and technical standards, or the conditions of its
+32   accreditation shall be subject to administrative penalties, without prejudice
+33   to civil or criminal liability under existing laws.
+
+34      (a) First Offense. – A fine in an amount to be prescribed under the
+35          implementing rules and regulations and suspension of accreditation for
+36          a period to be prescribed by the DOE;
+37      (b) Second Offense. – A higher fine as may be prescribed under the
+ 1          implementing rules and regulations and suspension of accreditation for
+ 2          a longer period;
+ 3      (c) Third Offense. – Revocation of accreditation and disqualification from
+ 4          re-accreditation for a period to be prescribed by the DOE.
+
+ 5   The penalties shall be imposed only after notice and opportunity to be heard
+ 6   and in accordance with due process. The implementing rules and regulations
+ 7   shall establish the schedule of fines, periods of suspension, grounds for
+ 8   revocation, procedures for investigation and adjudication, and rules for
+ 9   determining whether violations are separate offenses or continuing violations.
+
+10         SEC. 17. System Planning and Consumer Protection. – The DOE
+11   and ERC shall, within their respective mandates, ensure that the adoption of
+12   BTM generation and energy storage is appropriately considered in electricity
+13   demand forecasting, distribution planning, and power supply planning,
+14   consistent with existing contractual and regulatory obligations.
+
+15   Nothing in this Act shall authorize the modification, impairment, or avoidance
+16   of valid existing contracts or obligations. The appropriate government
+17   agencies shall take into account the effects of BTM adoption on system costs
+18   and shall ensure, consistent with applicable law, that the implementation of
+19   this Act does not result in unreasonable or unjustified cost shifting to
+20   electricity consumers who do not have BTM systems.
+
+21          SEC. 18. Environmental Compliance and End-of-Life Management.
+22   – The installation, operation, maintenance, decommissioning, removal,
+23   collection, transport, recycling, treatment, and disposal of solar photovoltaic
+24   modules, batteries, BESS, and related equipment shall be undertaken in
+25   compliance with applicable environmental laws, rules, regulations, and
+26   standards.
+
+27   The Department of Environment and Natural Resources (DENR), in
+28   coordination with the DOE and other concerned agencies within their
+29   respective mandates, shall prescribe appropriate environmental and end-of-
+30   life management requirements for covered equipment, consistent with
+31   existing law.
+
+32         SEC. 19. Financing and Government Support. — The DOE, in
+33   coordination with the Department of Budget and Management (DBM),
+34   Department of Finance (DOF), and other concerned agencies within their
+35   respective mandates, shall establish financing programs, targeted financial
+36   assistance, incentives, or other forms of support for qualified end-users
+37   adopting battery energy storage systems or integrated solar-plus-storage
+38   systems for own-use.
+ 1   Priority shall be given to measures that promote energy storage, reduce or
+ 2   shift peak electricity demand, improve electricity reliability and resilience, and
+ 3   support low-income or underserved consumers, subject to the availability of
+ 4   funds and applicable laws.
+
+ 5   No subsidy or financial assistance under this section shall be charged to
+ 6   electricity consumers through distribution utility rates or charges unless
+ 7   otherwise authorized by law.
+
+ 8         SEC. 20. Implementing Rules and Regulations. – Within ninety (90)
+ 9   days from the effectivity of this Act, the DOE, in coordination with the ERC,
+10   DTI, DENR, DILG, DPWH, DHSUD, BFP, and other concerned agencies within
+11   their respective mandates, shall promulgate the rules necessary for the
+12   implementation of this Act.
+
+13          SEC. 21. Separability Clause. — If any provision of this Act is
+14   declared unconstitutional or invalid, the other provisions not affected thereby
+15   shall remain in full force and effect.
+
+16         SEC. 22. Repealing Clause. — All laws, decrees, executive orders,
+17   rules, regulations, circulars, orders, and other issuances, or parts thereof,
+18   inconsistent with the provisions of this Act are hereby repealed, amended, or
+19   modified accordingly.
+
+20         SEC. 23. Effectivity. — This Act shall take effect fifteen (15) days after
+21   its publication in the Official Gazette or in a newspaper of general circulation.
+
+22   Approved.
+

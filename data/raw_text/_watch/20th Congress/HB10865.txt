@@ -1,0 +1,419 @@
+                                   Republic of the Philippines
+                                 HOUSE OF REPRESENTATIVES
+                                   Quezon City, Metro Manila
+                                                                                               August 24, 2026
+                                                                                                 1:29 pm
+                                      TWENTIETH CONGRESS
+                                      Second Regular Session
+
+                                                   10865
+                                HOUSE BILL NO. _______________
+
+
+                             Introduced by ANG PROBINSYANO
+                        Party-List Representative Alfred Delos Santos
+
+
+                                       EXPLANATORY NOTE
+
+      The Philippines, at its core, an agricultural economy, yet the persistent
+paradox of its farm sector is not scarcity, but supply mismatch. The bountiful
+harvests of our farmers often go to rot or are sold at a loss, while nearby markets
+face shortages and higher prices for the very same commodities. This chronic
+disruption is a traceable crisis that recurs due to failure of information and
+coordination between production and demand.
+
+       As a country with agricultural yields, it is highly necessary that we bank
+on the strengths of our existing industries. It is also shown during times of
+emergency and crisis that there exists a gap in the information system involving
+our farming sectors. This pattern has repeated with striking regularity in recent
+years. In Benguet, in one instance, the country’s so-called “Salad Bowl” that
+supplies nearly 80% of the upland vegetables sold in Metro Manila, cabbage
+farmers have seen farmgate prices collapse to as low as P4 to P10 per kilo, forcing
+many to either sell at a loss or abandon their harvest altogether, even as prices
+in the end-market remain multiple times higher.1
+
+      Likewise, in Nueva Ecija and Rizal provinces, tomato farmers faced a
+similar collapse in early 2025, with farmgate prices falling to P4 to P5 per kilo,
+prompting Department of Science and Technology – Philippine Council for
+Agriculture, Aquatic, and Natural Resources Research and Development (DOST-
+PCAARRD) and Sen. Kiko Pangilinan to launch multiple initiatives, such as
+“Operation Sagip-Kamatis-an” to rescue the unsold produce and calling on local
+government units to procure the excess for feeding programs.2 As one farmer-
+
+1
+  Carby Rose Basina, “Benguet farmers struggle with low vegetable prices, oppose planned carrot imports,” GMA
+News Online, 25 May 2026, available at: https://www.gmanetwork.com/news/topstories/nation/988714/benguet-
+farmers-struggle-with-low-vegetable-prices-oppose-planned-carrot-imports/story/
+2
+  Clarizel Joy Jamille Gomez, “Tomato Price Volatility in Luzon: Challenges for Farmers, Consumers, and the Need
+for Market Stability,” DOST-PCAARD’s ISP-IS, 4 April 2025, available at:
+advocate group put it plainly: “There is actually market demand. It’s just not
+reaching it. So, it looks like overproduction.”3
+
+       The government has not been without initiatives to address this gap. The
+Department of Agriculture (DA) currently maintains several digital platforms,
+among them the Registry System for Basic Sectors in Agriculture (RSBSA), the
+e-Kadiwa e-commerce platform, and the Bantay-Presyo price-monitoring
+application. These are valuable, but largely function as centralized, top-down
+tools; none of them is mandated to operate as real-time, two-way local matching
+system at the city, municipal, and barangay level where oversupply and
+undersupply typically originate, and where the earliest, most actionable
+information exists. The gap that this bill seeks to address is precisely that last-
+mile layer, the absence of a legally mandated, LGU-anchored information system
+that captures hyperlocal production data as it is harvested, and connects, in real
+time, to buyers and to the national platforms/registries that already exist.
+
+      It was recently shown that a lot of farming communities are forced to throw
+away their crops due to the supposed oversupply. However, upon careful
+investigation, it shows that there exists demand in several areas in the country
+which are not taken account of because of this information gap. Such gaps have
+become more urgent to close now that the National Government has significantly
+scaled up its investment in agricultural infrastructure.
+
+       For example, the 2026 National Budget substantially increased funding
+for farm-to-market roads, precisely to move produce out of the farms and into
+markets faster. Roads without a matching information system to tell farmers
+where the demand is, and buyers where the supply is, will only get produce to
+market faster without ensuring that it goes to where it is needed. 4 Physical
+infrastructure and information infrastructure must be developed together.
+
+      It is for these reasons that this bill seeks to reestablish, in an updated and
+strengthened form, the Agriculture Information System, built to interoperate
+with existing national platforms rather than duplicate them, while accessible to
+farmers who lack reliable internet access through SMS and community kiosks
+and not just a web application, and backed by a funding mechanism that does
+not leave under-resources municipalities, communities, and farmer groups to
+shoulder an unfunded mandate alone.
+
+        Hence, it is for these reasons that this bill is earnestly sought.
+
+
+
+https://ispweb.pcaarrd.dost.gov.ph/tomato-price-volatility-in-luzon-challenges-for-farmers-consumers-and-the-
+need-for-market-stability/
+3
+  Ibid.
+4
+  Audrey De Jesus, “Harvesting pork, not rural development: The 2026 agriculture budget examined,” Ibon
+Foundation, 18 January 2026, available at: https://www.ibon.org/tl/pork-not-rural-devt-2026-agri-budget/
+             ALFRED C. DELOS SANTOS
+Representative, Ang Probinsyano Party-List
+                           Republic of the Philippines
+                         HOUSE OF REPRESENTATIVES
+                           Quezon City, Metro Manila
+
+                             TWENTIETH CONGRESS
+                              Second Regular Session
+
+                        HOUSE BILL NO.     10865
+                                       _______________
+
+
+                       Introduced by ANG PROBINSYANO
+                  Party-List Representative Alfred Delos Santos
+
+
+                            AN ACT
+    ESTABLISHING THE AGRICULTURE INFORMATION SYSTEM IN ALL
+                   CITIES AND MUNICIPALITIES
+
+       Be it enacted by the Senate and the House of Representatives of the
+Philippines in Congress assembled:
+
+
+      SECTION 1. Short Title. – This Act shall be known as the “Agriculture
+Information System Act.”
+
+       SECTION 2. Declaration of Policy. – It is the policy of the State to uplift the
+socio-economic conditions of farmers and farming communities nationwide in
+order to promote their welfare and empower their sector in the overall
+development and progress of the country. Pursuant to this, an integrated,
+computerized, web-based agricultural commodities supply inventory and
+registry system linking farmers and organized communities all over the country
+needs to be established to provide an easy-to-access local and global real time
+information for agricultural commodities, with an end view of creating a wider
+range of market linkages among farmers and agricultural buyers. Furthermore,
+through a synchronized agriculture information system, the National
+Government should have access to real-time agricultural information which can
+rationalize the objectives and policy directives in the agricultural sector.
+
+      SECTION 3. Definitions. – As used in this Act:
+
+      (a) Agriculture information system refers to the integrated,
+          computerized database and multi-channel platform established under
+          this Act for the collection, consolidation, and dissemination of
+          agricultural production, demand, and market information;
+      (b) Interoperability refers to the capacity of the Information System to
+          exchange and make use of data with other government agricultural
+    databases, including but not limited to the Registry System for Basic
+    Sectors in Agriculture (RSBSA), the e-Kadiwa platform, the Bantay-
+    Presyo price-monitoring application, and the Commodity Trade Volume
+    Watch System of the Department of Agriculture, and the relevant
+    databases of the Philippine Statistics Authority (PSA) and the Philippine
+    Atmospheric, Geophysical and Astronomical Services Administration
+    (PAGASA);
+(c) Farmer refers to a natural person, whether individually or as a member
+    of a cooperative, association, or organized farming group, who is
+    directly engaged in the cultivation of agricultural land, the raising of
+    livestock or poultry, or aquaculture;
+(d) Buyer refers to any natural or juridical person, including traders,
+    consolidators, institutional buyers, retailers, exporters, and
+    government agencies, seeking to purchase agricultural commodities
+    registered in the Information System;
+(e) Oversupply or undersupply alert refers to an automated notification
+    generated by the Information System when production data for a given
+    commodity, in a given locality and timeframe, substantially exceeds or
+    falls short of corresponding demand data; and
+(f) Last-Mile Farmer refers to a farmer located in a geographically
+    isolated, disadvantaged, or low-connectivity area, for whom access to
+    the Information System must be facilitated through non-internet-
+    dependent channels.
+
+SECTION 4. Objectives. – This Act aims to attain the following objectives:
+
+a) Provide an up-to-date database of agricultural products in the locality;
+b) Facilitate linkages from farm-to-market among local government units;
+c) Provide data specific commodities readily available in the particular
+   locality for stakeholders;
+d) Detect and provide early warning of impending oversupply or
+   undersupply of specific commodities to allow timely intervention by
+   local and national government;
+e) Secure for farmers additional and more stable sources of income by
+   reducing reliance on unplanned distress sales;
+f) Encourage the farmers to engage in synchronized agricultural mass
+   production to meet the voluminous demands of the market;
+g) Provide multi-channel access to the Information System, including a
+   web application, a mobile application, SMS or text-based services, and
+   community-based kiosks or help desks, to ensure last-mile farmers are
+   not excluded for lack of internet access or digital literacy;
+h) Streamline training and seminars in the management of the
+   operations;
+i) Monitor the distribution and use of farm inputs provided to farmers;
+j) Facilitate information sharing on commodity flows, specifically, supply
+   and demand;
+      k) Protect the personal and livelihood data of farmers and buyers
+         collected through the Information System; and
+      l) Ensure that government financial assistance is given only to duly
+         formed cooperatives and farmers groups.
+
+       SECTION 5. Establishment of the Agriculture Information System. – All
+cities and municipalities are hereby mandated to establish an Agriculture
+Information System, hereinafter referred to as Information System, which shall
+serve as a dynamic online computer database for information on the demand for
+specific agricultural commodities is gathered simultaneously with the
+production data from farmers in every barangay. The information system shall
+merge and synchronize agricultural data from different sources into a cohesive
+database designed to facilitate linkages from place of origin or the farm to local,
+and ultimately, global markets, and shall be interoperable with the national
+databases identified in Section 3(b) of this Act.
+
+      SECTION 6. Features and Contents of the Information System. – The
+Information System shall have the following features and contents:
+
+      a) Multi-channel accessibility, consisting at minimum of (i) a web
+         application, (ii) a mobile application optimized for low-bandwidth use,
+         (iii) an SMS or text-based interface for last-mile farmers without
+         internet access, and (iv) a physical help desk or kiosk in every
+         municipal or city agriculture office;
+      b) Municipal and city-wide identification of farmers producing specific
+         farm products in small or large quantities;
+      c) Crop harvests, volume, and type forecasting;
+      d) Inventory of specific classification of crop varieties planted and
+         livestock raised in a particular local government unit;
+      e) Farmers’ demographics, including age group, gender, and seminars
+         and trainings attended;
+      f) Automated generation and dissemination of Oversupply or
+         Undersupply Alerts, as defined in Section 3(e), to the concerned local
+         government unit, the provincial and regional offices of the Department
+         of Agriculture, and registered institutional buyers;
+      g) Selected reports presented in both tabular and graphical form
+         accessible through a public dashboard maintained at the city or
+         municipal level;
+      h) Registry of farmers' contact details and farm location to facilitate
+         market linkages, collected and maintained in accordance with Section
+         11 of this Act;
+      i) A search function allowing farmers to search for potential buyers and
+         buyers to search for farms, farmers, and available agricultural
+         products; and
+      j) A customizable dashboard, accessible only to registered farmer clients,
+         containing the farmer's profile, farm details, land area, and crops
+         planted or livestock raised.
+
+       SECTION 7. Registration. – All cities and municipalities shall encourage
+and facilitate the free registration of all farmers and buyers transacting within
+their respective jurisdictions in the Information System. Registration shall
+require the informed consent of the farmer or buyer as to the collection, use, and
+sharing of their personal data consistent with Section 11 of this Act, and shall,
+to the extent practicable, be cross-referenced with existing records under the
+Registry System for Basic Sectors in Agriculture (RSBSA) to avoid duplicate data
+collection.
+
+      SECTION 8. Functions and Responsibilities of Local Government Units. –
+The Local Government unit shall exercise the following functions and
+responsibilities:
+
+         a) Gather, encode, and consolidate the profile and demographics of
+            farmers and buyers as well as other pertinent agricultural data;
+         b) Monitor and control farm inputs including machineries and
+            equipment;
+         c) Establish and maintain a physical help desk or kiosk, and provide
+            SMS-based access, for last-mile farmers who lack internet access or
+            digital literacy;
+         d) Conduct regular digital-literacy training for farmers on the use of
+            the Information System, in coordination with the Department of
+            Agriculture      and  the    Department     of   Information    and
+            Communications Technology (DICT);
+         e) Prepare and submit real time reports to the provincial office of the
+            Department of Agriculture;
+         f) Act on Oversupply or Undersupply Alerts by, among others,
+            coordinating with institutional buyers, feeding programs, and
+            neighboring local government units for the absorption of excess
+            produce; and
+         g) Establish farmer and buyer linkages and act as the gatekeeper at
+            the city or municipal level for the nationwide marketing of
+            agricultural products.
+
+      SECTION 9. Functions and Responsibilities of the Provincial Government. –
+The provincial government should have the following functions and
+responsibilities:
+
+         a) The Provincial Planning and Development Office shall act as the web
+            administrator at the provincial level and shall be responsible for
+            integrating farm locations into the geographic information system
+            maps for agriculture;
+         b) The Local Economic and Investment Promotion Office shall act as
+            the lead administrator of the Agriculture Information System at the
+            provincial level and shall serve as market mitigator, coordinating the
+            response to Oversupply or Undersupply Alerts across municipalities
+            and cities within the province; and
+         c) The provincial office of the Department of Agriculture shall monitor
+            the submission of reports from local government units, ensuring the
+            completeness, validity, and accuracy of data submitted by the
+            Municipal Agriculture Office.
+
+      SECTION 10. Functions and Responsibilities of the Regional Office of the
+Department of Agriculture. – The Regional Office of the Department of Agriculture
+shall have the following functions and responsibilities.
+
+         a) Collaborate with market linkages from other regions, integrating
+            geographic information system data on project interventions, soil
+            maps, suitability maps, and commodity maps within the region;
+         b) Recommend to the central office of the Department of Agriculture
+            appropriate interventions in the form of marketing, importation, and
+            training assistance needed at the provincial level;
+         c) Validate data from the provincial offices of the Department of
+            Agriculture, acting as the System Administrator at the regional level
+            and providing real-time reports to the Central Office of the
+            Department of Agriculture; and
+         d) Coordinate with the regional office of the Philippine Atmospheric,
+            Geophysical and Astronomical Services Administration (PAGASA) to
+            integrate weather and climate advisories into the Information
+            System's production forecasting features.
+
+       SECTION 11. Data Privacy and Security. – The collection, processing,
+storage, and sharing of personal data under this Act shall be governed by the
+following:
+
+         a) All personal data of farmers and buyers collected through the
+            Information System shall be processed in accordance with Republic
+            Act No. 10173, or the “Data Privacy Act of 2012,” and its
+            implementing rules and regulations;
+         b) Each city or municipality shall designate a Data Protection Officer
+            responsible for ensuring compliance with data privacy requirements
+            in the operation of the Information System;
+         c) Farmers and buyers shall be informed, in a language or dialect they
+            understand, of the purpose, extent, and recipients of any collection
+            or sharing of their personal data prior to registration;
+         d) Personal data shall not be shared with any third party, including
+            private buyers or platforms, without the explicit consent of the
+            farmer or buyer concerned, except as may be required for
+            interoperability with the national databases identified in Section 3(b)
+            of this Act; and
+         e) Any breach of data security shall be reported to the National Privacy
+            Commission and to the affected farmers or buyers in accordance
+            with existing law.
+
+      SECTION 12. Role of the Department of Information and Communications
+Technology. – The Department of Information and Communications Technology
+(DICT) shall provide technical standards, cybersecurity oversight, and cloud
+infrastructure support for the Information System, and shall assist the
+Department of Agriculture in ensuring that the Information System is
+interoperable with the national government's broader e-Government
+infrastructure and complies with applicable data security standards.
+      SECTION 13. Functions and Responsibilities of the Central Office of the
+Department of Agriculture. – The Central Office of the Department of Agriculture
+shall have the following functions and responsibilities:
+      (a) Allocate funding for the establishment, operation, and maintenance of
+          the Information System;
+      (b) Approve prioritized interventions recommended by the regional offices
+          and allocate corresponding funding;
+      (c) Collaborate with other agencies, including the Philippine Statistics
+          Authority, for the validation of data and the creation of market linkages
+          in the domestic and international markets;
+      (d) Ensure the interoperability of the Information System with the Registry
+          System for Basic Sectors in Agriculture (RSBSA), the e-Kadiwa
+          platform, the Bantay-Presyo application, and the Commodity Trade
+          Volume Watch System, in coordination with the DICT; and
+      (e) Provide safety nets in the importation and exportation of agricultural
+          products in order to support farmers.
+
+      SECTION 14. Capacity Building and Digital Literacy Program – The
+Department of Agriculture, in coordination with local government units, the
+DICT, and the Technical Education and Skills Development Authority (TESDA),
+shall develop and implement a continuing digital-literacy program to train
+farmers, cooperative officers, and local government personnel in the use of the
+Information System, with particular attention to elderly farmers and Last-Mile
+Farmers as defined under this Act. Training materials shall be made available in
+relevant regional languages or dialects.
+       SECTION 15. Public-Private Partnerships. – The Department of Agriculture
+may enter into data-sharing or interoperability agreements with accredited
+private e-commerce platforms, logistics providers, agricultural lending
+institutions, and insurance providers to expand market and financial linkages
+available to registered farmers through the Information System, subject to the
+data privacy safeguards under Section 11 of this Act and to guidelines issued by
+the Department in its implementing rules and regulations.
+      SECTION 16. Duties of the Secretary of Agriculture. – The Secretary of
+Agriculture shall monitor and ensure compliance by all cities and municipalities
+with this Act and shall, as soon as practicable but not later than one (1) year
+from the effectivity of this Act, establish a centralized agricultural information
+system that shall integrate and link all city- and municipal-level Information
+Systems established under this Act with existing national agricultural
+databases.
+      SECTION 17. Reports. – The Secretary of Agriculture shall prepare and
+submit to the President and both Houses of Congress an annual report on the
+program's performance, which shall contain the list of accomplishments, the
+number of Oversupply or Undersupply Alerts issued and the corresponding
+interventions undertaken, and recommendations. A summary of the report shall
+likewise be made available to the public through a dashboard maintained on the
+Department of Agriculture's official website.
+       SECTION 18. Implementing Rules and Regulations. – Within one hundred
+eighty (180) days after the effectivity of this Act, the Secretary of Agriculture in
+coordination with the DICT and the National Privacy Commission, shall
+promulgate the necessary rules and regulations for the effective implementation
+of this Act.
+      SECTION 19. Appropriations. – The initial amount necessary for the
+development, establishment, and nationwide rollout of the Information System,
+including its interoperability infrastructure, shall be charged against the current
+year's appropriation of the Department of Agriculture. Thereafter, the amount
+necessary for the operation and maintenance of the Information System at the
+city or municipal level shall be included in the annual appropriations of the
+concerned local government unit, which may be sourced from its Internal
+Revenue Allotment or other local funds allocated for agricultural development,
+supplemented as needed by the Department of Agriculture. Such sums as may
+be necessary for the continued operation, maintenance, and enhancement of the
+Information System shall thereafter be included in the annual General
+Appropriations Act.
+      SECTION 20. Repealing Clause. – All provisions of laws, presidential
+decrees, letters of instruction, and other presidential issuances that are
+incompatible or inconsistent with the provisions of this Act are hereby deemed
+amended or repealed.
+      SECTION 21. Separability Clause. – If any provision of this Act, or part
+hereof, is held invalid or unconstitutional, the remainder of the law or provision
+not otherwise affected shall remain valid and subsisting.
+      SECTION 22. Effectivity. – This Act shall take effect fifteen (15) days after
+its publication in the Official Gazette or in a newspaper of general circulation.
+
+
+      Approved,
+

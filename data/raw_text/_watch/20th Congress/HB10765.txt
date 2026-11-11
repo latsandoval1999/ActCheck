@@ -1,0 +1,660 @@
+                                             Republic of the Philippines
+                                           HOUSE OF REPRESENTATIVES
+                                             Quezon City, Metro Manila
+                                                                                                                        August 12, 2026
+                                                  TWENTIETH CONGRESS                                                      6:51 pm
+                                                   Second Regular Session
+
+                                                               10765
+                                              HOUSE BILL NO. ___________
+
+
+                        Introduced by Representative AGATHA “AGAY” CRUZ
+
+
+                                                   EXPLANATORY NOTE
+
+       More and more public and private services are moving from the counter to the
+screen. For many, this means greater convenience. For some senior citizens, however, it
+can also mean difficulty accessing government services, financial transactions,
+transportation, health services, and even benefits already granted by law.
+
+      This challenge will only become more significant as the country ages. The 2024
+Census of Population recorded 11.42 million senior citizens, or 10.2% of the household
+population, up from 8.5% in 2020.1
+
+        This demographic shift is unfolding alongside the rapid digitalization of essential
+services, even as many older Filipinos continue to face barriers in navigating digital
+technologies. The Philippine Institute for Development Studies has reported that digital
+literacy is particularly low among persons aged 65 years and above.2
+
+       Recognizing that digitalization must remain inclusive, Republic Act No. 12254, or
+the “E-Governance Act,” requires the continued availability of government services to
+persons without internet access and provides for alternative modes of delivery. The
+proposed Digital Inclusion for Seniors Act builds on this principle by addressing the
+particular needs of senior citizens as more public and essential services move online.
+
+       The proposed measure ensures reasonable assisted digital support in government
+and essential services; promotes senior-friendly digital design; protects access to statutory
+senior citizen benefits in online transactions; and allows the use of digital identification
+without making a smartphone, application, or electronic credential the exclusive means
+of proving eligibility.
+
+           The bill recognizes that difficulty with technology does not mean incapacity. A
+
+1 Age and Sex Distribution in the Philippine Population (2024 Census of Population), PHILIPPINE STATISTICS AUTHORITY, 17 July 2026, available at
+
+https://psa.gov.ph/content/age-and-sex-distribution-philippine-population-2024-census-population
+2 Fact Friday on Digital Literacy Skills of Filipinos, PHILIPPINE INSTITUTE FOR DEVELOPMENT STUDIES, 17 December 2021, available at
+
+https://www.pids.gov.ph/details/fact-friday-on-digital-literacy-skills-of-filipinos
+senior citizen may seek assistance from a family member, caregiver, or chosen support
+person without surrendering the right to decide, consent, or transact independently.
+
+        Digital transformation should make life easier, not place another barrier between
+citizens and the services to which they are entitled. The queue may be moving from the
+counter to the screen, but no senior citizen should be left behind when it does.
+
+       In view of the foregoing, the immediate enactment of this bill is earnestly sought.
+
+
+
+
+                                                 AGATHA “AGAY” CRUZ
+                                     Representative, Fifth Legislative District of Bulacan
+                                    Republic of the Philippines
+                                  HOUSE OF REPRESENTATIVES
+                                          Quezon City
+
+                                       TWENTIETH CONGRESS
+                                        Second Regular Session
+
+                                                     10765
+                                    HOUSE BILL NO. ___________
+
+
+                     Introduced by Representative AGATHA “AGAY” CRUZ
+
+
+                                  AN ACT
+       PROMOTING THE DIGITAL INCLUSION OF SENIOR CITIZENS, ENSURING
+         ACCESS TO ASSISTED DIGITAL SUPPORT AND ESSENTIAL SERVICES,
+       ESTABLISHING STANDARDS FOR SENIOR-FRIENDLY DIGITAL SERVICES,
+                          AND FOR OTHER PURPOSES
+
+            Be it enacted by the Senate and the House of Representatives of the Philippines in Congress
+     assembled:
+
+ 1          Section 1. Short Title. – This Act shall be known as the “Digital Inclusion for
+ 2   Seniors Act.”
+ 3
+ 4           Section 2. Declaration of Policy. – It is the policy of the State to ensure that digital
+ 5   transformation promotes, rather than diminishes, the autonomy, participation, safety, and
+ 6   access to essential services of senior citizens.
+ 7
+ 8           Towards this end, the State shall promote digital literacy and confidence among
+ 9   senior citizens; ensure meaningful assistance for those who require help in accessing
+10   digital services; prevent exclusion from government and essential services solely because
+11   of inability or difficulty in using digital technologies; ensure that privileges and benefits
+12   granted by law remain reasonably accessible regardless of the mode of transaction; and
+13   promote digital services that are accessible, understandable, secure, and responsive to the
+14   needs of senior citizens.
+15
+16          Nothing in this Act shall be construed to presume incapacity on the basis of age or
+17   to diminish the right of a senior citizen to make decisions, enter into transactions, manage
+18   property, or exercise any right independently.
+19
+20          Section 3. Objectives. – This Act shall:
+21          (a) Enable senior citizens to participate safely and confidently in an increasingly
+22              digital economy and society;
+23          (b) Ensure reasonable assisted digital support in government and essential
+
+
+
+                                                                     DIGITAL INCLUSION FOR SENIORS ACT | 1
+ 1       services;
+ 2   (c) Prevent the transition to digital service delivery from excluding senior citizens
+ 3       who lack suitable devices, connectivity, digital skills, or confidence in using
+ 4       digital technologies;
+ 5   (d) Ensure the effective enjoyment through digital channels of privileges and
+ 6       benefits granted to senior citizens under existing laws;
+ 7   (e) Promote the design of digital services that are accessible, understandable,
+ 8       secure, and easy to navigate; and
+ 9   (f) Strengthen digital literacy, cybersecurity awareness, and protection against
+10       fraud and deceptive practices involving senior citizens.
+11
+12   Section 4. Definition of Terms. – As used in this Act:
+13
+14   (a) Assisted digital support refers to reasonable human assistance provided by a
+15       covered government entity or essential service provider to enable a senior
+16       citizen to access, understand, navigate, or complete a transaction using a digital
+17       service, without supplanting the senior citizen's decision, consent, or legal
+18       authority. Such assistance may be provided in person, by telephone, through
+19       live electronic communication, or through other appropriate means;
+20
+21   (b) Chosen support person refers to a family member, caregiver, companion, or other
+22       person voluntarily selected by a senior citizen to assist in accessing, navigating,
+23       understanding, or completing a digital transaction;
+24
+25   (c) Covered government entity refers to any government agency, office,
+26       instrumentality, government-owned or -controlled corporation, state
+27       university and college (SUC) , or local government unit (LGU) covered by
+28       Republic Act No. 12254, otherwise known as the “E-Governance Act”;
+29
+30   (d) Digital service refers to a service, transaction, process, or facility accessed or
+31       performed through a website, mobile application, self-service terminal,
+32       electronic platform, or other information and communications technology;
+33
+34   (e) Essential service provider refers to a public or private entity providing a regulated
+35       service essential to the health, safety, financial security, mobility,
+36       communication, or basic household needs of consumers, including:
+37       (1) financial service providers as defined under Republic Act No. 11765,
+38           otherwise known as the “Financial Products and Services Consumer
+39           Protection Act”;
+40       (2) public telecommunications entities and other regulated providers of
+41           electronic communications services;
+42       (3) regulated providers of electricity and water services;
+43       (4) health care institutions, health maintenance organizations, and other
+44           regulated health service providers offering consumer-facing digital
+
+
+
+                                                             DIGITAL INCLUSION FOR SENIORS ACT | 2
+ 1                 services;
+ 2             (5) domestic passenger transportation providers offering digital reservation,
+ 3                 booking, ticketing, payment, or passenger-service facilities; and
+ 4             (6) such other regulated service providers as may be determined by the
+ 5                 appropriate regulatory agency, after consultation with the National
+ 6                 Commission of Senior Citizens (NCSC), based on the essential nature of the
+ 7                 service and the substantial risk of exclusion arising from digital-only or
+ 8                 predominantly digital service delivery;
+ 9
+10          (f) Online merchant, e-retailer, e-marketplace, and digital platform shall have the
+11              meanings assigned to them under Republic Act No. 11967, otherwise known as
+12              the “Internet Transactions Act of 2023”;
+13
+14          (g) Senior citizen refers to a person who qualifies as such under Republic Act No.
+15              9994, otherwise known as the “Expanded Senior Citizens Act of 2010,” as
+16              amended; and
+17
+18          (h) Statutory senior citizen benefit refers to any discount, exemption, priority service,
+19              privilege, benefit, or other entitlement granted to senior citizens under law.
+20
+21           Section 5. Rights of Senior Citizens in Digital Transactions. – In addition to the
+22   rights provided under existing laws, every senior citizen shall have the right to:
+23
+24          (a) Reasonable assistance in accessing and using digital services of covered
+25              government entities and essential service providers when such assistance is
+26              necessary;
+27          (b) Choose a support person to assist in navigating or understanding a digital
+28              transaction, without such choice, by itself, creating guardianship, agency,
+29              authority over an account, or authority to make decisions or transact on behalf
+30              of the senior citizen;
+31          (c) Access government information, benefits, and services notwithstanding the
+32              absence of a smartphone, mobile application, electronic mail address, internet
+33              subscription, or similar digital resource, when the service may lawfully and
+34              reasonably be provided or verified through another means;
+35          (d) Avail of statutory senior citizen benefits through digital transactions to
+36              substantially the same extent that such benefits are available through
+37              equivalent in-person transactions;
+38          (e) Use an official or otherwise legally recognized digital credential, where
+39              available, as an alternative means of establishing senior citizen status, without
+40              prejudice to the continued validity of physical identification and other proof
+41              recognized by law or regulation;
+42          (f) Clear and understandable information concerning the nature, price, fees,
+43              material terms, consequences, and status of a digital transaction;
+44          (g) Reasonable and accessible means of correcting errors and seeking assistance
+
+
+
+                                                                    DIGITAL INCLUSION FOR SENIORS ACT | 3
+ 1              before finalizing a transaction;
+ 2          (h) Protection of personal, financial, authentication, health, and other protected
+ 3              information during an assisted digital transaction;
+ 4          (i) Accessible information on how and where to report suspected fraud, scams,
+ 5              unauthorized transactions, or misuse of personal information; and
+ 6          (j) Decide whether to transact independently or seek assistance, without being
+ 7              presumed incapable solely by reason of age.
+ 8
+ 9         Section 6. Assisted Access to Government Services. – Consistent with Republic Act
+10   No. 12254, covered government entities shall ensure that senior citizens who are unable
+11   or have substantial difficulty accessing a government digital service are provided
+12   reasonable assisted digital support or another appropriate mode of service delivery.
+13
+14          Assisted digital support may be integrated into existing frontline service desks,
+15   help desks, public assistance centers, contact centers, local government facilities, or other
+16   existing service delivery mechanisms.
+17
+18           Government digital platforms intended for general public use shall, where
+19   technically appropriate and consistent with applicable accessibility standards, provide
+20   senior-friendly features, which may include adjustable text size, adequate visual contrast,
+21   text-to-speech or voice assistance, clear navigation, and readily identifiable access to
+22   human assistance.
+23
+24           Integrated government digital platforms, including the eGovPH application or its
+25   successor, shall, to the extent practicable, provide convenient access to information on
+26   senior citizens’ rights and privileges and to relevant government health, social protection,
+27   livelihood, identification, and other services.
+28
+29        No senior citizen shall be denied access to a government service, benefit,
+30   document, payment, application, or other transaction solely because the senior citizen:
+31        (a) Does not own or possess a smartphone or similar device;
+32        (b) Has not installed a particular mobile application;
+33        (c) Does not have a personal electronic mail address or internet subscription; or
+34        (d) Is unable, after reasonable effort, to independently navigate the prescribed
+35            digital process.
+36
+37           Nothing in this section shall require an agency to dispense with a security,
+38   identification, evidentiary, authentication, or other requirement imposed by law or
+39   reasonably necessary to protect the integrity of the transaction.
+40
+41           Where a process is required by law or valid regulation to be electronic, the agency
+42   shall, to the extent practicable, provide assistance that enables the senior citizen to comply
+43   with the electronic process.
+44
+
+
+
+                                                                   DIGITAL INCLUSION FOR SENIORS ACT | 4
+ 1          Section 7. Assisted Access to Essential Services. – Essential service providers that
+ 2   offer consumer-facing services through digital channels shall provide senior citizens
+ 3   reasonable access to human assistance for material transactions, including account access
+ 4   or recovery, applications, payments, billing concerns, complaints, service interruptions,
+ 5   reservations, and other matters appropriate to the nature of the service.
+ 6
+ 7          Such assistance may be provided through existing branches or offices, telephone
+ 8   support, live electronic communication, authorized customer assistance personnel, or
+ 9   other effective means appropriate to the nature and business model of the provider.
+10
+11           Nothing in this Act shall require a service provider operating lawfully without
+12   physical branches or customer premises to establish a physical branch solely for purposes
+13   of this Act.
+14
+15          The appropriate regulatory agencies shall establish proportionate standards taking
+16   into consideration the nature and risk of the service, size and capacity of the provider,
+17   availability and effectiveness of alternative channels, cybersecurity requirements, and the
+18   need to avoid unreasonable regulatory burdens.
+19
+20          Section 8. Chosen Support Person. – A senior citizen may request the assistance of
+21   a chosen support person in accessing, navigating, understanding, or completing a digital
+22   transaction.
+23
+24          The presence or assistance of a chosen support person shall not:
+25          (a) constitute evidence of incapacity;
+26          (b) authorize such person to make decisions, give consent, enter into contracts,
+27              dispose of property, access an account, or otherwise act in place of the senior
+28              citizen;
+29          (c) dispense with authentication, consent, identification, or other requirements
+30              applicable to the senior citizen; or
+31          (d) create guardianship, agency, power of attorney, fiduciary relationship, or other
+32              representative authority.
+33
+34         The senior citizen may terminate the assistance or require the chosen support
+35   person to leave at any stage of the transaction.
+36
+37          Nothing in this section shall affect the authority of a duly appointed guardian,
+38   attorney-in-fact, representative, or other person lawfully authorized to act on behalf of the
+39   senior citizen under existing laws.
+40
+41          Section 9. Equal Availment of Senior Citizen Benefits in Digital Transactions. –
+42   The use of an online, mobile, electronic, or other digital channel shall not, by itself, deprive
+43   an eligible senior citizen of any statutory senior citizen benefit applicable to the
+44   underlying good or service.
+
+
+
+                                                                    DIGITAL INCLUSION FOR SENIORS ACT | 5
+ 1
+ 2           An online merchant, e-retailer, e-marketplace, digital platform, or other
+ 3   establishment required by law to grant a statutory senior citizen benefit shall provide a
+ 4   reasonable means for an eligible senior citizen to avail of such benefit when the covered
+ 5   good or service is offered through its digital channel.
+ 6
+ 7          The availment of such benefit shall remain subject to the eligibility, verification,
+ 8   and other substantive requirements prescribed by applicable laws and regulations.
+ 9
+10          E-marketplaces and digital platforms that facilitate transactions involving goods
+11   or services subject to statutory senior citizen benefits shall provide reasonable technical
+12   functionality by which covered merchants may implement such benefits, subject to
+13   guidelines issued by the Department of Trade and Industry (DTI), in coordination with
+14   the Bureau of Internal Revenue (BIR), National Commission of Senior Citizens (NCSC),
+15   Department of Information and Communications Technology (DTI), and other concerned
+16   agencies.
+17
+18           The concerned agencies shall promote secure and interoperable mechanisms for
+19   electronic verification of senior citizen status and the automated or facilitated application
+20   of statutory benefits in digital transactions.
+21
+22           Such mechanisms may utilize the Philippine Identification System (PhilSys),
+23   eGovPH, official senior citizen digital credentials, electronic identity verification or know-
+24   your-customer facilities, or where applicable, or other secure verification systems
+25   authorized by law or regulation: Provided, That no particular application, platform, or
+26   electronic credential shall be made the exclusive means of availing of a statutory senior
+27   citizen benefit.
+28
+29          No additional charge shall be imposed solely because a senior citizen avails of a
+30   statutory benefit through an assisted or alternative mode of transaction. This shall not
+31   prohibit lawful delivery, payment-processing, or similar charges imposed uniformly on
+32   similarly situated consumers and adequately disclosed before completion of the
+33   transaction.
+34
+35          Section 10. Technology-Neutral Proof of Senior Citizen Status. – An official digital
+36   or electronic senior citizen identification or credential duly issued or recognized by
+37   competent government authority shall be accepted for purposes authorized by law and
+38   applicable regulations.
+39
+40          Where senior citizen status may lawfully be established through an official digital
+41   credential or another recognized document, a senior citizen shall not be denied an
+42   otherwise applicable benefit solely because the physical senior citizen identification card
+43   is unavailable at the time of the transaction.
+44
+
+
+
+                                                                   DIGITAL INCLUSION FOR SENIORS ACT | 6
+ 1          The availability of digital identification shall not invalidate or render unacceptable
+ 2   a physical senior citizen identification card or other proof of eligibility recognized under
+ 3   existing laws and regulations.
+ 4
+ 5          No senior citizen shall be required to own a smartphone, install a particular mobile
+ 6   application, or maintain continuous internet access solely to establish entitlement to a
+ 7   statutory senior citizen benefit where such entitlement may lawfully be established
+ 8   through another recognized means.
+ 9
+10           The NCSC and the DICT may, in coordination with the Philippine Statistics
+11   Authority (PSA), National Privacy Commission, Bureau of Internal Revenue, and other
+12   concerned agencies, develop secure, interoperable, and privacy-preserving mechanisms
+13   for electronic verification of senior citizen status.
+14
+15         Digital verification systems shall, to the extent practicable, verify only the
+16   information necessary to establish eligibility and shall avoid unnecessary disclosure,
+17   reproduction, or retention of identification documents or unrelated personal information.
+18
+19          Section 11. Senior-Friendly Digital Service Standards. – The DICT, in coordination
+20   with the NCSC and the National Privacy Commission, shall develop baseline standards
+21   for senior-friendly digital services.
+22
+23          Such standards shall be consistent with the Philippine Web Accessibility Policy,
+24   internationally accepted accessibility and usability standards, applicable cybersecurity
+25   requirements, and relevant sectoral regulations, and shall promote, where appropriate:
+26          (a) Readable and adjustable text and sufficient visual contrast;
+27          (b) Text-to-speech, voice guidance, audio assistance, or comparable accessibility
+28              features appropriate to the service;
+29          (c) Clear, simple, and understandable navigation and instructions;
+30          (d) Adequate time to read, review, and complete transactions, including
+31              appropriate warnings before the expiration of sessions;
+32          (e) Clear identification and correction of errors before submission;
+33          (f) Prominent disclosure of prices, fees, discounts, recurring charges, and material
+34              consequences before confirmation;
+35          (g) Clear confirmation of completed, failed, cancelled, or pending transactions;
+36          (h) Readily identifiable means of obtaining human assistance;
+37          (i) Account recovery and identity-verification processes that are reasonably
+38              accessible without weakening legally required security controls;
+39          (j) Compatibility, where appropriate, with commonly used assistive technologies;
+40          (k) Avoidance of interface designs that materially obscure consent, fees,
+41              cancellation options, or the legal or financial consequences of a transaction; and
+42          (l) Clear and readily accessible information on available complaint, fraud-
+43              reporting, and account-recovery channels.
+44
+
+
+
+                                                                  DIGITAL INCLUSION FOR SENIORS ACT | 7
+ 1         Appropriate sector regulators shall adopt or adapt these standards to the services
+ 2   under their jurisdiction, taking into consideration applicable security, operational,
+ 3   prudential, and technical requirements.
+ 4
+ 5          Section 12. Safeguards in Assisted Digital Transactions. – Assisted digital support
+ 6   shall preserve the autonomy, privacy, and security of the senior citizen.
+ 7
+ 8          A person providing assisted digital support or acting as a chosen support person
+ 9   may assist in reading instructions, navigating menus, locating information, entering non-
+10   confidential information at the direction of the senior citizen, or explaining the steps
+11   involved in a transaction.
+12
+13         Unless otherwise authorized by law or pursuant to valid legal representation, such
+14   person shall not:
+15         (a) Request, require, record, retain, use, or disclose the senior citizen’s password,
+16             personal identification number, one-time password, private cryptographic
+17             key, biometric credential, or comparable confidential authentication
+18             information;
+19         (b) Make a material decision or provide consent in lieu of the senior citizen;
+20         (c) Alter the transaction selected by the senior citizen without the latter's
+21             knowledge and consent;
+22         (d) Use information obtained through the assistance for any purpose unrelated to
+23             the transaction; or
+24         (e) Induce, pressure, deceive, or mislead the senior citizen into purchasing,
+25             transferring, authorizing, or availing of a product, service, or transaction not
+26             knowingly chosen by the senior citizen.
+27
+28          Except where a duly authorized representative is acting pursuant to law or valid
+29   authority, the senior citizen shall personally make or confirm any material decision and,
+30   whenever practicable, personally enter or provide any confidential authentication
+31   credential.
+32
+33          Covered government entities and essential service providers shall, where
+34   practicable, design assisted processes so that confidential authentication may be
+35   completed privately by the senior citizen even when another person is providing
+36   navigation or other assistance.
+37
+38          Assisted digital support, by itself, shall not create an agency, guardianship,
+39   fiduciary relationship, power of attorney, authority over an account, or authority to
+40   transact on behalf of the senior citizen.
+41
+42         Section 13. Security and Fraud Prevention. – Nothing in this Act shall be construed
+43   to require the weakening, removal, circumvention, or sharing of multi-factor
+44   authentication, know-your-customer requirements, fraud-management systems, anti-
+
+
+
+                                                                 DIGITAL INCLUSION FOR SENIORS ACT | 8
+ 1   money laundering controls, data-protection measures, or other security requirements
+ 2   imposed under law or valid regulation.
+ 3
+ 4          Covered government entities and essential service providers shall ensure that
+ 5   personnel assigned to provide assisted digital support receive appropriate instructions or
+ 6   training on cybersecurity, data privacy, social engineering, fraud prevention, protection
+ 7   of authentication credentials, and proper handling of senior citizens' information.
+ 8
+ 9          In developing assisted access procedures, financial regulators and financial service
+10   providers shall ensure consistency with Republic Act No. 11765; Republic Act No. 12010,
+11   otherwise known as the “Anti-Financial Account Scamming Act”; Republic Act No. 10173,
+12   otherwise known as the “Data Privacy Act of 2012”; and other applicable laws and
+13   regulations.
+14
+15           Section 14. Senior Digital Inclusion Program. – The DICT, in coordination with
+16   the NCSC, shall integrate programs responsive to senior citizens into existing government
+17   digital literacy, ICT competency, cybersecurity awareness, free public internet access, and
+18   community digital access initiatives.
+19
+20          Such programs shall provide practical instruction, as appropriate, on:
+21          (a) Basic smartphone, computer, and internet use;
+22          (b) Online communication;
+23          (c) Access to digital government services and digital identification;
+24          (d) Electronic payments and digital financial services;
+25          (e) Online health, transportation, and consumer services;
+26          (f) Cybersecurity, data privacy, phishing, social engineering, identity theft,
+27              impersonation, fraudulent investment schemes, and other forms of digital
+28              fraud;
+29          (g) Recognition of false or misleading online information, fraudulent government
+30              or commercial messages, manipulated media, and other deceptive digital
+31              content;
+32          (h) Account security and recovery;
+33          (i) Verification of legitimate government websites, applications, messages, and
+34              payment channels;
+35          (j) Reporting suspected scams, cybercrime, unauthorized transactions, and
+36              consumer complaints; and
+37          (k) Responsible and informed use of emerging digital technologies.
+38
+39          Where appropriate, family members, caregivers, chosen support persons, and
+40   other persons who regularly assist senior citizens may participate in cybersecurity and
+41   fraud-awareness activities, particularly on safe assistance practices and the protection of
+42   authentication credentials.
+43
+44          The DICT may develop standardized modules and train facilitators and shall
+
+
+
+                                                                 DIGITAL INCLUSION FOR SENIORS ACT | 9
+ 1   promote, through existing programs and resources, accessible training venues and
+ 2   appropriate training equipment.
+ 3
+ 4            Programs shall, to the extent practicable, be made available through existing DICT
+ 5   facilities, LGUs and their respective Offices for Senior Citizens Affairs (OSCAs), senior
+ 6   citizens centers, public libraries, SUCs, local universities and colleges, and other
+ 7   appropriate public or community facilities.
+ 8
+ 9          The DICT and NCSC may enter into partnerships with educational institutions,
+10   civil society organizations, financial institutions, telecommunications providers,
+11   technology companies, and other private entities for purposes of training, public
+12   information, resource sharing, and community outreach, subject to applicable laws.
+13
+14           Section 15. Senior Digital Safety Information and Referral. – The DICT and NCSC,
+15   in coordination with the Cybercrime Investigation and Coordinating Center (CICC), DTI,
+16   Bangko Sentral ng Pilipinas (BSP), Securities and Exchange Commission (SEC), Insurance
+17   Commission (IC), National Telecommunications Commission (NTC), Philippine National
+18   Police (PNP), National Bureau of Investigation (NBI), and other concerned regulatory and
+19   law-enforcement agencies, shall ensure convenient access to accurate and updated
+20   information on:
+21           (a) Prevalent and emerging digital scams and fraudulent practices;
+22           (b) Measures for preventing and responding to fraud, identity theft, account
+23               compromise, unauthorized transactions, and misuse of personal information;
+24               and
+25           (c) Appropriate agency, regulator, hotline, online portal, or other existing channel
+26               through which a particular incident may be reported.
+27
+28          For this purpose, the concerned agencies shall maintain or make available through
+29   an existing government platform a consolidated and publicly accessible directory of
+30   relevant government reporting and assistance channels.
+31
+32           Section 16. Role of Local Government Units. – LGUs, through the OSCAs or
+33   existing citizen assistance mechanisms, shall support the implementation of this Act by
+34   facilitating information dissemination, referrals to assisted digital services, and access to
+35   digital literacy and safety activities using existing personnel, facilities, and programs,
+36   subject to the availability of resources.
+37
+38          Nothing in this section shall require LGU personnel, OSCAs, or other public
+39   personnel to conduct banking, financial, commercial, or other private transactions on
+40   behalf of senior citizens.
+41
+42         Section 17. Data and Policy Development. – The PSA, DICT, NCSC, and other
+43   concerned agencies shall, to the extent practicable, utilize existing surveys and
+44   administrative data to generate age-disaggregated information relevant to digital
+
+
+
+                                                                 DIGITAL INCLUSION FOR SENIORS ACT | 10
+ 1   inclusion, including internet and device access, digital skills, use of digital government
+ 2   and financial services, barriers to access, exposure to digital fraud, and other appropriate
+ 3   indicators.
+ 4
+ 5          New reporting requirements shall be minimized, and existing data collections
+ 6   shall be utilized whenever reasonably sufficient.
+ 7
+ 8          Such information shall be used to periodically assess and improve government
+ 9   policies, programs, service standards, and regulatory interventions relating to the digital
+10   inclusion of senior citizens.
+11
+12           Section 18. Complaints, Compliance, and Enforcement. – Complaints involving
+13   covered government entities shall be acted upon through the applicable mechanisms
+14   under Republic Act No. 11032, otherwise known as the “Ease of Doing Business and
+15   Efficient Government Service Delivery Act of 2018,” Republic Act No. 12254, civil service
+16   laws and rules, and other applicable laws.
+17
+18          Complaints involving essential service providers shall be filed with or referred to
+19   the appropriate sector regulator. Such regulator may, after due notice and opportunity to
+20   be heard, issue compliance or corrective orders and impose administrative sanctions
+21   within its statutory authority.
+22
+23           The DTI shall exercise jurisdiction over violations involving online merchants, e-
+24   retailers, e-marketplaces, digital platforms, and other consumer businesses within its
+25   jurisdiction, consistent with Republic Act No. 7394, otherwise known as the “Consumer
+26   Act of the Philippines,” Republic Act No. 11967, and other applicable laws.
+27
+28         A denial of a statutory senior citizen benefit that likewise constitutes a violation of
+29   Republic Act No. 9994, as amended, shall remain subject to the penalties and remedies
+30   provided therein.
+31
+32          The appropriate regulatory agencies shall incorporate the requirements of this Act
+33   into applicable consumer protection, accessibility, licensing, or regulatory standards
+34   within their respective jurisdictions.
+35
+36         Nothing in this Act shall preclude the application of any greater protection,
+37   remedy, liability, or penalty provided under another law.
+38
+39           Section 19. Continuity of Existing Modes of Service and Availment of Benefits. –
+40   The implementation of any digital identification, verification, discount, assisted-service,
+41   or other digital mechanism under this Act shall not, by itself, interrupt, suspend, or
+42   invalidate existing lawful means by which senior citizens access government services or
+43   avail of statutory senior citizen benefits.
+44
+
+
+
+                                                                 DIGITAL INCLUSION FOR SENIORS ACT | 11
+ 1          Physical identification, existing national and local government procedures, and
+ 2   other modes recognized by law or regulation shall continue to be honored, subject to
+ 3   applicable verification requirements, unless otherwise expressly provided by law.
+ 4
+ 5          Section 20. Implementing Rules and Regulations. – Within one hundred eighty
+ 6   (180) days from the effectivity of this Act, the DICT and NCSC, in coordination with DTI,
+ 7   the Anti-Red Tape Authority (ARTA), NPC, BSP, SEC, IC, Cooperative Development
+ 8   Authority (CDA), Department of Health (DOH), Department of Transportation (DOTr),
+ 9   NTC, Energy Regulatory Commission (ERC), PSA, BIR, CICC, and other concerned
+10   agencies, shall promulgate the rules and regulations necessary for the effective
+11   implementation of this Act.
+12
+13           Sector regulators shall issue such supplemental rules as may be necessary for
+14   entities within their respective jurisdictions.
+15
+16          The rules shall ensure that compliance requirements are proportionate to the
+17   nature, size, operational capacity, and risk profile of covered private entities subject to
+18   this Act and shall avoid unnecessary duplication of requirements imposed under existing
+19   laws and regulations.
+20
+21          Section 21. Transitory Provision. – Covered government entities shall integrate
+22   the requirements of this Act into the development, procurement, substantial modification,
+23   or upgrading of their digital services and shall progressively bring existing services into
+24   compliance in accordance with standards and timelines prescribed by the Department of
+25   Information and Communications Technology.
+26
+27          Appropriate regulatory agencies may prescribe reasonable phased compliance
+28   periods for private entities under their respective jurisdictions, taking into consideration
+29   the technical modifications required, the nature and risk of the service, and the size and
+30   capacity of the covered entity.
+31
+32          During the transition, existing lawful modes of obtaining government services and
+33   availing of statutory senior citizen benefits shall continue to be available in accordance
+34   with Section 19 of this Act.
+35
+36          Section 22. Appropriations. – The amounts necessary for the initial
+37   implementation of this Act shall be charged against the existing appropriations of the
+38   concerned government agencies. Thereafter, such amounts as may be necessary for its
+39   continued implementation shall be included in the annual General Appropriations Act.
+40
+41         Implementation at the local level shall, to the extent practicable, utilize existing
+42   personnel, facilities, programs, and appropriations, without prejudice to such additional
+43   appropriations as may be authorized by law.
+44
+
+
+
+                                                                DIGITAL INCLUSION FOR SENIORS ACT | 12
+ 1           Section 23. Separability Clause. – If any part or provision of this Act is held
+ 2   unconstitutional or invalid, the remainder thereof not otherwise affected shall remain in
+ 3   full force and effect.
+ 4
+ 5          Section 24. Repealing Clause. – All laws, executive orders, presidential decrees,
+ 6   administrative orders, rules and regulations, issuances, or parts thereof inconsistent with
+ 7   or contrary to the provisions of this Act are hereby repealed or amended accordingly.
+ 8
+ 9          Section 25. Effectivity. – This Act shall take effect fifteen (15) days after its
+10   publication in the Official Gazette or in a newspaper of general circulation.
+11
+12          Approved,
+
+
+
+
+                                                               DIGITAL INCLUSION FOR SENIORS ACT | 13
+

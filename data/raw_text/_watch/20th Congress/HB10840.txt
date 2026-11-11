@@ -1,0 +1,205 @@
+                                 Republic of the Philippines
+                              HOUSE OF REPRESENTATIVES
+                                          Quezon City
+                                                                                   August 17, 2026
+                                                                                     3:26 pm
+                                  TWENTIETH CONGRESS
+                                   Second Regular Session
+
+                                                    10840
+                                     HOUSE BILL NO. __
+
+
+             Introduced by Representative ANTOLIN “LENLEN” A. ORETA III
+
+
+                            AN ACT
+MANDATING THE ESTABLISHMENT AND IMPLEMENTATION OF A NATIONAL
+    BUDGET BLOCKCHAIN SYSTEM TO ENHANCE TRANSPARENCY,
+       ACCOUNTABILITY, AND PUBLIC PARTICIPATION IN THE
+                  PHILIPPINE BUDGET PROCESS
+
+                                   EXPLANATORY NOTE
+
+         The 1987 Constitution recognizes transparency and accountability as essential principles
+in the administration of public affairs and in the use of public funds. The national budget involves
+billions of pesos appropriated for programs, projects, and services intended to benefit the Filipino
+people. However, the complexity of government financial systems and the fragmentation of
+budget, procurement, disbursement, accounting, and auditing records can make it difficult for
+citizens and oversight institutions to independently and promptly trace the movement and
+utilization of public funds.
+
+         The rapid development of digital technologies presents an opportunity to strengthen
+existing mechanisms for fiscal transparency and accountability. Blockchain technology, through
+its distributed, cryptographically secured, and tamper-resistant ledger, can provide a reliable
+means of recording and verifying transactions across the government budget cycle. When
+properly designed and implemented, such a system can create a continuous and auditable record
+from the appropriation of funds under the General Appropriations Act to their release,
+disbursement, utilization, and audit.
+
+       This measure therefore seeks to establish the Philippine National Budget Blockchain, a
+blockchain-based budget system that will serve as a government-managed digital ledger for
+national budget records. The proposed system shall record budget-related transactions as Digital
+Public Assets (DPAs), providing immutable and verifiable records that can be independently
+examined by citizens, government agencies, oversight bodies, and other authorized stakeholders.
+
+         Under the measure, the Department of Information and Communications Technology
+(DICT), in coordination with the Department of Budget and Management (DBM) and the
+Commission on Audit (COA), shall establish and administer the blockchain-based budget
+system. The system shall cover the budget cycle from preparation and legislation to execution
+and audit. It shall also provide a public-facing portal through which citizens and oversight
+institutions may access and verify relevant budget information in a timely manner.
+
+        The measure further recognizes the importance of integrating the proposed system with
+existing government financial and information systems. Government budgeting, accounting,
+disbursement, procurement, and reporting platforms shall therefore comply with interoperability
+standards and ensure that relevant financial data are anchored to the blockchain. This will prevent
+the proposed system from operating as an isolated platform and will instead allow it to
+complement and strengthen existing government processes.
+
+         To promote accountability, the proposed system shall incorporate key features such as
+immutability, decentralization, traceability, security and resilience, and interoperability. These
+features are intended to preserve the integrity of budgetary records, prevent unauthorized
+alteration or manipulation, enable the tracking of public funds from appropriation to actual
+utilization, and ensure the continuity and security of the system.
+
+       The measure also assigns specific responsibilities to concerned government agencies.
+DICT shall serve as the lead implementing agency and may engage qualified private-sector
+partners, technology providers, and academic institutions, subject to applicable procurement
+laws and regulations. DBM shall ensure the integration and timely submission of national budget
+data, while COA shall incorporate blockchain-based records into its audit systems and processes.
+All government agencies, bureaus, offices, commissions, and government-owned or controlled
+corporations shall likewise integrate their financial management systems into the blockchain-
+based budget system and submit the required budget, procurement, and expenditure information.
+
+       In view of the foregoing, the passage of this bill is earnestly sought.
+
+
+
+
+                                                           ANTOLIN “LENLEN” A. ORETA III
+                                                               Lone District of Malabon City
+                                     Republic of the Philippines
+                                  HOUSE OF REPRESENTATIVES
+                                           Quezon City
+
+                                      TWENTIETH CONGRESS
+                                       Second Regular Session
+
+                                                       10840
+                                        HOUSE BILL NO. ___
+
+
+                 Introduced by Representative ANTOLIN “LENLEN” A. ORETA III
+
+
+                                 AN ACT
+     MANDATING THE ESTABLISHMENT AND IMPLEMENTATION OF A NATIONAL
+         BUDGET BLOCKCHAIN SYSTEM TO ENHANCE TRANSPARENCY,
+            ACCOUNTABILITY, AND PUBLIC PARTICIPATION IN THE
+                       PHILIPPINE BUDGET PROCESS
+
+     Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+     assembled:
+ 1   SECTION 1. Short Title. – This Act will be known as the “Philippine National Budget
+ 2   Blockchain.”
+ 3   SEC. 2. Declaration of Principles and State Policies. – It is the policy of the State to uphold
+ 4   transparency, accountability, and good governance in the management and disbursement of
+ 5   public funds. The State shall safeguard honesty and integrity in public service, adopt effective
+ 6   measures against graft and corruption, and institutionalize public disclosure through open,
+ 7   verifiable, and citizen-accessible digital systems. To this end, the government shall establish a
+ 8   digital platform that provides timely, accurate, tamper-resistant, interoperable, and traceable
+ 9   publication of government budget transactions. The system shall guarantee that all government
+10   appropriations, disbursements, procurements, and expenditures are disclosed and made publicly
+11   accessible to citizens and oversight institutions.
+12   SEC. 3. Definition of terms. – As used in this Act:
+13      (a) Blockchain refers to a distributed and cryptographically secured digital ledger that
+14          records transactions in a verifiable, immutable, and transparent manner;
+15      (b) Blockchain-based Budget System refers to a government-managed blockchain ledger that
+16          records, in a real-time and immutable form, all transactions across the budget cycle;
+17      (c) Digital Public Asset (DPA) refers to any budget-related record placed on blockchain,
+18          representing public funds as immutable and verifiable assets of the people;
+19      (d) National Budget refers to the General Appropriations Act (GAA), which is the law that
+20          authorizes the government to spend a specific amount of money for various programs
+21          and projects;
+22      (e) Smart Contract refers to self-executing code deployed on blockchain to enforce
+23          predefined conditions, including budget releases and compliance requirements; and
+24      (f) Validator Nodes refer to independent verifying entities, including government agencies,
+25          academic institutions, and accredited organizations, that maintain and secure the
+26          blockchain's decentralization.
+27   Sec. 4. Establishment of the Blockchain-based Budget System. – The Department of
+28   Information and Communications Technology ("DICT"), in coordination with the Department
+29   of Budget and Management ("DBM") and Commission of Audit ("COA"), shall establish a
+30   blockchain-based budget system where all records of the national budget are recorded as DPAs.
+31   All records of the national budget, from budget preparation and legislation to execution and
+32   audit, shall be recorded in DPAs. Smart contracts may automate fund releases upon the
+33   fulfillment of verifiable milestones such as the approval process and other documentation.
+34   A public-facing portal shall provide real-time access to DPAs, to enable citizens, COA, and
+35   oversight bodies to independently verify the flow of funds down to agencies, projects, and
+36   beneficiaries.
+37   All government financial systems, including budgeting systems, disbursement tools, accounting
+38   applications, and reporting software, shall be required to comply with blockchain interoperability
+39   standards. All data generated by such systems must be anchored to the blockchain as DPAs,
+40   ensuring immutability, traceability, and public auditability.
+41   Sec. 5. Features of the Blockchain-Based Budget System. – The blockchain-based budget
+42   system shall, at a minimum, embody the following features to ensure transparency,
+43   accountability, and reliability:
+44      (a) Immutability – All transactions and entries recorded in the system shall be permanent and
+45          shall not be subject to alteration, deletion, or manipulation, thereby preserving the
+46          integrity of official budgetary data.
+47      (b) Decentralization – Validation functions shall be distributed across multiple independent
+48          institutions, agencies, or designated entities to prevent concentration of control and to
+49          strengthen institutional accountability.
+50      (c) Traceability – The system shall provide a verifiable chain of records that allows public
+51          funds to be tracked from their appropriation in the General Appropriations Act down to
+52          their utilization in specific projects, programs, or beneficiaries.
+53      (d) Security and Resilience – The system shall employ robust cryptographic safeguards,
+54          redundancy mechanisms, and disaster recovery protocols to ensure continuous operation
+55          and to protect all data, processes, and accounts against tampering, breaches, or system
+56          failures.
+57      (e) Interoperability – The system shall be designed to be compatible with, and adaptable to,
+58          existing and future government information systems and emerging technologies, thereby
+59          ensuring scalability, efficiency, and seamless integration across platforms.
+60   Sec. 6. Data Quality Standards. – Mandates of Implementing Agencies. -
+61      (a) DICT shall serve as the lead implementing agency and is hereby authorized to engage
+62          and contract qualified private sector partners, technology providers, and academic
+63          institutions for the design, development, deployment, and maintenance of said system,
+64          subject to government procurement laws and regulations.
+65      (b) DBM shall ensure the integration of the national budget process into the blockchain-
+66          based budget system including provision of timely and accurate data in coordination with
+67          DICT and other concerned agencies.
+68      (c) COA shall integrate blockchain technology into its audit systems and processes and
+69          ensure that audit standards are aligned with blockchain-based recordkeeping.
+ 70      (d) All government agencies, bureaus, office, commissions, and government-owned or
+ 71          controlled corporations shall integrate their financial management systems into the
+ 72          blockchain-based budget system and ensure timely submission of budget, procurement,
+ 73          and expenditure reports.
+ 74   Sec. 7. Implementing Rules and Regulations (IRR). – Within sixty (60) days from the
+ 75   effectivity of this Act, DICT, in coordination with DBM, COA, the DOJ, and other concerned
+ 76   agencies, shall promulgate the necessary rules and regulations for the effective implementation
+ 77   of this Act. The formulation of the IRR shall be undertaken in consultation with representatives
+ 78   from civil society organizations, the academe, media, and relevant industry stakeholders.
+ 79   Sec. 8. Joint Congressional Oversight Committee (JCOC). – Upon the effectivity of this Act,
+ 80   the Joint Congressional Oversight Committee (JCOC) is hereby constituted. The JCOC shall be
+ 81   composed of eight (8) members with the Chairpersons of the Committee on Science and
+ 82   Technology of the Senate and the House of Representatives as Co-Chairpersons; Chairpersons
+ 83   of the Committee on Finance of the Senate and Committee on Appropriations of the House of
+ 84   Representatives as members; and two (2) members from each House to be designated by the
+ 85   Senate President and the Speaker of the House of Representatives, respectively.
+ 86   The JCOC shall monitor the effective implementation of this Act, recommend the necessary
+ 87   remedial or administrative measures, and perform such other duties and functions as may be
+ 88   necessary to attain the objectives of this Act.
+ 89   Sec. 9. Appropriations. – The amount of Five Hundred Million Pesos (P500,000,000.00) is
+ 90   hereby appropriated from available funds in the National Treasury for the initial implementation
+ 91   of this Act. The amount necessary to carry out this Act shall be charged against the current
+ 92   appropriations of DICT for digital-governance and transparency programs. Subsequent funding
+ 93   requirements shall be included in the annual General Appropriations Act.
+ 94   SEC. 10. Separability Clause. – Should any provision or part of this Act be declared
+ 95   unconstitutional or invalid, the other provisions and parts hereof, insofar as they are separable
+ 96   from the invalid ones, shall remain in full force and effect.
+ 97   SEC. 11. Repealing Clause. – All laws, executive orders or parts thereof inconsistent with this
+ 98   Act are hereby repealed, modified, or amended accordingly.
+ 99   SEC. 12. Effectivity. – This Act shall take effect fifteen (15) days after its publication in the
+100   Official Gazette or in a newspaper of general circulation.
+101   Approved,
+

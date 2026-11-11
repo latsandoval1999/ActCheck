@@ -1,0 +1,278 @@
+                                   Republic of the Philippines
+                                House of Representatives
+                                   Quezon City, Metro Manila                      August 12, 2026
+                                                                                    5:07 pm
+                                  TWENTIETH CONGRESS
+                                   Second Regular Session
+
+                                                    10755
+                                     House Bill No. _______
+
+
+             Introduced by Representative ALFREDO “ALBEE” B. BENITEZ
+
+
+                            AN ACT
+  ESTABLISHING A NATIONAL BLOCKCHAIN-BASED LAND REGISTRATION
+    AND PROPERTY RECORDS SYSTEM TO MODERNIZE AND DIGITIZE
+   PROPERTY INFORMATION MANAGEMENT, STRENGTHEN PROPERTY
+       RIGHTS, AND PROMOTE TRANSPARENCY, SECURITY, AND
+            ACCOUNTABILITY IN LAND ADMINISTRATION
+
+                                   EXPLANATORY NOTE
+
+The Philippines continues to rely on fragmented and largely paper-based systems maintained
+by various national government agencies and local government units. Land records are often
+dispersed across multiple repositories, resulting in inconsistent information, delayed
+verification processes, costly reconciliation of records, and administrative inefficiencies. The
+loss, destruction, deterioration, or unavailability of land records due to natural disasters,
+accidents, and the passage of time has likewise led to lengthy and expensive title reconstitution
+proceedings that burden both property owners and government institutions.
+
+Land ownership remains one of the most important foundations of economic security, social
+stability, and wealth creation for Filipino families. Secure and reliable land records are essential
+to protecting property rights, facilitating investments, improving access to credit, supporting
+infrastructure development, enhancing local revenue generation, and promoting sustainable
+economic growth.
+
+The lack of an integrated and secure property information system also creates vulnerabilities
+to fraud, unauthorized alterations, duplicate records, and conflicting claims over land
+ownership. These challenges undermine public confidence in land administration, increase
+transaction costs, discourage investments, and impede the efficient delivery of government
+services.
+
+Recent advances in digital governance and blockchain technology provide an opportunity to
+modernize the country’s land registration and property records management systems.
+Blockchain technology enables the creation of immutable and verifiable digital audit trails that
+can significantly strengthen the integrity, security, traceability, and authenticity of land records.
+By recording and verifying transactions through tamper-resistant digital mechanisms,
+blockchain technology can reduce opportunities for fraud, facilitate faster verification of
+ownership records, and improve institutional accountability.
+
+The establishment of a National Blockchain-Based Land Registration and Property Records
+System will enable the integration, digitization, and verification of land and property
+information across relevant government agencies. The system will support more efficient land
+administration, facilitate the reconstruction and verification of lost or damaged records,
+improve disaster resilience, enhance transparency in property transactions, and provide citizens
+with more accessible and reliable land information services.
+
+Moreover, secure and trustworthy land records are critical to strengthening property rights and
+improving the country’s investment climate. A modernized land registration system can reduce
+transaction costs, accelerate property-related processes, improve tax administration, support
+financial inclusion through easier access to collateralized credit, and contribute to the overall
+ease of doing business in the Philippines.
+
+This measure seeks to establish a secure, interoperable, and future-ready framework for land
+registration and property records management through the strategic use of blockchain
+technology and digital information systems. By modernizing the country’s land administration
+infrastructure, the State can better protect property rights, improve governance, strengthen
+public trust, and support long-term national development.
+
+In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+
+                                                           ALFREDO “ALBEE” B. BENITEZ
+                                 Republic of the Philippines
+                             House of Representatives
+                                Quezon City, Metro Manila
+
+                               TWENTIETH CONGRESS
+                                Second Regular Session
+
+                                                 10755
+                                  House Bill No. _______
+
+
+            Introduced by Representative ALFREDO “ALBEE” B. BENITEZ
+
+
+                            AN ACT
+  ESTABLISHING A NATIONAL BLOCKCHAIN-BASED LAND REGISTRATION
+    AND PROPERTY RECORDS SYSTEM TO MODERNIZE AND DIGITIZE
+   PROPERTY INFORMATION MANAGEMENT, STRENGTHEN PROPERTY
+       RIGHTS, AND PROMOTE TRANSPARENCY, SECURITY, AND
+            ACCOUNTABILITY IN LAND ADMINISTRATION
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+assembled:
+
+SECTION 1. Short Title. – This Act shall be known as the “Blockchain Land Records Act.”
+
+SECTION 2. Declaration of Policy. – It is hereby declared the policy of the State to protect
+property rights, modernize land administration, strengthen public trust in land registration
+systems, ensure the integrity and security of property records, facilitate efficient land
+transactions, and utilize blockchain and other emerging digital technologies to improve
+transparency, accountability, resilience, and accessibility in the management of land and
+property information.
+
+SECTION 3. Definition of Terms. – For the purposes of this Act, these terms are defined as
+follows:
+
+   a) Blockchain Technology refers to a distributed digital ledger technology that records
+      transactions in a secure, chronological, immutable, and verifiable manner through
+      cryptographic methods, allowing authorized participants to validate and trace
+      transactions without unauthorized alteration of records.
+   b) Certified Digital Record refers to an electronic copy or digital version of a land or
+      property record that has been authenticated, validated, or certified by the appropriate
+      government agency and is maintained within the National Blockchain-Based Land
+      Registration and Property Records System.
+   c) Distributed Ledger Technology (“DLT”) refers to a digital system for recording
+      transactions and related data across multiple locations or nodes, where records are
+      synchronized and maintained through consensus mechanisms and are resistant to
+      unauthorized modification.
+   d) Digital Audit Trail refers to a chronological and verifiable electronic record that
+      captures and documents all actions, transactions, modifications, access activities, and
+      other relevant events affecting a land or property record within the System.
+   e) Digital Property Information Management refers to the collection, storage,
+      processing, integration, maintenance, verification, sharing, and retrieval of land and
+      property information through digital technologies and information systems.
+   f) Interoperability refers to the ability of different information systems, databases,
+      applications, and government agencies to exchange, access, process, and utilize data in
+      a coordinated, secure, and efficient manner.
+   g) Land and Property Records refer to all records, documents, instruments, maps,
+      surveys, tax declarations, assessments, titles, patents, annotations, and other
+      information relating to land ownership, possession, use, classification, valuation,
+      registration, or disposition maintained by government agencies or local government
+      units.
+   h) National Blockchain-Based Land Registration and Property Records System
+      (“NBLRPRS”) or System refers to the integrated digital platform established under
+      this Act for the registration, management, verification, preservation, authentication, and
+      retrieval of land and property information.
+   i) Property Identification Number (“PIN”) refers to the unique and permanent
+      reference number assigned to a parcel of land for purposes of harmonizing and linking
+      land and property records across government agencies and local government units.
+   j) Property Rights refers to the legally recognized rights, interests, claims, or
+      entitlements of persons or entities over land and real property as provided by law.
+   k) Registrable Transaction refers to any issuance, registration, transfer, conveyance,
+      mortgage, lease, encumbrance, annotation, cancellation, amendment, correction, or
+      other transaction affecting land or property records that is required or authorized by law
+      to be recorded with the appropriate government agency.
+   l) Verification Record refers to a cryptographically secured digital reference, hash value,
+      timestamp, or similar electronic proof generated through blockchain technology or
+      distributed ledger technology for purposes of validating the authenticity and integrity
+      of land and property records.
+
+SECTION 4. National Blockchain-Based Land Registration and Property Records System.
+–There is hereby established a National Blockchain-Based Land Registration and Property
+Records System (NBLRPRS), which shall serve as the primary government platform for the
+digitization, integration, management, verification, authentication, preservation, and retrieval
+of land and property information nationwide.
+
+SECTION 5. Coverage. – The System shall cover, among others:
+
+   a) Certificates of Title and related annotations;
+   b) Deeds, conveyances, mortgages, liens, easements, and other registrable instruments;
+   c) Cadastral and survey records;
+   d) Tax declarations and assessment records;
+   e) Tax maps and geospatial information;
+   f) Public land records and patents;
+   g) Land classification records; and
+   h) Such other land and property information as may be determined by the implementing
+      agencies.
+
+SECTION 6. Lead Agencies. – The Land Registration Authority (LRA) and the Department
+of Environment and Natural Resources (DENR), through the Land Management Bureau, shall
+jointly lead the implementation of this Act in coordination with the Department of Information
+and Communications Technology (DICT), the Department of the Interior and Local
+Government (DILG), the Department of Human Settlements and Urban Development
+(DHSUD), the Bureau of Internal Revenue (BIR), and all concerned local government units.
+
+SECTION 7. Mandatory Digitization and Integration of Records. – All covered agencies and
+local government units shall digitize, standardize, and integrate existing land and property
+records into the System within five (5) years from the effectivity of this Act. Priority shall be
+given to records vulnerable to deterioration, loss, destruction, or frequent public use.
+
+SECTION 8. Interoperability of Databases. – All government agencies maintaining land and
+property information shall ensure interoperability, data-sharing capability, and system
+integration with the System in accordance with applicable laws, regulations, and cybersecurity
+standards.
+
+SECTION 9. Property Identification Number. – A unique Property Identification Number
+(PIN) shall be assigned to every parcel of land covered under the System.
+
+The PIN shall serve as the common reference number for all records maintained by national
+government agencies and local government units relating to a specific property.
+
+SECTION 10. Digital Tax Mapping and Geospatial Integration. – All provinces, cities, and
+municipalities shall establish, maintain, or upgrade digital tax mapping systems and geospatial
+databases and integrate the same with the System.
+
+SECTION 11. Blockchain Verification Layer. – The System shall utilize blockchain
+technology or other distributed ledger technologies, as may be appropriate, as a verification
+and audit mechanism for land and property records maintained under this Act.
+
+The blockchain verification layer shall provide immutable transaction histories, timestamp
+verification, record authentication, and tamper-evident audit trails for all registrable
+transactions affecting land and property records.
+
+Official land records shall remain maintained by the appropriate government agencies, while
+blockchain-based verification records shall serve as a secure mechanism for validating the
+integrity and authenticity of such records.
+
+SECTION 12. Permanent Digital Audit Trail. – Every issuance, registration, annotation,
+transfer, encumbrance, amendment, cancellation, correction, or modification of any land or
+property record shall generate a permanent and verifiable digital audit trail within the System.
+
+Such audit trail shall identify the nature of the transaction, date and time of recording,
+responsible office, and verification credentials of authorized personnel, subject to applicable
+privacy and security laws.
+SECTION 13. Fraud Detection and Record Integrity Monitoring. – The System shall
+incorporate mechanisms for the detection of duplicate records, conflicting claims, suspicious
+transactions, unauthorized alterations, and other anomalies that may affect the integrity of land
+and property records. The implementing agencies may establish automated monitoring and
+verification systems for this purpose.
+
+SECTION 14. Legal Recognition of Digital Records. – Certified digital records maintained
+under the System shall have the same legal validity, evidentiary value, and enforceability as
+their physical counterparts.
+
+SECTION 15. Digital Records as Primary Evidence. – Subject to the Rules on Electronic
+Evidence and other applicable laws, certified digital records generated or maintained under this
+Act shall be admissible as primary evidence in judicial, quasi-judicial, and administrative
+proceedings.
+
+SECTION 16. Digital Reconstitution and Reconstruction of Records. – In cases where
+original records, certificates of title, survey records, cadastral documents, or registry records
+are lost, destroyed, damaged, or otherwise rendered unavailable, certified digital records
+maintained under the System, together with their corresponding blockchain verification records
+and audit trails, may be utilized in administrative, quasi-judicial, or judicial proceedings
+involving reconstruction, reconstitution, verification, or authentication of such records, subject
+to applicable laws and rules.
+
+SECTION 17. Public Access and Verification Portal. – The LRA shall establish and maintain
+an online verification portal that shall allow authorized users and the general public, subject to
+applicable privacy and security safeguards, to verify the existence, status, authenticity, and
+transaction history of land and property records.
+
+SECTION 18. Disaster Recovery and Preservation. – The implementing agencies shall
+establish geographically distributed backup facilities, redundancy systems, and disaster
+recovery mechanisms to ensure the preservation, continuity, and accessibility of land and
+property records during natural disasters, emergencies, cyber incidents, and other disruptive
+events.
+
+SECTION 19. Data Privacy and Cybersecurity. – The implementation of this Act shall
+comply with the Data Privacy Act of 2012, the Cybercrime Prevention Act of 2012, and all
+applicable laws, regulations, and standards governing information security, cybersecurity, and
+data protection.
+
+SECTION 20. Appropriations. – The amount necessary for the initial implementation of this
+Act shall be charged against the current appropriations of the concerned agencies. Thereafter,
+such sums as may be necessary shall be included in the annual General Appropriations Act.
+
+SECTION 21. Implementing Rules and Regulations. – Within one hundred eighty (180) days
+from the effectivity of this Act, the LRA, DENR, DICT, DILG, DHSUD, National Privacy
+Commission (NPC), and other concerned agencies shall promulgate the necessary rules and
+regulations for the effective implementation of this Act.
+
+SECTION 22. Separability Clause. – If any provision of this Act is declared unconstitutional,
+the remaining provisions not affected thereby shall remain in full force and effect.
+SECTION 23. Repealing Clause. – All laws, decrees, executive orders, rules and regulations
+inconsistent with this Act are hereby repealed, amended, or modified accordingly.
+
+SECTION 24. Effectivity. – This Act shall take effect fifteen (15) days after its publication in
+the Official Gazette or in a newspaper of general circulation.
+
+Approved,
+

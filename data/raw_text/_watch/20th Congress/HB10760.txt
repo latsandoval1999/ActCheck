@@ -1,0 +1,292 @@
+                           ​
+
+
+                                                                       August 12, 2026
+                                                                         5:25 pm
+
+
+                                                10760
+
+   Introduced by Representative Timothy Joseph Cayton
+                             EXPLANATORY NOTE
+
+       Republic Act No. 7610, Republic Act No. 10175, and Republic Act No.
+11930 penalize the abuse and exploitation of children online after it has
+occurred. No existing Philippine statute regulates the conditions that produce
+the encounter. A platform is under no legal obligation to determine whether its
+user is a child, to apply protective default settings to that child's account, or to
+withhold engagement-maximizing recommendation systems from a minor. This
+bill addresses that specific gap and does not extend beyond it.
+       This bill imposes safety-by-design obligations on every account a
+platform knows or ought reasonably to know belongs to a minor, independently
+of the minimum age requirement. The obligations therefore apply to children
+who evade the age requirement, and to children who migrate to smaller
+services with weaker moderation and no Philippine presence. It places the
+obligation and the penalty on the covered platform. No penalty attaches to a
+child or to a parent, and parental consent cannot be used to waive the
+minimum age. This conforms the bill to Republic Act No. 9344, which prohibits
+the imposition of penalties on minors for status offences, and follows the
+Australian scheme in force since 10 December 2025.
+       In view of the foregoing, the immediate approval of this bill is earnestly
+sought.
+
+
+
+                                   ATTY. TIMOTHY JOSEPH E. CAYTON, PhD.
+                                              Representative
+                                        Lone District of Nueva Vizcaya
+                         Republic of the Philippines
+                       HOUSE OF City,
+                         Quezon  REPRESENTATIVES
+                                       Metro Manila
+                              Twentieth Congress
+                              Second Regular Session
+                                             10760
+                              House Bill No. _____
+
+   Introduced by Representative Timothy Joseph Cayton
+                                      AN ACT
+     IMPOSING SAFETY-BY-DESIGN AND AGE ASSURANCE DUTIES ON
+     SOCIAL MEDIA PLATFORM PROVIDERS WITH RESPECT TO CHILD
+ USERS, ESTABLISHING A MINIMUM AGE FOR SOCIAL MEDIA ACCOUNTS,
+     PROVIDING PENALTIES THEREFOR, AND FOR OTHER PURPOSES
+Be it enacted by the Senate and the House of Representatives of the Philippines
+in Congress assembled:
+       SECTION 1. Short Title. — This Act shall be known as the “Social Media
+Safety for Children Act”.
+       SEC. 2. Declaration of Policy. — It is the policy of the State to promote
+and protect the physical, moral, spiritual, intellectual and social well-being of
+the youth, and to defend the right of children to special protection from all
+forms of neglect, abuse, cruelty, exploitation and other conditions prejudicial to
+their development.
+       SEC. 3. Definitions. — For purposes of this Act:
+  (a) “Child” or “minor” refers to a person below eighteen (18) years of age.
+
+  (b) “Covered social media platform” refers to an online service, whether or
+       not established in the Philippines, that satisfies all of the following:
+      (i) a sole or significant purpose of the service is to enable online social
+      interaction among two (2) or more end-users;
+      (ii) the service allows end-users to link to, follow, or otherwise interact
+      with some or all other end-users; and
+       (iii) the service allows end-users to post, upload or share user-generated
+       content. The term does not include an excluded service under Section 8.
+  (c)​ “Platform provider” refers to the natural or juridical person that owns,
+       operates or controls a covered social media platform and determines the
+       purposes and means of processing user data for it.
+  (d)​ “Age assurance” refers to any technical or procedural means of
+       establishing, with reasonable confidence, whether a user is above or
+       below a specified age, including age estimation, age inference,
+       account-based signals, parental attestation and other privacy-preserving
+       methods that do not require the submission of an identity document.
+  (e)​ “Verifiable parental consent” refers to consent given by a parent or, in
+       the parent’s absence, by the guardian or the person exercising substitute
+       parental authority under the Family Code, obtained through a means
+       reasonably designed to confirm that the person giving consent is in fact
+       such parent, guardian or person, and which may be withdrawn at any
+       time.
+  (f)​ “Recommender system” refers to a fully or partially automated system
+       that determines, ranks or prioritizes the content presented to a user,
+       including content the user has not sought or subscribed to.
+  (g)​ “Reasonable steps” refers to objectively appropriate, effective and
+       proportionate measures, assessed with regard to the nature and size of
+       the platform, the risks it poses to children, the effectiveness and
+       proportionality of available measures, their privacy impact, and the need
+       to avoid unduly impairing lawful communication, education and
+       participation.
+       SEC. 4. Duty of Care; Safety-by-Design. — With respect to every account
+that a platform provider knows, or ought reasonably to know, is held by a
+minor, and irrespective of whether Section 5 is engaged, the provider shall:
+  (a)​ apply the highest available privacy and safety settings by default,
+       including limiting profile visibility and discoverability and restricting
+       geolocation sharing;
+  (b)​ refrain from behavioral or targeted advertising to the minor, and from the
+       sale or disclosure of the minor’s personal data for advertising purposes;
+  (c)​ refrain from deploying recommender systems optimized for engagement
+       duration or session frequency, and disable autoplay, infinite scroll,
+       streak mechanics and comparable retention features by default;
+  (d)​ take reasonable steps to prevent the recommendation to the minor of
+       content depicting or promoting suicide, self-harm, disordered eating,
+       sexual exploitation or gratuitous violence;
+  (e)​ suppress non-essential notifications between ten o’clock in the evening
+       and six o’clock in the morning;
+  (f)​ restrict unsolicited contact directed at the minor by adult accounts not
+       connected to the minor, and restrict the discoverability of the minor’s
+       account by such accounts;
+  (g)​ refrain from collecting biometric or sensitive personal information from
+       the minor except as permitted by Section 6 and only for the period there
+       allowed;
+  (h)​ provide the minor, and where applicable the parent or guardian, with
+       accessible tools to review account activity, adjust privacy settings,
+       manage contacts, and set time and usage limits, without requiring the
+       disclosure of personal data beyond what is necessary; and
+  (i)​ maintain the reporting and referral mechanisms required by Section 9.
+No user shall be penalized, and no service shall be withheld, solely for declining
+to enable an optional tool made available under paragraph (h).
+       SEC. 5. Minimum Age; Parental Consent Pathway. — No platform
+provider shall permit a person below sixteen (16) years of age to create, hold or
+maintain an account on a covered social media platform, except as provided in
+this Section.
+       A person who is at least thirteen (13) but below sixteen (16) years of age
+may create and hold such an account upon verifiable parental consent. The
+platform provider shall:
+       (a) re-confirm the consent at intervals of not more than twelve (12)
+       months;
+       (b) provide the consenting parent or guardian with the tools described in
+       Section 4(h); and
+       (c) upon withdrawal of consent, deactivate the account within
+       seventy-two (72) hours, preserving the user’s content for a reasonable
+       period to permit retrieval.
+       Nothing in this Section shall be construed to prohibit the viewing of
+publicly available content where no account registration or log-in is required,
+nor to restrict access to educational, governmental, emergency, health or child
+protection services.
+       Verifiable parental consent shall not be a defence to a failure to comply
+with Section 4.
+       SEC. 6. Age Assurance and Data Minimization. — Platform providers
+shall take reasonable steps, through age assurance applied at account creation
+and periodically thereafter, to prevent persons below the applicable minimum
+age from creating, holding or maintaining accounts. Age assurance shall
+employ the least intrusive method reasonably capable of achieving the purpose.
+A platform provider shall not:
+  (a)​ retain any identity document, or any image or copy thereof, beyond the
+       completion of verification;
+  (b)​ use data collected for age assurance for any other purpose, including
+       advertising, profiling, product research or the training of models; or
+  (c)​ transfer such data outside the platform except to a third-party age
+       assurance provider bound by equivalent obligations, or pursuant to a
+       lawful order.
+       A platform provider shall not require government-issued identification, or
+any government or government-accredited digital identity system, as the sole
+means of age assurance. Where such identification is offered as an option, at
+least one reasonable alternative shall be made available. No person shall be
+denied access to a covered social media platform solely for declining to submit
+a government-issued identity document where an alternative method is
+reasonably available.
+       The National Privacy Commission shall exercise concurrent jurisdiction
+over violations of this Section.
+       SEC. 7. Designation of Covered Platforms. — Within ninety (90) days from
+the effectivity of this Act, and at intervals of not more than twelve (12) months
+thereafter, the Department of Information and Communications Technology
+(DICT), in consultation with the National Telecommunications Commission
+(NTC), the National Privacy Commission and the Council for the Welfare of
+Children, shall publish a list of covered social media platforms and of excluded
+services, together with the criteria applied and the reasons for each
+designation.
+       A platform provider shall assess its own coverage under Section 3(b) and
+shall not be excused from compliance by reason only of non-inclusion in the
+published list: Provided, That no penalty shall attach for any period prior to
+publication or prior to actual notice of coverage.
+       A platform provider may petition the DICT for a determination of
+coverage, which shall be resolved within sixty (60) days, and may seek review
+in accordance with the Rules of Court.
+       SEC. 8. Excluded Services. — A service shall be excluded from Section 5
+where its primary function is direct, limited-scope utility rather than
+general-purpose public social networking, and where it does not primarily rely
+on engagement-optimizing design that materially increases risk to children.
+Excluded services include:
+  (a)​ private interpersonal communications services, where communications
+       are primarily one-to-one or within closed groups and are not publicly
+       discoverable by default;
+  (b)​ electronic mail;
+  (c)​ enterprise and workplace collaboration services;
+  (d)​ educational and learning management services, including
+       school-authorized platforms;
+  (e)​ health, mental health, counselling, crisis line and safety-support
+       services, including child protection reporting channels;
+  (f)​ government digital services and official citizen service portals;
+  (g)​ interactive gaming services without general-purpose social networking
+       features; and
+  (h)​ such other services as the DICT may classify as excluded under Section
+       7, upon a documented finding that the service is low-risk and necessary
+       to a child’s access to essential communications, education, health, safety
+       or public services.
+       Exclusion from Section 5 shall not exempt a service from Section 4 with
+respect to accounts held by minors.
+       SEC. 9. Reporting, Referral and Crisis Pathways. — Every platform
+provider shall maintain an accessible, child-comprehensible in-platform
+mechanism by which a child, parent, guardian, teacher or third party may
+report grooming, sexual exploitation, bullying, harassment, and content
+depicting or promoting suicide or self-harm, and shall acknowledge and act
+upon such reports within a reasonable period prescribed in the implementing
+rules.
+       Reports involving child sexual abuse or exploitation material shall be
+transmitted in accordance with Republic Act No. 11930.
+       Platform providers shall make available to child users, in plain language
+and in Filipino and English, referral information for child protection and
+mental health services, including the school-based services established under
+Republic Act No. 12080 and the crisis lines maintained by the Department of
+Health.
+        SEC. 10. Non-Liability of Children, Parents and Guardians. — No
+criminal, civil or administrative liability, and no penalty, fine or disability of
+any kind, shall attach to a child, parent, guardian or person exercising
+substitute parental authority for any act or omission arising from this Act.
+Nothing in this Act shall be construed to authorize the imposition of any
+penalty upon a minor.
+        SEC. 11. Transparency and Risk Assessment. — Every platform provider
+shall, at intervals prescribed by the DICT and in a form that does not disclose
+personal data:
+   (a)​ publish a plain-language description of how content is selected, ranked
+        and recommended to accounts held by minors, and of the default
+        settings applied under Section 4;
+   (b)​ conduct and submit a risk assessment identifying foreseeable risks to
+        child users arising from the design and operation of the platform, and
+        the measures adopted to mitigate them; and
+        SEC. 12. Erroneous Age Classification. — Every platform provider shall
+maintain an accessible mechanism by which an account holder, or a parent or
+guardian, may seek the restoration of an account restricted or deactivated on
+the ground of erroneous age classification, and shall resolve such a request
+within ten (10) days.
+        Denial shall be reviewable by the DICT, which shall resolve the matter
+within thirty (30) days. Nothing in this Section shall require the submission of
+a government-issued identity document.
+        SEC. 13. Enforcement and Penalties. — The DICT shall enforce this Act.
+        Upon determination of a violation after notice and hearing, the DICT
+shall issue a corrective order specifying the required remedial action and a
+reasonable period for compliance.
+        A platform provider that fails to comply with a corrective order shall be
+liable to an administrative fine of not less than One million pesos (PhP
+1,000,000.00) nor more than Fifty million pesos (PhP 50,000,000.00) for each
+violation, or two percent (2%) of its gross revenues derived from Philippine
+users for the preceding taxable year, whichever is higher, and a daily fine of
+One hundred thousand pesos (PhP 100,000.00) for each day of continuing
+violation.
+        In determining the fine, the DICT shall consider the nature, gravity,
+duration and frequency of the violation, the number of affected child users, and
+the steps taken by the provider to remedy it.
+       For repeated or willful violations, and only after the remedies in this
+Section have been exhausted, the DICT may recommend to the appropriate
+authority the restriction or suspension of the platform’s operations in the
+Philippines. Any measure directed to internet service providers shall be
+targeted to the specific service or account concerned, shall be time-bound,
+shall employ the least restrictive technical means, and shall minimize collateral
+blocking of lawful content.
+       Any order of the DICT under this Section shall be subject to review in
+accordance with the Rules of Court.
+       SEC. 14. Digital Citizenship and Media Literacy. — The Department of
+Education, in coordination with the DICT and the Council for the Welfare of
+Children, shall integrate age-appropriate instruction in digital citizenship and
+media and information literacy into the basic education curriculum, covering
+critical evaluation of online information, awareness of algorithmic influence,
+recognition and reporting of grooming, exploitation and bullying, and healthy
+patterns of use.
+       The Commission on Higher Education and the Technical Education and
+Skills Development Authority shall promote comparable programs within their
+respective mandates.
+       SEC. 15. Implementing Rules and Regulations. — Within ninety (90) days
+from the effectivity of this Act, the DICT, in consultation with the National
+Privacy Commission, the NTC, the Council for the Welfare of Children, the
+Department of Social Welfare and Development, the Department of Education,
+the Department of Health, the Commission on Human Rights, and duly
+recognized child rights and youth organizations, shall promulgate the
+implementing rules and regulations.
+       SEC. 16. Separability Clause. — If any provision of this Act is declared
+unconstitutional or invalid, the remaining provisions not affected thereby shall
+continue in full force and effect.
+       SEC. 17. Repealing Clause. — All laws, decrees, orders, rules and
+regulations, or parts thereof, inconsistent with this Act are hereby repealed,
+amended or modified accordingly.
+       SEC. 18. Effectivity. — This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in a newspaper of general circulation.
+​
+​     Approved,
+
