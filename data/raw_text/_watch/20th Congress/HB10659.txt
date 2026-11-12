@@ -1,0 +1,604 @@
+ 1                               Republic of the Philippines
+ 2                           HOUSE OF REPRESENTATIVES
+ 3                             Constitution Hills, Quezon City                 August 6, 2026
+ 4                                                                               1:22 pm
+ 5                               TWENTIETH CONGRESS
+ 6                                 Second Regular Session
+ 7
+ 8                                              10659
+                               HOUSE BILL NO. _________
+ 9
+10
+11                     Introduced by REP. JESUS “BONG” C. SUNTAY
+12
+13                                 EXPLANATORY NOTE
+14
+15   The power to tax is indispensable to government, but taxation must remain fair,
+16   progressive, and responsive to the actual capacity of citizens and enterprises to pay.
+17   Government requires revenue to provide public services, build infrastructure,
+18   maintain peace and order, educate the young, protect public health, and support those
+19   who need assistance. At the same time, every peso collected in taxes is a peso first
+20   earned by a Filipino worker, professional, entrepreneur, or business.
+21
+22   Tax policy must therefore strike a sensible balance. Government should collect what
+23   is reasonably necessary to perform its functions while allowing Filipinos to retain a
+24   greater share of the value of their work.
+25
+26   The individual income tax system presently exempts the first Two Hundred Fifty
+27   Thousand Pesos (₱250,000.00) of taxable income. While this represented substantial
+28   relief when the Tax Reform for Acceleration and Inclusion Act was enacted, the value
+29   of that exemption has steadily been eroded by inflation. Food, electricity,
+30   transportation, housing, education, healthcare, and other necessities cost
+31   considerably more today. A worker may receive salary adjustments merely to keep
+32   pace with these increases and yet become liable for greater income taxes even though
+33   his or her real purchasing power has barely improved.
+34
+35   This phenomenon, commonly referred to as bracket creep, effectively allows inflation
+36   to increase the tax burden without Congress imposing a new tax. A tax system intended
+37   to be progressive should not treat a nominal increase in income as an increase in
+38   economic capacity when that increase merely compensates for a higher cost of living.
+39
+40   This measure therefore raises the annual tax-exempt income threshold to Four
+41   Hundred Thousand Pesos (₱400,000.00), recalibrates the succeeding income
+42   brackets, and reduces the applicable marginal income tax rates. The lowest taxable
+43   rate is reduced to eight percent (8%), while the succeeding rates are likewise lowered.
+44   The highest marginal rate is reduced to thirty percent (30%). The purpose is
+45   straightforward: Filipino taxpayers should be allowed to retain more of the income
+46   they earn.
+
+
+
+
+                                                 1
+ 1   The measure also addresses the recurring erosion of tax relief by providing for
+ 2   automatic adjustment of the exemption threshold and income brackets based on
+ 3   inflation. Once Congress determines the amount of income that should reasonably
+ 4   remain untaxed, inflation should not silently diminish that protection year after year.
+ 5   Self-employed individuals, professionals, freelancers, and sole proprietors deserve
+ 6   comparable relief. The optional eight percent (8%) income tax applicable to qualified
+ 7   self-employed individuals and professionals is therefore reduced to six percent (6%),
+ 8   with the first Four Hundred Thousand Pesos (₱400,000.00) likewise excluded from
+ 9   its application where allowed under the National Internal Revenue Code.
+10
+11   The same principle applies to enterprises. Micro and small businesses create
+12   employment, sustain communities, and provide much of the economic activity outside
+13   the country's largest corporations. Yet the minimum corporate income tax may require
+14   a corporation to pay tax based on gross income even when its actual taxable profit is
+15   minimal. A minimum tax designed as an anti-avoidance safeguard should not become
+16   an additional burden upon legitimate small enterprises struggling to remain viable.
+17
+18   Accordingly, qualified small domestic corporations are exempted from the minimum
+19   corporate income tax. The preferential regular corporate income tax applicable to
+20   qualified small domestic corporations is likewise reduced from twenty percent (20%)
+21   to fifteen percent (15%), giving these enterprises additional capital for wages,
+22   expansion, equipment, and employment.
+23
+24   This bill also recognizes that a tax system must provide a practical means for taxpayers
+25   with unresolved liabilities to return to compliance. Outstanding tax liabilities that
+26   remain disputed, uncollected, or buried under accumulated interest and penalties do
+27   not necessarily translate into actual government revenue. A properly structured tax
+28   amnesty can convert these dormant liabilities into immediate collections, reduce
+29   litigation and administrative costs, improve taxpayer records, and bring taxpayers
+30   back into the formal system.
+31
+32   A one-time general tax amnesty is therefore provided for qualified national internal
+33   revenue tax liabilities for taxable year 2025 and prior years. The rates are deliberately
+34   reasonable to encourage genuine participation, while safeguards exclude unlawfully
+35   acquired wealth, taxes collected from third persons but deliberately not remitted to
+36   government, money laundering, and other unlawful activities.
+37
+38   Separate and simplified mechanisms are provided for delinquent accounts, disputed
+39   assessments, and estate taxes. Once a taxpayer has truthfully complied with the
+40   requirements and fully paid the applicable amnesty tax, the Government must likewise
+41   honor its side of the bargain. The amnesty must provide genuine finality rather than
+42   merely opening another avenue for subsequent assessment or investigation.
+43
+
+
+
+
+                                                  2
+ 1   Ultimately, meaningful tax relief need not always take the form of another government
+ 2   subsidy or assistance program. There are circumstances when the simplest and most
+ 3   immediate form of economic relief is for government to collect less and allow citizens
+ 4   to keep more of what they have earned. Money retained by taxpayers supports
+ 5   household consumption, savings, investment, entrepreneurship, and economic
+ 6   activity without requiring an application, qualification process, appropriation, or
+ 7   administrative distribution mechanism.
+ 8
+ 9   The Sustaining Economic Relief through Broader Income-tax Savings and Yield
+10   Opportunities (SERBISYO) Act seeks to place this principle at the center of tax policy:
+11   raise necessary revenues fairly, protect the value of work, give small enterprises room
+12   to grow, and make compliance easier for taxpayers willing to fulfill their obligations.
+13
+14   In view of the foregoing, the immediate passage of this bill is earnestly sought.
+15
+16
+17
+18
+19                           REP. JESUS “BONG” C. SUNTAY
+
+
+
+
+                                                  3
+ 1                               Republic of the Philippines
+ 2                           HOUSE OF REPRESENTATIVES
+ 3                             Constitution Hills, Quezon City
+ 4
+ 5                               TWENTIETH CONGRESS
+ 6                                 Second Regular Session
+ 7
+ 8                                              10659
+                               HOUSE BILL NO. _________
+ 9
+10
+11                       Introduced by REP. JESUS “BONG” SUNTAY
+12
+13
+14                             AN ACT
+15   PROVIDING BROADER AND SUSTAINING TAX RELIEF TO INDIVIDUAL
+16   TAXPAYERS AND SMALL ENTERPRISES, REDUCING INDIVIDUAL
+17   INCOME TAX RATES, INCREASING AND INDEXING THE TAX-EXEMPT
+18   INCOME THRESHOLD, REDUCING THE INCOME TAX OF QUALIFIED
+19   SELF-EMPLOYED INDIVIDUALS AND PROFESSIONALS, PROVIDING
+20   INCOME TAX AND MINIMUM CORPORATE INCOME TAX RELIEF TO
+21   QUALIFIED SMALL DOMESTIC CORPORATIONS, GRANTING A ONE-
+22   TIME AMNESTY ON CERTAIN NATIONAL INTERNAL REVENUE TAX
+23   LIABILITIES, AMENDING FOR THE PURPOSE SECTIONS 24 AND 27 OF
+24   THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED,
+25   AND FOR OTHER PURPOSES
+26
+27   Be it enacted by the Senate and House of Representatives of the Philippines in
+28   Congress assembled:
+29
+30   SECTION 1. Short Title. — This Act shall be known as the “Sustaining Economic Relief
+31   through Broader Income-tax Savings and Yield Opportunities (SERBISYO) Act.”
+32
+33   SECTION 2. Declaration of Policy. — It is hereby declared the policy of the State to
+34   maintain a fair, progressive, reasonable, and sustainable system of taxation that raises
+35   revenues necessary for government while recognizing the right of taxpayers to retain
+36   a reasonable and meaningful share of the income generated by their labor, profession,
+37   enterprise, and investment.
+38
+39   The State recognizes that income retained by taxpayers contributes directly to
+40   household welfare, consumption, savings, investment, entrepreneurship,
+41   employment, and economic growth. Tax policy shall therefore protect the purchasing
+42   power of Filipino workers and families and prevent inflation from increasing their
+43   effective tax burden solely through nominal increases in income.
+44
+
+
+
+
+                                                  4
+ 1   The State further recognizes the indispensable contribution of micro and small
+ 2   enterprises to employment and national development. Taxation of such enterprises
+ 3   shall take into consideration their capacity to pay and shall not unnecessarily impair
+ 4   their capitalization, survival, expansion, or ability to generate employment.
+ 5
+ 6   Towards these ends, the State shall provide meaningful and continuing individual
+ 7   income tax relief, protect taxpayers against bracket creep caused by inflation, reduce
+ 8   the tax burden on qualified small enterprises, simplify tax compliance, and provide
+ 9   qualified taxpayers a reasonable one-time opportunity to settle prior national internal
+10   revenue tax liabilities and return to full compliance.
+11
+12                                    TITLE I
+13                         INDIVIDUAL INCOME TAX RELIEF
+14
+15   SECTION 3. Amendment of Section 24 of the National Internal Revenue Code. —
+16   Section 24(A)(2) of the National Internal Revenue Code of 1997, as amended, is hereby
+17   further amended to read as follows:
+18
+19         “SECTION 24. INCOME TAX RATES. —
+20
+21         “(A) RATES OF INCOME TAX ON INDIVIDUAL CITIZEN AND INDIVIDUAL
+22         RESIDENT ALIEN OF THE PHILIPPINES. —
+23         “X X X
+24         “(2) RATES OF TAX ON TAXABLE INCOME OF INDIVIDUALS. —
+25         EFFECTIVE JANUARY 1, 2027, THE TAX SHALL BE:
+26
+27         “NOT OVER FOUR HUNDRED THOUSAND PESOS (₱400,000.00) — ZERO
+28         PERCENT (0%);
+29         “OVER FOUR HUNDRED THOUSAND PESOS (₱400,000.00) BUT NOT
+30         OVER EIGHT HUNDRED THOUSAND PESOS (₱800,000.00) — EIGHT
+31         PERCENT (8%) OF THE EXCESS OVER FOUR HUNDRED THOUSAND
+32         PESOS (₱400,000.00);
+33         “OVER EIGHT HUNDRED THOUSAND PESOS (₱800,000.00) BUT NOT
+34         OVER TWO MILLION PESOS (₱2,000,000.00) — THIRTY-TWO THOUSAND
+35         PESOS (₱32,000.00) PLUS FIFTEEN PERCENT (15%) OF THE EXCESS
+36         OVER EIGHT HUNDRED THOUSAND PESOS (₱800,000.00);
+37         “OVER TWO MILLION PESOS (₱2,000,000.00) BUT NOT OVER FIVE
+38         MILLION PESOS (₱5,000,000.00) — TWO HUNDRED TWELVE
+39         THOUSAND PESOS (₱212,000.00) PLUS TWENTY PERCENT (20%) OF THE
+40         EXCESS OVER TWO MILLION PESOS (₱2,000,000.00);
+41         “OVER FIVE MILLION PESOS (₱5,000,000.00) BUT NOT OVER TEN
+42         MILLION PESOS (₱10,000,000.00) — EIGHT HUNDRED TWELVE
+43         THOUSAND PESOS (₱812,000.00) PLUS TWENTY-FIVE PERCENT (25%)
+44         OF THE EXCESS OVER FIVE MILLION PESOS (₱5,000,000.00); AND
+45         “OVER TEN MILLION PESOS (₱10,000,000.00) — TWO MILLION SIXTY-
+46         TWO THOUSAND PESOS (₱2,062,000.00) PLUS THIRTY PERCENT (30%)
+47         OF THE EXCESS OVER TEN MILLION PESOS (₱10,000,000.00).
+
+
+
+                                                 5
+ 1          “BEGINNING JANUARY 1, 2030, AND EVERY THREE (3) YEARS
+ 2          THEREAFTER, THE INCOME LEVELS PRESCRIBED IN THIS PARAGRAPH,
+ 3          INCLUDING THE AMOUNT SUBJECT TO THE ZERO PERCENT (0%) RATE,
+ 4          SHALL BE ADJUSTED UPWARD BY THE CUMULATIVE PERCENTAGE
+ 5          INCREASE IN THE CONSUMER PRICE INDEX FOR ALL INCOME
+ 6          HOUSEHOLDS, AS PUBLISHED BY THE PHILIPPINE STATISTICS
+ 7          AUTHORITY, DURING THE IMMEDIATELY PRECEDING THREE (3)
+ 8          CALENDAR YEARS. THE ADJUSTED AMOUNTS SHALL BE ROUNDED TO
+ 9          THE NEAREST ONE THOUSAND PESOS (₱1,000.00).
+10
+11          “NO ADJUSTMENT PURSUANT TO THE IMMEDIATELY PRECEDING
+12          PARAGRAPH SHALL OPERATE TO REDUCE ANY INCOME THRESHOLD
+13          OR INCREASE THE TAX OTHERWISE PAYABLE BY A TAXPAYER.
+14
+15          “THE SECRETARY OF FINANCE, UPON RECOMMENDATION OF THE
+16          COMMISSIONER OF INTERNAL REVENUE, SHALL PUBLISH THE
+17          ADJUSTED INCOME LEVELS NOT LATER THAN SEPTEMBER 30 OF THE
+18          YEAR IMMEDIATELY PRECEDING THEIR EFFECTIVITY. FAILURE TO
+19          PUBLISH THE ADJUSTED INCOME LEVELS WITHIN THE PRESCRIBED
+20          PERIOD SHALL NOT SUSPEND THEIR APPLICATION, AND THE
+21          ADJUSTMENT REQUIRED BY THIS PARAGRAPH SHALL TAKE EFFECT BY
+22          OPERATION OF LAW.
+23
+24          “X X X.”
+25
+26   SECTION 4. Tax on Qualified Self-Employed Individuals and Professionals. — The
+27   pertinent provisions of Section 24(A)(2)(b) of the National Internal Revenue Code of
+28   1997, as amended, are hereby further amended such that qualified self-employed
+29   individuals and professionals whose gross sales or gross receipts and other non-
+30   operating income do not exceed the value-added tax threshold under Section 109(CC)
+31   of the Code may elect to pay an income tax equivalent to six percent (6%) of gross sales
+32   or gross receipts and other non-operating income in excess of Four Hundred
+33   Thousand Pesos (₱400,000.00) in lieu of the graduated income tax rates under
+34   Section 24(A)(2)(a) and the percentage tax under Section 116 of the Code.
+35
+36   For mixed-income earners, the six percent (6%) tax shall apply to gross sales or gross
+37   receipts and other non-operating income from business or the practice of profession
+38   without deduction of the Four Hundred Thousand Peso (₱400,000.00) threshold
+39   when such threshold has already been applied to compensation income, in accordance
+40   with regulations consistent with this Act.
+41
+42   SECTION 5. Revised Withholding Tax Tables. — The Secretary of Finance, upon
+43   recommendation of the Commissioner of Internal Revenue, shall promulgate revised
+44   withholding tax tables consistent with Sections 3 and 4 of this Act before their
+45   effectivity.
+46
+
+
+
+
+                                                  6
+ 1   No income tax shall be withheld from compensation income which, when annualized,
+ 2   does not exceed Four Hundred Thousand Pesos (₱400,000.00). The relief granted
+ 3   under this Title shall be applied automatically and shall not require any separate
+ 4   application by the individual taxpayer.
+ 5
+ 6                                  TITLE II
+ 7                        SMALL ENTERPRISE TAX RELIEF
+ 8
+ 9   SECTION 6. Reduction of Income Tax for Qualified Small Domestic Corporations. —
+10   Section 27(A) of the National Internal Revenue Code of 1997, as amended, is hereby
+11   further amended to read as follows:
+12
+13         “SECTION 27. Rates of Income Tax on Domestic Corporations. —
+14
+15         “(A) IN GENERAL. — EXCEPT AS OTHERWISE PROVIDED IN THIS CODE,
+16         AN INCOME TAX RATE OF TWENTY-FIVE PERCENT (25%) EFFECTIVE
+17         JULY 1, 2020 IS HEREBY IMPOSED UPON A CORPORATION TAXABLE
+18         UNDER THIS TITLE UPON ITS TAXABLE INCOME DERIVED DURING
+19         EACH TAXABLE YEAR FROM ALL SOURCES WITHIN AND WITHOUT THE
+20         PHILIPPINES:
+21
+22         “PROVIDED, THAT DOMESTIC CORPORATIONS WITH NET TAXABLE
+23         INCOME NOT EXCEEDING FIVE MILLION PESOS (₱5,000,000.00) AND
+24         WITH TOTAL ASSETS NOT EXCEEDING ONE HUNDRED MILLION PESOS
+25         (₱100,000,000.00), EXCLUDING THE LAND ON WHICH THE
+26         PARTICULAR BUSINESS ENTITY'S OFFICE, PLANT, AND EQUIPMENT
+27         ARE SITUATED DURING THE TAXABLE YEAR FOR WHICH THE TAX IS
+28         IMPOSED, SHALL BE SUBJECT TO A TAX OF FIFTEEN PERCENT (15%) ON
+29         THEIR TAXABLE INCOME DERIVED DURING EACH TAXABLE YEAR
+30         FROM ALL SOURCES WITHIN AND WITHOUT THE PHILIPPINES.
+31         “X X X.”
+32
+33   SECTION 7. Exemption of Qualified Small Domestic Corporations from the Minimum
+34   Corporate Income Tax. — Section 27(E)(1) of the National Internal Revenue Code of
+35   1997, as amended, is hereby further amended to read as follows:
+36
+37         “(E) MINIMUM CORPORATE                  INCOME    TAX     ON    DOMESTIC
+38         CORPORATIONS. —
+39
+40         “(1) IMPOSITION OF TAX. — A MINIMUM CORPORATE INCOME TAX OF
+41         TWO PERCENT (2%) OF THE GROSS INCOME AS OF THE END OF THE
+42         TAXABLE YEAR, AS DEFINED HEREIN, IS HEREBY IMPOSED ON A
+43         CORPORATION TAXABLE UNDER THIS TITLE, BEGINNING ON THE
+44         FOURTH TAXABLE YEAR IMMEDIATELY FOLLOWING THE TAXABLE
+45         YEAR IN WHICH SUCH CORPORATION COMMENCED ITS BUSINESS
+46         OPERATIONS, WHENEVER THE MINIMUM CORPORATE INCOME TAX IS
+
+
+
+
+                                               7
+ 1         GREATER THAN THE TAX COMPUTED UNDER SUBSECTION (A) OF THIS
+ 2         SECTION FOR THE TAXABLE YEAR:
+ 3
+ 4         “PROVIDED, THAT THE MINIMUM CORPORATE INCOME TAX SHALL
+ 5         NOT APPLY TO A DOMESTIC CORPORATION QUALIFIED FOR THE
+ 6         FIFTEEN PERCENT (15%) CORPORATE INCOME TAX RATE UNDER
+ 7         SUBSECTION (A) OF THIS SECTION.
+ 8
+ 9         “X X X.”
+10
+11   SECTION 8. Non-Imposition of Minimum Corporate Income Tax on Micro and Small
+12   Enterprises. — Notwithstanding any provision of the National Internal Revenue Code
+13   to the contrary, no minimum corporate income tax shall be imposed upon a juridical
+14   entity qualifying as a micro or small enterprise under Republic Act No. 9501, otherwise
+15   known as the “Magna Carta for Micro, Small and Medium Enterprises,” as amended,
+16   provided that such enterprise satisfies the registration and substantiation
+17   requirements prescribed by law.
+18
+19                                    TITLE III
+20                              GENERAL TAX AMNESTY
+21
+22   SECTION 9. Coverage. — There is hereby authorized and granted a one-time General
+23   Tax Amnesty covering all unpaid national internal revenue taxes for taxable year 2025
+24   and prior years, whether or not a return was filed, and whether or not an assessment
+25   has been issued, including:
+26
+27         (a) income tax;
+28         (b) capital gains tax;
+29         (c) donor's tax;
+30         (d) value-added tax;
+31         (e) percentage taxes;
+32         (f) excise taxes;
+33         (g) documentary stamp taxes; and
+34         (h) other national internal revenue taxes collected by the Bureau of Internal
+35         Revenue.
+36
+37   Estate taxes shall be governed by Title V of this Act. Delinquent accounts and
+38   assessments shall be governed by Title IV.
+39
+40   SECTION 10. General Amnesty Tax. — A taxpayer availing of the General Tax Amnesty
+41   shall file a General Tax Amnesty Return and may elect to pay:
+42
+43         (a) one percent (1%) of total assets as of December 31, 2025; or
+44         (b) three percent (3%) of net worth as of December 31, 2025.
+45
+46   The taxpayer's election shall become irrevocable upon filing of the General Tax
+47   Amnesty Return and payment of the corresponding amnesty tax.
+
+
+
+                                                 8
+ 1   SECTION 11. Minimum Amnesty Tax. — The amnesty tax payable under the
+ 2   immediately preceding Section shall in no case be less than:
+ 3
+ 4         (a) Twenty-Five Thousand Pesos (₱25,000.00), for individual taxpayers,
+ 5         estates, and trusts;
+ 6         (b) Fifty Thousand Pesos (₱50,000.00), for corporations and other juridical
+ 7         entities with total assets not exceeding One Hundred Million Pesos
+ 8         (₱100,000,000.00);
+ 9         (c) One Hundred Thousand Pesos (₱100,000.00), for corporations and other
+10         juridical entities with total assets exceeding One Hundred Million Pesos
+11         (₱100,000,000.00) but not exceeding One Billion Pesos (₱1,000,000,000.00);
+12         and
+13         (d) Two Hundred Fifty Thousand Pesos (₱250,000.00), for corporations and
+14         other juridical entities with total assets exceeding One Billion Pesos
+15         (₱1,000,000,000.00).
+16
+17   SECTION 12. Statement of Assets, Liabilities, and Net Worth. — A taxpayer availing of
+18   the General Tax Amnesty shall submit with the General Tax Amnesty Return a sworn
+19   Statement of Assets, Liabilities, and Net Worth, or Statement of Total Assets, as
+20   applicable, as of December 31, 2025. Only information reasonably necessary to
+21   determine the taxpayer's eligibility and the amnesty tax due may be required.
+22
+23   No implementing rule shall require disclosure of information unrelated to the
+24   computation, verification, or administration of the amnesty provided under this Act.
+25
+26   SECTION 13. Immunities and Privileges. — Upon full payment of the amnesty tax and
+27   substantial compliance with the requirements of this Act, the taxpayer shall, with
+28   respect to the taxable years and national internal revenue taxes validly covered:
+29
+30         (a) be released from payment of the corresponding basic tax, interest,
+31         surcharges, compromise penalties, and other additions to tax;
+32         (b) be immune from civil, administrative, and criminal liability under the
+33         National Internal Revenue Code arising solely from the failure to declare or pay
+34         the taxes covered by the amnesty; and
+35         (c) be considered fully compliant with respect to such taxes and taxable periods.
+36         No taxpayer who has validly availed of the General Tax Amnesty shall thereafter
+37         be audited, investigated, assessed, or prosecuted for the taxable years and taxes
+38         covered thereby, except upon proof that the availment itself was fraudulent.
+39
+40   SECTION 14. Confidentiality of Amnesty Information. — All information contained in
+41   the General Tax Amnesty Return, Statement of Assets, Liabilities, and Net Worth, and
+42   supporting documents submitted under this Act shall be confidential.
+43   Such information shall not be used in any investigation, assessment, or proceeding
+44   against the taxpayer except for the purpose of determining whether the availment of
+45   the amnesty itself was fraudulent.
+46
+
+
+
+
+                                                 9
+ 1   Any officer or employee who unlawfully divulges or uses such information shall be
+ 2   subject to the penalties provided under the National Internal Revenue Code and other
+ 3   applicable laws.
+ 4
+ 5   SECTION 15. No Waiver of Bank Secrecy. — Availment of the General Tax Amnesty
+ 6   shall not, by itself, constitute a waiver of any right to confidentiality afforded under
+ 7   Republic Act No. 1405, Republic Act No. 6426, or any other applicable law governing
+ 8   the confidentiality of bank deposits or financial information. Nothing herein shall
+ 9   prevent disclosure pursuant to a lawful court order or under circumstances expressly
+10   authorized by existing law.
+11
+12                               TITLE IV
+13              AMNESTY ON DELINQUENCIES AND ASSESSMENTS
+14
+15   SECTION 16. Tax Amnesty on Delinquencies. — Taxpayers with delinquent national
+16   internal revenue tax liabilities for taxable year 2025 and prior years may avail of tax
+17   amnesty by paying:
+18
+19          (a) twenty percent (20%) of the basic tax assessed, in cases of delinquent
+20          accounts and assessments which have become final and executory;
+21          (b) ten percent (10%) of the basic tax assessed, in tax cases subject of pending
+22          administrative protest, reinvestigation, reconsideration, or litigation before the
+23          Department of Justice, Court of Tax Appeals, or other court of competent
+24          jurisdiction; and
+25          (c) thirty percent (30%) of the basic tax assessed, in cases where a final and
+26          executory judgment has been rendered by a court.
+27          Upon payment of the applicable amount, the corresponding interest, surcharge,
+28          compromise penalties, and other additions to tax shall be deemed fully waived,
+29          and the tax liability covered by the payment shall be considered fully settled.
+30
+31   SECTION 17. Withdrawal and Termination of Proceedings. —
+32   Upon valid availment of the amnesty under this Title, any pending administrative or
+33   judicial proceeding relating solely to the tax liability covered by the amnesty shall,
+34   upon proper manifestation by the taxpayer and proof of payment, be terminated
+35   without further liability for the taxes and periods covered.
+36
+37                                      TITLE V
+38                                ESTATE TAX AMNESTY
+39
+40   SECTION 18. Estate Tax Amnesty. — There is hereby granted an Estate Tax Amnesty
+41   covering the estates of decedents who died on or before December 31, 2026, whose
+42   estate taxes have remained unpaid or underpaid as of the effectivity of this Act.
+43
+44   The estate may avail of the amnesty by paying an estate amnesty tax equivalent to six
+45   percent (6%) of the decedent's net taxable estate at the time of death, determined in
+46   accordance with the estate tax law applicable at the time of death.
+47
+
+
+
+                                                 10
+ 1   If an estate tax return was previously filed but the estate tax was underpaid, the six
+ 2   percent (6%) estate amnesty tax shall apply to the net undeclared estate. In no case
+ 3   shall the estate amnesty tax be less than Five Thousand Pesos (₱5,000.00).
+ 4   Upon full payment, all interest, surcharges, penalties, and other additions attributable
+ 5   to the estate tax liability covered by the amnesty shall be waived.
+ 6
+ 7   SECTION 19. Simplified Estate Amnesty Requirements. — The absence of a previously
+ 8   filed estate tax return, certificate of title, tax declaration, or similar document shall
+ 9   not, by itself, disqualify an estate from availing of the amnesty where ownership,
+10   succession, valuation, or other material facts may be established through competent
+11   evidence acceptable under existing laws.
+12
+13   The Bureau of Internal Revenue shall adopt simplified documentary requirements,
+14   particularly for estates involving residential property, agricultural land, family homes,
+15   and estates of modest value.
+16
+17                                  TITLE VI
+18                          COMMON AMNESTY PROVISIONS
+19
+20   SECTION 20. Period for Availment. — The amnesties provided under Titles III, IV,
+21   and V of this Act may be availed of within two (2) years from the effectivity of the
+22   implementing rules and regulations. The Secretary of Finance and Commissioner of
+23   Internal Revenue shall have no authority to shorten the period provided herein.
+24
+25   SECTION 21. Exclusions. — The amnesties under this Act shall not apply to:
+26
+27          (a) withholding agents with respect to taxes actually withheld or collected from
+28          another person but willfully not remitted to the Government;
+29          (b) persons with pending cases involving unlawfully acquired wealth under
+30          Republic Act No. 3019, Republic Act No. 7080, and other applicable laws;
+31          (c) liabilities directly arising from violations of Republic Act No. 9160, as
+32          amended;
+33          (d) tax liabilities directly attributable to proceeds of graft, corruption, plunder,
+34          trafficking in persons, terrorism, terrorism financing, or other unlawful
+35          activities as defined by law; and
+36          (e) taxpayers proven to have fraudulently availed themselves of the amnesty
+37          through deliberate and material concealment or falsification of information
+38          required under this Act.
+39
+40   SECTION 22. Finality of Valid Availment. — Upon full payment and substantial
+41   compliance with the applicable requirements of this Act, a valid availment of tax
+42   amnesty shall be final, irrevocable, and conclusive upon the Government with respect
+43   to the taxes and taxable periods covered thereby.
+44
+45   No additional substantive requirement may be imposed by administrative regulation
+46   after a taxpayer has validly availed of the amnesty.
+47
+
+
+
+                                                  11
+ 1                              TITLE VII
+ 2               TAXPAYER PROTECTION AND FINAL PROVISIONS
+ 3
+ 4   SECTION 23. Liberal Construction of Tax Relief. — The provisions of this Act granting
+ 5   exemptions, reduced rates, tax amnesty, or other forms of taxpayer relief shall be
+ 6   liberally construed to carry out their remedial and taxpayer-relief purposes. Nothing
+ 7   in this Section shall be construed to extend an exemption or amnesty to a person or
+ 8   transaction expressly excluded under this Act.
+ 9
+10   SECTION 24. Prohibition Against Administrative Diminution of Tax Relief. — No
+11   implementing rule, revenue regulation, revenue memorandum circular, ruling, order,
+12   or other administrative issuance shall:
+13
+14         (a) reduce an exemption or income threshold established under this Act;
+15         (b) increase a tax or amnesty rate prescribed herein;
+16         (c) narrow an income bracket established by this Act;
+17         (d) shorten a period expressly granted to taxpayers;
+18         (e) impose a substantive qualification for relief not authorized by this Act; or
+19         (f) otherwise diminish a right, exemption, privilege, or relief expressly granted
+20         herein.
+21
+22   SECTION 25. No Application Requirement for Rate Relief. — The individual income
+23   tax rates, exemptions, thresholds, and corporate income tax relief provided under
+24   Titles I and II shall apply by operation of law to all qualified taxpayers. No taxpayer
+25   shall be required to submit a separate application to obtain such relief.
+26
+27   SECTION 26. Implementing Rules and Regulations. — Within ninety (90) days from
+28   the effectivity of this Act, the Secretary of Finance, upon recommendation of the
+29   Commissioner of Internal Revenue and after consultation with affected taxpayer and
+30   business sectors, shall promulgate the rules and regulations necessary for its
+31   implementation.
+32
+33   The failure to promulgate implementing rules and regulations within the period
+34   prescribed shall not suspend the effectivity or implementation of the tax rates,
+35   exemptions, thresholds, and other substantive rights expressly granted under this Act.
+36
+37   SECTION 27. Congressional Oversight and Revenue Report. — The Department of
+38   Finance and Bureau of Internal Revenue shall submit to the appropriate committees
+39   of the Senate and House of Representatives, not later than one (1) year after the
+40   implementation of this Act and annually thereafter for three (3) years, a report
+41   containing:
+42
+43         (a) the number of taxpayers benefiting from the individual income tax reforms;
+44         (b) the number of qualified small domestic corporations benefiting from the
+45         corporate tax relief;
+46         (c) the number of taxpayers availing of each tax amnesty;
+47         (d) the amount of revenues collected through the amnesty programs;
+
+
+
+                                                 12
+ 1         (e) the estimated revenue impact of the tax reductions and exemptions; and
+ 2         (f) such recommendations as may improve tax administration without
+ 3         diminishing the relief granted under this Act.
+ 4
+ 5   SECTION 28. Separability Clause. — If any provision or part of this Act is declared
+ 6   unconstitutional or invalid, the remaining provisions or parts not affected thereby
+ 7   shall remain in full force and effect.
+ 8
+ 9   SECTION 29. Repealing Clause. — All laws, presidential decrees, executive orders,
+10   rules and regulations, or parts thereof inconsistent with this Act are hereby repealed,
+11   amended, or modified accordingly.
+12
+13   SECTION 30. Effectivity. — This Act shall take effect fifteen (15) days after its
+14   publication in the Official Gazette or in a newspaper of general circulation.
+15
+16   Approved,
+
+
+
+
+                                                 13
+

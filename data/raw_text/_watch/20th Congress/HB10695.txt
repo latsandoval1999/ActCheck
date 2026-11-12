@@ -1,0 +1,476 @@
+                                       Republic of the Philippines
+
+                                 HOUSE OF REPRESENTATIVES
+
+                                       Quezon City, Metro Manila
+                                                                                             August 11, 2026
+                                                                                               8:38 am
+                                      TWENTIETH CONGRESS
+
+                                         Second Regular Session
+
+                                    House Bill No.    10695
+                                                   _____________
+
+----------------------------------------------------------------------------------------------------------------
+
+                                    Introduced by Representative
+
+                                      BRIAN POE, PhD, MNSA
+
+----------------------------------------------------------------------------------------------------------------
+
+                           AN ACT
+PROMOTING THE INSTALLATION AND UTILIZATION OF SELF-GENERATING
+ FACILITY ZERO-EXPORT SOLAR SYSTEMS AND MICRO-SOLAR SYSTEMS
+  FOR OWN USE, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9136,
+OTHERWISE KNOWN AS THE “ELECTRIC POWER INDUSTRY REFORM ACT
+                           OF 2001”
+
+
+                                        EXPLANATORY NOTE
+
+       The increasing cost of electricity, coupled with rapid advancements in solar and
+energy storage technologies, underscores a need for a clear policy that will promote the
+adoption of own-use distributed energy systems. Self-Generating Facility Zero-Export Solar
+Systems (SGF ZESS), Micro-Solar Systems (MSS), and Battery Energy Storage Systems
+(BESS) enable consumers to generate and/or store electricity for their own consumption,
+thereby enhancing energy security, improving consumer resilience, reducing electricity costs,
+and supporting the country's transition to a cleaner and more sustainable energy future.
+
+        For consumers, these technologies help reduce electricity costs, improve resilience
+during power interruptions, and lessen dependence on the grid. The wider adoption of these
+technologies can also help reduce pressure on the distribution system, contributing to a more
+reliable, resilient, and efficient power sector.
+
+       At present, however, Republic Act 9136 or the Electric Power Industry Reform Act of
+2001 (EPIRA), does not expressly distinguish own-use distributed energy systems from
+commercial power generation. This regulatory gap has created uncertainty regarding the legal
+treatment of end-users who install and operate such systems solely for their own
+consumption, resulting in the imposition of regulatory and administrative requirements
+intended for generation companies. This creates an unnecessary burden that discourages the
+adoption of these technologies.
+
+                                                       1
+        This draft bill seeks to establish a clear policy that governs own-use energy systems.
+It clarifies that end-users who install and operate SGF ZESS, MSS, BESS, and similar
+technologies solely for their own consumption shall not be considered generation companies
+or be subject to regulatory requirements applicable to commercial power generators. It
+likewise removes unnecessary administrative barriers, strengthens consumer protection,
+promotes uniform safety standards, and enhances inter-agency coordination to facilitate the
+responsible deployment of these systems.
+
+        Additionally, this draft measure empowers consumers to generate and store their own
+electricity, enabling them to better manage electricity costs, improve resilience against power
+interruptions, and contribute to a more reliable, secure, and sustainable electric power system.
+
+       In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+
+                                           HON. BRIAN POE, PhD, MNSA
+                                                  Representative
+                                            FPJ Panday Bayanihan Party-List
+
+
+
+
+                                               2
+                                       Republic of the Philippines
+
+                                 HOUSE OF REPRESENTATIVES
+
+                                       Quezon City, Metro Manila
+
+
+                                      TWENTIETH CONGRESS
+
+                                         Second Regular Session
+
+                                    House Bill No.    10695
+                                                   _____________
+
+----------------------------------------------------------------------------------------------------------------
+
+                                    Introduced by Representative
+
+                                      BRIAN POE, PhD, MNSA
+
+----------------------------------------------------------------------------------------------------------------
+
+                           AN ACT
+PROMOTING THE INSTALLATION AND UTILIZATION OF SELF-GENERATING
+ FACILITY ZERO-EXPORT SOLAR SYSTEMS AND MICRO-SOLAR SYSTEMS
+  FOR OWN USE, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9136,
+OTHERWISE KNOWN AS THE “ELECTRIC POWER INDUSTRY REFORM ACT
+                           OF 2001”
+
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+assembled:
+
+        Sec. 1. Short Title – This Act shall be known as the “Sariling Kuryente Act.”
+
+        Sec. 2. Declaration of Policy — It is hereby declared the policy of the State to
+promote safe, reliable, affordable and widespread adoption of own-use distributed energy
+system, including Self-Generating Facility Zero Export Solar System (SGF ZESS),
+Micro-Solar Systems (MSS) and Battery Energy Storage Systems (BESS), as a means of
+empowering end-users to generate and store electricity for their own consumptions to attain
+consumer energy independence, improve energy efficiency and grid resilience, reduce
+electricity costs, reduction of transmission losses, create private investment in distributed
+energy resources and contribute to the country's energy security and clean energy transition.
+
+       Sec. 3. Scope and Applicability – This Circular shall govern the utilization of
+Self-Generating Facility Zero-Export Solar System (SGF ZESS) and Micro-Solar System
+(MSS), as defined herein, and other similar legitimate technologies and systems intended
+solely for own-use consumption and do not export electricity to the distribution system,
+regardless of connection type.
+
+Notwithstanding the definition of SGFs under the Implementing Rules and Regulations (IRR)
+of the Electric Power Industry Reform Act of 2001 (EPIRA), this Act shall likewise cover
+
+                                                       3
+systems installed and utilized by households, clinics, hospitals, and other medical facilities.
+The application thereto shall solely be for purposes of implementing this Act and shall not be
+interpreted as amending or otherwise affecting the classification of SGFs under the EPIRA
+and its IRR.
+
+        Sec. 4. Definition of Terms – For purposes of this Act, the following terms shall be
+defined as follows:
+    a.​ “Battery Energy Storage System” or “BESS” refers to an energy storage system
+        composed of one or more batteries, together with associated power conversion
+        systems, controls, protection devices, and other components, capable of storing
+        electrical energy and subsequently supplying such energy for own-use, including in
+        connection with an SGF ZESS or MSS;
+    b.​ “Distribution Utility” or “DU” shall have the same meaning as provided under
+        Republic Act No. 9136;
+    c.​ “End-user” refers to any person or entity supplied with electricity for its own use;
+    d.​ “Micro-Solar System” or “MSS” refers to a consumer-grade solar generation system
+        intended solely for own use, consisting of: (1) photovoltaic modules with an
+        aggregate direct-current nameplate capacity not exceeding one thousand watts (1,000
+        W) or one kilowatt (1 kW); (2) a factory-set, grid-tied micro-inverter with a maximum
+        alternating-current output not exceeding eight hundred watts (800 W) or zero point
+        eight kilowatt (0.8 kW), equipped with automatic anti-islanding disconnection; and
+        (3) a standard connection designed and installed in accordance with the Philippine
+        Electrical Code and applicable product and safety standards. The Department of
+        Energy, in consultation with the Energy Regulatory Commission and the Department
+        of Trade and Industry, may update the foregoing technical limits and specifications
+        through the implementing rules and regulations when warranted by technological
+        developments and safety considerations. An MSS may be equipped with BESS;
+    e.​ “Non-Compensated Export” refers to electricity inadvertently or unlawfully exported
+        to a distribution system that does not entitle the end-user to any billing credit, offset,
+        payment, or other monetary compensation;
+    f.​ “Own use” refers to electricity generated and consumed within the end-user’s
+        premises and not intended for sale or compensated export to a distribution system;
+        and
+    g.​ “Self-Generating Facility Zero-Export Solar System” or “SGF ZESS” refers to a
+        solar photovoltaic installation of any capacity intended solely for own use and not for
+        the export of electricity to a distribution system. An SGF ZESS may be either
+        connected or isolated, so long as it is equipped with functional control or isolation
+        mechanisms that prevent the export of electricity to the distribution system. ZESS
+        may be integrated with a BESS.
+
+       Sec. 5. Section 6 of Republic Act No. 9136 is hereby amended to read as follows:
+
+       “SEC. 6. Generation Sector. – Generation of electric power, a business affected with
+       public interest, shall be competitive and open.
+
+       “Upon the effectivity of this Act, any new generation company shall, before it
+       operates, secure from the Energy Regulatory Commission (ERC) a certificate of
+       compliance pursuant to the standards set forth in this Act, as well as health, safety and
+       environmental clearances from the appropriate government agencies under existing
+       laws.
+
+                                                4
+    “AN END-USER THAT INSTALLS AND OPERATES A SELF-GENERATING
+    FACILITY ZERO-EXPORT SOLAR SYSTEM (SGF ZESS), MICRO-SOLAR
+    SYSTEM (MSS) OR BATTERY ENERGY STORAGE SYSTEM (BESS), OR
+    ANY SIMILAR TECHNOLOGY OR SYSTEM FOR OWN USE SHALL NOT,
+    SOLELY BY REASON THEREOF, BE CONSIDERED A GENERATION
+    COMPANY.
+
+    “AN SGF, EITHER ZESS, MSS AND BESS USED EXCLUSIVELY FOR OWN
+    USE SHALL NO LONGER SECURE AND MAINTAIN A CERTIFICATE OF
+    COMPLIANCE FROM THE ERC IN ACCORDANCE WITH APPLICABLE
+    RULES.
+
+    “THE FOREGOING EXEMPTIONS SHALL NOT RELIEVE AN END-USER
+    FROM COMPLIANCE WITH THE PHILIPPINE ELECTRICAL CODE,
+    APPLICABLE BUILDING STRUCTURAL, FIRE, ENVIRONMENTAL,
+    PRODUCT-QUALITY, AND SAFETY STANDARDS, AND OTHER PERMITS,
+    CLEARANCES, OR REQUIREMENTS PRESCRIBED BY LAW.
+
+    NOTHING IN THIS SECTION SHALL AUTHORIZE THE SALE OR
+    COMPENSATED EXPORT OF ELECTRICITY TO A DISTRIBUTION
+    SYSTEM EXCEPT IN ACCORDANCE WITH THE NET-METERING
+    PROGRAM OR OTHER PROGRAMS AUTHORIZED BY LAW AND THE
+    APPLICABLE RULES OF THE ENERGY REGULATORY COMMISSION.
+
+​   “xxx.”
+
+    Sec. 6. Section 23 of Republic Act No. 9136 is hereby amended to read as follows:
+
+    “SEC. 23. Functions of Distribution Utilities. – A distribution utility shall have the
+    obligation to provide distribution services and connections to its system for any
+    end-user within its franchise area consistent with the Distribution Code.
+
+    Any entity engaged therein shall provide open and non-discriminatory access to its
+    distribution system to all users. Any distribution utility shall be entitled to impose and
+    collect distribution wheeling charges and connection fees from such end-users as
+    approved by the ERC. A distribution utility shall have the obligation to supply
+    electricity in the least-cost manner to its captive market, subject to the collection of
+    retail rates duly approved by the ERC.
+
+    “A   DISTRIBUTION    UTILITY  SHALL    NOT    IMPOSE     ANY
+    PRE-INSTALLATION CLEARANCE, AGREEMENT, DISTRIBUTION
+    IMPACT STUDY, METER REPLACEMENT, INSPECTION FEE, OR OTHER
+    REQUIREMENT OR CHARGE AS A CONDITION FOR THE
+    INSTALLATION OR INITIAL OPERATION OF AN SGF ZESS OR MSS.
+
+    “AN APPLICATION INVOLVING A SYSTEM CAPABLE OF EXPORTING
+    ELECTRICITY TO THE DISTRIBUTION SYSTEM SHALL BE PROCESSED
+    IN ACCORDANCE WITH THE UNIFORM, TRANSPARENT, AND
+    TIME-BOUND PROCEDURES PRESCRIBED BY THE ERC. NO
+
+                                            5
+      DISTRIBUTION UTILITY MAY IMPOSE ANY REQUIREMENT,
+      PROCEDURE, STUDY, EQUIPMENT SPECIFICATION, OR CHARGE NOT
+      AUTHORIZED UNDER SUCH RULES.
+
+      AN APPLICATION INVOLVING A SYSTEM INTENDED OR CAPABLE OF
+      COMPENSATED EXPORT TO A DISTRIBUTION SYSTEM SHALL BE
+      GOVERNED BY THE RENEWABLE ENERGY ACT OF 2008, THE
+      NET-METERING PROGRAM, AND OTHER APPLICABLE RULES, AND
+      SHALL NOT BE COVERED BY THIS ACT.”
+
+       Sec. 7. Section 37 of Republic Act No. 9136 is hereby amended by adding a new
+paragraph (r), to read as follows:
+
+​     “SEC. 37. Powers and Functions of the DOE. – x x x
+
+      (q) Exercise such other powers as may be necessary or incidental to attain the
+      objectives of this Act;
+
+      (R) PROMOTE THE SAFE AND WIDESPREAD ADOPTION OF SGF ZESS
+      AND MSS; COORDINATE THE REMOVAL OF NATIONAL AND LOCAL
+      ADMINISTRATIVE BARRIERS TO THEIR INSTALLATION; FACILITATE
+      ACCESS TO FINANCING, QUALIFIED INSTALLERS, AND RELIABLE
+      EQUIPMENT; COLLECT AND DISSEMINATE RELEVANT INFORMATION
+      AND    TECHNICAL     GUIDANCE  NECESSARY    FOR     THEIR
+      DEVELOPMENT; COORDINATE WITH OTHER CONCERNED AGENCIES;
+      AND PERFORM SUCH OTHER ACTS AS MAY BE NECESSARY TO
+      IMPLEMENT THIS ACT.”
+
+      (S) ESTABLISH, MAINTAIN, AND PERIODICALLY UPDATE A NATIONAL
+      REGISTRY OF SELF-GENERATING FACILITY ZERO-EXPORT SOLAR
+      SYSTEMS (SGF ZESS), MICRO-SOLAR SYSTEMS (MSS), BATTERY
+      ENERGY STORAGE SYSTEMS (BESS), AND OTHER OWN-USE
+      DISTRIBUTED ENERGY RESOURCES COVERED BY THIS ACT. THE
+      REGISTRY SHALL SERVE AS THE CENTRAL REPOSITORY OF
+      INFORMATION ON INSTALLED SYSTEMS FOR PURPOSES OF POLICY
+      FORMULATION, ENERGY PLANNING, STATISTICAL REPORTING,
+      DISASTER RESILIENCE PLANNING, AND MONITORING OF THE
+      COUNTRY'S DISTRIBUTED ENERGY RESOURCES, SUBJECT TO
+      APPLICABLE LAWS ON DATA PRIVACY AND CONFIDENTIALITY.
+
+      (T) FORMULATE, PERIODICALLY UPDATE, AND IMPLEMENT A
+      NATIONAL DISTRIBUTED ENERGY RESOURCES DEVELOPMENT
+      PLAN, WHICH SHALL IDENTIFY NATIONAL TARGETS, POLICY
+      DIRECTIONS, PRIORITY PROGRAMS, TECHNICAL STRATEGIES, AND
+      INVESTMENT INITIATIVES TO PROMOTE THE SAFE, RELIABLE,
+      EFFICIENT, AND SUSTAINABLE DEPLOYMENT OF OWN-USE
+      DISTRIBUTED ENERGY RESOURCES, CONSISTENT WITH THE
+      PHILIPPINE ENERGY PLAN AND OTHER NATIONAL ENERGY
+      POLICIES.
+
+
+                                          6
+       (U) COLLECT, MAINTAIN, ANALYZE, AND PUBLISH ANNUAL
+       STATISTICS AND REPORTS ON THE DEPLOYMENT AND UTILIZATION
+       OF OWN-USE DISTRIBUTED ENERGY RESOURCES, INCLUDING
+       INSTALLED CAPACITY, ESTIMATED ELECTRICITY GENERATION,
+       BATTERY    STORAGE    CAPACITY,  REGIONAL  DISTRIBUTION,
+       ESTIMATED REDUCTION IN PEAK DEMAND, ESTIMATED REDUCTION
+       IN GREENHOUSE GAS EMISSIONS, AND SUCH OTHER INFORMATION
+       AS MAY BE NECESSARY TO GUIDE POLICYMAKING AND
+       INVESTMENT DECISIONS.
+
+       (V) IN COORDINATION WITH THE ENERGY REGULATORY
+       COMMISSION, THE DEPARTMENT OF TRADE AND INDUSTRY, THE
+       DEPARTMENT OF SCIENCE AND TECHNOLOGY, CONCERNED
+       GOVERNMENT     AGENCIES,   PROFESSIONAL    ORGANIZATIONS,
+       INDUSTRY ASSOCIATIONS, ACADEMIC INSTITUTIONS, AND OTHER
+       RELEVANT    STAKEHOLDERS,      DEVELOP,   PROMOTE,     AND
+       PERIODICALLY UPDATE TECHNICAL GUIDELINES, BEST PRACTICES,
+       MODEL INSTALLATION STANDARDS, AND TECHNICAL ADVISORIES
+       TO ENSURE THE SAFE, RELIABLE, INTEROPERABLE, AND EFFICIENT
+       INSTALLATION,     OPERATION,        MAINTENANCE,       AND
+       DECOMMISSIONING OF SYSTEMS COVERED BY THIS ACT, AND
+
+       (W) IN COORDINATION WITH THE TECHNICAL EDUCATION AND
+       SKILLS DEVELOPMENT AUTHORITY (TESDA), THE COMMISSION ON
+       HIGHER EDUCATION (CHED), STATE UNIVERSITIES AND COLLEGES,
+       PROFESSIONAL   ORGANIZATIONS, AND OTHER CONCERNED
+       GOVERNMENT AGENCIES, PROMOTE WORKFORCE DEVELOPMENT
+       BY    SUPPORTING   COMPETENCY     STANDARDS,    INSTALLER
+       CERTIFICATION   AND  TRAINING    PROGRAMS,    CONTINUING
+       PROFESSIONAL DEVELOPMENT, TECHNICAL CAPACITY-BUILDING,
+       AND    PUBLIC INFORMATION AND EDUCATION PROGRAMS
+       NECESSARY TO ENSURE THE AVAILABILITY OF QUALIFIED
+       PERSONNEL FOR THE INSTALLATION, OPERATION, INSPECTION,
+       MAINTENANCE, AND SAFE USE OF DISTRIBUTED ENERGY
+       RESOURCES COVERED BY THIS ACT."
+
+        Sec. 8. Responsibilities of End-Users – An end-user shall: (a) ensure that the design,
+installation, operation, and maintenance of an SGF ZESS or MSS comply with this Act, the
+Philippine Electrical Code, applicable safety and quality standards, and all other relevant
+laws, rules, and regulations; (b) secure and maintain all permits, clearances, certifications,
+and protective devices required by law; (c) continuously maintain functional and effective
+control or isolation mechanisms that prevents the export of electricity to the distribution
+system; and (d) bear the operational and financial risks arising from the underperformance,
+downtime, or failure of the system.
+
+Any electricity exported to a distribution system in violation of this Act shall be treated as
+Non-Compensated Export and shall not entitle the end-user to any billing credit, offset,
+payment, or monetary compensation, unless the end-user is duly enrolled in the Net-Metering
+Program and has executed the required net-metering agreement with the host DU.
+
+
+                                              7
+Failure to maintain the prescribed anti-export, anti-islanding, or protective mechanisms shall
+constitute a violation of this Act, without prejudice to the authority of the DU, in accordance
+with uniform ERC rules, to require reasonable and proportionate corrective measures and
+additional protection schemes, or to take immediate action when necessary to address an
+imminent threat to public safety or distribution-system reliability.
+
+       Sec. 9. Protection Against Unreasonable Restrictions – No homeowners’
+association, condominium corporation, subdivision developer, property manager, building
+administrator, or similar entity shall prohibit the installation of an SGF ZESS or MSS on
+property owned or exclusively controlled by an end-user. Reasonable, objective, and
+non-discriminatory requirements may be imposed only for structural safety, public safety, or
+the protection of common property. Provided, however, that such requirements shall not
+prohibit the installation or unreasonably increase its cost.
+
+        The DOE, in coordination with the Department of Human Settlements and Urban
+Development (DHSUD), or other concerned agencies, shall develop and publish model rules
+that such entities may adopt.
+
+​       Sec. 10. Cybersecurity, Data Protection, and Digital Security Requirements – To
+safeguard the reliability, integrity, and resilience of the electric power system and protect
+consumers from cybersecurity risks, all SGF ZESS, MSS, BESS, and other own-use
+distributed energy resources covered by this Act shall, where applicable, comply with the
+following requirements:
+
+   (A)​Equipment capable of digital communication, remote monitoring, remote control, or
+       internet connectivity shall comply with the requirement prescribed or adopted by the
+       Department of Information and Communications technology (DICT), as well as
+       incorporate reasonable and appropriate cybersecurity measures to protect against
+       unauthorized access, malicious software, cyber intrusion, data manipulation, and other
+       cybersecurity threats that may compromise the safe and reliable operation of the
+       system;
+   (B)​Smart inverters, battery management systems, energy management systems,
+       monitoring platforms, communication gateways, and other digital control devices
+       shall comply with the cybersecurity requirements prescribed or adopted by the DICT,
+       including the capable of receiving authenticated security patches, firmware updates,
+       and software upgrades necessary to address identified cybersecurity vulnerabilities
+       throughout their supported operational life;
+   (C)​Manufacturers, importers, distributors, installers, and service providers shall ensure
+       that equipment placed into the Philippine market complies with applicable
+       cybersecurity, interoperability, communication, and product security requirements
+       prescribed or adopted under applicable rules and regulations of the DICT pursuant to
+       this Act;
+   (D)​End-users, installers, and service providers shall implement reasonable measures
+       prescribed or adopted by the DICT, including measures to secure user credentials,
+       communication interfaces, wireless connections, remote access functions, and
+       administrative controls to prevent unauthorized operation or manipulation of the
+       covered systems;
+   (E)​Customer energy consumption data, operational information, and other electronically
+       generated information collected through the operation of covered systems shall be
+       processed, stored, transmitted, and disclosed only in accordance with Republic Act
+
+                                              8
+       No. 10173, otherwise known as the "Data Privacy Act of 2012," and other applicable
+       laws, rules, and regulations. Such information shall not be disclosed to unauthorized
+       persons except as required by law or with the consent of the data subject, as may be
+       applicable. The National Privacy Commission (NPC) shall exercise its mandate over
+       matters involving the processing and protection of personal data; and
+   (F)​The DOE, in coordination with the ERC, the DICT, the Department of Trade and
+       Industry (DTI), the NPC, and other concerned government agencies, shall prescribe,
+       through the implementing rules and regulations, the minimum energy sector
+       requirements for cybersecurity, communication, interoperability, and data protection
+       applicable to covered systems, consistent with cybersecurity and digital security
+       standards and guidelines issued by the DICT and other applicable standard and
+       regulations, taking into consideration internationally recognized standards and
+       evolving technological developments.
+
+Compliance with this section shall not be construed as requiring prior approval from the
+distribution utility before the installation or operation of an own-use system, except where
+otherwise required under existing laws or regulations governing systems capable of exporting
+electricity to the distribution network.
+
+      Sec. 11. Inter-Agency Coordination – To support the implementation of this Act, the
+DOE shall:
+
+   (A)​ Coordinate with the DHSUD and other agencies exercising oversight over
+       homeowners’ associations, condominium corporations, and building managements;
+   (B)​ collaborate with the DTI and the Industry-Bureau of Philippine Standards for the
+       appropriate certification or mandatory certification of SGF ZESS and MSS
+       components to protect consumers from substandard equipment; and
+   (C)​ establish, together with the Department of the Interior and Local Government,
+       uniform guidelines to be observed by local government units within ninety (90) days
+       from the effectivity of the implementing rules and regulations.
+
+         Sec. 12. Financing and Incentive Mechanisms – The ERC, in coordination with the
+other concerned agencies, shall develop appropriate financing, benefit-sharing, and incentive
+mechanisms to encourage the installation, expansion, and continued use of the subject
+facilities, including their safe and reliable synchronization with the distribution system,
+without prejudice to the viability of distribution utilities and the security, reliability, and
+integrity of the power network.
+
+For this purpose, expenses incurred by distribution utilities in implementing ERC-approved
+programs for the promotion, integration, and synchronization of the subject facilities may be
+included in their capital expenditure plans, operating expenses, or other appropriate
+regulatory filings.
+
+        Sec. 13. Implementing Rules and Regulations – Within ninety (90) days from the
+effectivity of this Act, the DOE, in consultation with the ERC and other concerned
+government agencies, distribution utilities, consumer groups, industry participants, and other
+relevant stakeholders, shall promulgate the implementing rules and regulations of this Act.
+
+The implementing rules and regulations shall prescribe the appropriate mechanisms for
+monitoring, verifying, and ensuring compliance with this Act, including the applicable
+
+                                              9
+corrective and enforcement measures, consistent with due process and the respective
+mandates and jurisdictions of the DOE, the ERC, and other concerned government agencies.
+
+       Sec. 14. Transitory Provisions – This Act and its implementing rules and regulations
+shall apply prospectively, including to applications pending upon their effectivity, except
+when the ERC determines that such application would be infeasible or unjust, in which case
+the prior procedure may govern. Nothing in this Act shall prejudice rights vested in SGF
+ZESS or MSS installed, operated, or approved before its effectivity.
+
+For an MSS registered through the prescribed notification process and served by an existing
+analog meter, the net consumption recorded by such meter shall be honored as the basis for
+billing for a transitional period not exceeding twelve (12) months from notification. Within
+such period, the DU shall replace the meter with a meter suitable for MSS and compliant with
+applicable ERC regulations. The allocation and recovery of meter-replacement costs shall be
+governed by applicable ERC rules.
+
+       Sec. 15. Separability Clause – If any provision of this Act is declared
+unconstitutional or invalid, the other provisions not affected thereby shall remain in full force
+and effect.
+
+        Sec. 16. Repealing Clause – All laws, decrees, executive orders, rules and
+regulations, and other issuances or parts thereof inconsistent with this Act are hereby
+repealed, amended, or modified accordingly.
+
+        Sec. 17. Effectivity – This Act shall take effect fifteen (15) days after its publication
+in the Official Gazette or in a newspaper of general circulation.
+
+
+
+
+                                               10
+
