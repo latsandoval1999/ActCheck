@@ -1,0 +1,848 @@
+                                 Republic of the Philippines
+                               HOUSE OF REPRESENTATIVES
+                                 Quezon City, Metro Manila
+                                                                                          July 30, 2026
+                                    TWENTIETH CONGRESS                                      1:13 pm
+                                     Second Regular Session
+
+                                                   10444
+                                    HOUSE BILL NO. ______
+
+
+
+                      Introduced by Representative LEILA M. DE LIMA
+
+
+
+                             AN ACT
+TO ENSURE THE ACCESSIBILITY OF WEBSITES, DIGITAL PLATFORMS,
+MOBILE APPLICATIONS, AND ELECTRONIC SERVICES FOR PERSONS WITH
+                          DISABILITIES
+
+                                      EXPLANATORY NOTE
+
+         In the Philippines, persons with disabilities continue to face significant barriers
+to full participation in an increasingly digital society. According to the National Council
+for Disability Affairs (NCDA), as of July 2026, about three (3) million Filipinos are
+registered as persons with disabilities — 1,072,692 with physical disability, 459,759
+with speech impairment, 415,547 with psychosocial disability, and 315,642 with visual
+disability.1
+
+       The consequences of this gap are measurable. In 2020, the Digital Accessibility
+Rights Evaluation (DARE) Index, compiled by the Global Initiative for Inclusive ICTs
+(G3ict), scored the Philippines 53 out of 100, reflecting comparatively strong legal
+commitments but weak institutional capacity and outcomes. The country registered
+only 18 of a possible 50 points across ten (10) measured areas of ICT accessibility,
+and to date, no agency holds an exclusive mandate over accessible ICTs2.
+
+        This exclusion runs against the highest law of the land. Article XIII, Section 1 of
+the 1987 Constitution provides that "[t]he Congress shall give highest priority to the
+enactment of measures that protect and enhance the right of all the people to human
+dignity, reduce social, economic, and political inequalities, and remove cultural
+inequities by equitably diffusing wealth and political power for the common good."
+Section 13 of the same Article goes further, mandating that the State establish a
+special agency for persons with disabilities to support their rehabilitation, self-
+development, self-reliance, and integration into the mainstream of society.
+
+1 Data from National Council on Disability Affairs (NCDA) as of 06 July 2026. Retrieved from:
+
+https://ncda.gov.ph/
+2 G3ict (2020). Digital Accessibility Rights Evaluation Index. Retrieved from: https://g3ict.org/country-
+
+profile/philippines
+
+                                                    1
+        The Philippines has also undertaken this commitment internationally. It ratified
+the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD)
+on April 15, 2008, and Article 9 thereof obligates the State to ensure that persons with
+disabilities have access, on an equal basis with others, to information and
+communications technologies (ICT) and other services open to the public.
+
+       Domestically, this constitutional and treaty-level commitment is carried through
+Republic Act No. 7277, the Magna Carta for Persons with Disabilities, as amended,
+which mandates that persons with disabilities be afforded equal opportunity in
+education, employment, and access to public facilities and services 3. It is further
+operationalized through a series of administrative issuances, chief among them are
+the 2010 ICTO-NCDA Joint Memorandum Circular on web accessibility4 and DICT
+Memorandum Circular No. 004, Series of 20175, which adopted the Web Content
+Accessibility Guidelines (WCAG) 2.0 as the technical standard for government
+websites.
+
+       DICT M.C No. 004, in particular, requires the use of alternative text for non-text
+content, captions and transcripts for multimedia, and descriptive links and headings;
+mandates regular accessibility audits against WCAG 2.0; and requires each
+government agency to stand up its own web accessibility compliance team. These
+issuances have laid meaningful technical groundwork, but they remain administrative
+circulars rather than statute.
+
+      Web Content Accessibility Guidelines (WCAG) 2.0 was developed through the
+World Wide Web Consortium (W3C) process, in cooperation with individuals,
+organizations, and governments worldwide, to provide a single, shared standard for
+web content accessibility6. WCAG explains how to make web "content", natural
+information such as text, images, and sound; the code or markup defining structure
+and presentation; and dynamic content, multimedia, mobile applications, and AI-driven
+web interfaces, accessible to persons with disabilities7.
+
+       WCAG rests on four principles: content must be (1) perceivable, presentable to
+users through means they can sense; (2) operable, not requiring interaction a user
+cannot perform; (3) understandable, with information and interface operation that
+users can comprehend; and (4) robust, interpretable reliably across a wide range of
+user agents, including assistive technologies, even as those technologies evolve8.
+
+       Thus, this proposed measure.
+
+3 Chapter 6, Sections 25-28
+4 Dated 29 June 2010
+5 Dated 12 May 2017
+6 Henry, S.L (26 May 2026). WCAG 2 Overview. Retrieved from: https://www.w3.org/WAI/standards-
+
+guidelines/wcag/#:~:text=This%20page%20introduces%20the%20Web,WCAG%202.1%2C%20and%
+20WCAG%202.2.
+7 id
+8 Accessibility Guidelines Working Group (AG WG) Participants. (15 July 2025). Introduction to
+
+Understanding WCAG 2.2. Web Accessibility Initiative. Retrieved
+from:https://www.w3.org/WAI/WCAG22/Understanding/intro#understanding-the-four-principles-of-
+accessibility
+
+
+                                               2
+         This proposed Digital Accessibility Act intends to close the gap between the
+international technical standard and the country's legal framework by enacting, for the
+first time, a stand-alone statute that squarely covers digital accessibility. It adopts
+WCAG 2.2 Level AA as the minimum enforceable standard for all covered entities—
+national and local government agencies, government-owned or -controlled
+corporations (GOCCs), and private establishments offering goods and services to the
+public through digital means, including banks, e-commerce platforms, educational
+institutions, healthcare providers, and telecommunications and broadcast companies.
+It requires covered entities to integrate accessibility into the full lifecycle of digital
+products and services, from procurement through maintenance; establishes
+graduated compliance periods calibrated to entity size; and creates a coordinated
+enforcement framework led by the DICT, in partnership with the NCDA, combining
+administrative penalties and criminal liability for willful non-compliance.
+
+       By anchoring digital accessibility obligations in statute rather than
+administrative circular, and by establishing a lead agency with clear audit and sanction
+authority, this bill directly responds to the monitoring and enforcement gaps identified
+by the UN CRPD Committee and international benchmarking bodies alike. It builds on,
+rather than displaces, existing measures such as the Filipino Sign Language Act9, the
+closed-captioning law10, and the Accessibility Law11, and ensures that as the
+Philippines' digital infrastructure continues to expand under recent measures such as
+the E-Governance Act12 and the Konektadong Pinoy Act13, no Filipino is left behind on
+account of disability.
+
+      This bill was crafted after consultations with multiple stakeholders in various
+groups of persons with disabilities and advocacy networks.
+
+        Early approval of this measure is earnestly sought.
+
+
+
+
+                                                                  LEILA M. DE LIMA
+
+
+
+
+9 Republic Act No. 11106 (30 October 2018)
+10 Republic Act No. 10905 (21 July 2016)
+11 Batas Pambansa Bilang 344 (25 February 1983)
+12 Republic Act No. 12254 (05 September 2025)
+13 Republic Act No. 12234 (24 August 2025)
+
+
+                                                3
+                                 Republic of the Philippines
+                               HOUSE OF REPRESENTATIVES
+                                 Quezon City, Metro Manila
+
+                                   TWENTIETH CONGRESS
+                                    Second Regular Session
+
+                                                  10444
+                                   HOUSE BILL NO. ______
+
+
+
+                       Introduced by Representative LEILA M. DE LIMA
+
+
+
+                                  AN ACT
+     TO ENSURE THE ACCESSIBILITY OF WEBSITES, DIGITAL PLATFORMS,
+     MOBILE APPLICATIONS, AND ELECTRONIC SERVICES FOR PERSONS WITH
+                               DISABILITIES
+
+     Be it enacted by the Senate and House of Representatives of the Philippines in
+     Congress assembled:
+
+
+ 1                           CHAPTER I: GENERAL PROVISIONS
+ 2
+ 3         SECTION. 1. Short Title. – This Act shall be known and cited as the “Digital
+ 4   Accessibility Act.”
+ 5
+ 6           SEC. 2. Declaration of Policy. – Pursuant to the Constitution, Republic Act No.
+ 7   7277, otherwise known as the "Magna Carta for Persons with Disabilities", as
+ 8   amended, and the United Nations Convention on the Rights of Persons with
+ 9   Disabilities (UNCRPD), particularly concerning accessibility, independent living,
+10   community inclusion, and freedom of opinion and expression, including access to
+11   information, the State shall adopt and implement measures to eliminate digital barriers
+12   and promote equal access to information and communications technology (ICT),
+13   digital products, services, electronic communications, and digital content.
+14
+15         Towards this end, the State shall promote universal design, ensure reasonable
+16   accommodation where appropriate, and establish an accessible, inclusive, usable,
+17   and responsive digital environment. This environment shall enable the full participation
+18   of persons with disabilities in education, employment, government services,
+19   commerce, culture, civic engagement, and all other aspects of public life.
+20
+21          The State likewise recognizes the indispensable role of the private sector, civil
+22   society organizations, organizations of persons with disabilities, academic institutions,
+
+                                                1
+ 1   and other stakeholders in advancing digital accessibility. Accordingly, the State shall
+ 2   encourage their active participation in developing, implementing, monitoring, and
+ 3   continuously improving policies, programs, standards, and initiatives under this Act.
+ 4
+ 5         SEC. 3. Objectives. – The objectives of this Act are as follows:
+ 6
+ 7                  (a) Ensure that persons with disabilities enjoy equal access to and use
+ 8           of information and communications technologies, digital products, services,
+ 9           platforms, electronic communications, and digital content on an equal basis
+10           with others;
+11                  (b) Promote universal design and accessibility as fundamental
+12           requirements in the development and provision of digital technologies, while
+13           ensuring the provision of reasonable accommodation where appropriate;
+14                  (c) Uphold the rights of persons with disabilities to privacy, security,
+15           safety, and protection in their use of digital technologies and services;
+16                  (d) Promote collaboration among government agencies, local
+17           government units, the private sector, civil society organizations, organizations
+18           of persons with disabilities, academic institutions, and other stakeholders in
+19           advancing digital accessibility; and
+20                  (e) Establish a coordinated, inclusive, and accountable framework for
+21           the adoption, implementation, monitoring, and enforcement of digital
+22           accessibility standards across the public and private sectors.
+23
+24         SEC. 4. Definition of Terms. – As used in this Act:
+25
+26                   (a) Accessibility – Refers to the condition in which environments,
+27           information, communications, information and communications technologies
+28           (ICT), products, services, and systems are designed, developed, maintained,
+29           and provided to eliminate obstacles and barriers and enable persons with
+30           disabilities to access, perceive, understand, navigate, interact with, and use
+31           them on an equal basis with others;
+32
+33                   (b) Accessibility Barriers – Refers to obstacles, limitations, or conditions
+34           in physical spaces and within digital products, services, content, platforms,
+35           information and communications technologies, or systems that prevent or
+36           restrict persons with disabilities from perceiving, accessing, navigating,
+37           interacting with, understanding, or using them effectively and on an equal
+38           basis with others. These may include structural, technical, informational,
+39           communicational, or design barriers;
+40
+41                  (c) Accessibility Features – Refers to the functionalities, characteristics,
+42           or technical components of digital products, services, content, platforms, or
+43           information and communications technologies that enable persons with
+
+
+                                                  2
+ 1   disabilities to perceive, operate, understand, navigate, interact with, and use
+ 2   them effectively and on an equal basis with others;
+ 3
+ 4          (d) Assistive Technology – Refers to any item, piece of equipment,
+ 5   software, service, or product system used to increase, maintain, or improve
+ 6   the functional capabilities of persons with disabilities in accessing, interacting
+ 7   with, or using digital systems;
+ 8
+ 9          (e) Automated Testing Tools – Refers to software applications,
+10   programs, or scripts designed to automatically evaluate digital interfaces, code
+11   structures, or content components to identify potential technical non-
+12   conformities with accessibility requirements without direct human intervention;
+13
+14          (f) Cognitive and Learning Impairments – Refers to long-term
+15   impairments affecting one or more cognitive functions, including attention,
+16   memory, learning, language, reading, writing, reasoning, perception,
+17   executive functioning, or problem-solving, which, in interaction with various
+18   barriers, may hinder a person's ability to access, understand, navigate,
+19   interact with, or use digital information, communications, technologies,
+20   products, or services on an equal basis with others;
+21
+22          (g) Communication – Includes languages, display of text, Braille, tactile
+23   communication, large print, accessible multimedia, written communication,
+24   audio, plain-language formats, human readers, and augmentative and
+25   alternative modes, means, and formats of communication;
+26
+27           (h) Covered Entity – Refers to any national government agency, local
+28   government unit, government-owned or -controlled corporation, private
+29   enterprise, utility provider, online platform, or foreign juridical entity offering
+30   digital products or services within the Philippines, as comprehensively
+31   enumerated under Section 5 of this Act;
+32
+33           (i) Disability – Refers to the evolving concept resulting from the
+34   interaction between persons with impairments and attitudinal, environmental,
+35   institutional, communication, technological, and other barriers that hinder their
+36   full and effective participation in society on an equal basis with others;
+37
+38          (j) Digital Accessibility – Refers to the design, development,
+39   procurement, maintenance, and continuous improvement of digital products,
+40   services, platforms, content, and information and communications
+41   technologies to ensure that they are perceivable, operable, understandable,
+42   and robust, enabling persons with disabilities to access, navigate, interact
+43   with, and use them effectively and on an equal basis with others;
+
+
+                                         3
+ 1          (k) Digital Means – Refers to the use of information and
+ 2   communications technologies (ICT), electronic systems, digital platforms,
+ 3   software applications, websites, mobile applications, online services,
+ 4   electronic communications, digital documents, connected devices, and other
+ 5   current or emerging technologies to create, process, store, transmit, access,
+ 6   deliver, or exchange information, products, or services;
+ 7
+ 8           (l) Discrimination on the Basis of Disability – Refers to any distinction,
+ 9   exclusion, or restriction on the basis of disability that has the purpose or effect
+10   of impairing or nullifying the recognition, enjoyment, or exercise, on an equal
+11   basis with others, of all human rights and fundamental freedoms in the
+12   political, economic, social, cultural, civil, or any other field. It includes all forms
+13   of discrimination, including denial of reasonable accommodation;
+14
+15          (m) Emerging Technologies – Refers to new, rapidly developing, or
+16   evolving technologies that are not yet widely adopted or fully established but
+17   have the potential to significantly influence digital systems, products, services,
+18   communication, or access to information, including artificial intelligence,
+19   extended reality, blockchain, Internet of Things (IoT), advanced automation,
+20   and other future technological innovations;
+21
+22           (n) Essential Public Service – Refers to any government service, public
+23   function, or service provided, regulated, funded, or authorized by government
+24   or provided by private entities that is necessary for the enjoyment of rights,
+25   participation in society, or access to basic goods and services, including
+26   healthcare, education, social protection, employment, transportation,
+27   telecommunications, financial services, public utilities, emergency services,
+28   public information, and other services delivered through digital or non-digital
+29   means;
+30
+31           (o) Impairment – Refers to a difference, limitation, or loss in bodily
+32   structures or functions, including physical, sensory, intellectual, mental, or
+33   cognitive functions, which, in interaction with various barriers, may result in
+34   disability;
+35
+36           (p) Inclusive – Refers to the design, development, delivery, and
+37   operation of environments, products, services, programmers, information,
+38   communications, and technologies in a manner that ensures the full and
+39   effective participation of all persons, including persons with disabilities, on an
+40   equal basis with others through the identification and removal of barriers and
+41   the promotion of accessibility, equality, dignity, and non-discrimination;
+42
+43          (q) Information and Communications Technology (ICT) – Refers to a
+44   diverse set of technological tools, systems, devices, networks, and resources
+
+                                           4
+ 1   used to transmit, store, create, process, share, or exchange information
+ 2   through electronic means;
+ 3
+ 4          (r) Motor Impairment – Refers to a long-term impairment affecting a
+ 5   person's movement, coordination, dexterity, strength, endurance, or control of
+ 6   bodily movements, which may affect interaction with digital systems and
+ 7   technologies;
+ 8
+ 9         (s) Multiple Impairment – Refers to the presence of two or more distinct
+10   impairments that may result in combined or additional accessibility needs;
+11
+12          (t) Persons with Disabilities– Refers to persons who have long-term
+13   physical, mental, intellectual, or sensory impairments which, in interaction with
+14   various barriers, may hinder their full and effective participation in society on
+15   an equal basis with others;
+16
+17          (u) Reasonable Accommodation – Refers to necessary and appropriate
+18   modifications and adjustments not imposing a disproportionate or undue
+19   burden, where needed in a particular case, to ensure persons with disabilities
+20   the enjoyment or exercise, on an equal basis with others, of all human rights
+21   and fundamental freedoms;
+22
+23          (v) Screen Reader – Refers to specialized software or technology that
+24   converts digital text, interface elements, and information into synthesized
+25   speech or refreshable Braille output to enable access by persons who are
+26   blind or have low vision;
+27
+28          (w) Sensory Impairment – Refers to an impairment affecting one or
+29   more sensory functions, including vision, hearing, balance, or related sensory
+30   processing functions, such as blindness, low vision, deafness, hard-of-hearing
+31   conditions, or deaf blindness;
+32
+33         (x) Universal Design – Refers to the design of products, environments,
+34   programs, and services to be usable by all people, to the greatest extent
+35   possible, without the need for adaptation or specialized design;
+36
+37           (y) User Testing – Refers to the process of evaluating the usability,
+38   accessibility, and effectiveness of digital products, services, content, or
+39   technologies by observing and gathering feedback from actual users,
+40   including persons with disabilities and users of assistive technologies, to
+41   identify barriers, assess accessibility requirements, and improve user
+42   experience;
+43
+
+
+                                        5
+ 1           (z) Web Content Accessibility Guidelines (WCAG) – Refers to the
+ 2    internationally recognized technical guidelines for web accessibility developed
+ 3    and maintained by the World Wide Web Consortium (W3C), which establish
+ 4    principles and success criteria for making digital content accessible, including
+ 5    being perceivable, operable, understandable, and robust.
+ 6
+ 7   SEC. 5. Scope. – This Act shall apply to:
+ 8
+ 9            (a) All national government agencies, departments, bureaus, offices,
+10     instrumentalities, constitutional commissions, state universities and colleges
+11     (SUCs), government-owned or -controlled corporations (GOCCs),
+12     government financial institutions (GFIs), local government units (LGUs), and
+13     all other government entities, including their official websites, web
+14     applications, mobile applications, digital platforms, electronic services,
+15     information systems, self-service technologies, digital publications,
+16     electronic documents, audiovisual materials, digital communications, and
+17     other digital content or services provided to the public;
+18
+19             (b) All private entities that own, operate, lease, or manage places of
+20     public accommodation or provide goods or services to the public through
+21     digital means, including, but not limited to:
+22
+23             i.   Places of lodging;
+24            ii.   Establishments serving food or beverages;
+25           iii.   Places of exhibition, entertainment, or recreation;
+26           iv.    Public assembly venues;
+27            v.    Retail establishments and shopping services;
+28           vi.    Financial institutions, banks, insurance companies, investment
+29                  firms, and payment service providers;
+30          vii.    Healthcare providers, hospitals, clinics, pharmacies, laboratories,
+31                  and other health facilities;
+32          viii.   Educational institutions, training centers, libraries, digital learning
+33                  platforms, learning management systems, and providers of
+34                  educational technologies;
+35           ix.    Public transportation operators and providers of passenger
+36                  transport services;
+37            x.    Professional offices and providers of legal, accounting,
+38                  engineering, architectural, medical, and other professional
+39                  services;
+40           xi.    Telecommunications, broadcasting, media, internet service
+41                  providers (ISPs), and other electronic communications service
+42                  providers;
+43          xii.    Public utilities and providers of electricity, water, sanitation, waste
+44                  management, and similar essential services;
+
+                                           6
+ 1                 xiii.   Employment and recruitment platforms;
+ 2                 xiv.    E-commerce         platforms,    online       marketplaces,     digital
+ 3                         marketplaces, and other online intermediaries; and
+ 4                 xv.     Such other entities that offer goods, services, programs, or
+ 5                         activities to the public through digital platforms or information and
+ 6                         communications technologies;
+ 7
+ 8                    (c) Software developers, web designers, systems architects, and
+ 9            technology service providers, whether operating as local in-house personnel,
+10            domestic corporate entities, or external third-party vendors and independent
+11            contractors, who are engaged to design, build, test, deploy, or maintain
+12            digital platforms, websites, mobile applications, or electronic services for any
+13            covered entity;
+14
+15                   (d) Any person, corporation, partnership, association, or other juridical
+16            entity organized or registered under the laws of a foreign jurisdiction that
+17            offers, provides, supplies, or makes available digital products, digital
+18            services, applications, platforms, subscriptions, software, or other
+19            information and communications technology to persons located in the
+20            Philippines, whether directly or through distributors, agents, affiliates,
+21            resellers, digital marketplaces, subscription-based services, or any other
+22            commercial arrangement; and
+23
+24                  (e) Such other entities as may be determined by the implementing
+25            agency, consistent with the objectives of this Act.
+26
+27       CHAPTER II: RIGHTS OF PERSONS WITH DISABILITIES IN THE DIGITAL
+28                               ENVIRONMENT
+29
+30          SEC. 6. Accessibility Rights and Non-Discrimination. – Persons with disabilities
+31   shall have the right to access, use, and benefit from information and communications
+32   technologies, digital products, services, digital platforms, electronic communications,
+33   and digital content on an equal basis with others.
+34
+35           No person with a disability shall be denied access to, excluded from
+36   participation in, or otherwise discriminated against in any digital product, service,
+37   platform, program, or activity covered by this Act on the basis of disability.
+38
+39         In furtherance of these rights, persons with disabilities shall be entitled to:
+40
+41                  (a) Equal and effective access to digital products, services,
+42            information and communications technologies, digital platforms, and digital
+43            content that are accessible, usable, understandable, operable, and
+44            compatible with assistive technologies;
+
+                                                  7
+ 1                   (b) Freedom from discrimination on the basis of disability in the
+ 2             design, development, procurement, acquisition, operation, maintenance,
+ 3             and delivery of digital technologies, products, services, and digital
+ 4             environments;
+ 5
+ 6                    (c) Receive information, communications, and digital content in
+ 7             accessible formats and through accessible means of communication, in a
+ 8             timely manner and without additional cost on account of disability;
+ 9
+10                     (d) Use assistive technologies, accessibility features, and reasonable
+11             accommodations necessary to effectively access and use digital products
+12             and services without being denied access or subjected to unjustified
+13             restrictions;
+14
+15                     (e) Access digital products and services through authentication,
+16             identity verification, and security mechanisms that are accessible to persons
+17             with disabilities. Covered entities shall provide accessible, secure, and
+18             functionally equivalent alternatives where authentication or verification
+19             methods rely on visual, auditory, speech, cognitive, dexterity, or movement-
+20             based interactions that may not be accessible to persons with disabilities;
+21
+22                     (f) Equal access to digital government services, education,
+23             employment, healthcare, financial services, commerce, transportation,
+24             justice, emergency services, and all other goods, programs, and services
+25             made available through digital means;
+26
+27                    (g) Protection of their privacy, personal data, safety, and security in
+28             accordance with applicable laws, including Republic Act No. 10173,
+29             otherwise known as the "Data Privacy Act of 2012," while accessing and
+30             using digital technologies and services; and
+31
+32                   (h) Effective remedies, including the right to file complaints before the
+33             appropriate authorities and seek redress for violations of the rights
+34             guaranteed under this Act.
+35
+36                   CHAPTER III: DIGITAL ACCESSIBILITY STANDARDS
+37
+38          SEC. 7. Adoption of Accessibility Frameworks. – To ensure digital accessibility
+39   for persons with disabilities, all covered entities shall ensure that their websites, mobile
+40   applications, digital platforms, electronic services, information and communications
+41   technology (ICT), digital products, electronic documents, and other digital content and
+42   services are designed, developed, procured, acquired, operated, maintained, and
+43   updated in accordance with internationally recognized digital accessibility standards.
+44
+
+                                                  8
+ 1            (a) The Web Content Accessibility Guidelines (WCAG) 2.2, developed
+ 2     by the World Wide Web Consortium (W3C), is hereby adopted as the
+ 3     minimum digital accessibility standard under this Act. All covered digital
+ 4     products and services shall, at a minimum, conform to Level AA of WCAG
+ 5     2.2 or such subsequent version as may be adopted pursuant to this Act.
+ 6
+ 7            (b) The Department of Information and Communications Technology
+ 8     (DICT), in coordination with the National Council on Disability Affairs
+ 9     (NCDA), the Department of Science and Technology (DOST), relevant
+10     government agencies, organizations of persons with disabilities, standards-
+11     setting bodies, industry representatives, and other stakeholders, shall
+12     periodically review and prescribe the applicable version of the WCAG and
+13     may adopt subsequent versions, successor standards, or other
+14     internationally recognized digital accessibility standards as may be
+15     necessary to keep pace with technological developments: Provided, That
+16     such standards shall provide a level of accessibility not lower than the
+17     requirements established under WCAG 2.2 Level AA or its subsequent
+18     adopted version.
+19
+20            (c) The DICT, in coordination with the DOST, NCDA, relevant
+21     government agencies, organizations of persons with disabilities, standards-
+22     setting bodies, industry representatives, and other stakeholders, may
+23     develop and adopt Philippine Digital Accessibility Standards to supplement
+24     the requirements of this Act and address local needs, emerging
+25     technologies, and sector-specific applications: Provided, That such
+26     standards shall be consistent with internationally recognized best practices
+27     and shall not prescribe accessibility requirements lower than those
+28     established under WCAG 2.2 Level AA or its subsequent adopted version.
+29
+30          CHAPTER IV: OBLIGATIONS OF COVERED ENTITIES
+31
+32   SEC. 8. General Duties of Covered Entities. – All covered entities shall:
+33
+34             (a) Ensure that their websites, mobile applications, digital platforms,
+35     information and communications technology (ICT), digital products,
+36     electronic services, digital publications, electronic documents, and other
+37     digital content and services comply with the digital accessibility standards
+38     prescribed under this Act and its implementing rules and regulations;
+39
+40           (b) Integrate accessibility throughout the planning, design,
+41     development, procurement, acquisition, operation, maintenance, and
+42     updating of digital products and services to prevent and remove digital
+43     accessibility barriers;
+44
+
+                                         9
+ 1                     (c) Provide reasonable accommodation and accessible alternatives,
+ 2             where appropriate, to ensure that persons with disabilities have equal and
+ 3             effective access to digital products and services;
+ 4
+ 5                    (d) Establish and maintain an accessible mechanism for receiving
+ 6             complaints, reports, feedback, and requests relating to digital accessibility,
+ 7             and acknowledge and respond to such complaints or concerns within thirty
+ 8             (30) calendar days from receipt thereof; and
+ 9
+10                    (e) Periodically review and improve the accessibility of their digital
+11             products and services to ensure continued compliance with this Act and
+12             applicable accessibility standards.
+13
+14           SEC. 9. Accessibility Compliance in Lifecycle and Procurement. – Covered
+15   entities shall integrate digital accessibility throughout the lifecycle of their ICT, digital
+16   products, services, and content, including planning, design, development,
+17   procurement, testing, deployment, operation, maintenance, and updating, in
+18   accordance with the standards prescribed under this Act.
+19
+20          Government agencies, government-owned or -controlled corporations, and
+21   other government instrumentalities shall procure, acquire, lease, develop, and
+22   maintain only those ICT products, systems, software, applications, and digital services
+23   that comply with the digital accessibility standards prescribed under this Act.
+24
+25          SEC. 10. Accessibility Assessment and User Testing. – Covered entities shall
+26   periodically assess the accessibility of their digital products and services to ensure
+27   continued compliance with this Act.
+28
+29           Accessibility assessments shall not rely solely on automated testing tools, self-
+30   assessments, or technical conformance evaluations. Covered entities shall conduct
+31   manual accessibility testing and, where appropriate, usability testing involving persons
+32   with disabilities using relevant assistive technologies, and shall meaningfully consult
+33   organizations of persons with disabilities in accessibility testing and quality assurance
+34   activities.
+35
+36           SEC. 11. Cognitive and Inclusive Accessibility. – Digital accessibility under this
+37   Act shall not be limited to compatibility with assistive technologies but shall also
+38   promote usability and an inclusive user experience for persons with diverse
+39   disabilities, including cognitive, learning, neurological, psychosocial, sensory, and
+40   multiple impairments.
+41
+42         Covered entities shall ensure that digital products and services use clear and
+43   understandable language, particularly for government, healthcare, education,
+
+
+                                                  10
+ 1   financial, emergency, and other essential public services, whenever practicable and
+ 2   appropriate to the intended purpose of the content.
+ 3
+ 4          SEC. 12. Compliance Periods. – Covered entities shall comply with the
+ 5   requirements of this Act within the following periods from the effectivity of its
+ 6   implementing rules and regulations:
+ 7
+ 8                    (a) National government agencies, constitutional commissions,
+ 9            government-owned or -controlled corporations, government financial
+10            institutions, state universities and colleges, and local government units —
+11            twelve (12) months;
+12
+13                   (b) Large private entities, as defined under the implementing rules and
+14            regulations of this Act — twelve (12) months;
+15
+16                    (c) Medium enterprises — eighteen (18) months; and
+17
+18                 (d) Micro and small enterprises covered by this Act — eighteen (18)
+19            months.
+20
+21          The DICT, in consultation with the NCDA and the Department of Trade and
+22   Industry (DTI), shall prescribe the classification of covered private entities, consistent
+23   with the criteria established under Republic Act No. 9501, otherwise known as the
+24   "Magna Carta for Micro, Small, and Medium Enterprises (MSMEs)."
+25
+26         SEC. 13. Undue Burden. – A covered entity may apply to the DICT for a
+27   temporary exemption from a specific accessibility requirement where compliance
+28   would impose an undue financial, technical, or operational burden.
+29
+30          The burden of proving an undue burden shall rest upon the covered entity. Any
+31   exemption granted under this section shall be temporary and shall not relieve the
+32   covered entity of the obligation to provide an accessible alternative to the maximum
+33   extent practicable.
+34
+35         SEC. 14. Annual Compliance Report. – The DICT, in coordination with the
+36   NCDA and relevant regulatory agencies, shall prepare and publish an Annual Digital
+37   Accessibility Compliance Report on the implementation of this Act.
+38
+39          The report shall include, at a minimum:
+40
+41                    (a) The overall level of compliance of covered entities with this Act;
+42
+43                   (b) The number and nature of complaints received and their
+44            resolution;
+
+                                                11
+ 1                   (c) Common digital accessibility barriers and trends identified through
+ 2             monitoring, inspections, investigations, and accessibility assessments;
+ 3
+ 4                   (d) Enforcement actions, compliance orders, administrative penalties,
+ 5             and other regulatory actions undertaken pursuant to this Act;
+ 6
+ 7                   (e) Recommendations for improving digital accessibility policies,
+ 8             standards, and implementation; and
+ 9
+10                   (f) Such other information as may be necessary to evaluate the
+11             implementation and effectiveness of this Act.
+12
+13            The report shall be made publicly available in an accessible format through the
+14   official website of the DICT and other appropriate means: Provided, That confidential,
+15   proprietary, personal, or otherwise protected information shall not be disclosed except
+16   as authorized by law.
+17
+18      CHAPTER V: CAPACITY DEVELOPMENT AND INSTITUTIONAL SUPPORT
+19
+20          SEC. 15. Capacity Development. – The DICT, in coordination with the NCDA,
+21   Civil Service Commission (CSC), Department of Education (DepEd), Commission on
+22   Higher Education (CHED), Technical Education and Skills Development Authority
+23   (TESDA), DOST, and other relevant agencies, shall develop and implement programs
+24   to strengthen institutional capacity for digital accessibility in both the public and private
+25   sectors.
+26
+27         Such programs may include training, technical assistance, development of
+28   guidance materials, and other initiatives necessary to support compliance with this
+29   Act.
+30
+31          SEC. 16. Professional Development. – The State shall promote the
+32   development and recognition of competencies in digital accessibility by encouraging
+33   education, training, research, certification, and continuing professional development
+34   for government personnel, information and communications technology professionals,
+35   designers, developers, content creators, procurement officers, quality assurance
+36   personnel, educators, and other relevant practitioners.
+37
+38         The DICT may recognize nationally or internationally accepted digital
+39   accessibility certifications and competency frameworks and may establish qualification
+40   standards for personnel performing digital accessibility functions in government.
+41
+42              CHAPTER VI: ENFORCEMENT, REMEDIES, AND LIABILITIES
+43
+
+
+                                                  12
+ 1          SEC. 17. Complaint, Investigation, and Administrative Enforcement. – Any
+ 2   person who is denied the rights guaranteed under this Act or encounters a digital
+ 3   accessibility barrier may file a complaint with the DICT, the NCDA, or the appropriate
+ 4   regulatory agency having jurisdiction over the covered entity.
+ 5
+ 6          The DICT, in coordination with the NCDA and appropriate regulatory agencies,
+ 7   shall establish accessible and effective mechanisms for the receipt, investigation,
+ 8   mediation, and resolution of complaints and may conduct accessibility audits,
+ 9   inspections, or investigations to determine compliance with this Act.
+10
+11           Where a violation is found, the implementing agency shall issue a Notice of
+12   Non-Compliance identifying the accessibility deficiencies and directing the covered
+13   entity to undertake corrective measures within a reasonable period. Failure to comply
+14   without justifiable cause shall constitute grounds for the imposition of administrative
+15   penalties under this Act.
+16
+17          SEC. 18. Civil Remedies and Private Right of Action. – Nothing in this Act shall
+18   prevent an aggrieved person from instituting the appropriate civil or administrative
+19   action before the proper court, tribunal, or government agency to enforce the rights
+20   guaranteed under this Act.
+21
+22         A person who is denied equal access to a digital product or service, excluded
+23   from participation, or otherwise subjected to digital discrimination in violation of this
+24   Act may seek appropriate relief, including:
+25
+26                 (a) An order requiring the removal of accessibility barriers or the
+27           provision of accessible alternatives;
+28                 (b) Injunctive relief to prevent or remedy continuing violations;
+29                 (c) Recovery of actual, moral, nominal, or exemplary damages, where
+30           warranted under existing laws, and reimbursement of reasonable litigation
+31           expenses, including attorney's fees and costs of suit, where authorized by
+32           existing laws or ordered by the court;
+33                 (d) Such other relief as may be just and equitable under the
+34           circumstances.
+35
+36           SEC. 19. Administrative Penalties. – After due notice and hearing, a covered
+37   entity that fails to comply with this Act, its implementing rules and regulations, or a final
+38   compliance order shall be subject to the following administrative penalties:
+39
+40                (a) First violation – A written warning and an order directing full
+41          compliance within a specified period, which shall not exceed six (6) months from
+42          the date of issuance, subject to the technical complexity, operational impact,
+43          and public significance of the non-compliant digital asset as determined by the
+44          implementing agency;
+
+                                                  13
+ 1
+ 2                (b) Second violation – An administrative fine of not less than Fifty
+ 3          Thousand Pesos (₱50,000.00) but not more than five hundred Thousand Pesos
+ 4          (₱500,000.00);
+ 5
+ 6                  (c) Third and subsequent violations – An administrative fine of not less
+ 7          than five hundred Thousand Pesos (₱500,000.00) but not more than One
+ 8          Million Pesos (₱1,000,000.00), without prejudice to the suspension, revocation,
+ 9          or cancellation of any government-issued license, permit, accreditation,
+10          registration, franchise, or authority to operate, where authorized under
+11          applicable laws.
+12
+13           Where the violation is committed by a juridical entity, the appropriate regulatory
+14   agency may likewise recommend or impose the temporary suspension of its digital
+15   operations, the blocking or deactivation of its websites or electronic platforms within
+16   the Philippine jurisdiction, or the removal of its mobile applications from accessible
+17   digital marketplaces, in accordance with applicable laws, where continued operation
+18   would result in repeated or willful violations of this Act; Provided, That physical closure
+19   or suspension of the establishment may be enforced as a fallback measure for
+20   domestic entities.
+21
+22         The DICT, in coordination with the NCDA, the DTI, the Securities and Exchange
+23   Commission (SEC), the Department of the Interior and Local Government (DILG), and
+24   other relevant regulatory agencies, shall develop a uniform penalty assessment
+25   framework and matrix for determining the appropriate administrative penalty. Such
+26   framework shall consider, among others:
+27
+28             (a) The nature and gravity of the violation;
+29             (b) The number of persons affected;
+30             (c) The duration and frequency of the violation;
+31             (d) The degree of accessibility denied;
+32             (e) The size, annual gross revenue, or financial capacity of the covered
+33                 entity;
+34             (f) Whether the violation involves an essential public service;
+35             (g) Previous violations and history of compliance; and
+36             (h) The good faith efforts undertaken by the covered entity to prevent or
+37                 remedy the violation.
+38
+39           The administrative penalties provided under this Act shall be without prejudice
+40   to the institution of civil or criminal actions under applicable laws.
+41
+42          SEC. 20. Criminal Liability. – Any person who willfully and knowingly:
+43
+
+
+                                                 14
+ 1                      (a) Refuses to comply with a final compliance order issued under this
+ 2              Act;
+ 3                    (b) Falsifies, conceals, or misrepresents material information relating
+ 4              to compliance with this Act; or
+ 5
+ 6                     (c) Obstructs or interferes with any lawful inspection, investigation,
+ 7              or enforcement proceeding conducted pursuant to this Act, shall, upon
+ 8              conviction, be punished by a fine of not less than One Hundred Thousand
+ 9              Pesos (₱100,000.00) but not more than One Million Pesos
+10              (₱1,000,000.00), or imprisonment of six (6) months to two (2) years, or both,
+11              at the discretion of the court.
+12
+13          Where the violator is an alien or a foreigner, they shall be deported immediately
+14   after service of sentence without further deportation proceedings. Where the offender
+15   is a corporation, partnership, association, or other juridical entity, the responsible
+16   directors, officers, or employees who authorized, directed, or knowingly participated in
+17   the commission of the offense shall be held criminally liable, without prejudice to the
+18   administrative liability of the juridical entity.
+19
+20           SEC. 21. Appropriations. – The amount necessary to carry out the provisions
+21   of this Act shall be included in the annual General Appropriations Act (GAA) of the
+22   year following its enactment into law and thereafter.
+23
+24          SEC. 22. Implementing Rules and Regulations. – Within one hundred eighty
+25   (180) days from the effectivity of this Act, the DICT, as the lead agency, in coordination
+26   with the NCDA, and in consultation with the DTI, SEC, Bangko Sentral ng Pilipinas
+27   (BSP), organizations of persons with disabilities, advocacy groups, and technical
+28   experts, shall promulgate and publish the rules and regulations necessary to
+29   implement the provisions of this Act.
+30
+31          SEC. 23. Separability Clause. – If any section or provision of this Act is declared
+32   invalid or unconstitutional, the sections or provisions not affected thereby shall
+33   continue to be in full force and effect.
+34
+35         SEC. 24. Repealing Clause. – All laws, presidential decrees, executive and
+36   administrative orders, letters of instruction, rules and regulations, or parts thereof
+37   inconsistent with the provisions of this Act are hereby repealed, modified, or amended
+38   accordingly.
+39
+40          SEC. 25. Effectivity. – This Act shall take effect fifteen (15) days following its
+41   publication in the Official Gazette or in two (2) newspapers of general circulation in the
+42   Philippines.
+
+            Approved,
+
+                                                15
+
