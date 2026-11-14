@@ -169,11 +169,34 @@
    "catch_up_added": 134,
    "catch_up_remaining": 5684,
    "pilot_scope": 0
+  },
+  {
+   "time": "2026-11-14T22:45:13+00:00",
+   "checked": {
+    "HB": [
+     11535,
+     11726
+    ]
+   },
+   "errors": {
+    "SB": "source unavailable (HTTPError: HTTP Error 403: Forbidden): check failed, NOT the same as 'no new bills'"
+   },
+   "found": 0,
+   "catch_up_added": 143,
+   "catch_up_remaining": 5534,
+   "pilot_scope": 0
   }
  ],
  "backfill": {
-  "next": 10435,
+  "next": 10285,
   "absent": [
+   10298,
+   10312,
+   10365,
+   10432,
+   10433,
+   10434,
+   10435,
    10436,
    10437,
    10438,

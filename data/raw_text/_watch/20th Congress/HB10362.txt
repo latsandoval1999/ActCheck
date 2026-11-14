@@ -1,0 +1,863 @@
+                     Republic of the Philippines
+                   HOUSE OF REPRESENTATIVES
+                     Batasan Hills, Quezon City                   July 29, 2026
+                        Twentieth Congress                          1:56 pm
+                      Second Regular Session
+                           House Bill No. 10362
+                                          ____
+
+         Introduced by Honorable Representatives
+ JOSE MANUEL TADEO “CHEL” I. DIOKNO (Akbayan Partylist)
+        PERCIVAL V. CENDAÑA (Akbayan Partylist)
+        DADAH KIRAM ISMULA (Akbayan Partylist)
+              KAKA BAG-AO (Dinagat Islands)
+
+                       AN ACT
+ PROVIDING FOR A NATIONAL FRAMEWORK FOR ARTIFICIAL
+INTELLIGENCE GOVERNANCE, ESTABLISHING AN ARTIFICIAL
+ INTELLIGENCE BILL OF RIGHTS, CREATING AN ARTIFICIAL
+ INTELLIGENCE MULTI-STAKEHOLDER ADVISORY COUNCIL,
+    PROMOTING LITERACY, INSTITUTIONAL READINESS,
+  RESPONSIBLE INNOVATION, AND WORKER PROTECTION,
+   PRESCRIBING PENALTIES FOR VIOLATIONS THEREOF,
+   APPROPRIATING FUNDS THEREFOR, AND FOR OTHER
+                      PURPOSES
+
+
+                        EXPLANATORY NOTE
+
+     Artificial Intelligence (AI) is no longer a future technology. It is
+already reshaping economies, labor markets, education systems, public
+governance, media, finance, healthcare, communications, and everyday life
+at an unprecedented speed. In the Philippines, AI systems are now widely
+used in schools, offices, call centers, banks, hospitals, online platforms,
+content creation, transportation, customer service, and government
+operations.
+
+     The rapid expansion of AI in the country is already measurable. The
+Philippine AI Report 2025 found that more than ninety-two percent (92%)
+of surveyed Philippine organizations have adopted AI in some capacity,
+
+
+                                     i
+while more than half (54%) have already used generative AI tools for over a
+year. Executive-level AI adoption and deployment continue to accelerate
+across industries. Meanwhile, studies indicate that Filipinos are among the
+most active users of generative AI tools globally.1
+
+       The Philippine AI market itself is projected to expand rapidly in the
+coming years. Industry studies estimate that the Philippine generative AI
+market may grow from approximately USD 292 million in 2025 to more than
+USD 1.2 billion by 2034, driven by the country’s highly digital population,
+expanding internet access, and increasing demand for automation in
+business process outsourcing, finance, education, and creative industries. 2
+
+       Despite the speed and scale of AI adoption, the Philippines still has
+no comprehensive national law governing the responsible development,
+deployment, accountability, oversight, and regulation of AI systems.
+Existing laws such as the Data Privacy Act of 2012, the Cybercrime
+Prevention Act of 2012, and the Philippine Innovation Act address only
+certain aspects of AI-related concerns. At present, there is no unified
+national framework that establishes safeguards against harmful AI
+systems, protects workers from AI-driven displacement, guarantees
+transparency in automated decision-making, promotes AI literacy,
+establishes accountability standards, or creates institutional mechanisms
+for AI governance. This legal and regulatory gap leaves the public
+vulnerable to the risks of unregulated AI deployment.
+
+       AI technologies create enormous opportunities for economic growth,
+innovation, scientific advancement, improved public services, and increased
+
+
+
+
+1 Tim Santos & Pia Besmonte Ligot-Gordon, The Philippine AI Report 2025 2 (2025),
+
+https://philippineaireport.com/
+2 IMARC Group, Philippines Generative AI Market 2026 Worth USD 1,242.67 Million by 2034,
+
+OPENPR (May 20, 2025), https://www.imarcgroup.com/philippines-generative-ai-market
+
+                                              ii
+productivity. Global studies estimate that AI adoption could increase global
+economic output by as much as fifteen percent (15%) over the next decade.3
+
+       However, the same technologies also create serious and urgent risks
+that directly affect democratic institutions, labor rights, public trust, human
+rights, and national development.AI systems are now capable of generating
+highly realistic deepfakes, synthetic media, fabricated audio and video,
+deceptive impersonations, and large-scale automated disinformation. These
+technologies can be weaponized to manipulate public opinion, undermine
+elections, spread fraud, damage reputations, and erode trust in democratic
+institutions and public information.
+
+       AI systems may also produce discriminatory or biased outcomes in
+hiring, lending, education, healthcare, policing, insurance, and access to
+gove1rnment        services.     Automated           systems    often    operate      without
+transparency, making it difficult for individuals to understand, question, or
+challenge decisions that significantly affect their lives.
+
+       At the same time, AI-driven automation is expected to significantly
+disrupt labor markets worldwide. The International Monetary Fund (IMF)
+estimates that approximately forty percent (40%) of jobs globally may be
+affected by AI technologies. In advanced economies, the figure may reach
+sixty percent (60%).4 Experts have warned that AI may disproportionately
+affect younger workers, entry-level employment, and vulnerable sectors of
+
+
+
+
+3 PricewaterhouseCoopers, AI Adoption Could Boost Global GDP by an Additional 15 Percentage
+
+Points by 2035, (Apr. 29, 2025), https://www.pwc.com/gx/en/news-room/press-releases/2025/ai-
+adoption-could-boost-global-gdp-by-an-additional-15-percentage.html
+4 Kristalina Georgieva, AI Will Transform the Global Economy. Let’s Make Sure It Benefits
+
+Humanity, international Monetary Fund (Jan. 14, 2024),
+https://www.imf.org/en/blogs/articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-
+sure-it-benefits-humanity
+
+                                               iii
+the workforce if governments fail to establish proactive labor transition
+policies and worker protections.5
+
+       These risks are especially significant for the Philippines because of
+the country’s large service sector, including business process outsourcing
+(BPO), clerical work, administrative support services, online content work,
+and other industries that may undergo major transformation due to
+automation and generative AI technologies.6
+
+       Without clear national policies, the Philippines risks being
+technologically unprepared, economically vulnerable, and institutionally
+incapable of addressing the profound social and economic consequences of
+AI-driven transformation.
+
+       The absence of governance standards also creates uncertainty for
+businesses, educational institutions, innovators, workers, investors, and
+government agencies seeking responsible pathways for AI adoption.
+Without clear safeguards and accountability mechanisms, public trust in AI
+technologies may weaken, while irresponsible or harmful AI deployment
+may proliferate unchecked.
+
+       The Constitution recognizes the vital role of science and technology in
+nation-building and directs the State to prioritize research, development,
+and innovation for national progress. This constitutional mandate also
+requires the State to ensure that technological development is ethical,
+inclusive, human-centered, rights-based, and consistent with democratic
+values.
+
+
+
+5 Reuters, Artificial Intelligence Hitting Labor Forces Like a “Tsunami” – IMF Chief, (May 13,
+
+2024), https://www.reuters.com/technology/artificial-intelligence-hitting-labour-forces-like-
+tsunami-imf-chief-2024-05-13/
+6 International Labor Organization, Generative AI and Jobs in the Philippines: Labor Market
+
+Exposure and Policy Implications (2026), https://www.ilo.org/publications/generative-ai-and-jobs-
+philippines-labour-market-exposure-and-policy
+
+                                                iv
+      Hence, this bill which seeks to: (1) establish the country’s first
+comprehensive and future-oriented national framework for AI governance;
+(2) promote AI literacy, institutional readiness, responsible innovation,
+transparency, accountability, worker protection, ecosystem development,
+and democratic safeguards; (3) establish rights relating to high-impact AI
+systems; (4) protect workers and communities affected by AI-driven
+technological transition; (5) ensure sustainable AI infrastructure through
+environmental and social safeguards; (6) strengthen public education and
+media literacy against AI-generated disinformation; (7) support local
+research and innovation; (8) encourage the development of Philippine AI
+capabilities; and (9) institutionalize multi-stakeholder participation in AI
+governance.
+
+      Innovation and regulation are not incompatible. Responsible
+governance is necessary to ensure that AI technologies develop in a manner
+that strengthens democracy, public trust, labor rights, human dignity, and
+inclusive national development.
+
+
+
+
+              JOSE MANUEL TADEO “CHEL” I. DIOKNO
+                     Akbayan Representative
+
+
+
+
+   PERCIVAL V. CENDAÑA                   DADAH KIRAM ISMULA
+   Akbayan Representative                Akbayan Representative
+
+
+
+
+                           KAKA BAG-AO
+                   Dinagat Islands Representative
+
+
+                                     v
+                         Republic of the Philippines
+                       HOUSE OF REPRESENTATIVES
+                         Batasan Hills, Quezon City
+                            Twentieth Congress
+                          Second Regular Session
+                                              10362
+                               House Bill No. ____
+
+              Introduced by Honorable Representatives
+      JOSE MANUEL TADEO “CHEL” I. DIOKNO (Akbayan Partylist)
+             PERCIVAL V. CENDAÑA (Akbayan Partylist)
+             DADAH KIRAM ISMULA (Akbayan Partylist)
+                   KAKA BAG-AO (Dinagat Islands)
+
+                            AN ACT
+      PROVIDING FOR A NATIONAL FRAMEWORK FOR ARTIFICIAL
+     INTELLIGENCE GOVERNANCE, ESTABLISHING AN ARTIFICIAL
+      INTELLIGENCE BILL OF RIGHTS, CREATING AN ARTIFICIAL
+      INTELLIGENCE MULTI-STAKEHOLDER ADVISORY COUNCIL,
+         PROMOTING LITERACY, INSTITUTIONAL READINESS,
+       RESPONSIBLE INNOVATION, AND WORKER PROTECTION,
+        PRESCRIBING PENALTIES FOR VIOLATIONS THEREOF,
+        APPROPRIATING FUNDS THEREFOR, AND FOR OTHER
+                           PURPOSES
+
+     Be it enacted by the Senate and the House of Representatives of the
+     Philippines in Congress assembled:
+
+
+1                                  CHAPTER I
+
+2                           GENERAL PROVISIONS
+
+3    Section 1. Short Title. This Act shall be known as the “National AI
+4    Governance Act.”
+
+5    Section 2. Declaration of Policy. The State recognizes the vital role of
+6    science, technology, research, innovation, and digital transformation in
+7    nation-building and inclusive national development. In addition, the State
+8    adopts the following policies:
+
+9      a. Artificial Intelligence (AI) must be developed and used in a
+10        responsible, ethical, inclusive, and human-centered manner.
+
+                                         1
+1      b. AI must capacitate and not unjustly replace the Filipino workforce.
+
+2      c. Workers and communities must be protected from unjust
+3         displacement arising from technological change driven by AI, and a
+4         just and inclusive transition toward an AI-ready economy must be
+5         ensured.
+
+6      d. Democratic processes and the integrity of public information must be
+7         protected from harmful AI-generated disinformation, synthetic media
+8         manipulation, and other forms of digitally enabled deception.
+
+9      e. The establishment of AI infrastructure, including data centers, must
+10        be environmentally sustainable and socially responsible.
+
+11     f. The State must promote an AI Framework that does not hinder
+12        innovation, research, freedom of expression, academic inquiry, or
+13        responsible technological development.
+
+14   Section 3. Definition of Terms. – As used in this Act:
+
+15     a. “Advisory Council” refers to the Multi-Stakeholder Advisory Council
+16        created under this Act.
+
+17     b. “Artificial Intelligence” or “AI” refers to machine-based systems
+18        capable of generating outputs such as predictions, recommendations,
+19        decisions, or content that influence physical or virtual environments
+20        through learning, reasoning, inference, pattern recognition,
+21        adaptation, or similar computational processes commonly associated
+22        with human intelligence.
+
+23     c. “Artificial Intelligence System” or “AI System” refers to a machine-
+24        based system that, for explicit or implicit objectives, infers, from the
+25        input it receives, how to generate outputs such as predictions,
+26        recommendations, decisions, or content that may influence physical
+27        or virtual environments, and which may operate with varying levels
+28        of autonomy and adaptiveness.
+
+29     d. “AI Governance” refers to the laws, policies, standards, safeguards,
+30        institutions, and practices of the government and private entities that
+31        guide the development, deployment, use, oversight, and
+32        accountability of AI systems.
+
+
+                                          2
+1    e. “AI Infrastructure” refers to the physical and digital systems that
+2       support the development, training, deployment, operation, storage,
+3       maintenance, or use of AI systems, including computing systems,
+4       cloud services, networks, data systems, and related facilities.
+
+5    f. “AI Impact Assessment” refers to a structured evaluation conducted
+6       before or during the deployment of AI systems to identify, analyze,
+7       and mitigate potential risks to individuals, communities, democratic
+8       institutions, labor, and the environment.
+
+9    g. “AI Literacy” refers to the knowledge, skills, and critical
+10      understanding necessary to safely, responsibly, and effectively
+11      evaluate, use, and interact with AI systems.
+
+12   h. “Algorithmic Impact Assessment” refers to an evaluation of the
+13      societal effects and risks of automated decision-making systems,
+14      particularly those used in public services.
+
+15   i. “Automated Decision-Making” refers to any process by which an AI
+16      system makes or substantially influences decisions affecting
+17      individuals or groups without or with little meaningful human
+18      involvement.
+
+19   j. “Data Center” refers to a facility or physical infrastructure used to
+20      house computer systems, servers, storage systems, networking
+21      equipment, and related technologies for the processing, storage,
+22      management, or transmission of digital data, including data used for
+23      AI systems.
+
+24   k. “High-Impact AI System” refers to an AI system that, by reason of its
+25      purpose, scale, or manner of deployment, may significantly affect the
+26      rights, safety, livelihood, opportunities, access to essential services, or
+27      wellbeing of individuals or communities.
+
+28   l. “Just Transition” refers to a a set of principles ensuring that the shift
+29      to AI-driven economies protects workers, shares economic benefits
+30      fairly, and respects environmental limits. It guarantees that no
+31      person, group, or community is left behind or harmed by rapid
+32      automation and technological changes.
+
+
+
+                                         3
+1       m. “Regulatory Sandbox” refers to a regulatory approach, typically
+2          summarized in writing and published, that allows live, time-bound
+3          testing of innovation under a regulator’s oversight.
+
+4       n. “Synthetic Media” refers to text, audio, image, video, or other media
+5          wholly or substantially generated or manipulated through AI
+6          systems.
+7
+8    Section 4. Scope and Application. This Act applies to all natural and
+9    juridical persons, whether public or private, that develop, deploy, operate,
+10   provide, or use AI systems within the Philippines, or whose AI systems
+11   affect persons, institutions, or communities within the Philippines. Nothing
+12   in this Act will diminish the powers and functions of existing regulatory
+13   agencies under their respective charters and mandates.
+14
+
+
+15                                  CHAPTER II
+
+16             ARTIFICIAL INTELLIGENCE BILL OF RIGHTS
+
+17   Section 5. Rights Relating to Artificial Intelligence Systems. Every
+18   person affected by AI systems or automated decision-making has the
+19   following rights:
+
+20      a. Right to Transparency. Every person has the right to know when a
+21         high-impact AI system or automated decision-making is being used
+22         on or about them, including the nature and purpose of such system
+23         and what it is used for, which must be communicated in plain and
+24         clear language.
+
+25      b. Right to Information. Every person has the right to receive complete
+26         information regarding the basis of automated decision-making,
+27         including the principal factors and considerations that materially
+28         influenced the decision, subject to reasonable protection of trade
+29         secrets and proprietary information.
+
+30      c. Right Against Discriminatory Automated Decisions. Every person has
+31         the right to equal treatment regardless of race, ethnicity, religion, sex
+32         characteristics, gender identity or expression, sexual orientation,
+33         ability, age, socioeconomic status, or any other protected
+34         characteristic under existing laws, in all automated decision-making.
+
+                                           4
+1      d. Right to Human Review. Every person has the right to request
+2         meaningful human review of automated decision-making, which must
+3         be conducted by a person with sufficient authority and competence to
+4         change, reverse, or confirm the decision.
+
+5      e. Right to Privacy and Data Protection. Every person has the right to
+6         protection of personal information, including sensitive personal
+7         information, consistent with the Data Privacy Act of 2012 and any
+8         applicable AI-specific data governance rules issued by the
+9         Department of Information and Communications Technology (DICT)
+10        and the National Privacy Commission (NPC).
+
+11     f. Right to be Forgotten. Every person has the right to demand the
+12        permanent deletion of their personal data from all training datasets,
+13        storage repositories, and operational parameters of an artificial
+14        intelligence system, requiring the data controller to completely erase
+15        the data or provably eliminate its influence through machine
+16        unlearning or model retraining, unless retention is strictly required
+17        by law.
+18
+19     g. Right to Safety. Every person has the right to protection from AI
+20        systems that pose unreasonable or foreseeable risks to a person’s life,
+21        health, or wellbeing.
+
+22     h. Right to Disclosure of Synthetic Media. Every person has the right to
+23        know when they are exposed to synthetic media. Any synthetic media
+24        that materially or deceptively alters or realistically depicts the image
+25        or likeness of a person or any statement, event, or circumstance in a
+26        manner likely to mislead the public must contain a clear and
+27        conspicuous disclosure that it is AI-generated or AI-manipulated.
+
+28                                CHAPTER III
+
+29   ARTIFICIAL INTELLIGENCE MULTI-STAKEHOLDER ADVISORY
+30                         COUNCIL
+
+31   Section 6. Lead Agency. The DICT will serve as the lead implementing
+32   and coordinating agency for the implementation of this Act. In
+33   implementing this Act, the DICT must coordinate with the Artificial
+34   Intelligence Multi-Stakeholder Advisory Council.
+
+
+
+                                          5
+1    Section 7. Powers and Functions of the DICT. The DICT, in
+2    coordination with the Artificial Intelligence Multi-Stakeholder Advisory
+3    Council, must exercise the following powers and functions:
+
+4      a. To formulate and periodically update the National AI Strategy;
+
+5      b. To develop, in coordination with the relevant government agencies,
+6         the national standards, guidelines, and safeguards on AI systems;
+
+7      c. To coordinate with relevant agencies regarding possible violations of
+8         existing laws involving AI systems;
+
+9      d. To promote AI literacy, institutional readiness, and public awareness;
+
+10     e. To support AI research, innovation, and local ecosystem development;
+
+11     f. To establish regulatory sandbox programs for emerging AI
+12        technologies;
+
+13     g. To develop standards for and, where authorized under this Act or
+14        other laws, conduct or require AI impact assessments and algorithmic
+15        impact assessments for high-impact AI systems;
+
+16     h. To coordinate with international organizations and foreign
+17        counterparts to promote cooperation on AI governance, including the
+18        exchange of best practices, technical expertise, standards, and
+19        capacity-building initiatives;
+
+20     i. To submit annual reports to Congress and the President on the state
+21        of AI governance in the Philippines; and
+
+22     j. To perform other functions as may be necessary and consistent with
+23        the purposes of this Act.
+
+24   Section 8. Multi-Stakeholder Advisory Council. An Artificial
+25   Intelligence Multi-Stakeholder Advisory Council is hereby created to advise
+26   and support the implementation of this Act. The Advisory Council includes
+27   representatives from:
+
+28     a. The DICT as ex-officio Chairperson;
+
+29     b. One (1) representative from each of the following agencies:
+
+
+                                          6
+1          i. NPC;
+
+2         ii. Department of Labor and Employment (DOLE)
+
+3         iii. Department of Science and Technology (DOST);
+
+4         iv. Department of Trade and Industry (DTI);
+
+5          v. Department of Education (DepEd);
+
+6         vi. Commission on Higher Education (CHED);
+
+7        vii. Technical Education and Skills Development Authority (TESDA);
+
+8        viii. Department of Economy, Planning, and Development (DEPDev);
+
+9         ix. Department of the Interior and Local Government (DILG);
+
+10         x. Department of Energy (DOE); and
+
+11        xi. Board of Investments (BOI);
+
+12        Permanent and alternate authorized representatives to the Advisory
+13        Council must be designated by the agencies. The representative must
+14        have the rank of at least an Undersecretary.
+
+15     c. One (1) representative from each of the following sectors:
+
+16         i. The academe and research institutions;
+
+17         ii. Labor organizations and workers’ associations;
+
+18        iii. Consumer and digital rights organizations;
+
+19        iv. Media organizations;
+
+20         v. Youth and student organizations; and
+
+21        vi. The private sector, particularly the technology industry.
+
+22   The Advisory Council may include other government agencies as members
+23   of the Advisory Council upon approval of at least two-thirds (2/3) majority
+24   of all the members thereof.
+
+
+
+                                         7
+1    Section 9. Purpose and Functions of the Advisory Council. The
+2    Advisory Council serves as a multi-stakeholder body that provides technical
+3    and ethical advice to DICT in the exercise of its powers and functions under
+4    this Act. The Advisory Council shall:
+
+5       a. Advise the DICT on the implementation of this Act and the
+6          development of national AI governance policies;
+
+7       b. Participate in all policy consultations and rulemaking processes
+8          related to AI;
+
+9       c. Assist in the analysis and identification of emerging risks and
+10         opportunities related to AI; and
+
+11      d. Recommend the development or adoption of policies, including
+12         updates to the National AI Strategy.
+
+13   Section 10. The Secretariat. The DICT shall establish a Secretariat to
+14   provide technical, administrative, and research support to the Advisory
+15   Council, including the coordination of meetings, monitoring of compliance
+16   with this Act, maintenance of records and reports, stakeholder engagement,
+17   and such other functions as may be necessary to carry out the objectives of
+18   this Act. The Secretariat shall be composed of personnel with relevant
+19   expertise in technology, governance, law, labor, public policy, economics,
+20   education, and related fields.
+
+21                                   CHAPTER IV
+
+22          NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY
+
+23   Section 11. National Artificial Intelligence Strategy. Within one (1)
+24   year from the effectivity of this Act, the DICT must formulate a National AI
+25   Strategy covering:
+
+26      a. Infrastructure and connectivity;
+
+27      b. Literacy and education;
+
+28      c. Research and development;
+
+29      d. Just transition and labor protection;
+
+30      e. Local ecosystem development;
+
+                                          8
+1      f. Digital resilience, strategic technological capability, and secure data
+2         governance;
+
+3      g. Environmental sustainability;
+
+4      h. Public sector adoption; and
+
+5      i. Ethical and rights-based governance.
+
+6    The National AI Strategy must be updated every three (3) years.
+
+7    Section 12. National Artificial Intelligence Research Centers. The
+8    DICT, in coordination with the DOST and CHED, may establish National
+9    AI Research Centers in state universities and colleges. These centers may
+10   conduct foundational and applied research relating to AI safety,
+11   transparency, fairness, labor impact, environmental impact, Philippine
+12   language models and datasets, and related areas.
+
+13   Section 13. Regulatory Sandbox. The DICT must establish a regulatory
+14   sandbox program for the controlled testing of emerging AI systems with
+15   limited and clearly defined regulatory flexibility consistent with existing
+16   laws for a defined period. Participation in the regulatory sandbox does not
+17   exempt any person from liability for harm caused during testing. The DICT
+18   must publish the findings and lessons from sandbox programs to guide
+19   future policy development.
+
+20   Section 14. National Artificial Intelligence Literacy Program. The
+21   DICT, in coordination with the DepEd, CHED, TESDA, and the Presidential
+22   Communications Office (PCO), must establish a National AI Literacy
+23   Program. The program must:
+
+24     a. Integrate age-appropriate AI literacy into the education system;
+
+25     b. Promote media and information literacy, critical digital awareness,
+26        and responsible engagement with AI-generated content and
+27        disinformation;
+
+28     c. Provide public AI literacy programs for adults and senior citizens;
+
+29     d. Develop AI literacy modules in Filipino and major regional languages;
+
+30     e. Include nationwide public information campaigns; and
+
+
+                                          9
+1       f. Be conducted in partnership with local government units, civil society
+2          organizations, schools, and community organizations; and
+
+3       g. Be accessible to marginalized, vulnerable, and geographically isolated
+4          communities.
+
+5    Section 15. Artificial Intelligence Adoption and Ecosystem
+6    Development. The DICT, in coordination with the DTI, DOST, and BOI,
+7    must develop programs that:
+
+8       a. Provide opportunities for AI adoption among micro, small, and
+9          medium enterprises (MSMEs);
+
+10      b. Support local AI startups and innovators;
+
+11      c. Encourage the development of Philippine AI technologies and
+12         datasets;
+
+13      d. Strengthen local employment, training, and entrepreneurship
+14         opportunities for AI-skilled workers;
+
+15      e. Identify sectors where AI adoption may improve public welfare and
+16         productivity; and
+
+17      f. Strengthen domestic AI capability and promote strategic
+18         technological resilience while maintaining openness to international
+19         collaboration and innovation.
+
+20   Section 16. Institutional Artificial Intelligence Governance Policies.
+21   Government agencies, educational institutions, and private entities
+22   deploying or utilizing high-impact AI systems must adopt internal AI
+23   governance policies consistent with this Act. The Advisory Council will issue
+24   model guidelines on ethical, safe, and accountable use of AI. An employer
+25   may not impose disciplinary action on the basis of errors caused by
+26   employer-mandated AI tools where adequate training, supervision, or
+27   reasonable safeguards were not provided.
+
+28   Section 17. Just Transition Framework. The State must support
+29   workers and communities affected by AI-driven technological change
+30   through a just transition framework. The DOLE, in coordination with the
+31   DICT, TESDA, and relevant stakeholders, must develop programs for:
+
+
+                                          10
+1      a. Reskilling and upskilling of workers in sectors affected by AI-driven
+2         automation;
+
+3      b. Workforce redeployment and labor market transition support;
+
+4      c. Social protection for displaced workers;
+
+5      d. Meaningful worker participation in decisions involving the adoption
+6         of AI; and
+
+7      e. Identification and monitoring of sectors vulnerable to AI-related
+8         displacement.
+
+9    Section 18. Employer Obligations During Artificial Intelligence
+10   Transition. An employer introducing a high-impact AI system that is
+11   reasonably expected to substantially alter, reduce, or replace the core
+12   functions of existing employees must:
+
+13     a. Give affected employees and their representatives at least six (6)
+14        months’ advance notice before deployment. The notice must include;
+
+15           i.   the purpose and scope of the AI system;
+
+16          ii.   the business processes or job functions affected;
+
+17         iii.   the anticipated impact on work assignments, performance
+18                evaluation, scheduling, hiring, promotion, discipline,
+19                compensation, or termination, where applicable;
+
+20         iv.    the categories of employee data to be processed;
+
+21          v.    available reskilling, redeployment, or transition assistance; and
+
+22         vi.    the mechanisms through which employees may raise questions
+23                or seek clarification regarding the deployment;
+
+24     b. Consult with employees and registered labor unions before
+25        deployment; and
+
+26     c. Offer reasonable reskilling and upskilling opportunities at no cost to
+27        affected employees before resorting to termination.
+
+
+
+
+                                           11
+1    A worker who is terminated as a result of AI-driven automation is entitled
+2    to separation benefits in accordance with law and other appropriate
+3    transition support, as determined by DOLE in its just transition framework.
+
+4    DOLE must track AI-related labor displacement across industries and
+5    report findings to Congress every year.
+
+6                                  CHAPTER V
+
+7              ENVIRONMENTAL AND SOCIAL SAFEGUARDS
+
+8    Section 19. Sustainable Artificial Intelligence Infrastructure.
+9    Operators of data centers and AI infrastructure must comply with
+10   applicable environmental laws, sustainability standards, and consultation
+11   requirements. Each data center operator must:
+
+12
+
+
+13     a. Comply with the applicable Environmental Impact Assessment and
+14        Environmental Compliance Certificate requirements under the
+15        Philippine Environmental Impact Statement system, where
+16        applicable;
+
+17     b. Conduct meaningful and timely consultations, consistent with
+18        existing laws and local government processes, with communities that
+19        may be displaced or whose resources may be significantly affected by
+20        the establishment or operation of the data center or AI infrastructure;
+
+21     c. Publicly disclose material information on annual energy and water
+22        consumption, sustainability measures, and plans for transitioning to
+23        renewable or energy-efficient systems, subject to reasonable
+24        confidentiality protections; and
+
+25     d. Comply with environmental and sustainability standards for AI
+26        infrastructure developed by the DICT in coordination with the
+27        Department of Environment and Natural Resources (DENR) and the
+28        Department of Energy (DOE).
+
+29   The DICT must coordinate with relevant agencies to study and monitor the
+30   environmental and social impact of AI infrastructure, including energy
+31   consumption, water use, and community displacement.
+
+
+                                         12
+1                                   CHAPTER VI
+
+2             MONITORING AND ENFOREMENT MECHANISMS
+
+3    Section 20. Prohibited Practices. An employer must not impose
+4    performance standards that are unreasonable, opaque, or based solely on
+5    AI-generated outputs without meaningful human evaluation. An employer
+6    must not impose disciplinary action on the basis of errors caused by an
+7    employer-mandated AI system where adequate training, supervision, or
+8    safeguards were not provided. Finally, an employer may not use an AI
+9    system to evade obligations under labor laws, including obligations relating
+10   to security of tenure, minimum wage, employee benefits, and the right to
+11   self-organization.
+
+12   The use of AI systems for the following purposes is prohibited:
+
+13      a. Identity theft;
+
+14      b. Fraud and deceptive impersonation;
+
+15      c. Exploitation or abuse of children;
+
+16      d. Unlawful surveillance;
+
+17      e. The creation or dissemination of deceptive synthetic media intended
+18         to facilitate fraud, cause public harm, unlawfully manipulate the
+19         image or likeness of a person, or infringe upon the rights of others;
+20         and
+
+21      f. Other unlawful uses.
+
+22   Section 21. Penalties. – Any person who willfully or knowingly does or
+23   who shall aid, permit, or cause to be done any of the prohibited acts will
+24   suffer the following penalties:
+
+25      a. Imprisonment of not less than six months or more than six years;
+
+26      b. Accessory penalty of temporary or perpetual absolute disqualification
+27         from public office if the offender is a public official at the time of the
+28         commission of the offense; and
+
+29      c. Deportation if the offender is an alien.
+
+
+                                           13
+1    Section 22. Civil Liability and Access to Remedies. Any person who
+2    suffers injury or damage arising from the negligent, reckless,
+3    discriminatory, deceptive, or unlawful use of an AI system may institute the
+4    appropriate civil action under the Civil Code and existing laws. The action
+5    shall be brought against the person or entity that deployed, operated, or
+6    used the AI system. In addition, it may also be brought against the person
+7    or entity that developed or provided the AI system if:
+
+8       a. The AI system was designed, trained, marketed, or offered principally
+9          for a use prohibited under Section 20 of this Act or under other penal
+10         laws;
+
+11      b. The developer or provider had actual knowledge of a specific unlawful
+12         use of its AI system and failed, within a reasonable period, to take
+13         reasonable and proportionate measures to prevent its continuation or
+14         recurrence;
+
+15      c. The developer or provider failed to create or implement safeguards in
+16         the AI system that would be proportionate to the gravity and
+17         likelihood of injury and damage; or
+
+18      d. The injury or damage is traceable to a defect in the AI system, or a
+19         capability of the AI system or to the failure of the AI developer or
+20         provider to comply with the provisions of this Act or the standards
+21         issued by the DICT.
+
+22   Where a complainant for any case establishes reasonable grounds to believe
+23   that a high-impact AI system materially contributed to an adverse decision
+24   affecting them, the court or administrative agency may require the
+25   respondent to disclose relevant records, documentation, audit logs, or other
+26   information necessary to determine compliance with this Act. Nothing in
+27   this Act shall prevent a competent court or government agency from
+28   ordering an independent technical audit or expert examination to determine
+29   whether an AI system contributed to the alleged injury or damage.
+
+30   Any person found liable under this Section shall be subject to the
+31   appropriate remedies under existing laws, including actual, moral, nominal,
+32   temperate, or exemplary damages, injunctive relief, and other appropriate
+33   relief.
+
+
+
+                                          14
+1    Section 23. Violation of Juridical Entities. – If the violation is
+2    committed by a corporation, partnership, association, or other juridical
+3    entity, the responsible directors or officers thereof shall be held criminally
+4    or solidarily liable, in addition to possible sanctions from relevant
+5    government agencies.
+
+6                                  CHAPTER VII
+
+7                              FINAL PROVISIONS
+
+8    Section 24. Appropriations. The amount necessary for the initial
+9    implementation of this Act is charged against the current appropriations of
+10   the DICT. Thereafter, such amounts as may be necessary for the continued
+11   implementation of this Act must be included in the annual General
+12   Appropriations Act.
+
+13   Section 25. Implementing Rules and Regulations. Within one hundred
+14   eighty (180) days from the effectivity of this Act, the DICT, in coordination
+15   with relevant government agencies and stakeholders, will issue the rules
+16   and regulations necessary for the effective implementation of this Act.
+17   Failure to issue the said rules and regulations will not prevent the
+18   effectivity of this Act.
+
+19   Section 26. Separability Clause. If any part or provision of this Act is
+20   declared unconstitutional or invalid, the remaining provisions remain in full
+21   force and effect.
+
+22   Section 27. Repealing Clause. All laws, executive orders, presidential
+23   decrees, rules, and regulations, or parts thereof, inconsistent with this Act
+24   are hereby repealed or modified accordingly.
+
+25   Section 28. Effectivity. This Act takes effect fifteen (15) days after
+26   publication in the Official Gazette or in at least two (2) newspapers of
+27   general circulation, whichever comes earlier.
+
+
+
+
+                                           15
+

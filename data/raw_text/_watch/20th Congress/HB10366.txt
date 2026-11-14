@@ -1,0 +1,613 @@
+                       Republic of the Philippines
+                     HOUSE OF REPRESENTATIVES
+                       Batasan Hills, Quezon City                      July 29, 2026
+                          Twentieth Congress                             2:40 pm
+                        Second Regular Session
+
+                                           10366
+                            House Bill No. ______
+
+
+           Introduced by Honorable Representatives
+   JOSE MANUEL TADEO “CHEL” I. DIOKNO (Akbayan Partylist)
+          PERCIVAL V. CENDAÑA (Akbayan Partylist)
+          DADAH KIRAM ISMULA (Akbayan Partylist)
+                KAKA BAG-AO (Dinagat Islands)
+
+
+                        AN ACT
+  PROTECTING CONSUMERS FROM UNFAIR, DECEPTIVE, AND
+  ABUSIVE ONLINE LENDING PRACTICES, ESTABLISHING THE
+VICTIM COMPENSATION BOARD FOR ONLINE LENDING ABUSES
+ FOR THE PURPOSE, PROVIDING PENALTIES FOR VIOLATIONS
+           THEREOF, AND FOR OTHER PURPOSES
+
+                           EXPLANATORY NOTE
+
+The rapid growth of digital technology has created a new market for money
+lending in the Philippines. Through mobile applications, websites, and digital
+installment platforms, Filipinos gain easy access to emergency funds as
+needed. With just a phone or mobile device and genuine identification, any
+Filipino can loan from recognized online lending platforms. For many Filipinos
+in need, online lending has become an accessible and convenient source of
+funds.
+
+The online lending market is not entirely unregulated. Existing laws already
+provide an important baseline framework for the operation of lending
+businesses and the protection of borrowers. Republic Act No. 3765, or the Truth
+in Lending Act, requires creditors to disclose all charges and costs of the loan,
+including interest rates, charges, and the total amount payable. This
+information is given to enable borrowers to make informed financial decisions.
+Republic Act No. 9474, or the Lending Company Regulation Act of 2007,
+governs the establishment and operation of lending companies and requires
+their registration and supervision by the Securities and Exchange
+Commission. Republic Act No. 11765, or the Financial Products and Services
+Consumer Protection Act, imposes standards of fair dealing, transparency,
+responsible pricing, and consumer protection in the offering of financial
+
+
+                                                                                 i
+products and services. Republic Act No. 10173, or the Data Privacy Act of 2012,
+regulates the collection, processing, storage, use, disclosure, and protection of
+personal information or sensitive personal information, including borrower
+information obtained through digital lending platforms.
+
+However, the digital lending market still remains vulnerable to abuse. Despite
+the existing laws and other regulations, predatory practices continue to persist
+on a disturbing scale.1 These include threats, the use of obscene or abusive
+language, public shaming, the dissemination of personal information,
+fabricated legal notices, and the use of borrowers' contact lists or private data
+to intimidate family members, friends, co-workers, and employers.2 Borrowers
+remain exposed to excessive and unconscionable interest rates, deceptive
+pricing structures, hidden service charges, and loan designs that trap them in
+cycles of rollover and over-indebtedness.
+
+The continued proliferation of unregistered online lending applications further
+aggravates the problem. According to the Cybercrime Investigation and
+Coordinating Center, from January to February 2026 alone, more than ₱8
+million has already been lost from the pockets of citizens due to abusive and
+fraudulent online lending applications.3
+
+In light of these troubling circumstances, the law must evolve to address the
+realities of modern credit delivery. It is no longer sufficient to regulate
+electronic transactions and to require only formal disclosures. The State must
+also ensure that digital loan or lending products are fair in structure,
+transparent in cost, proportionate in their collection and use of personal
+information, and humane in enforcement.
+
+Further, individuals most affected by abusive online lending practices are
+frequently those with limited financial resources and financial literacy. Among
+them are domestic workers, construction workers, vendors, and drivers. Given
+their limited access to legal and financial information, it is imperative that
+
+
+
+1 Department of Information and Communications Technology, National Privacy Commission &
+
+Securities and Exchange Commission, Public Advisory on Online Lending Platforms (Mar. 2026),
+https://privacy.gov.ph/wp-content/uploads/2026/03/DICT-NPC-SEC-Public-Advisory-on-Online-
+Lending-Platforms.pdf
+2 Mary Joy Salcedo, Around 300 complaints filed vs abusive online lending apps — PAOCC,
+
+INQUIRER.net (Sept. 10, 2025, 4:46 PM), https://newsinfo.inquirer.net/2107335/around-300-
+complaints-filed-vs-abusive-online-lending-apps-paocc
+3 Andrea Taguines, Gov’t Cracks Down on Unregistered Online Lending Apps as More Filipinos Fall
+
+Victim to Modus, ABS-CBN News (Feb. 27, 2026, 7:07 PM), https://www.abs-
+cbn.com/news/business/2026/2/27/gov-t-cracks-down-on-unregistered-online-lending-apps-1907
+
+                                                                                                  ii
+loan agreements and disclosures be provided in a language familiar to them
+and expressed in plain, clear, and understandable terms.
+
+
+      Hence, the Anti-Online Lending Abuse Act which seeks to: (1) define and
+protect the rights of borrowers of online lending platforms; (2) define the duties
+and responsibilities of online lending platforms; (3) limit the charges and total
+repayment amounts in online lending; (4) enumerate the prohibited acts in
+online lending and debt collection; and (5) establish a Victim Compensation
+Board for Online Lending Abuses.
+
+
+
+
+             JOSE MANUEL TADEO “CHEL” I. DIOKNO
+                        Akbayan Representative
+
+
+
+
+   PERCIVAL V. CENDAÑA                    DADAH KIRAM ISMULA
+   Akbayan Representative                 Akbayan Representative
+
+
+
+
+                              KAKA BAG-AO
+                    Dinagat Islands Representative
+
+
+
+
+                                                                                iii
+                       Republic of the Philippines
+                     HOUSE OF REPRESENTATIVES
+                       Batasan Hills, Quezon City
+                          Twentieth Congress
+                        Second Regular Session
+
+                                           10366
+                            House Bill No. ______
+
+
+           Introduced by Honorable Representatives
+   JOSE MANUEL TADEO “CHEL” I. DIOKNO (Akbayan Partylist)
+          PERCIVAL V. CENDAÑA (Akbayan Partylist)
+          DADAH KIRAM ISMULA (Akbayan Partylist)
+                KAKA BAG-AO (Dinagat Islands)
+
+
+                        AN ACT
+  PROTECTING CONSUMERS FROM UNFAIR, DECEPTIVE, AND
+  ABUSIVE ONLINE LENDING PRACTICES, ESTABLISHING THE
+VICTIM COMPENSATION BOARD FOR ONLINE LENDING ABUSES
+ FOR THE PURPOSE, PROVIDING PENALTIES FOR VIOLATIONS
+           THEREOF, AND FOR OTHER PURPOSES
+
+Be it enacted by the Senate and the House of Representatives of the Philippines
+in Congress assembled:
+
+Section 1. Short Title. - This Act will be known as the “Anti-Online Lending
+Abuse Act.”
+
+                                 CHAPTER I
+
+                         GENERAL PROVISIONS
+
+Section 2. Declaration of Policy. —It is the policy of the State that:
+
+   a. The dignity, privacy, and financial welfare of borrowers must be
+      protected from abusive, deceptive, and predatory practices in the
+      provision and collection of loans.
+   b. Online lending services must operate within a fair, transparent, and
+      accountable regulatory framework.
+   c. Effective safeguards must be in place against unlawful debt collection
+      practices and the misuse of personal information or sensitive personal
+      information.
+   d. Online lending platforms must promote financial inclusion while
+      adhering to consumer protection standards and responsible lending
+      practices.
+
+
+                                                                              1
+Section 3. Definition of Terms. - For purposes of this Act, the following
+terms shall mean:
+
+a. Borrower - refers to any natural person who obtains or applies for a
+  loan through an online lending platform.
+
+b. Collection agent - refers to any natural or juridical person authorized,
+  contracted, or engaged by an online lender to collect payments,
+  communicate with borrowers regarding outstanding obligations, or
+  otherwise perform debt collection activities on behalf of the online lender.
+
+c. Covered online lending activities - refer to the offering, marketing,
+  facilitation, origination, servicing, or collection of loans through an
+  online lending platform where the borrower resides within the
+  Philippines.
+
+d. Hidden charges - refer to any fee, charge, or cost imposed in connection
+  with a loan that is not clearly and fully disclosed to the borrower prior to
+  the execution of the loan agreement or prior to the disbursement of the
+  loan proceeds.
+
+e. Online lender - refers to any natural or juridical person or entity
+  engaged in the business of extending credit through an online lending
+  platform, including lending or financing companies or any entity that
+  holds itself out to the public as offering or facilitating loans through
+  digital means.
+
+f. Online lending platform - refers to any mobile lending application,
+  website, or other financial technology-enabled program or system where
+  the services and products of a financing or lending company are made
+  available.
+
+g. Personal information - refers to any information whether recorded in
+  a material form or not, from which the identity of an individual is
+  apparent or can be reasonably and directly ascertained by the entity
+  holding the information, or when put together with other information
+  would directly and certainly identify an individual.
+
+h. Sensitive personal information refers to personal information:
+
+
+
+
+                                                                            2
+            (1) About an individual’s race, ethnic origin, marital status, age,
+            color, and religious, philosophical or political affiliations;
+
+            (2) About an individual’s health, education, genetic or sexual life
+            of a person, or to any proceeding for any offense committed or
+            alleged to have been committed by such person, the disposal of
+            such proceedings, or the sentence of any court in such proceedings;
+
+            (3) Issued by government agencies peculiar to an individual which
+            includes, but not limited to, social security numbers, previous or
+            current health records, licenses or its denials, suspension or
+            revocation, and tax returns; and
+
+            (4) Specifically established by an executive order or an act of
+            Congress to be kept classified.
+
+Section 4. Scope and Coverage. - The provisions of this Act apply to all
+covered online lending activities.
+
+This Act does not apply to banks and financial institutions regulated by the
+Bangko Sentral ng Pilipinas (BSP), except insofar as such institutions operate
+online lending platforms that function independently from their regulated
+banking activities or that are offered through separate digital lending
+applications.
+
+Nothing in this Act shall be construed to prevent or limit the exercise of
+regulatory authority over online lending activities by the Securities and
+Exchange Commission (SEC), the Department of Trade and Industry (DTI),
+the National Privacy Commission (NPC), or any other relevant agencies.
+
+                                 CHAPTER II
+
+                       RIGHTS AND OBLIGATIONS
+
+Section 5. Rights of Borrowers. - Borrowers have the following rights:
+
+   a. Right to Transparent Loan Terms. - The borrower has the right to clear
+      and transparent loan terms, including but not limited to the duration of
+      the loan agreement, the applicable interest rate, the mode and schedule
+      of payment, and all applicable fees and charges.
+
+
+
+
+                                                                              3
+   b. Right to Data Transparency and Protection. - The borrower has the right
+      to be informed, in concise language they are familiar with, of the purpose
+      of the collection of their personal information or sensitive personal
+      information, the manner in which such data will be stored or processed,
+      and the identity of the entity responsible for storing or processing such
+      data. In no case shall the data be disseminated to collection agents or
+      any other third party without the borrower’s express lawful consent,
+      except as may be authorized by law.
+
+   c. Right to Proper Accounting of Obligations. - The borrower has the right
+      to receive, before and during the loan, a clear and itemized disclosure of
+      all payments due, including the principal, interest rate, penalties, and
+      all other charges imposed in a manner that allows full understanding of
+      the cost of credit.
+
+   d. Right to Fair and Dignified Debt Collection. - The borrower has the right
+      to be treated with dignity and respect in the collection of debts and shall
+      not be subjected to any acts of harassment, coercion, public shaming,
+      threats, intimidation, or other abusive collection practices.
+
+   e. Right to a Cap on Total Loan Cost. - In no case shall a borrower be
+      required to pay, in the aggregate, interest, fees, charges, penalties, and
+      any other amounts and hidden charges incident to the loan in an amount
+      exceeding one hundred percent (100%) of the original principal actually
+      extended to and received by the borrower. Accordingly, the total amount
+      payable by the borrower for any online loan, inclusive of principal and
+      all interest, fees, charges, penalties, and other amounts and hidden
+      charges, shall not exceed two hundred percent (200%) of the original
+      principal. Any stipulation or collection in excess thereof is void, and the
+      excess must be refunded or credited in favor of the borrower.
+
+Section 6. Duties and Responsibilities of Lenders. - Online lenders shall
+observe the following duties and responsibilities:
+
+   a. Duty of Fair Dealing. - Online lenders shall deal fairly and in good faith
+      with borrowers at all stages of the lending transaction, including
+      marketing, loan approval, disbursement, servicing, and collection. They
+      shall not employ any false, misleading, deceptive, or unfair act or
+      omission that is likely to mislead or prejudice a borrower.
+
+                                                                               4
+   b. Duty of Full Disclosure. - Prior to the consummation of any online loan,
+      every online lender shall clearly and conspicuously disclose to the
+      borrower, in concise language that is understandable to the borrower
+      and in an accessible format, the true cost of credit. The disclosure must
+      include the stated interest rate and all fees, charges, penalties,
+      deductions, or other costs or hidden charges required as a condition for
+      the approval, disbursement, renewal, restructuring, servicing, or
+      collection of the loan.
+
+   c. Duty to Assess Ability to Repay. - Online lenders must establish and
+      implement reasonable procedures, including automated checks where
+      appropriate, to determine prior to loan approval whether the borrower
+      has the capacity to repay the loan without suffering serious financial
+      hardship. The extent of such assessment should be proportionate to the
+      size, duration, and repayment structure of the loan, as well as the
+      borrower’s borrowing pattern.
+
+   d. Duty to Obtain Informed Consent. - Online lenders must obtain the
+      borrower’s express and informed consent to all material loan terms, and
+      such consent should be recorded and made retrievable for verification.
+      Where personal information or sensitive personal information is
+      collected, the lender shall clearly disclose the purpose of such collection,
+      using concise language the borrower is familiar with, and shall ensure
+      that the data will not be disclosed to any collection agent or third party
+      without the express lawful consent of the borrower, except as may be
+      required by law.
+
+                                CHAPTER III
+
+                     PROHIBITED AND UNLAWFUL ACTS
+
+Section 7. Prohibited Acts in Online Lending - It shall be unlawful for any
+online lender or any director, trustee, officer, partner, employee, agent, or
+third-party service provider thereof to commit or cause the commission of any
+of the following acts:
+
+   a. Operating without a license;
+
+   b. Misrepresentation regarding the interest, fees, charges, penalties, or any
+      hidden charges on an online loan; or
+
+                                                                                5
+   c. Rollover or automatic extensions without the borrower’s prior specific,
+      informed, and express consent given after full disclosure of the revised
+      loan terms.
+
+Any automatic rollover or renewal made in violation of this Section is void,
+without prejudice to the borrower’s liability for the unpaid principal and lawful
+charges under the original loan agreement.
+
+Any permissible extension or refinancing shall require a separate and
+affirmative act of consent by the borrower, preceded by clear disclosure of the
+total amount due, the additional interest, fees, charges, penalties, and hidden
+charges to be imposed, the new due date or schedule of payments, and the
+borrower’s right to refuse the rollover and instead settle the obligation under
+the original terms or avail of lawful restructuring options.
+
+Section 8. Abusive collection methods - It shall be unlawful for any person
+or entity, including the online lender or its collection agent, to commit,
+authorize, tolerate, or cause the commission of any act of harassment,
+intimidation, coercion, public humiliation, or other abusive conduct against a
+borrower in connection with the payment or collection of an online loan,
+including the following:
+
+       1.   Calling, messaging, chatting with, or otherwise making contact
+            with the borrower outside business hours from eight o’clock (8:00)
+            in the morning to five o’clock (5:00) in the afternoon;
+
+       2.   Public shaming or humiliation;
+
+       3.   Unauthorized access, use, disclosure, or processing of personal
+            information or sensitive personal information;
+
+       4.   Calling, messaging, chatting with, or otherwise making contact
+            with any person other than the borrower in connection with the
+            borrower’s debt, except solely for the limited purpose of obtaining
+            or verifying the borrower’s contact information or address; or
+
+       5.   Threatening the borrower, his or her relatives, or any of the
+            borrower’s contacts, verbally or in writing, including through text
+            messages or social media, with criminal charges or prosecution,
+            including estafa, swindling, and other deceits under the Revised
+
+
+                                                                               6
+            Penal Code or any other special laws, if it can be reasonably
+            inferred that the same will not prosper.
+
+                                  CHAPTER IV
+
+                   VICTIM COMPENSATION BOARD
+
+Section 9. Creation of the Board. There is hereby created a Victim
+Compensation Board for Online Lending Abuses (VCBOLA), hereinafter
+referred to as the “Board,” which shall be attached to the SEC for
+administrative supervision.
+
+Section 10. Composition of the Board. - The Board shall be composed of
+the following:
+
+   a. The SEC Chairperson as Chairperson of the Board;
+
+   b. The DTI Secretary, or an Undersecretary;
+
+   c. The Department of Information and Communications Technology
+      (DICT) Secretary, or an Undersecretary;
+
+   d. The NPC Commissioner, or a Deputy Commissioner;
+
+   e. The BSP Governor, or a Deputy Governor;
+
+   f. One (1) representative from a consumer protection organization; and
+
+   g. One (1) representative from the Integrated Bar of the Philippines (IBP).
+
+Section 11. Powers and Functions. — The Board shall have the following
+powers and functions:
+
+   a. Receive and adjudicate claims for monetary compensation filed by
+      borrowers who are victims of unlawful, abusive, deceptive, or predatory
+      online lending practices;
+
+   b. Determine the entitlement of borrowers to compensation, including
+      actual damages, moral damages, exemplary damages, and other
+      appropriate reliefs, based on substantial evidence;
+
+   c. Order restitution or refund of unlawfully collected amounts in favor of a
+      borrower, including interest, fees, penalties, charges, and other hidden
+      charges imposed in violation of this Act;
+
+                                                                             7
+   d. Administer the Victim Compensation Fund as provided under this Act;
+
+   e. Issue subpoenas and require the production of documents, digital
+      records, and other relevant evidence;
+
+   f. Require the assistance of government agencies for the enforcement of its
+      orders; and
+
+   g. Promulgate rules of procedure for the expeditious disposition of claims.
+
+Section 12. Victim Compensation Fund. — A Victim Compensation Fund
+is hereby established, to be administered by the Board, which shall be used
+exclusively for the payment of approved claims.
+
+The Fund shall be sourced from:
+
+   a. Fines, penalties, and administrative sanctions collected under this Act;
+
+   b. A mandatory contribution equivalent to one percent (1%) of gross loan
+      disbursements from all registered online lenders, as may be adjusted by
+      the SEC;
+
+   c. Proceeds from forfeited assets of entities found to have engaged in illegal
+      online lending operations; and
+
+   d. Such appropriations as may be provided by Congress.
+
+Section 13. Eligibility and Filing of Claims. — Any borrower who has
+suffered loss, injury, harassment, unauthorized processing of personal
+information or sensitive personal information, or financial damage arising
+from a violation of this Act may file a claim before the Board within three (3)
+years from the occurrence of the violation.
+
+Section 14. Nature of Proceedings. — Proceedings before the Board shall be
+summary and non-litigious. They shall not be strictly bound by technical rules
+of evidence, provided that administrative due process is observed.
+
+Section 15. Relief and Awards. — The Board may grant:
+
+   a. Refund of excess payments;
+
+   b. Compensation for actual financial loss;
+
+
+
+
+                                                                               8
+   c. Moral and exemplary damages in cases involving harassment, coercion,
+      or public shaming;
+
+   d. Attorney’s fees;
+
+   e. Cease-and-desist orders;
+
+   f. Protection orders; and
+
+   g. Such other reliefs as may be just and equitable for the protection of
+      borrowers.
+
+Section 16. Enforceability. — Decisions of the Board shall be final and
+executory after fifteen (15) days from notice to the parties. A final decision may
+be enforced by way of a writ of execution.
+
+Section 17. Non-Exclusivity of Remedy. — Recourse to the Board shall not
+preclude the filing of civil, criminal, or administrative actions under existing
+laws: Provided, That the borrower cannot recover damages twice for the same
+act or omission.
+
+                                 CHAPTER V
+
+                      PENALTIES AND LIABILITIES
+
+Section 18. Criminal Liability. Any person who violates the provisions of
+this Act shall, upon conviction, be punished with imprisonment of not less than
+three (3) years but not more than six (6) years or a fine of not less than One
+hundred thousand pesos (₱100,000.00) but not more than One million pesos
+(₱1,000,000.00), or both at the discretion of the court. If the harassment leads
+to severe psychological injury, loss of livelihood, or loss of life, the court may
+impose double the penalties provided herein.
+
+If the offender is a corporation, partnership, or other entity, the penalty shall
+be imposed upon the responsible officers, directors, partners, or agents.
+
+If the offender made use of an unlicensed or unregistered online lending
+platform in the commission of the offense, the maximum penalty of
+imprisonment of six (6) years and a fine of One million pesos (₱1,000,000.00)
+shall be imposed.
+
+Section 19. Administrative Sanctions. The SEC and the BSP may suspend
+or permanently revoke the registration or certificate of authority of an online
+                                                                                9
+lender found to have committed a violation of this Act or its implementing rules
+and regulations.
+
+The NPC may also impose fines for any violation of the Data Privacy Act of
+2012, including the malicious act of publicly revealing personal information or
+sensitive personal information and the unauthorized harvesting of contact
+lists.
+
+Section 20. Civil Liability and Borrower Redress.
+
+   a. Any provision in a loan agreement found to be unfair, including
+         unconscionable interest rates, hidden charges, or automatic rollovers
+         without prior specific, informed, and express consent shall be rendered
+         void and unenforceable.
+
+   b. Any loan agreement entered into by an unlicensed or unregistered online
+         lending platform shall be deemed unenforceable.
+
+   c. The courts shall have the power to reopen or set aside unjust
+         transactions where the online lender failed to assess if the loan was
+         affordable or suitable for the borrower.
+
+Section 21. Intelligence Gathering. The Presidential Anti-Organized Crime
+Commission (PAOCC), or its organizational successor-in-interest, is mandated
+to actively gather intelligence on online lending platforms for the speedy
+investigation and prosecution of unlicensed or unregistered online lenders in
+the Philippines. Solely for this purpose, the Philippine National Police, the
+National Bureau of Investigation, the DICT, and the SEC are mandated to
+maintain a secure, real-time, and interoperable information-sharing system
+with PAOCC, which shall include the sharing of information based on
+complaints and reports received by the agencies. PAOCC is also authorized to
+coordinate with and enlist the assistance of any department, agency, or
+instrumentality of government, including government-owned and -controlled
+corporations, local government units, the private sector, and civil society
+organizations for the purpose of intelligence gathering under this Section.
+
+Section 22. Cease-and-Desist Order. Upon its finding that an online lending
+platform is being operated by an online lender in the Philippines without the
+registration, license, certificate of authority, or other authorization required by
+law, the SEC shall issue a cease-and-desist order and serve the same upon the
+
+                                                                                10
+application marketplace, internet intermediary, or other service provider
+facilitating the availability of such online lending platform in the Philippines.
+The SEC shall likewise coordinate with the DICT and relevant agencies to
+cause the delisting, removal, disabling, blocking, or restriction of access to such
+online lending platform.
+
+                                 CHAPTER VI
+
+                             FINAL PROVISIONS
+
+Section. 23. Appropriations. – This Act will be implemented initially within
+the framework of the budgets of the SEC, BSP, DTI, DICT, and NPC, for the
+year it is enacted into law. Thereafter, the amounts as may be necessary for
+the implementation of this Act will be included in the budget of these
+government agencies in the annual General Appropriations Act.
+
+Section. 24. Implementing Rules and Regulations. – Within ninety (90)
+days from the effectivity of this Act, the SEC, BSP, DTI, DICT, NPC, PAOCC,
+and representatives of consumer protection organizations must promulgate the
+necessary rules and regulations to implement its provisions.
+
+Section 25. Separability Clause. – If any part or provision of this Act is
+declared unconstitutional or invalid, other parts or provisions thereof not
+affected thereby will continue to be in full force and effect.
+
+Section 26. Repealing Clause. – All laws, presidential decrees, executive
+orders, rules, and regulations inconsistent with this Act are hereby repealed
+or modified accordingly.
+
+Section 27. Effectivity. – This Act takes effect fifteen (15) days after its
+publication in the Official Gazette or in a newspaper of general circulation.
+
+
+
+
+                                                                                11
+
