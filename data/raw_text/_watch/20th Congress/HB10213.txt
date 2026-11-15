@@ -1,0 +1,474 @@
+                                                                            July 23, 2026
+                                                                             4:42 pm
+                           Republic of the Philippines
+                         HOUSE OF REPRESENTATIVES
+                           Quezon City, Metro Manila
+
+                              TWENTIETH CONGRESS
+                               Second Regular Session
+
+                                             10213
+                              HOUSE BILL NO. _______
+
+—————————————————————————————————————————
+       Introduced by Representative ANTONINO B. ROMAN III
+—————————————————————————————————————————
+
+                              EXPLANATORY NOTE
+
+       Republic Act. No. 7394, or the Consumer Act of the Philippines, has stood as
+the country’s principal consumer protection statute since 1992. It was designed for a
+predominantly physical, retail-based economy. In the more than three decades since
+its enactment, Philippine commerce has been transformed by e-commerce, digital
+marketplaces, subscription-based services, and cross-border online transactions —
+developments the Act did not originally contemplate.
+
+       While Republic Act No. 11967 (the Internet Transactions Act) and Republic
+Act No. 11765 (the Financial Products and Services Consumer Protection Act) have
+partially addressed these gaps, consumer protection in the Philippines remains
+fragmented across statutes and agencies, redress mechanisms remain slow and
+inaccessible for small-value claims, penalties have not kept pace with inflation or the
+scale of modern commercial harm, and there is no unified, low-cost venue for
+consumers to pursue collective or individual complaints.
+
+      This bill amends RA 7394 to:
+
+     1. Clarify the liability of online marketplaces and digital platforms for
+        products and services sold through them;
+
+     2. Establish an accessible, low-cost Consumer Redress Mechanism for small-
+        value claims;
+
+     3. Provide a clear collective redress (class complaint) procedure for consumer
+        harms affecting multiple persons;
+     4. Update and index penalties to inflation, and strengthen enforcement powers
+        of the Department of Trade and Industry (DTI);
+
+     5. Close the product recall gap by making the sale of recalled products a
+        distinct offense;
+
+     6. Regulate subscription traps, forced auto-renewal, and dark patterns in
+        digital transactions, including a "click-to-cancel" requirement;
+
+     7. Establish an Inter-Agency Consumer Protection Coordinating Council to
+        harmonize enforcement across DTI, the Bangko Sentral ng Pilipinas (BSP),
+        the Securities and Exchange Commission (SEC), the National
+        Telecommunications Commission (NTC), and other sector regulators; and
+
+     8. Strengthen enforcement against foreign merchants and platforms targeting
+        Filipino consumers.
+
+       This measure builds on the consumer protection gains of the Internet
+Transactions Act and the Financial Products and Services Consumer Protection Act
+by closing the gaps that remain in the core Consumer Act itself, so that every Filipino
+consumer — whether transacting in a public market or on a mobile application —
+has equal access to protection and redress.
+
+      In view of the foregoing, the passage of this bill is earnestly sought.
+
+
+
+
+                                                 ANTONINO B. ROMAN III
+                            Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES
+                            Quezon City, Metro Manila
+
+                               TWENTIETH CONGRESS
+                                Second Regular Session
+
+                                              10213
+                               HOUSE BILL NO. _______
+
+—————————————————————————————————————————
+       Introduced by Representative ANTONINO B. ROMAN III
+—————————————————————————————————————————
+
+                           AN ACT
+  STRENGTHENING CONSUMER PROTECTION IN THE PHILIPPINES BY
+   AMENDING REPUBLIC ACT NO. 7394, OTHERWISE KNOWN AS THE
+ "CONSUMER ACT OF THE PHILIPPINES," TO EXTEND PROTECTION TO
+    ONLINE AND DIGITAL TRANSACTIONS, ESTABLISH ACCESSIBLE
+REDRESS MECHANISMS, STRENGTHEN ENFORCEMENT, AND FOR OTHER
+                          PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+assembled:
+
+SECTION 1. Short Title. – This Act shall be known as the “Enhanced Consumer
+Protection Act.”
+
+SEC. 2. Declaration of Policy. – Article 2 of Republic Act No. 7394 is hereby
+amended to read as follows:
+
+     “ART. 2. Declaration of Basic Policy. – It is the policy of the State to protect
+     the interests of the consumer, promote the general welfare, and establish
+     standards of conduct for business and industry, whether such business or
+     industry operates through physical, online, or digital means, and whether
+     the seller, supplier, manufacturer, or service provider is domestic or
+     foreign, provided that the transaction targets or affects consumers in the
+     Philippines. Towards this end, the State shall recognize the eight (8) basic
+     consumer rights, namely: the right to basic needs, the right to safety, the
+     right to information, the right to choose, the right to redress, the right to
+     consumer education, the right to representation, and the right to a healthy
+
+
+
+                                                                                        1
+          environment, and shall ensure that redress for violations of these rights is
+          accessible, affordable, and timely.”
+
+     SEC. 3. De nition of Terms. – Article 4 of Republic Act No. 7394 is hereby amended
+     to add the following de nitions:
+
+          (bb) Online Marketplace refers to any website, application, or digital
+              platform that enables third-party sellers, suppliers, or service
+              providers to offer, advertise, or sell consumer products or
+              services to consumers in the Philippines, regardless of whether
+              the operator of the platform is the seller of record.
+
+          (cc) Online Marketplace Operator refers to any natural or juridical
+              person, whether domestic or foreign, that owns, operates, or
+              controls an online marketplace.
+
+          (dd) Digital Dark Pattern refers to any user interface or user
+             experience design, in a website or application, that is intended or
+             has the effect of subverting or impairing a consumer’s autonomy,
+             decision-making, or choice, including but not limited to designs
+             that make it substantially more dif cult to cancel a service than
+             to subscribe to it, or that obscure material terms, fees, or
+             conditions of a transaction.
+
+          (ee) Recalled Product refers to any consumer product that a
+              manufacturer, distributor, importer, or seller, or a government
+              regulatory agency, has publicly announced or ordered to be
+              withdrawn from the market due to a defect, hazard, or non-
+              compliance with applicable safety or quality standards.
+
+          (ff) Cross-Border Merchant refers to a seller, supplier, or online
+               marketplace operator not established in the Philippines that
+               targets or maintains substantial commercial interaction with
+               consumers located in the Philippines.
+
+     SEC. 4. Online Marketplace Liability. – A new Article 98-A is hereby inserted into
+     Title III, Chapter V of Republic Act No. 7394, to read as follows:
+
+          “ARTICLE 98-A. Liability of Online Marketplace Operators. – (a) An
+          online marketplace operator shall be jointly and severally liable with a
+          third-party seller for any violation of this Act involving a product or
+          service sold through its platform where:
+
+
+
+
+                                                                                         2
+
+
+
+                          fi
+              fi
+fi
+               (1) the operator failed to disclose, or misrepresented, the true identity,
+                   business address, and contact details of the third-party seller upon
+                   request by the consumer or the Department;
+
+               (2) the operator had actual knowledge of the defective, hazardous, or
+                   non-compliant nature of the product or service and failed to remove
+                   the listing within a reasonable period; or
+
+               (3) the operator held itself out to consumers, through branding,
+                   guarantees, or representations, as the seller or as being responsible for
+                   the transaction.
+
+               (b) An online marketplace operator shall maintain a veri ed registry of
+               third-party sellers operating on its platform, containing at minimum the
+               seller’s legal name, business registration number (if applicable), and a
+               working contact address, and shall make this information available to
+               consumers and to the Department upon request.
+
+               (c) An online marketplace operator shall provide consumers with a clear
+               and accessible mechanism to report defective, counterfeit, or non-
+               compliant products or services, and shall act on veri ed reports within
+                 fteen (15) days.
+
+               (d) Nothing in this Article shall be construed to impose liability on an
+               online marketplace operator for the independent acts of a third-party
+               seller where the operator has complied with subsections (a) to (c).”
+
+          SEC 5. Consumer Redress Mechanism. – A new Article 159-A is hereby inserted into
+          Title V, Chapter III of Republic Act No. 7394, to read as follows:
+
+               “ARTICLE 159-A. Consumer Redress Mechanism. – (a) There is hereby
+               established, within the Department, a Consumer Redress Mechanism to
+               provide consumers with an accessible, expeditious, and low-cost venue
+               for resolving consumer complaints not exceeding Four Hundred
+               Thousand Pesos (₱400,000.00) in claimed value, without prejudice to a
+               consumer’s right to pursue any other remedy available under law.
+
+               (b) Proceedings under this Article shall be conducted through mediation
+               in the rst instance, and, failing settlement, through summary
+               adjudication by a duly designated Consumer Arbiter. No formal rules of
+               evidence or procedure applicable in regular courts shall be strictly
+               applied, and legal representation shall not be required.
+
+
+
+
+                                                                                               3
+
+
+
+                                                         fi
+                                                    fi
+     fi
+fi
+       (c) A complaint under this Article may be led online, and the
+       Department shall establish and maintain a nationwide online complaints
+       platform enabling consumers to le, track, and receive resolution of
+       complaints without the need for physical appearance, except where the
+       Consumer Arbiter determines that a hearing is necessary.
+
+       (d) A decision of the Consumer Arbiter shall be rendered within thirty (30)
+       days from submission of the complaint for resolution, and shall be
+       immediately executory unless appealed to the Secretary of Trade and
+       Industry within fteen (15) days from receipt.
+
+       (e) The Department shall periodically publish aggregated, anonymized
+       data on complaints received, resolved, and pending, disaggregated by
+       sector and by respondent, to promote transparency and inform future
+       rule-making.”
+
+SEC. 6. Collective Redress for Consumer Complaints. – A new Article 159-B is
+hereby inserted into Title V, Chapter III of Republic Act No. 7394, to read as follows:
+
+       “ARTICLE 159-B. Collective Consumer Complaints. – (a) Where a
+       violation of this Act affects, or is likely to affect, twenty (20) or more
+       consumers arising from substantially the same act or practice of a
+       respondent, any of the affected consumers, an accredited consumer
+       organization, or the Department motu proprio, may le a collective
+       consumer complaint before the Consumer Redress Mechanism
+       established under Article 165-A of this Act, notwithstanding the
+       individual claim value of any single consumer.
+
+       (b) The Department shall promulgate rules governing notice to affected
+       consumers, opt-in or opt-out procedures, and the distribution of any
+       monetary award or restitution arising from a collective consumer
+       complaint.
+
+       (c) Nothing in this Article shall be construed to limit the right of
+       consumers to avail of class suits under the Rules of Court.”
+
+SEC. 7. Penalties. – Article 60 of Republic Act No. 7394 is hereby amended to read as
+follows:
+
+       “ART. 60. Penalties. – (a) Any person who violates any provision of this
+       Chapter shall, upon conviction, be subject to a ne of not less than One
+       Hundred Thousand Pesos (₱100,000.00) but not more than Two Million
+
+
+
+
+                                                                                      4
+
+
+
+                                               fi
+                                          fi
+                                     fi
+                       fi
+  fi
+      Pesos (₱2,000,000.00), or imprisonment of not less than one (1) year but
+      not more than ve (5) years, or both, at the discretion of the court.
+
+      (b) Where the violation is committed through an online marketplace,
+      digital platform, or other electronic means, or where the violation is
+      committed during a state of calamity, public health emergency, or similar
+      declared emergency, the ne shall not be less than Two Hundred
+      Thousand Pesos (₱200,000.00) but not more than Five Million Pesos
+      (₱5,000,000.00).
+
+      (c) The Department shall review and adjust the amounts of nes under
+      this Act every three (3) years to account for in ation, based on the
+      Consumer Price Index published by the Philippine Statistics Authority,
+      through the issuance of appropriate implementing rules, without need of
+      further legislative amendment.
+
+      (d) In addition to the penalties above, the Department may, after due
+      notice and hearing, order the suspension or revocation of a business
+      permit, or the closure of an establishment, including an online
+      marketplace listing or storefront, for repeated or willful violations of this
+      Act.”
+
+SEC. 8. Sale of Recalled Products Prohibited. – A new Article 98-B is hereby
+inserted into Title III, Chapter V of Republic Act No. 7394, to read as follows:
+
+      “ARTICLE 98-B. Prohibition on the Sale of Recalled Products. – (a) It shall
+      be unlawful for any manufacturer, distributor, importer, seller, or online
+      marketplace operator to sell, offer for sale, or continue to list for sale, any
+      consumer product that has been recalled by a government regulatory
+      agency or voluntarily recalled by its manufacturer or importer, from the
+      date such recall is publicly announced or ordered.
+
+      (b) The Department, in coordination with the concerned regulatory
+      agency, shall maintain a publicly accessible registry of recalled products.
+
+      (c) Any person who violates this Article shall be subject to the penalties
+      provided under Article 60 of this Act, without prejudice to product
+      liability claims under existing law.”
+
+SEC. 9. Subscription, Auto-Renewal, and Dark Pattern Protections. – A new Article
+52-A is hereby inserted into Title III, Chapter I of Republic Act No. 7394, to read as
+follows:
+
+
+
+                                                                                        5
+
+
+
+                                                    fi
+                                         fl
+               fi
+ fi
+     “ARTICLE 52-A. Protection Against Unfair Digital Practices. — (a) Any
+     seller or supplier offering a subscription, membership, or recurring-billing
+     service to consumers shall:
+
+     (1) clearly and conspicuously disclose the cost, frequency, and terms of
+         the recurring charge, and the terms of auto-renewal, before the
+         consumer’s consent is obtained;
+
+     (2) obtain a consumer’s af rmative, unambiguous consent to any
+         recurring charge, separate from consent to any other term of the
+         transaction; and
+
+     (3) provide a mechanism for cancellation that is at least as simple as the
+         mechanism by which the consumer subscribed, and which does not
+         require the consumer to contact customer service by phone or in
+         person if the subscription was entered into online.
+
+     (b) The use of digital dark patterns, as de ned under Article 4 of this Act,
+     in connection with a consumer transaction is hereby declared an unfair
+     and unconscionable sales act or practice under Chapter I, Title III, Book II
+     of this Act.
+
+     (c) The Department shall issue implementing rules further de ning
+     prohibited dark patterns, in consultation with the Department of
+     Information and Communications Technology and the National Privacy
+     Commission.”
+
+SEC. 10. Inter-Agency Consumer Protection Coordinating Council. – A new Article
+6-A is hereby inserted into Title II, Chapter I of Republic Act No. 7394, to read as
+follows:
+
+     “ARTICLE 6-A. Inter-Agency Consumer Protection Coordinating Council.
+     – (a) There is hereby created an Inter-Agency Consumer Protection
+     Coordinating Council, to be chaired by the Secretary of Trade and
+     Industry, and composed of representatives from the Bangko Sentral ng
+     Pilipinas, the Securities and Exchange Commission, the Insurance
+     Commission, the National Telecommunications Commission, the
+     Department of Information and Communications Technology, the
+     National Privacy Commission, the Food and Drug Administration, and
+     the Department of Agriculture.
+
+     (b) The Council shall meet at least quarterly to:
+
+
+
+
+                                                                                    6
+
+
+
+                                                         fi
+                            fi
+            fi
+     (1) harmonize consumer protection rules and avoid con icting or
+         duplicative regulation across sectors;
+
+     (2) establish a uni ed referral protocol so that a consumer complaint led
+         with the wrong agency is promptly forwarded to the correct one
+         without requiring the consumer to re le;
+
+     (3) coordinate joint enforcement action against cross-border merchants
+         and online marketplace operators; and
+
+     (4) submit an annual report to Congress on the state of consumer
+         protection enforcement in the Philippines.”
+
+SEC. 11. Enforcement Against Cross-Border Merchants. – A new Article 98-C is
+hereby inserted into Title III, Chapter V of Republic Act No. 7394, to read as follows:
+
+     “ARTICLE 98-C. Cross-Border Enforcement. – (a) A cross-border merchant
+     that targets or maintains substantial commercial interaction with
+     consumers in the Philippines shall be subject to the jurisdiction of the
+     Department and the provisions of this Act to the same extent as a
+     merchant established in the Philippines.
+
+     (b) The Department may require an online marketplace operator to restrict
+     or delist a cross-border merchant found, after due process, to have
+     violated this Act and to have failed or refused to satisfy a judgment, order,
+     or award rendered under this Act.
+
+     (c) The Department shall enter into cooperative arrangements with
+     foreign consumer protection authorities for the exchange of information
+     and mutual enforcement assistance, consistent with existing treaties and
+     Philippine law.”
+
+SEC. 12. Consumer Education. – A new Article 154-A is hereby inserted into Title V,
+Chapter II of Republic Act No. 7394, to read as follows:
+
+     “The Department shall integrate digital and e-commerce consumer
+     literacy – including recognition of online scams, dark patterns, and the
+     proper use of the Consumer Redress Mechanism – into its consumer
+     education programs and into the consumer education curricula of the
+     Department of Education and the Commission on Higher Education.”
+
+SEC. 13. Implementing Rules and Regulations. – Within ninety (90) days from the
+effectivity of this Act, the Department of Trade and Industry, in coordination with
+
+
+
+                                                                                      7
+
+
+
+                                                     fi
+                                               fl
+                       fi
+fi
+     the agencies named in Section 10 hereof, shall promulgate the necessary rules and
+     regulations for the effective implementation of this Act.
+
+     SEC. 14. Appropriations. – The amount necessary for the initial implementation of
+     this Act, including the establishment of the Consumer Redress Mechanism and its
+     online complaints platform, shall be charged against the current appropriations of
+     the Department of Trade and Industry. Thereafter, such sums as may be necessary
+     shall be included in the annual General Appropriations Act.
+
+     SEC. 15. Separability Clause. – If any provision of this Act is declared invalid or
+     unconstitutional, the remaining provisions not affected thereby shall continue to be
+     in full force and effect.
+
+     SEC. 16. Repealing Clause. - All laws, acts, decrees, executive orders, issuances, and
+     rules and regulations or parts thereof which are contrary to and inconsistent with
+     this Act are hereby repealed, amended or modi ed accordingly.
+
+     SEC. 20. Effectivity. - This Act shall take effect fteen (15) days after its publication
+     in the Of cial Gazette or in a newspaper of general circulation.
+
+
+
+          Approved,
+
+
+
+
+                                                                                            8
+
+
+
+                                            fi
+                                       fi
+fi
+

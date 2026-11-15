@@ -1,0 +1,431 @@
+                              Republic of the Philippines
+                            HOUSE OF REPRESENTATIVES
+                                    Quezon City
+                                                                             July 28, 2026
+                                                                               9:22 am
+                                TWENTIETH CONGRESS
+                                 Second Regular Session
+
+
+                                 HOUSE BILL NO. 10259
+                                                ____
+
+
+
+                                Introduced by
+               HON. ATTY. GERVILLE “JINKY BITRICS” R. LUISTRO
+
+
+
+                                  EXPLANATORY NOTE
+
+       The rapid expansion of social media use among children has raised significant and
+well-documented concerns regarding exposure to harmful and inappropriate content,
+cyberbullying, exploitation risks, mental health impacts, data privacy violations, and the
+effects of algorithm-driven and engagement-based platform design that may contribute
+to addictive use patterns.
+
+      Current platform incentives are largely directed toward maximizing user
+engagement and time spent on platforms, which may not necessarily align with the
+developmental needs and welfare of children.
+
+       International policy developments, including Australia’s Online Safety Amendment
+(social media Minimum Age) Bill 2024, reflect a growing recognition of the need for a
+systems-based regulatory approach that places responsibility on social media service
+providers to implement safeguards against underage access, rather than relying solely on
+user or parental compliance.
+
+        This measure seeks to establish a minimum age requirement for social media
+account access and to mandate that Covered Social Media Service Providers implement
+reasonable and proportionate age assurance measures to prevent access by children
+fifteen (15) years of age and below.
+
+      This bill does not intend to restrict access to digital learning platforms, educational
+technologies, or private messaging services, but rather to regulate access to social media
+platforms that facilitate public or semi-public user-generated content and algorithm-
+driven content distribution.
+
+        In line with Article II, Section 13 of the 1987 Constitution, which mandates the
+State to protect the youth and promote their physical, moral, spiritual, intellectual, and
+social well-being, this measure establishes regulatory accountability on social media
+service providers operating within the Philippines for ensuring safer digital environments
+for children.
+
+      In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+
+                             HON. ATTY. GERVILLE “JINKY BITRICS” R. LUISTRO
+                                  Republic of the Philippines
+                                HOUSE OF REPRESENTATIVES
+                                        Quezon City
+
+
+                                    TWENTIETH CONGRESS
+                                     Second Regular Session
+
+
+                                                    10259
+                                     HOUSE BILL NO. ____
+
+
+
+                                    Introduced by
+                   HON. ATTY. GERVILLE “JINKY BITRICS” R. LUISTRO
+
+
+
+                                  AN ACT
+     RESTRICTING SOCIAL MEDIA ACCESS TO CHILDREN FIFTEEN (15) YEARS OLD
+     AND BELOW, MANDATING AGE VERIFICATION MECHANISMS FOR SOCIAL
+     MEDIA PLATFORMS, PROVIDING PENALTIES FOR NON-COMPLIANCE, AND
+     FOR OTHER PURPOSES
+
+     Be it enacted by the Senate and House of Representatives of the Philippines in
+     Congress assembled:
+
+ 1          SECTION 1. Short Title - This Act shall be known as the “Social Media Age
+ 2   Restriction Act of 2026”
+ 3
+ 4          SECTION 2. Declaration of Policy - It is hereby declared the policy of the State to
+ 5   protect and promote the physical, mental, emotional, and social well-being of children by
+ 6   addressing the risks associated with unrestricted access of minors fifteen (15) years of
+ 7   age and below to algorithm-driven social media platforms. The State recognizes that such
+ 8   exposure may subject children to foreseeable harms, including harmful content exposure,
+ 9   online exploitation, addictive platform design, and adverse psychological effects.
+10
+11         In pursuit of these goals, the State shall:
+12
+13         (a) Institutionalize a preventive and systems-based regulatory framework
+14         requiring Covered Social Media Service Providers, as a condition for operating
+15         within the Philippines, to implement reasonable and proportionate measures to
+16         prevent the creation, registration, and access of social media accounts by children
+17         below the prescribed minimum age;
+ 1
+ 2         (b) Ensure that primary responsibility for enforcing age restrictions and
+ 3         implementing age assurance mechanisms rests upon Covered Social Media Service
+ 4         Providers, consistent with the principle that entities which design, operate, and
+ 5         derive economic benefit from digital platforms must likewise be accountable for
+ 6         foreseeable user harms;
+ 7
+ 8         (c) Require that age assurance and access restriction measures be implemented
+ 9         in a manner that is privacy-preserving, proportionate, and consistent with
+10         constitutional rights, including the right to privacy of communications and the right
+11         to data privacy under existing laws;
+12
+13         (d) Promote age-appropriate digital participation through the strengthening of
+14         digital literacy programs, parental guidance mechanisms, and institutional support
+15         systems, while recognizing that unrestricted access to social media platforms is
+16         not essential to meaningful digital participation by minors; and
+17
+18         (e) Ensure that nothing in this Act shall be construed -as restricting access to
+19         educational technologies, messaging services, and other digital tools not primarily
+20         designed for public or semi-public social interaction.
+21
+22          By adhering to these principles, the State commits to fostering a safe, rights-
+23   respecting, and developmentally appropriate digital environment that safeguards children
+24   while enabling responsible and inclusive participation in the digital age.
+25
+26         SECTION 3. Definition of Terms - For purposes of this Act, the following terms
+27   are hereby defined:
+28
+29         (a) Account Holder - a natural person who owns, registers, controls, maintains, or
+30         operates a Social Media Account.
+31
+32         (b) Age Assurance Measure - any technological, administrative, procedural, or
+33         documentary method designed to reasonably determine whether a person satisfies
+34         the minimum age requirement prescribed under this Act.
+35
+36         (c) Child - any person fifteen (15) years of age and below.
+37
+38         (d) Circumvention - any act, omission, device, software, mechanism,
+39         misrepresentation, or arrangement intended to evade, defeat, manipulate, or
+40         bypass an Age Assurance Measure or any requirement imposed under this Act.
+41
+42         (e) Covered Social Media Service - an online platform, website, application, or
+43         electronic service that:
+44
+ 1          (1) allows users to create or maintain accounts or profiles;
+ 2
+ 3          (2) enables users to generate, upload, publish, share, view, or interact with
+ 4          user-generated content; and
+ 5
+ 6          (3) facilitates social interaction, communication, networking, content
+ 7          discovery, or engagement among users.
+ 8
+ 9   (f) Covered Social Media Service Provider - any natural or juridical person,
+10   corporation, partnership, association, organization, or other entity that owns,
+11   operates, controls, administers, or makes available a Covered Social Media Service
+12   to users located within the Philippines, whether organized under Philippine law or
+13   foreign law.
+14
+15   (g) Department - refers to the Department of Information and Communications
+16   Technology (DICT).
+17
+18   (h) Minor - a person below eighteen (18) years of age as defined under Philippine
+19   law.
+20
+21   (i) Reasonable Steps - measures that are proportionate, effective, reasonably
+22   practicable, and appropriate, taking into consideration:
+23
+24          (1) the nature, size, and reach of the service;
+25
+26          (2) the risks posed to children;
+27
+28          (3) available technologies and industry standards;
+29
+30          (4) privacy and data protection obligations; and
+31
+32          (5) the costs and feasibility of implementation.
+33
+34   (j) Social Media Account - a user profile, registration, account, identifier, or digital
+35   presence that enables access to or participation in a Covered Social Media Service.
+36
+37   (k) User - any individual who accesses, browses, registers for, maintains, or uses
+38   a Covered Social Media Service.
+39
+40   (l) User-Generated Content - any text, image, video, audio, livestream, comment,
+41   review, message, post, or other material created, uploaded, shared, transmitted,
+42   or disseminated by a user through a Covered Social Media Service.
+43
+ 1          (m) Verification Data - personal information collected solely for purposes of age
+ 2          assurance and compliance with this Act.
+ 3
+ 4          (n) Educational Platform - a digital service primarily designed and operated for
+ 5          instructional, academic, training, or educational purposes and not principally for
+ 6          social networking.
+ 7
+ 8          (o) Messaging Service - an electronic communications service whose primary
+ 9          function is the exchange of direct messages between identified users and which
+10          does not principally operate through public content feeds or recommendation
+11          systems.
+12
+13          (p) Design Feature - any algorithmic, technical, interface, or engagement
+14          mechanism incorporated into a Covered Social Media Service, including
+15          recommendation systems, content ranking systems, autoplay functions, infinite
+16          scrolling features, push notifications, or similar functionalities.
+17
+18          SECTION 4. Minimum Age Requirement - A Covered Social Media Service Provider
+19   shall not permit a Child to create, register for, hold, maintain, or operate a Social Media
+20   Account on a Covered Social Media Service.
+21
+22         Every Covered Social Media Service Provider shall take reasonable and
+23   proportionate steps to prevent Children from creating, registering for, holding,
+24   maintaining, or operating Social Media Accounts on its service.
+25
+26         For purposes of this Act, the minimum age for the creation, registration, holding,
+27   maintenance, or operation of a Social Media Account shall be sixteen (16) years of age.
+28
+29          SECTION 5. Obligations of Social Media Platforms - To comply with the minimum
+30   age requirement established under this Act, every Covered Social Media Service Provider
+31   shall:
+32
+33          (a) implement and maintain age assurance measures reasonably designed to
+34          prevent a Child from creating, registering for, holding, maintaining, or operating a
+35          Social Media Account;
+36
+37          (b) take reasonable and proportionate steps to identify and restrict access to Social
+38          Media Accounts reasonably determined or verified through available information
+39          and system indicators to be held or operated by a Child;
+40
+41          (c) establish clear procedures for the review, restriction, suspension, or removal
+42          of accounts found to be in violation of the minimum age requirement, subject to
+43          notice and internal review mechanisms;
+44
+ 1         (d) adopt measures reasonably designed to prevent the circumvention or evasion
+ 2         of age assurance measures implemented under this Act; and
+ 3
+ 4         (e) submit compliance reports, information, and records as may be required by
+ 5         the Department of Information and Communications Technology (DICT) under the
+ 6         Implementing Rules and Regulations.
+ 7
+ 8          Compliance with this Section shall not require absolute prevention of underage
+ 9   access, provided that the Covered Social Media Service Provider demonstrates that it has
+10   taken reasonable and proportionate steps consistent with this Act and its IRR.
+11
+12         SECTION 6. Role of Government Agencies - The Department of Information and
+13   Communications Technology (DICT) shall be the lead implementing agency of this Act
+14   and shall exercise primary authority over its administration, monitoring, and enforcement.
+15
+16          For purposes of implementing this Act, the following agencies shall perform the
+17   following functions:
+18
+19         (a) Department of Information and Communications Technology (DICT) - shall
+20         formulate standards and guidelines for age assurance measures, monitor
+21         compliance by Covered Social Media Service Providers, conduct investigations,
+22         receive complaints, and impose administrative sanctions as may be authorized
+23         under this Act and its Implementing Rules and Regulations;
+24
+25         (b) National Privacy Commission (NPC) - shall ensure that age assurance measures
+26         and related data processing activities comply with the provisions of Republic Act
+27         No. 10173, otherwise known as the “Data Privacy Act of 2012,” and other
+28         applicable privacy and data protection laws;
+29
+30         (c) Department of Education (DepEd) - shall integrate age-appropriate digital
+31         citizenship, online safety, and responsible social media use into relevant
+32         educational programs and learning initiatives;
+33
+34         (d) Department of Social Welfare and Development (DSWD) - shall assist in the
+35         development of child protection policies, public awareness programs, and
+36         interventions relating to online risks affecting children;
+37
+38         (e) National Youth Commission (NYC) - shall provide policy recommendations and
+39         conduct consultations with youth stakeholders regarding the implementation and
+40         impact of this Act; and
+41
+42         (f) Department of Justice (DOJ) - shall provide legal assistance to implementing
+43         agencies and prosecute violations of this Act whenever criminal liability is imposed
+44         under its provisions.
+ 1
+ 2           The foregoing agencies shall coordinate with one another and may enter into inter-
+ 3   agency agreements, subject to existing laws, rules, and regulations, to ensure the
+ 4   effective implementation of this Act.
+ 5
+ 6          Within ninety (90) days from the effectivity of this Act, the DICT, in consultation
+ 7   with the NPC, DepEd, DSWD, DOJ, NYC, representatives of Covered Social Media Service
+ 8   Providers, child protection organizations, parents' associations, educators, and other
+ 9   relevant stakeholders, shall promulgate the Implementing Rules and Regulations
+10   necessary for the effective implementation of this Act.
+11
+12          SECTION 7. Prohibited Acts - It shall be unlawful for any Covered Social Media
+13   Service Provider to:
+14
+15          (a) fail to take reasonable and proportionate steps to prevent a Child from creating,
+16          registering for, holding, maintaining, or operating a Social Media Account in
+17          violation of this Act;
+18
+19          (b) fail to implement and maintain age assurance measures required under this
+20          Act and its IRR;
+21
+22          (c) knowingly permit the continued operation of a Social Media Account after
+23          becoming aware, or having sufficient basis under system data or verification
+24          indicators to reasonably determine, that such account is held or operated by a
+25          Child;
+26
+27          (d) design, implement, or maintain systems, processes, or features that are
+28          reasonably expected or intended to circumvent or undermine age assurance
+29          measures required under this Act; and
+30
+31          (e) collect, retain, process, disclose, or use personal information obtained for age
+32          assurance purposes beyond what is necessary and proportionate for compliance
+33          with this Act and Republic Act No. 10173 (Data Privacy Act of 2012).
+34
+35           SECTION 8. Penalties - Any Covered Social Media Service Provider found in
+36   violation of this Act shall be subject to the following penalties, without prejudice to civil,
+37   criminal, or administrative liability under existing laws:
+38
+39          (a) Administrative Fines - ₱1,000,000.00 to ₱5,000,000.00 per violation instance,
+40          taking into account the nature, gravity, duration, and number of affected users;
+41
+42          (b) Continuing non-compliance - additional daily fines may be imposed until full
+43          compliance is achieved;
+44
+ 1         (c) Suspension of Operations - in cases of repeated, willful, or gross violations,
+ 2         subject to due process and coordination with the National Telecommunications
+ 3         Commission (NTC);
+ 4
+ 5         (d) Blocking or Restriction - in grave and persistent violations, the DICT may
+ 6         recommend blocking or restriction of access through appropriate regulatory and
+ 7         judicial mechanisms;
+ 8
+ 9         (e) Revocation of Registration - applicable to entities registered with SEC, DTI, or
+10         other agencies, subject to due process; and
+11
+12         (f) Criminal Liability - corporate officers who knowingly, willfully, or through gross
+13         negligence authorize violations shall be liable under applicable special laws.
+14
+15          SECTION 9. Exemptions - This Act shall not apply to the following services,
+16   provided that they do not meet the definition of a Covered Social Media Service under
+17   Section 3 of this Act, and provided further that the determination of coverage shall be
+18   based on the actual functions and features of the service, rather than its stated purpose
+19   or marketing representation:
+20
+21         (a) Educational Platforms - digital services primarily designed and operated for
+22         instructional, academic, training, or educational purposes, where user interaction
+23         is limited to educational or course-related communication, and which do not
+24         principally enable public or semi-public user-generated content sharing,
+25         algorithmic content feeds, or social networking features;
+26
+27         (b) Messaging Services - electronic communication services whose primary
+28         function is the exchange of direct, private, or group messages between identified
+29         users, and which do not principally provide public or semi-public content feeds,
+30         algorithmic recommendation systems, content broadcasting mechanisms, or open-
+31         ended user discovery features;
+32
+33         (c) Government-Designated Child Protection or Educational Platforms - digital
+34         services officially designated by the Department of Information and
+35         Communications Technology (DICT), in coordination with the Department of
+36         Education (DepEd) and the Department of Social Welfare and Development
+37         (DSWD), as primarily serving child protection, educational, or developmental
+38         purposes, pursuant to standards and criteria to be issued in the Implementing
+39         Rules and Regulations.
+40
+41         Provided, that a service otherwise exempted under this Section shall be deemed a
+42   Covered Social Media Service, and shall become subject to this Act, if it introduces,
+43   enables, or materially expands functionalities that allow:
+44
+ 1                 (1) public or semi-public user-generated content sharing;
+ 2
+ 3                 (2) algorithmic content recommendation or ranking systems;
+ 4
+ 5                 (3) social networking, follower-based interaction, or content broadcasting
+ 6                 to undefined audiences.
+ 7
+ 8           Provided further, that the DICT shall have the authority, upon notice and due
+ 9   determination, to reclassify any service as a Covered Social Media Service if its actual
+10   functions and features fall within the scope of this Act, regardless of its stated
+11   classification, branding, or intended use.
+12
+13           SECTION 10. Parental Guidance and Digital Literacy - The State shall
+14   institutionalize and strengthen coordinated programs on digital literacy and online child
+15   safety through the following measures:
+16
+17          (a) Responsible Digital Citizenship Education - The Department of Education
+18          (DepEd) shall integrate age-appropriate modules on responsible internet use,
+19          online safety, digital ethics, and awareness of risks associated with social media
+20          use into the basic education curriculum;
+21
+22          (b) Parental Guidance and Control Awareness - The Department of Information
+23          and Communications Technology (DICT), in coordination with the Department of
+24          Social Welfare and Development (DSWD) and DepEd, shall develop and implement
+25          nationwide information campaigns and training programs to promote the use of
+26          parental control tools, safe internet practices, and informed supervision of
+27          children’s online activities;
+28
+29          (c) School-Based Online Safety Programs - DepEd shall ensure the implementation
+30          of structured school-based programs, seminars, and orientation activities on online
+31          safety, cyber risks, and responsible digital behavior for learners, parents, and
+32          educators;
+33
+34          (d) Multi-Sectoral Collaboration - The DICT, DepEd, DSWD, and other relevant
+35          agencies shall coordinate with local government units, civil society organizations,
+36          and private sector stakeholders in the implementation of digital literacy and online
+37          safety initiatives under this Act.
+38
+39         SECTION 11. Implementing Rules and Regulations - Within ninety (90) days from
+40   the effectivity of this Act, the Department of Information and Communications
+41   Technology (DICT), in consultation with the National Privacy Commission (NPC),
+42   Department of Education (DepEd), Department of Social Welfare and Development
+43   (DSWD), Department of Justice (DOJ), National Telecommunications Commission (NTC),
+44   and other relevant stakeholders from the private sector, civil society, and child protection
+ 1   organizations, shall promulgate the necessary rules and regulations for the effective
+ 2   implementation of this Act.
+ 3
+ 4          Such rules and regulations shall include, among others, standards for age
+ 5   assurance measures, determination of Covered Social Media Services, compliance
+ 6   requirements, enforcement procedures, and reporting obligations.
+ 7
+ 8           SECTION 12. Separability Clause - If any provision of this Act is declared
+ 9   unconstitutional or invalid, the remaining provisions not affected thereby shall remain in
+10   full force and effect.
+11
+12         SECTION 13. Repealing Clause - All laws, executive orders, administrative
+13   issuances, rules and regulations inconsistent with this Act are hereby modified,
+14   superseded, or repealed accordingly.
+15
+16         SECTION 14. Effectivity - This Act shall take effect fifteen (15) days after its
+17   complete publication in the Official Gazette or in a newspaper of general circulation.
+18
+19         Approved,
+
