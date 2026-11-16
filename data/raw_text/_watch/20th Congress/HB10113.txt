@@ -1,0 +1,1964 @@
+                                Republic of the Philippines
+                           HOUSE OF REPRESENTATIVES
+                                   Quezon City                              July 20, 2026
+                             TWENTIETH CONGRESS                               12:18 pm
+                              Second Regular Session
+
+
+                                HOUSE BILL NO. 10113
+                                               ____
+
+
+            Introduced by REP. BERNADETTE “DETTE” G. ESCUDERO
+
+
+                             AN ACT
+      PROVIDING FOR THE REVISED GOVERNMENT AUDITING CODE
+                       OF THE PHILIPPINES
+
+                                EXPLANATORY NOTE
+
+        The Constitution enshrines the principle that public office is a public trust,
+requiring all public officials and employees to serve with accountability, integrity, and
+transparency. Consistent with this mandate, the State must ensure that public funds
+and resources are managed, disbursed, and accounted for prudently. Central to this
+responsibility is the Commission on Audit (COA), the country's supreme audit
+institution, which is constitutionally mandated to examine, audit, and settle all
+accounts pertaining to government revenues, expenditures, and the use of public
+funds and property.
+
+       To operationalize this constitutional mandate, Presidential Decree No. 1445,
+otherwise known as the Government Auditing Code of the Philippines, was enacted in
+1978. While it has served as the principal legal framework for government auditing
+for decades, rapid advances in technology, digital governance, public financial
+management, and international auditing standards have rendered several of its
+provisions outdated and inadequate to address the evolving demands of public
+accountability.
+
+       Recognizing the need for reform, President Ferdinand R. Marcos Jr., in his 2023
+State of the Nation Address, urged Congress to enact a new Government Auditing
+Code "to make auditing more attuned to these changing times." In response, this bill
+seeks to enact the Revised Government Auditing Code of the Philippines.
+
+       The proposed measure modernizes the country's government auditing
+framework by recognizing electronic records and digital government transactions as
+valid subjects of audit and institutionalizing the use of electronic collections, receipts,
+payments, and other digital audit trails. It likewise strengthens the Commission on
+Audit's authority to require the production of records and information necessary for
+the conduct of audits, reinforces compliance with audit recommendations, authorizes
+the adoption of modern audit methodologies, and enhances internal control systems
+
+                                            1
+to safeguard public resources against loss, waste, fraud, and abuse. Ultimately, the
+measure promotes greater efficiency, transparency, accountability, and public trust in
+government institutions.
+
+      In view of the foregoing, the approval of this bill is earnestly sought.
+
+
+
+
+                                  HON. BERNADETTE “DETTE” G. ESCUDERO
+                                               Representative
+                                            1st District, Sorsogon
+
+
+
+
+                                          2
+                                 Republic of the Philippines
+                               HOUSE OF REPRESENTATIVES
+                                       Quezon City
+                                 TWENTIETH CONGRESS
+                                  Second Regular Session
+
+
+                                    HOUSE BILL NO. 10113
+                                                   ____
+
+
+                Introduced by REP. BERNADETTE “DETTE” G. ESCUDERO
+
+
+                                  AN ACT
+           PROVIDING FOR THE REVISED GOVERNMENT AUDITING CODE
+                            OF THE PHILIPPINES
+
+     Be it enacted by the Senate and House of Representatives of the Philippines in
+     Congress assembled:
+ 1                                           TITLE I
+ 2                                   GENERAL PROVISIONS
+
+ 3          SECTION 1. Short Title. This Act shall be known as the "Revised Government
+ 4   Auditing Act."
+ 5
+ 6          SEC. 2. Declaration of Policy. It is the policy of the State that all resources
+ 7   of the government shall be managed, expended, or utilized in accordance with law,
+ 8   rules, and regulations, and safeguarded against loss or wastage through illegal or
+ 9   improper disposition in order to ensure efficiency, economy, and effectiveness in the
+10   operations of government. The responsibility to take care that such policy is faithfully
+11   adhered to rests directly with the chief or head of the government agency concerned.
+12
+13          SEC. 3. Definition of Terms. For purposes of this Act:
+14
+15          (a) Account shall refer to a list or statement of monetary transactions
+16          pertaining to fund, property, obligation, equity, revenue, collection, or expense,
+17          whether or not entered as item/s of debit or credit in the books of accounts,
+18          registry, or any other record;
+19
+20          (b) Accountable Officer shall refer to an officer of any government agency
+21          or instrumentality who, by the nature of duties and responsibilities or
+22          participation in the collection or receipt and expenditure or use of government
+23          funds, custody, and disposal of government property, is required by law or
+24          regulation to render account to the Commission on Audit (COA). This shall
+25          include any public officer or private person or entity who may have participation
+26          in the transaction;
+27
+
+                                                1
+ 1   (c) Advice to Debit Account or ADA shall refer to an authorization issued by
+ 2   the government entity that serves as an instruction to government servicing
+ 3   banks to debit a specified amount from its available account balance for the
+ 4   payment of creditors/payees;
+ 5
+ 6   (d) Aggrieved Party should refer to a person or entity adversely affected by
+ 7   any decision, order, resolution or ruling of the Commission or any of its duly
+ 8   authorized representatives;
+ 9
+10   (e) Appropriation shall refer to an authorization by law, appropriation
+11   ordinance, or other enactments, or the corporate operating budget directing
+12   the payment of Personnel Services (PS), Maintenance and Other Operating
+13   Expenses (MOOE), and capital outlay out of government funds under specified
+14   conditions and/or purposes;
+15
+16   (f) Appeal shall refer to the process of elevating to a higher authority any
+17   decision, order, resolution or ruling of the Commission or any of its duly
+18   authorized representatives;
+19
+20   (g) Audit shall refer to the examination, verification, evaluation and analysis
+21   of the accounts or financial records including evaluation of the effectiveness of
+22   internal control systems; the determination of the government entity's
+23   compliance with applicable laws, rules, and regulations; as well as the
+24   evaluation of the economy, efficiency and effectiveness of management
+25   systems, operations, and programs, activities, or projects (PAPs). It may also
+26   cover other special audits as may be prescribed by the Commission;
+27
+28   (h) Auditor shall refer to any officer or employee of the COA duly appointed
+29   or designated to conduct an audit;
+30
+31   (i) Audit Group shall refer to a cluster of Audit Teams that are grouped
+32   together headed by a Supervising Auditor (SA). The audit group shall plan,
+33   manage, conduct the audit work, and ensure prompt submission of the audit
+34   report;
+35
+36   (j) Audit Decision shall refer to the action of the auditor as a result of the
+37   audit to allow, disallow, or charge a particular transaction;
+38
+39   (k) Audit Report shall refer to the final output of an audit on the accounts,
+40   financial records, systems, and operations of a government entity;
+41
+42   (l) Audit Team shall refer to the basic organizational unit responsible for the
+43   audit of government and non-government entities;
+44
+45   (m) Audit Work Papers refer to the documentation or evidence, either in
+46   physical or electronic form, of the work done and the results thereof, consisting
+47   of relevant or pertinent data, analyses, computations, calculations, notes,
+
+
+                                         2
+ 1   schedules, excerpts, confirmations and other documents or materials gathered,
+ 2   prepared, and compiled in the course of an audit;
+ 3
+ 4   (n) Cash shall refer to money or its equivalent currencies, negotiable checks,
+ 5   or balances in bank accounts or in the possession or custody of a collecting
+ 6   and/or disbursing officer;
+ 7
+ 8   (o) Cash Advances refer to regular or special advances granted to public
+ 9   officers and employees for a public purpose;
+10
+11   (p) Charge shall refer to accountability pertaining to the assessment, appraisal,
+12   or collection of revenues, receipts, and other income such as those arising from
+13   under appraisal, under-assessment or under-collection or failure to collect or
+14   remit collection which is found in the course of audit of revenues or receipts;
+15
+16   (q) COA Order of Execution or COE shall refer to a written instruction to the
+17   head of agency to withhold payment of salary and other money due to persons
+18   liable, for settlement of their liability as indicated in the Notice of Disallowance
+19   or Notice of Charge. It is issued after the issuance of the Notice of Finality of
+20   Decision (NFD);
+21
+22   (r) Cost of Audit Services shall refer to the cost of discharging the audit
+23   function, taking into consideration the nature and complexity of operations, size
+24   of the government entity, and the volume of transactions being audited;
+25
+26   (s) Decision or Resolution shall refer to an adjudication of any case or matter
+27   brought before any authorized official or body in the Commission which shall
+28   embody the facts of the case, the issue/s to be resolved, the ruling, and the
+29   law, regulations, or precedent on which the ruling is based;
+30
+31   (t) Depository shall refer to any financial institution lawfully authorized to
+32   receive the deposit of government moneys;
+33
+34   (u) Direct Electronic Payment or DEP shall refer to an electronic payment
+35   scheme where the payments are made by the government entity itself, using
+36   the intermediary's technology or infrastructure. This includes the use of ADA;
+37
+38   (v) Disallowance shall refer to the disapproval in the audit of a transaction,
+39   either in whole or in part, involving government disbursement or property;
+40
+41   (w) Electronic Collection or e-Collection shall refer to a method or manner
+42   wherein revenue, fees, assessments, or obligations due to the government
+43   entity is being collected using a mechanical device, electronic device, or
+44   computer-based system. The term shall refer to an alternative way of collection
+45   wherein no actual money, check, or any physical note is handed through the
+46   hands of the government entity's collecting officer. This includes the use of an
+47   intermediary in performing the collection function;
+48
+
+                                          3
+ 1   (x) Electronic Payment or e-Payment shall refer to the disbursement of
+ 2   money or equivalent electronic representations of legal tender, for purposes of
+ 3   paying government expenditures, solely through electronic means as opposed
+ 4   to the use of cash, check, or physical notes to accomplish the same. This
+ 5   includes the manner by which an obligation is extinguished by means of
+ 6   sending instruction for the debit of the government entity's account and the
+ 7   corresponding credit to the payee's account. This includes the transfer of funds
+ 8   to the intermediary for the purpose of distribution;
+ 9
+10   (y) Financial Reporting Framework shall refer to a set of accounting
+11   principles, standards, interpretations, and pronouncements that must be
+12   followed in the preparation of the financial statements. It defines how and when
+13   to recognize, measure, present and disclose transactions in the financial
+14   statements. This shall refer to the applicable accounting standards adopted by
+15   the Commission on Audit (COA) as prescribed by the international standards-
+16   setting body;
+17
+18   (z) Government Agency shall refer to any department, bureau, or office of
+19   the national government, or any of its branches and instrumentalities, local
+20   government units (LCDs) and its political subdivision, including entities created
+21   by it, and government corporations, including their subsidiaries;
+22
+23   (aa) Government Funds and Properties refer to public moneys of every
+24   sort and other resources pertaining or accruing to any agency of the
+25   government; including funds transferred to private entities as a subsidy, equity,
+26   donation, grant, or counterpart fund for implementation of PAPs;
+27
+28   (bb) Liability shall refer to either an obligation arising from audit decisions or
+29   from contracts or quasi-contracts;
+30
+31   (cc) Money Claim shall refer to a demand for payment of a sum of money,
+32   reimbursement, or compensation arising from law, contract, or quasi-contract
+33   due from a government agency or owing to a claimant;
+34
+35   (dd) Notice of Finality of Decision (NFD) shall refer to a written notification
+36   addressed to the head of the agency that a decision of the Commission has
+37   become final and executory;
+38
+39   (ee) Persons Liable refer to the persons determined to be answerable for an
+40   audit disallowance, charge, or decision by the Commission;
+41
+42   (ff) Persons Responsible refer to the persons determined to be answerable
+43   for the compliance with the audit requirements as called for in the Notice of
+44   Suspension (NS);
+45
+46   (gg) Programs, Activities, Projects (PAPs) refer to any work progress or
+47   group of work progress undertaken to realize the outputs and outcomes of an
+48   agency. This is represented by an item of appropriation in the national budget;
+
+                                         4
+ 1
+ 2   (hh) Public Officer shall refer to any person holding any public office in the
+ 3   government by virtue of an appointment, election, or contract vested with
+ 4   sovereign functions of the government;
+ 5
+ 6   (ii) Public Purpose shall refer to any purpose or use directly available to the
+ 7   general public as a matter of right. This pertains to those traditionally viewed
+ 8   as essentially government functions such as the building of roads and the
+ 9   delivery of basic services. It may also include those purposes designed to
+10   promote social justice and public interest allowed by the law or jurisprudence;
+11
+12   (jj) Public Utility shall refer to a public service that operates, manages, or
+13   controls for public use any public facility, network and system as enumerated
+14   in Republic Act No. 11659 entitled, "An Act Amending Commonwealth Act No.
+15   146, otherwise known as the Public Service Act, as amended";
+16
+17   (kk) Regular Cash Advances refer to those granted to cashiers, disbursing
+18   officers, paymasters, and/or property/supply officers for any of the following
+19   purposes:
+20
+21          (1) Salaries and wages;
+
+22          (2) Commutable allowances;
+
+23          (3) Honoraria and other similar payments to officials and employees;
+24          and
+
+25          (4) Petty operating expenses, consisting of small payments for
+26          maintenance and operating expenses cannot be paid conveniently paid
+27          by check or are required to be paid immediately;
+
+28   (ll) Revenue shall refer to income or receipts derived by a government agency
+29   from taxes, excise, custom duties, fees, royalties, rents, sale of goods or
+30   services, sale of assets and collections from other sources;
+31
+32   (mm) Settlement of Liability refer to the payment, restitution, or other act
+33   of extinguishing an obligation as provided by law in satisfaction of the liability
+34   under a Notice of Disallowance or Notice of Charge (ND/NC) or in compliance
+35   with the requirements of a Notice of Suspension (NS);
+36
+37   (nn) Settlement of Accounts shall refer to the process of determining the
+38   status or balance of the account of an accountable officer after audit and
+39   examination;
+40
+41   (oo) Settled Account shall refer to a transaction which after audit does not
+42   result to any adverse audit decision;
+43
+
+
+
+                                         5
+ 1         (pp) Special Cash Advances refer to those granted on the explicit authority
+ 2         of the Head of the Agency only to duly designated disbursing officers or
+ 3         employees for 24 other legally authorized purposes, as follows:
+ 4
+ 5               (1) Current operating expenditures of the agency field office or of the
+ 6               activity of the agency undertaken in the field when it is impractical to
+ 7               pay to the same by check, such as - (a) salaries, wages and allowances;
+ 8               (b) maintenance and other operating expenses; and
+
+ 9               (2) Travel Expenditures, including transportation fare, travel allowance,
+10               hotel room/lodging expenses and other expenses incurred by the
+11               officials and employees in connection with official travel;
+12
+13         (qq) Statement of Internal Control (SIC) shall refer to the representation
+14         of the head of the agency's informed judgment as to the overall adequacy and
+15         effectiveness of internal control within the agency related to compliance,
+16         reporting, and operations;
+17
+18         (rr) Suspension shall refer to a temporary disallowance of a transaction or
+19         accounts which appear illegal or improper or irregular unless satisfactorily
+20         explained or justified by the persons responsible or until the requirements on
+21         matters raised in the course of audit are submitted or complied with;
+22
+23         (ss) Trust Funds refer to funds which, by operation of law or by contract which
+24         are officially in the possession of any government agency or of a public officer
+25         as trustee, agent, or administrator, which are for the fulfillment of certain
+26         obligations or a specific purpose; and
+27
+28         (tt) Transfer-Distribute-Liquidate (TDL) shall refer to an e-Payment
+29         scheme where the government entity's funds are first transferred to the
+30         intermediary's possession and control, which the latter thereafter uses to
+31         distribute payments to the intended payees of the principal government entity.
+32
+33
+34         SEC. 4. Fundamental Principles. Financial transactions and operations of
+35   any government agency shall be governed by the fundamental principles set forth
+36   hereunder:
+37
+38         (a) No money shall be paid out of any public treasury or depository except in
+39         pursuance of an appropriation law, appropriation ordinance, or other specific
+40         statutory authority, or a Department of Budget and Management (DBM)-
+41         approved corporate operating budget;
+42
+43         (b) Government funds or property shall be spent or used solely for public
+44         purposes;
+45
+46         (c) Trust funds shall be spent only for the specific purpose for which the trust
+47         was created, or the funds received;
+
+                                              6
+ 1
+ 2         (d) Fiscal responsibility shall, to the greatest extent, be shared by all those
+ 3         exercising authority over the financial affairs, transactions, and operations of
+ 4         the government agency;
+ 5
+ 6         (e) Disbursements or disposition of government funds or property shall be
+ 7         approved by the proper official of the government agency;
+ 8
+ 9         (f) Claims against government funds shall be properly authorized and supported
+10         with the complete required documentation;
+11
+12         (g) All laws, rules, and regulations applicable to financial transactions shall be
+13         faithfully adhered to; and
+14
+15         (h) Applicable financial reporting framework adopted by the Commission, as
+16         prescribed by international standards-setting body, as well as sound
+17         management and fiscal administration, shall be observed: Provided, that the
+18         same do not contravene existing laws, rules, and regulations.
+19
+20
+21                                          TITLE II
+22                                        CHAPTER I
+23                                      ORGANIZATION
+
+24          SEC. 5. Composition of the Commission on Audit, Qualifications, Term
+25   and Salary of Members. The Commission shall be headed by a Chairperson and
+26   two (2) Commissioners, who shall be natural-born citizens of the Philippines and, at
+27   the time of their appointment, at least thirty-five (35) years of age, either certified
+28   public accountants with at least ten (10) years of auditing experience, or members of
+29   the Philippine Bar who have been engaged in the practice of law for at least ten (10)
+30   years, and must not have been candidates for any elective position in the elections
+31   immediately preceding their appointment. At no time shall all Members of the
+32   Commission belong to the same profession.
+33
+34          The Chairperson and the Commissioners shall be appointed by the President of
+35   the Philippines, subject to the confirmation of the Commission on Appointments, for a
+36   term of seven (7) years without reappointment. Appointment to any vacancy shall be
+37   only for the unexpired portion of the term of the predecessor. In no case shall any
+38   member be appointed or designated in a temporary or acting capacity.
+39
+40         In case of vacancy pending the appointment of a Chairperson, the senior
+41   member, as to appointment, shall perform the functions of the Chairperson until a
+42   new one is appointed and assumes office.
+43
+44          No member of the Commission shall, during their tenure, hold any other office
+45   or employment in the government. They shall neither be in the practice of any
+46   profession or in the active management or control of any business which in any way
+
+                                               7
+ 1   may affect their functions as members of the Commission, nor shall they be financially
+ 2   interested, directly or indirectly, in any contract with, or in any franchise or privilege
+ 3   granted by the national government, any of its political subdivisions, agencies or
+ 4   instrumentalities, including government-owned or controlled corporations and their
+ 5   subsidiaries.
+ 6
+ 7          The salary of the Chairperson and the Commissioners shall be fixed by law and
+ 8   shall not be decreased during their tenure.
+ 9
+10          SEC. 6. The Commission Proper. The Commission Proper shall be composed
+11   of the Chairperson and two (2) Commissioners sitting as a collegial body to discharge
+12   the powers and functions of the Commission.
+13
+14          SEC. 7. Functions of the Commission Proper. The Commission Proper shall
+15   exercise the following powers and functions:
+16
+17          (a) Promulgate auditing rules and regulations for the determination of the
+18          scope and type of audit and examination by the Commission, establish the
+19          techniques and methods required therefor, including those for the prevention
+20          and disallowance of illegal, irregular, unnecessary, excessive, extravagant, or
+21          unconscionable expenditures or uses of government funds or property;
+22
+23          (b) Promulgate accounting and auditing policies, rules, and regulations, and
+24          authorize the adoption of the international accounting and auditing standards
+25          prescribed by the international standards-setting body;
+26
+27          (c) Promulgate its own rules concerning pleadings and practices filed before
+28          the Commission or any of its offices: Provided, that the rules to be promulgated
+29          by the Commission Proper shall not diminish, increase, or modify substantive
+30          rights;
+31
+32          (d) Decide by a majority vote of all its members any case or matter brought
+33          before the Commission;
+34
+35          (e) Appoint the officials and employees of the Commission in accordance with
+36          the Civil Service laws, rules, and regulations. For the Regional Offices,
+37          appointments to rank-and-file positions may be delegated by the Commission
+38          Proper to the Directors concerned. The Commission Proper shall formulate the
+39          appropriate guidelines for this purpose;
+40
+41          (f) Exercise original and concurrent jurisdiction over administrative cases filed
+42          against COA personnel;
+43
+44          (g) Recommend to Congress its retirement benefits system pursuant to its fiscal
+45          autonomy;
+46
+47          (h) Restructure, when necessary, the organizational structure of the
+48          Commission, create new positions, transfer items, or make adjustments in the
+
+                                                 8
+ 1         Personnel Services Itemization in accordance with the organization, staffing
+ 2         and position classification standards of the DBM;
+ 3         (i) Authorize the conduct of special audits including re-opening of settled
+ 4         accounts in case of fraud, collusion, or error of calculation or when new and
+ 5         material evidence is discovered, and other investigations as may be prescribed
+ 6         by the rules of the Commission; and
+ 7
+ 8         (j) Perform such other functions as may be provided by law.
+ 9
+10          SEC. 8. Duties and Responsibilities of the Chairperson. The Chairperson
+11   shall be the presiding officer of the Commission Proper and chief executive officer of
+12   the Commission. As chief executive officer, the Chairperson shall perform the following
+13   duties and responsibilities:
+14
+15         (a) Control and supervise the general administration of the Commission;
+16
+17         (b) Direct and manage the implementation and execution of policies, standards,
+18         rules, and regulations promulgated by the Commission Proper;
+19
+20         (c) Sign appointments for recruitment and promotions, and office orders for
+21         Audit engagements, assignment/reassignment of officials and employees, or
+22         any other personnel movement of any office or station;
+23
+24         (d) Delegate to the Commissioners, Assistant Commissioners, Directors, and
+25         other officials of the Commission such authority over administrative matters
+26         concerning personnel, planning, financial, legal, and other administrative
+27         concerns with their respective functional areas as may be determined by the
+28         Commission Proper;
+29
+30         (e) Submit a proposed annual or supplemental budget of the Commission to
+31         the DBM for approval of the Congress;
+32
+33         (f) Summon any person or public official for the purpose of gathering data or
+34         inquiring into matters pertinent to the formulation, implementation or
+35         enforcement of any order, decision, policy, standard, or regulation of the
+36         Commission Proper;
+37
+38         (g) Designate appropriate official as the chairperson of the Public Sector
+39         Accounting Standards Board and the Public Sector Auditing Standards Board;
+40         and
+41
+42         (h) Perform such other functions as may be required by law or policy of the
+43         Commission.
+44
+45          SEC. 9. Duties and Responsibilities of the Commissioners. The following
+46   are the duties and responsibilities of the Commissioners:
+47
+
+
+                                               9
+ 1          (a) Participate in the proceedings of the Commission Proper in the discharge of
+ 2          its powers and functions; and
+ 3          (b) Perform such other functions as may be provided by law, rules, regulations,
+ 4          or policies of the Commission.
+ 5
+ 6          SEC. 10. Duties and Responsibilities of the Assistant Commissioners.
+ 7   The following are the duties and responsibilities of the Assistant Commissioners:
+ 8
+ 9          (a) Formulate, develop, update, and supervise the implementation of the
+10          operational plan and performance commitment of the Sector headed which are
+11          aligned with the Commission's strategic plan;
+12
+13          (b) Supervise the general administration of offices under the jurisdiction of the
+14          Assistant Commissioner;
+15
+16          (c) Serve as a member of an Assistant Commissioners Group which shall work
+17          as a collegial body to study, review, and recommend policies, rules, and
+18          regulations for consideration by the Commission Proper or the COA
+19          Chairperson; and
+20
+21          (d) Perform such other functions as may be assigned.
+22
+23          SEC. 11. The General Counsel. The Assistant Commissioner of the Legal
+24   Services Sector shall be the General Counsel of the Commission.
+25
+26           SEC. 12. The Central and Regional Offices. The operations of the
+27   Commission under Section 16 of this Act shall be further carried out by the various
+28   offices under each Sector in the Central and Regional Offices. Each regional office shall
+29   be headed by a regional director with a rank of Director IV. All offices under the audit
+30   sectors shall supervise their respective audit groups and audit teams.
+31
+32          The COA Regional Offices shall serve as representatives of the Commission in
+33   the regions under the direct control and supervision of the Assistant Commissioner of
+34   Local Government Audit Sector (LGAS).
+35
+36         SEC. 13. Duties and Responsibilities of the Commission Secretary. The
+37   Commission Secretary shall have the rank of a Director IV who shall provide secretariat
+38   and administrative support to the CP.
+39
+40          SEC. 14. Duties and Responsibilities of the Chief Executive Staff. The
+41   Chief Executive Staff in the Office of the Chairperson shall have the rank of an
+42   Assistant Commissioner who shall be responsible for the general administration and
+43   supervision of the offices under it.
+44
+45         SEC. 15. Duties and Responsibilities of the Directors. The Directors of
+46   the Commission shall have the following duties and responsibilities:
+47
+
+
+                                                10
+ 1         (a) Formulate, develop, and supervise the implementation of the annual
+ 2         operational plan, in accordance with the Commission's strategic plan;
+ 3
+ 4         (b) Manage the administrative operations of their office;
+ 5
+ 6         (c) Implement and execute laws, policies, standards, and rules and regulations
+ 7         promulgated by the Commission or the Chairperson;
+ 8
+ 9         (d) Submit annual performance report and other reports as directed by the
+10         Commission Proper or the Chairperson;
+11
+12         (e) Adjudicate on cases within their jurisdiction;
+13
+14         (f) Publish audit reports in the website of the Commission; and
+15
+16         (g) Perform other functions that may be assigned by higher and competent
+17         authority;
+18
+19   The Commission may add or limit the duties and responsibilities of the officers and
+20   employees.
+21
+22          SEC. 16. Operations of the Commission. The operations of the Commission
+23   shall be undertaken through the following sectors which shall each be headed by an
+24   Assistant Commissioner who shall exercise supervision over various offices under it:
+25
+26         (a) Local Government Audit Sector (LGAS) shall be responsible for the audit of
+27         LGUs;
+28
+29         (b) National Government Audit Sector (NGAS) shall be responsible for the audit
+30         of NGAs;
+31
+32         (c) Corporate Government Audit Sector (CGAS) shall be responsible for the
+33         audit of government-owned or -controlled corporations;
+34
+35         (d) Special Audit Services Sector (SASS) shall be responsible for the conduct of
+36         performance audit; fraud audit; and special audit of account of public utilities,
+37         private entities to which government funds have been transferred in the form
+38         of subsidy, equity, donation, grants, or counterpart funds, franchise grantees,
+39         payment of levies or government shares, PPP projects, and the like;
+40
+41         (e) Systems and Technical Audit Services Sector (STASS) shall be responsible
+42         for technical audit and conduct of other technical-related services; audit of
+43         information technology and systems and conduct of other services related to
+44         information and communications technology resources and services of
+45         government agencies; and assessment of conformance of internal audit service
+46         or unit of government agencies with the prescribed internal auditing standards
+47         and providing assistance pertaining to the internal control systems of
+48         government agencies;
+
+                                               11
+ 1
+ 2          (f) Government Accountancy Sector (GAS) shall be responsible for the keeping
+ 3          of the general accounts of the government, preparation and submission of
+ 4          Annual Financial Reports and other financial reports, and providing technical
+ 5          assistance pertaining to accounting and financial management;
+ 6          recommendation on the adoption and implementation of accounting standards,
+ 7          policies, rules, and regulations;
+ 8
+ 9          (g) Legal Services Sector (LSS) shall be responsible for rendering legal opinions
+10          and legal services; review of legal retainers and other contracts, and COA
+11          issuances; preparation of comments on proposed congressional bills and
+12          issuances of government agencies; conduct of formal hearing and drafting of
+13          decisions on administrative cases; enforcement of COA decisions; assistance in
+14          the prosecution and litigation of cases involving COA and its personnel acting
+15          as witnesses, including preparation of pertinent comments and pleadings;
+16          coordination with the Office of the Solicitor General (OSG), Office of the
+17          Ombudsman (0MB) and other agencies pertaining to cases involving COA; legal
+18          assistance to COA personnel subjected to harassment suits;
+19
+20          (h) Commission Proper Adjudication Sector (CPAS) shall be responsible for
+21          drafting of decisions or resolutions for consideration of the Commission Proper;
+22
+23          (i) Planning, Finance and Management Sector (PFMS) shall be responsible for
+24          the formulation of long-range and annual plans and programs of the
+25          Commission; providing budget services to the Commission; and formulation,
+26          recommendation, and implementation of policies on the processing of claims,
+27          assessment of cost of audit services, and personnel payroll management;
+28
+29          (j) Administration Sector (AS) shall be responsible for the development and
+30          maintenance of the information system of the Commission, and human
+31          resources management program; and providing general administrative services
+32          and support to the Commission; and
+33
+34          (k) Professional and Institutional Development Sector shall be responsible for
+35          the formulation, recommendation, and implementation of policies and
+36          programs on learning and development of personnel of the Commission; and
+37          providing capacity building of other government agencies' personnel pertaining
+38          to accounting and auditing matters.
+39
+40   The Commission Proper may effect changes in the organization and functions of the
+41   Commission as it may deem necessary in the exercise of its fiscal autonomy in order
+42   to carry out its constitutional mandate.
+43
+44          SEC. 17. Legal Assistance to Current and Former Officials and
+45   Employees. Current and former COA officials and employees are authorized to
+46   engage the services of private lawyers for a fee on cases filed against them in relation
+47   to the performance of their official functions in accordance with the guidelines issued
+48   by the Commission Proper.
+
+                                               12
+ 1
+ 2          For this purpose, the Commission shall provide a legal assistance fund to be
+ 3   included in its annual appropriation.
+ 4
+ 5         SEC. 18. Professionalization of Audit Services. The Commission shall
+ 6   develop, adopt, and implement a competency-based capacity building and continuing
+ 7   education.
+ 8
+ 9          It shall participate and support the activities of international professional
+10   organizations such as the International Organization of Supreme Audit Institutions
+11   (INTOSAI), Asian Organization of Supreme Audit Institutions (ASOSAI), ASEAN
+12   Supreme Audit Institutions (ASEANSAI), and other supreme audit institutions.
+13
+14         For this purpose, the capacity building shall include courses on accounting
+15   standards, rules, and regulations relevant to auditing services.
+16
+17          SEC. 19. Professionalization of Accounting and Other Services. For
+18   accounting services, the Commission shall conduct capacity building in coordination
+19   with international professional bodies on accounting services such as the International
+20   Public Sector Accounting Standards Board (IPSASB), Financial and Sustainability
+21   Reporting Standards Council (FSRSC), and other international professional bodies
+22   relevant to accounting services.
+23
+24          The Commission shall likewise provide similar capacity building for other
+25   services.
+26
+27          SEC. 20. Fiscal Autonomy. The Commission shall enjoy fiscal autonomy and
+28   its approved annual appropriation shall be automatically and regularly released. The
+29   Chairperson of the COA shall be authorized to augment any item in the general
+30   appropriations for the Commission from savings in any item in the same appropriation,
+31   and to retain any savings realized from its approved budget under the General
+32   Appropriations Act (GAA) until the same is fully spent.
+33
+34        SEC. 21. Statement of Objectives. In keeping with its constitutional
+35   mandate, the Commission adheres to the following objectives:
+36
+37         (a) Determine whether the fiscal responsibility which rests directly with the
+38         head of the government agency has been properly, efficiently, and effectively
+39         discharged;
+40
+41         (b) Develop and implement a comprehensive audit plan that shall encompass
+42         the examination of financial and non-financial transactions, accounts, and
+43         reports, including evaluation of the internal control system of the agency;
+44
+45         (c) Institute control measures through the promulgation of auditing and
+46         accounting rules and regulations governing the revenue, receipts,
+47         disbursements, and uses of funds and properties, including audit of projects
+48         under Public-Private Partnership (PPP) agreements or the like, fund transfers
+
+                                               13
+ 1          to non-government organizations (NGOs), peoples' organizations (POs) or
+ 2          other private entities for specific purpose;
+ 3
+ 4          (d) Promulgate accounting and auditing rules and regulations to facilitate the
+ 5          keeping of the accounts of the Government and enhance their information
+ 6          value;
+ 7
+ 8          (e) Institute measures designed to preserve and ensure the independence of
+ 9          the Commission, ensure transparency and accountability in government
+10          operations, and promote service excellence and quality in all aspects of its
+11          work; and
+12
+13          (f) Bring its operations closer to the people by the delegation of authority
+14          through decentralization and participatory governance, consistent with the
+15          provision of the Constitution.
+16
+17          SEC. 22. General Jurisdiction. Pursuant to Section 2 (1), Article IX (D) of
+18   the 1987 Constitution, the Commission shall have the power, authority, and duty to
+19   examine, audit and settle all accounts pertaining to the revenues and receipts of, and
+20   expenditures or uses of funds and property, owned or held in trust by, or pertaining
+21   to the Government, or any of its subdivisions, agencies, or instrumentalities, including
+22   government corporations, and on a post-audit basis:
+23
+24          (a) Constitutional bodies, commissions and offices that have been granted fiscal
+25          autonomy under the Constitution;
+26
+27          (b) Autonomous state colleges and universities;
+28
+29          (c) Other government corporations and their subsidiaries; and
+30
+31          (d) Such non-governmental entities receiving subsidy or equity directly or
+32          indirectly, from or through the government, which are required by law or the
+33          granting institution to submit to such audit as a condition of subsidy or equity.
+34
+35          However, where the internal control system of the audited agencies is
+36   inadequate, the Commission may adopt such measures, including temporary or special
+37   pre-audit, as are necessary and appropriate to correct the deficiencies. It shall keep
+38   the general accounts of the government, and for such period as may be provided by
+39   law, preserve the vouchers and other supporting papers pertaining thereto.
+40
+41          The Commission, under Section 2 (2), Article IX (D) of the 1987 Philippine
+42   Constitution, shall have exclusive authority subject to the limitations in Article IX of
+43   the Constitution, to define the scope of its audit and examination, establish the
+44   techniques and methods required therefor, and promulgate accounting and auditing
+45   rules and regulations including those for the prevention and disallowance of irregular,
+46   unnecessary, excessive, extravagant, or unconscionable expenditures, or uses of
+47   government funds and properties.
+48
+
+                                               14
+ 1           SEC. 23. Examining Authority. The Commission shall have authority to
+ 2   examine in the course of audit, books, papers, documents pertaining to the income of
+ 3   individuals and corporations in connection with government revenue collection
+ 4   operations, for the purpose of ascertaining that all revenues determined to be
+ 5   collectible and due the Government have actually been collected.
+ 6
+ 7         SEC. 24. Limited Jurisdiction over Private Entities. The Commission shall
+ 8   have authority to examine and audit the books and records of private entities in
+ 9   connection with their contracts, agreements, or dealings with the government for
+10   which they:
+11
+12          (i) received subsidies, counterpart funding, government equity, donation or
+13          grant, fund transfer;
+14
+15          (ii) were allowed to use government properties or facilities; and/or
+16
+17          (iii) were required to pay revenue share such as, but not limited, to levy,
+18          franchise fees, income share, or other forms.
+19
+20          SEC. 25. Authority to Examine Accounts of Public Utilities. The
+21   Commission may conduct a special audit of the books, records, and accounts of all
+22   public utilities for the purpose of determining reasonableness of rates charged to the
+23   public, or in relation to the proceedings of the proper regulatory agencies for purposes
+24   of determining franchise taxes and other fees. The Commission shall issue the audit
+25   guidelines to implement this provision.
+26
+27          SEC. 26. Authority to Examine PPP Accounts. The Commission may
+28   conduct a special audit of the books, records, and accounts of non-government entities
+29   which have contracts with the government under a PPP Agreement or any of its
+30   variants, as regards to the determination of the following:
+31
+32          (a) Existence of value-for-money in procurement through PPP;
+33
+34          (b) Compliance with the terms and conditions of the contract or agreement;
+35
+36          (c) Reasonableness of the sharing of the risks and rewards between the private
+37          sector and the government; or
+38
+39          (d) Absence of disadvantage to the government in the agreement relating to
+40          the operation, maintenance and handover of the public infrastructure or
+41          project.
+42
+43          SEC. 27. Deputization of Government Licensed Professionals or
+44   Experts to Assist Government Auditors. The Commission Proper may, when the
+45   exigencies of the service so require, deputize, and retain in the name of the
+46   Commission such certified public accountants and other government licensed
+47   professionals or experts as it may deem necessary, to assist its auditors in undertaking
+48   specialized audit engagements.
+
+                                               15
+ 1
+ 2          The deputized professionals or experts shall be entitled to such compensation
+ 3   and allowances as may be stipulated in the contract, subject to pertinent rules and
+ 4   regulations on compensation and fees.
+ 5
+ 6          The Commission Proper shall issue guidelines in contracting deputized
+ 7   professionals or experts referred to in this section.
+ 8
+ 9          SEC. 28. Participation of Civil Society Organizations in the Conduct of
+10   Audit. The COA Chairperson may deputize duly accredited Civil Society Organizations
+11   (CSOs) in the conduct of audit to help auditors in the ocular inspection, validation,
+12   evaluation, collection of data or information, and monitoring of projects located in
+13   remote and critical areas to enhance credibility, accountability, and transparency in
+14   audit processes.
+15
+16          SEC. 29. Prohibition of Person or Entity from Rendering Auditing and
+17   Related Services to Government Entities. No person or entity shall enter into a
+18   contract to render accounting or auditing related services for a fee to any government
+19   agency or conduct seminars or workshops on accounting and auditing for government
+20   personnel on these topics without clearance from COA to enable it to determine if it
+21   has the resources and capability to undertake the same. Should the Commission
+22   decide not to undertake the study or service, it shall nonetheless have the power to
+23   review the proposed contract in order to determine the necessity, capability or
+24   expertise of the private party and the reasonableness of its fees.
+25
+26          Any contract entered into without the approval of the Commission shall be
+27   considered null and void and the related expenditures incurred thereon shall be
+28   disallowed in audit and become the personal liability of the officials concerned.
+29
+30          SEC. 30. Government Contracts for the Hiring of a Private Lawyer or
+31   Law Firm to Handle Legal Cases or Render Legal Services to Government
+32   Agencies. No contract involving public funds shall be entered into for the services of
+33   a private lawyer or law firm to represent government agencies in court or to render
+34   legal services for them. If hiring of such legal services cannot be avoided, or is justified
+35   under extraordinary or exceptional circumstances, the written conformity and
+36   acquiescence or clearance of the OSG or the Office of the Government Corporate
+37   Counsel (OGCC), as the case may be, and the written concurrence of the COA shall
+38   first be secured before the engagement of a private lawyer or law firm, unless
+39   exempted under the rules of the Commission.
+40
+41          In the absence of above-stated requirements, any payment thereof shall be
+42   disallowed in audit and the same shall be the personal liability of the officials
+43   concerned.
+44
+45         SEC. 31. Prohibition of Private Foundations and Entities to Use the
+46   Name and Resources of the Government to Solicit and/or Receive
+47   Donations, Grants, Financial Assistance from Private Domestic and
+48   International Donors. Private foundations and entities organized and managed by
+
+                                                 16
+ 1   government officials and employees are prohibited from using the name, resources,
+ 2   insignia, or logo of a government agency for whatever enterprise to solicit and/or
+ 3   receive donations, grants, financial assistance from the public or other donors.
+ 4
+ 5           Any violation of the preceding paragraph shall subject the said foundation or
+ 6   entity to special audit by the Commission as if the funds so received are public funds
+ 7   which should be recognized in the books of the concerned government agency.
+ 8   Refusal to submit itself to such audit shall constitute an offense punishable under
+ 9   Section 101 of this Act.
+10
+11          SEC. 32. Prevention of Illegal, Irregular, Unnecessary, Excessive,
+12   Extravagant or Unconscionable Expenditures or Uses of Government Funds
+13   of Property; Power to Disallow such Expenditures. The Commission shall
+14   promulgate accounting and auditing rules and regulations for the prevention and
+15   disallowance of illegal, irregular, unnecessary, excessive, extravagant, or
+16   unconscionable expenditures or uses of government funds or property. Any violation
+17   of such rules and regulations shall be a ground for disallowance without prejudice to
+18   administrative, civil and/or criminal sanctions against the persons liable therefor.
+19
+20          SEC. 33. Settlement of Accounts Between Agencies. The Commission
+21   shall have the exclusive power, under such regulations as it may prescribe, to
+22   authorize and enforce the settlement of accounts subsisting between agencies of the
+23   government.
+24
+25           SEC. 34. Collection of Indebtedness Due to the Government. The
+26   Commission, through proper channels, may assist in the collection and enforcement
+27   of all debts and claims and the restitution of all funds or the replacement or payment
+28   to the government of any government property lost or destroyed.
+29
+30          SEC. 35. Power to Adjudicate Money Claims Against the Government.
+31   The Commission shall have the power to adjudicate money claims filed against the
+32   government or any of its subdivisions, agencies, and instrumentalities in relation to
+33   liquidated claims and quantum meruit cases. Unliquidated money claims against the
+34   government shall be filed before the proper courts, tribunals, and other adjudicative
+35   bodies.
+36
+37         Liquidated claims refer to those determined or readily determinable from
+38   vouchers, invoices, and such other papers within reach of accounting officers.
+39
+40          When the Commission is in the exercise of its power to execute judgments on
+41   money claims, the Commission shall, at all times, respect the principle of immutability
+42   of judgments.
+43
+44          SEC. 36. Power to Compromise Claims. When the interest of the
+45   Government so requires, the Commission Proper may compromise or release in whole
+46   or in part, any settled claim or liability to any government agency not exceeding Ten
+47   million pesos (P10,000,000.00) arising out of any matter or case before the
+48   Commission or within its jurisdiction. In case the claim or liability exceeds Ten million
+
+                                                17
+ 1   pesos (P10,000,000.00), the Commission shall submit with its recommendations, the
+ 2   application for relief to Congress.
+ 3
+ 4          The respective governing bodies of government corporations and self
+ 5   governing boards, commissions or agencies of the government shall have the authority
+ 6   to condone, compromise or release any similar claim or liability when expressly
+ 7   authorized by their charters, subject to timely review and post-audit by the
+ 8   Commission. When their charters do not so provide, the power to condone or
+ 9   compromise shall be exercised exclusively by the Commission in accordance with the
+10   preceding paragraph.
+11
+12           SEC. 37. Satisfaction of Indebtedness Arising from Final and
+13   Executory Audit Decisions. When any person or entity is indebted to any
+14   government agency by reason of a final and executory audit decision, the Commission
+15   shall direct the head of agency to withhold the salary or any money due to such entity
+16   or person liable or from the estate, in satisfaction of the indebtedness under the said
+17   decision.
+18
+19          In case the money due is not sufficient or there is no such money due to the
+20   entity or person liable to satisfy the indebtedness from the final and executory audit
+21   decision, the Commission shall have the power to levy property or garnish bank
+22   accounts to the extent of the unpaid balance.
+23
+24          Failure on the part of the head of agency concerned to comply with the
+25   preceding paragraphs shall make the head of agency personally liable without
+26   prejudice to administrative action that may be filed for neglect of duty.
+27
+28          SEC. 38. Authority to Require Submission of Documents Relative to
+29   Government Transactions. The Commission shall have the power to require the
+30   submission of the original, in whatever form, of any order, deed, contract, or other
+31   document under which any collection of, or payment from, government funds may be
+32   made, together with any certificate, receipt, or other evidence in connection therewith.
+33   If an authenticated copy is needed for record purposes, the copy shall upon demand
+34   be furnished.
+35
+36          In the case of deeds to property purchased by any government agency, the
+37   Commission shall require a certificate of title entered in favor of the government or
+38   other evidence satisfactory to it that the title is in the name of the government.
+39
+40         It shall be the duty of the officials or employees concerned, including those in
+41   non-government entities under audit, or affected in the audit of government and non-
+42   government entities, to comply promptly with these requirements.
+43
+44          SEC. 39. Investigatory and Inquisitorial Powers; Power to Punish for
+45   Contempt. The Chairperson, and other officials and employees specially deputized in
+46   writing for the purpose by the Chairperson shall, in compliance with the requirement
+47   of due process, have the power to summon the parties to a case brought before the
+48   Commission for resolution, issue subpoena and subpoena duces tecum, administer
+
+                                               18
+ 1   oaths, and otherwise take testimony in any investigation or inquiry on any matter
+ 2   within the jurisdiction of the Commission.
+ 3
+ 4          The Commission shall have the power to punish for contempt as provided for
+ 5   in the Revised Rules of Court and the Revised Rules of Procedure of the COA, under
+ 6   the same procedure and with the same penalties provided therein. Any violation of
+ 7   any final and executory decision, order or ruling of the Commission shall constitute
+ 8   indirect contempt.
+ 9
+10          SEC. 40. Annual Financial Report of the Commission. The Commission
+11   shall submit to the President and the Congress of the Philippines not later than the
+12   last day of October of each year an annual report on the financial condition and results
+13   of operation of all government agencies, which shall include recommendations of
+14   measures necessary to improve the economy, efficiency, and effectiveness of these
+15   agencies.
+16
+17         To carry out the purpose of this section, the Chief Accountant or the official in
+18   charge of keeping the accounts of the government agency shall submit to the
+19   Commission, year-end financial statements and such other supporting or subsidiary
+20   statements as may be required by the Commission not later than the 31st day of
+21   March of each year. Financial statements returned by the Commission for revision due
+22   to non-compliance with accounting standards, rules and regulations shall be
+23   resubmitted within five (5) working days after the date of receipt by the official
+24   concerned.
+25
+26         SEC. 41. Annual Report on Appropriations, Allotments, Obligations
+27   and Disbursements, Including Off-Budgetary Funds and Trust Receipts.
+28   Within one hundred twenty (120) days after the end of every fiscal year, the
+29   Commission shall submit to the President and the Congress of the Philippines an
+30   annual report on appropriations, allotments, obligations and disbursements of national
+31   government agencies and government corporations maintaining Special Accounts in
+32   the General Fund and receiving budgetary support from the government.
+33
+34         For the purpose stated in this section, agencies are required to submit financial
+35   accountability reports to this Commission in compliance with the pertinent sections of
+36   the General Provisions of the GAA and Republic Act No. 7226.
+37
+38         SEC. 42. Powers, Functions, and Duties of Auditors. The following are
+39   the powers, functions, and duties of auditors as representatives of the Commission:
+40
+41          (a) Exercise such powers and functions as may be authorized by the
+42          Commission in the examination of cash and accounts of accountable officers;
+43          conduct financial, compliance, performance, and other special audits; settle
+44          accounts of the agencies under the respective audit jurisdiction;
+45
+46          (b) Submit an audit report on the date and in the manner prescribed by the
+47          Commission and render such other reports as the Commission may require
+48
+
+                                               19
+ 1          (c) For transactions subject of Audit Observation Memorandum (AOM), NS, ND,
+ 2          NC, complaint or a pending audit or investigation or court case, retain custody
+ 3          and be responsible for the safekeeping and preservation of paid expense
+ 4          vouchers, journal entry vouchers, stubs of checks, reports of collections and
+ 5          disbursements, and similar documents together with their respective
+ 6          supporting papers, until the final disposition thereof. The Commission shall
+ 7          prescribe the manner for preservation of these audit or legal evidence;
+ 8
+ 9          (d) Retain a digital copy of the audited vouchers and supporting papers, official
+10          receipts, and other documents or reports upon turnover or return of the
+11          originals to the auditee for safekeeping and preservation in accordance with
+12          the guidelines promulgated by the Commission Proper;
+13
+14          (e) Act as witness in proceedings before the courts, the 0MB, and other quasi-
+15          judicial bodies; and
+16
+17          (f) Perform such other functions as may be assigned to them by the
+18          Commission.
+19
+20           SEC. 43. Examination of Cash and Accounts of Accountable Officer.
+21   The cashbooks, accounts, papers, and cash in the accountability of an accountable
+22   officer shall be opened at all times to audit and examination of the Commission and
+23   its duly authorized representatives.
+24
+25          In case an examination of the cash and accounts of an accountable officer
+26   discloses a shortage, it shall be the duty of the auditor to immediately demand in
+27   writing the restitution of the shortage and notify in writing the head of the government
+28   agency concerned of said shortage in accordance with the regulations of the
+29   Commission. The head of the agency may immediately relieve the accountable officer
+30   and assign another officer to assume the former's duties and responsibilities. A
+31   complete report on the cash examination of the accounts of the accountable officer
+32   with cash shortage shall immediately be submitted by the auditor to the Director
+33   concerned for purposes of referral to the 0MB for investigation and filing of the
+34   appropriate administrative and/or criminal case against the said defalcating
+35   accountable officer, as the evidence may warrant.
+36
+37         The auditor shall, at all times, be regarded as a witness only in cases filed
+38   before the 0MB and the regular courts and in no case shall be named as the
+39   complainant thereof.
+40
+41          SEC. 44. Withholding of Salaries and Other Emoluments of
+42   Accountable Officers. Whenever an accountable officer has been found short of
+43   any accountability during cash examination or audit and after failure to explain
+44   satisfactorily or to produce the missing funds within the period prescribed by the rules
+45   of the Commission, the auditor shall order the head of the agency to direct the
+46   withholding of the salaries and other emoluments due the accountable officer found
+47   to have incurred cash shortage up to the extent of the liability until the final
+
+
+                                               20
+ 1   determination of the latter's accountability by the Commission or by final judgment of
+ 2   a competent court.
+ 3
+ 4          SEC. 45. Constructive Distraint of Property of Accountable Officer.
+ 5   Upon discovery in audit of a shortage in the accounts of any accountable officer and
+ 6   upon a finding of a prima facie case, of malversation of public funds or property
+ 7   against such accountable officer, in order to safeguard the interest of the government,
+ 8   the Commission may place under constructive distraint the personal property of the
+ 9   accountable officer concerned where there is reasonable ground to believe that the
+10   said officer is retiring from the government service or intends to leave the Philippines
+11   or remove the property therefrom or hide or conceal such property.
+12
+13            The constructive distraint shall be effected by requiring the accountable officer
+14   concerned or any other person having possession or control of the property to
+15   accomplish a receipt in the form prescribed by the Commission, covering the property
+16   distrained and obligating to preserve the same intact and unaltered and not to dispose
+17   of it in any manner whatsoever without the express authority of the Commission.
+18
+19           In case the said accountable officer or other person having the possession and
+20   control of the property sought to be placed under constructive distraint refuses or fails
+21   to accomplish the receipt herein referred to, the representative of the Commission
+22   effecting the constructive distraint shall proceed to prepare a list of such property and,
+23   in the presence of two witnesses, leave a copy thereof in the premises where the
+24   property distrained is located. Thereafter, the said property shall be deemed to have
+25   been placed under constructive distraint, in accordance with the rules and regulations
+26   of the Commission.
+27
+28           The auditor shall submit a report to the Chairperson on any distraint effected
+29   pursuant to this Section not later than five (5) calendar days from the date of the
+30   distraint of the property.
+31
+32          SEC. 46. Appeals from Decisions of Auditors. Any person aggrieved by
+33   the decision of an auditor, may within one hundred eighty (180) calendar days from
+34   receipt of a copy of the decision, appeal In writing to the Commission. The procedures
+35   of appeal shall be governed by the internal rules concerning pleadings and practices
+36   of the Commission, including the imposition of reasonable filing and legal research
+37   fees.
+38
+39           SEC. 47. Period Rendering Decisions of the Commission. The
+40   Commission Proper shall decide any pending case within sixty (60) days from the date
+41   of its submission for decision or resolution. A case is deemed submitted for decision
+42   or resolution upon receipt of the last comment on the draft decision from any member
+43   of the Commission Proper necessary for a proper decision.
+44
+45
+46
+47
+
+                                                21
+ 1                                       CHAPTER II
+ 2                             DECISION OF THE COMMISSION
+
+ 3          SEC. 48. Appeal from Decisions of the Commission. The party aggrieved
+ 4   by any decision, order or ruling of the Commission may, within thirty (30) days from
+ 5   the receipt of a copy thereof, appeal on certiorari to the Supreme Court in the manner
+ 6   provided by law and the Rules of Court. When the decision, order, or ruling adversely
+ 7   affects the interest of any government agency, the appeal may be taken by the proper
+ 8   head of that agency.
+ 9
+10         The OSG shall, at all times, represent the Commission in all its decisions
+11   appealed to the Supreme Court.
+12
+13           SEC. 49. Finality of Decisions of the Commission and Responsibility of
+14   Head of the Agency. A decision of the Commission, upon any matter within its
+15   jurisdiction, if not appealed as herein provided, shall be final and executory.
+16
+17         The General Counsel or any authorized official of the Commission shall issue an
+18   order of execution for final and executory decisions, resolutions, or orders of the
+19   Commission.
+20
+21          For final and executory decisions on money claims, the claimant shall initiate
+22   the process of payment with the agency concerned pursuant to existing rules and
+23   regulations.
+24
+25         SEC. 50. Enforcement of Decisions of the Auditor or Commission
+26   Proper. The head of agency shall ensure the immediate settlement of final and
+27   executory decisions of the Commission. Unreasonable failure or refusal of the head of
+28   agency or concerned official to implement the final and executory decision of the
+29   Commission shall render the former administratively liable for neglect of duty.
+30
+31         SEC. 51. Re-audit of Audited Transactions. All transactions and accounts
+32   are open for audit within ten (10) years after the date of transaction.
+33
+34
+35                                         TITLE III
+36                                        CHAPTER I
+37                            BASIC POLICIES AND STANDARDS
+
+38          SEC. 52. Definition of Government Auditing. Government auditing is a
+39   systematic, independent, and objective process that involves obtaining and evaluating
+40   evidence in accordance with the prevailing International Standards for the Supreme
+41   Auditing Institutions (ISSAIs) for the purpose of assessing whether the financial
+42   information, transactions, programs, operations, accounts, and reports of any
+43   government agency are in accordance with the applicable international accounting
+
+
+
+                                              22
+ 1   framework. Government audits cover three audit streams: financial audits, compliance
+ 2   audits, and performance audits which are guided respectively by separate ISSAIs.
+ 3
+ 4          SEC. 53. Principles of Government Auditing. The auditor shall be guided
+ 5   by the general principles and the prescribed international standards related to the
+ 6   audit process:
+ 7
+ 8         (a) Comply with the relevant ethical principles of integrity, independence and
+ 9         objectivity, competence, professional behavior, and confidentiality and
+10         transparency;
+11
+12         (b) Maintain appropriate professional behavior by applying professional
+13         skepticism, professional judgment, and due care throughout the audit;
+14
+15         (c) Perform the audit in accordance with professional standards on quality
+16         control;
+17
+18         (d) Possess collectively the knowledge, skills, expertise, and ability and
+19         experience to exercise professional judgment necessary to successfully
+20         complete the audit;
+21
+22         (e) Manage the risks of providing a report that is inappropriate in the
+23         circumstances of the audit;
+24
+25         (f) Consider materiality throughout the audit process, in relation to stakeholder
+26         concerns, public interest, regulatory requirements and consequences for
+27         society;
+28
+29         (g) Prepare audit documentation that is sufficiently detailed to provide a clear
+30         understanding of the work performed, evidence obtained, and conclusions
+31         reached; and
+32
+33         (h) Establish effective communication throughout the audit process.
+34
+35
+36                                       CHAPTER II
+37               RECEIPTS AND DISPOSITION OF FUNDS AND PROPERTIES
+
+38           SEC. 54. Accounting for Moneys and Property Received by Public
+39   Officials. All moneys and properties officially received by a public officer in any
+40   capacity or upon any occasion, or those received in connection with the office, must
+41   be accounted for as government funds and property, except as may otherwise be
+42   specifically provided by law or competent authority. Their recognition in the books of
+43   accounts of the agency concerned shall be in accordance with pertinent laws, policies,
+44   rules and regulations, and applicable financial reporting framework.
+45
+
+
+                                              23
+ 1           SEC. 55. Designation of Collecting or Disbursing Officers for
+ 2   Government Agencies. The head of agency may designate such number of
+ 3   collecting and disbursing officers or agents as may be deemed necessary. They shall
+ 4   render reports of their collections and disbursements pursuant to the regulations of
+ 5   the Commission, to be submitted promptly to the auditor concerned who shall conduct
+ 6   the necessary examination and audit.
+ 7
+ 8          SEC. 56. Time and Mode of Rendering Account. In the absence of specific
+ 9   provision of law, all accountable officers, through the agency accountants, shall render
+10   their accounts, submit their vouchers, and make deposits of money collected or held
+11   by them at such time and in such manner as shall be prescribed in the rules and
+12   regulations of the Commission. The auditor concerned shall then conduct the
+13   necessary examination and audit thereof.
+14
+15           SEC. 57. Accrual of Income or Revenues to Unappropriated Surplus of
+16   the General Fund. All income or revenues accruing to the agencies by virtue of the
+17   provisions of law, orders and regulations shall be deposited in the National Treasury
+18   or in any duly authorized government depository and shall accrue to the
+19   unappropriated surplus of the General Fund of the government, unless otherwise
+20   specifically provided by law.
+21
+22         Income or revenues from business-type activities and revolving funds of
+23   government agencies may be separately recorded and disbursed in accordance with
+24   such rules and regulations as may be determined by the Permanent Committee
+25   created by law, composed of the Secretary of Department of Finance as Chairperson,
+26   Secretary of Department of Budget and Management, and Chairperson of Commission
+27   on Audit, as members.
+28
+29          SEC. 58. Special, Fiduciary and Trust Funds. Receipts shall be recorded
+30   as income of Special, Fiduciary or Trust Funds or Funds other than General Fund only
+31   when authorized by law in accordance with the rules and regulations issued by the
+32   Permanent Committee.
+33
+34            Revenues collected from particular taxes, levy and royalties for special purpose
+35   shall be treated as a special fund or Special Account in the General Fund and paid out
+36   for such purpose only. If the purpose for which a special fund was created has been
+37   fulfilled or abandoned, the balance, if any, shall be transferred to the General Fund of
+38   the government.
+39
+40          In case any government agency fails or refuses to implement such reversion
+41   and closure, the Permanent Committee may recommend for approval of the President
+42   the reversion and closure of the Special Account in the General Fund, Fiduciary or
+43   Trust Funds on any of the following grounds:
+44
+45          (a) The terms have expired or no longer necessary for attainment of the
+46          purpose for which said funds were established;
+47
+48          (b) Dormant for unreasonable length of time;
+
+                                                24
+ 1
+ 2          (c) Needed by the General Fund in times of emergency; or
+ 3
+ 4          (d) Used in violation of the rules and regulations issued by the Permanent
+ 5          Committee.
+ 6
+ 7          SEC. 59. Receipts and Revenues of Local Government Units. All receipts
+ 8   and income accruing to the LGUs shall be deposited in their account maintained in the
+ 9   authorized government depository bank or private bank with the prior approval of the
+10   Department of Finance.
+11
+12          SEC. 60. Receipts and Revenues of Government Corporations. All
+13   receipts and income accruing to GOCCs shall be deposited in their account maintained
+14   in the authorized government depository bank.
+15
+16          SEC. 61. Collections by the Government. No payment of any nature shall
+17   be received by a collecting officer without immediately issuing an official receipt in
+18   acknowledgment thereof. The receipt may be in the form of postage, internal revenue
+19   or documentary stamps or such other digital forms as the law or the Commission may
+20   allow. At no instance shall temporary or provisional receipts be issued to acknowledge
+21   the receipt of public funds.
+22
+23          Where digital or electronic devices are used to acknowledge cash receipt, an
+24   electronic official receipt (eOR) shall be issued and the electronic copies of the pieces
+25   of evidence of the e-collection through Self-Collect and Credit (SCC) or Collect-
+26   Aggregate-Remit (CAR) or other modes of electronic collection allowed by the rules of
+27   the COA, shall be kept in electronic archives. The same shall be subject to inspection
+28   and verification by the Commission, in accordance with its prescribed guidelines on
+29   the use of eORs to acknowledge collection of income and other receipts of
+30   government.
+31
+32            The same is acceptable provided the document maintains its integrity and
+33   reliability and can be authenticated so as to be usable for subsequent reference:
+34   Provided, That the electronic document has remained complete and unaltered, apart
+35   from the addition of any endorsement and any authorized change, or any change
+36   which arises in the normal course of communication, storage and display; and that
+37   the electronic document is reliable for the purpose for which it was generated and for
+38   all relevant circumstances.
+39
+40          Collections in the form of checks in favor of the government shall be governed
+41   by the rules of the Commission.
+42
+43         At no instance should money in the hands of the collecting officer be utilized
+44   for whatever purpose but should be deposited intact with an authorized government
+45   depository bank.
+46
+47          SEC. 62. Payment in Settlement. Electronic payment through TDL, credit
+48   card, DEP, such as ADA, and other modes may be used to settle all obligations of the
+
+                                                25
+ 1   government in accordance with the guidelines of the Commission and other Public
+ 2   Financial Management agencies of the government.
+ 3
+ 4          Electronic payment to a person not duly authorized to receive such payment
+ 5   shall subject the concerned accountable officer to administrative/civil sanctions or
+ 6   criminal prosecution, as may be warranted.
+ 7
+ 8          In instances when checks are drawn against the checking account of the
+ 9   government agencies maintained with any government depository in payment of an
+10   obligation:
+11
+12         (a) The check shall be made payable directly to the creditor to whom the money
+13         is due, or to the disbursing officer or employee for an official disbursement;
+14
+15         (b) Checks drawn in payment of any indebtedness shall likewise be accepted
+16         by the officer concerned, provided it shall be made payable to the entity or the
+17         authorized official of the payee; and
+18
+19         (c) When a check drawn in favor of the government is not accepted by the
+20         drawee bank for any reason, the drawer shall continue to be liable for the sum
+21         due and all penalties resulting from delayed payment. Where the reasons for
+22         non-acceptance by the drawee bank are insufficiency of funds and/or closed
+23         accounts, the drawer shall be criminally liable therefor.
+24
+25           SEC. 63. Deposit of Money in the Treasury or Authorized Government
+26   Depository Bank. Public officers authorized to receive and collect moneys arising
+27   from taxes, revenues, or receipts of any kind shall remit or deposit intact the full
+28   amounts so received and collected by them to the account of the National Treasury
+29   or in the agencies account maintained in the authorized government depository bank
+30   not later than the following banking day, except when it is impractical to do so due to
+31   distance and the amount to be deposited is minimal.
+32
+33          Fifty percent (50%) share on proceeds from the community tax certificates 32
+34   collected by duly deputized barangay treasurers shall be automatically retained and
+35   deposited intact in authorized depository banks of the barangay where the tax is
+36   collected pursuant to the Republic Act No. 7160, as amended, otherwise known as the
+37   "Local Government Code of 1991."
+38
+39          No collections shall be used for purposes of disbursements except when
+40   authorized by law or regulations.
+41
+42           SEC. 64. Acknowledgment of Receipt of Money by Government
+43   Depositories. All authorized government depository banks shall acknowledge receipt
+44   of all money received by them, for the account of the National Treasurer or the agency
+45   concerned. The acknowledgment shall bear the date of actual deposit and indicate
+46   from whom and on what account it was received. Such moneys received shall be
+47   governed by the Treasury Single Account System established pursuant to law. The
+
+
+                                               26
+ 1   authorized agency official shall regularly furnish the monthly bank statements to the
+ 2   auditor.
+ 3
+ 4          SEC. 65. Shipment of Government Money or Property by a Carrier;
+ 5   Notation of Evidence of Loss. When government money or property is transported
+ 6   from one place to another by a carrier, it shall be the duty of the consignee or duly
+ 7   authorized representative to make notation or notations on the bill of lading or receipt
+ 8   on any evidence of loss, shortage, or damage.
+ 9
+10          SEC. 66. Credit for Loss Occurring in Transit or Due to Fire, Theft,
+11   Robbery or Force Majeure. When a loss of government funds, property, documents
+12   evidencing financial transactions, or records of accountabilities occurs while they are
+13   in transit or loss is caused by fire, theft, robbery or force majeure, the officer or
+14   employee accountable therefor or having custody thereof shall immediately notify the
+15   auditor concerned and, within thirty (30) days from the occurrence of loss, shall file
+16   an application for relief, together with the required supporting evidence. When
+17   warranted, credit for the loss shall be allowed. An officer or employee who fails to
+18   comply with this requirement shall not be relieved of liability or allowed credit for any
+19   loss thereof. The procedures on application for relief shall be governed by the rules
+20   and regulations of the Commission.
+21
+22           SEC. 67. Disposal of Government Property. When property of the
+23   government becomes unserviceable or is no longer needed, it may be disposed of in
+24   the following manner, following the guidelines issued by the Commission:
+25
+26          (a) Transfer of property between government agencies;
+27
+28          (b) Destruction or sale of unserviceable property;
+29
+30          (c) Sale through public auction of unserviceable property;
+31
+32          (d) Sale through public auction of government property that is no longer
+33          needed; and
+34
+35          (e) Other modes as may thereafter be approved and prescribed in the
+36          guidelines issued by the Commission.
+37
+38          SEC. 68. Disposal of Real Property. Whenever the subject of the disposal
+39   by sale is real property, the same shall require prior approval of the Commission.
+40
+41          SEC. 69. Disposal of Goods and Properties Seized or Confiscated by
+42   Law Enforcement Agencies. The destruction or disposal of goods and properties
+43   seized or confiscated by law enforcement agencies and presented as evidence in cases
+44   before the courts shall be carried out by such agencies in accordance with their
+45   respective rules and regulations.
+46
+47        SEC. 70. Funds or Property Held by Deceased, Incapacitated or
+48   Absconding Accountable Officer. When an officer accountable for government
+
+                                                27
+ 1   funds or property dies, becomes incapacitated, or absconds in the performance of
+ 2   duties, the head of the agency shall designate a custodian to take charge of the funds
+ 3   or property until a successor shall have been appointed and qualified. The head of the
+ 4   agency may appoint a committee to count the cash and take an inventory of the
+ 5   property for which the officer was accountable and to determine the responsibility for
+ 6   any shortage therein. One copy of the inventory and the report of the committee, duly
+ 7   certified, shall be filed with the auditor concerned but the findings of the committee
+ 8   shall not be conclusive until audit thereon is completed. The head of the agency,
+ 9   whenever necessary, shall be responsible for securing a "hold departure order" from
+10   the proper government agency to prevent the absconding officer from leaving the
+11   country.
+12
+13          If the deceased, incapacitated, or absconding officer is accountable for funds
+14   or property of an LGU, the acting custodian and committee shall be designated by the
+15   local chief executive, furnishing notice to the Secretary of the Department of Finance
+16   or the authorized appointing official as prescribed under the Local Government Code.
+17
+18           SEC. 71. Disposal of Foreclosed Assets or Collaterals Acquired in the
+19   Regular Course of Business by Government Corporations. Notwithstanding
+20   their respective charters, foreclosed assets or collateral acquired in the regular course
+21   of business by government corporations shall be sold thru public bidding to the highest
+22   bidder after appraisal thereof by an independent appraiser. Such sale shall be under
+23   the supervision of the proper committee on award or similar body of the government
+24   corporation, after publication for not less than two (2) consecutive days in any national
+25   newspaper of general circulation.
+26
+27          In the event that the public bidding fails, the property may be sold at a
+28   negotiated sale at such price as may be fixed by the same committee, subject to the
+29   immediate audit of the auditor concerned in accordance with the regulations of the
+30   Commission. If the property remains unsold for at least one (1) year, this will be
+31   subject to reappraisal and offered again for sale through public bidding.
+32
+33          Government property may be disposed of as payment of dividend, after
+34   appraisal thereof by an independent appraiser and review by the Commission.
+35
+36          SEC. 72. Final Report of Accountable Officers. An accountable officer,
+37   upon ceasing to act in official capacity, shall submit to the auditor of the agency
+38   concerned a report of accountability within one (1) month after such cessation. Upon
+39   receipt of the report, the auditor shall conduct a cash examination on the
+40   accountability of such accountable officer.
+41
+42          Any remaining balance on cash accountability shall be deposited immediately
+43   in the proper treasury.
+44
+45         SEC. 73. Notice of Disallowances, Charges and Suspensions Issued by
+46   the Auditor to Accountable Officer. Whenever there is a finding of pecuniary loss
+47   or damage on the part of the government, the auditor concerned shall issue a written
+
+
+                                                28
+ 1   notice of disallowance or charge through the head of the agency to each accountable
+ 2   officer, whose accounts have been audited in whole or in part.
+ 3
+ 4          Within ninety (90) days, an audit suspension which is not settled either by
+ 5   satisfactory explanation, justification, or submission of evidence to prove the contrary
+ 6   to the initial findings of an auditor on the irregularity or illegality of the transaction
+ 7   after receipt of the notice shall become a disallowance.
+ 8
+ 9          Any person aggrieved by the decision of the auditor pertaining to disallowances,
+10   charges, or suspensions, may appeal the case in accordance with the rules and
+11   regulations on settlement of accounts of the Commission.
+12
+13          SEC. 74. Appropriation Before Entering into a Contract. No contract
+14   involving the expenditure of public funds shall be entered into unless there is an
+15   appropriation or approved budget therefor, the unexpended balance of which, free of
+16   other obligations, shall be sufficient to cover the proposed expenditure.
+17
+18          SEC. 75. Certificate Showing Appropriation to Meet Contract. Except in
+19   the case of a contract for personnel services or for supplies for immediate
+20   consumption, no contract involving the expenditure of public funds by any government
+21   agency shall be entered into or authorized unless the proper budget officer of the
+22   agency concerned shall have certified to the officer entering into the obligation that
+23   funds have been duly appropriated for the purpose and that the amount necessary to
+24   cover the proposed contract for the fiscal year is available for expenditure on account
+25   thereof. The certificate signed by the proper budget officer shall be attached to and
+26   become an integral part of the contract, and the sum so certified shall not thereafter
+27   be available for expenditure for any other purpose until the obligation of the
+28   government agency concerned under the contract is fully extinguished.
+29
+30          The funding guidelines of the DBM shall be followed for multi-year contracts.
+31
+32          SEC. 76. Void Contract and Liability of Officer. Any contract entered into
+33   contrary to the requirements of the two immediately preceding sections shall be void
+34   and not binding to the government. The officer of any government agency responsible
+35   for the said contract shall be personally liable to the government or other contracting
+36   party as if the transaction had been entered into between private parties.
+37
+38         SEC. 77. Prohibition Against Advance Payment on Government
+39   Contracts. Except when authorized by law, the government shall not be obliged to
+40   make an advance payment on contracts for:
+41
+42          (a) Services not yet rendered;
+43
+44          (b) Supplies and materials not yet delivered, inspected, and accepted, except
+45          in lease of venues and catering services as provided for in the procurement law
+46          and its implementing rules and regulations; and
+47
+
+
+                                                29
+ 1        (c) Infrastructure projects not yet implemented or completed, inspected, and
+ 2        accepted, other than for mobilization as provided for in the procurement law
+ 3        and its implementing rules and regulations.
+ 4
+ 5           SEC. 78. Limitations on Cash Advance. The following shall be the
+ 6   limitations on cash advance:
+ 7
+ 8        (a) No cash advance shall be given unless for a legally authorized specific
+ 9        purpose;
+10
+11        (b) A cash advance shall be reported on and liquidated as soon as the purpose
+12        for which it was given has been served;
+13
+14        (c) No additional cash advance shall be granted or allowed unless the previous
+15        cash advance has been first settled/liquidated or a proper accounting thereof
+16        is made;
+17
+18        (d) Except for cash advance for official travel, no officer or employee shall be
+19        granted cash advance unless such officer or employee is properly bonded in
+20        accordance with existing laws or regulations. The amount of cash advance
+21        which may be granted shall not exceed the maximum cash accountability
+22        covered by bond of an officer or employee;
+23
+24        (e) Only permanent appointed officials shall be designated as disbursing
+25        officers;
+26
+27        (f) Only duly appointed or designated disbursing officers may perform
+28        disbursing functions. Officers and employees who are given cash advances for
+29        official travel need not be designated as disbursing officers;
+30
+31        (g) Transfer of cash advance from one accountable officer to another shall not
+32        be allowed;
+33
+34        (h) The cash advance shall be used solely for a specific legal purpose for which
+35        it was granted. Under no circumstance shall it be used for encashment of
+36        checks or for liquidation of a previous cash advance;
+37
+38        (i) The failure of the concerned official or employee to liquidate the cash
+39        advance after due demand by an authorized officer is a prima facie presumption
+40        of malversation despite the absence of a finding of actual damage to the
+41        government;
+42
+43        (j) The transfer of cash advance by a disbursing officer to another does not
+44        constitute an expenditure for which the disbursing officer may claim credit in
+45        accounts. but the responsibility of such disbursing officer continues to attach
+46        until the amount has been fully accounted for; or
+47
+
+
+                                             30
+ 1          (k) No cash advance shall be granted for the procurement or implementation
+ 2          of infrastructure projects.
+ 3
+ 4          Any violation of the foregoing provisions shall constitute a valid cause for the
+ 5   withholding of the salary of the accountable officer without prejudice to the imposition
+ 6   of administrative/civil sanction and criminal prosecution of both the authorizing and
+ 7   the accountable officials, as may be warranted.
+ 8
+ 9          SEC. 79. Transfer of Funds from One Officer to Another. Transfer of
+10   government funds from one officer to another shall, except as allowed by law or
+11   regulation, be made only upon prior direction or authorization of the head of the
+12   agency following the accountability and accounting guidelines issued by the
+13   Commission.
+14
+15         SEC. 80. Limitations on Fund Transfers from One Government Agency
+16   to Another. The following shall be the limitations on transfer of funds from one
+17   government agency to another:
+18
+19          (a) No fund transfers shall be given except for legally authorized specific
+20          purpose as embodied in a Memorandum of Agreement (MOA) executed
+21          between the source and implementing agencies;
+22
+23          (b) The fund transfers shall be reported on and/or liquidated by the
+24          implementing agencies as soon as the purpose for which they have been
+25          granted have been served, but not later than the end of the year;
+26
+27          (c) No additional or new fund transfers shall be made unless the previous
+28          transfers have been fully liquidated as certified by the head of agency
+29          concerned;
+30
+31          (d) The heads of the source and implementing agencies shall be responsible
+32          for compliance with the foregoing requirements.
+33
+34          Failure on the part of the foregoing officials/persons to comply with the
+35   abovementioned responsibilities shall constitute a ground for administrative or criminal
+36   action, as evidence may warrant.
+37
+38          SEC. 81. Limitations on Fund Transfers from Any Government Agency
+39   to a Private Organization or Entity. The following shall be the limitations on
+40   transfer of funds from any government agency to any private organization or entity:
+41
+42          (a) No fund transfer from a government agency shall be given to a private
+43          organization or entity unless authorized by law for a specific purpose which
+44          should be embodied in a MOA executed between the source government
+45          agency and the implementing private organization or entity;
+46
+47          (b) Only duly registered, accredited, and reputable private organizations or
+48          entities shall be granted fund transfers;
+
+                                               31
+ 1
+ 2          (c) Fund transfers shall be reported on and liquidated by the implementing
+ 3          private organizations or entities to the source government agency as soon as
+ 4          the project has been completed or not later than sixty (60) days after project
+ 5          completion. If the project implementation will go beyond December 31st of the
+ 6          year, a partial liquidation report as of December 31st of that year shall be
+ 7          submitted to the source government agency not later than January 15 of the
+ 8          ensuing year;
+ 9
+10          (d) No additional or new fund transfers shall be made unless the previous fund
+11          transfers have been fully liquidated as certified by the head of the agency; or
+12
+13          (e) The heads of the source government agency and implementing private
+14          organizations or entities shall be responsible for compliance with the foregoing
+15          requirements.
+16
+17           Failure on the part of any public officer, employee, or any person to comply
+18   with the above-mentioned responsibility shall constitute a ground for administrative
+19   or civil sanction or criminal prosecution.
+20
+21          SEC. 82. Payment of Rewards. When a reward becomes payable by
+22   authority of law for information given relative to any offense or any illegal activity, or
+23   for any act done in connection with the apprehension of the offender, the reward shall
+24   be paid as prescribed by law or regulations. Such payment of reward shall be subject
+25   to audit in accordance with the regulations of the Commission.
+26
+27          SEC. 83. Loss Through Electronic Collection or Payment. Government
+28   agencies utilizing e-Collection and/or payment systems shall formulate internal policy
+29   guidelines to implement reasonable and appropriate organizational, technical, and
+30   personnel controls to prevent loss of funds caused by internet connectivity issues,
+31   errors in payment instructions, online banking fraud, security breach, or other similar
+32   events. Any loss due to the foregoing shall be the liability of the erring party.
+33
+34          SEC. 84. Replacement of Lost, Stolen or Destroyed Checks. When
+35   payment is made through check and the same was lost, stolen, or destroyed, the
+36   issuing officer may issue a replacement check as payment for the same obligation.
+37   Replacement shall be made upon the execution of an affidavit of loss and submission
+38   of stop payment order to the drawee bank. If destroyed, presentation of the destroyed
+39   check to the issuing officer is also required. The chief accountant or internal auditor
+40   of the agency shall be responsible for seeing to it that no double payment is made as
+41   a result thereof.
+42
+43          SEC. 85. Reversion of Unpaid Trade Payables Aged More Than Two (2)
+44   Years. The head of national government agencies, LGUs and government
+45   corporations classified as non-commercial public sector entities shall cause the
+46   reversion of trade payables aged more than two (2) years to the Unappropriated
+47   Surplus or Accumulated Surplus/(Deficit).
+48
+
+                                                32
+ 1          The head of government corporations classified as commercial public sector
+ 2   entity shall revert unpaid trade payables aged more than two (2) years to retained
+ 3   earnings.
+ 4
+ 5          In both instances the reversion shall only be made when there is no actual
+ 6   claim or is not supported by a valid contract.
+ 7
+ 8
+ 9                                         CHAPTER II
+10                          ACCOUNTABILITY AND RESPONSIBILITY FOR
+11                             GOVERNMENT FUNDS AND PROPERTY
+
+12          SEC. 86. Accountable Officers; Bond Requirement. Every officer of any
+13   government agency whose duties permit or require the possession or custody of
+14   government funds or property shall be accountable therefore and for the safekeeping
+15   thereof in conformity with law. Other government officers who, though not
+16   accountable by the nature of their duties, may likewise be similarly held accountable
+17   for government funds or property through their participation in the use or application
+18   thereof.
+19
+20          Every accountable officer shall be properly bonded in accordance with law and
+21   the pertinent rules or regulations.
+22
+23         SEC. 87. Primary Responsibility and Fiscal Accountability of the Head
+24   of the Agency. The head of any agency who is primarily responsible for all
+25   government funds and property pertaining to the agency, shall ensure that:
+26
+27          (a) The required financial and other reports and statements are submitted by
+28          the concerned agency officials in such form and within the period prescribed
+29          by the Commission;
+30
+31          (b) The settlement of disallowances and charges is made within the prescribed
+32          period;
+33
+34          (c) The requirements of transactions suspended in audit are complied with;
+35          and
+36
+37          (d) Appropriate actions are taken on the deficiencies noted in the course of
+38          audit.
+39
+40          Persons entrusted with the possession or custody of the funds or property
+41   under the head of the agency shall be accountable therefore and immediately
+42   responsible to the head of the agency, without prejudice to the liability of either party
+43   to the government.
+44
+45         SEC. 88. General Liability for Unlawful Expenditures. Expenditures of
+46   government funds or uses of government property in violation of law or regulations
+
+
+                                                33
+ 1   shall be the personal liability of the official or employee found to be directly responsible
+ 2   therefore.
+ 3
+ 4           SEC. 89. Degree of Supervision over Accountable Officers. The head of
+ 5   any government agency shall exercise due diligence in supervising accountable
+ 6   officers under the control of such head of the agency to prevent the incurrence of loss
+ 7   of government funds or property, otherwise the head of the agency shall be jointly
+ 8   and solidarily liable with the person primarily accountable therefor.
+ 9
+10          The treasurer of the LGU shall likewise exercise the same degree of supervision
+11   over accountable officers under the oversight of the treasurer; otherwise the treasurer
+12   shall be jointly and solidarily liable with them for the loss of government funds or
+13   property under their stewardship.
+14
+15          SEC. 90. Measure of Liability of Accountable Officers. Every officer
+16   accountable for government property shall be liable for its money value in case of
+17   improper or unauthorized use or misapplication thereof by such accountable officer or
+18   by any person for whose acts such accountable officer may be responsible for. The
+19   accountable officer shall likewise be liable for all losses, damages, or deterioration
+20   occasioned by negligence in the keeping or use of the property regardless of whether
+21   or not it is in actual custody of such accountable officer.
+22
+23           Every accountable officer for government funds shall be liable for all losses
+24   resulting from the unlawful deposit, use, or application thereof and for all losses
+25   attributable to negligence in the keeping of the funds.
+26
+27            SEC. 91. Liability for Acts Done by Direction of Superior Officer. No
+28   accountable officer shall be relieved from liability by reason of acting under the
+29   direction of a superior officer in paying out, applying, or disposing of the funds or
+30   property for which such accountable officer is accountable, unless prior to that act,
+31   the accountable officer notified the superior officer in writing that the expenditure is
+32   illegal, irregular, excessive, extravagant, unnecessary, and unconscionable. The officer
+33   directing any illegal payment or disposition of the funds or property and the
+34   accountable officer who fails to serve the required notice shall be jointly and solidarily
+35   liable.
+36
+37          SEC. 92. Prohibition Against Pecuniary Interest. No head of agency,
+38   members of the board or commission, accountable officer or public official shall have
+39   pecuniary interest, directly or indirectly, in any contract or transaction of the agency
+40   in which such public officer is an officer, or in any other office where the public officer
+41   has influence.
+42
+43          This prohibition shall likewise apply to the accountable officer's immediate
+44   family and relatives up to the 3rd civil degree by consanguinity or affinity.
+45
+46
+47                                            TITLE IV
+
+
+                                                 34
+ 1                                         CHAPTER I
+ 2                                     BASIC PRINCIPLES
+
+ 3          SEC. 93. Definition of Government Accounting. Government accounting
+ 4   encompasses the processes of analyzing, recording, classifying, summarizing, and
+ 5   communicating all transactions involving the receipt and disposition of government
+ 6   funds and property in accordance with the applicable international accounting
+ 7   framework - International Public Sector Accounting Standards (IPSAS) or Philippine
+ 8   Financial Reporting Standards (PFRS), as the case may be, and interpreting the results
+ 9   thereof.
+10
+11          SEC. 94. Recognition of Financial Transactions. Each government agency
+12   shall recognize its financial transactions and operations conformably with pertinent
+13   laws, policies, rules and regulations, and applicable financial reporting framework.
+14
+15          SEC. 95. Accounting Policies, Rules and Regulations. The Commission
+16   shall promulgate accounting policies, rules, and regulations in accordance with the
+17   applicable international accounting framework. Such policies, rules and regulations
+18   shall be updated from time to time as the Commission may deem proper.
+19
+20
+21                                         CHAPTER II
+22                       ACCOUNTABILITY AND RESPONSIBILITY FOR
+23                           GOVERNMENT FUNDS AND PROPERTY
+
+24         SEC. 96. Financial Reports and Statements. The financial reports
+25   prepared by the agencies shall comply with the applicable financial reporting
+26   framework to the government agency.
+
+27           The financial statements shall be based on official accounting records and
+28   registries kept in accordance with pertinent laws, policies, rules and regulations of the
+29   Commission, and the applicable financial reporting framework to the government
+30   agency.
+31
+32          SEC. 97. Submission of Reports. The Commission shall, under regulations
+33   issued by it, require the head of the agencies, chief accountants, budget officers,
+34   cashiers, disbursing/collecting officers, administrative or personnel officers, and other
+35   responsible officials of the various agencies to submit financial statements, financial
+36   accountability reports, physical inventory reports, current staffing pattern, and such
+37   other reports as may be necessary for the exercise of its functions.
+38
+39           In case of failure on the part of the officials concerned to submit the documents
+40   and reports mentioned herein within the prescribed period, the head of the agency
+41   shall cause the suspension of the payment of their salaries until they shall have
+42   complied with the requirements of the Commission without prejudice to any
+43   disciplinary action that may be instituted against such official or employee in
+
+
+                                                35
+ 1   accordance with the applicable rules on administrative cases issued by the Civil Service
+ 2   Commission.
+ 3
+ 4           Failure on the part of the head of the government agency to implement, without
+ 5   justifiable cause, the sanctions provided in the immediately preceding paragraph shall
+ 6   constitute as a ground for this Commission to file the appropriate administrative
+ 7   charge against the erring official concerned.
+ 8
+ 9
+10                                        CHAPTER III
+11                                   INTERNAL CONTROLS
+
+12            SEC. 98. Internal Control System and Its Installation. Internal control is
+13   an integral process that is effected by an agency's management and personnel and is
+14   designed to address risks and provide reasonable assurance that in pursuit of the
+15   agency's mission, the general objectives are being achieved. It shall be the direct
+16   responsibility of the head of the agency to establish an internal control unit that shall
+17   install, implement, review, and monitor a sound internal control system in accordance
+18   with Internal Control Standards for the Philippine Public Sector.
+
+19          The head of agency shall sign the Statement of Internal Control (SIC).
+
+20         Failure on the part of the head of the government agency to implement the
+21   preceding paragraph, without justifiable cause, shall constitute as a ground for this
+22   Commission to file the appropriate administrative charge against the erring official
+23   concerned.
+
+24
+25                                         CHAPTER IV
+26                                     FINAL PROVISIONS
+
+27          SEC. 99. Duty to Respect the Independence of the Commission. It shall
+28   be the duty of every person to respect, protect, and preserve the independence of the
+29   Commission.
+30
+31          SEC. 100. Administrative Disciplinary Action. Any unjustified failure by
+32   the public officer concerned to comply with any requirement imposed in this Act shall
+33   constitute neglect of duty or grave misconduct, as the case may be, and shall be a
+34   ground for this Commission to file appropriate administrative disciplinary action
+35   against the said public officer who, upon being found guilty thereof after hearing, shall
+36   be meted out such penalty commensurate with the degree of guilt in accordance with
+37   the civil service law, without prejudice to criminal prosecution whenever the evidence
+38   warrants.
+39
+40          The auditor shall report to the concerned Director any violation of the preceding
+41   paragraph for referral of the case to the 0MB, or other government disciplining
+42   authorities.
+43
+
+                                                36
+ 1          Sec. 101. Penal Provisions. - Any person who shall commit any of the
+ 2   following acts shall, upon conviction, suffer imprisonment of not less than six (6)
+ 3   months and one (1) day but not more than six (6) years or a fine of not less than One
+ 4   hundred thousand pesos (P100,000.00) but not more than One million two hundred
+ 5   thousand pesos (PI,200,000.00) or an imprisonment of six (6) years and one (1) day
+ 6   to twelve (12) years, or both at the discretion of the court:
+ 7
+ 8          (a) Refusing or neglecting to render or settle an account as required by law or
+ 9          regulation after demand by the Commission or its authorized representatives;
+10
+11          (b) Denying access to databases or information technology systems, or failing
+12          to produce documents, records, or papers under custody within fifteen (15)
+13          days after demand by the Commission or its authorized representatives in
+14          connection with the conduct of audit;
+15
+16          (c) Destroying or concealing documents, records, or papers which are officially
+17          entrusted to such person, pertaining to the collection, receipt, expenditure,
+18          or disbursement of public funds and utilization or disposal of government
+19          property in connection with the conduct of audit;
+20
+21          (d) Failing or refusing to submit documents required in audit without justifiable
+22          cause shall constitute a ground for disallowance of the claim under
+23          examination, assessment of additional levy or government share, or
+24          withholding or withdrawal of government funding or donations through the
+25          government, as well as for administrative or penal sanctions; or
+26
+27          (e) Committing other similar acts that impede, frustrate, or delay the efficient
+28          conduct of audit. If a violation of this Act constitutes an offense or crime
+29          punished under Act 31 No. 3815, otherwise known as the Revised Penal Code,
+30          as amended, or other special laws which imposes a higher penalty, the latter
+31          shall prevail.
+32
+33          If a violation of this Act constitutes an offense or crime punished under Act No.
+34   3815, otherwise known as the Revised Penal Code, as amended, or other special laws
+35   which imposes a higher penalty, the latter shall prevail.
+36
+37           If the offender is a corporation, partnership or association or other juridical
+38   entity, the penalty may in the discretion of the court be imposed upon such juridical
+39   entity and upon the officer or officers of the corporation, partnership, association, or
+40   entity responsible for the violation.
+41
+42           SEC. 102. Implementing Rules and Regulations. The Commission Proper
+43   shall promulgate the necessary rules and regulations for the effective implementation
+44   of this Act.
+45
+46          SEC. 103. Appropriations. The amount necessary for the implementation of
+47   this Act shall be included in the annual General Appropriations Act. The Commission
+48   on Audit shall be authorized to:
+
+                                               37
+ 1
+ 2         (a) Collect one-half (1/2) of the one percent (1%) from the annual national tax
+ 3         collections not otherwise accruing to special funds or special accounts in the
+ 4         general fund of the national government, upon authority from the Secretary of
+ 5         Finance, shall be deducted from such collections and shall be remitted to the
+ 6         National Treasury to cover the cost of auditing services rendered to LGUs;
+ 7
+ 8         (b) A fixed amount equivalent to the annual cost of the audit services in the
+ 9         government corporations; and
+10
+11         (c) Other sources such as, but not limited to, collections of audit fees from
+12         water districts and special audits, consultancy fees and retained income.
+13
+14          All government corporations, including their subsidiaries, and self-governing
+15   boards shall appropriate in their respective budgets and remit not later than the end
+16   of the second quarter of each year an amount equivalent to the appropriation for
+17   personnel services of the audit team to the National Treasury.
+18
+19          The amount for the MOOE and capital outlay to support the annual or the actual
+20   audit operations of the COA audit teams assigned to NGAs, LGUs and government
+21   corporations which form part of the approved budget of the audited agency for
+22   auditing services under the General Appropriations Act, appropriations ordinance or
+23   annual operating budget, respectively, shall be remitted directly to the Commission on
+24   Audit Central Office.
+25
+26          All internally generated income from other sources shall accrue to its general
+27   fund to be exclusively utilized for the operation and performance of its mandate.
+28
+29          SEC. 104. Repealing Clause. Presidential Decree No. 1445, otherwise known
+30   as the Government Auditing Code of the Philippines, and Subtitle B, Title I, Book V, of
+31   Executive Order No. 292, or the Administrative Code of 1987, are hereby repealed. All
+32   other laws, executive orders, proclamations, decrees, instructions, rules and
+33   regulations, or parts thereof which are inconsistent or in conflict with any provision
+34   herewith shall be deemed amended, repealed or modified accordingly.
+35
+36          SEC. 105. Separability Clause. Should any provision of this Act or any part
+37   thereof be declared invalid, the other provisions, insofar as they are separable from
+38   the invalid provision, shall remain in force and effect.
+39
+40           SEC. 106. Effectivity. This Act shall take effect fifteen (15) days following
+41   completion of its publication in the Official Gazette or in any newspaper of general
+42   circulation.
+
+     Approved,
+
+
+
+
+                                               38
+

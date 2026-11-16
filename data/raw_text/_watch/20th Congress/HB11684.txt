@@ -1,0 +1,291 @@
+                                    Republic of the Philippines
+                                  HOUSE OF REPRESENTATIVES
+                                    Quezon City, Metro Manila            October 12, 2026
+                                                                           12:45 pm
+                                       TWENTIETH CONGRESS
+                                        Second Regular Session
+
+                                                    11684
+                                 HOUSE BILL NO. _______________
+
+
+                              Introduced by ANG PROBINSYANO
+                         Party-List Representative Alfred Delos Santos
+
+
+                                        EXPLANATORY NOTE
+
+      The internet is no longer a luxury; it is a necessity. It is how our children
+attend class, how our farmers and small entrepreneurs sell their products, how
+our overseas Filipino workers communicate with their families, and, in
+emergencies, how our communities receive warnings before a natural calamity
+arrives. Yet for millions of Filipinos, especially in the provinces, the internet they
+pay for every month is slow, unreliable, and far from what was promised in the
+advertisement.
+
+       The country has made progress. Based on Ookla data for August 2025,
+the Philippines ranked 45th out of 182 countries in fixed broadband speed and
+82nd out of 140 countries in mobile speed.1 However, the fastest connections
+are concentrated in Metro Manila and a few major cities, while subscribers in
+far-flung municipalities often receive only a fraction of the speed they pay for,
+with no clear standard to hold their provider accountable.
+
+      Republic Act No. 12234 or the the Konektadong Pinoy Act, opened the data
+transmission industry to more players and directed the National
+Telecommunications Commission (NTC) to issue performance standards on
+speed, latency, and other quality-of-service measures. This bill builds on that
+law by setting in statute a minimum floor below which no paid internet service
+may fall, so that the standards cannot be diluted, and every Filipino subscriber,
+whether in the city or in the barangay, knows what he or she is entitled to.
+
+      This bill sets minimum entry-level speeds for wired and wireless
+broadband by area. It requires providers to deliver at least eighty percent of their
+advertised speed at least eighty percent of the time, and prohibits them from
+advertising speeds they cannot consistently deliver. It directs the NTC to
+
+1
+    https://www.speedtest.net/global-index
+measure and publish the actual performance of every provider and to raise the
+standards over time. It also guarantees the rights of subscribers to timely
+installation, automatic rebates for outages, and termination without penalty
+when their provider fails to deliver. To avoid discouraging investment where it is
+needed most, providers that expand into previously unserved and underserved
+areas are given three years before the minimum speeds apply to them.
+
+       The bill also closes the loopholes that leave subscribers paying for speeds
+they never receive. Every advertisement must state the guaranteed minimum
+speed, not only the “up to” speed. No paid plan may be throttled below the
+minimum under a “fair usage” policy. When a provider falls short of the speed it
+promised, the subscriber’s bill is reduced in proportion. Penalties are aligned
+with the Konektadong Pinoy Act, so that substandard service is fined for every
+day it persists, and a provider found in violation twice within a year must stop
+signing up new subscribers in the affected area until it fixes its service. This
+proposed Bill makes clear that it adds to, and never subtracts from, the
+protections already granted by the Konektadong Pinoy Act.
+
+     Every peso a Filipino family spends on internet should buy the service that
+was promised. This bill makes sure that it does.
+
+     In view of the foregoing, the immediate passage of this bill is earnestly
+sought.
+
+
+
+
+                                                  ALFRED C. DELOS SANTOS
+                                     Representative, Ang Probinsyano Party-List
+                          Republic of the Philippines
+                        HOUSE OF REPRESENTATIVES
+                          Quezon City, Metro Manila
+
+                            TWENTIETH CONGRESS
+                             Second Regular Session
+
+                                          11684
+                       HOUSE BILL NO. _______________
+
+
+                      Introduced by ANG PROBINSYANO
+                 Party-List Representative Alfred Delos Santos
+
+
+                          AN ACT
+ESTABLISHING MINIMUM INTERNET CONNECTION SPEEDS AND QUALITY
+  OF SERVICE STANDARDS, PROTECTING THE RIGHTS OF INTERNET
+SUBSCRIBERS, SUPPLEMENTING REPUBLIC ACT NO. 12234, OTHERWISE
+    KNOWN AS THE “KONEKTADONG PINOY ACT,” AND FOR OTHER
+                         PURPOSES
+
+       Be it enacted by the Senate and the House of Representatives of the
+Philippines in Congress assembled:
+
+      SECTION 1. Short Title. – This Act shall be known as the “Minimum
+Internet Speed Act of 2026.”
+
+      SECTION 2. Declaration of Policy. – Pursuant to Article II, Section 24 of
+the Constitution, the State recognizes the vital role of communication and
+information in nation-building. The State shall ensure that all Filipinos, in urban
+and rural areas alike, have access to reliable, quality, and affordable internet
+service, and shall protect subscribers against substandard service and
+misleading advertising of internet speeds.
+
+      SECTION 3. Definition of Terms. – For purposes of this Act:
+
+      (a) Advertised speed refers to the download and upload speeds represented
+          by a provider in any advertisement, plan description, or subscription
+          contract;
+      (b) Broadband refers to high-speed internet service that is always on,
+          transmitted through wired or wireless technologies such as, but not
+          limited to, fiber optic cable, digital subscriber line, cable modem, fixed
+          wireless, cellular mobile, and satellite;
+      (c) Provider refers to any data transmission industry participant, as
+          defined under Republic Act No. 12234, otherwise known as the
+          “Konektadong Pinoy Act,” and any public telecommunications entity,
+          that offers internet access service to the public for a fee;
+      (d) Service reliability refers to the percentage of time over a given period
+          during which a provider delivers the required percentage of the
+          advertised speed to a subscriber;
+      (e) Threshold speed refers to the minimum download speed that a provider
+          must offer and deliver as its entry-level paid broadband service under
+          Section 4 of this Act; and
+      (f) Unserved and underserved areas shall have the meanings given under
+          Section 3(aa) and Section 3(y) of Republic Act No. 12234, respectively,
+          as identified by the Department of Information and Communications
+          Technology (DICT) under Section 6(h) thereof.
+
+       SECTION 4. Minimum Threshold Speeds. – Within one (1) year from the
+effectivity of this Act, no provider shall offer paid broadband service with an
+entry-level download speed lower than the following:
+
+      (a) Fifty (50) megabits per second (Mbps) for wired broadband and ten (10)
+          Mbps for wireless broadband in metropolitan areas and highly
+          urbanized cities;
+      (b) Twenty-five (25) Mbps for wired broadband and five (5) Mbps for
+          wireless broadband in all other cities; and
+      (c) Ten (10) Mbps for wired broadband and three (3) Mbps for wireless
+          broadband in all municipalities.
+
+       No provider shall, by reason of a fair usage policy, data cap, or similar
+limitation, reduce the speed of any paid broadband plan below the applicable
+threshold speed during the billing period.
+
+       Providers that expand coverage into unserved and underserved areas shall
+not be subject to the threshold speeds in such areas for a period of three (3)
+years from the start of their commercial operations therein: Provided, That such
+providers shall remain subject to Section 5 of this Act and to the performance
+standards issued under Section 15 of Republic Act No. 12234: Provided, further,
+That this exemption shall not apply in any area where the provider already
+offered broadband service at the effectivity of this Act.
+
+       Nothing in this Section shall apply to free internet service, including the
+free public internet access program under Republic Act No. 10929, otherwise
+known as the “Free Internet Access in Public Places Act,” which shall continue
+to be governed by its own standards.
+
+       SECTION 5. Delivery of Advertised Speeds. – Providers shall advertise and
+offer only such internet speeds as they can consistently deliver. Providers shall
+deliver to their subscribers at least eighty percent (80%) of the advertised speed
+at least eighty percent (80%) of the time, including during peak hours. Speed
+and service reliability shall be measured in accordance with the methodology
+prescribed by the National Telecommunications Commission (NTC) under
+Section 6 of this Act. Every advertisement, plan description, and subscription
+contract shall state, in clear and conspicuous terms, the minimum download
+and upload speeds that the provider guarantees to deliver under this Section,
+alongside any maximum or “up to” speed.
+
+      SECTION 6. Measurement, Monitoring, and Review of Standards. – To
+monitor and enforce compliance with this Act, the NTC, in coordination with the
+DICT, shall:
+
+      (a) Within six (6) months from the effectivity of this Act and after public
+          consultation with consumer organizations, civil society organizations,
+          and local government units, prescribe the criteria and methodology for
+          measuring broadband quality of service, including download and
+          upload speed, latency, packet loss, jitter, and service availability, with
+          measurements taken during peak hours and in rural areas;
+      (b) Provide the public with a free, secure, and easy-to-use tool to test their
+          internet connection, the results of which may be used in support of
+          complaints, and which, when conducted in accordance with the
+          methodology prescribed under paragraph (a), shall constitute prima
+          facie evidence of the speed delivered to the subscriber;
+      (c) Conduct regular network audits and quality-of-service tests, and
+          publish at least monthly on its website the results per provider and per
+          region, in a format that can easily be analyzed by the public, together
+          with the list of providers found to have violated this Act; and
+      (d) Review the threshold speeds and other quality-of-service standards
+          annually and upgrade them as necessary to bring them at par with
+          regional and international benchmarks: Provided, That the NTC shall
+          not lower the threshold speeds set in this Act: Provided, further, That
+          new standards shall be published at least thirty (30) days before they
+          take effect.
+
+      The performance standards issued by the NTC under Republic Act No.
+12234 shall not be lower than the minimum standards set in this Act. Where the
+performance standards issued under Republic Act No. 12234 are higher than
+those set in this Act, the higher standards shall prevail.
+
+      SECTION 7. Rights of Subscribers. – In addition to the rights provided
+under existing laws, including Section 25 of Republic Act No. 12234, every
+internet subscriber shall have the right to:
+
+      (a) Receive internet service that is reliable, non-discriminatory, and
+          compliant with the standards set under this Act and by the NTC;
+      (b) Have service installed within thirty (30) days from application, and
+          receive a full refund of any installation fee and advance payment if the
+          provider fails to do so;
+      (c) Receive, without need of demand, the timely correction of billing errors
+          and a pro-rated rebate for any service interruption lasting more than
+          twenty-four (24) continuous hours or for an aggregate of seventy-two
+          (72) hours within a billing period, which rebate shall be credited in the
+          next billing statement;
+      (d) Terminate the subscription without pre-termination fees or penalties,
+          and with a refund of any advance payment for the unused period,
+          when the provider repeatedly fails to comply with Sections 4 and 5 of
+          this Act or with the performance standards issued under Republic Act
+          No. 12234;
+      (e) Have complaints on slow internet speed, service interruption, and false
+          advertising of speeds acted upon through an expeditious complaint
+          mechanism to be established by the NTC, under which providers shall
+          act on a complaint within seven (7) days from receipt, and the NTC
+          shall resolve any complaint not so acted upon within thirty (30) days
+          from its filing; and
+      (f) Receive a reduction of the monthly fee, in proportion to the shortfall,
+          for any billing period during which the provider fails to comply with
+          Section 5 of this Act, as established by the measurements of the NTC
+          or by test results under Section 6(b) of this Act.
+
+      SECTION 8. Penalties. – The NTC, upon complaint, and after due notice
+and hearing, shall require any provider that violates Sections 4, 5, or 7 of this
+Act to comply with the standards not met, and shall impose the following
+penalties:
+
+      (a) For failure to comply with Section 4 or 5 of this Act, which shall be
+          deemed a failure to comply with the minimum performance standards,
+          the penalties under Section 21(1) of Republic Act No. 12234, which
+          shall be imposed for each day of default;
+      (b) For advertising speeds in violation of Section 5 of this Act, which shall
+          constitute false advertising under Section 20(c) of Republic Act No.
+          12234, the penalties under Section 21(3) thereof, without prejudice to
+          the penalties under Republic Act No. 7394, otherwise known as the
+          “Consumer Act of the Philippines”;
+      (c) For violation of Section 7 of this Act, the penalties under Section 21(5)
+          of Republic Act No. 12234; and
+      (d) For repeated violations, the penalties under Section 21(1)(b) and
+          Section 21(4) of Republic Act No. 12234: Provided, That upon a second
+          finding of violation of Section 4 or 5 of this Act within a period of twelve
+          (12) months, the NTC shall order the provider to stop accepting new
+         subscribers in the affected service area until it demonstrates
+         compliance.
+
+       The foregoing shall be without prejudice to other remedies available under
+existing laws, including the right of subscribers to claim damages.
+
+      SECTION 9. Relation to Republic Act No. 12234. – This Act shall be
+construed as supplementing Republic Act No. 12234. Nothing in this Act shall
+be construed to diminish the rights of users under Section 25 of the said Act, or
+to delay, suspend, or lower the performance standards, penalties, and other
+obligations of providers under the said Act. Any doubt in the interpretation of
+this Act shall be resolved in favor of the subscriber.
+
+       SECTION 10. Implementing Rules and Regulations. – Within sixty (60) days
+from the effectivity of this Act, the DICT and the NTC shall, after consultation
+with consumer organizations and civil society organizations, jointly issue the
+rules and regulations necessary for the implementation of this Act. The NTC shall
+submit an annual report on the implementation of this Act, including the
+compliance of each provider, the complaints received and resolved, and the
+penalties imposed, to the appropriate committees of the Senate and the House
+of Representatives.
+
+       SECTION 11. Separability Clause. – If any provision or part of this Act is
+held invalid or unconstitutional, the remaining provisions or parts not affected
+shall remain in full force and effect.
+
+       SECTION 12. Repealing Clause. – All laws, decrees, executive orders,
+rules, and regulations, or parts thereof, inconsistent with the provisions of this
+Act are hereby repealed, amended, or modified accordingly.
+
+      SECTION 13. Effectivity. – This Act shall take effect fifteen (15) days after
+its publication in the Official Gazette or in a newspaper of general circulation.
+
+      Approved,
+

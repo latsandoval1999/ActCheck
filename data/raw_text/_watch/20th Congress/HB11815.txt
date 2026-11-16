@@ -1,0 +1,339 @@
+                             Republic of the Philippines
+                           HOUSE OF REPRESENTATIVES                            November 9, 2026
+                             Quezon City, Metro Manila
+                                                                                  4:33 pm
+
+                               TWENTIETH CONGRESS
+                                Second Regular Session
+
+                                House Bill No. 11815
+
+
+       Introduced by REPRESENTATIVE MARCELINO ‘MARCY’ R. TEODORO
+
+
+                             AN ACT
+PROTECTING DIGITAL LIKENESS AND PERSONA RIGHTS BY CONFERRING
+ECONOMIC RIGHTS OVER AN INDIVIDUAL'S IMAGE, VOICE, AND LIKENESS,
+ESTABLISHING TECHNICAL FORENSIC AND REGULATORY CAPABILITIES,
+PROVIDING SAFE HARBORS AND EXEMPTIONS, AND IMPOSING PENALTIES FOR
+VIOLATIONS THEREOF
+
+                                 EXPLANATORY NOTE
+
+With the rapid emergence and proliferation of generative Artificial Intelligence (AI)
+technologies, cloning vocal signatures, manipulating visual media, and synthesizing
+realistic deepfakes have become increasingly accessible. This technological leap has
+severely blurred the line between authentic human conduct and fabricated digital media,
+leaving individuals vulnerable to unauthorized digital exploitation. Beyond personal
+privacy, this capability poses acute threats to personal reputation, individual dignity,
+financial security, and public trust. When deployed without consent, synthetic media
+becomes a potent tool for online harassment, defamation, fraud, commercial exploitation,
+and targeted misinformation.
+
+Across the globe, governments are recognizing that legacy laws are no longer sufficient
+to combat algorithmic impersonation, prompting a massive wave of international
+legislative action. To cite examples, there is the European Union's Artificial Intelligence
+Act enacted in 2024 which establishes strict transparency and disclosure requirements
+for synthetic media, enforcing mandatory machine-readable watermarking for generative
+AI outputs and clear, visible labeling for all deepfakes and AI-manipulated content,
+specifically stated in Article 50 of the Act. In Denmark, there is a pending bill which
+proposes a copyright law that would give citizens ownership of their face, voice, and body
+to fight against AI deepfakes. In the United States, the State of Tennessee pioneered
+direct identity safeguards through the Ensuring Likeness Voice and Image Security Act
+(ELVIS Act) enacted in 2024, protecting vocal and visual likenesses from AI cloning, while
+federal initiatives like the TAKE IT DOWN Act (An Act to Require Covered Platforms to
+Remove Nonconsensual Intimate Visual Deceptions, and for Other Purposes) passed by
+the U.S. Congress and signed into law in May 2025, it criminalizes the online publication
+of non-consensual intimate imagery (NCII)—including AI-generated deepfake
+pornography—and mandates that online platforms remove such content within 48 hours.
+South Korea enacted its AI Basic Act and severe criminal amendments penalizing the
+distribution and possession of sexually explicit deepfakes, while Singapore enforces strict
+election and safety laws, such as the Elections Integrity of Online Advertising
+(Amendment) Act or (ELIONA), which targets deceptive digital media during election
+periods.
+
+While several statutory frameworks in the Philippines touch upon aspects of personal
+identity and digital misuse, none were structurally designed to address the unique
+complexities presented by generative AI and synthetic identity theft:
+
+   •   The Civil Code of the Philippines (Republic Act No. 386): Article 26 protects
+       personal dignity and privacy, providing civil remedies against prying into private
+       life and the unauthorized commercial exploitation of a person's name or portrait.
+       However, its remedies are strictly retroactive and civil in nature, lacking rapid-
+       response mechanics or preventive administrative recourse against real-time digital
+       dissemination.
+   •   The Intellectual Property Code of the Philippines (Republic Act No. 8293):
+       Section 123(c) prevents the registration of trademarks containing the name,
+       portrait, or signature of a living individual without written consent. Beyond
+       trademark registration, however, traditional intellectual property law remains
+       anchored to fixed original works, leaving a critical statutory gap regarding non-
+       commercial deepfakes, synthetic voice replication, and personal digital persona
+       rights.
+   •   The Cybercrime Prevention Act of 2012 (Republic Act No. 10175): Section
+       4(b)(3) penalizes computer-related identity theft involving the unauthorized
+       acquisition or misuse of identifying data online. Yet, establishing computer-related
+       identity theft requires proving traditional elements of fraud or economic deceit,
+       which fails to capture non-fraudulent reputational damage, deepfake harassment,
+       or non-consensual biometric simulation.
+   •   The Data Privacy Act of 2012 (Republic Act No. 10173): While protecting
+       personal data processing and empowering the National Privacy Commission to
+       penalize unauthorized profiling, it treats personal image and voice primarily as
+       informational data points rather than conferring an affirmative, standalone property
+       right over one's synthesized digital persona.
+   •   The Safe Spaces Act (Republic Act No. 11313): Section 12 addresses gender-
+       based online sexual harassment, penalizing non-consensual cyber-flashing and
+       the unauthorized upload of intimate photos or videos. While vital, its scope is
+       restricted to sexually explicit content and gender-based harassment, leaving non-
+       intimate commercial deepfakes, unauthorized political impersonations, and
+       general vocal/visual cloning unaddressed.
+
+To bridge these statutory divides, a specialized, sui generis legislative framework is
+necessary. Existing laws remain fragmented, reactive, and reliant on legal definitions
+tailored to pre-AI paradigms. Current statutes fail to hold online hosting services and
+social media platforms explicitly accountable under compulsory notice-and-takedown
+mandates with strict statutory deadlines. Furthermore, existing laws do not grant
+individuals an inherent, enforceable property right over their voice timbre, speech
+patterns, facial features, and digital likeness independent of a pre-existing copyrighted
+work.
+
+This measure — the "Digital Likeness and Persona Rights Act" — establishes a
+comprehensive, specialized legal regime tailored directly to the challenges of artificial
+intelligence. The bill explicitly vests in every individual an exclusive, personal economic
+right over the commercial exploitation and public dissemination of their own image, voice,
+and likeness, including any realistic digital imitation or deepfake thereof. By classifying
+this right as a sui generis intellectual property right that subsists independently of
+traditional copyright fixation, this legislation creates a robust legal foundation to protect
+personal identity, impose strict notice-and-takedown obligations on digital platforms, and
+provide both civil and criminal redress for victims of unauthorized AI manipulation.
+
+In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+
+                                          REP. MARCELINO “MARCY” R. TEODORO
+                                                  1st District, Marikina City
+                              Republic of the Philippines
+                            HOUSE OF REPRESENTATIVES
+                              Quezon City, Metro Manila
+
+                                 TWENTIETH CONGRESS
+                                  Second Regular Session
+
+                                  House Bill No. 11815
+
+
+       Introduced by REPRESENTATIVE MARCELINO ‘MARCY’ R. TEODORO
+
+
+                             AN ACT
+PROTECTING DIGITAL LIKENESS AND PERSONA RIGHTS BY CONFERRING
+ECONOMIC RIGHTS OVER AN INDIVIDUAL'S IMAGE, VOICE, AND LIKENESS,
+ESTABLISHING TECHNICAL FORENSIC AND REGULATORY CAPABILITIES,
+PROVIDING SAFE HARBORS AND EXEMPTIONS, AND IMPOSING PENALTIES FOR
+VIOLATIONS THEREOF
+
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+assembled:
+
+SECTION 1. Short Title. — This Act shall be known as the "Digital Likeness and
+Persona Rights Act".
+
+SEC. 2. Declaration of Policy. — It is hereby declared the policy of the State to uphold
+the rights of its citizens in the protection of their dignity, privacy, and personal identity.
+The State recognizes the capability of Artificial Intelligence (AI) to create realistic digital
+imitations of an individual's image, voice, and likeness, that if misused, could easily be
+utilized as a means to spread misinformation, defamation, fraud, identity theft, emotional
+stress, and other forms of harm. This Act aims to balance the protection of individual
+rights with the promotion of technological innovation and freedom of expression. Toward
+this end, the State shall implement measures to achieve the following objectives:
+
+       a) Enable individuals to demand the removal of AI-generated content using their
+       likeness without consent;
+
+       b) Provide a legal basis for individuals to seek just compensation if harmed by
+       unauthorized AI-generated or manipulated content; and
+
+       c) Establish clear responsibilities and accountability for online platforms hosting
+       deepfakes and other AI-generated content that violate this Act.
+SEC. 3. Definition of Terms. — As used in this Act, the following terms shall be defined
+as follows:
+
+      a) ‘Artificial Intelligence or AI’ refers to computerized methods and tools, including
+      but not limited to machine learning and natural language processing, that act in a
+      way that resembles human cognitive abilities when solving problems or performing
+      certain tasks;
+
+      b) ‘Consent’ refers to affirmative, conscious, and voluntary authorization made by
+      an individual free from force, fraud, duress, misrepresentation, or coercion;
+
+      c) ‘Persona Rights’ refer to the exclusive economic and proprietary rights of
+      identifiable individuals over their own image, voice, and likeness, irrespective of
+      traditional copyright fixation;
+
+      d) ‘Deepfake’ refers to any video recording, motion-picture film, sound recording,
+      electronic image, or photograph, or any technological representation of speech or
+      conduct substantially derivative thereof:
+
+          1. which appears to authentically depict any speech or conduct of a person
+             who did not in fact engage in such speech or conduct; and
+          2. the production of which was substantially dependent upon technical means,
+             rather than the ability of another person to physically or verbally
+             impersonate such person;
+
+      e) ‘Digital Forgery’ refers to any intimate visual depiction of an identifiable
+      individual created through the use of software, machine learning, artificial
+      intelligence, or any other computer-generated or technological means, including
+      by adapting, modifying, manipulating, or altering an authentic visual depiction, that,
+      when viewed as a whole by a reasonable person, is indistinguishable from an
+      authentic visual depiction of the individual;
+
+      f) ‘Generative AI System’ refers to any system, tool, or platform that uses artificial
+      intelligence to generate or substantially modify video, audio, or print text content;
+
+      g) ‘Identifiable Individual’ refers to a person who appears in whole or in part in an
+      intimate visual depiction or synthetic media; and whose face, likeness, voice, or
+      other distinguishing characteristic is displayed or reproduced in connection
+      therewith;
+
+      h) ‘Likeness’ refers to an individual's image, name, voice, or other distinctive
+      features that are uniquely identified with the individual;
+
+      i) ‘Online Platform’ refers to any digital service which allows its users to upload,
+      share, or disseminate content to the public, including social media networks, video-
+      sharing platforms, and content hosting services; and
+       j) ‘Voice’ refers to the unique vocal characteristics, timbre, and speech patterns or
+       mannerisms of an individual.
+
+SEC. 4. Nature and Scope of Persona Rights Over Image, Likeness, and Voice. —
+Every individual shall possess an exclusive and personal right to control the commercial
+exploitation and public dissemination of their own image, voice, and likeness, including
+any realistic digital imitation or deepfake thereof. Notwithstanding the provisions of the
+Intellectual Property Code of the Philippines, as amended, this right shall be treated as
+an intellectual property right and shall subsist irrespective of whether the individual's
+image, voice, or likeness appears in a copyrighted work.
+
+SEC. 5. Prohibited Acts. — The following acts shall be considered unlawful:
+
+       a) Generating, creating, or disseminating a deepfake of an individual's image,
+       voice, or likeness for commercial use, or through a manner that implies
+       endorsement of a product or service, without the explicit and informed consent of
+       the individual concerned;
+
+       b) Generating, creating, or disseminating a deepfake of an individual's image,
+       voice, or likeness regardless of commercial intent, if the material is intended to
+       cause harm, including, but not limited to, psychological, financial, or reputational
+       harm, or to spread misinformation or disinformation against the identifiable
+       individual;
+
+       c) Committing digital forgery: Provided, That the intimate visual depiction was
+       obtained or created under circumstances in which the person knew or reasonably
+       should have known that the identifiable individual had a reasonable expectation of
+       privacy; and
+
+       d) Failure on the part of an online platform to prevent or remove a deepfake of any
+       identifiable individual within forty-eight (48) hours from receipt of notice.
+
+SEC. 6. Statutory Exceptions and Permitted Uses. — To safeguard freedom of
+expression, creativity, and the public interest, the prohibitions under Section 5 of this Act
+shall not apply to the following, provided they do not constitute commercial endorsement
+or malicious defamation:
+
+       a) Parody, Satire, and Artistic Expression - Use of an individual's likeness in works
+       created primarily for caricature, satire, parody, or artistic expression;
+
+       b) News, Public Affairs, and Documentary - Use of likeness in bona fide news
+       reporting, broadcasting, public archives, historical accounts, or documentaries
+       addressing matters of legitimate public interest; and
+
+       c) Public Discourse - The incidental, non-malicious depiction of public officials or
+       public figures in the course of political critique or public discourse.
+SEC. 7. Platform Compliance, Designated Agents, and Counter-Notices. — Online
+platforms operating in the Philippines shall have the following duties and protection:
+
+      a) Every online platform operating or serving users in the Philippines shall establish
+      a transparent notice-and-takedown mechanism and designate a local legal
+      compliance agent or electronic channel specifically for receiving deepfake removal
+      notices.
+
+      b) Platforms shall provide a good-faith counter-notice procedure allowing users
+      whose content was removed to challenge takedowns that fall under the statutory
+      exceptions in Section 6.
+
+      c) Online platforms that promptly comply with valid takedown notices within the
+      prescribed 48-hour period shall enjoy safe harbor protection from civil damages
+      arising from the hosting of the disputed material.
+
+SEC. 8. Evidentiary Presumptions and Mandatory Watermarking. —
+
+      a) Generative AI developers and platforms operating in the Philippines shall embed
+      verifiable digital watermarks or clear metadata labels identifying synthetic media
+      as AI-generated.
+
+      b) Once the Department of Information and Communications Technology (DICT)
+      or law enforcement certifies that media exhibits technical indicators of
+      unwatermarked or malicious AI manipulation, a rebuttable presumption shall arise
+      in judicial proceedings that the content is unauthorized.
+
+SEC. 9. Extraterritorial Application. — This Act shall apply to any online platform,
+service provider, or individual that generates, hosts, or disseminates unauthorized
+deepfakes targeting any citizen or resident of the Philippines, regardless of the physical
+location of the platform's servers or corporate domicile. Non-compliant foreign platforms
+may face administrative restrictions, throttling, or suspension of operations within
+Philippine cyberspace through the DICT and the National Telecommunications
+Commission (NTC).
+
+SEC. 10. Penalties. — Any person, juridical or otherwise, found violating Section 5(a),
+(b), and (c) of this Act shall be punished with imprisonment of prision mayor or a fine of
+not less than Five hundred thousand pesos (P500,000.00) but not more than One million
+pesos (P1,000,000.00), or both, at the discretion of the court. Any person found guilty of
+the punishable act under Section 5(d) of this Act shall be punished with imprisonment of
+prision correccional or a fine of not less than Two hundred thousand pesos (P200,000.00)
+but not more than Five hundred thousand pesos (P500,000.00), or both.
+
+Any identifiable individual who suffered injury by reason of or on the occasion of the
+commission of the acts punishable under Section 5 of this Act shall be entitled to the
+award of moral, exemplary, and actual damages under the Civil Code of the Philippines.
+When any of the acts punishable under Section 5 of this Act is committed by a juridical
+person, the principal penalty of imprisonment shall be imposed upon the president,
+manager, director, officer, agent, or employee who directly violated or caused, directed,
+cooperated, or participated in the commission of the violation.
+
+SEC. 11. Enhancement of Forensic and Detection Capabilities. — The Department
+of Information and Communications Technology (DICT), in coordination with the National
+Privacy Commission (NPC) and the Cybercrime Investigation and Coordinating Center
+(CICC), shall establish and maintain advanced technical capabilities for the detection,
+analysis, and forensic verification of deepfakes, synthetic media, and digital forgeries.
+The DICT shall likewise provide technical assistance, forensic validation, and
+authentication support to law enforcement agencies and aggrieved individuals in
+evaluating contested digital content.
+
+SEC. 12. Appropriations and Budgetary Allocation. — The initial funding necessary
+for the procurement of advanced media authentication software, watermark-tracking
+tools, and the establishment of technical forensic infrastructure under this Act shall be
+charged against the current year's appropriations of the Department of Information and
+Communications Technology (DICT) and the National Privacy Commission (NPC).
+Thereafter, such sums as may be necessary for continuous capacity building,
+technological upgrading, and operational maintenance of implementing agencies shall be
+included in the annual General Appropriations Act.
+
+SEC. 13. Implementing Rules and Regulations. — Within ninety (90) days from the
+effectivity of this Act, the Department of Justice (DOJ), the Department of Information and
+Communications Technology (DICT), and the National Privacy Commission (NPC) shall
+jointly promulgate the necessary rules and regulations for its effective implementation.
+
+SEC. 14. Separability Clause. — If any provision or part hereof is declared
+unconstitutional, the remainder of this Act or any provision not affected thereby shall
+remain in full force and effect.
+
+SEC. 15. Repealing Clause. — All laws, acts, decrees, executive orders, issuances, and
+rules and regulations or parts thereof which are contrary to or inconsistent with this Act
+are hereby repealed, amended, or modified accordingly.
+
+SEC. 16. Effectivity. — This Act shall take effect fifteen (15) days after its publication in
+the Official Gazette or in a newspaper of general circulation.
+
+Approved,
+

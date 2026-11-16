@@ -1,0 +1,922 @@
+===== [page 1] =====
+REPRES S
+
+. , &
+E-Filed “\
+RECEIVED zZ
+DATE October 12, 2026 py
+
+TIME 4:40 pm *
+By Jonah <4
+Wo inper?
+
+x
+Z,°
+
+Republic of the Philippines
+HOUSE OF REPRESENTATIVES
+Quezon City, Metro Manila
+
+TWENTIETH CONGRESS
+Second Regular Session
+
+HOUSE BILL No. 11700
+
+Introduced by: Congressman Irwin C. Tieng
+
+AN ACT AMENDING REPUBLIC ACT NUMBER 9510, OTHERWISE KNOWN AS THE
+“CREDIT INFORMATION SYSTEM ACT”, AND FOR OTHER PURPOSES
+
+EXPLANATORY NOTE
+
+A strong and reliable credit information system is essential to economic growth and financial stability.
+As the Philippines continues to strengthen its financial infrastructure, it must ensure that its credit
+reporting framework meets internationally recognized standards. The World Bank’s General
+Principles for Credit Reporting recognize that an effective credit registry is a critical tool for
+safeguarding the soundness of the financial system. These principles highlight the need for: (i) a
+strong regulatory and enforcement framework; (ii) high-quality and reliable data; (iii) secure and
+efficient systems and technology; and (iv) sound governance and adequate financial resources. A
+well-functioning credit information system enables lenders to make informed credit decisions,
+supports regulators in identifying and addressing systemic risks, and expands access to fair and
+affordable credit for individuals and businesses. It also enhances market discipline, promotes
+responsible lending, and reduces information asymmetry between borrowers and creditors. Viewed
+through the lens of financial inclusion, prudent regulation, and evidence-based policymaking, this
+measure is both timely and necessary.
+
+Republic Act No. 9510, or the Credit Information System Act (CISA), was enacted to establish a
+comprehensive and centralized credit information system for the collection and dissemination of fair
+and accurate information arising from credit and credit-related activities in the financial system. To
+carry out this mandate, the law created the Credit Information Corporation (CIC) as the central
+repository of credit information, tasked with receiving and consolidating basic credit data and
+providing access to reliable and standardized information on the credit history and financial condition
+of borrowers. The CIC is a government-owned and controlled corporation (GOCC) subject to the
+oversight of the Governance Commission for GOCCs (GCG), including the review of its policies,
+operations, and major decisions, pursuant to Republic Act No. 10149, or the GOCC Governance Act
+of 2011.
+
+In the course of implementing the CISA, the CIC has encountered operational and institutional
+challenges that affected the pace of its development. During its early years, the CIC relied
+significantly on National Government support as it worked toward financial sustainability. It also
+faced challenges in enforcing compliance among submitting entities, particularly those outside its
+direct regulatory oversight, as well as operational constraints relating to information technology
+infrastructure and data processing capacity. These experiences underscored the need to strengthen the
+legal and institutional framework governing the country's credit information system. They likewise
+highlighted the limitations of maintaining a credit registry independent of the country’s central
+monetary authority, whose existing regulatory powers and supervisory reach are essential to ensuring
+comprehensive credit data submission and effective enforcement of reporting obligations.
+
+===== [page 2] =====
+This bill seeks to amend the CISA by converting the CIC into a subsidiary of the Bangko Sentral ng
+Pilipinas (BSP), thereby institutionalizing the establishment and maintenance of a centralized credit
+information system under the BSP. The bill also transfers primary regulatory, supervisory, and
+rulemaking authority from the Securities and Exchange Commission to the BSP, including
+responsibility to issue implementing rules, prescribe accreditation standards, regulate access and fees,
+enforce compliance, and oversee the transition and reorganization of the CIC. The proposed transfer
+recognizes the BSP’s unique position as the country’s central monetary authority, bank supervisor, and
+overseer of the payments and financial system. The BSP already exercises supervisory and regulatory
+authority over banks and other supervised institutions, maintains extensive financial sector databases,
+and possesses the technical expertise, institutional independence, and cybersecurity capabilities
+necessary for the effective operation of a national credit information system. Aligning the credit
+registry with the BSP’s financial stability mandate will promote more timely access to reliable credit
+information, improve regulatory oversight, and support the development of a more efficient and
+resilient credit market.
+
+With this bill, the Philippines stands to benefit from embracing a globally tested institutional model. A
+substantial majority of countries surveyed by the World Bank have entrusted their public credit
+registries to the stewardship of their central banks or financial supervisory authorities. Moreover, in a
+paper issued in 2011 by the World Bank entitled “General Principles for Credit Reporting,” the World
+Bank posits that credit registries provide supervisors with an additional offsite tool for systemic risk
+concentration monitoring and assessing overall portfolio quality, to identify discrepancies in borrower
+ratings among banks or to identify trends in lending. It also notes that, with a very few exceptions,
+credit registries are commonly owned and operated by central banks or other financial supervisors.
+This international practice reflects the close relationship between credit information systems and the
+broader objectives of financial stability, prudential supervision, and risk monitoring. Placing the
+credit registry under the central bank enables supervisory authorities to more effectively identify
+credit concentrations, emerging vulnerabilities, and interconnected risks within the financial system,
+while ensuring that credit information remains subject to robust governance and data protection
+standards.
+
+This global consensus reflects the recognition that central banks, by virtue of their institutional
+independence, technical expertise, and mandate to safeguard financial stability, are uniquely
+positioned to oversee credit information systems in a manner that ensures security, neutrality, and
+effective utilization of data for the public interest. By integrating the CIC under the control and
+supervision of BSP, the BSP would gain direct access to comprehensive and reliable credit data,
+
+strengthening its supervisory oversight, risk assessment capabilities, and evidence-based
+policymaking.
+
+At its heart, this bill is about enabling a future where every Filipino has the opportunity to participate
+in a credit system that is fair, accessible, and trustworthy. By entrusting the CIC to the BSP, we pave
+the way for a more inclusive financial ecosystem where data becomes a tool for empowerment rather
+than exclusion, and where responsible credit becomes a call to upliftment rather than a barrier.
+
+is
+
+Considering the foregoing, the immediate passage of this billfislearnestly sought.
+
+_—-.
+
+=
+
+IRWIN C. TIE
+Representative, Fifth District Manila
+
+
+===== [page 3] =====
+were
+
+WOMAN ANH WN PR
+
+Republic of the Philippines
+HOUSE OF REPRESENTATIVES
+Quezon City, Metro Manila
+
+TWENTIETH CONGRESS
+Second Regular Session
+
+HOUSE BILL No.11700
+
+Introduced by: Congressman Irwin C. Tieng
+
+AN ACT AMENDING REPUBLIC ACT NUMBER 9510, OTHERWISE KNOWN AS THE
+“CREDIT INFORMATION SYSTEM ACT”, AND FOR OTHER PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+SECTION 1. Section 2 of Republic Act No. 9510, otherwise known as the “Credit Information
+System Act”, is hereby amended to read as follows:
+
+“Section 2. Declaration of Policy. — The State recognizes the need to establish a
+comprehensive and centralized credit information system for the collection and
+dissemination of fair and accurate information relevant to, or arising from, credit and
+credit-related activities of all entities participating in the financial system. A credit
+information system will directly address the need for reliable credit information
+concerning the credit standing and track record of borrowers.
+
+THE STATE RECOGNIZES THAT AN EFFICIENT CREDIT INFORMATION
+SYSTEM SUPPORTS THE MANDATE OF THE BANGKO SENTRAL NG
+PILIPINAS (BSP) TO EFFECTIVELY REGULATE AND SUPERVISE CREDIT-
+GRANTING BUSINESSES, PROMOTES FINANCIAL STABILITY, AND
+STRENGTHENS THE BSP’S POLICY FORMULATION IN THE AREAS OF
+MONEY, BANKING, AND CREDIT.
+
+The operations and services of a credit information system can be expected to: greatly
+improve the overall availability of credit especially to micro, small and medium-scale
+enterprises; provide mechanisms to make credit more cost-effective; and reduce the
+excessive dependence on collateral to secure credit facilities.
+
+IN VIEW OF THE IMPORTANT ROLE THAT CREDIT INFORMATION
+PLAYS IN FINANCIAL DECISION-MAKING, THE STATE RECOGNIZES
+THAT THE COLLECTION AND DISSEMINATION OF SUCH INFORMATION
+SERVE A PUBLIC UTILITY FUNCTION WITHIN THE FINANCIAL SYSTEM.
+ACCORDINGLY, THE STATE SHALL ENDEAVOR TO ENSURE THAT
+ACCESS TO CREDIT INFORMATION IS DEMOCRATIZED AND
+REASONABLE, IN ORDER TO PROMOTE BROAD AND FAIR ACCESS
+AMONG PARTICIPANTS.
+
+==. PAS
+
+LIKEWISE ensure the protection of consumer rights,
+INCLUDING THE RIGHT OF FINANCIAL CONSUMERS TO ACCESS,
+DISPUTE, AND REQUEST CORRECTION OF INACCURATE OR
+
+The State shall [erndes
+
+
+===== [page 4] =====
+WOON DUPBWNE
+
+INCOMPLETE CREDIT INFORMATION IN A TIMELY AND EFFECTIVE
+MANNER, and the existence of fair competition in the industry at all times. [An
+
+SECTION 2. Section 3 of the same Act is hereby amended to read as follows:
+
+“Section 3. Definition of Terms. - For purposes of this Act:
+
+(a) "Accessing Entity" refers to any submitting entity or any other entity
+authorized by the Corporation to access [basie] credit data from the Corporation.
+
+(eb) "Borrower" refers to a natural or juridical person, including any local
+government unit (LGU), its subsidiaries and affiliates, that applies for and/or avails of a
+Credit Facility.
+
+(de) "BSP" refers to the Bangko Sentral ng Pilipinas, created under Republic Act
+No.7653 as amended by Republic Act No. 11211.
+
+(ed) "Corporation" refers to the Credit Information Corporation established
+under Section 5 of this Act.
+
+(be) "[Basie]Credit Data" refers to positive and negative credit information
+provided by a borrower to a submitting entity in connection with the application for and
+availment of a credit facility and any information on the borrower's creditworthiness in
+the possession of the submitting entity and other factual and objective information
+related or relevant thereto in the submitting entity's data files or that of other sources of
+information: Provided, That in the absence of a written waiver duly accomplished by the
+borrower, [basie] credit data shall exclude confidential information on bank deposits
+and/or clients funds under Republic Act No. 1405 (Law on Secrecy of Bank Deposits),
+Republic Act No. 6426 (The Foreign Currency Deposit Act), Republic Act No. 8791
+(The General Banking Law of 2000) [and+heitamendator;taws,] REPUBLIC ACT
+NO. 8367 (REVISED NON-STOCK SAVINGS AND LOAN ASSOCIATION ACT
+OF 1997), REPUBLIC ACT NO. 3844 (AGRICULTURAL LAND REFORM
+CODE), EXECUTIVE ORDER NO. 81, SERIES OF 1986, AS AMENDED BY
+REPUBLIC ACT NO. 8523 (THE REVISED CHARTER OF THE
+DEVELOPMENT BANK OF THE PHILIPPINES), REPUBLIC ACT NO. 7353
+(RURAL BANKS ACT OF 1992), AS AMENDED, REPUBLIC ACT NO. 7906
+(THRIFT BANKS ACT OF 1995), AND REPUBLIC ACT NO. 6848 (CHARTER
+OF THE AL-AMANAH ISLAMIC INVESTMENT BANK OF THE
+PHILIPPINES).
+
+(f) "Credit Facility" refers to any loan, credit line, guarantee or any other form
+of financial accommodation from a submitting entity: Provided, That for purposes of this
+Act, deposits in banks shall not be considered a credit facility extended by the depositor
+in favor of the bank.
+
+(g) "Credit Rating" refers to an opinion regarding the creditworthiness of a
+borrower or of an issuer of debt security, using an established and defined ranking
+system.
+
+(h) "Credit Report" refers to a summary of consolidated and evaluated
+information on creditworthiness, credit standing, credit capacity, character and general
+reputation of a borrower.
+
+(i) "Government Lending Institutions" refers to existing and future government
+financial institutions (GFIs), government-owned and -controlled corporations (GOCCs)
+primarily engaged in lending activities.
+
+===== [page 5] =====
+OWN AM PWNE
+
+(j) "Negative Credit Information" refers to information/data concerning the poor
+credit performance of borrowers, such as, but not limited to, defaults on loans, adverse
+court judgments relating to debts and reports on bankruptcy, insolvency, petitions or
+orders on suspension of payments and corporate rehabilitation.
+
+(k) "Non-Accessing Entity" refers to an entity other than a Submitting Entity,
+Special Accessing Entity or Borrower that is authorized by the Corporation to access
+credit information from a Special Accessing Entity.
+
+(1) "Outsource Entity" refers to any accredited third-party provider to whom the
+Corporation may outsource the processing and consolidation of [basie} credit data
+pertaining to a borrower or issuer of debt or convertible securities under such
+qualifications, criteria and strict confidentiality guidelines that the Corporation shall
+prescribe and duly publish.
+
+(m) "Positive Credit Information" refers to information/data concerning the
+credit performance of a borrower, such as, but not limited to, information on timely
+repayments or non-delinquency.
+
+(n) "Relevant Government Agencies" refers to the SECURITIES AND
+EXCHANGE COMMISSION, Department of Finance, Department of Trade and
+
+Industry, Bangke—Sentral_-ne—Piipinas,Insurance Commission and the Cooperative
+Development Authority.
+
+" "W
+
+(po) "Special Accessing Entity" refers to a duly accredited private corporation
+engaged primarily in the business of providing credit reports, ratings and other similar
+credit information products and services.
+
+(ep) "Submitting Entity" refers to an entity which provides credit facilities such
+as, but not limited to, banks, quasi-banks, trust entities, NON-STOCK SAVINGS AND
+LOAN ASSOCIATIONS, investment houses, financing companies, cooperatives, non-
+governmental, micro-financing organizations, credit card companies, insurance
+companies, and government lending institutions. AND OTHER ENTITIES THAT
+PROVIDE CREDIT FACILITIES AS MAY BE DETERMINED BY THE
+CREDIT INFORMATION CORPORATION.
+
+THE TERM SHALL ALSO REFER TO AN ENTITY THAT HAVE
+INFORMATION RELEVANT TO ESTABLISH CREDITWORTHINESS OF
+BORROWERS, SUCH AS BUT NOT LIMITED TO, CREDIT COLLECTION
+AGENCIES, UTILITY SERVICE PROVIDERS, and ELECTRONIC MONEY
+ISSUERS, OPERATORS OF PAYMENT SYSTEMS, AND OTHER ENTITIES
+THAT HAVE RELEVANT INFORMATION TO ESTABLISH BORROWER
+CREDITWORTHINESS AS MAY BE DETERMINED BY _ THE
+CORPORATION.”
+
+SECTION 3. Section 4 of the same Act is hereby amended to read as follows:
+
+“Section 4. Establishment of the Credit Information System. - \n furtherance of the
+policy set forth in Section 2 of this Act, a credit information system is hereby established.
+
+(a) Banks, quasi-banks, TRUST ENTITIES, AND their subsidiaries and affiliates,
+NON-STOCK SAVINGS AND LOAN ASSOCIATIONS, INVESTMENT
+HOUSES, FINANCING COMPANIES, COOPERATIVES, NON-
+GOVERNMENTAL MICRO-FINANCING ORGANIZATIONS, CREDIT CARD
+
+COMPANIES, [iife} insurance companies, [eredit—eard—eompanies,—and}
+
+===== [page 6] =====
+WOON DURPWNP
+
+GOVERNMENT LENDING INSTITUTIONS, AND other entities that provide credit
+facilities, AS WELL AS CREDIT COLLECTION AGENCIES, UTILITY
+SERVICE PROVIDERS, ELECTRONIC MONEY ISSUERS, OPERATORS OF
+PAYMENT SYSTEMS AND OTHER ENTITIES THAT HAVE RELEVANT
+INFORMATION TO ESTABLISH BORROWER CREDITWORTHINESS AS
+MAY BE DETERMINED BY THE CORPORATION, are required to submit [basie}
+credit data OR OTHER RELEVANT INFORMATION TO ESTABLISH
+BORROWER CREDITWORTHINESS, AS THE CASE MAY BE, and updates
+thereon on a regular basis to the Corporation.
+
+(be) Participating [s}Submitting [e}Entities are required to regularly submit to the
+Corporation any negative and positive credit information that tends to update and/or
+correct the credit status of [6}Borrowers. The Corporation shall fix the time interval for
+such submission: Provided, That such interval shall not be less than fifteen (15) working
+days but not more than thirty (30) working days.
+
+(Cd) The Corporation should regularly collect foaste} credit data of borrowers at least
+on a quarterly basis to correct/update the [baste] credit data of said borrowers.
+
+(De) The Corporation may also access credit and other relevant information from
+government offices, judicial and administrative tribunals, prosecutorial agencies and
+other related offices, as well as pension plans administered by the government.
+
+(Ef) Each [s}Submitting [e}Entity shall notify its borrowers of the former's obligation to
+submit the latter's [baste] credit data to the Corporation and the disclosure thereof to the
+Corporation, subject to the provisions of this Act and the implementing rules and
+regulations. SUCH NOTIFICATION SHALL, AT THE MINIMUM, INFORM
+THE BORROWER OF THE TYPE OF INFORMATION TO BE SHARED, THE
+PURPOSE OF INFORMATION SHARING, THE RECIPIENTS OR
+AUTHORIZED USERS OF THE INFORMATION, AND THE BORROWER'S
+RIGHT TO DISPUTE ERRONEOUS CREDIT INFORMATION, INCLUDING
+THE ESCALATION CHANNELS AND PROCESS.
+
+(Fg) The Corporation is in turn authorized to release [eenselidated-basie] credit data on
+the [b]Borrower, subject to the provisions of Section 6 of this Act.
+
+(Gh) The negative information on a [b}Borrower as contained in the credit history files
+of [b}Borrowers should stay in the database of the Corporation unless sooner corrected,
+for not more than three (3) years from POSFENG-and-after-the date when the negative
+credit information was rectified through payment or liquidation of the debt, or through
+settlement of debts through compromise agreements or court decisions that exculpate the
+bBorrower from liability. Negative information shall be corrected and updated within
+fifteen (15) days from the time of payment, liquidation or settlement of debts
+THROUGH COMPROMISE AGREEMENTS OR COURT DECISIONS THAT
+EXCULPATE THE BORROWER FROM LIABILITY, OR UPON THE FINAL
+VERIFICATION OF A VALID DISPUTE ESCALATED TO THE
+CORPORATION.
+
+(Hi) ACCESSING ENTITIES AND Special Accessing Entities shall be accredited by
+the Corporation in accordance with such standards and rules as the [SEC-{BSP, in
+coordination with the relevant government agencies, may prescribe.
+
+===== [page 7] =====
+WOON ODUHBWNPR
+
+(ij) ACCESSING ENTITIES AND Special Accessing Entities shall be entitled access
+to the Corporation's pool of [eenseldated-basie] credit data, subject to the provisions of
+Sections 6 and 7 of this Act and related implementing rules and regulations.
+
+(Jk) Special Accessing Entities are prohibited from releasing [basie] credit data received
+from the Corporation or credit reports and credit ratings derived from the [basie} credit
+data received from the Corporation, to non-accessing entities unless written consent or
+authorization has been obtained from the Borrower: Provided, however, That in case the
+[64Borrower is a local government unit (LGU) or its subsidiary or affiliate, the [s}Special
+[atAccessing [e}Entity may release credit information on the LGU, its subsidiary or
+affiliate upon written request and payment of reasonable fees by a constituent of the
+concerned LGU.
+
+(K) THE CORPORATION SHALL PRESCRIBE APPROPRIATE
+SAFEGUARDS TO PREVENT RISKS ARISING FROM CONFLICT OF
+INTEREST, INCLUDING BUT NOT LIMITED TO AN OUTSOURCE ENTITY
+WHO IS A RELATED PARTY TO THE ACCESSING ENTITIES OR SPECIAL
+ACCESSING ENTITIES, OR SPECIAL ACCESSING ENTITIES FROM
+ACTING AS DATABASE ADMINISTRATORS OR CONSULTANTS, TO
+ENSURE THAT CREDIT DATA PROCESSED ON BEHALF OF THE
+CORPORATION REMAINS STRICTLY CONFIDENTIAL AND IS USED
+SOLELY FOR AUTHORIZED PURPOSES,
+
+(aL) The {b}Borrower has the right to know the causes of refusal of the application for
+credit facilities or services from a financial institution that uses [basie} credit data as
+basis or ground for such refusal. SUBJECT TO PROVISIONS OF THIS ACT,
+FINANCIAL INSTITUTIONS SHALL PROVIDE CLEAR REASONS FOR THE
+REFUSAL, INCLUDING THE ADVERSE CREDIT INFORMATION USED AS
+BASIS, AND SHALL INFORM THE BORROWER OF AVAILABLE
+CONSUMER ASSISTANCE CHANNELS WHERE CONCERNS MAY BE
+ESCALATED.
+
+(eM) The [b}Borrower, [ferareasenablefeet shall have, as a matter of right, ready and
+immediate access to the credit information pertinent to the [b}Borrower. In case of
+erroneous. incomplete or misleading credit information, the subject [6}Borrower shall
+have the right to dispute the erroneous, incomplete, outdated or misleading credit
+information before the Corporation. The Corporation shall investigate and verify the
+disputed information within five (5) working days from receipt of the complaint. If its
+accuracy cannot be verified and cannot be proven, the disputed information shall be
+deleted. POSTING UPDATED INFORMATION TO THE DATABASE OF THE
+CORPORATION SHALL FOLLOW THE TIMELINES UNDER SECTION 4(G)
+OF THIS ACT. The [b}Borrower and the accessing entities and special accessing
+entities who have received such information shall be informed of the corresponding
+correction or removal, INCLUDING THE TIMELINE FOR ITS POSTING, within
+five (5) working days. The Corporation should use a simplified dispute resolution
+process to fast track the settlement/resolution of disputed credit information. Denial of
+these [b}Borrowers' rights, without justifiable reason, shall entitle the [b{Borrower to
+indemnity.
+
+===== [page 8] =====
+WOON DU BWNR
+
+THE CORPORATION SHALL ENSURE THAT FEES FOR BORROWERS AND
+ACCESSING ENTITIES THAT CONTRIBUTE DATA TO THE CREDIT
+INFORMATION SYSTEM ARE DEMOCRATIZED, REASONABLE, AND
+NON-PROFIT IN NATURE. SPECIAL ACCESSING ENTITIES, WHICH
+DERIVE BENEFIT FROM BUT DO NOT CONTRIBUTE DATA TO THE
+CREDIT INFORMATION SYSTEM, SHALL BE GRANTED ACCESS
+SUBJECT TO A REASONABLE MARKET FEE TARIFF AS DETERMINED BY
+THE CORPORATION.”
+
+SECTION 4. Section 5 of the same Act is hereby amended to read as follows:
+
+“Section 5. Establishment of the Central Credit Information Corporation. - There is
+hereby created a Corporation which shall be known as the Credit Information
+Corporation, whose primary purpose shall be to receive and consolidate [basie] credit
+data, to act as a central registry or central repository of credit information, and to provide
+access to reliable, standardized information on credit history and financial condition of
+[6}Borrowers. THE CORPORATION SHALL BE FULLY OWNED AND
+CONTROLLED BY THE BSP, WHICH SHALL EXERCISE FULL AUTHORITY
+OVER THE CORPORATION, INCLUDING THE AUTHORITY TO
+REORGANIZE THE CORPORATION, MAINTAIN THE CORPORATION AS
+ITS SUBSIDIARY, DISSOLVE OR PRIVATIZE THE CORPORATION, OR
+INTEGRATE ITS FUNCTIONS TO THE BSP. IN THE EVENT OF THE
+INTEGRATION OR DISSOLUTION OF THE CORPORATION, ALL POWERS,
+FUNCTIONS, AUTHORITIES, RIGHTS, OBLIGATIONS, ASSETS, AND
+LIABILITIES OF THE CORPORATION UNDER THIS ACT AND OTHER
+APPLICABLE LAWS SHALL, BY OPERATION OF LAW, BE TRANSFERRED
+TO AND VESTED IN THE BSP, AND THE BSP SHALL SUCCEED THE
+CORPORATION AND CONTINUE TO EXERCISE AND PERFORM SUCH
+POWERS AND FUNCTIONS WITHOUT INTERRUPTION.
+
+(a) THE CORPORATION SHALL BE EXEMPT FROM THE JURISDICTION
+OF THE GOVERNANCE COMMISSION FOR GOCCS, AND SHALL BE
+PLACED UNDER THE DIRECT CONTROL AND SUPERVISION OF THE
+BANGKO SENTRAL NG PILIPINAS.
+
+(ab) The Corporation is hereby authorized to adopt, alter, and use a corporate seal which
+shall be judicially noticed; to enter into contracts; to incur liabilities; to lease or own real
+or personal property, and to sell or otherwise dispose of the same; to sue and be sued; to
+compromise, condone or release any liability and otherwise to do and perform any and
+all things that may be necessary or proper to carry out the purposes of this Act.
+
+(be) The authorized capital stock of the Corporation shall be Five hundred million pesos
+(Php500,000,000.00), which shall be divided into 5,000,000 common [and-preferred
+pape eS gS BE FULLY oo BY THE BSP. [Fhe
+
+cco crclenc vite Seek ne oes THE MONETARY BOARD OF THE BSP
+MAY INCREASE THE AUTHORIZED CAPITAL STOCK OF THE
+CORPORATION AS MAY BE NECESSARY FOR THE ESTABLISHMENT
+AND OPERATIONALIZATION OF A COMPREHENSIVE AND
+CENTRALIZED CREDIT INFORMATION SYSTEM.
+
+===== [page 9] =====
+WOON AU RWN FE
+
+UPON THE EFFECTIVITY OF THIS ACT, ANY AND ALL SHARES OF
+STOCK PREVIOUSLY OWNED BY THE NATIONAL GOVERNMENT SHALL
+BE AUTOMATICALLY TRANSFERRED AND ASSIGNED TO THE BSP.
+FURTHERMORE, ALL SHARES PREVIOUSLY SUBSCRIBED OR HELD BY
+QUALIFIED INVESTORS, WHICH WERE THE INDUSTRY ASSOCIATIONS
+OF BANKS, QUASI-BANKS, AND OTHER CREDIT-RELATED
+ASSOCIATIONS, INCLUDING ASSOCIATION OF CONSUMERS, SHALL BE
+ACQUIRED BY THE BSP AT THEIR FAIR MARKET VALUE AS OF THE
+EFFECTIVITY OF THIS ACT, IN ACCORDANCE WITH APPLICABLE
+LAWS, RULES, AND GENERALLY ACCEPTED VALUATION STANDARDS,
+PROVIDED, THAT, THE ACQUISITION COST SHALL NOT BE MORE THAN
+THE INVESTORS’ INITIAL INVESTMENT IN THE CORPORATION.
+
+(ed) The [Natienal-Gevernment BSP may subscribe or purchase securities or
+financial instrument that may be issued by the Corporation as a supplement to capital.
+
+(fe) The [Chairman BSP GOVERNOR [ofthe SEC-4 shall be the [Chairman
+}CHAIRPERSON of the board of directors of the Corporation. Whenever the
+[Chairman BSP COV EENOS perwasie uaube to ee a eee of i board
+iotavbieersiewstc4 THE BSP GOVERNOR'S DESIGNATED ALTERNATE
+SHALL PRESIDE.
+
+The powers and functions of the Corporation shall be exercised by a board of
+directors composed of fifteen—-445)-SEVEN (7) members, INCLUDING THE
+CHAIRPERSON, AND SIX OTHER MEMBERS TO BE DESIGNATED BY THE
+MONETARY BOARD OF THE BSP. [Fhe-directors-representing the -government
+shares—she 1 -be-appeittedbs—_the President-of the PhHippites| THE MONETARY
+BOARD OF THE BSP SHALL APPOINT THE PRESIDENT OF THE
+CORPORATION. THE TERM OF OFFICE OF THE PRESIDENT AND
+MEMBERS OF THE BOARD OF DIRECTORS SHALL BE SET BY THE
+MONETARY BOARD OF THE BSP.
+
+To maintain x the quality of of
+management of the Corporation and afford better protection to the system and the public
+in general, the [SEC} BSP [i#-coordination-with the relevant government agencies}, shall
+prescribe, pass upon and review the qualifications and disqualifications of individuals
+[eleeted-or} appointed directors of the Corporation and disqualify those found unfit. After
+due notice to the board of directors of the Corporation, the [SEC} BSP may disqualify,
+suspend or remove any director who commits or omits an act which renders [him} THE
+DIRECTOR unfit for the position. In determining whether an individual is fit and proper
+to hold the position of a director of the Corporation, due regard shall be given to [his}
+THE DIRECTOR'S integrity, experience, education, training and competence.
+
+
+===== [page 10] =====
+OWN AMNBWNE
+
+The members of the board of directors AND PRESIDENT OF THE
+CORPORATION must be Filipino citizens and at least thirty (30) years of age. In
+addition, they shall be persons of good moral character, of unquestionable integrity, of
+known probity, and have attained competence in the fields of law, finance, economics,
+computer science or information technology. THEY SHALL LIKEWISE POSSESS
+NONE OF THE DISQUALIFICATIONS PRESCRIBED FOR DIRECTORS AND
+OFFICERS UNDER REPUBLIC ACT NO. 11232 OR THE REVISED
+CORT ORSTON CODE OF THE decades Bee par
+
+(hg) The board of directors shall appoint such officers and employees as are not
+otherwise provided for in this Act, define their duties, [fixtheicompensations} and
+impose THE PENALTY OF DISMISSAL FROM SERVICE [diseiphnary-sanctions}
+upon such officers and employees, for cause. The salaries and other compensation of the
+officers and employees of the Corporation shall be exempt from the Salary
+Standardization Law, AND SHALL BE DETERMINED ON THE BASIS OF JOB
+EVALUATION STUDIES AND WAGE SURVEYS, SUBJECT TO THE
+APPROVAL OF THE MONETARY BOARD OF THE BANGKO SENTRAL NG
+PILIPINAS, UPON THE RECOMMENDATION OF THE CORPORATION'S
+BOARD OF DIRECTORS; PROVIDED, THAT THE BOARD OF DIRECTORS
+SHALL ENSURE THAT THE COMPENSATION STRUCTURE CONFORMS
+AS CLOSELY AS PRACTICABLE TO THE PRINCIPLES SET FORTH UNDER
+THE SALARY STANDARDIZATION LAW Appointments in the Corporation,
+except to those which are policy-determining, primarily confidential or highly technical
+in nature, shall be made only according to the Civil Service Law.
+
+(th) The Corporation shall acquire and use state-of-the-art technology and
+facilities in its operations to ensure its continuing competence and capability to provide
+updated negative and positive credit information; to enable the Corporation to relay
+credit information electronically as well as in writing to those authorized to have access
+to the credit information system; and to insure accuracy of collected, stored and
+disseminated credit information. The Corporation shall implement a borrower’s
+identification system for the purpose of consolidating credit information.
+
+(ji) The provisions of any general or special law to the contrary notwithstanding,
+the importation by the Corporation of all equipment, hardware or software, as well as all
+other equipment needed for its operations shall be fully exempt from all customs duties
+and from all other taxes, assessments and charges related to such importation.
+
+(kj) The Corporation shall have its principal place of business in Metro Manila,
+but may maintain branches in such other places as the proper conduct of its business may
+require.
+
+(ik) Any and all acquisition of goods and services by the Corporation shall be
+subject to Procurement Laws.
+
+10
+
+===== [page 11] =====
+WOON DW PWNE
+
+SECTION 5. Section 6 of the same Act is hereby amended to read as follows:
+
+“Section 6. Confidentiality of Credit Information. - The Corporation, the Submitting
+Entities, the Accessing Entities, the Outsource Entities, the Special Accessing Entities
+and the duly authorized non-accessing entities shall hold the credit information under
+strict confidentiality and shall use the same only for the declared purpose of establishing
+the creditworthiness of the borrower, PROVIDED THAT THE BSP, INCLUDING
+ITS DULY AUTHORIZED OFFICES AND UNITS, SHALL HAVE ACCESS TO
+ALL CREDIT DATA MAINTAINED BY THE CORPORATION AND MAY USE
+THE SAME FOR ANY PURPOSE NECESSARY FOR THE DISCHARGE OF ITS
+CONSTITUTIONALLY AND STATUTORILY MANDATED FUNCTIONS.
+
+Outsource Entities, which may process and consolidate [basie] credit data, are absolutely
+prohibited from releasing such data received from the Corporation other than to the
+Corporation, AND SHALL IMPLEMENT APPROPRIATE SAFEGUARDS TO
+PREVENT UNAUTHORIZED ACCESS, DISCLOSURE, OR MISUSE OF SUCH
+DATA.
+
+The accreditation of an Accessing Entity, a Special Accessing Entity and/or an Outsource
+Entity which violates the confidentiality of, or which misuse, the credit information
+accessed from the Corporation, may be suspended or revoked. Any entity which violates
+this Section may be barred access to the credit information system and penalized pursuant
+to Section 11 of this Act.
+
+The Corporation shall be authorized to release and disclose [eonselidated-basie] credit
+data only to the BSP, Accessing Entities, the Special Accessing Entities, the Outsource
+Entities and Borrowers. [Basie-e]Credit data released to Accessing Entities shall be
+limited to those pertaining to existing Borrowers or Borrowers with pending credit
+applications. Credit information shall not be released to entities other than those
+enumerated under this Section except upon order of the court.
+
+SECTION 6. Section 7 of the same Act is hereby amended to read as follows:
+
+“Section 7. Educational Campaign. - A continuing nationwide educational campaign
+shall be developed and undertaken by the Corporation to promote the benefits of a credit
+information system to the economy; to create awareness on the rights of
+consumers/borrowers to access their credit reports collected, stored and disseminated by
+the Corporation; to disseminate the rights of the borrowers to dispute any
+incorrect/inaccurate credit information in the database file of the Corporation; to
+familiarize consumers [ef] WITH the procedure in collecting, storing and disseminating
+credit information of borrowers by the Corporation AS WELL AS PROCEDURES
+FOR ACCESSING THEIR CREDIT REPORTS AND FOR DISPUTING OR
+REQUESTING THE CORRECTION OF INACCURATE CREDIT
+INFORMATION; TO PROMOTE CREDIT LITERACY, INCLUDING
+UNDERSTANDING CREDIT REPORTS, CREDIT SCORES, AND
+RESPONSIBLE BORROWING PRACTICES; and to brief consumers of other
+related information ON THE PROPER USE, PROTECTION, AND
+CONFIDENTIALITY OF CREDIT INFORMATION UNDER THIS ACT.”
+
+SECTION 7. Section 8 of the same Act is hereby amended to read as follows:
+
+“Section 8. Rules and Regulations. - For purposes of creating a healthy balance between
+the need for reliable credit information and safeguarding consumer protection, ensuring
+free and healthy competition in the industry, the [SEC] BSP, in coordination with
+
+11
+
+===== [page 12] =====
+WOON ADUHRWNE
+
+relevant government agencies and existing industry stakeholders, shall issue the
+sapien Bucs une peeesbns GEES): ene a spl i seni ce
+
+Sista Ao eds nee INCLUDE, BUT SHALL NOT BE
+LIMITED TO, THE FOLLOWING:
+
+(a) The SCOPE OF [basie] credit data, WHICH shall be limited or confined in form
+and content to an objective and factual information and shall exclude any subjective
+information or opinion. THE CREDIT DATA SHALL ALSO BE SUBJECTED TO
+UNIFORM DATA STANDARDS, MINIMUM QUALITY BENCHMARKS, AND
+CLEAR ALLOCATION OF ACCOUNTABILITY AS STATED IN A DATA
+QUALITY GOVERNANCE FRAMEWORK;
+
+(b) Restrictions on the use and transfer of credit information;
+
+(c) Rights of the [b}Borrowers to access their respective credit information and to dispute
+the factual accuracy of such credit information;
+
+(D) PROCEDURES FOR BORROWERS TO RAISE AND RESOLVE DISPUTES
+CONCERNING INACCURATE, INCOMPLETE, OR OUTDATED CREDIT
+INFORMATION IN THE DATABASE, INCLUDING TIMELINES FOR
+INVESTIGATION, DOCUMENTARY REQUIREMENTS, ESCALATION
+CHANNELS, AND NOTIFICATION STANDARDS, AMONG OTHERS;
+
+(e) Accreditation standards for fs}Submitting ACCESSING ENTITIES and [s}Special
+[a]Accessing [e]Entities and [a]Non-[a}Accessing [e}Entities;
+
+(f) Sanctions to be imposed by the Corporation on:
+
+i. The [s}Submitting [e}Entities for non-
+submission of reports, and for delayed and/or erroneous reporting, AND
+FOR SUBMISSION OF A _ FALSE OR MISLEADING
+DOCUMENT TO THE CORPORATION;
+
+ii. Accessing [e}Entities, [s}Special
+[atAccessing [e}Entities, [e}Outsource [e}Entities and duly authorized
+[n}Non-[a] Accessing [e]Entities, for breaches of the confidentiality of,
+misuse of, the credit information obtained from the credit information
+system; and
+
+iil. Violations of other applicable rules and
+egaons [Provided._that these-administrative- sanctions shall bein
+
+(g) Suspension or cancellation of the rights of any Accessing Entity or Special Accessing
+Ean to access ee kono aon keh See Ef -
+
+a2
+
+===== [page 13] =====
+In addition, the [SEC4BSP may regulate access to the credit information system as well
+as the fees that shall be collected by the Corporation from the BORROWER, Accessing
+and Special Accessing Entities, taking into consideration the policy of lowering the cost
+of credit, promoting fair competition, and the need of the Corporation to employ state-
+of-the-art technology;
+
+WOON DU RWNPR
+
+10 (h) The [basie] credit data about a [6}Borrower shall be limited to credit information
+11 existing on the date of the enactment of this Act and thereafter.”
+
+12
+
+13 SECTION 8. Section 9 of Republic Act No. 9510 is hereby deleted.
+
+14
+
+15 SECTION 9. Section 10 of the same Act is hereby renumbered as Section 9 and amended to
+16 read as follows:
+
+i?
+
+18 “Section [49]9. Indemnity in Favor of the Corporation, its Officers and Employees. -
+19 Unless the Corporation or any of its officers and employees is found liable for any willful
+20 violation of this Act, bad faith, malice and/or gross negligence, the Submitting Entities,
+21 Accessing Entities, Special Accessing Entities, Outsource Entities and duly authorized
+22 [p}Non-[a}Accessing [e}Entities shall hold the Corporation, its directors, officers and
+23 employees free and harmless to the fullest extent permitted by law and shall indemnify
+24 them for any and all liabilities, losses, claims, demands, damages, deficiencies, costs and
+25 expenses of whatsoever kind and nature that may arise in connection with the
+26 performance of their functions without prejudice to any criminal liability under existing
+27 laws.”
+
+28
+
+29 SECTION 10. A new section entitled Section 10 is hereby included in the same Act to read as
+30 follows:
+
+31
+
+32 “SECTION 10. ADMINISTRATIVE SANCTIONS. — THE CORPORATION IS
+33 HEREBY AUTHORIZED TO IMPOSE ADMINISTRATIVE SANCTIONS
+34 UPON SUBMITTING ENTITIES, ACCESSING ENTITIES, SPECIAL
+35 ACCESSING ENTITIES, OUTSOURCE ENTITIES, AND DULY AUTHORIZED
+36 NON-ACCESSING ENTITIES IN THE FORM OF FINES IN AMOUNTS AS
+37 MAY BE DETERMINED BY THE CORPORATION BUT IN NO CASE TO
+38 EXCEED THIRTY THOUSAND PESOS (PHP30,000.00) A DAY FOR EACH
+39 VIOLATION, TAKING INTO CONSIDERATION THE ATTENDANT
+40 CIRCUMSTANCES, SUCH AS THE NATURE AND GRAVITY OF THE
+41 VIOLATION OR IRREGULARITY.
+
+42
+
+43 THE RELEVANT GOVERNMENT AGENCIES SHALL HAVE THE
+44 AUTHORITY TO IMPOSE ENFORCEMENT ACTIONS ON THEIR
+45 RESPECTIVE SUPERVISED ENTITIES FOR NON-COMPLIANCE WITH
+46 THIS ACT AND OTHER EXISTING LAWS PERTINENT TO THE
+47 JURISDICTION AND AUTHORITY OF THE RESPECTIVE RELEVANT
+48 GOVERNMENT AGENCIES.
+
+49
+
+50 WITHOUT PREJUDICE TO THE ENFORCEMENT ACTIONS PRESCRIBED
+51 ABOVE AND THE CRIMINAL SANCTIONS PROVIDED UNDER SECTION 11
+52 OF THIS ACT, THE ADMINISTRATIVE SANCTIONS OF THE RESPECTIVE
+53 CHARTERS OF THE RELEVANT GOVERNMENT AGENCIES SHALL BE
+54 MADE APPLICABLE TO THE SUBMITTING ENTITIES, ACCESSING
+55 ENTITIES, SPECIAL ACCESSING ENTITIES, OUTSOURCE ENTITIES, AND
+56 DULY AUTHORIZED NON-ACCESSING ENTITIES, AND THEIR
+57 DIRECTORS, TRUSTEES, OFFICERS, EMPLOYEES OR AGENTS FOR
+
+i3
+
+===== [page 14] =====
+| od
+OUOOAN DU BPWNFE
+
+WWWWWWWWWWNNNNNNNNNNPRRPRPRRPRP PP
+PEFRES RS SOMATRONKASCEOYNHDAABWONASOOMUTDGBWNE
+
+>
+oo
+
+49
+50
+51
+52
+53
+54
+35
+56
+
+VIOLATION OF THIS ACT OR ANY RELATED RULES, REGULATIONS,
+ORDERS OR INSTRUCTIONS OF THE RELEVANT GOVERNMENT
+AGENCIES; PROVIDED, THAT IN CASE PROFIT IS GAINED OR LOSS IS
+AVOIDED AS A RESULT OF THE VIOLATION OF THIS ACT, A FINE NOT
+MORE THAN THREE (3) TIMES THE PROFIT GAINED OR LOSS AVOIDED
+MAY ALSO BE IMPOSED BY THE RELEVANT GOVERNMENT AGENCIES.
+
+IMPOSITION OF ADMINISTRATIVE SANCTIONS SHALL BE WITHOUT
+PREJUDICE TO ANY CRIMINAL AND OTHER SANCTIONS AS MAY BE
+APPLICABLE UNDER THIS ACT AND OTHER RELEVANT LAWS.”
+
+SECTION 11. Section 11 of the same Act is hereby amended to read as follows:
+
+“Section 11. Penalties. - Any person who willfully violates any of the provisions of this
+Act or the rules and regulations promulgated by [SEC} BSP in coordination with the
+relevant government agencies shall, upon conviction, suffer a fine of not less than Fifty
+thousand pesos (Php50,000.00) nor more than One million pesos (Php1,000,000.00) or
+imprisonment of not less than one (1) year nor more than five (5) years, or both, at the
+discretion of the court.”
+
+SECTION 12. Section 12 of the same Act is hereby amended to read as follows:
+
+“Section 12. Inviolable Nature of the Secrecy of Bank Deposits and/or Client Funds.
+- Pursuant to Republic Act No. 1405 (Law on Secrecy of Bank Deposits), Republic Act
+No. 6426 (The Foreign Currency Deposit Act), Republic Act No. 8791 (The General
+Banking Law of 2000), Republic Act No. 9160 (Anti-Money Laundering Law) [and+their
+amendatertaws}, REPUBLIC ACT NO. 8367 (REVISED NON-STOCK SAVINGS
+AND LOAN ASSOCIATION ACT OF 1997), REPUBLIC ACT NO. 3844
+(AGRICULTURAL LAND REFORM CODE), EXECUTIVE ORDER NO. 81,
+SERIES OF 1986, AS AMENDED BY REPUBLIC ACT NO. 8523 (THE REVISED
+CHARTER OF THE DEVELOPMENT BANK OF THE PHILIPPINES),
+REPUBLIC ACT NO. 7353 (RURAL BANKS ACT OF 1992), AS AMENDED,
+REPUBLIC ACT NO. 7906 (THRIFT BANKS ACT OF 1995), AND REPUBLIC
+ACT NO. 6848 (CHARTER OF THE AL-AMANAH ISLAMIC INVESTMENT
+BANK OF THE PHILIPPINES), nothing in this Act shall impair the secrecy of bank
+deposits and/or client funds and investments in government securities or funds.”
+
+SECTION 13. Section 13 of Republic Act No. 9510 is hereby deleted.
+SECTION 14. Section 13 of the same Act is hereby amended to read as follows:
+
+“Section [44] 13. Principal Government Agency. - The [SEC}BSP shall be the lead
+government agency to implement and enforce this Act. As lead agency, the [SEC} BSP
+shall consult and coordinate with other relevant government agencies in the adoption of
+all rules and regulations for the full and effective implementation and enforcement of this
+Act, taking into account the policy objectives contained in Section 2 hereof.”
+
+SECTION 15. A new section entitled Section 14 is hereby included in the same Act to read as
+
+follows:
+
+“SECTION 14. TRANSITORY PROVISIONS. — THE BOARD OF DIRECTORS
+APPOINTED BY THE MONETARY BOARD OF THE BSP SHALL
+REORGANIZE THE CORPORATION, WITHOUT BEING SUBJECT TO THE
+PROVISIONS OF REPUBLIC ACT NO. 7430, AND MAY, IF IT SO
+DETERMINES, ADOPT AN ENTIRELY NEW STAFFING PATTERN AND
+ORGANIZATIONAL STRUCTURE, SUBJECT TO THE APPROVAL OF THE
+
+14
+
+===== [page 15] =====
+WOON ADUBRWN EH
+
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+
+MONETARY BOARD, AS MAY BE NECESSARY AND APPROPRIATE TO
+THE OPERATIONS OF THE CORPORATION UNDER THIS ACT.
+
+NO PERSONNEL SHALL HAVE ANY PREFERENTIAL OR PRIORITY
+RIGHT TO APPOINTMENT UNDER THE NEW STAFFING PATTERN, NOR
+SHALL ANY PERSONNEL BE DEEMED TO POSSESS PRIOR OR VESTED
+RIGHTS TO RETENTION IN THE CORPORATION OR IN ANY POSITION
+CREATED AS A RESULT OF THE REORGANIZATION. PERSONNEL MAY
+BE RETAINED OR APPOINTED ONLY IF THEY FULLY MEET THE
+QUALIFICATIONS, STANDARDS, PERFORMANCE REQUIREMENTS, AND
+OTHER CRITERIA PRESCRIBED UNDER THE NEW STAFFING PATTERN
+AND ORGANIZATIONAL STRUCTURE.
+
+THE PROGRAM OF REORGANIZATION SHALL BE FORMULATED
+WITHIN SIX (6) MONTHS FROM THE EFFECTIVITY OF THIS ACT AND
+FULLY [IMPLEMENTED WITHIN SIX (6) MONTHS THEREAFTER.
+PERSONNEL WHO ARE NOT RETAINED PURSUANT TO THE
+REORGANIZATION SHALL BE DEEMED SEPARATED FROM THE
+SERVICE.
+
+THE CORPORATION SHALL BE AUTHORIZED TO GRANT A SEPARATION
+INCENTIVE PAY TO AFFECTED OFFICERS AND EMPLOYEES HOLDING
+PERMANENT POSITIONS WITH THE FOLLOWING RATES:
+
+GOVERNMENT SERVICE RATES
+ONE (1.00) MONTH OF BASIC
+FIRST TWENTY (20) YEARS SALARY FOR EVERY YEAR OF
+SERVICE
+
+TWENTY (20) YEARS AND ONE ONE AND ONE-FOURTH (1.25)
+(i) DAY TO THIRTY (30) MONTHS OF BASIC SALARY FOR
+
+YEARS EVERY YEAR OF SERVICE
+
+THIRTY (30) YEARS AND ONE ONE AND ONE-HALF (1.5) MONTHS
+
+(1) DAY AND ABOVE OF BASIC SALARY FOR EVERY
+YEAR OF SERVICE
+
+THE SEPARATION INCENTIVE PAY SHALL BE CHARGED AGAINST THE
+AVAILABLE CORPORATE FUNDS OF THE CORPORATION, AND SUCH
+OTHER FUNDING SOURCES THAT THE DEPARTMENT OF BUDGET AND
+MANAGEMENT MAY IDENTIFY, SUBJECT TO EXISTING BUDGETING,
+ACCOUNTING, AND AUDITING LAWS, RULES, AND REGULATIONS.
+
+ALL DISPUTES, CLAIMS, ERRORS, OR LIABILITIES ARISING FROM
+ACTS OR OMISSIONS PRIOR TO THE EFFECTIVITY OF THIS ACT SHALL
+BE GOVERNED EXCLUSIVELY BY THE LAWS, RULES, AND
+REGULATIONS THEN IN FORCE. NOTHING HEREIN SHALL BE
+CONSTRUED TO GIVE RISE TO, CREATE, RECOGNIZE, OR IMPOSE ANY
+LIABILITY ON THE BSP PRIOR TO THE EFFECTIVITY OF THIS ACT.”
+
+SECTION 16. Separability Clause. — Should any provision of this Act or the application thereof to
+any person or circumstance be held invalid, the other provisions or sections of this Act shall not be
+
+affected thereby.
+
+SECTION 17. Repealing Clause. — All laws, decrees, executive orders, rules and regulations or parts
+thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+15
+
+===== [page 16] =====
+SECTION 18. Effectivity Clause. — This Act shall take effect fifteen (15) days following its
+publication in the Official Gazette or in two (2) national newspapers of general circulation.
+
+Approved,
+
+16

@@ -1,0 +1,190 @@
+                              Republic of the Philippines
+                            HOUSE OF REPRESENTATIVES
+                              Quezon City, Metro Manila                     July 20, 2026
+                              TWENTIETH CONGRESS                              5:25 pm
+
+
+                                Second Regular Session
+                                          10132
+                           HOUSE BILL NO. _______
+______________________________________________________________________
+      INTRODUCED BY REPRESENTATIVE JURDIN JESUS M. ROMUALDO
+______________________________________________________________________
+                                    Explanatory Note
+The digital transformation of government and regulated private sectors has become a
+cornerstone of national development. Fragmented systems, duplicative databases, and
+vendor-dependent technologies have long hampered efficiency, interoperability, and
+citizen trust in digital services.
+This bill seeks to institutionalize Architectural Domain Governance through the
+establishment of the Philippine Reference Architecture Framework (Ph-RAF). The
+framework shall serve as the national guide for the governance of business processes,
+applications, data, technology infrastructure, and information security.
+The measure is aligned with the Department of Information and Communications
+Technology’s National ICT Ecosystem Framework (NIEF) and E-Government
+Master Plan (EGMP), the National Privacy Commission’s Data Privacy Act of 2012,
+and the Philippine Development Plan 2023–2028, which emphasizes digital
+transformation, innovation, and inclusive governance.
+By mandating technology independence, interoperability, business continuity, and
+privacy-by-design, this Act will reduce inefficiencies, strengthen cybersecurity, and
+promote citizen-centered digital services. It will also ensure that government ICT projects
+and covered private organizations adhere to common standards, thereby safeguarding
+public data and enhancing transparency and accountability.
+In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+
+                                                        JURDIN JESUS M. ROMUALDO
+                                   Republic of the Philippines
+                                 HOUSE OF REPRESENTATIVES
+                                   Quezon City, Metro Manila
+                                   TWENTIETH CONGRESS
+
+
+                                      Second Regular Session
+
+
+                                               10132
+                                HOUSE BILL NO. _______
+     ______________________________________________________________________
+           INTRODUCED BY REPRESENTATIVE JURDIN JESUS M. ROMUALDO
+     ______________________________________________________________________
+
+
+                                    AN ACT
+           INSTITUTIONALIZING ARCHITECTURAL DOMAIN GOVERNANCE IN
+     GOVERNMENT AND COVERED PRIVATE ORGANIZATIONS, ESTABLISHING THE
+     PHILIPPINE REFERENCE ARCHITECTURE FRAMEWORK, AND PROVIDING FOR
+         ITS IMPLEMENTATION IN ALIGNMENT WITH EXISTING DICT POLICIES,
+          NATIONAL PRIVACY COMMISSION MANDATES, AND THE PHILIPPINE
+                              DEVELOPMENT PLAN
+
+
+     Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+     assembled:
+1
+2        SECTION 1. Short Title. - This Act shall be known as the “Architectural Domain
+3    Governance Act of 2026.”
+4         SEC. 2. Declaration of Policy. - It is hereby declared the policy of the State to foster
+5    a secure, interoperable, citizen-centered, and future-ready digital governance
+6    environment. In pursuit of this policy, the State shall establish a national reference
+7    architecture framework that shall guide the governance of business processes,
+8    applications, data, technology infrastructure, and information security.
+ 9   The implementation of this Act shall be consistent with the National ICT Ecosystem
+10   Framework (NIEF), the E-Government Master Plan (EGMP) of the Department of
+11   Information and Communications Technology (DICT), the Data Privacy Act of 2012 and
+12   issuances of the National Privacy Commission (NPC), and the Philippine Development
+13   Plan 2023–2028.
+14         SEC. 3. Scope and Coverage. - This Act shall apply to all departments, bureaus,
+15   offices, agencies, and instrumentalities of the National Government, including
+16   government-owned or controlled corporations, government financial institutions, and
+17   state universities and colleges, as well as local government units.
+18   Covered private organizations that collect, store, process, transmit, or use public data, or
+19   provide essential public-facing services, shall likewise be subject to the provisions of this
+20   Act, in coordination with their respective regulators and the DICT.
+21        SEC. 4. Lead Implementing Agency. - The DICT shall serve as the lead
+22   implementing agency of this Act. In the exercise of this mandate, it shall coordinate with
+23   the NPC, the Department of Budget and Management (DBM), the National Economic and
+1    Development Authority (NEDA), the Anti-Red Tape Authority (ARTA), the Cybercrime
+2    Investigation and Coordinating Center (CICC), and other relevant agencies to ensure
+3    harmonized implementation.
+4         SEC. 5. Establishment of the Philippine Reference Architecture Framework. -
+5    There is hereby established a Philippine Reference Architecture Framework (Ph-
+6    RAF), which shall serve as the national guide for the governance, design, development,
+7    procurement, maintenance, and integration of systems involving public data and public-
+8    facing digital services.
+ 9   The Ph-RAF shall prescribe principles and standards for interoperability, portability,
+10   technology independence, business continuity, disaster recovery, accessibility, usability,
+11   cybersecurity, and privacy-by-design. It shall likewise provide templates and reference
+12   models for business, application, data, technology infrastructure, and information security
+13   domains.
+14     SEC. 6. Governance Principles. - All systems, platforms, and digital services covered
+15   by this Act shall adhere to the following principles:
+
+16      1. Technology independence and avoidance of vendor lock-in;
+17      2. Business continuity and resilience against disruptions;
+18      3. Secure and reliable interoperability;
+19      4. Accessibility and inclusivity in public-facing services;
+20      5. Security and privacy embedded by design;
+21      6. Transparency and accountability in architecture-related decisions; and
+22      7. Cohesive yet loosely coupled governance across domains.
+
+23      SEC. 7. Philippine Architecture Governance Council. - There is hereby created a
+24   Philippine Architecture Governance Council under the DICT, composed of
+25   representatives from relevant agencies, regulators, LGUs, and stakeholders. The Council
+26   shall recommend updates to the Ph-RAF, issue governance policies, coordinate
+27   implementation, monitor compliance, and submit annual reports to Congress.
+28      SEC. 8. Implementation Roadmap. - The DICT, in coordination with the Council, shall
+29   prepare a five-year phased roadmap for implementation, aligned with the Philippine
+30   Development Plan. The roadmap shall include:
+
+31      ●   Year 1: Design and deployment of the compliance management system;
+32      ●   Year 2: Rollout of data architecture standards;
+33      ●   Year 3: Rollout of business architecture standards;
+34      ●   Year 4: Rollout of application and infrastructure standards;
+35      ●   Year 5: Rollout of information security standards.
+
+36      SEC. 9. Compliance and Monitoring. – No government ICT project shall proceed to
+37   full implementation unless it has obtained a certification of compliance with the Philippine
+38   Reference Architecture Framework (Ph-RAF) standards or an approved exception from
+39   the Department of Information and Communications Technology (DICT). Covered private
+40   organizations shall likewise align their governance structures with the Ph-RAF, subject to
+41   the principles of proportionality and phased implementation.
+42      In determining compliance, the DICT shall consider whether the proposed project
+43   avoids unnecessary duplication of existing systems, is capable of securely exchanging
+44   information with other government systems were permitted by law, minimizes
+1    unnecessary dependence on a single vendor, platform, or proprietary technology, and is
+2    capable of maintaining continuity of operations during emergencies, disasters, or system
+3    failures.
+4       The DICT, in coordination with the appropriate regulatory agencies, shall monitor
+5    compliance with this Act and its implementing rules and regulations, require corrective
+6    action plans where necessary, and impose appropriate sanctions in accordance with
+7    existing laws and due process.
+8
+ 9          SEC. 11. Use of Common Standards and Reusable Digital Tools. - The DICT
+10   shall promote the use of common standards, reusable templates, shared services, and
+11   approved digital tools to prevent unnecessary duplication and reduce government
+12   spending on separate systems with similar functions.
+13   Government agencies shall first determine whether an existing approved system, shared
+14   service, template, or reusable digital tool may be used before developing, procuring, or
+15   commissioning a new system.
+16   Nothing in this section shall prevent an agency from developing or procuring a separate
+17   system when justified by law, security, operational requirements, cost, public interest, or
+18   the specific needs of the agency.
+19
+20          SEC. 12. User-Friendly and Inclusive Digital Services. - Public-facing digital
+21   services covered by this Act shall be designed and implemented in a manner that is
+22   secure, accessible, and understandable.
+23   The DICT shall issue guidelines to ensure that public-facing digital services take into
+24   account the needs of persons with disabilities, senior citizens, persons with limited digital
+25   literacy.
+26   Covered agencies shall, whenever practicable, provide clear instructions, simple
+27   language, feedback mechanisms, and alternative assistance channels for users who are
+28   unable to fully access or use digital services.
+29        SEC. 10. Data Privacy and Security. - Implementation of this Act shall be
+30   consistent with the Data Privacy Act of 2012, cybersecurity laws, records management
+31   rules, freedom of information policies, and other applicable statutes. Nothing herein shall
+32   authorize the disclosure of personal, confidential, or proprietary information except as
+33   lawfully required.
+34         SEC. 11. Appropriations. - The amount necessary for the initial implementation of
+35   this Act shall be charged against the current appropriations of the DICT. Thereafter, such
+36   sums as may be necessary shall be included in the annual General Appropriations Act.
+37        SEC. 7. Implementing Rules and Regulations. - Within ninety (90) days from the
+38   effectivity of this Act, the DICT, in coordination with the Department of Finance, and the
+39   Department of Budget and Management, shall promulgate the necessary rules and
+40   regulations to implement the provisions of this Act.
+41        SEC. 12. Transitory Provisions. - Covered agencies and organizations shall be
+42   given a reasonable transition period, as provided in the implementing rules and
+43   regulations, to comply with this Act.
+1    Existing systems shall not be required to be immediately replaced, but upgrades,
+2    integrations, and new projects involving public data shall be aligned with Ph-RAF within
+3    one year from the publication of the IRR.
+4        SEC. 13. Separability Clause. - If any provision of this Act is declared
+5    unconstitutional or invalid, the remaining provisions shall remain in full force and effect.
+6         SEC. 14. Repealing Clause. - All laws, decrees, executive orders, rules and
+7    regulations, or parts thereof inconsistent with this Act are hereby repealed or modified
+8    accordingly.
+ 9         SEC. 15. Effectivity. - This Act shall take effect fifteen (15) days after its publication
+10   in the Official Gazette or in a newspaper of general circulation.
+11          Approved.
+

@@ -1,0 +1,752 @@
+===== [page 1] =====
+Republic of the Philippines
+HOUSE OF REPRESENTATIVES
+Quezon City
+
+TWENTIETH CONGRESS
+Second Regular Session
+
+HOUSE BILL NO. _11837
+
+Introduced by: Kababaihan Kabalikatan para sa Kapakanan at Kaunlaran ng Bayan (4K) Party-list
+Representative Iris Marie D. Montes
+
+AN ACT
+ENHANCING TRANSPARENCY AND ACCOUNTABILITY IN PUBLIC
+INFRASTRUCTURE THROUGH THE PUBLIC INFRASTRUCTURE
+MONITORING SYSTEM (PIMS) AND MANDATORY TIMELAPSE
+DOCUMENTATION FOR ALL PUBLIC INFRASTRUCTURE PROJECTS
+
+EXPLANATORY NOTE
+
+Public infrastructure consumes billions of pesos in public funds and leaves
+a permanent footprint on the lives of Filipinos. Every road, bridge, school
+building, flood control structure, water facility, port, airport, and other public
+work represents a public investment that must deliver what was promised, when
+it was promised, and at the quality for which the government paid.
+
+Yet accountability in infrastructure cannot depend solely on what appears
+in contracts, accomplishment reports, inspection certificates, or financial records.
+There must also be reliable evidence of what actually happened at the project
+site.
+
+This is the accountability gap that this measure seeks to address.
+
+The government should not have to rely exclusively on periodic reports to
+know whether a project is progressing as scheduled. Citizens should not have to
+wait unti! a project is completed—or until an audit is conducted—to discover that
+a project was delayed, substantially deviated from its approved plan, or failed to
+deliver the expected physical output.
+
+Modern technology makes it possible to close this gap.
+
+Hence, this bill establishes the Public Infrastructure Monitoring System
+(PIMS), a government digital platform that will provide continuous, verifiable,
+and accessible documentation of covered public infrastructure projects. It
+requires contractors to maintain and submit timelapse documentation and
+project implementation data, while requiring implementing agencies to establish
+project baselines, disclose planned and actual accomplishments, document
+material changes, and make project information accessible through public
+dashboards.
+
+More importantly, the measure connects information with accountability.
+PIMS will enable government and the public to compare what was planned with
+
+===== [page 2] =====
+what was actually accomplished; identify delays and material variances;
+preserve a chronological record of project implementation; generate compliance
+alerts; facilitate risk-based verification; and provide reliable electronic records
+for auditing, investigation, and other lawful government proceedings.
+
+This is not simply a transparency measure. It is a_ preventive
+accountability mechanism.
+
+The objective is to identify problems while they can still be corrected—not
+only after public funds have already been spent and the opportunity for
+corrective action has passed. By making project implementation more visible
+and verifiable, the measure seeks to strengthen existing procurement,
+engineering, financial management, and auditing safeguards and make it more
+difficult for irregularities to remain hidden behind paper reports.
+
+At the same time, the bill recognizes that technology must not become
+another source of bureaucracy or unnecessary expense. It therefore requires
+interoperability with existing government systems, technology-neutral
+standards, cybersecurity and data protection safeguards, risk-based monitoring,
+and mechanisms for emergencies and connectivity failures. It likewise preserves
+the constitutional and statutory mandates of the Commission on Audit and other
+oversight institutions.
+
+Public money deserves public accountability. A government that can
+digitally track financial transactions, procurements, and other government
+activities should likewise be capable of showing the public the physical progress
+of the infrastructure it finances.
+
+The PIMS seeks to make that principle operational: what government
+funds, government should be able to monitor; what government builds, the
+public should be able to see; and what government reports, authorized oversight
+bodies should be able to verify.
+
+Through this measure, transparency is transformed from a passive
+disclosure requirement into an active system of monitoring, verification, early
+warning, and accountability.
+
+In view of the foregoing, the immediate passage of this measure is
+
+earnestly sought.
+-
+reas lk 8 trees
+
+Kababaihan Kabalikatan para sa Kapakanan
+at Kaunlaran ng Bayan (4K) Party-list
+
+===== [page 3] =====
+Republic of the Philippines
+HOUSE OF REPRESENTATIVES
+Quezon City
+
+®
+
+TWENTIETH CONGRESS
+Second Regular Session
+
+House BiLLNo. _11837
+
+Introduced by: Kababaihan Kabalikatan para sa Kapakanan at Kaunlaran ng Bayan (4K) Party-list
+Representative Iris Marie D. Montes
+
+AN ACT
+ENHANCING TRANSPARENCY AND ACCOUNTABILITY IN PUBLIC
+INFRASTRUCTURE THROUGH THE PUBLIC INFRASTRUCTURE
+MONITORING SYSTEM (PIMS) AND MANDATORY TIMELAPSE
+DOCUMENTATION FOR ALL PUBLIC INFRASTRUCTURE PROJECTS
+
+Be it enacted by the Senate and the House of Representatives of the Philippines
+in Congress assembled:
+
+SECTION 1. Short Title. - This Act shall be known as the "Public
+Infrastructure Monitoring System (PIMS) Act."
+
+SEC. 2. Declaration of Policy. - It is the policy of the State to ensure that
+public infrastructure projects are implemented efficiently, transparently, and in
+accordance with approved plans, specifications, budgets, contracts, and
+implementation schedules, and that public funds devoted thereto are used
+prudently, lawfully, and for their intended purposes.
+
+The State recognizes that timely, continuous, and verifiable documentation of
+project implementation is an important component of effective public
+infrastructure monitoring. The availability of reliable visual, geotagged, time-
+stamped, and other project implementation data enables implementing agencies
+and authorized oversight bodies to more effectively assess actual project
+progress, identify delays, deviations, and other implementation concerns, and
+facilitate timely corrective action and accountability.
+
+For this purpose, the State shall promote the use of appropriate digital
+technologies to strengthen transparency, accountability, efficiency, public
+participation, and evidence-based oversight in the implementation of
+government-funded public infrastructure projects. The State shall establish
+mechanisms for the systematic collection, verification, preservation, integration,
+and appropriate public disclosure of project implementation data, including
+timelapse documentation, while ensuring data integrity, cybersecurity, privacy,
+accessibility, and interoperability with existing government monitoring,
+procurement, financial management, and auditing systems.
+
+The implementation of this Act shall complement and not diminish the
+existing duties and powers of implementing agencies, project engineers,
+procurement officers, auditors, and other authorized government bodies in
+
+===== [page 4] =====
+relation to project inspection, certification, procurement, financial management,
+contract administration, audit, and accountability.
+
+SEC. 3. Definition of Terms. - As used in this Act:
+
+(a) Contractor refers to any person, partnership, corporation, joint venture,
+cooperative, association, or other juridical entity duly licensed under Republic
+Act No. 4566, or the Contractors' License Law, as amended, that undertakes,
+contracts, or is engaged by a government agency to implement, construct,
+repair, improve, rehabilitate, maintain, or complete a public infrastructure
+project;
+
+(b) Implementing Agency refers to any national government agency,
+government-owned or controlled corporation (GOCC), state university or college
+(SUC), local government unit (LGU), or other government entity responsible for
+implementing a public infrastructure project funded wholly or partially from
+public funds;
+
+(c) Public Infrastructure Project refers to any construction, rehabilitation,
+improvement, repair, or maintenance project involving roads, bridges, buildings,
+flood control systems, water supply systems, seaports, airports, and other
+physical infrastructure funded wholly or partially from public funds;
+
+(d) Public Funds refers to all moneys collected or received by the
+government, including national funds, local government funds, Official
+Development Assistance (ODA) funds, and any other funds managed by or on
+behalf of any government entity;
+
+(e) Public Infrastructure Monitoring System (PIMS) refers to the government
+digital platform used for monitoring and reporting the progress of public
+infrastructure projects;
+
+(f) Timelapse Video refers to a video recording produced by capturing images
+at a set interval over a period of time and then played back at a higher speed,
+resulting in a compressed visual record of construction activities occurring at a
+project site;
+
+(g) Project Site refers to the physical location where a public infrastructure
+project is being implemented; and
+
+(h) Geotagged Data refers to electronic data associated with a specific
+geographic location through coordinates, location identifiers, or similar
+technologies capable of identifying the physical location of a project site.
+
+SEC. 4. Scope and Coverage. - This Act shall apply to all public infrastructure
+projects funded wholly or partially from public funds and covered by contracts
+entered into after the effectivity of this Act.
+
+SEC. 5. Establishment of the Public Infrastructure Monitoring System (PIMS).
+- The Department of Public Works and Highways (DPWH), in coordination with
+the Department of Information and Communications Technology (DICT) shail
+hereby establish and administer a Public Infrastructure Monitoring System, or
+
+===== [page 5] =====
+PIMS, which shall serve as a real-time digital platform for the monitoring and
+reporting of government public infrastructure projects.
+
+All public infrastructure projects covered by this Act shail be integrated into
+the PIMS. The contractor for each project shal! be required to upload timelapse
+videos under Section 6 of this Act, and to submit timely and accurate
+implementation data, progress reports, and such other information as may be
+required for the effective operation of the PIMS.
+
+SEC. 6. PIMS Standards. - The DPWH, in coordination with the DICT, shail
+ensure that the PIMS is capable of:
+
+(a) Receiving, storing, and organizing timelapse video uploads from
+contractors nationwide;
+
+(b) Providing public access to all timelapse video uploads, subject to
+reasonable limitations on bandwidth and data protection;
+
+(c) Generating automated alerts to concerned government agencies when
+contractors fail to comply with required upload schedules;
+
+(d) Integrating timelapse video data with other project monitoring metrics
+such as financial disbursements, inspection reports, and project milestones;
+
+(e) Maintaining an audit trail of all uploads, modifications, and access to
+uploaded materials; and
+
+(f) Generating dashboard summaries and project status reports for public
+viewing.
+
+The DPWH and the DICT shall ensure that the PIMS is integrated and
+interoperable with existing and future government digital platforms to promote
+transparency, accountability, and effective monitoring of public infrastructure
+projects and the utilization of public funds.
+
+SEC. 7. PIMS Technical and Operational Standards. — The DPWH and the
+DICT shall jointly establish minimum technical and operational standards for
+cameras, recording equipment, data transmission, storage, metadata,
+timestamps, geotagging, image quality, system availability, cybersecurity, and
+data integrity.
+
+The standards shall be technology-neutral and shail, to the extent
+practicable, permit the use of commercially available and interoperable
+equipment and systems.
+
+The standards shall consider the geographic, environmental, technical, and
+connectivity conditions of project sites throughout the country.
+
+SEC. 8. Mandatory Timelapse Video Upload Requirement. - All contractors
+covered under Section 4 of this Act shall be required to:
+
+===== [page 6] =====
+(a) Install and maintain at least one (1) timelapse camera at each project
+site, positioned to capture a comprehensive view of the ongoing construction
+activities. For large-scale projects involving multiple construction fronts, the
+implementing agency may require the installation of additional cameras;
+
+(b) Upload timelapse videos of construction progress to the PIMS at least
+once every two (2) weeks, or at such intervals as may be prescribed in the
+project’s Contract and applicable implementing rules and regulations, from the
+commencement of construction until the issuance of the Certificate of
+Completion and Final Acceptance by the government;
+
+(c) Ensure that timelapse videos uploaded to the PIMS clearly capture
+construction activities, are time-stamped, geotagged, and are of sufficient clarity
+and resolution to allow effective monitoring of project progress and verification
+of project conditions;
+
+(d) Maintain physical storage or cloud backup of all timelapse footage for a
+period of at least ten (10) years from the date of final acceptance of the project,
+and make such footage available to authorized government agencies and
+oversight bodies upon request; and
+
+{e) Submit a written certification, signed by the contractor's authorized
+representative and the project engineer, accompanying each timelapse video
+upload, attesting that the uploaded footage is authentic, unaltered, and
+accurately represents the actual state of the project at the time of recording.
+
+SEC. 9. Project Registration and Baseline Data. - Prior to the commencement
+of construction activities for a covered public infrastructure project, the
+implementing agency shall ensure that the project is registered in the PIMS and
+that its baseline implementation information is entered into the system.
+
+The baseline information shall include, as applicable:
+
+(a) Approved plans and specifications;
+
+(b) Approved contract amount;
+
+(c) Approved program of works;
+
+(d) Contract duration and major project milestones;
+
+(e) Notice to Proceed;
+
+(f) Target completion date;
+
+(g) Physical accomplishment schedule;
+
+(h) Financial accomplishment schedule;
+
+(i) Location and geographic coordinates;
+
+(j) Identified construction fronts or major components;
+
+===== [page 7] =====
+(k) Approved variations, extensions, suspensions, or other authorized
+modifications, when applicable; and
+
+(1) Such other information as may be prescribed under the implementing
+rules and regulations.
+
+The baseline information shall serve as the reference against which actual
+physical and financial progress shall be monitored.
+
+SEC. 10. Project Dashboard. - Each implementing agency shall maintain and
+regularly update a PIMS Project Dashboard for every covered public
+infrastructure project under its jurisdiction. The dashboard shail contain, at a
+minimum, the following information:
+
+(a) Project title and description;
+
+(b) Implementing agency;
+
+(c) Name of contractor and major subcontractors, where applicable;
+
+(d) Contract amount;
+
+(e) Funding source;
+
+(f) Contract duration and target completion date;
+
+(g) Notice to Proceed date;
+
+(h) Percentage of physical accomplishment;
+
+(i) Timelapse videos and related progress documentation;
+
+(j) Implementation status; and
+
+(k)} Such other information as may be necessary to promote transparency
+and accountability.
+
+The PIMS Project Dashboard shall be publicly accessible through an online
+portal.
+
+SEC. 11. Planned Versus Actual Project Performance. - The PIMS Project
+Dashboard shall, in addition to the information required under Section 7, provide
+
+a comparison, where applicable, between the approved project schedule and
+actual implementation.
+
+The dashboard shall, at a minimum, enable the public and authorized
+government agencies to determine:
+
+(a) The planned physical accomplishment as of a specified reporting period;
+
+(b) The actual physical accomplishment;
+
+===== [page 8] =====
+(c) The variance between planned and actual accomplishment;
+(d) The planned financial accomplishment;
+(e) The actual financial accomplishment; and
+
+(f} The number of days of delay, if any, based on the approved project
+schedule.
+
+Where a project experiences substantial delay, the implementing agency shall
+indicate in the PIMS the principal documented cause of the delay and the
+corrective measures undertaken, subject to applicable laws on confidential! or
+privileged information.
+
+SEC. 11. Project Status Classification. - The PIMS shall provide standardized
+project status classifications to facilitate public understanding and government
+monitoring.
+
+The implementing rules and regulations shall establish objective criteria for
+classifications including, but not limited to:
+
+(a) On schedule;
+
+(b) Ahead of schedule;
+
+(c) Delayed;
+
+(d) Suspended;
+
+(e) Under remedial action;
+
+(f) Substantially completed; and
+
+(g) Completed and finally accepted.
+
+No project shall be classified as completed or finally accepted in the PIMS
+unless the implementing agency has entered the appropriate certification or
+acceptance information required under existing laws, rules, and regulations.
+
+SEC. 13. Public Feedback and Reporting Mechanism. - The PIMS shall provide
+an accessible mechanism through which members of the public may submit
+observations, reports, photographs, videos, or other relevant information
+
+concerning the implementation of covered public infrastructure projects.
+
+The system shall, where practicable, allow users to identify the project
+concerned and indicate the nature and location of the reported observation.
+
+Reports received through the PIMS shail be referred to the appropriate
+implementing agency for evaluation and appropriate action.
+
+===== [page 9] =====
+The submission of a public report shall not, by itself, constitute a finding of
+violation, irregularity, fraud, or liability.
+
+The implementing agency shall establish procedures for acknowledging,
+ans and appropriately acting upon material reports received through the
+
+SEC. 14. Project Monitoring History. - The PIMS shall maintain a chronological
+project monitoring history showing material changes in project implementation
+status, including, where applicable:
+
+(a) Changes in physical accomplishment;
+
+(b) Changes in financial accomplishment;
+
+(c) Extensions of contract time;
+
+(d) Suspensions and resumptions;
+
+(e) Approved variation orders;
+
+(f) Major changes in project scope;
+
+(g) Changes in contractors or major subcontractors, where authorized;
+
+(h) Issuance of notices of delay or similar notices;
+
+(i) Corrective measures; and
+
+(j) Completion and final acceptance.
+
+The monitoring history shall be maintained in a manner that prevents the
+unauthorized deletion or alteration of previously recorded entries.
+
+SEC. 15. Data Integrity and System Audit Trail. - The PIMS shall employ
+appropriate technical safeguards to ensure the authenticity, integrity,
+
+traceability, and availability of information uploaded or generated through the
+system.
+
+The PIMS shall maintain an immutable or otherwise tamper-evident audit trail
+showing, as appropriate:
+
+(a) The identity or authorized account of the person or entity that uploaded
+or modified information;
+
+(b) The date and time of upload or modification;
+(c) The nature of the modification;
+(d) Relevant metadata;
+
+(e) Access to restricted information; and
+
+===== [page 10] =====
+(f) System-generated alerts and compliance notifications.
+
+No person shall alter, delete, suppress, or otherwise interfere with an audit
+trail except through authorized system administration procedures.
+
+SEC. 16. Cybersecurity and Business Continuity. — The DPWH and the DICT
+shall establish and maintain appropriate cybersecurity, backup, disaster
+recovery, access control, authentication, and business continuity measures for
+the PIMS.
+
+The PIMS shall maintain redundant backups of critical data in accordance with
+applicable government information security standards.
+
+In the event of a system outage, connectivity failure, natural disaster, or
+other circumstance beyond the reasonable control of the contractor or
+implementing agency, alternative methods of data submission and subsequent
+synchronization with the PIMS shall be established in the implementing rules and
+regulations.
+
+Such alternative submission shail not exempt the responsible party from the
+requirement to preserve the original data and submit it to the PIMS within the
+prescribed period after restoration of the system or connectivity.
+
+SEC. 17. Data Privacy and Protection of Sensitive Information. - The
+implementation of this Act shall comply with Republic Act No. 10173, otherwise
+known as the Data Privacy Act of 2012, and other applicable laws and
+regulations on privacy and data protection.
+
+The PIMS shall adopt appropriate safeguards to prevent the unnecessary
+disclosure of personal information, sensitive personal information, security-
+sensitive information, and other information protected by law.
+
+Public access shall be limited or appropriately redacted where disclosure
+would violate applicable law, compromise legitimate security interests, expose
+protected personal information, or otherwise be prohibited by law.
+
+The implementing rules and regulations shall establish procedures for the
+identification, protection, redaction, retention, and lawful disclosure of protected
+information.
+
+SEC. 18. Independent Verification and Risk-Based Monitoring. - The
+implementing agency shall establish mechanisms for the independent verification
+of reported project accomplishment using available inspection, engineering,
+financial, geospatial, photographic, timelapse, or other reliable evidence.
+
+The implementing agency may adopt risk-based monitoring procedures that
+prioritize projects based on factors including:
+
+(a) Project size and cost;
+
+(b) Project complexity;
+
+===== [page 11] =====
+(c) Geographic or environmental conditions;
+
+(d) Significant variance between physical and financial accomplishment;
+(e) Repeated delays or extensions;
+
+(f) Material discrepancies among submitted project data;
+
+(g) Public reports or complaints received through the PIMS; and
+
+(h) Other objectively established risk indicators.
+
+Nothing in this Section shall diminish the audit authority of the COA or the
+inspection and monitoring responsibilities of the implementing agency.
+
+SEC. 19. Responsibilities of the Implementing Agency. - The implementing
+agency shall:
+
+(a) Include the timelapse video upload requirement as a standard provision in
+all contracts for covered public infrastructure projects;
+
+(b) Ensure the timely and accurate updating of the PIMS Project Dashboard
+for projects under its jurisdiction;
+
+(c) Monitor contractor compliance with the timelapse upload requirement and
+incorporate such compliance into project monitoring reports;
+
+(d) Include compliance with the timelapse upload requirement as a condition
+for the processing and release of progress billings; and
+
+(e) Ensure that no progress billing shall be processed unless the contractor is
+compliant with all applicable timelapse upload requirements.
+
+SEC. 20. National Inter-Agency PIMS Coordinating Committee. - There is
+hereby created a National Inter-Agency PIMS Coordinating Committee which
+shall provide policy coordination and oversight for the implementation of the
+Public Infrastructure Monitoring System.
+
+The Committee shall be composed of the following:
+
+(a) The Secretary of the Department of Public Works and Highways (DPWH),
+as Chairperson;
+
+(b) The Secretary of the Department of Information and Communications
+Technology (DICT), as Vice Chairperson;
+
+(c) The Secretary of the Department of the Interior and Local Government
+(DILG);
+
+(d) The Secretary of the Department of Budget and Management (DBM);
+
+===== [page 12] =====
+(e) The Chairperson of the Commission on Audit (COA), or a duly authorized
+representative;
+
+(f) The Executive Director of the Government Procurement Policy Board
+(GPPB), or a duly authorized representative; and
+
+(g) Such other government agencies as may be designated by the Committee
+when necessary for the effective implementation of this Act.
+
+The Committee shall harmonize policies and standards for the PIMS, promote
+interoperability with existing government systems, resolve inter-agency
+implementation issues, and ensure that the PIMS supports existing public
+financial management, procurement, auditing, and infrastructure monitoring
+systems.
+
+The Committee shall not diminish the statutory mandates, technical
+authority, audit jurisdiction, or procurement authority of any participating
+government agency.
+
+SEC. 21. Accountability of Responsible Officials. - The head of the
+implementing agency and the officials or personnel specifically designated to
+administer project monitoring shall ensure compliance with the responsibilities
+imposed upon the implementing agency under this Act.
+
+Willful and repeated failure by a responsible public official or employee to
+perform a duty expressly imposed under this Act, without lawful justification,
+shall constitute an administrative offense and shall be dealt with in accordance
+with applicable civil service, administrative, and other relevant laws.
+
+Nothing in this Section shall impose liability for good-faith errors, technical
+failures, circumstances beyond the reasonable control of the responsible official
+or employee, or other causes recognized under applicable law.
+
+SEC. 22. Contractor Compliance and Corrective Action. — In addition to the
+requirements under Section 9, the implementing agency shall establish
+procedures for notifying a contractor of deficiencies in timelapse documentation
+or implementation data and providing an appropriate period for correction when
+the violation is capable of being cured.
+
+Repeated or willful noncompliance shall be documented in the contractor's
+project record and shall be considered in accordance with applicable
+procurement, contract administration, suspension, and blacklisting rules.
+
+SEC. 23. Procurement and Contract Integration. - The requirements of this
+Act shall be incorporated into the appropriate procurement and contract
+documents for covered public infrastructure projects.
+
+Bidding documents and contracts shall clearly specify:
+
+(a) The technical requirements for timelapse documentation;
+
+(b) Upload frequency and reporting requirements;
+
+===== [page 13] =====
+(c) Data retention requirements;
+
+(d) Responsibility for the installation, maintenance, operation, and security of
+monitoring equipment;
+
+(e) Procedures for equipment failure and connectivity interruptions;
+(f) Requirements concerning authenticity and data integrity; and
+
+(g) Contractual consequences of noncompliance, consistent with this Act and
+applicable procurement laws and regulations.
+
+The implementation of this Section shall be consistent with Republic Act No.
+9184, otherwise known as the Government Procurement Reform Act, as
+amended or replaced by subsequent legislation, and its implementing rules and
+regulations.
+
+SEC. 24. Emergency and Force Majeure. — Where compliance with a
+particular requirement under this Act is rendered temporarily impossible by a
+natural disaster, armed conflict, widespread telecommunications failure,
+government-declared emergency, or other circumstance beyond the reasonable
+control of the responsible party, the implementing agency may authorize an
+appropriate temporary alternative method of documentation and submission.
+
+The circumstances justifying the alternative method shall be documented in
+the PIMS as soon as practicable.
+
+The availability of an emergency or force majeure provision shall not excuse
+the preservation and subsequent submission of required project records once the
+circumstances preventing compliance have ceased.
+
+SEC. 25. Limited Exemption for Protected Projects. - The requirements for
+public disclosure under this Act may be modified, restricted, or exempted, in
+whole or in part, for specific project information where disclosure is prohibited or
+restricted under the Constitution or existing jaws on national security, defense,
+intelligence, law enforcement operations, critical infrastructure security, personal
+privacy, or other legally protected information.
+
+Any exemption shall:
+
+(a) Be limited to the information or documentation strictly necessary to
+protect the legally recognized interest;
+
+(b) Be supported by a written determination of the responsible authority;
+(c) Identify the legal basis for the restriction;
+
+(d) Be recorded in a manner accessible to authorized oversight and auditing
+bodies; and
+
+===== [page 14] =====
+(e) Not be used merely to avoid transparency, conceal project delays, or
+prevent legitimate monitoring.
+
+SEC. 26. No Automatic Increase in Project Cost. - Compliance with this Act
+shall not, by itself, justify an increase in the approved contract price, except
+where additional costs are duly authorized under applicable procurement,
+contract, budgeting, and accounting laws and regulations.
+
+Any authorized additional cost directly attributable to compliance with this Act
+shall be properly documented and subject to applicable procurement,
+accounting, auditing, and reporting requirements.
+
+SEC. 27. Evidentiary Value. - Timelapse videos, raw footage, certifications,
+upload logs, metadata, audit trails, and other electronic records generated,
+maintained, or stored within the PIMS shall be admissible as electronic evidence
+in accordance with the Rules on Electronic Evidence and other applicable laws.
+
+SEC. 28. Prohibited Acts. - The following acts are prohibited under this Act:
+
+(a) Failure or refusal to submit or upload the implementation data, progress
+reports, timelapse videos, or other information required under this Act;
+
+(b) Uploading of altered, edited, fabricated, or misrepresented timelapse
+videos;
+
+(c) Deliberate obstruction, tampering, or destruction of timelapse recording
+equipment;
+
+(d) Submission of false certification;
+
+(e) Unauthorized access to, deletion of, or tampering with timelapse videos
+stored in the PIMS.
+
+SEC. 29. Penalties. - Any person who willfully commits any of the prohibited
+acts under Section 10 involving fraud, falsification, deliberate tampering, or
+other intentional misconduct shall, upon conviction, be punished with a fine of up
+to Three Million Pesos (P3,000,000.00), without prejudice to suspension or
+blacklisting under existing procurement laws and any applicable civil or criminal
+liability under existing laws.
+
+If the offender is a juridical entity, the responsible officers who authorized or
+knowingly participated in the commission of the violation shall be held liable.
+Public officials found liable for willfully violating this Act shail, in addition to the
+applicable penalties under this Act, be subject to the appropriate administrative,
+civil, and criminal sanctions under existing laws.
+
+SEC. 30. Implementing Rules and Regulations. - Rules and regulations
+necessary for the effective enforcement of the provisions of this Act shall be
+formulated by the DPWH, in coordination with the DICT and the Department of
+Interior and Local Government (DILG), and shall be implemented within ninety
+(90) days from the effectivity of this Act.
+
+===== [page 15] =====
+SEC. 31. Appropriations. - The amount necessary to implement the
+provisions of this Act shall be charged against the current year’s appropriations
+of the DPWH. Thereafter, such amounts as may be necessary for the continued
+implementation of this Act shall be included in the annual General Appropriations
+Act (GAA).
+
+SEC. 32. Separability Clause. - If any provision of this Act is held invalid or
+unconstitutional, the other provisions not so declared shall remain in force and
+effect.
+
+SEC. 33. Repealing Clause. - All laws, decrees, orders and rules and
+regulations contrary to or inconsistent with the provisions of this Act are hereby
+repealed or amended accordingly.
+
+SEC. 34. Effectivity. - Notwithstanding the non-issuance of the implementing
+rules and regulations, this Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in a newspaper of general circulation.
+
+Approved,

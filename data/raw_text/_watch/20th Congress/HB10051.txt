@@ -1,0 +1,403 @@
+                                          Republic of the Philippines
+
+                                    HOUSE OF REPRESENTATIVES                                           July 13, 2026
+                                                                                                          2:19 pm
+                                         Quezon City, Metro Manila
+
+
+                                        TWENTIETH CONGRESS
+
+                                           Second Regular Session
+
+                                       House Bill No.    10051
+                                                      _____________
+
+---------------------------------------------------------------------------------------------------------------------
+
+                                       Introduced by Representative
+
+                       BRIAN DANIEL POE LLAMANZARES, PhD, MNSA
+
+---------------------------------------------------------------------------------------------------------------------
+
+  AN ACT ESTABLISHING THE RIGHT OF CONSUMERS TO INSPECT GOODS
+ BEFORE PAYMENT IN CASH-ON-DELIVERY AND OTHER ONLINE-PURCHASE
+TRANSACTIONS, REGULATING THE REMITTANCE AND REFUND OF DISPUTED
+   PAYMENTS BY COURIERS AND DIGITAL PLATFORMS, REQUIRING THE
+POSTING OF A CONSUMER PROTECTION BOND, PROHIBITING UNSOLICITED
+  DELIVERIES, PENALIZING FRAUDULENT OR ABUSIVE CLAIMS, AND FOR
+                         OTHER PURPOSES
+
+                                               Explanatory Note
+
+        The promise of electronic commerce in the Philippines rests on a simple act of trust: a
+consumer orders goods online and expects to receive what was promised. For the millions of
+Filipinos who transact through cash-on-delivery (COD), which is still the most widely used
+payment arrangement in Philippine online retail, precisely because it spares the buyer the risk of
+paying in advance, that trust is extended at the doorstep, in cash, before the parcel is ever
+opened. It is at this exact point in the transaction that fraud has taken root.
+
+        Recent data leaves no doubt about the scale of the problem. According to the H1 2026
+fraud-trends report of credit-reporting agency TransUnion, logistics recorded the highest
+suspected digital fraud rate of any industry in the country in 2025, at 8.5 percent, which is higher
+than insurance, retail, and financial services, and a sharp rise from 6 percent the year before. The
+Cybercrime Investigation and Coordinating Center logged 10,004 cybercrime complaints in
+2024, more than triple the 3,317 recorded in 2023; of these, 3,534 were classified as consumer
+fraud, including the non-delivery of purchased goods and other deceptive online transactions,
+with reported losses approaching ₱198 million (a figure that almost certainly understates actual
+victimization).
+
+       The schemes are by now familiar to ordinary buyers. A consumer is made to pay cash on
+delivery for a parcel that turns out to contain an item materially different from the one ordered,
+or a defective or counterfeit substitute, the deception discovered only after the rider has left and
+the money has passed into the courier’s hands. In its most brazen form, in the practice known as
+“brushing”, unsolicited parcels are shipped to persons who never ordered anything at all, often
+using personal information harvested without consent, with payment demanded on delivery. In
+each variation, the harm crystallizes at the doorstep, and in each, the consumer has already parted
+with cash before being allowed to verify what was received.
+
+        The existing legal framework, though substantial, does not reach this precise moment.
+The Internet Transactions Act of 2023 (Republic Act No. 11967) built a robust regulatory
+architecture for e-commerce under the Department of Trade and Industry, but by its own terms it
+does not cover consumer-to-consumer transactions, which are the very channel through which a
+large share of social-commerce parcel scams are conducted. The Anti-Financial Account
+Scamming Act (Republic Act No. 12010) supplies strong protection where a financial account is
+compromised, criminalizing money muling and social-engineering schemes and providing for
+the temporary holding of disputed funds, but cash handed to a delivery rider does not pass
+through a regulated financial account, and so the COD payment falls outside its protective reach.
+And while the Civil Code has long granted the buyer the right to examine goods before
+acceptance, that right is expressly defeasible, applying only “unless otherwise agreed upon,”
+which is exactly what allows platform terms of service and routine courier practice to extinguish
+it and why riders are able to insist on payment before a box may be opened.
+
+         This measure is designed to close that gap. It does not duplicate existing penal statutes;
+estafa, cyber-fraud, and financial-account scamming remain governed by the Revised Penal
+Code, the Cybercrime Prevention Act, and the Anti-Financial Account Scamming Act. What this
+bill does instead is repair the transaction itself. It establishes, as a mandatory and non-waivable
+right, that every consumer in a COD transaction may inspect the parcel to verify conformity with
+the order before payment is made and acceptance is completed. It allows the consumer who finds
+non-conformity to refuse payment and acceptance at no cost. It requires couriers and platforms
+that operate COD to maintain a consumer protection bond from which disputed payments are
+promptly refunded to the consumer, so that honest sellers and hand-to-mouth delivery riders
+continue to be paid without delay while the consumer is made whole from the bond pending
+resolution, adapting to the cash-on-delivery chain the same protective logic the Anti-Financial
+Account Scamming Act already applies to financial accounts. To keep these safeguards from
+being abused, it entitles sellers and delivery personnel to contest a consumer’s claim and
+penalizes those who file fraudulent or bad-faith disputes. It prohibits the shipment of unsolicited
+goods and the misuse of personal data to generate them. And it designates a single point of
+complaint and inter-agency coordination, so that a victimized consumer is not left to navigate the
+Department of Trade and Industry, the cybercrime authorities, the Bangko Sentral ng Pilipinas,
+and the National Privacy Commission alone.
+
+        Critically, these protections are made to apply to consumer-to-consumer and
+social-commerce transactions that the Internet Transactions Act does not reach, so that the
+doorstep is protected regardless of the channel through which the sale was made.
+
+        The measure proceeds from a straightforward principle of fairness: no Filipino should be
+required to pay for a parcel before being allowed to open it. The Constitution commands the
+State to protect consumers from trade malpractices. This bill answers that command at the one
+point in the digital marketplace where Filipinos remain most exposed.
+
+       In view of the foregoing, the approval of this bill is earnestly sought.
+
+
+
+
+                              HON. BRIAN DANIEL POE LLAMANZARES, PhD, MNSA
+                                               Representative
+                                         FPJ Panday Bayanihan Party-List
+                                          Republic of the Philippines
+
+                                    HOUSE OF REPRESENTATIVES
+
+                                         Quezon City, Metro Manila
+
+
+                                        TWENTIETH CONGRESS
+
+                                           Second Regular Session
+
+                                       House Bill No.    10051
+                                                      _____________
+
+---------------------------------------------------------------------------------------------------------------------
+
+                                       Introduced by Representative
+
+                       BRIAN DANIEL POE LLAMANZARES, PhD, MNSA
+
+---------------------------------------------------------------------------------------------------------------------
+
+  AN ACT ESTABLISHING THE RIGHT OF CONSUMERS TO INSPECT GOODS
+ BEFORE PAYMENT IN CASH-ON-DELIVERY AND OTHER ONLINE-PURCHASE
+TRANSACTIONS, REGULATING THE REMITTANCE AND REFUND OF DISPUTED
+   PAYMENTS BY COURIERS AND DIGITAL PLATFORMS, REQUIRING THE
+POSTING OF A CONSUMER PROTECTION BOND, PROHIBITING UNSOLICITED
+  DELIVERIES, PENALIZING FRAUDULENT OR ABUSIVE CLAIMS, AND FOR
+                         OTHER PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+assembled:
+
+     SECTION 1. Short Title. — This Act shall be known as the “Cash-on-Delivery Consumer
+Protection Act.”
+
+     SEC. 2. Declaration of Policy. — The State shall protect consumers from trade
+malpractices, consistent with Article XVI, Section 9 of the Constitution, and shall ensure that the
+growth of electronic commerce is matched by safeguards that protect Filipinos at every stage of
+an online transaction, including the point of delivery and payment. Toward this end, the State
+recognizes that consumers who pay in cash upon delivery are entitled to verify, before payment
+and acceptance, that the goods received conform to those ordered; that no person should be
+compelled to pay for goods that were not ordered or that materially differ from what was
+ordered; and that couriers, logistics service providers, and digital platforms that facilitate
+cash-on-delivery transactions share responsibility for the integrity of those transactions. This Act
+shall be liberally construed in favor of the consumer and shall supplement, and not diminish, the
+protections available under other applicable laws.
+
+     SEC. 3. Definition of Terms. — As used in this Act:
+
+               (a) Cash-on-Delivery (COD) Transaction refers to any sale of goods, whether
+               business-to-consumer or consumer-to-consumer, concluded through any digital
+               platform, online channel, social media service, or other electronic means, in
+               which the consumer pays the purchase price in cash or its equivalent to the courier
+               or logistics service provider at the time of delivery.
+
+               (b) Consumer refers to a natural person who purchases, or to whom is delivered,
+               goods through a cash-on-delivery or online-purchase transaction for personal,
+               family, or household use.
+
+               (c) Courier or Logistics Service Provider refers to any person or entity engaged in
+               the business of delivering parcels or goods to consumers, including the collection
+               of cash-on-delivery payments on behalf of a seller or consignor.
+
+               (d) Digital Platform refers to any website, mobile application, electronic
+               marketplace, social media service, or online system through which goods are
+               offered, ordered, or sold, consistent with the meaning under Republic Act No.
+               11967 or the “Internet Transactions Act of 2023” where applicable.
+
+               (e) Online Merchant or Seller refers to any person or entity that offers or sells
+               goods to consumers through a digital platform or online channel, whether or not
+               registered as a business.
+
+               (f) Right to Inspect refers to the right of the consumer to open and examine a
+               parcel and verify the conformity of its contents with the order placed before
+               payment is made and before acceptance is completed.
+               (g) Unsolicited Delivery, or “Brushing,” refers to the delivery, or attempted
+               delivery, of goods to a person who did not order them, including deliveries
+               generated through the unauthorized use of another person’s personal information.
+
+               (h) Disputed COD Payment refers to a cash-on-delivery payment that the
+               consumer contests on the ground that the goods were not delivered, were not
+               ordered, materially differ from those ordered, or are defective or counterfeit.
+
+     SEC. 4. Right to Inspect Before Payment. — In every cash-on-delivery transaction, the
+consumer shall have the right, before payment and before acceptance, to open and inspect the
+parcel for the sole purpose of verifying that its contents conform to the order placed, including
+the identity, quantity, and apparent condition of the goods and the correspondence of the parcel to
+the relevant order or transaction reference. This right shall be mandatory and non-waivable. Any
+stipulation, term of service, platform policy, or agreement that waives, limits, or conditions this
+right, or that requires payment before inspection, shall be void for being contrary to law and
+public policy. Notwithstanding Article 1584 of the Civil Code, the right granted under this
+Section may not be defeated by agreement.
+
+     The inspection shall be conducted in a reasonable manner and within a reasonable time at
+the point of delivery. The courier or logistics service provider, through its delivery personnel,
+shall afford the consumer a genuine opportunity to exercise this right and shall not demand
+payment as a precondition to inspection. For goods whose nature requires that the integrity of
+tamper-evident or hygienic packaging be preserved, or whose inspection is otherwise regulated
+by law, inspection under this Section shall be limited to verifying the packaging, labeling, and
+correspondence of the parcel to the order, without prejudice to the consumer’s other remedies
+under this Act and other laws.
+
+     SEC. 5. Refusal and No-Cost Rejection. — A consumer who, upon inspection under
+Section 4 of this Act, finds that the goods were not ordered, materially differ from those ordered,
+or are defective or counterfeit, may refuse to accept the parcel and refuse payment. In such case,
+no payment shall be due from the consumer, and the consumer shall incur no delivery, return, or
+handling charge. The parcel shall be returned to the seller or consignor through the courier or
+logistics service provider, and the cost of such return shall be borne by the seller, the consignor,
+or the digital platform, and not by the consumer.
+     SEC. 6. Mandatory Remittance Hold Period, Hold-Back, and Refund of Disputed
+Payments. — In every cash-on-delivery transaction, the courier, logistics service provider, or
+digital platform that collects or processes the payment shall withhold the remittance of the
+cash-on-delivery proceeds to the seller or consignor until after the lapse of seven (7) days from
+the date of delivery, within which period the consumer may dispute the transaction on any
+ground specified in Section 3(h) of this Act. No cash-on-delivery proceeds shall be released to
+the seller or consignor before the lapse of this period.
+
+     Where a consumer disputes the transaction within the said seven (7)-day period, the courier,
+logistics service provider, or digital platform shall continue to hold back the disputed amount,
+and shall not remit it to the seller or consignor, pending resolution of the dispute, and shall act
+upon the dispute within a period not exceeding fifteen (15) days from its filing. Where the
+dispute is found to be substantiated, the disputed amount shall be refunded to the consumer;
+where it is not, the amount may be released to the seller or consignor.
+
+     Any courier, logistics service provider, or digital platform that remits the cash-on-delivery
+proceeds to the seller or consignor before the lapse of the period required under this Section, or
+that otherwise releases a disputed amount in violation of this Section, shall be primarily and
+directly liable to refund the disputed amount to the consumer, without prejudice to its right to
+recover the same from the seller or consignor.
+
+     Every digital platform and every courier or logistics service provider that facilitates
+cash-on-delivery transactions shall establish an accessible and cost-free mechanism through
+which consumers may file and pursue disputes under this Section. This mechanism shall be in
+addition to, and consistent with, the dispute-resolution requirements under Republic Act No.
+11967 and its implementing rules and regulations.
+
+     SEC. 7. Consumer Protection Bond. — Every courier, logistics service provider, or digital
+platform that facilitates or collects payment for cash-on-delivery transactions shall post and
+maintain a consumer protection bond, in the form of a surety bond, cash bond, escrow,
+irrevocable letter of credit, or other equivalent security acceptable to the Department of Trade
+and Industry, in an amount to be determined by the Department in proportion to the volume and
+value of the cash-on-delivery transactions the entity handles.
+     The consumer protection bond shall answer for the prompt refund of disputed
+cash-on-delivery payments to consumers under Sections 5 and 6 of this Act. Where a dispute is
+substantiated, or where the disputed amount can no longer be recovered through the hold-back
+under Section 6, the refund due to the consumer shall be paid out of the bond without awaiting
+recovery from the seller or consignor, so that the consumer is made whole without delay while
+honest sellers and delivery personnel continue to be paid in the ordinary course. This mechanism
+adapts to the cash-on-delivery chain the same protective logic that Republic Act No. 12010, or
+the “Anti-Financial Account Scamming Act”, applies to funds held in financial accounts.
+
+     An entity that draws upon its bond shall replenish it to the required amount within the
+period fixed by the Department, and shall retain its right to recover from the seller, consignor, or
+other person ultimately liable any amount paid to a consumer from the bond. No person shall
+operate, offer, or facilitate cash-on-delivery transactions without a subsisting consumer
+protection bond as required under this Section. The Department of Trade and Industry shall
+prescribe the amount, form, conditions, replenishment, and administration of the bond in the
+implementing rules and regulations, and may adopt graduated or pooled bonding arrangements
+for micro and small enterprises so that this requirement does not unduly restrict legitimate
+commerce.
+
+     SEC. 8. Right to Contest Claims; Liability for Fraudulent or Abusive Disputes. — The
+seller, the consignor, and the delivery personnel shall have the right to contest a consumer’s
+refusal, rejection, or dispute under Sections 5 and 6 of this Act and to submit evidence in support
+thereof through the dispute mechanism under Section 6 and the complaint system under Section
+11 of this Act. The courier, logistics service provider, or digital platform shall provide a fair and
+accessible means for such contest and shall resolve it within the period provided under Section 6.
+
+     No consumer shall file a false, fraudulent, or bad-faith dispute, or refuse payment on a claim
+known to be untrue, whether by falsely asserting that the goods were not delivered, were not
+ordered, materially differ from those ordered, or are defective or counterfeit, or by tampering
+with, substituting, damaging, or retaining goods and thereafter claiming non-conformity, for the
+purpose of evading payment or obtaining an unwarranted refund.
+
+     A consumer who files a fraudulent or bad-faith dispute shall be liable to pay the amount
+properly due, to return the goods or their value, and to indemnify the seller, consignor, courier,
+logistics service provider, or digital platform for the damages and costs occasioned by the
+dispute, without prejudice to liability under the Revised Penal Code and other applicable laws. In
+addition, the Department of Trade and Industry may, after due notice and hearing, impose upon a
+consumer found to have engaged in a fraudulent or bad-faith dispute, or in a pattern thereof, an
+administrative fine of not less than Five thousand pesos (₱5,000.00) and not more than One
+hundred thousand pesos (₱100,000.00). The protections afforded to consumers under this Act
+shall not be construed to shield fraudulent or abusive claims, and this Act shall be applied so as
+to protect both the consumer and the honest seller and delivery personnel.
+
+     SEC. 9. Prohibition on Unsolicited Deliveries. — It shall be unlawful to ship, deliver, or
+attempt to deliver goods to any person who did not order them, or to demand payment for such
+goods. A consumer who receives an unsolicited delivery shall be under no obligation to pay for
+or to return the goods, and may retain or dispose of them at the consumer’s option without any
+obligation to the sender. The use of another person’s personal information, without consent, to
+generate, address, or facilitate an unsolicited delivery, or to post fictitious reviews or
+transactions, shall be dealt with in accordance with Republic Act No. 10173 or the “Data Privacy
+Act of 2012”, in addition to the sanctions provided under this Act.
+
+     SEC. 10. Obligations of Couriers, Logistics Service Providers, and Digital Platforms.
+— Couriers, logistics service providers, and digital platforms that facilitate cash-on-delivery
+transactions shall —
+
+       (a) afford every consumer the right to inspect under Section 4 of this Act, and adopt
+       operating procedures and train delivery personnel accordingly to give effect to that right;
+
+       (b) clearly disclose to consumers, before the conclusion of a transaction, the terms
+       applicable to cash-on-delivery payment, inspection, refusal, and refund;
+
+       (c) maintain records of cash-on-delivery transactions, remittances, and disputes sufficient
+       to permit verification and the resolution of disputes, subject to RA 10173; and
+
+       (d) cooperate with the Department of Trade and Industry and other competent authorities
+       in the investigation and resolution of complaints under this Act.
+     Nothing in this Act shall be construed to authorize the shifting to delivery riders or
+personnel of any loss arising from a consumer’s refusal, dispute, or non-payment that is properly
+the responsibility of the seller, the consignor, or the digital platform.
+
+     SEC. 11. Single Point of Complaint and Inter-Agency Coordination. — The Department
+of Trade and Industry, through the Electronic Commerce (E-Commerce) Bureau created under
+the Internet Transactions Act, shall serve as the lead agency for receiving and acting upon
+consumer complaints arising from cash-on-delivery and online-purchase parcel fraud under this
+Act, and shall maintain an accessible mechanism for that purpose. The E-Commerce Bureau
+shall coordinate with, and as appropriate refer matters to, the Department of Information and
+Communications Technology and the Cybercrime Investigation and Coordinating Center; the
+Bangko Sentral ng Pilipinas, where a financial account is involved; the National Privacy
+Commission, where personal data is misused; and the Philippine National Police
+Anti-Cybercrime Group and the National Bureau of Investigation Cybercrime Division, where
+the acts complained of constitute criminal offenses. The agencies concerned shall adopt a referral
+and coordination protocol to ensure that a consumer needs to file only a single complaint.
+
+     SEC. 12. Penalties and Administrative Sanctions. — Without prejudice to liability under
+the Revised Penal Code, Republic Act No. 10175 or the “Cybercrime Prevention Act of 2012”,
+Republic Act No. 12010 or the “Anti-Financial Account Scamming Act”, Republic Act No. 8484
+or the “Access Devices Regulation Act of 1998”, and other applicable laws for the underlying
+fraud —
+
+        (a) any courier, logistics service provider, or digital platform that denies or obstructs the
+        right to inspect under Section 4, that demands payment as a precondition to inspection,
+        that fails to hold back or refund a disputed payment as required under Section 6, that fails
+        to post or maintain the consumer protection bond required under Section 7, or that
+        otherwise violates its obligations under Section 10, shall be subject to an administrative
+        fine of not less than Five thousand pesos (₱5,000.00) and not more than One million
+        pesos (₱1,000,000.00) for each offense, to be imposed by the Department of Trade and
+        Industry, in addition to such other administrative sanctions as it may impose under
+        Republic Act No. 11967 and Republic Act No. 7394 or the “Consumer Act of the
+        Philippines”;
+          (b) any person who ships or delivers unsolicited goods and demands payment therefor in
+          violation of Section 9 shall be subject to the same range of administrative fines, without
+          prejudice to criminal and civil liability; and
+
+          (c) where the offender is a juridical entity, the responsible officers, directors, or agents
+          who participated in, authorized, or permitted the violation shall be held liable.
+
+     The Department of Trade and Industry may also direct the restitution or refund of amounts
+unlawfully collected from consumers, and may avail itself of the compliance, takedown, and
+blacklisting powers under Republic Act No. 11967 against persistent violators.
+
+     SEC. 13. Relationship to Existing Laws. — This Act shall supplement and shall not
+repeal, amend, or diminish the protections available under the Civil Code, Republic Act No.
+7394, Republic Act No. 8792, Republic Act No. 11967, Republic Act No. 12010, Republic Act
+No. 10173, Republic Act No. 10175, Republic Act No. 8484, and Republic Act No. 11934. The
+protections under this Act shall apply to cash-on-delivery and online-purchase transactions
+regardless of       whether they      are covered by Republic Act No. 11967, including
+consumer-to-consumer transactions. In case of doubt, the provisions of this Act shall be
+construed in favor of the consumer.
+
+     SEC. 14. Implementing Rules and Regulations. — Within ninety (90) days from the
+effectivity of this Act, the Department of Trade and Industry, in coordination with the
+Department of Information and Communications Technology, the Bangko Sentral ng Pilipinas,
+the National Privacy Commission, and the National Telecommunications Commission, and after
+consultation with consumer groups, courier and logistics service providers, and digital platforms,
+shall promulgate the rules and regulations necessary to implement this Act.
+
+     SEC. 15. Appropriations. — The amount necessary for the initial implementation of this
+Act shall be charged against the current appropriations of the Department of Trade and Industry.
+Thereafter, the amount needed for its continued implementation shall be included in the annual
+General Appropriations Act.
+
+     SEC. 16. Separability Clause. — If any provision of this Act is declared invalid or
+unconstitutional, the remaining provisions not affected thereby shall remain in full force and
+effect.
+     SEC. 17. Repealing Clause. — All laws, decrees, executive orders, rules and regulations,
+and other issuances or parts thereof inconsistent with this Act are hereby repealed, amended, or
+modified accordingly.
+
+     SEC. 18. Effectivity. — This Act shall take effect fifteen (15) days after its complete
+publication in the Official Gazette or in a newspaper of general circulation.
+
+
+Approved,
+
+
+
+
+                              HON. BRIAN DANIEL POE LLAMANZARES, PhD, MNSA
+                                               Representative
+                                         FPJ Panday Bayanihan Party-List
+
