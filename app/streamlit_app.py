@@ -45,6 +45,7 @@ DESCRIPTION = ("A tool to aid government analysts to trace a bill's history, see
                "implications in order to provide comments for legislators.")
 LABEL = "AI-assisted preliminary draft for DBM reviewer validation. Not an official position."
 PILOT = "Creates a national agency (pilot)"
+STATUS_COLOR = {"PENDING": "gold", "ENACTED": "green", "CONSOLIDATED/SUBSTITUTED": "navy", "NOT ENACTED": "red"}
 ALL_PAGES = ["Overview", "Bills", "Review workspace", "How it Works", "Library", "Run log"]
 PUBLIC_PAGES = [p for p in ALL_PAGES if p != "Review workspace"]
 STEPS = ["Trace", "Compare", "Weigh", "Comments & report", "Memo & letter"]
@@ -259,7 +260,7 @@ def bill_dialog(row):
                ("Full text in ActCheck" if row["reviewable"] else "Listing only", "green" if row["reviewable"] else ""),
                (house_note(row), "red"), (("LEDAC priority: " + row["ledac"]) if row.get("ledac") else "", "red")])
     ui.html(f'<div class="ac-billtitle">{escape(row["title"] or row["short_title"] or "(title not yet available)")}</div>')
-    meta = [("Short title", row["short_title"]), ("Filed", row["date_filed"]), ("Status", row["status"]),
+    meta = [("Short title", row["short_title"]), ("Filed", row["date_filed"]), ("Status", f'{row.get("status_group", "")} · {row.get("status_sub", "")} ({row["status"]})'),
             ("Where the status comes from", row.get("status_basis", "")), ("Committee", row["committee"]),
             ("Author", row["author"]), ("Listed from", row["source"])]
     st.caption(" · ".join(f"{k}: {v}" for k, v in meta if v))
@@ -761,17 +762,9 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             congress = f1.selectbox("Congress", ["20th", "19th", "18th", "All"])
             btype = f2.selectbox("Bill type", ["All", "House Bill", "Senate Bill"])
             ttype = f3.selectbox("Type", ["All types"] + typology.CATEGORY_NAMES)
-            present = set(cat["status_group"])
-            statuses = ["All statuses"]
-            for g, stgs in catalogue.GROUPS.items():
-                have = [x for x in stgs if x in present]
-                if not have:
-                    continue
-                statuses.append(g)
-                if len(have) > 1:
-                    statuses += [f"    {g.split()[0]} · {x}" for x in have]
-            status = f4.selectbox("Status", statuses, help="Four groups, each with its stages of the legislative process; the exact status "
-                                  "from the source is shown under each bill and in its details.")
+            statuses = ["All statuses"] + [g for g in catalogue.GROUPS if (cat["status_group"] == g).any()]
+            status = f4.selectbox("Status", statuses, help="Pending, enacted, consolidated or substituted, and not enacted. Each bill shows "
+                                  "its sub-heading (e.g. In the committee) and the exact status from the source.")
             s1, s2, s3, s4 = st.columns([2.4, 1.1, 0.9, 0.9])
             q = s1.text_input("Search bill number, title or subject", placeholder="e.g. HB 2322, water resources, coast guard")
             applies = s2.selectbox("Applies to", ["All"] + typology.APPLICATION)
@@ -784,10 +777,8 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             df = df[df["bill_type"] == btype]
         if ttype != "All types":
             df = df[df["type"] == ttype]
-        if status in catalogue.GROUPS:
-            df = df[df["status_group"].isin(catalogue.GROUPS[status])]
-        elif status != "All statuses":
-            df = df[df["status_group"] == status.split(" · ", 1)[1]]
+        if status != "All statuses":
+            df = df[df["status_group"] == status]
         if applies != "All":
             df = df[df["applies_to"] == applies]
         if ledac_only:
@@ -824,9 +815,10 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                               + (" · full text" if r["reviewable"] else "")
                               + (f' · <b style="color:#B3261E">LEDAC priority</b>' if r.get("ledac") else "") + "</div>", unsafe_allow_html=True)
                 c[2].markdown(r["bill_type"])
-                c[3].markdown(f'<span class="ac-badge">{escape(catalogue.GROUP_OF.get(r["status_group"], ""))}</span>'
-                              f'<div class="ac-filed" style="margin-top:.2rem"><b>{escape(r["status_group"])}</b></div>'
-                              f'<div class="ac-filed" style="margin-top:.2rem">{escape(r["status"])}</div>', unsafe_allow_html=True)
+                exact = r["status"] if r["status"].lower() != r["status_sub"].lower() else ""
+                c[3].markdown(f'<span class="ac-badge {STATUS_COLOR.get(r["status_group"], "")}">{escape(r["status_group"])}</span>'
+                              f'<div class="ac-filed" style="margin-top:.25rem"><b>{escape(r["status_sub"])}</b></div>'
+                              + (f'<div class="ac-filed" style="margin-top:.1rem">{escape(exact)}</div>' if exact else ""), unsafe_allow_html=True)
                 if r["source_url"]:
                     c[4].markdown(f'<div class="ac-view"><a href="{escape(r["source_url"])}" target="_blank">PDF ↗</a></div>', unsafe_allow_html=True)
                 if REVIEWER:

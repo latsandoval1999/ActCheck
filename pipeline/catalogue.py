@@ -105,42 +105,47 @@ def fill_status(bid, congress, status, enacted, full):
     return "Filed; later stages not in source data", "Derived: a filed bill whose later stages are not published in a source ActCheck can read"
 
 
-# Detailed statuses (27 wordings across the House, Senate and Open Congress sources) grouped into the stages of the
-# legislative process, in order. The detailed status stays visible in the bill's details.
-STAGES = ["Filed or on first reading", "In committee", "Consolidated or substituted", "On the floor (second or third reading)",
-          "In the other chamber or bicameral conference", "Sent to the President", "Enacted into law", "Vetoed",
-          "Withdrawn or archived", "Not enacted (Congress ended)"]
-_STAGE_RULES = [
-    ("Enacted into law", r"^enacted as republic act|^approved by the president|^lapsed into law"),
-    ("Vetoed", r"^vetoed"),
-    ("Consolidated or substituted", r"consolidated|substituted"),
-    ("Sent to the President", r"enrolled copy|malaca"),
-    ("Sent to the President", r"passed by both houses"),
-    ("In the other chamber or bicameral conference", r"pending in the (house|senate)|sent back to the|conference|conferees"),
-    ("On the floor (second or third reading)", r"second reading|third reading"),
-    ("In committee", r"in the committee|recommitted"),
-    ("Withdrawn or archived", r"withdrawn|archives"),
-    ("Filed or on first reading", r"first reading|^filed"),
-]
-FINAL = {"Enacted into law", "Vetoed", "Consolidated or substituted", "Withdrawn or archived"}
-# Four status groups over the ten stages
+# Detailed statuses (27 wordings across the House, Senate and Open Congress sources) mapped to four main groups, each
+# with sub-headings. The Bills filter uses the main groups; each bill shows its sub-heading and the exact status.
 GROUPS = {
-    "Pending in Congress": ["Filed or on first reading", "In committee", "On the floor (second or third reading)",
-                            "In the other chamber or bicameral conference", "Sent to the President"],
-    "Enacted into law": ["Enacted into law"],
-    "Consolidated or substituted": ["Consolidated or substituted"],
-    "Closed without enactment": ["Vetoed", "Withdrawn or archived", "Not enacted (Congress ended)"],
+    "PENDING": ["Filed", "First reading", "Second reading", "In the committee", "In the House of Representatives", "In the Senate",
+                "In Congress (bicameral conference)", "Sent to the President"],
+    "ENACTED": ["Approved by the President", "Enrolled copy sent to Malacañang", "Approved with parts vetoed", "Lapsed into law"],
+    "CONSOLIDATED/SUBSTITUTED": ["In the committee report", "With an approved bill", "With a bill that lapsed into law"],
+    "NOT ENACTED": ["Vetoed", "Withdrawn or archived", "Congressional session ended"],
 }
-GROUP_OF = {stg: g for g, stgs in GROUPS.items() for stg in stgs}
+GROUP_OF = {sub: g for g, subs in GROUPS.items() for sub in subs}
+_RULES = [  # (pattern on the lower-case status, sub-heading), first match wins
+    (r"consolidated.*lapsed into law", "With a bill that lapsed into law"),
+    (r"consolidated with approved bill|consolidated with an approved", "With an approved bill"),
+    (r"consolidated|substituted", "In the committee report"),
+    (r"vetoed other parts|parts vetoed|line-item veto", "Approved with parts vetoed"),
+    (r"^vetoed", "Vetoed"),
+    (r"lapsed into law", "Lapsed into law"),
+    (r"^approved by the president|^enacted as republic act", "Approved by the President"),
+    (r"enrolled copy|malaca", "Enrolled copy sent to Malacañang"),
+    (r"passed by both houses", "Sent to the President"),
+    (r"conference|conferees", "In Congress (bicameral conference)"),
+    (r"pending in the house|sent back to the house", "In the House of Representatives"),
+    (r"pending in the senate|sent back to the senate", "In the Senate"),
+    (r"second reading|third reading", "Second reading"),
+    (r"first reading", "First reading"),
+    (r"committee", "In the committee"),
+    (r"withdrawn|archives|archived", "Withdrawn or archived"),
+    (r"^filed", "Filed"),
+]
+# sub-headings that end a bill's journey; anything else in an ended Congress lapsed when that Congress adjourned
+_CLOSED = set(GROUPS["ENACTED"]) | set(GROUPS["CONSOLIDATED/SUBSTITUTED"]) | {"Vetoed", "Withdrawn or archived", "Sent to the President"}
 
 
-def stage(status, congress):
+def classify(status, congress):
+    """(main group, sub-heading) for a bill's status."""
     s = (status or "").lower()
-    st_ = next((name for name, rx in _STAGE_RULES if re.search(rx, s)), None)
-    # bills that passed both chambers may still have become law after their Congress ended, so they keep their stage
-    if str(congress) in ("18", "19") and st_ not in FINAL and not re.search(r"passed by both houses|enrolled|malaca", s):
-        return "Not enacted (Congress ended)"
-    return st_ or "Filed or on first reading"
+    sub = next((name for rx, name in _RULES if re.search(rx, s)), None)
+    if str(congress) in ("18", "19") and sub not in _CLOSED:
+        sub = "Congressional session ended"
+    sub = sub or "Filed"
+    return GROUP_OF[sub], sub
 
 
 @lru_cache(maxsize=1)
@@ -198,7 +203,7 @@ def build(_stamp=None):
             "chamber": CHAMBER.get(b.get("chamber"), b.get("chamber", "")), "congress": str(b.get("congress", "")),
             "number": num, "date_filed": b.get("date_filed", ""), "short_title": b.get("short_title", ""), "title": title,
             "status": status, "status_basis": status_basis,
-            "status_group": stage(status, b.get("congress")), "type": cat, "applies_to": app, "house_origin": typology.house_origin(cat, app),
+            "status_group": classify(status, b.get("congress"))[0], "status_sub": classify(status, b.get("congress"))[1], "type": cat, "applies_to": app, "house_origin": typology.house_origin(cat, app),
             "bill_type": "House Bill" if b.get("chamber") == "HB" else "Senate Bill", "committee": b.get("committee", ""), "author": b.get("author", ""),
             "scope": SCOPE.get(screen(title), "Other legislation"), "text": text, "found": b.get("found", ""),
             "source": b.get("source", "Corpus"), "source_url": b.get("source_url", ""), "reviewable": bool(b.get("in_corpus")),
