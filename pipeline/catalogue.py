@@ -77,7 +77,7 @@ def _enacted():
             for r in csv.DictReader(f):
                 for b in (r.get("bills") or "").split(";"):
                     if b:
-                        out[b] = (r["ra"], r.get("approved", ""))
+                        out[b] = (r["ra"], r.get("approved", ""), r.get("basis", ""))
     return out
 
 
@@ -94,9 +94,10 @@ def fill_status(bid, congress, status, enacted, full):
     if status:
         return status, "Source listing"
     if bid in enacted:
-        ra, approved = enacted[bid]
+        ra, approved, basis = enacted[bid]
+        how = ("matching the law's long title to this bill" if str(basis).startswith("title") else "the bill number in the law's closing note")
         return (f"Enacted as Republic Act No. {ra}" + (f" (approved {_nice_date(approved)})" if approved else ""),
-                "Closing note of the Republic Act (Philippine Legal Documents Library, BetterGov.PH / Lawphil)")
+                f"Republic Act text (Philippine Legal Documents Library, BetterGov.PH / Lawphil), by {how}")
     if str(congress) in ("18", "19"):
         if full:
             return (f"Not enacted; the {congress}th Congress has ended",
@@ -183,7 +184,7 @@ def build(_stamp=None):
             title=cur.get("title") or b.get("title"), in_corpus=True)
 
     enacted = _enacted()
-    full = len(set(r for r, _ in enacted.values())) >= 1000      # the full Republic Acts list, not a partial seed
+    full = len(set(v[0] for v in enacted.values())) >= 1000      # the full Republic Acts list, not a partial seed
     out = []
     for b in bills.values():
         title = b.get("title", "")

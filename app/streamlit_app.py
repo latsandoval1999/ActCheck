@@ -764,7 +764,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             ttype = f3.selectbox("Type", ["All types"] + typology.CATEGORY_NAMES)
             statuses = ["All statuses"] + [g for g in catalogue.GROUPS if (cat["status_group"] == g).any()]
             status = f4.selectbox("Status", statuses, help="Pending, enacted, consolidated or substituted, and not enacted. Each bill shows "
-                                  "its sub-heading (e.g. In the committee) and the exact status from the source.")
+                                  "its sub-heading (e.g. In the committee); the exact status from the source is in the bill's details.")
             s1, s2, s3, s4 = st.columns([2.4, 1.1, 0.9, 0.9])
             q = s1.text_input("Search bill number, title or subject", placeholder="e.g. HB 2322, water resources, coast guard")
             applies = s2.selectbox("Applies to", ["All"] + typology.APPLICATION)
@@ -815,10 +815,8 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                               + (" · full text" if r["reviewable"] else "")
                               + (f' · <b style="color:#B3261E">LEDAC priority</b>' if r.get("ledac") else "") + "</div>", unsafe_allow_html=True)
                 c[2].markdown(r["bill_type"])
-                exact = r["status"] if r["status"].lower() != r["status_sub"].lower() else ""
                 c[3].markdown(f'<span class="ac-badge {STATUS_COLOR.get(r["status_group"], "")}">{escape(r["status_group"])}</span>'
-                              f'<div class="ac-filed" style="margin-top:.25rem"><b>{escape(r["status_sub"])}</b></div>'
-                              + (f'<div class="ac-filed" style="margin-top:.1rem">{escape(exact)}</div>' if exact else ""), unsafe_allow_html=True)
+                              f'<div class="ac-filed" style="margin-top:.25rem"><b>{escape(r["status_sub"])}</b></div>', unsafe_allow_html=True)
                 if r["source_url"]:
                     c[4].markdown(f'<div class="ac-view"><a href="{escape(r["source_url"])}" target="_blank">PDF ↗</a></div>', unsafe_allow_html=True)
                 if REVIEWER:
