@@ -45,6 +45,11 @@ def _section_no(s):
     return f"Section {m.group(1)}" if m else ""
 
 
+def _policy_line(b):
+    from pipeline import policy
+    return policy.memo_line({"title": b.get("title", ""), "congress": b.get("congress")})
+
+
 def memo_prefill(bid, review, comments=None, bureau_inputs="", status=""):
     bills, _ = load()
     b = bills[bid]
@@ -62,7 +67,8 @@ def memo_prefill(bid, review, comments=None, bureau_inputs="", status=""):
         "subject": f"PRELIMINARY COMMENTS ON {bill_name(bid).upper()} ENTITLED \"{title.upper()}\"",
         "s1": (f"This pertains to [the request of the Committee on ______ dated ______] for the comments and recommendations of the "
                f"Department of Budget and Management (DBM) on {bill_name(bid)} entitled \"{title}.\""
-               + (f" Its status as listed is: {status.lower()}." if status and not status.startswith("Status not") else "")),
+               + (f" Its status as listed is: {status.lower()}." if status and not status.startswith("Status not") else "")
+               + _policy_line(b)),
         "s1_1": "[BILLS referred the bill to the concerned DBM bureaus, e.g. the Budget and Management Bureau (BMB) and the "
                 "Organization, Position Classification and Compensation Bureau (OPCCB), for comments on ______.]",
         "s2": review.get("summary", ""),

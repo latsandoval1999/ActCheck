@@ -49,9 +49,44 @@ numbers include, which matters because the engine divides obligations by staff:
 The upper bounds fall because the commission and department benchmarks no longer spread program funds over too few
 people. Method B remains an upper bound: even "operating" obligations include some program spending.
 
-## 4. Still to confirm
+## 4. Still to confirm (as of 8 Nov 2026)
 
 - NWRB contract-of-service headcount (not in the executive summary; see the full audit report).
 - Pag-IBIG government share against the current HDMF circular.
 - Whether the PEI and SRI will be authorized for 2026.
 - MOOE share (35–60% of personnel cost) and average staff salary grade (SG 13–18) against GAA 2026 lines of comparable agencies.
+
+
+## 5. Update, 16 Nov 2026: FY 2026 budget data
+
+New sources in the author's folder: the FY 2026 GAA by-object file (DBM; 736,848 lines, total P6,793.162 billion,
+matching the FY 2026 GAA figure in the DBM 2027 BPF briefer), the DBM Staffing Summary FY 2026, the 2027 BPF briefers
+and the PSA inflation report for October 2026.
+
+| Item | Finding | Change |
+|---|---|---|
+| MOOE share (was 35–60% of personnel cost, to confirm) | Overhead MOOE (General Administration and Support plus Support to Operations) is 20%–89% of Personnel Services across 9 comparators; median 36%, middle half 31%–64% | Set to 31%–64%, sourced |
+| Average staff salary grade (SG 13–18, to confirm) | Personnel Services per authorized position: P0.56M–P0.86M for 8 comparators (DMW P1.35M, with overseas posts); the engine's loaded cost is P0.62M at SG-13 and P0.90M at SG-18 | Kept; now sourced |
+| Method B (was COA all-in obligations per staff member) | COA obligations include program funds and continuing appropriations, which overstate running costs | Now FY 2026 Personnel Services plus overhead MOOE per authorized position; COA kept as a cross-check, not in the range |
+| NWRB contract-of-service staff | Still not reported; the Staffing Summary covers permanent positions only (124 authorized, 110 filled) | Method B now divides by authorized positions, consistently for all comparators |
+| Department headcount (high end 1,728) | DMW Office of the Secretary has 1,896 authorized positions in FY 2026 | High end set to 1,896 |
+| Prices | The 2026 salary schedule is the last tranche under EO 64 s. 2024; 2027 inflation assumption 4.0–5.0% (BPF); headline inflation 7.8% in October 2026 (PSA) | Ranges stay in 2026 prices; the 2027 effect on MOOE is shown as a note |
+
+FY 2026 comparators (GAA by object and Staffing Summary; pesos):
+
+| Agency | Authorized positions | Overhead MOOE / PS | Operating cost per position |
+|---|---|---|---|
+| National Water Resources Board | 124 | 36% | 0.99M |
+| Climate Change Commission | 76 (FY 2025) | 89% | 1.63M |
+| Cooperative Development Authority | 879 | 33% | 0.94M |
+| DHSUD (Office of the Secretary) | 1,167 | 31% | 0.97M |
+| DMW (Office of the Secretary) | 1,896 | 20% | 1.63M |
+| Bureau of Fisheries and Aquatic Resources | 2,126 | 64% | 0.92M |
+| Office of Civil Defense | 718 | 77% | 1.19M |
+| Commission on Higher Education | 732 | 27% | 1.00M |
+| Philippine Sports Commission | 127 | 49% | 1.13M |
+
+Effect on the ranges: HB 2322 (AGRICOM) P67.7M–P270.0M → P65.6M–P201.8M; HB 6789 (DWR) P359.9M–P3.78B → P448.5M–P3.08B.
+
+Still to confirm: Pag-IBIG government share against the current HDMF circular; PEI and SRI authority for 2026;
+headcounts for a specific bill against a draft staffing pattern (the largest driver of the range).

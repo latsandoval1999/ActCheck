@@ -179,11 +179,22 @@ def appraise(rev, cost, peso, checks=None, redteam=None):
     with st.expander("Cost assumptions and similar agencies used for comparison"):
         a = pd.DataFrame(cost["assumptions"])
         st.dataframe(a, use_container_width=True, hide_index=True)
-        st.dataframe(pd.DataFrame(cost["method_b_comparators"]["comparators"]), use_container_width=True, hide_index=True)
+        comp = pd.DataFrame([{"Agency": c["agency"], "Authorized positions": c["positions"], "Personnel Services": peso(c["personnel_services"]),
+                              "Overhead MOOE": peso(c["mooe_overhead"]), "Overhead MOOE / PS": f"{c['overhead_mooe_share']:.0%}",
+                              "Operating cost per position": peso(c["per_position"]), "Source": c["source"]}
+                             for c in cost["method_b_comparators"]["comparators"]])
+        st.markdown("**Similar agencies, FY 2026 budget (used in the range)**")
+        st.dataframe(comp, use_container_width=True, hide_index=True)
+        if cost.get("coa_crosscheck"):
+            st.markdown("**Cross-check: COA audited spending per staff member (includes programs; not used in the range)**")
+            st.dataframe(pd.DataFrame([{"Agency": c["agency"], "Year": c["year"], "Spending per staff member": peso(c["per_staff"]), "Source": c["source"]}
+                                       for c in cost["coa_crosscheck"]]), use_container_width=True, hide_index=True)
     if not rev:
         return
     ui.html(f'<div class="ac-out"><p><b>Summary.</b> {escape(short(rev.get("summary"), 700))}</p>'
-            f'<p><b>Fiscal.</b> {escape(short((rev.get("fiscal") or {}).get("narrative"), 600))}</p></div>')
+            f'<p><b>Fiscal.</b> {escape(short((rev.get("fiscal") or {}).get("narrative"), 600))}</p>'
+            + (f'<p><b>Policy context.</b> {escape(short(rev.get("policy_context"), 400))}</p>' if rev.get("policy_context") else "")
+            + '</div>')
     if checks:
         verification(checks.get("citations"))
         for x in checks.get("unsupported_numbers", []):

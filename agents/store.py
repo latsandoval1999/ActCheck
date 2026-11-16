@@ -67,3 +67,21 @@ def save_upload(bid, step, name, data):
     safe = "".join(ch if ch.isalnum() or ch in "._-" else "_" for ch in name)[:80]
     (d / f"{step}_{safe}").write_bytes(data)
     return f"{step}_{safe}"
+
+
+FEEDBACK_KINDS = ["Wrong or unverifiable citation", "Wrong or unsupported figure", "Missing evidence or related measure",
+                  "Overstated status or certainty", "Biased or unfair wording", "Out of scope (position, politics, names)", "Other"]
+
+
+def feedback(bid, step, kind, text):
+    """Record a reviewer's report of a problem with an AI output (DICT-CSC JMC No. 003 s. 2026, Sec. 6(b): reporting
+    and feedback mechanism). Kept in the bill's record and in logs/feedback.jsonl, which the Run log shows."""
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    item = {"time": now, "bill": bid, "step": step, "kind": kind, "text": text.strip()}
+    rec = load(bid)
+    save(bid, "feedback", (rec.get("feedback") or []) + [item], note=f"problem reported on {step}: {kind}")
+    log = ROOT / "logs" / "feedback.jsonl"
+    log.parent.mkdir(parents=True, exist_ok=True)
+    with open(log, "a") as f:
+        f.write(json.dumps(item, ensure_ascii=False) + "\n")
+    return item

@@ -17,7 +17,7 @@ from functools import lru_cache
 from pathlib import Path
 
 from pipeline.watch import screen, SENATE
-from pipeline import typology
+from pipeline import typology, policy
 
 ROOT = Path(__file__).resolve().parents[1]
 PROC = ROOT / "data" / "processed"
@@ -113,6 +113,7 @@ def build(_stamp=None):
         app = typology.application(title, cat)
         status = " ".join((b.get("status") or "").split())
         status = proper(status[:1].upper() + status[1:].lower()) if status else "Status not yet available"
+        led = policy.ledac(f"{title} {b.get('short_title', '')}", b.get("congress"))
         text = "Full text" if b.get("in_corpus") else ("Text pending" if b.get("text_state") == "pending" else "Listing only")
         out.append({
             "id": b["id"], "label": f"{'HB' if b.get('chamber') == 'HB' else 'SB'} {num}",
@@ -122,6 +123,7 @@ def build(_stamp=None):
             "bill_type": "House Bill" if b.get("chamber") == "HB" else "Senate Bill", "committee": b.get("committee", ""), "author": b.get("author", ""),
             "scope": SCOPE.get(screen(title), "Other legislation"), "text": text, "found": b.get("found", ""),
             "source": b.get("source", "Corpus"), "source_url": b.get("source_url", ""), "reviewable": bool(b.get("in_corpus")),
+            "ledac": f"{led[0][0]}. {led[0][1]}" if led else "",
         })
     out.sort(key=lambda r: (-int(r["congress"] or 0), r["chamber"] != "House", -r["number"]))
     return out

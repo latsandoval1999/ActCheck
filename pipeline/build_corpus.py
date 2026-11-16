@@ -101,6 +101,21 @@ def main():
         docs.append(rec)
         for s in parsed["sections"]:
             secs.append({"id": f"{meta['id']}:s{s['no']}", "bill": meta["id"], "no": s["no"], "heading": s["heading"], "text": s["text"]})
+    # Policy references (LEDAC agenda, DBM budget priorities, PSA inflation): curated excerpts of public documents,
+    # in the Library so agents can cite them and citations can be checked like any other section.
+    for p in sorted((ROOT / "data" / "reference" / "docs").glob("*.json")):
+        d = json.loads(p.read_text())
+        if d["id"] in seen:
+            continue
+        seen.add(d["id"])
+        docs.append({"id": d["id"], "label": d["label"], "chamber": "reference", "congress": None, "family": "Policy references",
+                     "kind": "reference", "is_law": False, "is_history": False, "text_source": "pdf_text",
+                     "file": str(p.relative_to(ROOT)), "title": d["title"], "source_url": d.get("source_url", ""),
+                     "n_sections": len(d["sections"]), "explanatory_note": "", "front_matter": "",
+                     "facts": facts([]),
+                     "laws_cited": {}, "substitutes": []})
+        for s_ in d["sections"]:
+            secs.append({"id": f"{d['id']}:s{s_['no']}", "bill": d["id"], "no": s_["no"], "heading": s_["heading"], "text": s_["text"]})
     with open(OUT / "bills.jsonl", "w") as f:
         for d in docs:
             f.write(json.dumps(d, ensure_ascii=False) + "\n")

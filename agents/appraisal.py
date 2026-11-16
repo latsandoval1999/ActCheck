@@ -40,6 +40,18 @@ def _sections(bid, limit=60):
     return _sections_block(bid, limit=limit)
 
 
+def _policy_block(b):
+    """LEDAC status, 2027 budget priorities and fiscal stance, with the reference sections they rest on."""
+    from pipeline import policy
+    ctx = policy.context({"title": b["title"], "congress": b.get("congress")})
+    ids = {"REF-BPF2027-EXP:s1", "REF-BPF2027-MACRO:s1", "REF-BPF2027-MACRO:s4"}
+    ids |= {x["source"] for x in ctx["ledac"]} | {x["source"] for x in ctx["bpf_2027_priority_areas"]}
+    _, secs = load()
+    texts = [f"[{s['id']}] {s['text']}" for doc in sorted({i.split(':')[0] for i in ids}) for s in secs.get(doc, []) if s["id"] in ids]
+    return ("POLICY CONTEXT (LEDAC agenda and DBM 2027 Budget Priorities Framework; cite these section IDs like any other source):\n"
+            + json.dumps(ctx, ensure_ascii=False) + "\nREFERENCE SECTIONS:\n" + "\n".join(texts))
+
+
 def _latest(log_name, key, value):
     p = ROOT / "logs" / log_name
     if not p.exists():
@@ -64,7 +76,8 @@ def build_review_messages(bid, research=None, diagnosis=None, cost_overrides=Non
             f"RULE-BASED FACTS (no AI): {json.dumps(b['facts'], ensure_ascii=False)}\n"
             f"LAWS CITED IN THE BILL: {json.dumps(b.get('laws_cited', {}))}\n\n"
             f"COSTING ENGINE OUTPUT (the ONLY permitted source of cost figures): {json.dumps(cost, ensure_ascii=False)}\n\n"
-            f"COMPARATOR AGENCIES (COA audit reports): {json.dumps(comps, ensure_ascii=False)}\n\n"
+            f"COMPARATOR AGENCIES (COA audit reports, cross-check): {json.dumps(comps, ensure_ascii=False)}\n\n"
+            f"{_policy_block(b)}\n\n"
             f"TRAICE (AGENT 1, EVIDENCE AND RESEARCH) OUTPUT: {json.dumps(research, ensure_ascii=False) if research else 'not run'}\n\n"
             f"COMPAIRE (AGENT 2, DIAGNOSIS AND DESIGN) OUTPUT: {json.dumps(diagnosis, ensure_ascii=False) if diagnosis else 'not run'}\n\n"
             f"TARGET SECTIONS:\n{_sections(bid)}")

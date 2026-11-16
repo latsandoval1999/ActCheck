@@ -58,7 +58,7 @@ def bill_text(bid):
 def related_bills(bid, top=10, include_laws=False):
     """Rank other documents by whole-text similarity to bill `bid`."""
     bills, _ = load()
-    ids = [i for i, b in bills.items() if i != bid and (include_laws or not b["is_law"])]
+    ids = [i for i, b in bills.items() if i != bid and b.get("kind") != "reference" and (include_laws or not b["is_law"])]
     docs = [bill_text(bid)] + [bill_text(i) for i in ids]
     vec = TfidfVectorizer(stop_words="english", ngram_range=(1, 2), min_df=1, sublinear_tf=True)
     m = vec.fit_transform(docs)

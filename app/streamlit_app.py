@@ -33,7 +33,7 @@ if getattr(sys, "_actcheck_stamp", None) != _code_stamp:
 
 from agents import llm, store, documents as docs  # noqa: E402
 from agents.names import APP_NAME, AGENT1, AGENT2, AGENT3  # noqa: E402
-from pipeline import catalogue, typology  # noqa: E402
+from pipeline import catalogue, typology, policy  # noqa: E402
 from pipeline.compare import load, related_bills  # noqa: E402
 import render  # noqa: E402
 import ui  # noqa: E402
@@ -192,7 +192,7 @@ def bill_dialog(row):
     st.markdown(f"### {escape(row['label'])} · {row['congress']}th Congress")
     ui.badges([(row["bill_type"], "navy"), (row["type"], "gold"), (row["applies_to"], ""), (row["status"], ""),
                ("Full text in ActCheck" if row["reviewable"] else "Listing only", "green" if row["reviewable"] else ""),
-               (house_note(row), "red")])
+               (house_note(row), "red"), (("LEDAC priority: " + row["ledac"]) if row.get("ledac") else "", "red")])
     ui.html(f'<div class="ac-billtitle">{escape(row["title"] or row["short_title"] or "(title not yet available)")}</div>')
     meta = [("Short title", row["short_title"]), ("Filed", row["date_filed"]), ("Committee", row["committee"]),
             ("Author", row["author"]), ("Listed from", row["source"])]
@@ -237,6 +237,16 @@ def checklist(bid, step, items, heading="Reviewer checklist: tick every item to 
             st.rerun()                       # refresh so the step locks and the progress bar reflect the change
         n_done = sum(1 for i in range(len(items)) if (cl.get(str(i)) or {}).get("done"))
         st.caption(f"{n_done} of {len(items)} items done.")
+        with st.expander("Report a problem with this output"):
+            st.caption("Reports are kept with the bill and in the Run log, so errors can be tracked and fixed.")
+            kind = st.selectbox("What is wrong?", store.FEEDBACK_KINDS, key=f"fbk_{bid}_{step}")
+            txt = st.text_area("Details", key=f"fbt_{bid}_{step}", height=70, placeholder="Where it is and what it should say")
+            if st.button("Submit report", key=f"fbs_{bid}_{step}", disabled=not txt.strip()):
+                store.feedback(bid, step, kind, txt)
+                st.success("Report saved. Thank you.")
+        prev = [f for f in (store.load(bid).get("feedback") or []) if f.get("step") == step]
+        if prev:
+            st.caption(f"{len(prev)} problem report(s) on this step.")
     return n_done == len(items) and len(items) > 0
 
 
@@ -309,8 +319,18 @@ def case(bid):
     ui.html(f'<div class="ac-crumb">Review workspace / <b>{escape(b["label"])}</b></div>')
     st.markdown(f"## {escape(b['label'])} · {b['congress']}th Congress")
     ui.badges([(row.get("bill_type"), "navy"), (row.get("type"), "gold"), (row.get("applies_to"), ""), (row.get("status"), ""),
-               (house_note(row), "red")])
+               (house_note(row), "red"), (("LEDAC priority: " + row["ledac"]) if row.get("ledac") else "", "red")])
     ui.html(f'<div class="ac-billtitle">{escape(b["title"])}</div>')
+    pctx = policy.context({"title": b["title"], "congress": b["congress"]})
+    if pctx["ledac"] or pctx["bpf_2027_priority_areas"]:
+        bits = []
+        if pctx["ledac"]:
+            bits.append(f"Related by title to LEDAC Common Legislative Agenda item {pctx['ledac'][0]['no']} "
+                        f"({escape(pctx['ledac'][0]['measure'])}) for the 20th Congress.")
+        if pctx["bpf_2027_priority_areas"]:
+            bits.append("Falls under the 2027 budget priority area(s): " + ", ".join(escape(a["area"]) for a in pctx["bpf_2027_priority_areas"]) + ".")
+        ui.notice("<b>Policy context.</b> " + " ".join(bits) + " The 2027 Budget Priorities Framework also calls for rationalizing programs "
+                  "to remove redundancies. Sources: LEDAC agenda (30 Sept 2025) and DBM 2027 BPF briefers, in the Library.", "navy")
     research_out = (rec.get("research") or {}).get("output")
     rev = (rec.get("review") or {}).get("output")
 
@@ -631,10 +651,11 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             ttype = f3.selectbox("Type", ["All types"] + typology.CATEGORY_NAMES)
             statuses = ["All statuses"] + list(cat["status"].value_counts().index)
             status = f4.selectbox("Status", statuses)
-            s1, s2, s3 = st.columns([2.6, 1.1, 0.9])
+            s1, s2, s3, s4 = st.columns([2.4, 1.1, 0.9, 0.9])
             q = s1.text_input("Search bill number, title or subject", placeholder="e.g. HB 2322, water resources, coast guard")
             applies = s2.selectbox("Applies to", ["All"] + typology.APPLICATION)
-            fulltext = s3.toggle("Full text only", value=False)
+            ledac_only = s3.toggle("LEDAC priority", value=False, help="Bills related by title to the 44 Common Legislative Agenda measures of the 20th Congress (LEDAC, 30 Sept 2025)")
+            fulltext = s4.toggle("Full text only", value=False)
         df = cat
         if congress != "All":
             df = df[df["congress"] == congress[:2]]
@@ -646,6 +667,8 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             df = df[df["status"] == status]
         if applies != "All":
             df = df[df["applies_to"] == applies]
+        if ledac_only:
+            df = df[df["ledac"] != ""]
         if fulltext:
             df = df[df["reviewable"]]
         if q:
@@ -653,7 +676,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             hay = (df["label"] + df["title"] + df["short_title"]).str.lower().str.replace(" ", "", regex=False)
             df = df[hay.str.contains(key, regex=False)]
         df = df.reset_index(drop=True)
-        sig = (congress, btype, ttype, status, applies, fulltext, q)
+        sig = (congress, btype, ttype, status, applies, ledac_only, fulltext, q)
         if st.session_state.get("bills_sig") != sig:
             st.session_state["bills_sig"], st.session_state["bills_page"] = sig, 1
         per = 20
@@ -675,7 +698,8 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                 if c[1].button(title, key=f"t_{r['id']}", type="tertiary"):
                     bill_dialog(r)
                 c[1].markdown(f'<div class="ac-filed">Filed {escape(r["date_filed"] or "date not listed")}'
-                              + (" · full text" if r["reviewable"] else "") + "</div>", unsafe_allow_html=True)
+                              + (" · full text" if r["reviewable"] else "")
+                              + (f' · <b style="color:#B3261E">LEDAC priority</b>' if r.get("ledac") else "") + "</div>", unsafe_allow_html=True)
                 c[2].markdown(r["bill_type"])
                 c[3].markdown(f'<span class="ac-badge">{escape(r["status"])}</span>', unsafe_allow_html=True)
                 if r["source_url"]:

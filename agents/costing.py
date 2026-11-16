@@ -8,8 +8,11 @@ Two methods, reported side by side:
      + staff (low/high headcount) at an assumed average salary grade, loaded with
      mandatory benefits; plus maintenance and other operating expenses (MOOE) as a
      share of personnel cost.
-  B. Top-down comparator: all-in obligations per staff member of comparable agencies
-     (COA audit reports) x the same headcount range.
+  B. Top-down comparator: operating cost per authorized position of comparable agencies
+     in the FY 2026 GAA (Personnel Services plus the MOOE of General Administration and Support
+     and Support to Operations, divided by the authorized positions in the DBM Staffing Summary
+     FY 2026) x the same headcount range. Program spending (Operations) and capital outlay are left out.
+     COA audit figures (all-in obligations per staff member) are kept as a cross-check.
 The range is the min and max across both methods. If the bill states an amount, it is
 shown as the bill's own figure, not replaced.
 
@@ -46,10 +49,10 @@ BENEFITS = [
 
 # Default headcount ranges by entity type, anchored on comparators in coa_comparators.csv.
 STAFF_DEFAULTS = {
-    "department": (552, 1728, "DHSUD had 552 personnel in its first full year (COA 2020); DMW had 1,728 approved positions in 2023 (COA 2023) (to verify)"),
-    "authority": (100, 400, "NWRB has 124 plantilla positions (COA 2025); reviewer to adjust for mandate"),
-    "commission": (76, 124, "Authorized plantilla of comparators: Climate Change Commission 76, NWRB 124 (COA 2025); the bill itself sets no staffing (to verify)"),
-    "bureau": (100, 300, "Reviewer to set; no bureau-level comparator yet in the benchmark table"),
+    "department": (552, 1896, "DHSUD had 552 personnel in its first full year (COA 2020); DMW's Office of the Secretary has 1,896 authorized positions in FY 2026 (DBM Staffing Summary FY 2026) (to verify)"),
+    "authority": (100, 400, "NWRB has 124 authorized positions (DBM Staffing Summary FY 2026; COA 2025); reviewer to adjust for mandate"),
+    "commission": (76, 124, "Authorized positions of comparators: Climate Change Commission 76, NWRB 124 (DBM Staffing Summary FY 2025-2026); the bill itself sets no staffing (to verify)"),
+    "bureau": (100, 300, "Reviewer to set; Cooperative Development Authority (879) and BFAR (2,126) are much larger (DBM Staffing Summary FY 2026)"),
     "council": (15, 60, "Reviewer to set; small secretariat assumed"),
     "office": (30, 150, "Reviewer to set"),
 }
@@ -59,12 +62,19 @@ COMPARATOR_DEFAULTS = {
     "department": ["Department of Human Settlements and Urban Development", "Department of Migrant Workers"],
     "authority": ["National Water Resources Board", "Cooperative Development Authority"],
     "commission": ["Climate Change Commission", "National Water Resources Board"],
-    "bureau": ["Cooperative Development Authority", "National Water Resources Board"],
+    "bureau": ["Bureau of Fisheries and Aquatic Resources", "Cooperative Development Authority"],
     "council": ["Climate Change Commission"],
     "office": ["Climate Change Commission", "National Water Resources Board"],
 }
-MOOE_SHARE = (0.35, 0.60, "MOOE as a share of personnel cost; reviewer to confirm from GAA 2026 lines of comparator agencies")
-AVG_STAFF_SG = (13, 18, "Assumed average salary grade of staff (Step 1); reviewer to confirm against a draft staffing pattern")
+MOOE_SHARE = (0.31, 0.64, "Overhead MOOE (General Administration and Support plus Support to Operations) as a share of "
+              "Personnel Services: middle half of 9 comparator agencies in the FY 2026 GAA, median 36% (data/benchmarks/gaa_2026_by_agency.csv)")
+AVG_STAFF_SG = (13, 18, "Average staff salary grade (Step 1). Consistent with the FY 2026 GAA: Personnel Services per authorized position "
+                "of 8 comparators is P0.56M-P0.86M, close to the engine's loaded cost of P0.62M at SG-13 and P0.90M at SG-18 (DMW, with overseas posts, P1.35M); "
+                "reviewer to confirm against a draft staffing pattern")
+# Prices: the 2026 salary schedule is the last tranche under EO 64 s. 2024, so personnel cost is not inflated. MOOE in
+# 2027 prices would be higher by the 2027 inflation assumption.
+PRICE_2027 = (0.04, 0.05, "DBM 2027 Budget Priorities Framework: inflation assumption 4.0-5.0% for 2027 (2026: 6.0-7.0%); "
+              "PSA: headline inflation 7.8% in October 2026, 5.6% January-October")
 
 
 def salary_schedule():
@@ -76,8 +86,30 @@ def salary_schedule():
 
 
 def comparators():
+    """COA audit figures (cross-check)."""
     with open(BENCH / "coa_comparators.csv") as f:
         return list(csv.DictReader(f))
+
+
+def gaa_comparators():
+    """FY 2026 GAA operating cost per authorized position (Method B)."""
+    with open(BENCH / "gaa_2026_by_agency.csv") as f:
+        gaa = {(r["department"], r["agency"]): r for r in csv.DictReader(f)}
+    out = []
+    with open(BENCH / "staffing_summary_2026.csv") as f:
+        for s in csv.DictReader(f):
+            g = gaa.get((s["gaa_department"], s["gaa_agency"]))
+            if not g:
+                continue
+            tot = lambda pre: sum(float(v) for k, v in g.items() if k.startswith(pre)) * 1000
+            ps, mooe = tot("ps_"), tot("mooe_")
+            ovh = (float(g["mooe_gas"]) + float(g["mooe_sto"])) * 1000
+            n = int(s["permanent_positions_2026"])
+            out.append({"agency": s["agency"], "positions": n, "personnel_services": round(ps), "mooe_overhead": round(ovh),
+                        "mooe_total": round(mooe), "overhead_mooe_share": round(ovh / ps, 2) if ps else None,
+                        "per_position": (ps + ovh) / n if n else None, "year": "2026",
+                        "source": f"GAA FY 2026 by object (DBM); {s['source']}" + (f" ({s['note']})" if s.get("note") else "")})
+    return out
 
 
 def annual_cost_per_person(monthly_basic):
@@ -115,10 +147,18 @@ def cost_range(bid, staff=None, avg_sg=None, mooe=None, comparator_names=None):
     ps_hi = head + s_hi * annual_cost_per_person(sched[g_hi])
     a_lo, a_hi = ps_lo * (1 + m_lo), ps_hi * (1 + m_hi)
 
-    # Method B: comparators (all-in obligations per staff member)
-    comps = []
+    names = comparator_names or COMPARATOR_DEFAULTS.get(etype, [])
+    # Method B: FY 2026 GAA operating cost (PS + overhead MOOE) per authorized position
+    comps = [dict(c, note="Personnel Services plus overhead MOOE per authorized position, FY 2026 (programs and capital outlay excluded)")
+             for c in gaa_comparators() if not names or c["agency"] in names]
+    if comps:
+        per = sorted(x["per_position"] for x in comps)
+        b_lo, b_hi = s_lo * per[0], s_hi * per[-1]
+    else:
+        b_lo = b_hi = None
+    # Cross-check: COA all-in obligations per staff member (includes program funds)
+    coa = []
     for c in comparators():
-        names = comparator_names or COMPARATOR_DEFAULTS.get(etype, [])
         if names and c["agency"] not in names:
             continue
         # denominator: all personnel if reported, else AUTHORIZED positions (not filled ones, which
@@ -126,14 +166,11 @@ def cost_range(bid, staff=None, avg_sg=None, mooe=None, comparator_names=None):
         staff_n = float(c["personnel_total"] or c["plantilla_authorized"] or c["plantilla_filled"] or 0)
         oblig = c.get("obligations_operating") or c["obligations"]      # excludes large program funds where the report shows them
         if staff_n and oblig:
-            comps.append({"agency": c["agency"], "year": c["year"], "per_staff": float(oblig) / staff_n,
-                          "denominator": "personnel_total" if c["personnel_total"] else "plantilla_authorized" if c["plantilla_authorized"] else "plantilla_filled",
-                          "note": "All-in: total agency obligations (including programs) per staff member; an upper-bound benchmark", "source": c["source"]})
-    if comps:
-        per = sorted(x["per_staff"] for x in comps)
-        b_lo, b_hi = s_lo * per[0], s_hi * per[-1]
-    else:
-        b_lo = b_hi = None
+            coa.append({"agency": c["agency"], "year": c["year"], "per_staff": float(oblig) / staff_n,
+                        "denominator": "personnel_total" if c["personnel_total"] else "plantilla_authorized" if c["plantilla_authorized"] else "plantilla_filled",
+                        "note": "All-in: total agency obligations (including programs) per staff member; cross-check only", "source": c["source"]})
+    p_lo, p_hi, p_src = PRICE_2027
+    mooe_2027 = {"low": round((a_lo - ps_lo) * p_lo), "high": round((a_hi - ps_hi) * p_hi)}
 
     stated = [{"pesos": a["pesos"], "section": f"{bid}:s{a['section']}", "quote": a["quote"]} for a in b["facts"]["amounts"]]
     lo = min(x for x in (a_lo, b_lo) if x is not None)
@@ -144,7 +181,9 @@ def cost_range(bid, staff=None, avg_sg=None, mooe=None, comparator_names=None):
         {"assumption": f"Average staff salary grade SG-{g_lo} to SG-{g_hi}, Step 1", "source": g_src, "to_verify": True},
         {"assumption": f"MOOE {m_lo:.0%}-{m_hi:.0%} of personnel cost", "source": m_src, "to_verify": True},
         {"assumption": "Monthly salaries from the 2026 salary schedule (third tranche under EO 64 s. 2024)", "source": "DBM NBC No. 601, Annex A (data/benchmarks/salary_schedule_2026.csv)", "to_verify": False},
-        {"assumption": "Method B uses total agency obligations per staff member, which include program funds: treat its top as an upper bound", "source": "data/benchmarks/coa_comparators.csv", "to_verify": True},
+        {"assumption": "Method B: Personnel Services plus overhead MOOE per authorized position of comparable agencies (FY 2026); program spending and capital outlay excluded", "source": "GAA FY 2026 by object (DBM) and DBM Staffing Summary FY 2026 (data/benchmarks/gaa_2026_by_agency.csv, staffing_summary_2026.csv)", "to_verify": True},
+        {"assumption": f"Figures are in 2026 prices. If the entity starts in 2027, MOOE would be about {p_lo:.0%}-{p_hi:.0%} higher (P{mooe_2027['low'] / 1e6:,.1f}M-P{mooe_2027['high'] / 1e6:,.1f}M); salaries stay at the 2026 schedule unless a new salary law is passed", "source": p_src, "to_verify": True},
+        {"assumption": "COA audit figures (all-in obligations per staff member, including programs) are shown as a cross-check, not used in the range", "source": "data/benchmarks/coa_comparators.csv", "to_verify": False},
     ]
     if head_sg:
         assumptions.insert(1, {"assumption": f"Head of agency at SG-{head_sg}, Step 1: P{sched[head_sg]:,}/month", "source": f"{bid} (salary grade stated in the bill)", "to_verify": False})
@@ -152,7 +191,10 @@ def cost_range(bid, staff=None, avg_sg=None, mooe=None, comparator_names=None):
     return {
         "bill": bid, "entity_type": etype, "currency": "PHP", "period": "first full year",
         "method_a_bottom_up": {"low": round(a_lo), "high": round(a_hi), "personnel_low": round(ps_lo), "personnel_high": round(ps_hi)},
-        "method_b_comparators": {"low": round(b_lo) if b_lo else None, "high": round(b_hi) if b_hi else None, "comparators": comps},
+        "method_b_comparators": {"low": round(b_lo) if b_lo else None, "high": round(b_hi) if b_hi else None,
+                                 "comparators": [dict(c, per_position=round(c["per_position"])) for c in comps]},
+        "coa_crosscheck": [dict(c, per_staff=round(c["per_staff"])) for c in coa],
+        "mooe_2027_price_effect": mooe_2027,
         "range": {"low": round(lo), "high": round(hi)},
         "stated_in_bill": stated,
         "assumptions": assumptions,

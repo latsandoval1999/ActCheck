@@ -46,3 +46,15 @@ Scope widened: the portal lists every House and Senate bill (Open Congress Data 
 
 ## Portal v3 (8 Nov 2026), from the author's edit list
 BantAI-style redesign (navy, gold, red; hero photo with on-screen images replaced; scale-and-check logo); footer credit; homepage summary, typology chart and workflow; Bills tab with Type and Status filters, clickable titles, View bill and Review; on-demand text fetch; review workspace with queue, sequential steps, gating checklists with notes and uploads, concise outputs; DBM-format memo and letter (Tahoma, fields pre-filled from the approved review; AppraisAI memo/letter prompts now return template fields); BILLy companion (search mode without a key); How it Works tab with the Citizen's Charter process.
+
+
+## 16 Nov 2026: new government references built in
+
+| Area | Change | Why |
+|---|---|---|
+| Cost estimate (AppraisAI) | Method B now uses FY 2026 GAA Personnel Services plus overhead MOOE per authorized position (DBM Staffing Summary FY 2026); MOOE share set to 31%-64% from 9 comparators; COA figures kept as a cross-check; 2027 price note (BPF inflation 4-5%) | COA obligations include program funds; the open items in docs/COSTING_CHECK.md needed current budget data |
+| Policy context (AppraisAI, memo, portal) | LEDAC Common Legislative Agenda flag and filter (535 of 6,120 20th Congress bills related by title); 2027 BPF priority areas and fiscal stance as citable Library references; memo sentence for LEDAC measures; new `policy_context` field in the AppraisAI draft | DBM reviewers weigh priority status and fiscal space; facts are cited and checked like bill sections |
+| Governance | "Report a problem with this output" on every step (logged to the bill and the Run log); How it Works maps safeguards to DICT-CSC JMC No. 003 s. 2026 and NPC Advisory 2024-04 | JMC Sec. 6(b) requires a reporting and feedback mechanism and disclosure |
+| Evaluation | PIDS comment on the DWR bills (9 March 2026) as a held-out benchmark for HB 6789 (10 points, 9 relevant to HB 6789); `python -m eval.pids_eval`; a test keeps it out of agent inputs | Independent expert comparison for the testing section |
+
+Effect on cost ranges: HB 2322 P67.7M-P270.0M -> P65.6M-P201.8M; HB 6789 P359.9M-P3.78B -> P448.5M-P3.08B.

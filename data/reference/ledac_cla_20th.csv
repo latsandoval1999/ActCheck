@@ -1,0 +1,45 @@
+no,measure,title_pattern
+1,Amendments to the Coconut Farmers and Industry Trust Fund Act,COCONUT FARMERS AND INDUSTRY TRUST FUND|REPUBLIC ACT NO\.? 11524
+2,Amendments to the Pantawid Pamilyang Pilipino Program (4Ps) Act,PANTAWID PAMILYANG PILIPINO|REPUBLIC ACT NO\.? 11310
+3,Department of Water Resources (DWR) Bill,DEPARTMENT OF WATER RESOURCES|NATIONAL WATER RESOURCES MANAGEMENT
+4,Waste-to-Energy Bill,WASTE[- ]TO[- ]ENERGY
+5,EPIRA Amendments: Energy Regulatory Commission (ERC) Strengthening Bill,ENERGY REGULATORY COMMISSION|ELECTRIC POWER INDUSTRY REFORM|REPUBLIC ACT NO\.? 9136
+6,National Land Use Act,NATIONAL LAND USE
+7,Excise Tax on Single-Use Plastics,"EXCISE TAX ON SINGLE[- ]USE PLASTIC|SINGLE[- ]USE PLASTIC.{0,80}EXCISE|EXCISE.{0,80}SINGLE[- ]USE PLASTIC"
+8,Blue Economy Act,BLUE ECONOMY
+9,Amendments to the Bank Deposits Secrecy Law,SECRECY OF BANK DEPOSITS|BANK DEPOSITS? SECRECY|REPUBLIC ACT NO\.? 1405\b
+10,Progressive Budgeting for Better and Modernized Governance Act,PROGRESSIVE BUDGETING|BUDGET MODERNIZATION|BUDGETING CODE
+11,Right to Information Act,RIGHT TO INFORMATION|FREEDOM OF INFORMATION
+12,Amendments to the Anti-Money Laundering Act,"AMENDING .{0,80}(ANTI-MONEY LAUNDERING|REPUBLIC ACT NO\.? 9160)"
+13,Philippine Civil Registration and Vital Statistics Act,CIVIL REGISTRATION AND VITAL STATISTICS
+14,Amendments to the Universal Health Care (UHC) Act,UNIVERSAL HEALTH CARE
+15,National Center for Geriatric Health,GERIATRIC HEALTH
+16,Assistance to Individuals in Crisis Situations (AICS) Act,ASSISTANCE TO INDIVIDUALS IN CRISIS
+17,Amendments to the Masustansyang Pagkain Para sa Batang Pilipino Act,MASUSTANSYANG PAGKAIN|REPUBLIC ACT NO\.? 11037
+18,Amendments to the Government Assistance to Students and Teachers in Private Education Act,GOVERNMENT ASSISTANCE TO STUDENTS AND TEACHERS IN PRIVATE EDUCATION|REPUBLIC ACT NO\.? 8545
+19,Amendments to the Universal Access to Quality Tertiary Education Act,UNIVERSAL ACCESS TO QUALITY TERTIARY EDUCATION|REPUBLIC ACT NO\.? 10931
+20,Amendments to the Teachers Professionalization Act,TEACHERS PROFESSIONALIZATION|REPUBLIC ACT NO\.? 7836
+21,Amendments to the Local Government Code (Comprehensive),"^AN ACT (FURTHER |COMPREHENSIVELY )?(AMENDING|REVISING)\b.{0,80}(7160|LOCAL GOVERNMENT CODE)|REVISED LOCAL GOVERNMENT CODE|LOCAL GOVERNMENT CODE OF 20\d\d"
+22,General Tax Amnesty,GENERAL TAX AMNESTY
+23,Extension of Estate Tax Amnesty,ESTATE TAX AMNESTY
+24,Amendments to the Fisheries Code,FISHERIES CODE|REPUBLIC ACT NO\.? 8550
+25,Amendments to the Rice Tariffication Law (RICE Act),RICE TARIFFICATION|RICE INDUSTRY AND CONSUMER EMPOWERMENT|REPUBLIC ACT NO\.? 11203
+26,Amendments to the Downstream Oil Industry Deregulation Law,DOWNSTREAM OIL INDUSTRY|OIL DEREGULATION|REPUBLIC ACT NO\.? 8479
+27,Amendments to the Biofuels Act,BIOFUELS? ACT|REPUBLIC ACT NO\.? 9367
+28,Cybersecurity Act,CYBERSECURITY
+29,Amendments to the National Building Code,NATIONAL BUILDING CODE|PRESIDENTIAL DECREE NO\.? 1096
+30,Amendments to the Magna Carta for MSMEs,MAGNA CARTA FOR (MICRO|MSME)|REPUBLIC ACT NO\.? 6977
+31,National Reintegration Bill,NATIONAL REINTEGRATION|REINTEGRATION PROGRAM FOR OVERSEAS FILIPINO|REINTEGRATION OF REPATRIATED
+32,Reprogramming of Seal of Good Local Governance,SEAL OF GOOD LOCAL GOVERNANCE
+33,Digital Payments Act,DIGITAL PAYMENTS?
+34,Masterplan for Infrastructure and National Development,MASTERPLAN FOR INFRASTRUCTURE|INFRASTRUCTURE AND NATIONAL DEVELOPMENT
+35,Classroom-Building Acceleration Program Act,CLASSROOM[- ]BUILDING|CLASSROOM CONSTRUCTION ACCELERATION
+36,Requiring Civil Servants to Waive Bank Secrecy,"(OFFICIALS|EMPLOYEES).{0,120}(BANK SECRECY|BANK DEPOSITS|THEIR DEPOSITS)|RELAXING BANK SECRECY|WAIV\w* .{0,80}BANK SECRECY"
+37,Law on Online Gambling,ONLINE GAMBLING|ONLINE GAMING
+38,Disaster Risk Financing Insurance,DISASTER RISK FINANCING|DISASTER RISK INSURANCE
+39,Strengthening the Bases Conversion and Development Authority,BASES CONVERSION AND DEVELOPMENT AUTHORITY
+40,Presidential Merit Scholarship Program,PRESIDENTIAL MERIT SCHOLARSHIP
+41,Disqualifying Relatives of Officials (4th degree) in Government Contracts,"DISQUALIFYING RELATIVES|RELATIVES OF PUBLIC OFFICIALS.{0,160}CONTRACT"
+42,"Fair Use of Social Media, AI and Internet Technology in Elections","(SOCIAL MEDIA|ARTIFICIAL INTELLIGENCE|DEEPFAKE).{0,120}ELECTION|ELECTION.{0,120}(SOCIAL MEDIA|ARTIFICIAL INTELLIGENCE|DEEPFAKE)"
+43,Modernizing the Bureau of Immigration,BUREAU OF IMMIGRATION|PHILIPPINE IMMIGRATION ACT
+44,Magna Carta for Barangays,MAGNA CARTA FOR BARANGAY

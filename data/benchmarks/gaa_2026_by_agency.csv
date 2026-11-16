@@ -1,0 +1,375 @@
+dept_code,department,agency_code,agency,ps_gas,ps_sto,ps_ops,ps_other,mooe_gas,mooe_sto,mooe_ops,mooe_other,co_gas,co_sto,co_ops,co_other,finex_gas,finex_sto,finex_ops,finex_other,other_gas,other_sto,other_ops,other_other,sal_regular,sal_casual
+01,Congress of the Philippines (CONGRESS),001,Senate,3254697,0,1444301,0,2508178,0,1611415,0,0,0,0,0,0,0,0,0,0,0,0,0,1695284,60383
+01,Congress of the Philippines (CONGRESS),002,Senate Electoral Tribunal,223224,0,86894,0,30581,0,55856,0,10000,0,0,0,0,0,0,0,0,0,0,0,84952,0
+01,Congress of the Philippines (CONGRESS),003,Commission on Appointments,435371,0,222639,0,620338,0,420144,0,16013,0,0,0,0,0,0,0,0,0,0,0,246466,37909
+01,Congress of the Philippines (CONGRESS),004,House of Representatives,2944142,0,5695316,0,11719624,0,6858634,0,1000000,0,0,0,0,0,0,0,0,0,0,0,4012535,323722
+01,Congress of the Philippines (CONGRESS),005,House of Representatives Electoral Tribunal,111499,0,95826,0,16237,0,49341,0,0,0,0,0,0,0,0,0,0,0,0,0,85750,0
+01,New General Appropriations,252,Special Shares of LGUs in the Proceeds of National Taxes,0,0,0,0,0,0,0,31724961,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+01,New General Appropriations,254,Local Government Support Fund (formerly Financial Subsidy to LGUs),0,0,0,0,0,0,0,57872578,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+01,New General Appropriations,255,Special Shares of LGUs in the Proceeds of Fire Code Fees,0,0,0,0,0,0,0,1405731,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+01,New General Appropriations,257,Bangsamoro Autonomous Region in Muslim Mindanao (BARMM),0,0,0,0,0,0,0,10590087,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+01,New General Appropriations,401,National Disaster Risk Reduction and Management Fund ( Calamity Fund ),0,0,0,0,0,0,0,27355000,0,0,0,12467355,0,0,0,0,0,0,0,0,0,0
+01,New General Appropriations,402,Contingent Fund,0,0,0,0,0,0,0,8000000,0,0,0,5000000,0,0,0,0,0,0,0,0,0,0
+01,New General Appropriations,406,Miscellaneous Personnel Benefits Fund,0,0,0,76847627,0,0,0,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+01,New General Appropriations,407,Pension and Gratuity Fund,0,0,0,165495100,0,0,0,23661,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+01,New General Appropriations,412,BSGC - Others,0,0,0,0,0,0,0,28606,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+01,New General Appropriations,416,Revised AFP Modernization Program,0,0,0,0,0,0,0,0,0,0,0,40000000,0,0,0,0,0,0,0,0,0,0
+02,Office of the President (OP),001,The President's Offices,999209,0,821164,0,18217759,0,7346018,0,720503,0,0,0,0,0,0,0,0,0,0,0,628672,911981
+03,Office of the Vice-President (OVP),000,Office of the Vice-President (OVP),85598,0,126940,0,145025,0,528728,0,16604,0,0,0,0,0,0,0,0,0,0,0,113826,37826
+04,Department of Agrarian Reform (DAR),001,Office of the Secretary,1089745,717216,4904435,0,1382969,523937,8669640,0,22250,1040,849423,0,0,0,0,0,0,0,0,0,4445602,0
+04,Automatic Appropriations,105,"Customs duties and taxes, including tax expenditures",0,0,0,0,0,0,0,14500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+04,Automatic Appropriations,110,Debt Interest Payments,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,950000000,0,0,0,0,0,0
+04,Automatic Appropriations,257,Bangsamoro Autonomous Region in Muslim Mindanao (BARMM),0,0,0,0,0,0,0,93982398,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+04,Automatic Appropriations,258,National Tax Allotment,0,0,0,0,0,0,0,1190509672,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+04,Automatic Appropriations,280,Net Lending,0,0,0,0,0,0,0,0,0,0,0,28700000,0,0,0,0,0,0,0,0,0,0
+05,Department of Agriculture (DA),001,Office of the Secretary,1249499,2217516,1783704,0,823729,5295785,86181697,0,521523,1408236,66560130,0,0,0,0,0,0,0,0,0,3371369,0
+05,Department of Agriculture (DA),002,Agricultural Credit Policy Council,15962,0,34742,0,17598,0,49712,0,0,0,3000000,0,0,0,0,0,0,0,0,0,32439,0
+05,Department of Agriculture (DA),003,Bureau of Fisheries and Aquatic Resources,207341,20143,958166,0,408487,354515,6680799,0,72334,400,3221323,0,0,0,0,0,0,0,0,0,800767,4945
+05,Department of Agriculture (DA),005,Fertilizer and Pesticide Authority,41550,0,90445,0,40858,0,147858,0,8500,0,105112,0,0,0,0,0,0,0,0,0,92417,0
+05,Department of Agriculture (DA),009,National Meat Inspection Service,31101,0,267718,0,68815,0,225032,0,0,0,106315,0,0,0,0,0,0,0,0,0,179059,0
+05,Department of Agriculture (DA),010,Philippine Carabao Center,37662,0,113965,0,27619,0,1740379,0,18000,0,154190,0,0,0,0,0,0,0,0,0,94491,0
+05,Department of Agriculture (DA),011,Philippine Center For Postharvest Development and Mechanization,53223,0,112072,0,36124,0,276281,0,11100,0,100,0,0,0,0,0,0,0,0,0,75059,38429
+05,Department of Agriculture (DA),012,Philippine Fiber Industry Development Authority,65260,12523,152806,0,104284,3740,227446,0,42050,0,86662,0,0,0,0,0,0,0,0,0,146865,0
+05,Department of Agriculture (DA),013,Philippine Council for Agriculture and Fisheries  ,25151,0,55470,0,15705,0,164976,0,9800,0,0,0,0,0,0,0,0,0,0,0,55826,0
+05,Department of Agriculture (DA),014,National Fisheries Research and Development Institute,11612,11947,70496,0,52283,26364,355299,0,172200,0,50000,0,0,0,0,0,0,0,0,0,55750,0
+06,Department of Budget and Management (DBM),001,Office of the Secretary,645605,107608,593089,0,655777,1162954,70661,0,146349,900,0,0,0,0,0,0,0,0,0,0,835833,114920
+06,Department of Budget and Management (DBM),002,Government Procurement Policy Board-Technical Support Office,26235,4138,24021,0,38728,18169,22604,0,52296,0,0,0,0,0,0,0,0,0,0,0,36977,2561
+07,Department of Education (DepEd),001,Office of the Secretary,21867836,3328262,680589355,0,7446789,3679705,196253068,0,1071000,3701324,94701268,0,0,0,0,0,0,0,0,0,449520117,574790
+07,Department of Education (DepEd),002,National Book Development Board,24289,0,30346,0,35055,0,116881,0,0,0,0,0,0,0,0,0,0,0,0,0,37622,0
+07,Department of Education (DepEd),003,National Council for Children's Television,14403,0,11600,0,12788,0,78797,0,0,0,0,0,0,0,0,0,0,0,0,0,11029,10002
+07,Department of Education (DepEd),004,National Museum of the Philippines,79434,3421,267408,0,396811,770,138143,0,0,0,130000,0,0,0,0,0,0,0,0,0,241859,1103
+07,Department of Education (DepEd),005,Philippine High School for the Arts,31331,0,18530,0,41433,0,42749,0,87917,0,0,0,0,0,0,0,0,0,0,0,29217,320
+07,Department of Education (DepEd),007,National Academy of Sports,47457,0,10904,0,153097,0,334192,0,0,0,0,0,0,0,0,0,0,0,0,0,39694,580
+07,Department of Education (DepEd),008,Teacher Education Council,547,0,4358,0,43006,0,512023,0,3380,0,0,0,0,0,0,0,0,0,0,0,3521,0
+08,State Universities and Colleges (SUCs),001,Eulogio 'Amang' Rodriguez Institute of Science and Technology,115562,9140,202635,0,48265,617,154667,0,0,0,23058,0,0,0,0,0,0,0,0,0,191648,2336
+08,State Universities and Colleges (SUCs),002,Marikina Polytechnic College,84117,0,124180,0,14392,0,101422,0,0,0,23000,0,0,0,0,0,0,0,0,0,124498,2426
+08,State Universities and Colleges (SUCs),003,Philippine Normal University,306220,17427,536275,0,107296,12075,155358,0,18885,0,460800,0,0,0,0,0,0,0,0,0,425563,7383
+08,State Universities and Colleges (SUCs),004,National Aviation Academy of the Philippines,76118,0,140797,0,40948,0,224406,0,0,0,60000,0,0,0,0,0,0,0,0,0,134336,2241
+08,State Universities and Colleges (SUCs),005,Polytechnic University of the Philippines,652213,72422,1234116,0,167936,3362,1378493,0,0,0,424311,0,0,0,0,0,0,0,0,0,1163809,23698
+08,State Universities and Colleges (SUCs),006,Rizal Technological University,185628,9421,329679,0,120105,728,343916,0,0,0,150500,0,0,0,0,0,0,0,0,0,261877,4485
+08,State Universities and Colleges (SUCs),007,Technological University of the Philippines,350284,31219,587157,0,61304,3717,521373,0,0,0,59860,0,0,0,0,0,0,0,0,0,483706,8014
+08,State Universities and Colleges (SUCs),008,University of the Philippines System,2395221,634866,16296607,0,648806,2242,9112787,0,0,0,1901054,0,0,0,0,0,0,0,0,0,12640034,222062
+08,State Universities and Colleges (SUCs),009,Don Mariano Marcos Memorial State University,590630,54655,604776,0,50926,9214,294790,0,0,0,279200,0,0,0,0,0,0,0,0,0,563859,10922
+08,State Universities and Colleges (SUCs),011,Mariano Marcos State University,359434,25908,503167,0,56303,9035,201922,0,14805,65,637325,0,0,0,0,0,0,0,0,0,458693,33622
+08,State Universities and Colleges (SUCs),013,Pangasinan State University,396318,20642,691068,0,63190,16118,478582,0,0,0,157772,0,0,0,0,0,0,0,0,0,638312,4350
+08,State Universities and Colleges (SUCs),014,University of Northern Philippines,200546,14648,474570,0,39425,24304,143705,0,55988,0,105000,0,0,0,0,0,0,0,0,0,426849,22670
+08,State Universities and Colleges (SUCs),015,Abra State Institute of Sciences and Technology,74265,3670,198073,0,7141,1533,93509,0,0,0,38000,0,0,0,0,0,0,0,0,0,184599,3460
+08,State Universities and Colleges (SUCs),016,Apayao State College,64810,0,105637,0,19794,0,123844,0,2520,0,46114,0,0,0,0,0,0,0,0,0,108777,7875
+08,State Universities and Colleges (SUCs),017,Benguet State University,270775,42107,490049,0,49790,6963,201352,0,13000,0,45500,0,0,0,0,0,0,0,0,0,392072,4589
+08,State Universities and Colleges (SUCs),018,Ifugao State University,133449,0,303481,0,14802,0,217274,0,30000,0,62500,0,0,0,0,0,0,0,0,0,294367,4162
+08,State Universities and Colleges (SUCs),019,Kalinga State University,150514,0,223308,0,20092,999,99725,0,0,0,38000,0,0,0,0,0,0,0,0,0,223106,1281
+08,State Universities and Colleges (SUCs),020,Mountain Province State University,115562,0,211851,0,35281,0,149450,0,0,0,38000,0,0,0,0,0,0,0,0,0,204505,4472
+08,State Universities and Colleges (SUCs),021,Batanes State College,43219,0,20670,0,20838,136,16427,0,6135,0,92000,0,0,0,0,0,0,0,0,0,36414,4670
+08,State Universities and Colleges (SUCs),022,Cagayan State University,250944,30500,861001,0,34081,2615,377939,0,0,0,70000,0,0,0,0,0,0,0,0,0,756456,18294
+08,State Universities and Colleges (SUCs),023,Isabela State University,306834,10611,1043326,0,20283,16168,378263,0,10062,0,402000,0,0,0,0,0,0,0,0,0,921317,7441
+08,State Universities and Colleges (SUCs),024,Nueva Vizcaya State University,227157,11751,417784,0,26050,199,146468,0,0,0,80000,0,0,0,0,0,0,0,0,0,373893,3040
+08,State Universities and Colleges (SUCs),025,Quirino State University,94224,11565,180241,0,28513,6921,103475,0,4800,0,23200,0,0,0,0,0,0,0,0,0,191300,273
+08,State Universities and Colleges (SUCs),026,Aurora State College of Technology,65172,3417,94984,0,11168,1764,96529,0,0,0,103000,0,0,0,0,0,0,0,0,0,110008,3571
+08,State Universities and Colleges (SUCs),027,Bataan Peninsula State University,175284,26932,398730,0,27198,8895,402354,0,0,0,43000,0,0,0,0,0,0,0,0,0,401057,3774
+08,State Universities and Colleges (SUCs),028,Bulacan Agricultural State College,57773,5770,129968,0,10743,3492,109475,0,33000,0,8000,0,0,0,0,0,0,0,0,0,126153,1219
+08,State Universities and Colleges (SUCs),029,Bulacan State University,222739,0,731653,0,45543,9,731100,0,0,0,378700,0,0,0,0,0,0,0,0,0,609194,4269
+08,State Universities and Colleges (SUCs),030,Central Luzon State University,182601,38592,648379,0,87501,8362,265070,0,0,52838,44633,0,0,0,0,0,0,0,0,0,590537,0
+08,State Universities and Colleges (SUCs),031,Pampanga State University,142174,7637,334972,0,21401,3386,760046,0,0,0,33000,0,0,0,0,0,0,0,0,0,302822,36333
+08,State Universities and Colleges (SUCs),032,Nueva Ecija University of Science and Technology,233697,12062,538679,0,44372,1756,471301,0,17500,0,165000,0,0,0,0,0,0,0,0,0,485205,11129
+08,State Universities and Colleges (SUCs),033,Pampanga State Agricultural University,108063,15777,263031,0,33043,2713,97825,0,0,0,140000,0,0,0,0,0,0,0,0,0,247630,1766
+08,State Universities and Colleges (SUCs),034,Philippine Merchant Marine Academy,82028,21153,71915,0,48310,10994,90236,0,0,0,38000,0,0,0,0,0,0,0,0,0,101721,1890
+08,State Universities and Colleges (SUCs),035,President Ramon Magsaysay State University,139938,10417,281351,0,15588,2442,191377,0,7800,0,125950,0,0,0,0,0,0,0,0,0,268464,6054
+08,State Universities and Colleges (SUCs),036,Tarlac Agricultural University,129845,6752,196392,0,36395,3823,109729,0,0,0,62420,0,0,0,0,0,0,0,0,0,201768,0
+08,State Universities and Colleges (SUCs),037,Tarlac State University,156962,14928,351542,0,50154,5372,405978,0,0,0,90000,0,0,0,0,0,0,0,0,0,318518,4023
+08,State Universities and Colleges (SUCs),038,Batangas State University,229597,8096,567698,0,31953,1051,1195411,0,0,0,350000,0,0,0,0,0,0,0,0,0,487818,6272
+08,State Universities and Colleges (SUCs),039,Cavite State University,239993,11997,547473,0,20383,3797,1141929,0,7200,0,199500,0,0,0,0,0,0,0,0,0,463988,14201
+08,State Universities and Colleges (SUCs),040,Laguna State Polytechnic University,204810,4431,425291,0,12905,476,367321,0,0,0,200054,0,0,0,0,0,0,0,0,0,363887,9196
+08,State Universities and Colleges (SUCs),041,Southern Luzon State University,140426,6870,285159,0,20995,1608,263001,0,10000,0,62505,0,0,0,0,0,0,0,0,0,252589,3933
+08,State Universities and Colleges (SUCs),042,University of Rizal System,243045,1323,483419,0,35878,326,198912,0,0,0,20003,0,0,0,0,0,0,0,0,0,413601,4322
+08,State Universities and Colleges (SUCs),043,Marinduque State University,109957,4710,165525,0,19090,91,112691,0,14315,0,12000,0,0,0,0,0,0,0,0,0,172276,4009
+08,State Universities and Colleges (SUCs),044,Mindoro State University,88073,0,204816,0,27717,0,148639,0,8020,0,30725,0,0,0,0,0,0,0,0,0,183119,2556
+08,State Universities and Colleges (SUCs),045,Occidental Mindoro State College,143319,0,234729,0,8235,0,265705,0,1958,0,56668,0,0,0,0,0,0,0,0,0,230627,12726
+08,State Universities and Colleges (SUCs),046,Palawan State University,237403,7287,390862,0,34098,6,404401,0,7980,2500,15000,0,0,0,0,0,0,0,0,0,372151,4997
+08,State Universities and Colleges (SUCs),047,Romblon State University,113526,3585,290968,0,13423,1152,175599,0,0,0,48000,0,0,0,0,0,0,0,0,0,266325,1650
+08,State Universities and Colleges (SUCs),048,Western Philippines University,110122,5996,248858,0,13289,516,193689,0,455,0,43300,0,0,0,0,0,0,0,0,0,224132,10263
+08,State Universities and Colleges (SUCs),049,Bicol University,326920,20448,797210,0,60899,17440,347439,0,8000,0,80000,0,0,0,0,0,0,0,0,0,614343,9862
+08,State Universities and Colleges (SUCs),050,Bicol State College of Applied Sciences and Technology,65264,0,122948,0,19938,0,98843,0,0,0,26100,0,0,0,0,0,0,0,0,0,120894,608
+08,State Universities and Colleges (SUCs),051,Camarines Norte State College,149060,0,192976,0,42287,3194,138646,0,5000,0,76337,0,0,0,0,0,0,0,0,0,189324,14096
+08,State Universities and Colleges (SUCs),052,Camarines Sur Polytechnic Colleges,95525,0,195281,0,38924,0,289448,0,0,0,146750,0,0,0,0,0,0,0,0,0,180204,18981
+08,State Universities and Colleges (SUCs),053,Catanduanes State University,159532,3150,326566,0,70135,6900,119724,0,0,0,143519,0,0,0,0,0,0,0,0,0,300294,609
+08,State Universities and Colleges (SUCs),054,Central Bicol State University of Agriculture,187991,7813,357121,0,46424,5547,609428,0,0,0,26135,0,0,0,0,0,0,0,0,0,307586,21338
+08,State Universities and Colleges (SUCs),055,"Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology",65044,0,123632,0,16628,5621,110562,0,0,0,39108,0,0,0,0,0,0,0,0,0,119115,2151
+08,State Universities and Colleges (SUCs),056,Partido State University,170973,16095,215215,0,40760,904,135496,0,0,65811,107567,0,0,0,0,0,0,0,0,0,212586,18843
+08,State Universities and Colleges (SUCs),057,Sorsogon State University,91648,12890,289816,0,38640,338,182070,0,4208,0,89149,0,0,0,0,0,0,0,0,0,262904,5403
+08,State Universities and Colleges (SUCs),058,Aklan State University,193407,7778,358283,0,6941,7762,184901,0,0,0,38000,0,0,0,0,0,0,0,0,0,301423,7456
+08,State Universities and Colleges (SUCs),059,Capiz State University,255513,19646,573867,0,13383,1659,349332,0,0,30000,90000,0,0,0,0,0,0,0,0,0,490198,4820
+08,State Universities and Colleges (SUCs),060,Carlos Hilado Memorial State University,98957,7016,391327,0,13221,5070,245939,0,1950,0,62803,0,0,0,0,0,0,0,0,0,307929,2818
+08,State Universities and Colleges (SUCs),061,Guimaras State University,70497,1850,100817,0,15732,2824,164440,0,0,0,38000,0,0,0,0,0,0,0,0,0,113411,2290
+08,State Universities and Colleges (SUCs),062,Iloilo State University of Fisheries Science and Technology,103159,6727,313204,0,9599,1121,181154,0,0,0,20000,0,0,0,0,0,0,0,0,0,282401,2812
+08,State Universities and Colleges (SUCs),063,Central Philippines State University,81016,4526,194884,0,15739,16254,304612,0,0,0,38000,0,0,0,0,0,0,0,0,0,189823,3825
+08,State Universities and Colleges (SUCs),064,Northern Iloilo State University,82249,6814,463731,0,11348,2025,273831,0,0,0,32000,0,0,0,0,0,0,0,0,0,371008,3370
+08,State Universities and Colleges (SUCs),065,State University of Northern Negros,69081,2761,131930,0,10709,1610,127583,0,0,0,38000,0,0,0,0,0,0,0,0,0,133417,1650
+08,State Universities and Colleges (SUCs),066,University of Antique,108373,4786,301446,0,10753,3709,350848,0,0,0,53000,0,0,0,0,0,0,0,0,0,262179,3345
+08,State Universities and Colleges (SUCs),067,Iloilo Science and Technology University,106858,6620,582441,0,15741,9813,403383,0,0,0,90559,0,0,0,0,0,0,0,0,0,473819,4534
+08,State Universities and Colleges (SUCs),068,West Visayas State University,215226,18568,1658873,0,22282,1551,509654,0,0,0,51130,0,0,0,0,0,0,0,0,0,1181954,8645
+08,State Universities and Colleges (SUCs),069,Bohol Island State University,202471,8785,432762,0,40550,3623,317814,0,2011,0,54690,0,0,0,0,0,0,0,0,0,403032,14584
+08,State Universities and Colleges (SUCs),070,Cebu Normal University,141319,6935,367396,0,31125,5466,90382,0,0,0,38000,0,0,0,0,0,0,0,0,0,298932,32420
+08,State Universities and Colleges (SUCs),071,Cebu Technological University,339491,26821,939587,0,106015,31112,1379685,0,64000,0,158000,0,0,0,0,0,0,0,0,0,831012,10766
+08,State Universities and Colleges (SUCs),072,Negros Oriental State University,334366,5052,354135,0,16667,4046,435258,0,8900,0,55560,0,0,0,0,0,0,0,0,0,302844,103602
+08,State Universities and Colleges (SUCs),073,Siquijor State College,48983,0,78127,0,7421,0,54978,0,0,0,23000,0,0,0,0,0,0,0,0,0,76930,6521
+08,State Universities and Colleges (SUCs),074,Eastern Samar State University,149382,0,459156,0,62900,0,225122,0,0,0,80895,0,0,0,0,0,0,0,0,0,414119,4428
+08,State Universities and Colleges (SUCs),075,Eastern Visayas State University,180715,0,485380,0,21670,0,312027,0,0,0,48000,0,0,0,0,0,0,0,0,0,426750,4215
+08,State Universities and Colleges (SUCs),076,Leyte Normal University,57877,14353,224081,0,22876,3320,91512,0,0,0,228210,0,0,0,0,0,0,0,0,0,194056,578
+08,State Universities and Colleges (SUCs),077,Biliran Province State University,84782,0,254192,0,13988,1931,201146,0,0,50000,253615,0,0,0,0,0,0,0,0,0,227729,1786
+08,State Universities and Colleges (SUCs),078,Northwest Samar State University,64179,0,206361,0,5003,2627,260236,0,55000,0,108500,0,0,0,0,0,0,0,0,0,180236,2015
+08,State Universities and Colleges (SUCs),079,Palompon Institute of Technology,122562,936,145703,0,8409,3619,78862,0,88339,0,30000,0,0,0,0,0,0,0,0,0,148085,2833
+08,State Universities and Colleges (SUCs),080,Samar State University,103073,5940,247544,0,9159,651,150701,0,1522,0,242348,0,0,0,0,0,0,0,0,0,226367,2481
+08,State Universities and Colleges (SUCs),081,Southern Leyte State University,107147,0,419925,0,14459,2470,211725,0,10000,0,189175,0,0,0,0,0,0,0,0,0,355120,1997
+08,State Universities and Colleges (SUCs),082,University of Eastern Philippines,208808,11438,475324,0,19057,5392,229197,0,0,59851,159451,0,0,0,0,0,0,0,0,0,418579,7601
+08,State Universities and Colleges (SUCs),083,Visayas State University,294383,19882,620117,0,31518,19993,349750,0,0,80000,270765,0,0,0,0,0,0,0,0,0,533798,37169
+08,State Universities and Colleges (SUCs),084,J. H. Cerilles State College,107363,0,189595,0,17518,0,130765,0,180,0,182405,0,0,0,0,0,0,0,0,0,197096,579
+08,State Universities and Colleges (SUCs),085,Jose Rizal Memorial State University,193977,0,408867,0,38038,0,295109,0,3600,0,46000,0,0,0,0,0,0,0,0,0,390413,10941
+08,State Universities and Colleges (SUCs),086,Western Mindanao State University,271065,2171,677669,0,64374,0,170756,0,620,0,264090,0,0,0,0,0,0,0,0,0,549173,4866
+08,State Universities and Colleges (SUCs),087,Zamboanga Peninsula Polytechnic State University,77224,0,180907,0,46602,0,183246,0,0,0,251974,0,0,0,0,0,0,0,0,0,171938,1737
+08,State Universities and Colleges (SUCs),088,Zamboanga State College of Marine Sciences and Technology,101796,0,132516,0,10230,0,83693,0,4300,0,26620,0,0,0,0,0,0,0,0,0,139082,4534
+08,State Universities and Colleges (SUCs),089,Bukidnon State University,135464,1771,423767,0,164395,5683,284386,0,0,0,167225,0,0,0,0,0,0,0,0,0,347503,2833
+08,State Universities and Colleges (SUCs),090,Camiguin Polytechnic State College,32916,0,78311,0,6982,0,32455,0,0,0,145600,0,0,0,0,0,0,0,0,0,77293,0
+08,State Universities and Colleges (SUCs),091,Central Mindanao University,146509,94859,505959,0,119290,8464,242035,0,0,20000,75800,0,0,0,0,0,0,0,0,0,480077,6075
+08,State Universities and Colleges (SUCs),093,MSU-Iligan Institute of Technology,248582,28312,873634,0,85224,109887,246472,0,0,8700,140000,0,0,0,0,0,0,0,0,0,693560,22501
+08,State Universities and Colleges (SUCs),095,Northwestern Mindanao State College of Science and Technology,69428,0,98887,0,16257,0,167149,0,0,0,159000,0,0,0,0,0,0,0,0,0,84187,1281
+08,State Universities and Colleges (SUCs),096,Davao del Norte State College,103100,0,179874,0,21049,0,134875,0,25640,0,95334,0,0,0,0,0,0,0,0,0,183746,2516
+08,State Universities and Colleges (SUCs),097,Davao Oriental State University,134449,0,268881,0,7759,1347,213079,0,13450,0,61370,0,0,0,0,0,0,0,0,0,255054,2830
+08,State Universities and Colleges (SUCs),098,Southern Philippines Agri-Business and Marine and Aquatic School of Technology,73492,0,90849,0,8559,0,64188,0,0,0,41365,0,0,0,0,0,0,0,0,0,98423,2180
+08,State Universities and Colleges (SUCs),099,University of Southeastern Philippines,209365,4437,456171,0,39794,2166,200462,0,0,0,138481,0,0,0,0,0,0,0,0,0,395893,1105
+08,State Universities and Colleges (SUCs),100,Cotabato State University,82237,0,159852,0,21926,0,122712,0,5000,0,35150,0,0,0,0,0,0,0,0,0,158008,1737
+08,State Universities and Colleges (SUCs),101,Cotabato Foundation College of Science and Technology,91746,0,136454,0,17214,0,139893,0,0,0,52074,0,0,0,0,0,0,0,0,0,142213,2433
+08,State Universities and Colleges (SUCs),102,Sultan Kudarat State University,116400,0,327446,0,31203,0,224982,0,50,0,26560,0,0,0,0,0,0,0,0,0,284076,4880
+08,State Universities and Colleges (SUCs),103,University of Southern Mindanao,267109,13421,517931,0,55652,1550,247174,0,4000,0,53250,0,0,0,0,0,0,0,0,0,466895,6148
+08,State Universities and Colleges (SUCs),104,Agusan del Sur State College of Agriculture and Technology,126735,0,141107,0,16936,18407,158260,0,4220,0,95530,0,0,0,0,0,0,0,0,0,142024,2260
+08,State Universities and Colleges (SUCs),105,Caraga State University,168430,0,477482,0,56616,17071,438722,0,0,25000,53000,0,0,0,0,0,0,0,0,0,384690,4237
+08,State Universities and Colleges (SUCs),106,North Eastern Mindanao State University,313631,0,500745,0,33267,1000,558057,0,0,0,73000,0,0,0,0,0,0,0,0,0,448389,6979
+08,State Universities and Colleges (SUCs),107,Surigao del Norte State University,144017,0,281517,0,44952,0,216938,0,7900,0,56805,0,0,0,0,0,0,0,0,0,248990,9293
+08,State Universities and Colleges (SUCs),108,Adiong Memorial State College,58283,2,25381,0,17766,1133,43787,0,0,0,26120,0,0,0,0,0,0,0,0,0,57086,0
+08,State Universities and Colleges (SUCs),109,Basilan State College,79443,0,90960,0,15431,0,117606,0,0,0,23000,0,0,0,0,0,0,0,0,0,92689,5608
+08,State Universities and Colleges (SUCs),110,Mindanao State University,731248,145807,3723530,0,145770,9843,974943,0,100000,0,789692,0,0,0,0,0,0,0,0,0,3034734,76164
+08,State Universities and Colleges (SUCs),111,MSU-Tawi-Tawi College of Technology and Oceanography,113409,47444,582872,0,31198,2843,160437,0,0,0,125373,0,0,0,0,0,0,0,0,0,472688,46339
+08,State Universities and Colleges (SUCs),112,Sulu State College,76729,0,137867,0,7757,0,149774,0,230,0,121189,0,0,0,0,0,0,0,0,0,143961,6733
+08,State Universities and Colleges (SUCs),113,Tawi-Tawi Regional Agricultural College,79715,0,108142,0,9611,0,64389,0,0,0,32000,0,0,0,0,0,0,0,0,0,115934,2953
+08,State Universities and Colleges (SUCs),114,Davao de Oro State College,89290,0,171265,0,11513,0,143485,0,0,0,45500,0,0,0,0,0,0,0,0,0,180524,960
+08,State Universities and Colleges (SUCs),115,Davao del Sur State College,68501,0,137657,0,7342,0,124724,0,3200,0,65068,0,0,0,0,0,0,0,0,0,133325,1837
+08,State Universities and Colleges (SUCs),116,Northern Bukidnon State College,46541,0,25875,0,0,0,142388,0,0,0,85120,0,0,0,0,0,0,0,0,0,39824,0
+08,State Universities and Colleges (SUCs),117,South Cotabato State College,35835,0,23292,0,5460,0,44833,0,8000,0,30000,0,0,0,0,0,0,0,0,0,37801,0
+08,State Universities and Colleges (SUCs),118,Ilocos Sur Polytechnic State College,141454,10392,307840,0,22354,494,183069,0,0,0,119650,0,0,0,0,0,0,0,0,0,279445,4997
+08,State Universities and Colleges (SUCs),119,Philippine Energy Research and Policy Institute,13415,0,13697,0,13771,0,19229,0,3878,0,10000,0,0,0,0,0,0,0,0,0,15979,319
+08,State Universities and Colleges (SUCs),120,University of Science and Technology of Southern Philippines,209602,15500,675064,0,67814,3619,615960,0,0,0,237000,0,0,0,0,0,0,0,0,0,592613,1523
+09,Department of Energy (DOE),001,Office of the Secretary,270144,205147,434964,0,338971,407813,1825681,0,68006,153691,729743,0,0,0,0,0,0,0,0,0,621856,662
+10,Department of Environment and Natural Resources (DENR),001,Office of the Secretary,2542078,1381689,5490178,0,1861546,1456051,5086759,0,515063,182930,1557964,0,0,0,0,0,0,0,0,0,6231107,125316
+10,Department of Environment and Natural Resources (DENR),002,Environmental Management Bureau,341732,95934,899828,0,136036,356378,996314,0,187202,9560,597519,0,0,0,0,0,0,0,0,0,868328,0
+10,Department of Environment and Natural Resources (DENR),003,Mines and Geosciences Bureau,317060,60104,602662,0,106439,186394,577017,0,73300,68530,88974,0,0,0,0,0,0,0,0,0,634830,0
+10,Department of Environment and Natural Resources (DENR),004,National Mapping and Resource Information Authority,85513,0,488801,0,114497,0,1238421,0,0,0,92915,0,0,0,0,0,0,0,0,0,318861,0
+10,Department of Environment and Natural Resources (DENR),005,National Water Resources Board,23354,0,67107,0,32347,0,120090,0,6295,0,52760,0,0,0,0,0,0,0,0,0,62887,361
+10,Department of Environment and Natural Resources (DENR),006,Palawan Council for Sustainable Development Staff,25045,0,45283,0,32791,0,40271,0,19045,0,8500,0,0,0,0,0,0,0,0,0,49379,0
+11,Department of Finance (DOF),001,Office of the Secretary,203879,95822,222912,0,335205,211097,183768,0,5000,59475,3440,0,0,0,0,0,0,0,0,0,352325,16654
+11,Department of Finance (DOF),002,Bureau of Customs,404542,0,2029111,0,652951,0,2241643,0,50764,0,1154915,0,0,0,0,0,0,0,0,0,1633644,7114
+11,Department of Finance (DOF),003,Bureau of Internal Revenue,2766601,0,8331957,0,674915,0,5116426,0,472908,0,758329,0,26682,0,0,0,0,0,0,0,7639427,0
+11,Department of Finance (DOF),004,Bureau of Local Government Finance,116073,10344,137178,0,54277,76449,521074,0,54450,22892,3462,0,0,0,0,0,0,0,0,0,184793,0
+11,Department of Finance (DOF),005,Bureau of the Treasury,75616,71477,459475,0,122263,434023,801198,0,24125,29693,2683119,0,0,0,0,0,0,0,0,0,419551,0
+11,Department of Finance (DOF),006,Central Board of Assessment Appeals,214,0,14581,0,0,0,3540,0,0,0,0,0,0,0,0,0,0,0,0,0,10134,0
+11,Department of Finance (DOF),008,Insurance Commission,162853,0,222523,0,465940,0,30633,0,304496,0,0,0,0,0,0,0,0,0,0,0,272037,0
+11,Department of Finance (DOF),009,National Tax Research Center,82172,0,16375,0,12724,0,25420,0,0,0,17260,0,0,0,0,0,0,0,0,0,69460,0
+11,Department of Finance (DOF),010,Privatization and Management Office,45240,0,44242,0,39891,0,0,0,5230,0,0,0,0,0,0,0,0,0,0,0,0,89482
+12,Department of Foreign Affairs (DFA),001,Office of the Secretary,1645951,93383,10193603,0,3181342,31929,10318500,0,2465228,0,662790,0,0,0,0,0,0,0,0,0,2286335,32855
+12,Department of Foreign Affairs (DFA),002,Foreign Service Institute,25684,0,52327,0,68978,0,30384,0,0,0,1100,0,0,0,0,0,0,0,0,0,44386,1336
+12,Department of Foreign Affairs (DFA),003,Technical Cooperation Council of the Philippines,2366,0,0,0,1762,0,27329,0,0,0,280,0,0,0,0,0,0,0,0,0,1471,0
+12,Department of Foreign Affairs (DFA),004,UNESCO National Commission of the Philippines,14199,0,0,0,12569,0,23952,0,1800,0,0,0,0,0,0,0,0,0,0,0,9219,477
+12,Department of Foreign Affairs (DFA),005,Presidential Commission on Visiting Forces,0,0,23013,0,0,0,26885,0,0,0,1677,0,0,0,0,0,0,0,0,0,0,22944
+13,Department of Health (DOH),001,Office of the Secretary,15995891,34680,92711140,0,2188360,695271,155220130,0,43700,408233,36911707,0,0,0,0,0,0,0,0,0,49599806,22638526
+13,Department of Health (DOH),003,National Nutrition Council,36851,0,65119,0,13789,0,195997,0,0,0,0,0,0,0,0,0,0,0,0,0,60093,0
+13,Department of Health (DOH),004,Philippine National AIDS Council,19475,1537,14623,0,14048,1000,9000,0,5907,0,0,0,0,0,0,0,0,0,0,0,19889,297
+14,Department of the Interior and Local Government (DILG),001,Office of the Secretary,341947,155976,4402700,0,355279,641974,2196311,0,970108,0,766292,0,0,0,0,0,0,0,0,0,3298834,43285
+14,Department of the Interior and Local Government (DILG),002,Bureau of Fire Protection,4229235,0,26681019,0,188671,0,2641958,0,66500,0,2408426,0,0,0,0,0,0,0,0,0,14819977,0
+14,Department of the Interior and Local Government (DILG),003,Bureau of Jail Management and Penology,3868059,0,17662869,0,600831,0,8645291,0,49336,0,431044,0,0,0,0,0,0,0,0,0,9586404,0
+14,Department of the Interior and Local Government (DILG),004,Local Government Academy,17026,0,29105,0,70240,0,409655,0,22750,0,0,0,0,0,0,0,0,0,0,0,32747,0
+14,Department of the Interior and Local Government (DILG),005,National Police Commission,425592,0,1521944,0,209811,0,153704,0,56090,0,190676,0,0,0,0,0,0,0,0,0,768004,2421
+14,Department of the Interior and Local Government (DILG),006,Philippine National Police,10954832,226425,185032694,0,1229924,692017,21430482,0,0,0,6979083,0,0,0,0,0,0,0,0,0,92738652,0
+14,Department of the Interior and Local Government (DILG),007,Philippine Public Safety College,103480,0,342136,0,95540,0,513616,0,21075,0,170929,0,0,0,0,0,0,0,0,0,186145,0
+14,Department of the Interior and Local Government (DILG),008,National Commission on Muslim Filipinos (Office on Muslim Affairs),128179,40545,637964,0,81774,55006,407185,0,18545,9600,0,0,0,0,0,0,0,0,0,0,543265,0
+14,Department of the Interior and Local Government (DILG),009,National Youth Commission,17764,0,79810,0,8725,0,215416,0,0,0,1995,0,0,0,0,0,0,0,0,0,68670,316
+14,Department of the Interior and Local Government (DILG),010,Philippine Commission on Women (National Commission on the Role of Filipino Women),23190,0,35719,0,33001,0,114500,0,3385,0,80,0,0,0,0,0,0,0,0,0,41506,337
+14,Department of the Interior and Local Government (DILG),011,Early Childhood Care and Development Council,48215,0,0,0,21549,0,286122,0,1210,0,0,0,0,0,0,0,0,0,0,0,2529,14779
+15,Department of Justice (DOJ),001,Office of the Secretary,1140779,42764,7720063,0,929150,169394,1070870,0,819167,214126,432718,0,0,0,0,0,0,0,0,0,6105452,53953
+15,Department of Justice (DOJ),002,Bureau of Corrections,1491442,0,4673103,0,301828,0,3245520,0,463794,0,705940,0,0,0,0,0,0,0,0,0,2781595,0
+15,Department of Justice (DOJ),003,Bureau of Immigration,264480,0,1396743,0,862929,0,1419948,0,0,0,697542,0,0,0,0,0,0,0,0,0,1062323,118831
+15,Department of Justice (DOJ),004,Land Registration Authority,180202,58553,1131076,0,104428,234774,907391,0,58069,132440,76970,0,0,0,0,0,0,0,0,0,846479,101456
+15,Department of Justice (DOJ),005,National Bureau of Investigation,244265,0,1126613,0,973559,0,395024,0,696400,0,462519,0,0,0,0,0,0,0,0,0,891697,19582
+15,Department of Justice (DOJ),006,Office of the Government Corporate Counsel,66771,0,153495,0,69763,0,17883,0,8744,0,0,0,0,0,0,0,0,0,0,0,145258,10745
+15,Department of Justice (DOJ),007,Office of the Solicitor General,216394,0,1064022,0,264204,0,282721,0,67108,0,0,0,0,0,0,0,0,0,0,0,822747,0
+15,Department of Justice (DOJ),008,Parole and Probation Administration,84949,0,828739,0,119313,0,206253,0,48872,0,12508,0,0,0,0,0,0,0,0,0,614381,0
+15,Department of Justice (DOJ),009,Presidential Commission on Good Government,98461,0,66046,0,89097,0,47302,0,1347,0,7400,0,0,0,0,0,0,0,0,0,88909,36040
+15,Department of Justice (DOJ),010,Public Attorney's Office,702512,0,5782651,0,26468,0,160704,0,14800,0,5658,0,0,0,0,0,0,0,0,0,4573684,0
+15,Department of Justice (DOJ),011,Office for Alternative Dispute Resolution,24839,0,40204,0,48520,0,45134,0,3625,0,3800,0,0,0,0,0,0,0,0,0,46179,0
+16,Department of Labor and Employment (DOLE),001,Office of the Secretary,1445833,33353,834292,0,338549,133516,27146217,0,60617,154600,0,0,0,0,0,0,0,0,0,0,1373686,359608
+16,Department of Labor and Employment (DOLE),002,Institute for Labor Studies,18305,0,22425,0,32920,0,2849,0,4870,0,0,0,0,0,0,0,0,0,0,0,28874,0
+16,Department of Labor and Employment (DOLE),003,National Conciliation and Mediation Board,23912,23793,162064,0,71931,5041,47743,0,53632,0,821,0,0,0,0,0,0,0,0,0,145118,0
+16,Department of Labor and Employment (DOLE),004,National Labor Relations Commission,224280,0,1275676,0,142877,0,165414,0,53950,0,25820,0,0,0,0,0,0,0,0,0,995742,1265
+16,Department of Labor and Employment (DOLE),006,National Wages and Productivity Commission,46801,0,176853,0,72834,0,61423,0,15940,0,0,0,0,0,0,0,0,0,0,0,139896,5475
+16,Department of Labor and Employment (DOLE),008,Professional Regulation Commission,310134,52636,779611,0,312548,118633,774861,0,182557,34130,24156,0,0,0,0,0,0,0,0,0,563575,0
+16,Department of Labor and Employment (DOLE),009,Technical Education and Skills Development Authority,482296,2786,3144222,0,91821,211823,22113310,0,65950,93150,136924,0,0,0,0,0,0,0,0,0,2347698,45263
+17,Department of National Defense (DND),001,Office of the Secretary - Proper,131085,0,153394,0,312653,0,920856,0,789930,0,69341,0,0,0,0,0,0,0,0,0,193864,1737
+17,Department of National Defense (DND),002,Government Arsenal,91395,0,285603,0,66253,0,1564591,0,45117,0,840442,0,0,0,0,0,0,0,0,0,166639,50309
+17,Department of National Defense (DND),003,National Defense College of the Philippines,31246,0,32931,0,148001,0,59185,0,42517,0,0,0,0,0,0,0,0,0,0,0,32244,5934
+17,Department of National Defense (DND),004,Office of Civil Defense,118434,0,363592,0,373564,0,1349350,0,122865,0,350314,0,0,0,0,0,0,0,0,0,327920,9357
+17,Department of National Defense (DND),005,Philippine Veterans Affairs Office (PVAO) - Proper,74174,0,126961,0,158117,0,863291,0,42427,0,276500,0,0,0,0,0,0,0,0,0,133530,657
+17,Department of National Defense (DND),006,Veterans Memorial Medical Center,560901,0,946865,0,298996,0,1322128,0,30300,0,631380,0,0,0,0,0,0,0,0,0,861031,3392
+17,Department of National Defense (DND),007,Philippine Army ( Land Forces ),24398402,0,84680995,0,1374033,0,19978470,0,0,0,14780159,0,0,0,0,0,0,0,0,0,46026449,0
+17,Department of National Defense (DND),008,Philippine Air Force ( Air Forces ),3817684,0,16885475,0,1038760,0,28701671,0,177476,0,10069270,0,0,0,0,0,0,0,0,0,9515778,0
+17,Department of National Defense (DND),009,Philippine Navy ( Naval Forces ),5087477,0,22420600,0,609940,0,22943807,0,0,0,8920884,0,0,0,0,0,0,0,0,0,11871975,0
+17,Department of National Defense (DND),010,"General Headquarters, AFP and AFP-Wide Service Support Units (AFPWSSUs)",4555237,0,2983504,0,708507,0,12680346,0,0,0,9588903,0,0,0,0,0,0,0,0,0,2914278,13826
+18,Department of Public Works and Highways (DPWH),001,Office of the Secretary,14334820,1227638,0,0,2080444,16328233,0,0,1400431,12150000,483377295,0,0,0,0,0,0,0,0,0,10551176,91854
+19,Department of Science and Technology (DOST),001,Office of the Secretary,218717,57957,1007962,0,112429,104057,6232481,0,0,0,471277,0,0,0,0,0,0,0,0,0,681270,0
+19,Department of Science and Technology (DOST),002,Advanced Science and Technology Institute,36061,0,54223,0,30073,0,284481,0,0,0,2330,0,0,0,0,0,0,0,0,0,52655,0
+19,Department of Science and Technology (DOST),003,Food and Nutrition Research Institute,35043,0,131822,0,27389,0,307738,0,522644,0,113873,0,0,0,0,0,0,0,0,0,93891,0
+19,Department of Science and Technology (DOST),004,Forest Products Research and Development Institute,79177,0,90432,0,22285,0,72978,0,0,0,32570,0,0,0,0,0,0,0,0,0,90070,0
+19,Department of Science and Technology (DOST),005,Industrial Technology Development Institute,62962,0,266075,0,14323,0,170574,0,0,0,92378,0,0,0,0,0,0,0,0,0,169916,25673
+19,Department of Science and Technology (DOST),007,Metals Industry Research and Development Center,74625,0,146120,0,30643,0,43399,0,0,0,22000,0,0,0,0,0,0,0,0,0,112770,1703
+19,Department of Science and Technology (DOST),008,National Academy of Science and Technology,14952,0,8600,0,21014,0,121701,0,2877,0,3648,0,0,0,0,0,0,0,0,0,12919,321
+19,Department of Science and Technology (DOST),009,National Research Council of the Philippines,27711,5453,11207,0,13006,19739,177613,0,700,2935,0,0,0,0,0,0,0,0,0,0,23664,0
+19,Department of Science and Technology (DOST),010,"Philippine Atmospheric, Geophysical and Astronomical Services Administration",263624,55781,444218,0,52026,405951,921326,0,0,61625,681017,0,0,0,0,0,0,0,0,0,389900,0
+19,Department of Science and Technology (DOST),011,"Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development",83525,0,144245,0,40196,0,1418881,0,13187,0,0,0,0,0,0,0,0,0,0,0,120731,0
+19,Department of Science and Technology (DOST),012,Philippine Council for Health Research and Development,27731,0,42887,0,5826,0,830375,0,3410,0,0,0,0,0,0,0,0,0,0,0,40189,0
+19,Department of Science and Technology (DOST),013,"Philippine Council for Industry, Energy and Emerging Technology Research and Development (PCIEERD)",34608,0,54302,0,16439,0,1021586,0,0,0,5440,0,0,0,0,0,0,0,0,0,48907,0
+19,Department of Science and Technology (DOST),014,Philippine Institute of Volcanology and Seismology,81296,0,116556,0,125389,2646,309797,0,21285,0,412349,0,0,0,0,0,0,0,0,0,102363,0
+19,Department of Science and Technology (DOST),015,Philippine Nuclear Research Institute,95679,0,150088,0,94308,9178,93062,0,0,6699,454510,0,0,0,0,0,0,0,0,0,129526,0
+19,Department of Science and Technology (DOST),016,Philippine Science High School System,142110,0,1605573,0,147669,0,882159,0,5200,0,798474,0,0,0,0,0,0,0,0,0,942969,0
+19,Department of Science and Technology (DOST),017,Philippine Textile Research Institute,35764,0,38441,0,33703,0,212555,0,6300,0,151663,0,0,0,0,0,0,0,0,0,41054,0
+19,Department of Science and Technology (DOST),018,Science Education Institute,23881,0,42975,0,18469,0,7518957,0,0,0,0,0,0,0,0,0,0,0,0,0,38197,0
+19,Department of Science and Technology (DOST),019,Science and Technology Information Institute,29357,0,33590,0,21415,0,77709,0,16920,0,0,0,0,0,0,0,0,0,0,0,36296,0
+19,Department of Science and Technology (DOST),020,Technology Application and Promotion Institute,30919,0,42517,0,35252,0,151585,0,2908,0,15000,0,0,0,0,0,0,0,0,0,43104,0
+20,Department of Social Welfare and Development (DSWD),001,Office of the Secretary,495865,266508,15285676,0,814476,1170796,244540817,0,900000,164220,995000,0,0,0,0,0,0,0,0,0,1545074,13665155
+20,Department of Social Welfare and Development (DSWD),002,Council for the Welfare of Children,36474,0,14760,0,13610,0,121500,0,5978,0,14620,0,0,0,0,0,0,0,0,0,35972,0
+20,Department of Social Welfare and Development (DSWD),004,National Council on Disability Affairs,11596,0,30240,0,9389,0,57309,0,0,0,82145,0,0,0,0,0,0,0,0,0,28859,0
+20,Department of Social Welfare and Development (DSWD),006,Juvenile Justice and Welfare Council,26477,0,30240,0,5526,0,70604,0,3700,0,1050,0,0,0,0,0,0,0,0,0,37819,0
+20,Department of Social Welfare and Development (DSWD),007,National Anti-Poverty Commission,38247,0,49377,0,42920,0,241809,0,2920,0,0,0,0,0,0,0,0,0,0,0,49000,0
+20,Department of Social Welfare and Development (DSWD),009,Presidential Commission for the Urban Poor,44818,0,84020,0,65781,0,62175,0,2130,0,0,0,0,0,0,0,0,0,0,0,89356,1693
+20,Department of Social Welfare and Development (DSWD),010,National Authority for Child Care,178546,0,151357,0,109835,0,335772,0,0,0,0,0,0,0,0,0,0,0,0,0,233693,960
+20,Department of Social Welfare and Development (DSWD),011,National Commission of Senior Citizens,138868,5630,37563,0,100762,8684,3316611,0,3000,0,0,0,0,0,0,0,0,0,0,0,118044,16732
+21,Department of Tourism (DOT),001,Office of the Secretary,485453,39446,241246,0,544323,14943,2212391,0,22200,0,132609,0,0,0,0,0,0,0,0,0,428561,4940
+21,Department of Tourism (DOT),002,Intramuros Administration,19145,5057,24113,0,12477,2867,74386,0,0,7335,20000,0,0,0,0,0,0,0,0,0,33667,0
+21,Department of Tourism (DOT),003,National Parks Development Committee,33331,0,32879,0,32207,0,157295,0,15267,0,51247,0,0,0,0,0,0,0,0,0,45164,0
+21,Department of Tourism (DOT),004,Philippine Commission on Sports Scuba Diving,8888,0,10208,0,9495,0,16083,0,0,0,235,0,0,0,0,0,0,0,0,0,13483,0
+22,Department of Trade and Industry (DTI),001,Office of the Secretary,649848,0,1983930,0,1277521,0,2933977,0,266367,0,539089,0,0,0,0,0,0,0,0,0,1545116,171033
+22,Department of Trade and Industry (DTI),002,Board of Investments,78653,0,141506,0,209630,0,113319,0,40771,0,0,0,0,0,0,0,0,0,0,0,153932,0
+22,Department of Trade and Industry (DTI),005,Philippine Trade Training Center,18381,0,24174,0,12840,0,37703,0,14340,0,0,0,0,0,0,0,0,0,0,0,30078,0
+22,Department of Trade and Industry (DTI),006,Design Center of the Philippines,19166,0,57015,0,54154,0,131117,0,14809,0,0,0,0,0,0,0,0,0,0,0,53410,428
+22,Department of Trade and Industry (DTI),007,Construction Industry Authority of the Philippines (CIAP),21547,0,77448,0,56433,0,14442,0,31013,0,0,0,0,0,0,0,0,0,0,0,67102,0
+22,Department of Trade and Industry (DTI),008,Cooperative Development Authority,187843,29198,401798,0,194924,9799,409980,0,109175,0,0,0,0,0,0,0,0,0,0,0,432254,2579
+24,"Department of Economy, Planning, and Development (DEPDev)",001,Office of the Secretary,411760,95038,762071,0,364374,22058,567309,0,587920,0,0,0,0,0,0,0,0,0,0,0,864957,578
+24,"Department of Economy, Planning, and Development (DEPDev)",004,Philippine National Volunteer Service Coordinating Agency,10610,0,12801,0,11923,0,5646,0,0,0,0,0,0,0,0,0,0,0,0,0,16410,0
+24,"Department of Economy, Planning, and Development (DEPDev)",005,Public-Private Partnership Center of the Philippines,46877,0,116209,0,105616,0,898149,0,6525,0,8429,0,0,0,0,0,0,0,0,0,114114,0
+24,"Department of Economy, Planning, and Development (DEPDev)",006,Philippine Statistical Research and Training Institute (formerly Statistical Research and Training Center),17683,0,25635,0,34308,0,84011,0,0,0,0,0,0,0,0,0,0,0,0,0,30140,630
+24,"Department of Economy, Planning, and Development (DEPDev)",007,Tariff Commission,43837,5849,28586,0,19912,13518,8511,0,5500,8100,0,0,0,0,0,0,0,0,0,0,55258,0
+24,"Department of Economy, Planning, and Development (DEPDev)",008,Philippine Statistics Authority,576453,92746,1535237,0,968809,274072,5156925,0,129900,155862,16820,0,0,0,0,0,0,0,0,0,1435410,151254
+24,"Department of Economy, Planning, and Development (DEPDev)",009,Commission on Population and Development,137967,0,139033,0,116778,0,224260,0,97503,0,0,0,0,0,0,0,0,0,0,0,159334,0
+25,Presidential Communications Office (PCO),001,Presidential Communications Office (Proper),209704,0,7768,0,104941,0,625738,0,11500,0,12369,0,0,0,0,0,0,0,0,0,150701,5447
+25,Presidential Communications Office (PCO),002,Presidential Broadcast Service-Bureau of Broadcast Services,61191,0,276087,0,53888,0,107197,0,0,0,14172,0,0,0,0,0,0,0,0,0,234980,0
+25,Presidential Communications Office (PCO),003,Bureau of Communications Services,15920,0,29795,0,24645,0,13598,0,3120,0,12470,0,0,0,0,0,0,0,0,0,32078,0
+25,Presidential Communications Office (PCO),004,National Printing Office,8462,0,12531,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11366,0
+25,Presidential Communications Office (PCO),005,News and Information Bureau,31750,0,86015,0,12932,0,30637,0,867,0,950,0,0,0,0,0,0,0,0,0,79549,675
+25,Presidential Communications Office (PCO),006,Philippine Information Agency,75851,0,234184,0,68200,0,101055,0,28000,0,20196,0,0,0,0,0,0,0,0,0,215767,1309
+25,Presidential Communications Office (PCO),007,Presidential Broadcast Staff (RTVM),23530,0,60171,0,15985,0,125737,0,13125,0,15667,0,0,0,0,0,0,0,0,0,59129,0
+26,Other Executive Offices (OEOs),001,Anti-Money Laundering Council,0,0,0,0,0,0,293042,0,0,0,40060,0,0,0,0,0,0,0,0,0,0,0
+26,Other Executive Offices (OEOs),002,Climate Change Commission,50747,0,14772,0,58192,0,188150,0,10000,0,0,0,0,0,0,0,0,0,0,0,46481,0
+26,Other Executive Offices (OEOs),003,Commission on Filipinos Overseas,39486,0,43184,0,44203,0,124997,0,8520,0,9900,0,0,0,0,0,0,0,0,0,58521,0
+26,Other Executive Offices (OEOs),004,Commission on Higher Education,105380,11919,457985,0,55947,99533,47092781,0,310165,135195,100000,0,0,0,0,0,0,0,0,0,404351,0
+26,Other Executive Offices (OEOs),005,Commission on the Filipino Language,12386,0,45717,0,20372,0,35426,0,4000,0,7000,0,0,0,0,0,0,0,0,0,39886,0
+26,Other Executive Offices (OEOs),006,Dangerous Drugs Board  ,67655,11826,31703,0,78728,89803,258245,0,53110,0,7100,0,0,0,0,0,0,0,0,0,67367,0
+26,Other Executive Offices (OEOs),008,Energy Regulatory Commission,158410,0,191692,0,377488,0,170513,0,31666,0,1482,0,0,0,0,0,0,0,0,0,245345,0
+26,Other Executive Offices (OEOs),009,Film Development Council of the Philippines,16364,0,21893,0,85986,0,241118,0,4701,0,0,0,0,0,0,0,0,0,0,0,22609,6204
+26,Other Executive Offices (OEOs),010,Games and Amusements Board,46146,0,51310,0,57486,0,10306,0,3380,0,0,0,0,0,0,0,0,0,0,0,65305,2208
+26,Other Executive Offices (OEOs),011,Governance Commission for Government-Owned or Controlled Corporations,132682,0,73335,0,132688,0,55844,0,0,0,0,0,0,0,0,0,0,0,0,0,145584,0
+26,Other Executive Offices (OEOs),014,Mindanao Development Authority,70168,14269,53759,0,55177,59664,44730,0,0,77266,0,0,0,0,0,0,0,0,0,0,96872,1399
+26,Other Executive Offices (OEOs),015,Movie and Television Review and Classification Board,24884,0,30715,0,95639,0,56527,0,12537,0,24286,0,0,0,0,0,0,0,0,0,30019,0
+26,Other Executive Offices (OEOs),017,National Commission for Culture and the Arts-Proper,12043,4940,44136,0,0,0,1285099,0,0,0,14760,0,0,0,0,0,0,0,0,0,31140,14924
+26,Other Executive Offices (OEOs),018,National Historical Commission of the Philippines,32499,1494,91275,0,16348,27549,205272,0,89207,1470,124558,0,0,0,0,0,0,0,0,0,83825,0
+26,Other Executive Offices (OEOs),019,National Library of the Philippines,25161,0,75182,0,84178,0,76761,0,0,0,48454,0,0,0,0,0,0,0,0,0,68845,0
+26,Other Executive Offices (OEOs),020,National Archives of the Philippines,20267,0,74194,0,78457,0,129016,0,5531,0,4190,0,0,0,0,0,0,0,0,0,65540,0
+26,Other Executive Offices (OEOs),021,National Commission on Indigenous Peoples,274211,266447,520973,0,114652,97593,484987,0,73150,57596,0,0,0,0,0,0,0,0,0,0,716919,302
+26,Other Executive Offices (OEOs),023,National Intelligence Coordinating Agency,211195,0,752756,0,27550,0,1768439,0,0,0,101075,0,0,0,0,0,0,0,0,0,521589,6425
+26,Other Executive Offices (OEOs),024,National Security Council,92969,18604,52034,0,356263,290213,224558,0,24994,165360,22898,0,0,0,0,0,0,0,0,0,107270,3750
+26,Other Executive Offices (OEOs),026,"Office of the Presidential Adviser on Peace, Reconciliation and Unity",148860,0,127042,0,279997,0,2610678,0,18420,0,4948440,0,0,0,0,0,0,0,0,0,0,275902
+26,Other Executive Offices (OEOs),027,Optical Media Board,9679,0,26598,0,9110,0,4674,0,0,0,0,0,0,0,0,0,0,0,0,0,25242,0
+26,Other Executive Offices (OEOs),030,Philippine Drug Enforcement Agency,196279,0,2090200,0,139584,0,1348494,0,107449,0,676426,0,0,0,0,0,0,0,0,0,1553503,0
+26,Other Executive Offices (OEOs),031,Philippine Racing Commission,27281,0,30408,0,12632,0,133529,0,605,0,0,0,0,0,0,0,0,0,0,0,39080,0
+26,Other Executive Offices (OEOs),032,Philippine Sports Commission,54949,0,41293,0,47066,0,1437954,0,33000,0,630405,0,0,0,0,0,0,0,0,0,66935,0
+26,Other Executive Offices (OEOs),036,Presidential Management Staff,124951,20602,192569,0,403865,6771,113135,0,20680,0,0,0,0,0,0,0,0,0,0,0,235492,337
+26,Other Executive Offices (OEOs),038,Philippine Competition Commission,126006,0,129663,0,188720,0,137237,0,6000,0,0,0,0,0,0,0,0,0,0,0,175401,0
+26,Other Executive Offices (OEOs),043,Anti-Red Tape Authority,76764,0,140541,0,207621,0,170314,0,33840,0,300,0,0,0,0,0,0,0,0,0,153904,0
+26,Other Executive Offices (OEOs),044,Philippine Space Agency,68863,0,128443,0,375961,0,205736,0,0,0,690650,0,0,0,0,0,0,0,0,0,124196,3292
+26,Other Executive Offices (OEOs),047,Marawi Compensation Board,165136,0,13362,0,50000,0,2000000,0,0,0,0,0,0,0,0,0,0,0,0,0,125904,3019
+26,Other Executive Offices (OEOs),049,"Metropolitan Baguio City, La Trinidad, Itogon, Sablan, Tuba, and Tublay Development Authority",3934,0,0,0,10673,0,3765,0,6607,0,0,0,0,0,0,0,0,0,0,0,2631,0
+26,Other Executive Offices (OEOs),050,National Amnesty Commission,58883,0,49467,0,13696,0,183498,0,0,0,0,0,0,0,0,0,0,0,0,0,0,108350
+29,The Judiciary (JUD),001,Supreme Court of the Philippines and the Lower Courts,11503100,878023,28540815,0,4362952,4867078,4151377,0,944691,5220351,21043,0,0,0,0,0,0,0,0,0,14685817,583954
+29,The Judiciary (JUD),002,Presidential Electoral Tribunal,93703,0,66140,0,8518,0,5508,0,6000,0,0,0,0,0,0,0,0,0,0,0,54318,0
+29,The Judiciary (JUD),003,Sandiganbayan,1025533,19095,439425,0,695229,14209,213190,0,252059,6027,57913,0,0,0,0,0,0,0,0,0,361605,57869
+29,The Judiciary (JUD),004,Court of Appeals,2530180,0,563432,0,1765362,0,660825,0,149942,0,422213,0,0,0,0,0,0,0,0,0,1182673,20452
+29,The Judiciary (JUD),005,Court of Tax Appeals,602129,0,176112,0,168466,0,129547,0,50682,0,0,0,0,0,0,0,0,0,0,0,257651,8144
+30,Civil Service Commission (CSC),001,Civil Service Commission,758616,58417,972014,0,310164,364256,114507,0,0,316609,0,0,0,0,0,0,0,0,0,0,1014519,34624
+30,Civil Service Commission (CSC),002,Career Executive Service Board,23528,8860,17154,0,19406,12200,24851,0,390,240,0,0,0,0,0,0,0,0,0,0,32304,3593
+31,Commission on Audit (COA),000,Commission on Audit (COA),5869411,529053,7837995,0,618117,15702,91108,0,649517,0,0,0,0,0,0,0,0,0,0,0,6508499,0
+32,Commission on Elections (COMELEC),000,Commission on Elections (COMELEC),1334056,0,3571202,0,388825,0,11299942,0,0,0,3602288,0,0,0,0,0,0,0,0,0,2313640,285292
+33,Office of the Ombudsman (OMB),000,Office of the Ombudsman,2557619,54700,1116076,0,1379228,94290,923171,0,422407,0,30000,0,0,0,0,0,0,0,0,0,1099600,0
+34,Commission on Human Rights (CHR),001,Commission on Human Rights (CHR),220569,36367,411031,0,161353,115666,250323,0,65619,86546,0,0,0,0,0,0,0,0,0,0,443995,14298
+34,Commission on Human Rights (CHR),003,Human Rights Violations Victims' Memorial Commission,15972,0,12295,0,26165,0,7428,0,2910,0,0,0,0,0,0,0,0,0,0,0,18880,0
+35,Budgetary Support to Government Corporations (BSGC),003,National Dairy Authority,0,0,0,0,23262,39729,2316002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),004,National Food Authority,0,0,0,0,0,0,11291528,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),005,National Irrigation Administration,0,0,0,0,10664812,2458600,50123323,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),007,National Tobacco Administration,35027,28459,155433,0,64298,18755,191555,0,0,0,62500,0,0,0,0,0,0,0,0,0,153212,0
+35,Budgetary Support to Government Corporations (BSGC),008,Philippine Coconut Authority,0,0,0,0,330002,0,1594718,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),009,Philippine Crop Insurance Corporation,0,0,0,0,0,0,6500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),010,Philippine Fisheries Development Authority,0,0,0,0,0,0,4530000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),011,Philippine Rice Research Institute,0,0,0,0,338135,0,641697,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),014,Sugar Regulatory Administration,0,0,0,0,0,0,1020000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),015,National Electrification Administration,0,0,0,0,0,0,9324200,0,0,0,810000,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),016,National Power Corporation,0,0,0,0,0,0,1948377,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),019,Power Sector Assets and Liabilities Management Corporation,0,0,0,0,0,8000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),025,Lung Center of the Philippines,0,0,0,0,0,0,2748790,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),026,National Kidney and Transplant Institute,0,0,0,0,0,0,3212329,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),027,Philippine Children’s Medical Center,0,0,0,0,0,0,3502594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),028,Philippine Health Insurance Corporation,0,0,0,0,0,0,129782163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),029,Philippine Heart Center,0,0,0,0,0,0,4086715,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),030,Philippine Institute of Traditional and Alternative Health Care,0,0,0,0,152339,0,54080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),035,Metropolitan Waterworks and Sewerage System - Regulatory Office,0,0,0,0,0,0,207047,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),040,Tourism Infrastructure and Enterprise Zone Authority,0,0,0,0,248000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),041,Tourism Promotions Board,152383,0,0,0,112866,0,1102359,0,0,0,0,0,0,0,0,0,0,0,0,0,97498,0
+35,Budgetary Support to Government Corporations (BSGC),042,Aurora Pacific Economic Zone and Freeport Authority,0,0,0,0,125858,0,0,0,0,0,255677,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),043,Center for International Trade Expositions and Missions,0,0,0,0,36226,55018,620128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),049,Small Business Corporation,0,0,0,0,0,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),052,Light Rail Transit Authority,0,0,0,0,177398,0,2083979,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),056,Philippine National Railways,0,0,0,0,309638,0,541984,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),058,Philippine Institute for Development Studies,0,0,0,0,123008,22324,222701,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),059,"People's Television Network, Inc.",0,0,0,0,136764,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),061,Authority of the Freeport Area of Bataan,0,0,0,0,0,0,100000,0,0,0,150000,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),063,Bases Conversion and Development Authority,0,0,0,0,0,0,1147175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),064,Cagayan Economic Zone Authority,0,0,0,0,0,0,0,0,0,0,1095231,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),067,Cultural Center of the Philippines,0,0,0,0,185957,0,574398,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),068,Development Academy of the Philippines,0,0,0,0,0,0,1099955,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),074,National Housing Authority,0,0,0,0,0,500000,3397272,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),078,Philippine Center for Economic Development,0,0,0,0,63668,0,58096,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),080,Philippine Postal Corporation,0,0,0,0,0,0,1383465,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),082,Southern Philippines Development Authority,0,0,0,0,158029,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),083,Subic Bay Metropolitan Authority,0,0,0,0,0,0,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),084,Zamboanga City Special Economic Zone Authority,0,0,0,0,44651,0,0,0,0,0,310000,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),086,Social Housing Finance Corporation,0,0,0,0,0,0,166080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),087,Intercontinental Broadcasting Corporation,0,0,0,0,122000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budgetary Support to Government Corporations (BSGC),090,Philippine Tax Academy,0,0,0,0,0,0,58227,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Allocations to Local Government Units (ALGU),001,Metropolitan Manila Development Authority,0,0,78139,0,0,0,2951999,0,0,0,3753606,0,0,0,0,0,0,0,0,0,55338,0
+37,Department of Information and Communications Technology (DICT),001,Office of the Secretary,478184,26109,519914,0,707330,68243,9377367,0,64800,0,5200765,0,0,0,0,0,0,0,0,0,592015,1957
+37,Department of Information and Communications Technology (DICT),002,National Telecommunications Commission,71747,0,279347,0,75521,0,260006,0,2710,0,66014,0,0,0,0,0,0,0,0,0,240747,0
+37,Department of Information and Communications Technology (DICT),003,National Privacy Commission,96263,0,60939,0,105345,0,144055,0,0,0,33934,0,0,0,0,0,0,0,0,0,97256,0
+37,Department of Information and Communications Technology (DICT),004,Cybercrime Investigation and Coordination Center,62834,0,0,0,71580,0,436270,0,0,0,8400,0,0,0,0,0,0,0,0,0,44206,0
+38,Department of Transportation (DOTr),001,Office of the Secretary,1907736,380254,1653147,0,2864561,26391,7639846,0,482767,4671875,71948098,0,7068,0,0,0,0,0,0,0,2178422,685171
+38,Department of Transportation (DOTr),002,Civil Aeronautics Board,32331,0,164694,0,38082,0,31893,0,3220,0,0,0,0,0,0,0,0,0,0,0,65333,86450
+38,Department of Transportation (DOTr),003,Maritime Industry Authority (MARINA),110133,15281,496701,0,141469,118734,528689,0,0,37875,102045,0,0,0,0,0,0,0,0,0,412227,0
+38,Department of Transportation (DOTr),004,Office of Transportation Cooperatives,17654,0,14791,0,5988,0,6013,0,5550,0,0,0,0,0,0,0,0,0,0,0,22437,0
+38,Department of Transportation (DOTr),005,Office for Transportation Security,383979,0,309676,0,595697,0,90877,0,172404,0,231802,0,0,0,0,0,0,0,0,0,203677,392883
+38,Department of Transportation (DOTr),006,Philippine Coast Guard,7202021,1961233,17291630,0,2196860,131647,6625213,0,1255637,0,5863656,0,0,0,0,0,0,0,0,0,12511237,2467
+38,Department of Transportation (DOTr),007,Toll Regulatory Board,19229,0,11973,0,22011,0,13226,0,9181,0,5550,0,0,0,0,0,0,0,0,0,21003,0
+39,Department of Human Settlements and Urban Development (DHSUD),001,Office of the Secretary,349741,65580,448563,0,211547,54319,271994,0,7220,46450,0,0,0,0,0,0,0,0,0,0,609712,0
+39,Department of Human Settlements and Urban Development (DHSUD),002,Human Settlements Adjudication Commission,214031,0,187608,0,113459,0,44656,0,0,0,0,0,0,0,0,0,0,0,0,0,273649,7061
+40,Department of Migrant Workers (DMW),001,Office of the Secretary,356034,0,2211167,0,517020,0,3844584,0,130260,0,400804,0,0,0,0,0,0,0,0,0,910458,0
+40,Department of Migrant Workers (DMW),002,Overseas Workers Welfare Administration,124619,0,889852,0,836879,0,2338907,0,76651,0,18450,0,0,0,0,0,0,0,0,0,292549,5680

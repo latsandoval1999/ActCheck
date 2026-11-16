@@ -75,8 +75,10 @@ def render(a1, a2, a3):
     with tabs[3]:
         p(f"<b>Purpose: weigh the impact.</b> {a3} (the Policy Appraisal and Governance Agent) drafts the preliminary review: summary, history, "
           "differences, overlaps with existing agencies, fiscal implications, risks, a verification checklist and preliminary comments.")
-        p("<b>Cost estimate.</b> The AI does not calculate costs. A fixed calculator in ActCheck estimates a first-year range from the 2026 salary schedule "
-          "(NBC No. 601), mandatory benefits and comparator agencies' audited expenses (COA reports); the agent may only quote those figures "
+        p("<b>Cost estimate.</b> The AI does not calculate costs. A fixed calculator in ActCheck estimates a first-year range two ways: "
+          "staff costs from the 2026 salary schedule (NBC No. 601) and mandatory benefits, plus running costs at the share seen in similar "
+          "agencies; and the running cost per authorized position of similar agencies in the FY 2026 budget (GAA and DBM Staffing Summary). "
+          "COA audit reports serve as a cross-check, and the 2027 inflation assumption is noted. The agent may only quote these figures "
           "and the amounts stated in the bill. Any other peso figure is flagged.")
         p("<b>Second reviewer.</b> A separate AI reviewer reads the draft for factual slips, unsupported claims and overstated status, and "
           "recommends whether it is ready for the analyst.")
@@ -91,6 +93,44 @@ def render(a1, a2, a3):
         p("<b>The analyst stays in charge.</b> Each step ends with a checklist (with space for notes and attached files). The next step stays "
           "locked until every item is ticked. Step 3 ends with the analyst's approval of the review; the memo is drafted only from an approved "
           "review, and the letter only after the analyst sets the position. Every action is recorded in the activity trail.")
+
+    ui.section("Responsible AI", "How ActCheck follows the government's AI principles",
+               'DICT-CSC Joint Memorandum Circular No. 003, s. 2026 sets the principles for the ethical and responsible development, '
+               'deployment and use of AI in government; NPC Advisory No. 2024-04 applies the Data Privacy Act to AI systems. The table shows '
+               'how the prototype meets each principle and what an agency would still need to do before real use.')
+    ui.table(["Principle (JMC 003, Sec. 5-10)", "How ActCheck meets it", "Still needed before agency use"], [
+        ["Proportionality and do no harm", "Used only for preliminary review within DBM-BILLS' existing mandate; agents never set a position or sign.",
+         "A risk assessment by the deploying office."],
+        ["Human-centricity; final decision by a human", "Checklists lock each step until the analyst approves; only the analyst sets the position; every action is in the activity trail.",
+         "User testing with BILLS analysts; consult staff whose work changes."],
+        ["Fairness and non-discrimination", "No personal data is used to judge anyone; the agent may not describe legislators' motives; reviewers can flag biased wording.",
+         "A bias check across bill types and chambers (coverage gaps in House listings, title-based types)."],
+        ["Transparency and explainability", "Each finding quotes its source and the quote is checked; rule-based results are labelled 'Before any AI is used'; this page explains inputs, limits and outputs.",
+         "Publish the disclosure in the agency's own AI policy."],
+        ["Data governance, privacy and protection", "Only public documents (bills, laws, budget and audit reports); internal DBM position papers are excluded; the only personal data are legislators' names as published.",
+         "Privacy impact assessment; classify data under Sec. 9 before adding internal files."],
+        ["Responsibility and accountability", "Every output is labelled an AI-assisted preliminary draft; the analyst who approves is accountable; runs and approvals are logged.",
+         "Name the accountable unit; the internal AI committee (IT and Legal) under Sec. 8 reviews use."],
+        ["Reporting and feedback (Sec. 6b)", "Each step has 'Report a problem with this output'; reports are saved with the bill and shown in the Run log.",
+         "Route reports to the system owner and fix within a set time."],
+        ["Disclosure of AI use (Sec. 6b)", "Reports, memos and letters carry the AI-assisted label; the Run log records which model produced what.",
+         "Agency rule on how AI use is disclosed to Congress."],
+        ["Cyber safety and security", "No keys or passwords stored in the code; only public data on the hosted prototype.",
+         "Vulnerability assessment and access control before internal deployment."],
+        ["Robustness and reliability", "Sources documented; automatic checks on citations, peso figures and governance rules; a second AI reviewer; tests run on every change.",
+         "Regular monitoring of accuracy on new bills (Sec. 10)."],
+        ["Sustainability", "Rule-based steps run first and cost nothing; a smaller AI model can be chosen; results are reused, not regenerated.",
+         "Track usage and cost per review."],
+    ])
+    st.caption("Sources: DICT-CSC JMC No. 003, s. 2026 (Principles for the Ethical and Responsible Development, Deployment and Use of AI in the "
+               "Government); NPC Advisory No. 2024-04; RA 10173 (Data Privacy Act of 2012).")
+
+    ui.section("Policy context", "What ActCheck checks a bill against",
+               "Besides bills and laws, the Library holds short excerpts of public policy documents that AppraisAI may cite: the 44 Common "
+               "Legislative Agenda measures of the 20th Congress (LEDAC, 30 September 2025), the DBM 2027 Budget Priorities Framework "
+               "(priority areas, the call to rationalize programs and remove redundancies, fiscal targets) and the PSA inflation report for "
+               "October 2026. Bills related by title to a LEDAC measure are flagged on the Bills page. The cost estimate uses the FY 2026 "
+               "General Appropriations Act and the DBM Staffing Summary FY 2026 for comparator agencies, with COA audit reports as a cross-check.")
 
     ui.section("Bill types", "How ActCheck classifies bills",
                "Each bill gets a scope of application (general or public, local application, or private or named grantee) and one primary "
