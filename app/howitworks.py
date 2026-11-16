@@ -160,7 +160,7 @@ def render(a1, a2, a3, workflow):
     for i, (ico, _, _) in enumerate(tiles, 1):
         uri = quote(f"<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='#0B2545' stroke-width='1.8' "
                     f"stroke-linecap='round' stroke-linejoin='round'>{_P[ico]}</svg>")
-        css.append(f'.st-key-agent_tile div[role="radiogroup"] > label:nth-of-type({i})::before{{background-image:url("data:image/svg+xml,{uri}");}}')
+        css.append(f'.st-key-agent_tile div[role="radiogroup"] > div:nth-child({i}) label::before{{background-image:url("data:image/svg+xml,{uri}");}}')
     ui.html("<style>" + "".join(css) + "</style>")
     st.caption("Click a step to see what it does, its safeguards and its output.")
     names = [f"{k} · {n}" for _, k, n in tiles]
