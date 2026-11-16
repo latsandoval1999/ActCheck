@@ -20,10 +20,12 @@ Live portal: https://act-check.streamlit.app Built for the PP5538 Agentic AI Por
 
 ## How the portal works
 
-- **Home:** bills listed (18th–20th Congress), bills in the 20th Congress, new bills from the daily run; shares of bills by type and scope of application (rules on titles, `pipeline/typology.py`); how a review flows.
+- **Overview:** bills listed (18th–20th Congress), bills in the 20th Congress, new bills from the daily run; shares of bills by type and scope of application (rules on titles, `pipeline/typology.py`); how a review flows.
 - **Bills:** every bill with Congress, Bill type, Type, Status and "Applies to" filters. Click a title for details; **Review** sends it to the workspace (bills without full text are fetched from their source PDF first, `pipeline/ondemand.py`).
 - **Review workspace:** the bills under review; for each, Step 1 TrAIce (trace), Step 2 CompAIre (compare), Step 3 AppraisAI (weigh, with red-team check), each with a run button, a free route and a reviewer checklist (notes and file uploads) that unlocks the next step; Step 4 comments and report; Step 5 the DBM-format memo and letter (Tahoma, Word download, `agents/documents.py`).
-- **BILLy:** the floating "Ask Billy" companion answers questions about the open bill (AI with checked citations, or search mode without a key, `agents/billy.py`).
+- **BILLy:** the floating companion answers questions about the open bill in the Review workspace (AI with checked citations, or search mode without a key, `agents/billy.py`), and general questions about ActCheck on the other pages (`agents/site_guide.py`).
+- **Public view and reviewer check-in:** the public sees Overview, Bills, How it Works, Library and Run log; "Reviewer check-in" (top right, or on the Overview banner) opens the Review workspace. For the course demonstration it needs no password.
+- **Daily check:** 9:00 AM Manila time (`.github/workflows/daily-watch.yml`): checks the data sources, refreshes Open Congress Data, finds new House bills (the probe tolerates runs of unpublished numbers), catches up older House bills, refreshes Republic Acts with summaries weekly. The Senate listing refuses GitHub's servers; it is refreshed from a normal browser and committed. A keep-awake job (`.github/workflows/keep-awake.yml`) visits the portal every 6 hours until 31 December 2026.
 - **How it Works:** each agent and how ActCheck fits the BILLS process in the DBM Citizen's Charter.
 
 ## What it does

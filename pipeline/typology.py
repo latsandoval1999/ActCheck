@@ -55,9 +55,19 @@ CATEGORIES = [
                        r"|\bCERTIFICATION\b|\bAMENDING\b|\bGUIDELINES\b|\bCODE\b"),
 ]
 # last-resort rules for broad development measures, tried only when nothing above matched
-FALLBACK = [("Public programs and benefits", r"\bSTRENGTHEN|\bPROMOT|\bDEVELOP|\bENHANC|\bACCESSIB|\bINDUSTRY\b|\bEDUCATION\b|\bHEALTH\b"),
+FALLBACK = [("Public facilities and infrastructure", r"\bHATCHER|\bE-LIBRAR|\bLIBRAR(Y|IES)\b|\bACADEM(Y|IES)\b|\bNURSING HOME|\bCENTERS?\b"
+             r"|\bLABORATOR|\bMUSEUM|\bSTATION\b|\bFACILIT|\bSHELTER\b|\bHOMES? FOR\b"),
+            ("Offenses and penalties", r"\bBANNING\b|\bBAN\b"),
+            ("Commemorations, holidays and naming", r"\bPROCLAIM|\bNATIONAL HERO|\bAPPRECIATION DAY"),
+            ("Rights and protections", r"\bDIVORCE|\bMARRIAGE|\bANNULMENT|\bPROPERTY REGIME|\bFAMILY CODE|\bCIVIL CODE|\bPAUPER|\bINDIGEN"),
+            ("Public programs and benefits", r"\bDATABASE\b|\bMASTER ?PLAN\b|\bNETWORK OF\b|\bRESERVE\b|\bADDITIONAL FUNDING"),
+            ("Land, public assets and natural resources", r"\bECO-?TOUR|\bTOURIS[MT]\b|\bISLET\b|\bSANCTUARY\b|\bHERITAGE\b"),
+            ("Public programs and benefits", r"\bSTRENGTHEN|\bPROMOT|\bDEVELOP|\bENHANC|\bACCESSIB|\bINDUSTRY\b|\bEDUCATION\b|\bHEALTH\b"),
             ("Regulation and standards", r"\bPROVIDING FOR\b|\bGOVERNING\b|\bPOLICY\b|\bFRAMEWORK\b")]
 OTHER = "Other or unclassified"
+# What "Other or unclassified" holds, for the portal: bills with no title yet (listed by number only) and titles
+# that no rule above matches (e.g. recognizing civil effects of church annulment, protecting freelancers,
+# mandatory Bible reading, single-subject measures worded without the key terms).
 CATEGORY_NAMES = [c for c, _ in CATEGORIES] + [OTHER]
 _RX = [(c, re.compile(p, re.I)) for c, p in CATEGORIES + FALLBACK]
 
@@ -66,6 +76,11 @@ LOCAL_RX = re.compile(r"\b(CITY|MUNICIPALITY|PROVINCE|BARANGAY|DISTRICT|ISLAND)\
 PRIVATE_RX = re.compile(r"\bFRANCHISE\b|CITIZENSHIP TO\b|NATURALI[SZ]ATION OF\b|\bGRANTING\b.{0,80}\b(INC\.?|CORPORATION|COMPANY|CO\.)", re.I)
 
 HOUSE_ONLY = {"Appropriations", "Taxation and revenue", "Tariffs and customs duties", "Public borrowing and debt"}
+
+
+def has_title(title):
+    """False for empty or placeholder titles (e.g. just "AN ACT"), which are listed by number only."""
+    return len(re.sub(r"^\s*AN ACT\b", "", title or "", flags=re.I).split()) >= 3
 
 
 def category(title):

@@ -1,10 +1,14 @@
 """DBM-format drafts: memorandum to the Secretary and letter to the committee chair or principal author.
 
-The layout follows the structure of a DBM memorandum on a legislative measure (letterhead; date;
-MEMORANDUM FOR / Thru / From / Subject; a rule; numbered sections 1.0 to 6.0) in Tahoma. Only the
-layout is reproduced: no seal, no names of officials, no signatures and no approval boxes. Offices
-are bracketed placeholders, the position stays with the reviewer, and every draft carries the
-AI-assisted label until DBM approves it.
+The layout follows DBM memoranda and position-paper letters on legislative measures (reviewed for format only):
+the DBM letterhead text (Republic of the Philippines / Department of Budget and Management / General Solano Street,
+San Miguel, Manila); date; MEMORANDUM FOR THE SECRETARY / Thru / From / Subject; a rule; numbered sections 1.0 to
+6.0 (1.0 request, 1.1 referral to bureaus, 2.0 Salient Features, 3.0 Comments with 3.1 per bureau, 4.0
+Recommendation, 5.0 attached letter, 6.0 for the Secretary's consideration) in Tahoma; the letter opens
+"Greetings!" and "We respectfully submit the comments and recommendations of the Department of Budget and
+Management on ...". The DBM seal is left for DBM to add on its official template (this public prototype does
+not reproduce it), and there are no names of officials, no signatures and no approval boxes. Offices are
+bracketed placeholders, the position stays with the reviewer, and every draft carries the AI-assisted label.
 
 Fields are pre-filled from the reviewer-approved review and comments (no AI needed); AppraisAI can
 redraft the narrative fields, and the reviewer edits everything before download.
@@ -75,10 +79,10 @@ def memo_prefill(bid, review, comments=None, bureau_inputs="", status=""):
         "s3_1": bureau_inputs.strip() or "[Comments of the concerned bureaus, as received.]",
         "s3_2": "\n".join(lines) or "[Proposed comments.]",
         "s3_3": fiscal or "[Fiscal implications: to be completed from the AppraisAI review and the bureaus' comments.]",
-        "s4": POSITION_PLACEHOLDER,
-        "s5": "Should the Secretary find merit in the recommendation, attached is the draft letter to [the Chairperson, Committee on ______, "
+        "s4": "In view of the foregoing, we recommend to manifest as DBM position that we " + POSITION_PLACEHOLDER,
+        "s5": "Should the Secretary find merit to our recommendation, attached is the draft letter to [the Chairperson, Committee on ______, "
               "House of Representatives / Senate of the Philippines] conveying the DBM comments.",
-        "s6": "For the Secretary's consideration.",
+        "s6": "For the Secretary's consideration, please. Thank you.",
     }
 
 
@@ -111,7 +115,7 @@ def letter_prefill(bid, memo_fields, chamber_hint=None):
     chamber = "Senate of the Philippines" if bid.startswith("SB") else "House of Representatives"
     place = "Pasay City" if bid.startswith("SB") else "Quezon City"
     s4 = (memo_fields.get("s4") or "").upper()
-    chosen = next((x for x in sorted(POSITIONS, key=len, reverse=True) if x.upper() in s4), None)
+    chosen = next((x for x in sorted(POSITIONS, key=len, reverse=True) if x.upper() in s4), None) if position_decided(memo_fields) else None
     stance = {"support": "supports the passage of the bill",
               "support with amendments": "supports the bill, subject to the comments below",
               "defer": "respectfully recommends that action on the bill be deferred, in view of the comments below",
@@ -122,14 +126,14 @@ def letter_prefill(bid, memo_fields, chamber_hint=None):
         "office": f"[Chairperson, Committee on ______]\n{chamber}",
         "address": f"[Address], {place}",
         "subject": f"Comments on {bill_name(bid)} entitled \"{title}\"",
-        "salutation": "Dear [Chairperson ______]:",
-        "p1": (f"This refers to [your letter dated ______ requesting] the comments of the Department of Budget and Management (DBM) "
+        "salutation": "Dear [Senator / Representative ______]:\n\nGreetings!",
+        "p1": (f"We respectfully submit the comments and recommendations of the Department of Budget and Management (DBM) "
                f"on {bill_name(bid)} entitled \"{title}.\""),
         "p2": (f"After review, the DBM {stance}. In particular, we respectfully offer the following comments:\n"
                f"{memo_fields.get('s3_2', '')}"),
         "p3": memo_fields.get("s3_3", ""),
         "p4": "We trust that these comments will be considered in the Committee's deliberations. The DBM remains available to provide "
-              "further technical assistance on the measure.",
+              "further technical assistance on the measure.\n\nThank you very much.",
         "closing": "Very truly yours,",
     }
 
@@ -164,20 +168,28 @@ def _run(p, text, bold=False, size=None, italic=False, caps=False, underline=Fal
     return r
 
 
-def _letterhead(doc):
+LETTERHEAD = ("REPUBLIC OF THE PHILIPPINES", "DEPARTMENT OF BUDGET AND MANAGEMENT", "GENERAL SOLANO STREET, SAN MIGUEL, MANILA")
+SEAL_NOTE = "[DBM seal: added by DBM on its official template]"
+
+
+def _letterhead(doc, address=True):
+    """DBM letterhead text in a serif face, as on DBM issuances; the seal is left to DBM's official template."""
     from docx.enum.text import WD_ALIGN_PARAGRAPH
     from docx.shared import Pt
+    serif = "Bookman Old Style"
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    p.paragraph_format.space_after = Pt(0)
-    _run(p, "[Insert official DBM letterhead and seal]", italic=True, size=8)
-    p = doc.add_paragraph()
-    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    p.paragraph_format.space_after = Pt(0)
-    _run(p, "REPUBLIC OF THE PHILIPPINES", size=10)
-    p = doc.add_paragraph()
-    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    _run(p, "DEPARTMENT OF BUDGET AND MANAGEMENT", bold=True, size=13)
+    p.paragraph_format.space_after = Pt(2)
+    _run(p, SEAL_NOTE, italic=True, size=7)
+    for i, (txt, size, bold) in enumerate(((LETTERHEAD[0], 10.5, False), (LETTERHEAD[1], 13, True), (LETTERHEAD[2], 7.5, False))):
+        if i == 2 and not address:
+            continue
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p.paragraph_format.space_after = Pt(0)
+        r = _run(p, txt, bold=bold, size=size)
+        r.font.name = serif
+        r._element.rPr.rFonts.set(__import__("docx.oxml.ns", fromlist=["qn"]).qn("w:eastAsia"), serif)
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     _run(p, "DRAFT · " + LABEL, italic=True, size=8)
@@ -232,7 +244,7 @@ def _body(doc, text, indent_cm=1.0):
 def memo_docx(fields):
     from docx.shared import Cm
     doc = _doc()
-    _letterhead(doc)
+    _letterhead(doc, address=False)
     _footer(doc)
     doc.add_paragraph(fields.get("date", ""))
     p = doc.add_paragraph()
@@ -291,10 +303,9 @@ def letter_docx(fields):
             q = doc.add_paragraph(line.strip())
             q.paragraph_format.space_after = 0
     doc.add_paragraph()
-    p = doc.add_paragraph()
-    _run(p, "Subject: ", bold=True)
-    _run(p, fields.get("subject", ""), bold=True)
-    doc.add_paragraph(fields.get("salutation", ""))
+    for line in str(fields.get("salutation", "")).split("\n"):
+        if line.strip():
+            doc.add_paragraph(line.strip())
     for k in ("p1", "p2", "p3", "p4"):
         _body(doc, fields.get(k, ""), indent_cm=0)
     doc.add_paragraph(fields.get("closing", ""))

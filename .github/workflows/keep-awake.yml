@@ -1,0 +1,32 @@
+name: keep-awake
+# Keep the ActCheck portal awake on Streamlit Community Cloud (apps sleep after 12 hours without traffic):
+# visit it every 6 hours and press "Yes, get this app back up!" if it is asleep. Stops after 31 December 2026.
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  visit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Stop after December 2026
+        id: window
+        run: |
+          if [ "$(date -u +%Y%m%d)" -le 20261231 ]; then echo "go=yes" >> "$GITHUB_OUTPUT"; else echo "go=no" >> "$GITHUB_OUTPUT"; fi
+      - uses: actions/checkout@v4
+        if: steps.window.outputs.go == 'yes'
+      - uses: actions/setup-python@v5
+        if: steps.window.outputs.go == 'yes'
+        with:
+          python-version: "3.11"
+      - name: Visit the portal
+        if: steps.window.outputs.go == 'yes'
+        run: |
+          pip install -q playwright
+          python -m playwright install --with-deps chromium > /dev/null
+          python scripts/keep_awake.py

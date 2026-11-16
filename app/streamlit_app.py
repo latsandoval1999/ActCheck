@@ -2,7 +2,7 @@
 
     streamlit run app/streamlit_app.py
 
-Pages: Home (summary data, bill typology, how a review flows) -> Bills (every bill; Type and Status
+Pages: Overview (summary data, bill typology, how a review flows) -> Bills (every bill; Type and Status
 filters; click a title for details; Review sends it to the workspace) -> Review workspace (bills under
 review; Step 1 TrAIce, Step 2 CompAIre, Step 3 AppraisAI, each with a run button and a reviewer
 checklist that unlocks the next step; comments and report; DBM-format memo and letter) -> Library ->
@@ -37,6 +37,7 @@ from pipeline import catalogue, typology, policy  # noqa: E402
 from pipeline.compare import load, related_bills  # noqa: E402
 import render  # noqa: E402
 import ui  # noqa: E402
+from icons import svg  # noqa: E402
 
 SUBHEADING = "An Agentic AI System for Philippine Legislative Review"
 TAGLINE = "Trace the bill. Spot the changes. Weigh the impact."
@@ -44,8 +45,31 @@ DESCRIPTION = ("A tool to aid government analysts to trace a bill's history, see
                "implications in order to provide comments for legislators.")
 LABEL = "AI-assisted preliminary draft for DBM reviewer validation. Not an official position."
 PILOT = "Creates a national agency (pilot)"
-PAGES = ["Home", "Bills", "Review workspace", "Library", "Run log", "How it Works"]
+ALL_PAGES = ["Overview", "Bills", "Review workspace", "How it Works", "Library", "Run log"]
+PUBLIC_PAGES = [p for p in ALL_PAGES if p != "Review workspace"]
 STEPS = ["Trace", "Compare", "Weigh", "Comments & report", "Memo & letter"]
+WORKFLOW = [
+    ("Every morning · 9:00 AM", "Daily check", "daily",
+     ["Checks the House documents server for new bill numbers", "Catches up older House bills missing from the list",
+      "Reads each bill, including scanned pages", "Sorts bills by type and flags LEDAC priority measures", "Reports any source that fails"],
+     "New bills on the Bills page", True),
+    ("Step 1", "TrAIce · Trace the bill", "trace",
+     ["Finds earlier versions in the 18th and 19th Congress", "Finds the counterpart in the other chamber and refiled copies",
+      "Lists the existing laws the bill amends or overlaps", "Quotes a section for every link; each quote is checked"],
+     "Legislative history with checked citations", False),
+    ("Step 2", "CompAIre · Spot the changes", "compare",
+     ["Compares the bill with its closest related measure, section by section", "States the problem the bill addresses",
+      "Lists substantial differences and their likely cost effect", "Shows design options seen in related bills"],
+     "Substantial differences and design options", False),
+    ("Step 3", "AppraisAI · Weigh the impact", "appraise",
+     ["Estimates a first-year cost range (fixed calculator, 2026 budget data)", "Notes risks, overlaps and policy context",
+      "Drafts preliminary comments and a checklist", "A second AI reviewer checks the draft", "Drafts the memo and letter in DBM format"],
+     "Preliminary review, comments, memo and letter drafts", False),
+    ("The analyst", "Decide and send", "analyst",
+     ["Ticks each checklist to unlock the next step", "Edits the findings and comments", "Sets the DBM position",
+      "Finalizes and signs off the memo and letter"],
+     "DBM memo to the Secretary and letter to Congress", True),
+]
 
 st.set_page_config(page_title=f"{APP_NAME} · {SUBHEADING}", page_icon=str(ROOT / "app" / "static" / "favicon.png"),
                    layout="wide", initial_sidebar_state="collapsed")
@@ -103,14 +127,42 @@ def go(page, bill=None):
     st.rerun()
 
 
+# Public view by default. Reviewer check-in shows the review workspace and the AI settings; for the course
+# demonstration it needs only a click (no password).
+if st.query_params.get("checkin") == "1":
+    st.session_state["reviewer"] = True
+    st.session_state["_goto"] = "Review workspace"
+    del st.query_params["checkin"]
+if st.query_params.get("reviewer") == "1":
+    st.session_state["reviewer"] = True
+REVIEWER = bool(st.session_state.get("reviewer"))
+if REVIEWER:
+    st.query_params["reviewer"] = "1"          # keeps the check-in when a link on the page reloads it
+elif "reviewer" in st.query_params:
+    del st.query_params["reviewer"]
+PAGES = ALL_PAGES if REVIEWER else PUBLIC_PAGES
 qp_page = st.query_params.get("page")
+if qp_page == "Home":
+    qp_page = "Overview"
 if qp_page in PAGES:
     st.session_state["_goto"] = qp_page
     del st.query_params["page"]
 if "_goto" in st.session_state:
     st.session_state["nav"] = st.session_state.pop("_goto")
 if st.session_state.get("nav") not in PAGES:
-    st.session_state["nav"] = "Home"
+    st.session_state["nav"] = "Overview"
+
+
+def check_in():
+    st.session_state["reviewer"] = True
+    st.session_state["_goto"] = "Review workspace"
+
+
+def check_out():
+    st.session_state["reviewer"] = False
+    st.session_state["_goto"] = "Overview"
+    if "reviewer" in st.query_params:
+        del st.query_params["reviewer"]
 
 # When the page changes, hide what is left of the previous page while the new one loads (Streamlit otherwise
 # keeps it on screen, faded). Only on that run: within a page, content stays visible during refreshes.
@@ -118,7 +170,9 @@ _switched = st.session_state.get("_last_page") != st.session_state["nav"]
 st.session_state["_last_page"] = st.session_state["nav"]
 ui.html("<style>[data-stale='true']{display:none !important;}</style>" if _switched else "<span></span>")
 
-with st.sidebar:
+live = bool(llm.api_key())
+if REVIEWER:
+  with st.sidebar:
     st.markdown("### Reviewer settings")
     pasted = st.text_input("AI access key from Anthropic (optional; kept only while this page is open)", type="password")
     if pasted:
@@ -129,8 +183,19 @@ with st.sidebar:
     st.write("AI agents:", "**on**" if live else "**off**. ActCheck still shows its own analysis, BILLy searches the bill's text, and each agent can be run in your Claude chat.")
     st.caption(LABEL)
 
-ui.masthead(APP_NAME, SUBHEADING)
-page = st.radio("Navigation", PAGES, key="nav", horizontal=True, label_visibility="collapsed")
+with st.container(key="topbar"):
+    ui.masthead(APP_NAME, SUBHEADING, REVIEWER)
+    with st.container(key="navrow"):
+        n1, n2 = st.columns([5, 1.25], vertical_alignment="center")
+        with n1:
+            page = st.radio("Navigation", PAGES, key="nav", horizontal=True, label_visibility="collapsed")
+        with n2:
+            if REVIEWER:
+                st.button("✓ Reviewer · Check out", key="btn_checkout", on_click=check_out, use_container_width=True,
+                          help="Return to the public view")
+            else:
+                st.button("Reviewer check-in", key="btn_checkin", on_click=check_in, type="primary", use_container_width=True,
+                          help="Open the review workspace (no password needed for this course prototype)")
 cat = bill_table(catalogue.stamp())
 
 
@@ -199,8 +264,11 @@ def bill_dialog(row):
     st.caption(" · ".join(f"{k}: {v}" for k, v in meta if v))
     st.caption("The type and scope are assigned from the bill's title and should be confirmed during review.")
     c1, c2 = st.columns(2)
-    if c1.button("Review this bill", type="primary", key=f"dlg_rev_{row['id']}"):
-        start_review(row)
+    if REVIEWER:
+        if c1.button("Review this bill", type="primary", key=f"dlg_rev_{row['id']}"):
+            start_review(row)
+    else:
+        c1.caption("Reviewers can send this bill to the review workspace after checking in (button at the top right).")
     if row["source_url"]:
         c2.link_button("View bill (source document)", row["source_url"])
 
@@ -272,9 +340,12 @@ def pick_reference(bid, research_out):
 def paper(fields, kind):
     """On-screen preview of the memo or letter in the DBM layout (Tahoma)."""
     e = lambda s: escape(str(s or "")).replace("\n", "<br>")  # noqa: E731
-    head = ('<div style="text-align:center;font-size:.7rem;color:#888;font-style:italic">[Insert official DBM letterhead and seal]</div>'
-            '<div style="text-align:center;font-size:.8rem">REPUBLIC OF THE PHILIPPINES</div>'
-            '<div style="text-align:center;font-weight:700;font-size:1rem;margin-bottom:.8rem">DEPARTMENT OF BUDGET AND MANAGEMENT</div>')
+    serif = "font-family:'Bookman Old Style',Georgia,serif;text-align:center"
+    head = (f'<div style="text-align:center;font-size:.65rem;color:#888;font-style:italic">{docs.SEAL_NOTE}</div>'
+            f'<div style="{serif};font-size:.8rem;letter-spacing:.04em">{docs.LETTERHEAD[0]}</div>'
+            f'<div style="{serif};font-weight:700;font-size:1.02rem">{docs.LETTERHEAD[1]}</div>'
+            + (f'<div style="{serif};font-size:.62rem;letter-spacing:.04em">{docs.LETTERHEAD[2]}</div>' if kind != "memo" else "")
+            + '<div style="margin-bottom:.8rem"></div>')
     if kind == "memo":
         rows = "".join(f'<tr><td style="width:70px;vertical-align:top">{lab}</td><td style="width:14px;vertical-align:top">:</td>'
                        f'<td style="{"font-weight:700;" if k == "subject" else ""}text-align:justify">{e(fields.get(k))}</td></tr>'
@@ -285,7 +356,7 @@ def paper(fields, kind):
                  f'<hr style="border:0;border-top:1.5px solid #000">{body}')
     else:
         inner = (f'<p>{e(fields.get("date"))}</p><p><b>{e(fields.get("addressee"))}</b><br>{e(fields.get("office"))}<br>{e(fields.get("address"))}</p>'
-                 f'<p><b>Subject: {e(fields.get("subject"))}</b></p><p>{e(fields.get("salutation"))}</p>'
+                 f'<p>{e(fields.get("salutation"))}</p>'
                  + "".join(f'<p style="text-align:justify">{e(fields.get(k))}</p>' for k in ("p1", "p2", "p3", "p4"))
                  + f'<p>{e(fields.get("closing"))}</p>')
     ui.html(f'<div style="font-family:Tahoma,Verdana,sans-serif;font-size:.86rem;background:#fff;border:1px solid #D8D3C7;'
@@ -581,23 +652,61 @@ def billy_body(bid):
                else "Without an AI key, BILLy answers by quoting the parts of the bill that best match your question.")
 
 
+def _guide_ask(q=None):
+    from agents import site_guide as G
+    q = (q or st.session_state.get("billy_in_guide") or "").strip()
+    if not q:
+        return
+    hist = st.session_state.setdefault("billy_guide", [])
+    hist.append({"role": "user", "content": q})
+    try:
+        ans = G.answer(hist[:-1], q, bool(llm.api_key()))
+    except Exception as e:
+        ans = f"Sorry, I couldn't answer that: {e}"
+    hist.append({"role": "assistant", "content": ans})
+    st.session_state["billy_in_guide"] = ""
+
+
+@st.fragment
+def billy_general():
+    """BILLy as a guide to ActCheck when no bill is open."""
+    from agents import site_guide as G
+    hist = st.session_state.setdefault("billy_guide", [])
+    for m in hist[-6:]:
+        if m["role"] == "user":
+            ui.html(f'<div class="ac-msg u">{escape(m["content"])}</div>')
+        else:
+            st.markdown(m["content"])
+    st.caption("Ask me about ActCheck, or try one of these:" if not hist else "Ask another question:")
+    for i, s_ in enumerate(G.suggestions()):
+        if not any(m["content"] == s_ for m in hist):
+            st.button(s_, key=f"gsug_{i}", on_click=_guide_ask, args=(s_,))
+    st.text_input("Ask about ActCheck", key="billy_in_guide", placeholder="e.g. What does AppraisAI do?", on_change=_guide_ask)
+    c1, c2 = st.columns(2)
+    c1.button("Ask", key="billy_go_guide", on_click=_guide_ask, type="primary")
+    if hist:
+        c2.button("Clear chat", key="billy_clr_guide", on_click=lambda: st.session_state.update({"billy_guide": []}))
+    st.caption("To ask about a specific bill, open it in the Review workspace" + (" (check in as a reviewer first)." if not REVIEWER else "."))
+
+
 def billy():
     bid = st.session_state.get("bill") if st.session_state.get("bill") in bills else None
+    bill_mode = bool(bid) and page == "Review workspace"
     with st.container(key="billy"):
-        with st.popover("Ask Billy"):
+        with st.popover("BILLy"):
             ui.html(f'<div class="ac-billy-head"><img src="{ui.STATIC}/billy.png" alt=""><div><b>BILLy</b>'
-                    f'<span>Your review companion · {"reviewing " + escape(bills[bid]["label"]) if bid else "no bill open"}</span></div></div>')
-            if not bid:
-                st.write("Open a bill in the review workspace and I'll answer questions about it, citing its sections.")
-                return
-            billy_body(bid)
+                    f'<span>{"Your review companion · reviewing " + escape(bills[bid]["label"]) if bill_mode else "Your guide to ActCheck"}</span></div></div>')
+            if bill_mode:
+                billy_body(bid)
+            else:
+                billy_general()
 
 
 # ================= pages =================
 # Each page draws into its own keyed container, so switching pages replaces the previous page at once
 # instead of leaving its content on screen (faded) while the new page loads.
 with st.container(key="page_" + page.lower().replace(" ", "_")):
-    if page == "Home":
+    if page == "Overview":
         ws = watch_state()
         runs = ws.get("runs", [])
         inbox_p = ROOT / "data" / "watch" / "inbox.json"
@@ -609,7 +718,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                   (f"{last.get('found', 0):,}", "New bills from the daily run",
                    (f"Found on {last['time'][:10]} · {sum(1 for x in inbox if not x.get('backfill')):,} since the daily check began"
                     + (f" · {sum(1 for x in inbox if x.get('backfill')):,} older bills caught up" if any(x.get('backfill') for x in inbox) else "")
-                    if last else "The daily check runs at 06:17 Manila time"), "red")])
+                    if last else "The daily check runs at 9:00 AM Manila time"), "red")], reviewer=REVIEWER)
 
         ui.section("Bills by type", "What the bills propose",
                    "Bills can be grouped by whom they apply to and by what they propose to do. ActCheck assigns each bill one main type based "
@@ -620,6 +729,14 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
         counts = d["type"].value_counts()
         rows = [(k, int(v), v / n) for k, v in counts.items()]
         ui.bars(rows, highlight="Government organization and mandates")
+        oth = d[d["type"] == typology.OTHER]
+        if len(oth):
+            untitled = int((~oth["title"].map(typology.has_title)).sum())
+            ui.note(f"<b>What is in 'Other or unclassified' ({len(oth):,} bills, {len(oth) / n:.1%}).</b> {untitled:,} are listed by number only: "
+                    f"their title is not yet available from the source, so they cannot be typed. The other {len(oth) - untitled:,} have titles "
+                    "that none of the classification rules match, usually single-subject measures worded without the key terms the rules "
+                    "look for, for example recognizing the civil effects of church annulment, protecting freelancers, mandatory Bible "
+                    "reading in schools or declaring maritime zones. The analyst assigns the type during review.")
         ui.html("<p style='margin:1.1rem 0 .1rem'><b>Who the bills apply to</b></p>")
         app_counts = d["applies_to"].value_counts()
         ui.stack([(k, int(app_counts.get(k, 0)), app_counts.get(k, 0) / n) for k in typology.APPLICATION], ["#0B2545", "#D4A72C", "#B8322A"])
@@ -629,22 +746,14 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                 "House version. The type in gold, government organization and mandates, is the one the agents are being tested on first.")
 
         ui.section("How a review flows", "From a newly filed bill to comments for legislators",
-                   "Three agents prepare the evidence; the analyst checks each step before the next one opens and decides the position.")
-        ui.flow([("Every morning", "Daily check", "Reads the House documents server and the Senate bill listing for new filings, downloads their text "
-                  "and classifies each bill.", "Output: new bills on the Bills page", True),
-                 ("Step 1", f"{AGENT1} · Trace the bill", "Finds earlier versions, counterparts and refiled copies in both chambers, and the "
-                  "existing laws the bill touches.", "Output: legislative history with checked citations", False),
-                 ("Step 2", f"{AGENT2} · Spot the changes", "Compares the bill with the closest related measure, section by section, and flags "
-                  "what changed and its likely cost effect.", "Output: substantial differences and design options", False),
-                 ("Step 3", f"{AGENT3} · Weigh the impact", "Estimates a first-year cost range, notes risks and overlaps, and drafts preliminary "
-                  "comments; a second reviewer checks the draft.", "Output: preliminary review and comments", False),
-                 ("The analyst", "Decide and send", "Ticks each checklist, edits the comments, sets the position and finalizes the DBM memo and letter.",
-                  "Output: memo to the Secretary and letter to Congress", True)])
+                   "A daily check finds new bills; three agents prepare the evidence; the analyst checks each step before the next one opens "
+                   "and decides the position. The highlighted box at the foot of each card is what that stage hands on.")
+        ui.flow2(WORKFLOW)
 
     elif page == "Bills":
         ui.section("Legislative measures", "Every House and Senate bill",
-                   "Filter by Congress, bill type, type of measure and status. Click a title for details, or <b>Review</b> to send the bill to your "
-                   "review workspace. If ActCheck does not yet have a bill's full text, it downloads it from the official source when you click Review.")
+                   "Filter by Congress, bill type, type of measure and status. Click a title for details. Checked-in reviewers can click <b>Review</b> "
+                   "to send a bill to the review workspace; if ActCheck does not yet have its full text, it downloads it from the official source.")
         with st.container(border=True):
             f1, f2, f3, f4 = st.columns([0.8, 0.9, 1.6, 1.5])
             congress = f1.selectbox("Congress", ["20th", "19th", "18th", "All"])
@@ -705,8 +814,11 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                 c[3].markdown(f'<span class="ac-badge">{escape(r["status"])}</span>', unsafe_allow_html=True)
                 if r["source_url"]:
                     c[4].markdown(f'<div class="ac-view"><a href="{escape(r["source_url"])}" target="_blank">PDF ↗</a></div>', unsafe_allow_html=True)
-                if c[5].button("Review", key=f"r_{r['id']}"):
-                    start_review(r)
+                if REVIEWER:
+                    if c[5].button("Review", key=f"r_{r['id']}"):
+                        start_review(r)
+                else:
+                    c[5].markdown('<div class="ac-filed">Reviewers only</div>', unsafe_allow_html=True)
         p1, p2, p3 = st.columns([1, 2, 1])
         if p1.button("← Previous", disabled=pg <= 1):
             st.session_state["bills_page"] = pg - 1
@@ -745,18 +857,49 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                 case(bid)
 
     elif page == "Library":
-        ui.section("Document library", "Full texts in ActCheck",
-                   "The bills, committee reports and existing laws that ActCheck has read, divided into sections so that each finding can point "
-                   "to the exact provision.")
-        lib = pd.DataFrame([{"Document": b.get("label"), "Congress": b.get("congress") or "", "Group": b.get("family"),
-                             "Kind": str(b.get("kind", "")).replace("_", " "), "Sections": b.get("n_sections"),
-                             "Text": "scanned (recognized)" if b.get("text_source") == "ocr" else "PDF text", "Title": b.get("title")}
-                            for b in bills.values()])
-        st.dataframe(lib, use_container_width=True, hide_index=True, height=320)
-        pick_id = st.selectbox("Read a document", sorted(bills), format_func=lambda x: f"{x} · {bills[x]['title'][:100]}")
-        for s in secs.get(pick_id, []):
-            with st.expander(f"Sec. {s['no']}. {s['heading']}"):
-                st.write(s["text"])
+        ui.section("Document library", "What ActCheck reads and relies on",
+                   "Choose a collection. Review References are the public documents behind ActCheck's costing, policy context, process and "
+                   "safeguards. Full Text of Bills holds the bills, committee reports and laws ActCheck has read, divided into sections so each "
+                   "finding can point to the exact provision.")
+        import csv as _csv
+        refs = list(_csv.DictReader(open(ROOT / "data" / "reference" / "review_references.csv", newline="")))
+        view = st.session_state.get("lib_view", "refs")
+        t1, t2 = st.columns(2)
+        with t1:
+            with st.container(border=True, key="tile_refs" + ("_on" if view == "refs" else "")):
+                ui.html(f'<div class="ac-tile"><span class="ac-aico">{svg("book", 28)}</span><div><div class="ac-fk">Collection 1</div>'
+                        f'<div class="ac-aname">Review References</div><p>{len(refs)} public documents: budget and audit data, policy context, '
+                        'process, governance and legislative data sources, each with its date and purpose.</p></div></div>')
+                if st.button("Open Review References", key="open_refs", use_container_width=True, type="primary" if view == "refs" else "secondary"):
+                    st.session_state["lib_view"] = "refs"
+                    st.rerun()
+        with t2:
+            with st.container(border=True, key="tile_bills" + ("_on" if view == "bills" else "")):
+                ui.html(f'<div class="ac-tile"><span class="ac-aico">{svg("files", 28)}</span><div><div class="ac-fk">Collection 2</div>'
+                        f'<div class="ac-aname">Full Text of Bills</div><p>{len(bills):,} documents read by ActCheck (bills, committee reports, laws '
+                        'and policy excerpts), split into sections for citation and checking.</p></div></div>')
+                if st.button("Open Full Text of Bills", key="open_bills", use_container_width=True, type="primary" if view == "bills" else "secondary"):
+                    st.session_state["lib_view"] = "bills"
+                    st.rerun()
+        if view == "refs":
+            groups = list(dict.fromkeys(r["Group"] for r in refs))
+            for g in groups:
+                ui.html(f"<p style='margin:1rem 0 .2rem'><b>{escape(g)}</b></p>")
+                ui.table(["Title", "Issued by", "Released", "Purpose in ActCheck"],
+                         [[f'<a href="{escape(r["Link"])}" target="_blank">{escape(r["Title"])} ↗</a>', escape(r["Issued by"]),
+                           escape(r["Released"]), escape(r["Purpose in ActCheck"])] for r in refs if r["Group"] == g])
+            st.caption("Titles open the document at its official source, or a copy kept with ActCheck where no stable public link was found. "
+                       "Internal DBM papers are not part of this library.")
+        else:
+            lib = pd.DataFrame([{"Document": b.get("label"), "Congress": b.get("congress") or "", "Group": b.get("family"),
+                                 "Kind": str(b.get("kind", "")).replace("_", " "), "Sections": b.get("n_sections"),
+                                 "Text": "scanned (recognized)" if b.get("text_source") == "ocr" else "PDF text", "Title": b.get("title")}
+                                for b in bills.values()])
+            st.dataframe(lib, use_container_width=True, hide_index=True, height=320)
+            pick_id = st.selectbox("Read a document", sorted(bills), format_func=lambda x: f"{x} · {bills[x]['title'][:100]}")
+            for s_ in secs.get(pick_id, []):
+                with st.expander(f"Sec. {s_['no']}. {s_['heading']}"):
+                    st.write(s_["text"])
 
     elif page == "Run log":
         ui.section("Run log", "Every agent run and daily check", "A record of each time an agent was run and each daily check, kept for transparency.")
@@ -777,6 +920,15 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             st.dataframe(pd.DataFrame(rows), use_container_width=True, hide_index=True)
         else:
             st.caption("No agent runs logged yet in this deployment.")
+        srcp = ROOT / "data" / "watch" / "sources.json"
+        if srcp.exists():
+            ui.section("Data sources", "Result of the latest source check",
+                       "Checked by the daily job from GitHub's servers. A blocked source is reported, never bypassed.")
+            srows = json.loads(srcp.read_text())
+            ui.table(["Source", "Result", "Role", "Checked"],
+                     [[f'<a href="{escape(r["url"])}" target="_blank">{escape(r["source"])}</a>',
+                       f'<span class="ac-badge {"green" if r["status"] == "reachable" else "red"}">{escape(str(r.get("http") or ""))} {escape(r["status"])}</span>',
+                       escape(r["role"]), escape(r["time"][:16].replace("T", " ")) + " UTC"] for r in srows])
         runs = watch_state().get("runs", [])
         if runs:
             ui.section("Daily check", "Runs of the daily check")
@@ -788,7 +940,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
 
     else:
         import howitworks
-        howitworks.render(AGENT1, AGENT2, AGENT3)
+        howitworks.render(AGENT1, AGENT2, AGENT3, WORKFLOW)
 
 ui.footer(APP_NAME, LABEL)
 billy()

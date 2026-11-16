@@ -8,6 +8,8 @@ from html import escape
 
 import streamlit as st
 
+from icons import svg
+
 STATIC = "app/static"
 
 CSS = """
@@ -24,7 +26,7 @@ html, body, .stApp, .stMarkdown, button, input, textarea, select, label {font-fa
 .stApp{background:var(--paper); color:var(--ink);}
 [data-testid="stHeader"]{background:transparent; height:0;}
 [data-testid="stSidebarCollapsedControl"] button, [data-testid="stExpandSidebarButton"], [data-testid="stSidebarCollapsedControl"] svg{color:#fff !important;}
-.stApp{overflow-x:hidden;}
+.stApp{overflow-x:clip;}
 #MainMenu, footer, [data-testid="stToolbar"], [data-testid="stDecoration"]{visibility:hidden;}
 .block-container{padding:0 var(--pad) 0 !important; max-width:100% !important;}
 h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important; letter-spacing:-.01em;}
@@ -39,12 +41,18 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-word span{color:var(--gold);}
 .ac-sub{font-size:.78rem; color:#BDB8AC; margin-top:.15rem; font-weight:500;}
 .ac-mast-right{font:600 .72rem var(--mono); color:#BDB8AC; text-align:right; text-transform:uppercase; letter-spacing:.06em;}
-.st-key-nav > div, .st-key-nav [data-testid="stRadio"]{width:100% !important; max-width:100% !important;}
 .ac-brand, .ac-brand *{text-decoration:none !important;}
-.st-key-nav{background:var(--ink-dark); border-radius:0; padding:0 calc(var(--pad) - .85rem) .5rem; margin:0 calc(-1 * var(--pad)) 0;
-  width:calc(100% + 2 * var(--pad)) !important; max-width:none !important; border-top:1px solid #253247;}
+/* the masthead and tab bar stay on screen while scrolling */
+.st-key-topbar{position:sticky !important; top:0; z-index:999; background:var(--ink-dark); gap:0 !important;
+  margin:0 calc(-1 * var(--pad)) 0 !important; padding:0 var(--pad) !important; width:calc(100% + 2 * var(--pad)) !important; max-width:none !important;
+  box-shadow:0 4px 14px rgba(10,22,40,.25);}
+[data-testid="stLayoutWrapper"]:has(> .st-key-topbar), [data-testid="stVerticalBlockBorderWrapper"]:has(> div > .st-key-topbar),
+[data-testid="stElementContainer"]:has(.st-key-topbar){position:sticky !important; top:0; z-index:999;}
+.st-key-topbar .ac-mast{margin:0 calc(-1 * var(--pad));}
+.st-key-navrow{border-top:1px solid #253247; padding:.15rem 0 .35rem; gap:0 !important;}
+.st-key-navrow [data-testid="stHorizontalBlock"]{gap:.6rem;}
 .st-key-nav [data-testid="stWidgetLabel"]{display:none;}
-.st-key-nav div[role="radiogroup"]{gap:.15rem; flex-wrap:wrap; padding-top:.45rem;}
+.st-key-nav div[role="radiogroup"]{gap:.15rem; flex-wrap:wrap; padding-top:.25rem;}
 .st-key-nav label[data-testid="stRadioOption"], .st-key-nav div[role="radiogroup"] label{margin:0 !important; padding:.38rem .85rem;
   border-radius:6px; cursor:pointer;}
 .st-key-nav label[data-testid="stRadioOption"] > div > div:first-child:not([data-testid]){display:none;}
@@ -52,6 +60,11 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .st-key-nav label:hover p{color:#fff;}
 .st-key-nav label[data-selected="true"], .st-key-nav label:has(input:checked){background:transparent; box-shadow:inset 0 -3px 0 var(--gold);}
 .st-key-nav label[data-selected="true"] p, .st-key-nav label:has(input:checked) p{color:#fff;}
+.st-key-btn_checkin button, .st-key-btn_checkout button{min-height:0; padding:.35rem .8rem; border-radius:20px !important;}
+.st-key-btn_checkin button{background:var(--gold) !important; border-color:var(--gold) !important;}
+.st-key-btn_checkin button p{color:var(--ink-dark) !important; font-weight:800;}
+.st-key-btn_checkout button{background:transparent !important; border:1px solid #5B6B85 !important;}
+.st-key-btn_checkout button p{color:#E7EAF0 !important; font-size:.82rem;}
 
 /* hero */
 /* The whole photo is shown: it fills the banner's height and sits on the right; the left is the photo's own navy (#0F1F3B). */
@@ -72,6 +85,7 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-btn{display:inline-block; padding:.62rem 1.05rem; font-weight:700; font-size:.92rem; text-decoration:none !important; border-radius:3px;}
 .ac-btn.red{background:var(--red); color:#fff !important; border:2px solid var(--red);}
 .ac-btn.out{color:#fff !important; border:2px solid #fff;}
+.ac-btn.gold{background:var(--gold); color:var(--ink-dark) !important; border:2px solid var(--gold);}
 .ac-credit{font-size:.72rem; color:#AEB6C4; margin:1.6rem 0 0;}
 .ac-hstats{position:relative; display:grid; grid-template-columns:repeat(3, 1fr); gap:1rem; padding:0 var(--pad) 1.6rem; max-width:calc(1250px + var(--pad));}
 .ac-hstat{background:rgba(10,22,40,.82); border:1px solid rgba(255,255,255,.16); border-top:5px solid #7FA3D9; border-radius:3px;
@@ -86,7 +100,8 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-kicker{font:800 .74rem var(--sans); letter-spacing:.1em; text-transform:uppercase; color:var(--red);}
 .ac-section{margin:2.2rem 0 .9rem;}
 .ac-section h2{font-size:1.75rem !important; font-weight:800 !important; margin:.2rem 0 .3rem !important; padding:0 !important; line-height:1.15;}
-.ac-section p{color:var(--ink2); margin:0; max-width:820px; font-size:1rem;}
+.ac-section p{color:var(--ink2); margin:0; max-width:none; font-size:1rem; text-align:justify;}
+.ac-out p{max-width:none;}
 
 /* stat cards */
 .ac-stats{display:grid; grid-template-columns:repeat(3, 1fr); gap:1rem; margin-top:1rem;}
@@ -100,7 +115,9 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-bars{background:var(--card); border:1px solid var(--line); border-radius:4px; padding:.6rem 1.1rem .9rem;}
 .ac-bar{display:grid; grid-template-columns:minmax(150px, 290px) 1fr 92px; gap:.8rem; align-items:center; padding:.42rem 0; border-bottom:1px solid var(--line2);}
 .ac-bar:last-child{border-bottom:none;}
-.ac-bar .n{font-size:.88rem; font-weight:600; color:var(--ink);}
+.ac-bar .n{font-size:.88rem; font-weight:600; color:var(--ink); display:flex; align-items:center; gap:.55rem;}
+.ac-bi{flex:0 0 30px; height:30px; border-radius:50%; display:grid; place-items:center; background:#E3E9F3; color:var(--navy);}
+.ac-bi.hl{background:var(--gold-soft); color:#7A5A00;}
 .ac-bar .t{background:var(--line2); height:12px; border-radius:2px; overflow:hidden;}
 .ac-bar .t i{display:block; height:100%; background:var(--navy);}
 .ac-bar .t i.hl{background:var(--gold);}
@@ -124,6 +141,65 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-node .o{margin-top:.5rem; font-size:.74rem; color:var(--mute); border-top:1px dashed var(--line); padding-top:.4rem;}
 .ac-node.dark .o{color:#BDB8AC; border-top-color:#33415A;}
 .ac-arrow{display:flex; align-items:center; justify-content:center; color:var(--gold); font-size:1.3rem; font-weight:800;}
+
+/* workflow with icons, bullet functions and an output box at the foot of each card */
+.ac-flow2{display:grid; grid-template-columns:repeat(5, minmax(0, 1fr)); gap:2.2rem; margin-top:.6rem; position:relative;}
+.ac-fcard{position:relative; display:flex; flex-direction:column; background:var(--card); border:1px solid var(--line); border-radius:10px;
+  padding:1rem 1rem .9rem; box-shadow:0 3px 12px rgba(11,37,69,.06);}
+.ac-fcard.dark{background:var(--ink-dark); border-color:var(--ink-dark); color:#fff;}
+.ac-fcard:not(:last-child)::after{content:""; position:absolute; right:-1.75rem; top:46px; width:1.3rem; height:1.3rem;
+  background:no-repeat center/contain url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23D4A72C' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12h14M13 6l6 6-6 6'/%3E%3C/svg%3E");}
+.ac-fhead{display:flex; align-items:center; gap:.65rem; margin-bottom:.55rem;}
+.ac-fico{flex:0 0 46px; height:46px; border-radius:12px; display:grid; place-items:center; background:#E3E9F3; color:var(--navy);}
+.ac-fcard.dark .ac-fico{background:rgba(212,167,44,.16); color:var(--gold);}
+.ac-fk{font:800 .64rem var(--sans); letter-spacing:.1em; text-transform:uppercase; color:var(--red);}
+.ac-fcard.dark .ac-fk{color:var(--gold);}
+.ac-ft{font:800 1.08rem/1.15 var(--serif); color:var(--ink);}
+.ac-fcard.dark .ac-ft{color:#fff;}
+.ac-fcard ul{margin:.1rem 0 .8rem 1.05rem; padding:0; font-size:.83rem; line-height:1.45; color:var(--ink2);}
+.ac-fcard.dark ul{color:#D9DDE5;}
+.ac-fcard li{margin:.18rem 0;}
+.ac-fout{margin-top:auto; min-height:4.6rem; background:var(--gold-soft); border:1px solid #E8D79F; border-radius:8px; padding:.5rem .65rem;}
+.ac-fcard.dark .ac-fout{background:rgba(212,167,44,.14); border-color:rgba(212,167,44,.45);}
+.ac-fout .lab{display:flex; align-items:center; gap:.3rem; font:800 .62rem var(--sans); letter-spacing:.1em; text-transform:uppercase; color:#7A5A00;}
+.ac-fcard.dark .ac-fout .lab{color:var(--gold);}
+.ac-fout .val{font-size:.84rem; font-weight:700; color:var(--ink); margin-top:.15rem; line-height:1.35;}
+.ac-fcard.dark .ac-fout .val{color:#fff;}
+
+/* Charter timeline */
+.ac-tl{background:var(--card); border:1px solid var(--line); border-radius:8px; padding:1rem 1.1rem; margin:.4rem 0 .8rem;}
+.ac-tl-row{display:grid; grid-template-columns:200px 1fr; gap:1rem; align-items:center; margin:.35rem 0;}
+.ac-tl-lab b{display:block; font:800 .95rem var(--serif);} .ac-tl-lab span{font-size:.8rem; color:var(--mute);}
+.ac-tl-bar{display:flex; height:34px; border-radius:4px; overflow:hidden;}
+.ac-tl-bar div{display:flex; align-items:center; justify-content:center; color:#fff; font:700 .8rem var(--mono); border-right:2px solid #fff;}
+
+/* agent cards */
+.ac-agrid{display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:1.1rem;}
+.ac-acard{display:flex; flex-direction:column; background:var(--card); border:1px solid var(--line); border-top:5px solid var(--navy);
+  border-radius:10px; padding:1.1rem 1.2rem 1rem; box-shadow:0 3px 12px rgba(11,37,69,.06);}
+.ac-acard.wide{grid-column:1 / -1; border-top-color:var(--gold);}
+.ac-acard.dark{background:var(--ink-dark); border-color:var(--ink-dark); border-top-color:var(--gold); color:#fff;}
+.ac-ahead{display:flex; align-items:center; gap:.8rem; margin-bottom:.6rem;}
+.ac-aico{flex:0 0 54px; height:54px; border-radius:14px; display:grid; place-items:center; background:#E3E9F3; color:var(--navy);}
+.ac-acard.dark .ac-aico{background:rgba(212,167,44,.16); color:var(--gold);}
+.ac-acard.dark .ac-fk{color:var(--gold);}
+.ac-aname{font:800 1.25rem/1.15 var(--serif); color:var(--ink);} .ac-acard.dark .ac-aname{color:#fff;}
+.ac-acols{display:grid; grid-template-columns:1.25fr 1fr; gap:1.2rem;}
+.ac-asub{display:flex; align-items:center; gap:.3rem; font:800 .66rem var(--sans); letter-spacing:.1em; text-transform:uppercase; color:var(--red); margin-bottom:.2rem;}
+.ac-acard.dark .ac-asub{color:var(--gold);}
+.ac-acard ul{margin:.1rem 0 .8rem 1.05rem; padding:0; font-size:.86rem; line-height:1.5; color:var(--ink2);}
+.ac-acard.dark ul{color:#D9DDE5;}
+.ac-acard li{margin:.2rem 0;}
+.ac-acard .ac-fout{min-height:0;}
+.ac-acard.dark .ac-fout{background:rgba(212,167,44,.14); border-color:rgba(212,167,44,.45);}
+.ac-acard.dark .ac-fout .lab{color:var(--gold);} .ac-acard.dark .ac-fout .val{color:#fff;}
+
+/* library tiles */
+.ac-tiles{display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:1.1rem; margin:.4rem 0 1rem;}
+.ac-tile{display:flex; gap:.9rem; align-items:flex-start; padding:.2rem 0 .4rem;}
+.ac-tile p{font-size:.88rem; color:var(--ink2); margin:.25rem 0 0; line-height:1.45;}
+[class*="st-key-tile_"]{background:#fff !important; border-top:5px solid var(--line) !important;}
+[class*="st-key-tile_"][class*="_on"]{border:2px solid var(--navy) !important; border-top:5px solid var(--gold) !important; box-shadow:0 6px 18px rgba(11,37,69,.12);}
 
 /* cards, badges, notices */
 .ac-card{background:var(--card); border:1px solid var(--line); border-radius:6px; padding:1rem 1.15rem;}
@@ -198,7 +274,7 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 [data-testid="stSidebar"]{background:var(--soft); border-right:1px solid var(--line);}
 [data-testid="stExpander"] details{background:#fff; border-radius:4px;}
 
-/* Ask Billy floating companion */
+/* BILLy floating companion */
 .st-key-billy{position:fixed; right:28px; bottom:96px; z-index:9999; width:auto !important;}
 .st-key-billy [data-testid="stPopover"] > div > button, .st-key-billy [data-testid="stPopoverButton"]{
   background:var(--ink-dark) url('app/static/billy.png') 10px center / 46px 46px no-repeat; color:#fff; border:2px solid var(--gold);
@@ -225,6 +301,8 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
   .ac-hero{min-height:0; background-size:cover; background-position:right center;} .ac-hero::before{background:rgba(15,31,59,.86);} .ac-hero h1{font-size:2.3rem !important;}
   .ac-stats{grid-template-columns:1fr;} .ac-hstats{grid-template-columns:1fr;} .ac-foot-grid{grid-template-columns:1fr;}
   .ac-flow{grid-template-columns:1fr;} .ac-arrow{transform:rotate(90deg); height:22px;}
+  .ac-agrid, .ac-acols, .ac-tiles{grid-template-columns:1fr;} .ac-tl-row{grid-template-columns:1fr;}
+  .ac-flow2{grid-template-columns:1fr; gap:1.6rem;} .ac-fcard:not(:last-child)::after{right:auto; left:50%; top:auto; bottom:-1.45rem; transform:translateX(-50%) rotate(90deg);}
   .ac-bar{grid-template-columns:1fr 70px;} .ac-bar .t{grid-column:1 / -1; grid-row:2;}
   .ac-mast-right{display:none;} .ac-progress{flex-wrap:wrap;} .ac-progress div{flex:1 1 30%;}
 }
@@ -240,15 +318,19 @@ def inject():
     html(CSS)
 
 
-def masthead(app, sub):
-    html(f"""<div class="ac-mast"><a class="ac-brand" href="?page=Home" target="_self"><img src="{STATIC}/logo-mark.svg" alt="">
+def masthead(app, sub, reviewer=False):
+    q = "&reviewer=1" if reviewer else ""
+    html(f"""<div class="ac-mast"><a class="ac-brand" href="?page=Overview{q}" target="_self"><img src="{STATIC}/logo-mark.svg" alt="">
 <div><div class="ac-word">Act<span>Check</span></div><div class="ac-sub">{escape(sub)}</div></div></a>
 <div class="ac-mast-right">Philippine legislative review<br>18th–20th Congress</div></div>""")
 
 
-def hero(app, sub, tagline, desc, credit="", stats=None):
+def hero(app, sub, tagline, desc, credit="", stats=None, reviewer=False):
     """stats: (value, label, sub, colour) cards shown inside the banner below the buttons."""
     credit_html = f'<div class="ac-credit">{escape(credit)}</div>' if credit else ""
+    rq = "&reviewer=1" if reviewer else ""
+    checkin = "" if reviewer else '<a class="ac-btn gold" href="?checkin=1" target="_self">Reviewer check-in →</a>'
+
     stats_html = ""
     if stats:
         stats_html = '<div class="ac-hstats">' + "".join(
@@ -260,8 +342,9 @@ def hero(app, sub, tagline, desc, credit="", stats=None):
 <div class="ac-hero-brand"><img src="{STATIC}/logo-mark.svg" alt=""><div><h1>{escape(app)}</h1><div class="ac-hsub">{escape(sub)}</div></div></div>
 <div class="ac-tagline">{t}</div>
 <div class="ac-desc">{escape(desc)}</div>
-<div class="ac-btns"><a class="ac-btn red" href="?page=Bills" target="_self">Browse the bills →</a>
-<a class="ac-btn out" href="?page=How it Works" target="_self">How it works</a></div>
+<div class="ac-btns"><a class="ac-btn red" href="?page=Bills{rq}" target="_self">Browse the bills →</a>
+<a class="ac-btn out" href="?page=How it Works{rq}" target="_self">How it works</a>
+{checkin}</div>
 {credit_html}
 </div>{stats_html}</div>""")
 
@@ -282,7 +365,7 @@ def bars(rows, highlight=None):
     """rows: (label, count, share). Bars are drawn to scale against the largest share."""
     top = max((r[2] for r in rows), default=1) or 1
     cells = "".join(
-        f'<div class="ac-bar"><div class="n">{escape(n)}</div><div class="t"><i class="{"hl" if n == highlight else ""}" '
+        f'<div class="ac-bar"><div class="n"><span class="ac-bi{" hl" if n == highlight else ""}">{svg(n, 18)}</span>{escape(n)}</div><div class="t"><i class="{"hl" if n == highlight else ""}" '
         f'style="width:{100 * s / top:.1f}%"></i></div><div class="p">{s:.1%}<small>{c:,} bills</small></div></div>'
         for n, c, s in rows)
     html(f'<div class="ac-bars">{cells}</div>')
@@ -316,6 +399,17 @@ def flow(nodes):
         parts.append(f'<div class="ac-node {"dark" if dark else ""}"><div class="k">{escape(k)}</div><h4>{escape(t)}</h4>'
                      f'<div class="w">{escape(w)}</div><div class="o">{escape(o)}</div></div>')
     html('<div class="ac-flow">' + "".join(parts) + "</div>")
+
+
+def flow2(nodes):
+    """nodes: (kicker, title, icon, bullets, output, dark). Equal-height cards; the output sits in a highlighted box."""
+    cards = []
+    for k, t, ico, bullets, out, dark in nodes:
+        lis = "".join(f"<li>{escape(b)}</li>" for b in bullets)
+        cards.append(f'<div class="ac-fcard {"dark" if dark else ""}"><div class="ac-fhead"><span class="ac-fico">{svg(ico, 24)}</span>'
+                     f'<div><div class="ac-fk">{escape(k)}</div><div class="ac-ft">{escape(t)}</div></div></div><ul>{lis}</ul>'
+                     f'<div class="ac-fout"><div class="lab">{svg("files", 13, stroke=2.2)} Output</div><div class="val">{escape(out)}</div></div></div>')
+    html('<div class="ac-flow2">' + "".join(cards) + "</div>")
 
 
 def progress(names, states):

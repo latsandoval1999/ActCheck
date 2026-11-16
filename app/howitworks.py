@@ -1,103 +1,171 @@
-"""How it Works page: the agentic workflow and how it fits the DBM-BILLS process in the Citizen's Charter."""
+"""How it Works page: the agentic workflow, how it fits the DBM process in the Citizen's Charter, what each agent
+does with its safeguards, and the safeguards and limits of the prototype."""
+from html import escape
+
 import streamlit as st
 
 import ui
+from icons import svg
 
-CHARTER = ("https://dbm.gov.ph/index.php/central-office/services-for-client-agencies/"
-           "1597-preparation-of-dbm-position-paper-on-legislative-measures-and-proposed-executive-issuances-from-agencies")
 CHARTER_PDF = "https://www.dbm.gov.ph/wp-content/uploads/AboutDBM/%5BFINAL-COPY%5D-Updated-DBM-Charter,-1st-Edition,-CY-2026.pdf"
+
+# DBM Citizen's Charter CY 2026 (1st ed., March 2026), service 26 "Preparation of DBM Position Paper on Proposed
+# Legislative Measures and Executive Issuances from Agencies": multistage, G2G, 20 steps, 39 working days.
+# (stage, Charter steps, tasks, who, Charter days, ActCheck support, illustrative days with ActCheck)
+STAGES = [
+    ("Receive the request", "1", "Receive the letter of request and upload the complete documents to the Document Management System",
+     "BILLS divisions (administrative staff)", 2,
+     "The daily check has usually already found, read and typed the bill, so its text, type and history are ready on arrival.", 1),
+    ("Refer to the bureaus", "2-7", "Prepare the referral memorandum; Chief reviews and endorses; Director reviews and signs; upload for the bureaus",
+     "BILLS analysts, Chief, Director", 1,
+     "TrAIce's evidence brief and the bill's type suggest which bureaus to ask and what to ask them.", 1),
+    ("Bureau comments", "8-9", "Concerned bureaus (e.g. BMB, OPCCB) prepare and submit comments; BILLS receives and records them",
+     "DBM bureaus, services and offices", 15,
+     "Bureaus receive CompAIre's list of substantial differences and AppraisAI's cost range with sources, so they comment on the points that matter.", 10),
+    ("Prepare the position paper", "10-15", "Prepare the DBM position paper from the inputs; Chief and Director review, approve and sign; release the draft to the Legal and Legislative Group",
+     "BILLS analysts, Chief, Director", 15,
+     "The memorandum and letter are pre-filled in DBM format from the approved review; every finding cites a checked section.", 7),
+    ("Legal and Legislative Group review", "16-17", "The Supervising Senior Official reviews, signs and endorses to the Office of the Secretary",
+     "Supervising Senior Official, LL Group", 2,
+     "Citations and the activity trail let reviewers check sources quickly; the review itself stays with them.", 2),
+    ("Office of the Secretary", "18-19", "The Chief of Staff reviews and endorses; the Secretary approves the position paper",
+     "Chief of Staff; Secretary", 3, "No change: approval stays with the Secretary.", 3),
+    ("Release", "20", "Release the DBM position paper to the requesting party", "BILLS divisions", 1,
+     "The letter is drafted from the approved memorandum, ready for release.", 1),
+]
 
 
 def p(text):
     ui.html(f'<div class="ac-out"><p>{text}</p></div>')
 
 
-def render(a1, a2, a3):
+def timeline():
+    total = sum(s[4] for s in STAGES)
+    new = sum(s[6] for s in STAGES)
+    colors = ["#0B2545", "#13315C", "#D4A72C", "#B8322A", "#5B6B85", "#7A869A", "#1E6B47"]
+
+    def bar(key):
+        return "".join(f'<div style="flex:{st_[key]} 0 0; background:{colors[i]}" title="{escape(st_[0])}: {st_[key]} working days">'
+                       f'{st_[key] if st_[key] >= 2 else ""}</div>' for i, st_ in enumerate(STAGES))
+    legend = "".join(f'<span><i style="background:{colors[i]}"></i>{escape(st_[0])}</span>' for i, st_ in enumerate(STAGES))
+    ui.html(f'''<div class="ac-tl">
+<div class="ac-tl-row"><div class="ac-tl-lab"><b>Charter today</b><span>{total} working days</span></div>
+  <div class="ac-tl-bar" style="width:100%">{bar(4)}</div></div>
+<div class="ac-tl-row"><div class="ac-tl-lab"><b>With ActCheck</b><span>about {new} working days (illustrative)</span></div>
+  <div class="ac-tl-bar" style="width:{100 * new / total:.1f}%">{bar(6)}</div></div>
+<div class="ac-legend" style="margin-top:.6rem">{legend}</div></div>''')
+    return total, new
+
+
+def agent_card(ico, kicker, name, does, guards, output, wide=False, dark=False):
+    li = lambda xs: "".join(f"<li>{x}</li>" for x in xs)  # noqa: E731
+    return (f'<div class="ac-acard{" wide" if wide else ""}{" dark" if dark else ""}"><div class="ac-ahead"><span class="ac-aico">{svg(ico, 28)}</span>'
+            f'<div><div class="ac-fk">{escape(kicker)}</div><div class="ac-aname">{escape(name)}</div></div></div>'
+            f'<div class="ac-acols"><div><div class="ac-asub">What it does</div><ul>{li(does)}</ul></div>'
+            f'<div><div class="ac-asub">{svg("shield", 13, stroke=2.2)} Safeguards</div><ul>{li(guards)}</ul></div></div>'
+            f'<div class="ac-fout"><div class="lab">{svg("files", 13, stroke=2.2)} Output</div><div class="val">{escape(output)}</div></div></div>')
+
+
+def render(a1, a2, a3, workflow):
     ui.section("How it Works", "From a newly filed bill to DBM comments for legislators",
-               "ActCheck is an agentic AI system: a daily check plus three agents that each do one part of a preliminary legislative "
-               "review, with the analyst checking and approving every step. Nothing leaves ActCheck as a DBM position unless the analyst "
-               "writes it.")
+               "ActCheck is an agentic AI system: a daily check plus three agents that each do one part of a preliminary legislative review, "
+               "with the analyst checking and approving every step. Nothing leaves ActCheck as a DBM position unless the analyst writes it.")
+    ui.flow2(workflow)
 
-    ui.flow([("Every morning", "Daily check", "Reads new filings from the House documents server and the Senate bill listing; downloads "
-              "and reads each bill, including scanned ones, and sorts it by type.", "New bills on the Bills page", True),
-             ("Step 1", f"{a1}", "Traces the bill's history in both chambers and the laws it touches.", "Legislative history", False),
-             ("Step 2", f"{a2}", "Spots what changed against the closest related measure.", "Differences and options", False),
-             ("Step 3", f"{a3}", "Estimates cost, notes risks and overlaps, and drafts comments; a second reviewer checks the draft.", "Preliminary review", False),
-             ("The analyst", "Decide and send", "Approves each step, sets the position, finalizes memo and letter.", "DBM memo and letter", True)])
+    ui.section("The current process", "Where ActCheck fits in the DBM Citizen's Charter",
+               f'The DBM Citizen\'s Charter <a href="{CHARTER_PDF}" target="_blank">CY 2026 (1st edition, March 2026)</a> sets out the service '
+               '"Preparation of DBM Position Paper on Proposed Legislative Measures and Executive Issuances from Agencies" as a multistage, '
+               'government-to-government service of 20 steps with a total processing time of <b>39 working days</b>. (The DBM service web page '
+               'shows an earlier total of 32 working days.) ActCheck does not change who decides or signs; it prepares the evidence and drafts '
+               'each stage needs, which could shorten the stages that depend on gathering and writing.')
+    total, new = timeline()
+    rows = []
+    for name, steps, tasks, who, d0, helps, d1 in STAGES:
+        saved = d0 - d1
+        rows.append([f"<b>{escape(name)}</b><br><span style='color:var(--mute);font-size:.78rem'>Steps {steps} · {escape(who)}</span>",
+                     escape(tasks), f"{d0}", escape(helps),
+                     f"<b>{d1}</b>" + (f' <span class="ac-badge green">−{saved}</span>' if saved else "")])
+    rows.append(["<b>Total</b>", "", f"<b>{total}</b>", "", f"<b>{new}</b> <span class='ac-badge green'>−{total - new}</span>"])
+    ui.table(["Stage", "Tasks in the Charter", "Charter (working days)", "How ActCheck helps", "With ActCheck (illustrative)"], rows, mono_cols=(2, 4))
+    ui.note(f"<b>Potential reduction: about {total - new} working days ({(total - new) / total:.0%}).</b> The largest savings are in preparing the "
+            "position paper (drafts pre-filled from an approved, cited review) and in bureau comments (bureaus start from the key differences and a "
+            "sourced cost range instead of the full text). These figures are illustrative targets, not measured results; a time-and-motion pilot "
+            "with BILLS analysts would be needed to confirm them. Review and approval times are left unchanged on purpose.")
+    st.caption("Source: DBM Citizen's Charter CY 2026, 1st edition (March 2026), service 26. Steps 10-15 list no separate time; their 15 days are "
+               "the remainder of the 39-day total.")
 
-    ui.section("The current process", "What the DBM Citizen's Charter sets out",
-               f'The Charter service <a href="{CHARTER}" target="_blank">"Preparation of DBM Position Paper on Legislative Measures and Proposed '
-               'Executive Issuances from Agencies"</a> is classified as <b>complex</b> (government-to-government), available to the House, the '
-               'Senate, the Presidential Legislative Liaison Office and agencies, with a stated total processing time of <b>32 working days</b> '
-               'across 20 steps. ActCheck does not change who decides or signs; it prepares the evidence and drafts the analyst needs at each stage.')
-    ui.table(["Stage in the Charter", "Charter time", "Who", "Where ActCheck helps"], [
-        ["Receive the request and upload the documents", "2 working days", "BILLS divisions",
-         "The daily check has usually already found and read the bill, so its history and text are ready before the request arrives."],
-        ["Prepare and sign the referral memorandum to the concerned bureaus", "1 working day (Director review)", "BILLS analysts, Chief, Director",
-         f"{a1}'s evidence brief and the bill's type (e.g. new agency, tax, local) suggest which bureaus to refer to and what to ask them."],
-        ["Bureaus prepare and submit comments", "15 working days", "Concerned DBM bureaus (e.g. BMB, OPCCB)",
-         f"Bureaus can be sent {a2}'s list of substantial differences and {a3}'s cost range with its assumptions, so they comment on the "
-         "points that matter instead of starting from the full text."],
-        ["Prepare the DBM position paper", "within the 32 days", "BILLS analysts",
-         "The memorandum is pre-filled in DBM layout from the approved review and comments; the analyst completes offices, dates and position."],
-        ["Review and sign through the chain (Chief, Director, Supervising Senior Official, Chief of Staff, Secretary)", "2 + 2 working days for the senior reviews", "BILLS and OSEC",
-         "Every finding points to a section of the bill whose quote was checked against the original, and the activity trail shows who approved each step."],
-        ["Release the position paper", "1 working day", "BILLS divisions", "The letter to the committee chair or principal author is drafted from the approved memo."],
-    ])
-    st.caption("Source: DBM Citizen's Charter service page (step times as listed; some steps run in parallel). See also the "
-               "Updated DBM Citizen's Charter, 1st Edition, CY 2026.")
+    ui.section("The agents", "What each one does, and its safeguards",
+               "Each agent does one part of the review and hands its output to the next. Every finding must point to its source, and every "
+               "step ends with the analyst's checklist.")
+    cards = [
+        agent_card("daily", "Every morning · 9:00 AM", "Daily check",
+                   ["Checks the House documents server for new bill numbers and catches up older bills missing from the list",
+                    "Reads each new bill, including scanned pages (text recognition)",
+                    "Classifies each bill: scope of application (general or public, local application, private or named grantee) and one of "
+                    "18 content categories, from rules on its title",
+                    "Flags bills that Article VI, Section 24 of the Constitution requires to originate in the House, and bills related to the "
+                    "44 LEDAC Common Legislative Agenda measures of the 20th Congress",
+                    "Checks every data source and records the result in the Run log"],
+                   ["Follows each website's rules for automated visitors and never bypasses access protections",
+                    "A failed source is reported as 'source unavailable', never as 'no new bills'",
+                    "Types are a first pass: about 5% stay 'Other or unclassified' and the analyst confirms the type",
+                    "Senate content is not used to train AI models"],
+                   "New bills on the Bills page, typed and flagged", dark=True),
+        agent_card("trace", f"Step 1 · Evidence and Research", f"{a1} · Trace the bill",
+                   ["Finds, without AI, the bills whose wording is most similar and the laws the bill cites",
+                    "Labels each relationship: earlier version, counterpart in the other chamber, refiled near-copy, competing design, precedent",
+                    "Lists the existing laws the bill amends or overlaps, drawing on the Philippine Legal Documents Library",
+                    "Lists the gaps it could not close"],
+                   ["Each link must quote a section; ActCheck checks every quote against the source text",
+                    "A bill not in the corpus is reported as not found, never guessed",
+                    "Instructions written inside a bill's text are ignored"],
+                   "Legislative history with checked citations"),
+        agent_card("compare", "Step 2 · Diagnosis and Design", f"{a2} · Spot the changes",
+                   ["Compares the bill with its closest related measure, section by section",
+                    "States the problem the bill says it addresses",
+                    "Lists substantial differences (mandate, structure, salary grades, funding, duration) and their likely cost effect",
+                    "Shows design options seen across related bills"],
+                   ["Both versions are quoted for every difference",
+                    "ActCheck's own section matching is shown beside the agent's, so disagreements are visible",
+                    "Options must be genuinely different; a check flags near-duplicates"],
+                   "Substantial differences and design options"),
+        agent_card("appraise", "Step 3 · Appraisal and Governance", f"{a3} · Weigh the impact",
+                   ["Estimates a first-year cost range with a fixed calculator: 2026 salary schedule (NBC No. 601) and benefits, and the running "
+                    "cost per position of similar agencies in the FY 2026 budget (GAA, DBM Staffing Summary); COA audits as a cross-check",
+                    "Adds policy context: LEDAC priority status, the 2027 Budget Priorities Framework area and its call to remove redundant "
+                    "programs",
+                    "Drafts the summary, risks, overlaps, checklist and preliminary comments",
+                    "After approval, drafts the memorandum for the Secretary and the letter to Congress in DBM format"],
+                   ["The AI does no arithmetic; any peso figure not from the calculator or the bill is flagged",
+                    "A second AI reviewer (red-teamer) checks the draft for errors, unsupported claims and overstated status",
+                    "Drafts never contain a DBM position, officials' names or signatures; the letter unlocks only after the analyst sets the position",
+                    "Policy context informs; it is never a reason to support or oppose"],
+                   "Preliminary review, comments, memo and letter drafts", wide=True),
+        agent_card("billy", "Companion", "BILLy · Ask about the bill or the site",
+                   ["With a bill open in the workspace, answers questions about that bill from its sections, the cost estimate and the agents' findings",
+                    "With no bill open, answers questions about ActCheck: the agents, data sources, Library, Run log, safeguards"],
+                   ["Every citation in an AI answer is checked", "Without an AI key, it only quotes matching passages, nothing invented"],
+                   "Answers with section references"),
+        agent_card("analyst", "The analyst", "Human checkpoints",
+                   ["Each step ends with a checklist, with notes and file attachments; the next step stays locked until every item is ticked",
+                    "Approves the review, edits the comments, sets the position, finalizes the memo and letter",
+                    "Reports problems with any output from the step itself"],
+                   ["Every action is recorded in the activity trail", "Problem reports are kept with the bill and in the Run log"],
+                   "Decisions the analyst owns", dark=True),
+    ]
+    ui.html('<div class="ac-agrid">' + "".join(cards) + "</div>")
 
-    ui.section("The agents", "What each one does, and its safeguards")
-    tabs = st.tabs([f"Daily check", f"1 · {a1}", f"2 · {a2}", f"3 · {a3}", "BILLy", "Human checkpoints"])
-    with tabs[0]:
-        p("<b>What it does.</b> Every day at 06:17 Manila time a scheduled job checks the House documents server for the next bill numbers and "
-          "reads the Senate's public bill listing. New bills are downloaded and read (scanned pages are converted to text), sorted by type and "
-          "scope, and listed on the Bills page. The full bill list is also refreshed from Open Congress Data.")
-        p("<b>Safeguards.</b> It follows each website's rules for automated visitors, waits between requests and never bypasses access "
-          "protections. A failed check is "
-          "reported as 'source unavailable', never as 'no new bills'. Senate content is not used to train AI models.")
-    with tabs[1]:
-        p(f"<b>Purpose: trace the bill.</b> {a1} (the Evidence and Research Agent) builds the bill's legislative history: earlier versions in the "
-          "18th and 19th Congress, its counterpart in the other chamber, refiled or consolidated copies, and the existing laws it amends or "
-          "overlaps with.")
-        p("<b>How.</b> ActCheck first finds the bills whose wording is most similar and the laws the bill cites or resembles, without using AI. "
-          f"{a1} then reads the candidates and labels each relationship (earlier version, counterpart, near-copy, competing, precedent).")
-        p("<b>Output and safeguards.</b> Each link must cite a section and quote it; ActCheck checks every quote against the source text and marks "
-          "any it cannot find. Gaps the agent could not close are listed rather than guessed.")
-    with tabs[2]:
-        p(f"<b>Purpose: spot the changes.</b> {a2} (the Policy Diagnosis and Design Agent) compares the bill with the closest related measure "
-          "(usually the counterpart or earlier version) section by section.")
-        p("<b>Output.</b> The problem the bill says it addresses; a list of substantial differences (mandate, structure, positions and salary "
-          "grades, funding, duration) with their likely cost effect; design options seen across related bills; and corrections to the "
-          "section matching that ActCheck does on its own.")
-        p("<b>Safeguards.</b> Both versions are quoted for every difference; the non-AI alignment is shown beside the agent's so the analyst "
-          "can see where they disagree.")
-    with tabs[3]:
-        p(f"<b>Purpose: weigh the impact.</b> {a3} (the Policy Appraisal and Governance Agent) drafts the preliminary review: summary, history, "
-          "differences, overlaps with existing agencies, fiscal implications, risks, a verification checklist and preliminary comments.")
-        p("<b>Cost estimate.</b> The AI does not calculate costs. A fixed calculator in ActCheck estimates a first-year range two ways: "
-          "staff costs from the 2026 salary schedule (NBC No. 601) and mandatory benefits, plus running costs at the share seen in similar "
-          "agencies; and the running cost per authorized position of similar agencies in the FY 2026 budget (GAA and DBM Staffing Summary). "
-          "COA audit reports serve as a cross-check, and the 2027 inflation assumption is noted. The agent may only quote these figures "
-          "and the amounts stated in the bill. Any other peso figure is flagged.")
-        p("<b>Second reviewer.</b> A separate AI reviewer reads the draft for factual slips, unsupported claims and overstated status, and "
-          "recommends whether it is ready for the analyst.")
-        p("<b>Memo and letter.</b> After approval, the memorandum for the Secretary and the letter to the committee chair or principal author "
-          "are drafted in DBM layout. They never include officials' names, signatures, approval boxes or a position: the analyst sets the "
-          "position, and the letter unlocks only then.")
-    with tabs[4]:
-        p("<b>BILLy, the review companion.</b> The floating 'Ask Billy' button opens a chat about the bill that is open. With an AI key, BILLy "
-          "answers only from the material on that bill (its sections, the cost estimate and the agents' saved findings), and every citation "
-          "is checked. Without a key, BILLy quotes the parts of the bill that best match the question.")
-    with tabs[5]:
-        p("<b>The analyst stays in charge.</b> Each step ends with a checklist (with space for notes and attached files). The next step stays "
-          "locked until every item is ticked. Step 3 ends with the analyst's approval of the review; the memo is drafted only from an approved "
-          "review, and the letter only after the analyst sets the position. Every action is recorded in the activity trail.")
-
-    ui.section("Responsible AI", "How ActCheck follows the government's AI principles",
-               'DICT-CSC Joint Memorandum Circular No. 003, s. 2026 sets the principles for the ethical and responsible development, '
-               'deployment and use of AI in government; NPC Advisory No. 2024-04 applies the Data Privacy Act to AI systems. The table shows '
-               'how the prototype meets each principle and what an agency would still need to do before real use.')
+    ui.section("Safeguards and Limits", "What ActCheck does to stay trustworthy, and what to keep in mind",
+               "ActCheck is a prototype for coursework. It is tested first on bills that create a national government agency; other types can "
+               "be reviewed, but the cost estimate applies only to new agencies. Bill types come from title rules and are approximate. House "
+               "bills filed before the daily check began are listed from Open Congress Data, which has gaps that the daily catch-up is filling. "
+               "The Senate listing blocks automated checks from GitHub, so it is refreshed separately. Reviews saved on the hosted portal reset "
+               "when it restarts, so download reports, memos and letters. Every output is labelled an AI-assisted preliminary draft for DBM "
+               "reviewer validation, not an official position.")
+    ui.html("<p style='margin:.9rem 0 .2rem'><b>Responsible AI: how ActCheck follows the government's AI principles</b></p>")
+    p("DICT-CSC Joint Memorandum Circular No. 003, s. 2026 sets the principles for the ethical and responsible development, deployment and use "
+      "of AI in government; NPC Advisory No. 2024-04 applies the Data Privacy Act to AI systems. The table shows how the prototype meets each "
+      "principle and what an agency would still need to do before real use.")
     ui.table(["Principle (JMC 003, Sec. 5-10)", "How ActCheck meets it", "Still needed before agency use"], [
         ["Proportionality and do no harm", "Used only for preliminary review within DBM-BILLS' existing mandate; agents never set a position or sign.",
          "A risk assessment by the deploying office."],
@@ -107,7 +175,7 @@ def render(a1, a2, a3):
          "A bias check across bill types and chambers (coverage gaps in House listings, title-based types)."],
         ["Transparency and explainability", "Each finding quotes its source and the quote is checked; rule-based results are labelled 'Before any AI is used'; this page explains inputs, limits and outputs.",
          "Publish the disclosure in the agency's own AI policy."],
-        ["Data governance, privacy and protection", "Only public documents (bills, laws, budget and audit reports); internal DBM position papers are excluded; the only personal data are legislators' names as published.",
+        ["Data governance, privacy and protection", "Only public documents (bills, laws, budget and audit reports); the only personal data are legislators' names as published.",
          "Privacy impact assessment; classify data under Sec. 9 before adding internal files."],
         ["Responsibility and accountability", "Every output is labelled an AI-assisted preliminary draft; the analyst who approves is accountable; runs and approvals are logged.",
          "Name the accountable unit; the internal AI committee (IT and Legal) under Sec. 8 reviews use."],
@@ -122,24 +190,4 @@ def render(a1, a2, a3):
         ["Sustainability", "Rule-based steps run first and cost nothing; a smaller AI model can be chosen; results are reused, not regenerated.",
          "Track usage and cost per review."],
     ])
-    st.caption("Sources: DICT-CSC JMC No. 003, s. 2026 (Principles for the Ethical and Responsible Development, Deployment and Use of AI in the "
-               "Government); NPC Advisory No. 2024-04; RA 10173 (Data Privacy Act of 2012).")
-
-    ui.section("Policy context", "What ActCheck checks a bill against",
-               "Besides bills and laws, the Library holds short excerpts of public policy documents that AppraisAI may cite: the 44 Common "
-               "Legislative Agenda measures of the 20th Congress (LEDAC, 30 September 2025), the DBM 2027 Budget Priorities Framework "
-               "(priority areas, the call to rationalize programs and remove redundancies, fiscal targets) and the PSA inflation report for "
-               "October 2026. Bills related by title to a LEDAC measure are flagged on the Bills page. The cost estimate uses the FY 2026 "
-               "General Appropriations Act and the DBM Staffing Summary FY 2026 for comparator agencies, with COA audit reports as a cross-check.")
-
-    ui.section("Bill types", "How ActCheck classifies bills",
-               "Each bill gets a scope of application (general or public, local application, or private or named grantee) and one primary "
-               "content category (18 categories, from appropriations and taxation to commemorations and emergency response). Classification "
-               "uses rules on the bill's title, so it is a first pass for browsing and charts; the analyst confirms the type during review. "
-               "Bills that Article VI, Section 24 of the 1987 Constitution requires to originate in the House are flagged.")
-
-    ui.section("Limits", "What to keep in mind")
-    p("ActCheck is a prototype for coursework. The agents are tested first on bills that create a national government agency; other types can "
-      "be reviewed, but the cost estimate applies only to new agencies. House bills filed before the daily check began are listed from Open "
-      "Congress Data, which has gaps. Reviews saved on the hosted portal reset when it restarts, so download reports, memos and letters. "
-      "Every output is labelled as an AI-assisted preliminary draft for DBM reviewer validation, not an official position.")
+    st.caption("Sources: DICT-CSC JMC No. 003, s. 2026; NPC Advisory No. 2024-04; RA 10173 (Data Privacy Act of 2012).")

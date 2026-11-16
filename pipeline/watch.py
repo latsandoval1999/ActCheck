@@ -12,7 +12,8 @@ How it finds new bills (politely, without bypassing any site protection):
     (/legacy/lis_bills/...). A failure is reported as "source unavailable", never as "no new bills".
 
 Each run:
-  1. House: probes up to --max-probe numbers; stops after --stop-after consecutive misses;
+  1. House: probes up to --max-probe numbers; stops after --stop-after consecutive misses (the House leaves
+     runs of unpublished numbers, e.g. HB 11667-11675, so this must be generous);
      missing numbers are re-checked on later runs for --pending-days days (PDFs are often late)
   2. Senate: syncs the listing, adds new bills, downloads up to --max-pdfs bill texts per run
      (pilot-scope bills first; the rest are fetched on later runs)
@@ -415,7 +416,7 @@ def run_backfill(state, inbox, known, report, max_n, delay, dry_run):
     report["backfill"]["added"] = found
 
 
-def run(max_probe=60, stop_after=8, pending_days=21, delay=4.0, dry_run=False, chambers=("HB", "SB"), max_pdfs=25, backfill=150):
+def run(max_probe=200, stop_after=40, pending_days=21, delay=4.0, dry_run=False, chambers=("HB", "SB"), max_pdfs=25, backfill=150):
     WATCH.mkdir(parents=True, exist_ok=True)
     state = load_json(STATE, None) or initial_state()
     inbox = load_json(INBOX, [])
@@ -474,9 +475,9 @@ def triage():
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--max-probe", type=int, default=60)
+    ap.add_argument("--max-probe", type=int, default=200)
     ap.add_argument("--max-pdfs", type=int, default=25, help="Senate bill texts to download per run")
-    ap.add_argument("--stop-after", type=int, default=8)
+    ap.add_argument("--stop-after", type=int, default=40)
     ap.add_argument("--backfill", type=int, default=150, help="missing older House numbers to catch up per run (0 to skip)")
     ap.add_argument("--delay", type=float, default=4.0)
     ap.add_argument("--dry-run", action="store_true")
