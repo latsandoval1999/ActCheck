@@ -53,15 +53,15 @@ WORKFLOW = [
      ["Checks the House documents server for new bill numbers", "Catches up older House bills missing from the list",
       "Reads each bill, including scanned pages", "Sorts bills by type and flags LEDAC priority measures", "Reports any source that fails"],
      "New bills on the Bills page", True),
-    ("Step 1", "TrAIce · Trace the bill", "trace",
+    ("Step 1 · Trace the bill", "TrAIce", "trace",
      ["Finds earlier versions in the 18th and 19th Congress", "Finds the counterpart in the other chamber and refiled copies",
       "Lists the existing laws the bill amends or overlaps", "Quotes a section for every link; each quote is checked"],
      "Legislative history with checked citations", False),
-    ("Step 2", "CompAIre · Spot the changes", "compare",
+    ("Step 2 · Spot the changes", "CompAIre", "compare",
      ["Compares the bill with its closest related measure, section by section", "States the problem the bill addresses",
       "Lists substantial differences and their likely cost effect", "Shows design options seen in related bills"],
      "Substantial differences and design options", False),
-    ("Step 3", "AppraisAI · Weigh the impact", "appraise",
+    ("Step 3 · Weigh the impact", "AppraisAI", "appraise",
      ["Estimates a first-year cost range (fixed calculator, 2026 budget data)", "Notes risks, overlaps and policy context",
       "Drafts preliminary comments and a checklist", "A second AI reviewer checks the draft", "Drafts the memo and letter in DBM format"],
      "Preliminary review, comments, memo and letter drafts", False),
@@ -887,7 +887,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                 ui.html(f"<p style='margin:1rem 0 .2rem'><b>{escape(g)}</b></p>")
                 ui.table(["Title", "Issued by", "Released", "Purpose in ActCheck"],
                          [[f'<a href="{escape(r["Link"])}" target="_blank">{escape(r["Title"])} ↗</a>', escape(r["Issued by"]),
-                           escape(r["Released"]), escape(r["Purpose in ActCheck"])] for r in refs if r["Group"] == g])
+                           escape(r["Released"]), escape(r["Purpose in ActCheck"])] for r in refs if r["Group"] == g], cls="refs")
             st.caption("Titles open the document at its official source, or a copy kept with ActCheck where no stable public link was found. "
                        "Internal DBM papers are not part of this library.")
         else:

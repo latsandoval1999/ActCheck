@@ -75,7 +75,8 @@ def search(question, k=2):
     m = vec.fit_transform(docs + [question])
     sc = (m[:-1] @ m[-1].T).toarray().ravel()
     best = sorted(range(len(GUIDE)), key=lambda i: -sc[i])[:k]
-    return [GUIDE[i] for i in best if sc[i] > 0]
+    top = sc[best[0]] if best else 0
+    return [GUIDE[i] for i in best if sc[i] > 0 and sc[i] >= 0.6 * top]
 
 
 def suggestions():

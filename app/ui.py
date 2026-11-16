@@ -143,18 +143,18 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-arrow{display:flex; align-items:center; justify-content:center; color:var(--gold); font-size:1.3rem; font-weight:800;}
 
 /* workflow with icons, bullet functions and an output box at the foot of each card */
-.ac-flow2{display:grid; grid-template-columns:repeat(5, minmax(0, 1fr)); gap:2.2rem; margin-top:.6rem; position:relative;}
+.ac-flow2{display:grid; grid-template-columns:repeat(5, minmax(0, 1fr)); gap:1.7rem; margin-top:.6rem; position:relative;}
 .ac-fcard{position:relative; display:flex; flex-direction:column; background:var(--card); border:1px solid var(--line); border-radius:10px;
   padding:1rem 1rem .9rem; box-shadow:0 3px 12px rgba(11,37,69,.06);}
 .ac-fcard.dark{background:var(--ink-dark); border-color:var(--ink-dark); color:#fff;}
-.ac-fcard:not(:last-child)::after{content:""; position:absolute; right:-1.75rem; top:46px; width:1.3rem; height:1.3rem;
+.ac-fcard:not(:last-child)::after{content:""; position:absolute; right:-1.5rem; top:30px; width:1.3rem; height:1.3rem;
   background:no-repeat center/contain url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23D4A72C' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12h14M13 6l6 6-6 6'/%3E%3C/svg%3E");}
-.ac-fhead{display:flex; align-items:center; gap:.65rem; margin-bottom:.55rem;}
+.ac-fhead{display:flex; flex-direction:column; align-items:flex-start; gap:.45rem; margin-bottom:.55rem;}
 .ac-fico{flex:0 0 46px; height:46px; border-radius:12px; display:grid; place-items:center; background:#E3E9F3; color:var(--navy);}
 .ac-fcard.dark .ac-fico{background:rgba(212,167,44,.16); color:var(--gold);}
 .ac-fk{font:800 .64rem var(--sans); letter-spacing:.1em; text-transform:uppercase; color:var(--red);}
 .ac-fcard.dark .ac-fk{color:var(--gold);}
-.ac-ft{font:800 1.08rem/1.15 var(--serif); color:var(--ink);}
+.ac-ft{font:800 1.12rem/1.15 var(--serif); color:var(--ink); margin-top:.1rem;}
 .ac-fcard.dark .ac-ft{color:#fff;}
 .ac-fcard ul{margin:.1rem 0 .8rem 1.05rem; padding:0; font-size:.83rem; line-height:1.45; color:var(--ink2);}
 .ac-fcard.dark ul{color:#D9DDE5;}
@@ -195,6 +195,9 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-acard.dark .ac-fout .lab{color:var(--gold);} .ac-acard.dark .ac-fout .val{color:#fff;}
 
 /* library tiles */
+.ac-tbl.refs{table-layout:fixed;} .ac-tbl.refs th:nth-child(1){width:40%;} .ac-tbl.refs th:nth-child(2){width:20%;}
+.ac-tbl.refs th:nth-child(3){width:12%;} .ac-tbl.refs th:nth-child(4){width:28%;}
+.ac-tbl.refs a{color:var(--navy); font-weight:600;}
 .ac-tiles{display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:1.1rem; margin:.4rem 0 1rem;}
 .ac-tile{display:flex; gap:.9rem; align-items:flex-start; padding:.2rem 0 .4rem;}
 .ac-tile p{font-size:.88rem; color:var(--ink2); margin:.25rem 0 0; line-height:1.45;}
@@ -426,10 +429,10 @@ def step_header(n, title, sub, state):
          f'<span>· {escape(sub)}</span></span><span class="ac-badge {chip[1]}">{chip[0]}</span></div>')
 
 
-def table(headers, rows, mono_cols=()):
+def table(headers, rows, mono_cols=(), cls=""):
     head = "".join(f"<th>{escape(h)}</th>" for h in headers)
     body = "".join("<tr>" + "".join(f'<td class="{"m" if j in mono_cols else ""}">{c}</td>' for j, c in enumerate(r)) + "</tr>" for r in rows)
-    html(f'<table class="ac-tbl"><thead><tr>{head}</tr></thead><tbody>{body}</tbody></table>')
+    html(f'<table class="ac-tbl {cls}"><thead><tr>{head}</tr></thead><tbody>{body}</tbody></table>')
 
 
 def footer(app, label):
