@@ -761,8 +761,10 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             congress = f1.selectbox("Congress", ["20th", "19th", "18th", "All"])
             btype = f2.selectbox("Bill type", ["All", "House Bill", "Senate Bill"])
             ttype = f3.selectbox("Type", ["All types"] + typology.CATEGORY_NAMES)
-            statuses = ["All statuses"] + list(cat["status_group"].value_counts().index)
-            status = f4.selectbox("Status", statuses)
+            present = set(cat["status_group"])
+            statuses = ["All stages"] + [x for x in catalogue.STAGES if x in present]
+            status = f4.selectbox("Stage", statuses, help="Statuses from the sources grouped into the stages of the legislative process; "
+                                  "the exact status is shown under each bill and in its details.")
             s1, s2, s3, s4 = st.columns([2.4, 1.1, 0.9, 0.9])
             q = s1.text_input("Search bill number, title or subject", placeholder="e.g. HB 2322, water resources, coast guard")
             applies = s2.selectbox("Applies to", ["All"] + typology.APPLICATION)
@@ -775,7 +777,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             df = df[df["bill_type"] == btype]
         if ttype != "All types":
             df = df[df["type"] == ttype]
-        if status != "All statuses":
+        if status != "All stages":
             df = df[df["status_group"] == status]
         if applies != "All":
             df = df[df["applies_to"] == applies]
@@ -813,7 +815,8 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                               + (" · full text" if r["reviewable"] else "")
                               + (f' · <b style="color:#B3261E">LEDAC priority</b>' if r.get("ledac") else "") + "</div>", unsafe_allow_html=True)
                 c[2].markdown(r["bill_type"])
-                c[3].markdown(f'<span class="ac-badge">{escape(r["status"])}</span>', unsafe_allow_html=True)
+                c[3].markdown(f'<span class="ac-badge">{escape(r["status_group"])}</span>'
+                              f'<div class="ac-filed" style="margin-top:.2rem">{escape(r["status"])}</div>', unsafe_allow_html=True)
                 if r["source_url"]:
                     c[4].markdown(f'<div class="ac-view"><a href="{escape(r["source_url"])}" target="_blank">PDF ↗</a></div>', unsafe_allow_html=True)
                 if REVIEWER:

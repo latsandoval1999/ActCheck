@@ -105,6 +105,35 @@ def fill_status(bid, congress, status, enacted, full):
     return "Filed; later stages not in source data", "Derived: a filed bill whose later stages are not published in a source ActCheck can read"
 
 
+# Detailed statuses (27 wordings across the House, Senate and Open Congress sources) grouped into the stages of the
+# legislative process, in order. The detailed status stays visible in the bill's details.
+STAGES = ["Filed or on first reading", "In committee", "Consolidated or substituted", "On the floor (second or third reading)",
+          "In the other chamber or bicameral conference", "Sent to the President", "Enacted into law", "Vetoed",
+          "Withdrawn or archived", "Not enacted (Congress ended)"]
+_STAGE_RULES = [
+    ("Enacted into law", r"^enacted as republic act|^approved by the president|^lapsed into law"),
+    ("Vetoed", r"^vetoed"),
+    ("Consolidated or substituted", r"consolidated|substituted"),
+    ("Sent to the President", r"enrolled copy|malaca"),
+    ("Sent to the President", r"passed by both houses"),
+    ("In the other chamber or bicameral conference", r"pending in the (house|senate)|sent back to the|conference|conferees"),
+    ("On the floor (second or third reading)", r"second reading|third reading"),
+    ("In committee", r"in the committee|recommitted"),
+    ("Withdrawn or archived", r"withdrawn|archives"),
+    ("Filed or on first reading", r"first reading|^filed"),
+]
+FINAL = {"Enacted into law", "Vetoed", "Consolidated or substituted", "Withdrawn or archived"}
+
+
+def stage(status, congress):
+    s = (status or "").lower()
+    st_ = next((name for name, rx in _STAGE_RULES if re.search(rx, s)), None)
+    # bills that passed both chambers may still have become law after their Congress ended, so they keep their stage
+    if str(congress) in ("18", "19") and st_ not in FINAL and not re.search(r"passed by both houses|enrolled|malaca", s):
+        return "Not enacted (Congress ended)"
+    return st_ or "Filed or on first reading"
+
+
 @lru_cache(maxsize=1)
 def build(_stamp=None):
     """Return a list of dicts, newest Congress and highest number first."""
@@ -160,7 +189,7 @@ def build(_stamp=None):
             "chamber": CHAMBER.get(b.get("chamber"), b.get("chamber", "")), "congress": str(b.get("congress", "")),
             "number": num, "date_filed": b.get("date_filed", ""), "short_title": b.get("short_title", ""), "title": title,
             "status": status, "status_basis": status_basis,
-            "status_group": "Enacted as a Republic Act" if status.startswith("Enacted as Republic Act") else status, "type": cat, "applies_to": app, "house_origin": typology.house_origin(cat, app),
+            "status_group": stage(status, b.get("congress")), "type": cat, "applies_to": app, "house_origin": typology.house_origin(cat, app),
             "bill_type": "House Bill" if b.get("chamber") == "HB" else "Senate Bill", "committee": b.get("committee", ""), "author": b.get("author", ""),
             "scope": SCOPE.get(screen(title), "Other legislation"), "text": text, "found": b.get("found", ""),
             "source": b.get("source", "Corpus"), "source_url": b.get("source_url", ""), "reviewable": bool(b.get("in_corpus")),
