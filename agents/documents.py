@@ -255,8 +255,11 @@ def memo_docx(fields):
         cells[0].text, cells[1].text = lab, ":"
         r = cells[2].paragraphs[0]
         _run(r, fields.get(k, ""), bold=(k == "subject"))
-    for row in t.rows:
-        row.cells[0].width, row.cells[1].width, row.cells[2].width = Cm(2.4), Cm(0.6), Cm(13)
+    t.autofit = False
+    for i, w in enumerate((Cm(2.4), Cm(0.6), Cm(13))):
+        t.columns[i].width = w
+        for cell in t.columns[i].cells:
+            cell.width = w
     _rule(doc)
     heads = [("s1", "1.0", None), ("s1_1", "1.1", None), ("s2", "2.0", "Salient Features"), ("s3_1", "3.0", "Comments"),
              ("s3_2", None, None), ("s3_3", None, None), ("s4", "4.0", "Recommendation"), ("s5", "5.0", None), ("s6", "6.0", None)]
