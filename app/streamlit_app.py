@@ -292,6 +292,45 @@ def report_dialog(row):
     st.caption("This is a student prototype, not an official channel of the House, the Senate or the DBM.")
 
 
+def report_body(x, key):
+    """One public report, as a reviewer sees it: category, date, sender, message, contact details and files."""
+    who = x.get("name") or "Sender did not give a name"
+    st.markdown(f"**{escape(x.get('category', ''))}**")
+    st.caption(f"Received {str(x.get('time', ''))[:16].replace('T', ' ')} UTC · {escape(who)}"
+               + (" · kept in the Google Sheet" if x.get("_store") == "sheet" else " · kept on this server"))
+    st.write(x.get("message", ""))
+    if x.get("email") or x.get("phone"):
+        st.caption("Contact (reviewers only): " + " · ".join(v for v in (x.get("email"), x.get("phone")) if v))
+    for j, (name, where) in enumerate(reports.file_links(x)):
+        if where.startswith("http"):
+            st.link_button(f"📎 {name} (opens in Google Drive)", where)
+        elif Path(where).exists():
+            st.download_button(f"📎 {name}", Path(where).read_bytes(), file_name=name, key=f"rf_{key}_{j}")
+    st.divider()
+
+
+@st.dialog("Public reports", width="large")
+def reports_dialog(items, where):
+    st.markdown(f"#### {escape(where)}")
+    st.caption("Shared from the Bills page by civil society organizations and other members of the public. Treat each report as a lead "
+               "to check against the bill and the sources, not as evidence on its own.")
+    for i, x in enumerate(items):
+        report_body(x, f"dlg{i}")
+
+
+def report_notice(bid, step, where):
+    """Clickable notice in the part of the Review workspace that a public report concerns."""
+    items = [x for x in reports.all_reports(bid) if reports.step_of(x.get("category")) == step]
+    if not items:
+        return
+    n = len(items)
+    cats = sorted({x.get("category", "").split(":")[0] for x in items})
+    with st.container(key=f"repnote_{step}"):
+        if st.button(f"📣 {n} public report{'s' if n > 1 else ''} from a CSO or member of the public concern{'s' if n == 1 else ''} "
+                     f"{where}: {'; '.join(cats)}. Click to read.", key=f"repnote_btn_{step}"):
+            reports_dialog(items, f"{where}: {n} public report{'s' if n > 1 else ''} on {bills[bid]['label']}")
+
+
 @st.dialog("Bill details", width="large")
 def bill_dialog(row):
     st.markdown(f"### {escape(row['label'])} · {row['congress']}th Congress")
@@ -308,13 +347,8 @@ def bill_dialog(row):
         rep = reports.all_reports(row["id"])
         if rep:
             with st.expander(f"Public reports on this bill ({len(rep)})"):
-                for x in rep:
-                    st.markdown(f"**{escape(x['category'])}** · {x['time'][:10]}" + (f" · {escape(x['name'])}" if x.get("name") else ""))
-                    st.write(x["message"])
-                    if x.get("email") or x.get("phone"):
-                        st.caption(" · ".join(v for v in (x.get("email"), x.get("phone")) if v))
-                    if x.get("files"):
-                        st.caption("Files: " + ", ".join(x["files"]))
+                for i, x in enumerate(rep):
+                    report_body(x, f"bd{i}")
     c1, c2 = st.columns(2)
     if REVIEWER:
         if c1.button("Review this bill", type="primary", key=f"dlg_rev_{row['id']}"):
@@ -472,6 +506,7 @@ def case(bid):
         prev = [True, d1, d2, d3, d3][i]
         states.append("done" if d else ("now" if prev else ""))
     ui.progress(STEPS, states)
+    report_notice(bid, 0, "this bill as a whole (corrections and other inputs)")
     st.caption((f"Bill text recognized from a scanned PDF ({b['n_sections']} sections); check quotes against the original."
                 if b["text_source"] == "ocr" else f"Bill text read from the PDF ({b['n_sections']} sections).")
                + ("" if live else " AI agents are off: add a key under Reviewer settings (the › arrow at the top left), or run each step in your Claude chat."))
@@ -482,6 +517,7 @@ def case(bid):
     # Step 1: TrAIce
     with st.container(border=True):
         ui.step_header(1, AGENT1, "Trace the bill", "done" if d1 else "now")
+        report_notice(bid, 1, f"Step 1 ({AGENT1}: legislative history)")
         ui.html('<div class="ac-step-d">Finds earlier versions of the bill in past Congresses, its counterpart and refiled copies in both chambers, '
                 'and the existing laws it amends or overlaps with. Each finding points to a section and quotes it, and ActCheck checks every '
                 'quote against the original text.</div>')
@@ -501,6 +537,7 @@ def case(bid):
     # Step 2: CompAIre
     with st.container(border=True):
         ui.step_header(2, AGENT2, "Spot the changes", "done" if d2 else ("now" if d1 else "lock"))
+        report_notice(bid, 2, f"Step 2 ({AGENT2}: changes and design)")
         ui.html('<div class="ac-step-d">Compares the bill with the most closely related measure, section by section. It describes the problem '
                 'the bill addresses, the main differences between the two versions and their likely effect on cost, and the design choices '
                 'seen across related bills.</div>')
@@ -534,6 +571,7 @@ def case(bid):
     # Step 3: AppraisAI
     with st.container(border=True):
         ui.step_header(3, AGENT3, "Weigh the impact", "done" if d3 else ("now" if d2 else "lock"))
+        report_notice(bid, 3, f"Step 3 ({AGENT3}: cost, overlap, implementation, who is affected)")
         ui.html('<div class="ac-step-d">Prepares the preliminary review: an estimated first-year cost based on the government salary schedule and '
                 'the actual spending of similar agencies, possible implementation risks, overlaps with existing agencies, and draft comments. '
                 'A second AI reviewer then checks the draft for errors.</div>')
@@ -983,12 +1021,13 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             st.caption("No agent runs logged yet in this deployment.")
         rep_all = reports.all_reports()
         ui.section("Public reports", "Inputs shared by civil society and others from the Bills page",
-                   f"{len(rep_all)} report(s) received on this server. " + ("Contact details are shown to reviewers only." if REVIEWER else
+                   f"{len(rep_all)} report(s) received. Stored in: {reports.storage_label()}. " + ("Contact details are shown to reviewers only." if REVIEWER else
                    "Reports and contact details are visible to reviewers only."))
         if REVIEWER and rep_all:
             st.dataframe(pd.DataFrame([{"Received": x["time"][:16].replace("T", " "), "Bill": x["label"], "Category": x["category"],
                                         "Message": x["message"], "Name": x.get("name", ""), "Email": x.get("email", ""),
-                                        "Contact": x.get("phone", ""), "Files": ", ".join(x.get("files", []))} for x in rep_all]),
+                                        "Contact": x.get("phone", ""), "Files": ", ".join(n for n, _ in reports.file_links(x)),
+                                        "Kept in": "Google Sheet" if x.get("_store") == "sheet" else "this server"} for x in rep_all]),
                          use_container_width=True, hide_index=True)
         srcp = ROOT / "data" / "watch" / "sources.json"
         if srcp.exists():

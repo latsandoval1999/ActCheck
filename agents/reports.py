@@ -1,12 +1,23 @@
 """Public reports: civil society and other members of the public can share inputs on a bill from the Bills page.
 
-Kept on the server running ActCheck (data/public_reports/, never committed to the repository), so contact details
-stay out of the public code. Reviewers see them; the public sees only counts. On the hosted prototype the folder
-resets when the app restarts. Handling follows the Data Privacy Act (RA 10173): contact details are optional, used
-only to follow up on the report, and collected with the sender's consent.
+Storage: when the secrets REPORTS_WEBAPP_URL and REPORTS_TOKEN are set (Streamlit secrets or environment), each
+report is saved to a Google Sheet in the project owner's Google Drive through a small Apps Script web app
+(scripts/reports_apps_script.gs), and attachments go to a Drive folder. The app reads the sheet back, so reports
+survive restarts. Without those secrets, or if the sheet cannot be reached, reports are kept on the server running
+ActCheck (data/public_reports/, never committed), which resets when the hosted app restarts.
+
+Contact details stay out of the public code and are shown only to reviewers; the public sees counts only. Handling
+follows the Data Privacy Act (RA 10173): contact details are optional, used only to follow up on the report, and
+collected with the sender's consent.
 """
+import base64
 import json
+import mimetypes
+import os
 import re
+import time
+import urllib.parse
+import urllib.request
 import uuid
 from datetime import datetime, timezone
 from pathlib import Path
@@ -28,29 +39,117 @@ CATEGORIES = [
     "Other",
 ]
 
+# Which part of the Review workspace each category concerns: 1 TrAIce, 2 CompAIre, 3 AppraisAI, 0 the whole page
+STEP_OF = {CATEGORIES[0]: 1, CATEGORIES[1]: 2, CATEGORIES[2]: 3, CATEGORIES[3]: 3, CATEGORIES[4]: 3,
+           CATEGORIES[5]: 3, CATEGORIES[6]: 0, CATEGORIES[7]: 0}
+
+
+def step_of(category):
+    if category in STEP_OF:
+        return STEP_OF[category]
+    c = (category or "").lower()
+    return 1 if "traice" in c else 2 if "compaire" in c else 3 if "appraisai" in c else 0
+
 
 def valid_email(e):
     return not e or bool(re.match(r"^[^@\s]+@[^@\s]+\.[^@\s]+$", e))
 
 
+# ---------------------------------------------------------------- Google Sheet (Apps Script web app)
+def _secret(name):
+    v = os.environ.get(name, "")
+    if not v:
+        try:
+            import streamlit as st
+            v = st.secrets.get(name, "")
+        except Exception:
+            v = ""
+    return str(v or "").strip()
+
+
+def remote_on():
+    return bool(_secret("REPORTS_WEBAPP_URL") and _secret("REPORTS_TOKEN"))
+
+
+def storage_label():
+    return "Google Sheet in the project owner's Google Drive" if remote_on() else \
+        "this server only (resets when the app restarts; connect the Google Sheet to keep reports)"
+
+
+_CACHE = {"t": 0.0, "rows": None}
+TTL = 60
+
+
+def _post(payload, timeout=60):
+    data = json.dumps(payload).encode()
+    req = urllib.request.Request(_secret("REPORTS_WEBAPP_URL"), data=data,
+                                 headers={"Content-Type": "application/json"}, method="POST")
+    # Apps Script answers with a redirect to the result; urllib follows it with a GET
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.loads(r.read().decode())
+
+
+def _get(timeout=20):
+    url = _secret("REPORTS_WEBAPP_URL") + "?" + urllib.parse.urlencode({"token": _secret("REPORTS_TOKEN")})
+    with urllib.request.urlopen(url, timeout=timeout) as r:
+        return json.loads(r.read().decode())
+
+
+def _remote_rows(force=False):
+    if not remote_on():
+        return []
+    if not force and _CACHE["rows"] is not None and time.time() - _CACHE["t"] < TTL:
+        return _CACHE["rows"]
+    try:
+        res = _get()
+        rows = res.get("reports", []) if res.get("ok") else []
+    except Exception:
+        rows = _CACHE["rows"] or []
+    out = []
+    for r in rows:
+        try:
+            r["files"] = json.loads(r.get("files") or "[]")
+        except Exception:
+            r["files"] = []
+        r["_store"] = "sheet"
+        out.append(r)
+    _CACHE.update(t=time.time(), rows=out)
+    return out
+
+
+# ---------------------------------------------------------------- save and list
 def save(bill_id, bill_label, title, category, message, name="", email="", phone="", files=()):
-    DIR.mkdir(parents=True, exist_ok=True)
     rid = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S") + "-" + uuid.uuid4().hex[:6]
+    rec = {"id": rid, "time": datetime.now(timezone.utc).isoformat(timespec="seconds"), "bill": bill_id,
+           "label": bill_label, "title": title, "category": category, "message": message.strip(),
+           "name": name.strip(), "email": email.strip(), "phone": phone.strip(), "status": "new"}
+    files = list(files or [])
+    if remote_on():
+        try:
+            payload = {"token": _secret("REPORTS_TOKEN"), "report": rec, "files": [
+                {"name": re.sub(r"[^A-Za-z0-9._ -]", "_", f.name)[-80:],
+                 "type": getattr(f, "type", None) or mimetypes.guess_type(f.name)[0] or "application/octet-stream",
+                 "data": base64.b64encode(f.getvalue()).decode()} for f in files]}
+            res = _post(payload)
+            if res.get("ok"):
+                _CACHE["rows"] = None          # read the sheet again on the next look
+                return dict(rec, files=res.get("files", []), _store="sheet")
+        except Exception:
+            pass                               # fall back to the server copy below
+    DIR.mkdir(parents=True, exist_ok=True)
     folder = DIR / rid
     folder.mkdir()
     saved = []
-    for f in files or []:
+    for f in files:
         safe = re.sub(r"[^A-Za-z0-9._-]", "_", f.name)[-80:]
         (folder / safe).write_bytes(f.getvalue())
         saved.append(safe)
-    rec = {"id": rid, "time": datetime.now(timezone.utc).isoformat(timespec="seconds"), "bill": bill_id, "label": bill_label,
-           "title": title, "category": category, "message": message.strip(), "name": name.strip(), "email": email.strip(),
-           "phone": phone.strip(), "files": saved}
+    rec["files"] = saved
     (folder / "report.json").write_text(json.dumps(rec, ensure_ascii=False, indent=1))
-    return rec
+    return dict(rec, _store="server")
 
 
-def all_reports(bill_id=None):
+def _local(bill_id=None):
     out = []
     for p in sorted(DIR.glob("*/report.json"), reverse=True) if DIR.exists() else []:
         try:
@@ -59,5 +158,25 @@ def all_reports(bill_id=None):
             continue
         if bill_id is None or r.get("bill") == bill_id:
             r["_dir"] = str(p.parent)
+            r["_store"] = "server"
             out.append(r)
+    return out
+
+
+def all_reports(bill_id=None, force=False):
+    """Newest first. Sheet records and any server-only copies, without duplicates."""
+    remote = [r for r in _remote_rows(force) if bill_id is None or r.get("bill") == bill_id]
+    seen = {r.get("id") for r in remote}
+    rows = remote + [r for r in _local(bill_id) if r.get("id") not in seen]
+    return sorted(rows, key=lambda r: str(r.get("time", "")), reverse=True)
+
+
+def file_links(r):
+    """[(name, url or local path)] for a report's attachments."""
+    out = []
+    for f in r.get("files") or []:
+        if isinstance(f, dict):
+            out.append((f.get("name", "file"), f.get("url", "")))
+        elif r.get("_dir"):
+            out.append((f, str(Path(r["_dir"]) / f)))
     return out

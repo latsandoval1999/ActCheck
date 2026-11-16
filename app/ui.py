@@ -232,6 +232,12 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-notice{background:var(--soft); border:1px solid var(--line); border-left:4px solid var(--gold); border-radius:4px; padding:.65rem .95rem; margin:.5rem 0 .8rem; font-size:.92rem;}
 .ac-notice.red{border-left-color:var(--red);} .ac-notice.navy{border-left-color:var(--navy);}
 .ac-notice b{color:var(--ink);}
+/* clickable notice of public reports in the Review workspace */
+div[class*="st-key-repnote_"] button{width:100%; justify-content:flex-start; text-align:left; background:#FFF7E0 !important;
+  border:1px solid #E9C46A !important; border-left:5px solid #C8102E !important; border-radius:4px; color:var(--ink) !important;
+  padding:.55rem .9rem; margin:.15rem 0 .55rem;}
+div[class*="st-key-repnote_"] button:hover{background:#FFEFC2 !important; border-color:#C8102E !important;}
+div[class*="st-key-repnote_"] button p{font-size:.92rem; text-align:left;}
 .ac-billtitle{font:600 1.04rem/1.45 var(--sans); color:var(--ink); margin:.1rem 0 .4rem; text-align:justify;}
 .ac-crumb{font-size:.82rem; color:var(--mute); margin:1rem 0 .1rem;}
 
