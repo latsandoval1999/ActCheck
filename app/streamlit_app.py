@@ -330,7 +330,8 @@ def case(bid):
         if pctx["bpf_2027_priority_areas"]:
             bits.append("Falls under the 2027 budget priority area(s): " + ", ".join(escape(a["area"]) for a in pctx["bpf_2027_priority_areas"]) + ".")
         ui.notice("<b>Policy context.</b> " + " ".join(bits) + " The 2027 Budget Priorities Framework also calls for rationalizing programs "
-                  "to remove redundancies. Sources: LEDAC agenda (30 Sept 2025) and DBM 2027 BPF briefers, in the Library.", "navy")
+                  "to remove redundancies. Sources in the Library: " + ("LEDAC agenda (30 Sept 2025) and " if pctx["ledac"] else "")
+                  + "DBM 2027 Budget Priorities Framework briefers.", "navy")
     research_out = (rec.get("research") or {}).get("output")
     rev = (rec.get("review") or {}).get("output")
 
