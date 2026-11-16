@@ -226,6 +226,7 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 /* cards, badges, notices */
 .ac-card{background:var(--card); border:1px solid var(--line); border-radius:6px; padding:1rem 1.15rem;}
 .ac-badges{display:flex; gap:.35rem; flex-wrap:wrap; margin:.2rem 0 .45rem;}
+.st-key-billgrid .ac-badge{white-space:normal; line-height:1.25;}
 .ac-badge{display:inline-block; padding:.12rem .55rem; border-radius:3px; font-size:.74rem; font-weight:700; background:#ECE8DE; color:var(--ink2);}
 .ac-badge.navy{background:#E3E9F3; color:var(--navy);} .ac-badge.gold{background:var(--gold-soft); color:#7A5A00;}
 .ac-badge.red{background:var(--red-soft); color:var(--red);} .ac-badge.green{background:var(--green-soft); color:var(--green);}

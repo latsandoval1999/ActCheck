@@ -92,6 +92,40 @@ def senate_name(a):
     return f"{first} {last.title()}"
 
 
+_ROMAN = {"Ii": "II", "Iii": "III", "Iv": "IV", "Jv": "JV"}
+
+
+def clean_author(a):
+    """Tidy a principal author's name read from a listing or a PDF stamp: drop district notes, dates and OCR noise."""
+    a = " ".join((a or "").replace("\u201c", '"').replace("\u201d", '"').split())
+    a = re.sub(r"^(hon\.?|rep\.?|representative|sen\.?|senator|congressman|congresswoman)\s+", "", a, flags=re.I)
+    a = re.sub(r"^[a-z]{1,2}\s+(?=[A-Z])", "", a)                       # stray OCR letters before the name
+    a = re.split(r"\s+(?:dated|district|of\s+the)\b|,?\s*\d", a, maxsplit=1, flags=re.I)[0]
+    if sum(c.isupper() for c in a) > 0.6 * max(1, sum(c.isalpha() for c in a)):
+        toks = a.split()
+        keep = []
+        for t in toks:                                                   # an all-capitals name ends at the first odd token
+            if any(c.islower() for c in t):
+                break
+            keep.append(t)
+        a = " ".join(keep).title()
+    a = re.sub(r'"(\w{2})"', lambda m: '"' + m.group(1).upper() + '"', a)  # "Pm" -> "PM"
+    a = " ".join(_ROMAN.get(t.strip(",."), t) for t in a.split())
+    a = a.replace("|", "I")
+    if re.match(r'^\w{0,2}"', a) or a.count('"') % 2:                  # a cut-off fragment such as 'G" D. Ceniza'
+        return ""
+    a = a.strip(" ,.;:-\"'")
+    return a + ("." if re.search(r"\b(Jr|Sr)$", a) else "")
+
+
+def author_with_title(a, chamber):
+    """'Iris Marie D. Montes' -> 'Representative Iris Marie D. Montes' (House) or 'Senator ...' (Senate)."""
+    a = clean_author(a)
+    if not a or len(a) < 4 or re.search(r"committee|commission|^the\b", a, re.I):
+        return a
+    return ("Senator " if chamber == "SB" else "Representative ") + a
+
+
 def nice_date(d):
     """'2025-07-07' -> 'July 7, 2025'; other wordings are kept."""
     d = (d or "").strip()
@@ -232,7 +266,7 @@ def build(_stamp=None):
             "number": num, "date_filed": nice_date(b.get("date_filed", "")), "short_title": b.get("short_title", ""), "title": title,
             "status": status, "status_basis": status_basis,
             "status_group": classify(status, b.get("congress"))[0], "status_sub": classify(status, b.get("congress"))[1], "type": cat, "applies_to": app, "house_origin": typology.house_origin(cat, app),
-            "bill_type": "House Bill" if b.get("chamber") == "HB" else "Senate Bill", "committee": b.get("committee", ""), "author": b.get("author", ""),
+            "bill_type": "House Bill" if b.get("chamber") == "HB" else "Senate Bill", "committee": b.get("committee", ""), "author": author_with_title(b.get("author", ""), b.get("chamber")),
             "scope": SCOPE.get(screen(title), "Other legislation"), "text": text, "found": b.get("found", ""),
             "source": b.get("source", "Corpus"), "source_url": b.get("source_url", ""), "reviewable": bool(b.get("in_corpus")),
             "ledac": f"{led[0][0]}. {led[0][1]}" if led else "",

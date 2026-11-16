@@ -262,7 +262,12 @@ def report_dialog(row):
     c1, c2 = st.columns([1, 3])
     c1.text_input("Bill number", value=f'{row["label"]} ({row["congress"]}th Congress)', disabled=True)
     c2.text_input("Title", value=row["title"] or row["short_title"], disabled=True)
-    cat_ = st.selectbox("What is your report about?", reports.CATEGORIES)
+    st.markdown("**What is your report about?** Choose the part of the review it concerns, then the topic.")
+    grp = st.radio("Part of the review", list(reports.GROUPS), horizontal=True, key="rep_group",
+                   format_func=lambda g: g if g == reports.OTHERS else f"{g} (Step {reports.STEP[g]})")
+    st.caption(f"{grp}: {reports.GROUP_HELP[grp]}.")
+    topic = st.selectbox("Topic", reports.GROUPS[grp], key=f"rep_topic_{grp}")
+    cat_ = reports.category(grp, topic)
     msg = st.text_area("Your message", height=140, placeholder="What should the reviewers know? Please be specific and cite sources where you can.")
     up = st.file_uploader(f"Attach files (optional; up to {reports.MAX_FILE_MB} MB each)", type=reports.FILE_TYPES, accept_multiple_files=True)
     st.markdown("**Your details (optional)**")
@@ -324,7 +329,8 @@ def report_notice(bid, step, where):
     if not items:
         return
     n = len(items)
-    cats = sorted({x.get("category", "").split(":")[0] for x in items})
+    cats = sorted({(x.get("category", "").split(":", 1)[1] if x.get("category", "").split(":")[0] in reports.STEP
+                    else x.get("category", "").split(":")[0]).strip() for x in items})
     with st.container(key=f"repnote_{step}"):
         if st.button(f"📣 {n} public report{'s' if n > 1 else ''} from a CSO or member of the public concern{'s' if n == 1 else ''} "
                      f"{where}: {'; '.join(cats)}. Click to read.", key=f"repnote_btn_{step}"):
@@ -571,7 +577,7 @@ def case(bid):
     # Step 3: AppraisAI
     with st.container(border=True):
         ui.step_header(3, AGENT3, "Weigh the impact", "done" if d3 else ("now" if d2 else "lock"))
-        report_notice(bid, 3, f"Step 3 ({AGENT3}: cost, overlap, implementation, who is affected)")
+        report_notice(bid, 3, f"Step 3 ({AGENT3}: cost, overlap or duplication, implementation or governance risk)")
         ui.html('<div class="ac-step-d">Prepares the preliminary review: an estimated first-year cost based on the government salary schedule and '
                 'the actual spending of similar agencies, possible implementation risks, overlaps with existing agencies, and draft comments. '
                 'A second AI reviewer then checks the draft for errors.</div>')
@@ -889,7 +895,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
         k1.caption(f"{len(df):,} bills match · page {pg} of {pages:,}")
         k2.selectbox("Bills per page", [20, 30, 40, 50], key="bills_per")
         heads = ["Bill No.", "Title", "Bill type", "Status", "View bill", "Review"] + ([] if REVIEWER else ["Report"])
-        widths = [1.0, 5.4, 1.1, 1.8, 0.8, 1.0] + ([] if REVIEWER else [1.0])
+        widths = [1.0, 5.6, 1.05, 1.3, 0.75, 0.9] + ([] if REVIEWER else [0.9])
         ui.html('<div class="ac-thead" style="grid-template-columns:' + " ".join(f"{w}fr" for w in widths) + '">'
                 + "".join(f"<span>{h}</span>" for h in heads) + "</div>")
         with st.container(key="billgrid"):

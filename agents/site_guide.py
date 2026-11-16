@@ -49,7 +49,7 @@ GUIDE = [
     ("How do I review a bill?", "Click 'Reviewer Log In' at the top right (or Log In on any bill), open the Bills page, click Review on a bill, then work through "
      "the five steps in the Review workspace. Each step ends with a checklist that unlocks the next one."),
     ("How can the public share inputs on a bill?", "On the Bills page, click Report on any bill. The bill's number and title are filled in; "
-     "choose what the report is about (history, changes, cost, overlaps, implementation, who is affected, a correction), write a message "
+     "choose the part of the review it concerns (TrAIce: legislative history; CompAIre: comparison and policy design; AppraisAI: cost, overlap or duplication, implementation or governance risk; or Others) and the topic, write a message "
      "and attach files if you like. Name, email and contact number are optional and seen only by reviewers. Reports are kept in a "
      "Google Sheet so they survive restarts, and reviewers see a clickable notice in the part of the Review workspace each report concerns."),
     ("Who decides the DBM position?", "Only the analyst. The agents prepare evidence and drafts; the analyst approves each step, sets the "

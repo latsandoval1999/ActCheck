@@ -22,33 +22,49 @@ import uuid
 from datetime import datetime, timezone
 from pathlib import Path
 
+from agents.names import AGENT1, AGENT2, AGENT3
+
 ROOT = Path(__file__).resolve().parents[1]
 DIR = ROOT / "data" / "public_reports"
 MAX_FILE_MB = 10
 FILE_TYPES = ["pdf", "docx", "doc", "xlsx", "csv", "txt", "png", "jpg", "jpeg"]
 
-# Categories follow what each agent checks
-CATEGORIES = [
-    "Legislative history (TrAIce): earlier versions, counterpart bills, related laws",
-    "Changes and design (CompAIre): how it differs from related bills, design options",
-    "Cost and budget impact (AppraisAI): cost, source of funds, fiscal risk",
-    "Overlap with existing agencies, programs or laws (AppraisAI)",
-    "Implementation, governance and risks (AppraisAI)",
-    "Who is affected: communities, sectors, equity",
-    "Correction to information shown on this page",
-    "Other",
-]
+# Report topics, grouped by the agent whose check they concern (stored as "<group>: <topic>")
+OTHERS = "Others"
+GROUPS = {
+    AGENT1: ["Legislative history", "Earlier versions", "Counterpart bills", "Related laws"],
+    AGENT2: ["Similarities or differences with related bills", "Policy design"],
+    AGENT3: ["Cost and budget", "Functional overlap or duplication", "Implementation or governance risk"],
+    OTHERS: ["Correction to information shown on this page", "Other concern"],
+}
+GROUP_HELP = {
+    AGENT1: "the bill's history: earlier versions, counterpart bills and the laws it relates to",
+    AGENT2: "how the bill compares with related bills, and its policy design",
+    AGENT3: "cost and budget, overlap with existing agencies or programs, and implementation or governance risks",
+    OTHERS: "corrections to this page, and anything else",
+}
+CATEGORIES = [f"{g}: {t}" for g, ts in GROUPS.items() for t in ts]
+STEP = {AGENT1: 1, AGENT2: 2, AGENT3: 3, OTHERS: 0}
 
-# Which part of the Review workspace each category concerns: 1 TrAIce, 2 CompAIre, 3 AppraisAI, 0 the whole page
-STEP_OF = {CATEGORIES[0]: 1, CATEGORIES[1]: 2, CATEGORIES[2]: 3, CATEGORIES[3]: 3, CATEGORIES[4]: 3,
-           CATEGORIES[5]: 3, CATEGORIES[6]: 0, CATEGORIES[7]: 0}
+
+def category(group, topic):
+    return f"{group}: {topic}"
 
 
 def step_of(category):
-    if category in STEP_OF:
-        return STEP_OF[category]
-    c = (category or "").lower()
-    return 1 if "traice" in c else 2 if "compaire" in c else 3 if "appraisai" in c else 0
+    """Which part of the Review workspace a report concerns: 1 TrAIce, 2 CompAIre, 3 AppraisAI, 0 the whole bill."""
+    c = category or ""
+    g = c.split(":")[0].strip()
+    if g in STEP:
+        return STEP[g]
+    lc = c.lower()                      # reports filed under the earlier category names
+    if "traice" in lc:
+        return 1
+    if "compaire" in lc:
+        return 2
+    if "appraisai" in lc or lc.startswith("who is affected"):
+        return 3
+    return 0
 
 
 def valid_email(e):
