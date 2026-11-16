@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PROC = ROOT / "data" / "processed"
 
 WANT = {"number": r"(^|_)(ra_?)?(number|no|law_number)$", "title": r"^title$", "date": r"date|enact|approv",
-        "bill": r"bill", "purpose": r"purpose", "summary": r"^(overall_)?summary$", "affected": r"affect|amend",
+        "bill": r"^(origin_|source_)?bills?(_no|_number)?$|house_bill|senate_bill", "purpose": r"purpose", "summary": r"^(overall_)?summary$", "affected": r"affect|amend",
         "tags": r"tag|keyword"}
 
 
