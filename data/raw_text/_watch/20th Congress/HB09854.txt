@@ -1,0 +1,183 @@
+                           Republic of the Philippines
+                         HOUSE OF REPRESENTATIVES
+                                 Quezon City
+                                                                       June 11, 2026
+                            TWENTIETH CONGRESS                           10:37 am
+                             Second Regular Session
+
+                                             9854
+                            HOUSE BILL NO. _________
+
+
+               Introduced by: REP. SALVADOR A. PLEYTO, SR.
+
+
+                              EXPLANATORY NOTE
+
+The right to health is a fundamental constitutional guarantee. Article II, Section
+15 of the 1987 Philippine Constitution explicitly declares that the State shall
+protect and promote the people's right to health and instill health consciousness
+among them. This mandate was significantly advanced with the enactment of
+Republic Act No. 11223, otherwise known as the Universal Health Care (UHC)
+Act, which aims to realize universal health coverage for all Filipinos progressively.
+
+The UHC Act's full implementation is hindered by a fragmented health
+information infrastructure. Patient records are often filed in various hospitals and
+health units, forcing patients to carry physical copies of their medical history. In
+emergencies, the lack of immediate access to this information can result in
+diagnostic errors, delayed treatment, and preventable complications.
+
+Furthermore, the absence of a unified system results in redundant medical tests,
+bureaucratic inefficiencies, and a lack of real-time, accurate public health data
+necessary for proactive government epidemiologic interventions.
+This bill seeks to address these gaps by establishing the National Electronic
+Health Record System (NEHRS).
+
+The NEHRS will serve as a secure, centralized, and interoperable digital platform
+that aggregates a patient’s medical history across all healthcare providers
+nationwide.
+
+The modernization of our healthcare system through digital integration is no
+longer a luxury; it is an urgent public health necessity.
+
+In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+                                             SALVADOR A. PLEYTO, SR.
+                           Republic of the Philippines
+                         HOUSE OF REPRESENTATIVES
+                                 Quezon City
+
+                             TWENTIETH CONGRESS
+                             Second Regular Session
+
+                                             9854
+                            HOUSE BILL NO. _________
+
+
+               Introduced by: REP. SALVADOR A. PLEYTO, SR.
+
+
+
+   AN ACT ESTABLISHING A NATIONAL ELECTRONIC HEALTH RECORD
+      SYSTEM TO ENSURE CONTINUITY OF CARE, IMPROVE MEDICAL
+    EFFICIENCY, AND PROMOTE UNIVERSAL HEALTH ACCESS FOR ALL
+                                   FILIPINOS
+Be it enacted by the Senate and the House of Representatives of the Philippines in
+Congress assembled:
+
+     Section 1. Short Title. – This Act shall be known as the This Act shall be
+known as the "National Electronic Health Record System (NEHRS) Act."
+
+       Sec. 2. Declaration of Policy. – It is the policy of the State to protect and
+promote the right to health of all Filipinos. Towards this end, the State shall adopt
+a digital-first approach to healthcare administration by establishing a unified,
+secure, and interoperable National Electronic Health Record System (NEHRS) to
+streamline health services, optimize clinical outcomes, reduce healthcare costs,
+and guarantee the seamless continuity of patient care nationwide.
+
+      Sec. 3. Objectives – This Act aims to achieve the following:
+
+   (a) Establish a single, secure electronic registry for the health records of all
+       Philippine citizens;
+
+   (b) Mandate interoperability standards among all public and private
+       healthcare facilities;
+
+   (c) Protect patient data privacy while allowing seamless, authorized clinical
+       data sharing; and
+
+   (d) Provide real-time, aggregated data to health authorities for public health
+       monitoring and syndromic surveillance.
+      Sec. 4. Definition of Terms - As used in this Act:
+
+   (a) Electronic Health Record (EHR) refers to a digital version of a patient’s
+      medical history, maintained by the provider over time, including clinical
+      data, progress notes, problems, medications, vital signs, past medical
+      history, immunizations, laboratory data, and radiology reports.
+
+   (b) Interoperabilityrefers to the ability of different information systems,
+      devices, and software applications to access, exchange, integrate, and
+      cooperatively use data in a coordinated manner.
+
+   (c) Healthcare Provider refers to any health facility, hospital, clinic, rural
+      health unit (RHU), barangay health station, sanitarium, or healthcare
+      professional licensed to provide medical services.
+
+
+      Sec. 5. Creation of the National Electronic Health Record System (NEHRS). –
+There is hereby established a National Electronic Health Record System (NEHRS),
+which shall serve as the primary centralized digital infrastructure for managing
+patient health information in the Philippines.
+
+      The Department of Health (DOH), in coordination with the Department of
+Information and Communications Technology (DICT) and the Philippine Health
+Insurance Corporation (PhilHealth), shall design, implement, maintain, and
+oversee the NEHRS architecture.
+
+      Sec. 6. Mandatory Participation and Interoperability.- All public and private
+healthcare providers operating within the Philippines shall implement electronic
+medical record systems that are fully compatible and interoperable with the
+NEHRS platform.
+
+   (a) All government-owned hospitals, rural health units (RHUs), and primary
+       care facilities shall be migrated to the NEHRS within three (3) years from
+       the effectivity of this Act.
+
+   (b) Private healthcare providers shall fully integrate their systems with the
+       NEHRS within five (5) years from the effectivity of this Act.
+
+      Compliance with the NEHRS integration shall be a mandatory prerequisite
+for the renewal of Department of Health (DOH) facility licenses and PhilHealth
+accreditations.
+
+      Sec. 7. Data Privacy and Security Guarantees.— The NEHRS shall strictly
+comply with the provisions of Republic Act No. 10173, otherwise known as the
+"Data Privacy Act of 2012."
+   •   Patient Ownership: Patients shall own their electronic health records. Their
+       explicit consent shall be required for the sharing of records, except in life-
+       threatening emergencies where consent cannot be practically obtained.
+
+   •   Access Control: Only licensed and authorized healthcare practitioners
+       directly involved in the patient's care shall have access to specific clinical
+       records.
+
+   •   Cybersecurity Standard: The DICT and DOH shall employ state-of-the-art
+       encryption protocols, multi-factor authentication, and blockchain or
+       equivalent immutable ledger systems to prevent unauthorized data
+       breaches.
+
+       Sec. 8. Public Health Surveillance and Anonymization. - The DOH shall
+utilize aggregated, fully anonymized data from the NEHRS for public health
+planning, epidemiological research, and emergency response management.
+Under no circumstances shall personally identifiable information (PII) be released
+for research or statistical purposes without explicit patient consent.
+
+       Sec. 9. Appropriations. – The amount necessary to cover the initial
+implementation of this Act shall be charged against the current year’s
+appropriations of the DOH and DICT. Thereafter, such sums as may be necessary
+for its continued operation and maintenance shall be included in the annual
+General Appropriations Act (GAA)
+
+      Sec. 10. Implementing Rules and Regulations. – Within ninety (90) days
+from the effectivity of this Act, the DOH, in joint consultation with the DICT,
+PhilHealth, the National Privacy Commission (NPC), and relevant stakeholders
+from the public and private medical sectors, shall promulgate the necessary rules
+and regulations for its effective implementation.
+
+       Sec. 11. Separability Clause. – If any portion or provision of this Act is
+declared invalid or unconstitutional, the remaining parts or provisions not
+affected thereby shall remain in full force and effect.
+
+      Sec. 12. Repealing Clause. – All laws, decrees, executive orders,
+presidential issuances, and other administrative rules and regulations or parts
+thereof which are inconsistent with this Act are hereby repealed, amended, or
+modified accordingly.
+
+      Sec. 13. Effectivity. – This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in at least two (2) newspapers of general
+circulation.
+
+Approved,
+

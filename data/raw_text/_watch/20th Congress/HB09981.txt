@@ -1,0 +1,183 @@
+                           Republic of the Philippines
+                        HOUSE OF REPRESENTATIVES
+                           Quezon City, Metro Manila                      June 30, 2026
+                                                                            4:58 pm
+                            TWENTIETH CONGRESS
+                              First Regular Session
+
+                                            9981
+                            HOUSE BILL NO. _______
+
+
+               Introduced by Representative Jan “Atty. JP” D. Padiernos
+
+
+                              EXPLANATORY NOTE
+
+The current Intellectual Property Code of the Philippines (R.A. 8293) was enacted
+in 1997—decades prior to the emergence of generative artificial intelligence as a
+mainstream creative tool. Today, technologies like large language models,
+diffusion models, and automated creators are actively integrated into the
+workflows of Filipino artists, writers, programmers, and filmmakers.
+
+This technological leap has created a severe statutory gap. Our current
+framework vests copyright exclusively in "authors," which jurisprudence defines
+as natural persons. However, the law provides no guidance on how to treat
+works born from a hybrid collaboration between human intellect and machine
+algorithms. This regulatory vacuum creates profound legal uncertainty. On one
+hand, over-regulation risks stifling digital innovation and compromising our
+economic competitiveness. On the other hand, under-regulation threatens to
+dilute the value of genuine human creativity and clog our registries with
+automated, non-human outputs.
+
+This Bill addresses this gap by amending R.A. 8293 to introduce distinct legal
+thresholds. It explicitly clarifies that while purely AI-generated materials belong
+in the public domain, AI-assisted works are protectable only to the extent of the
+human author's creative control, modification, and arrangement. It also
+introduces a mandatory disclosure mechanism during registration to maintain
+transparency and protect the integrity of the intellectual property system.
+
+This measure embraces technological progress with foresight and responsibility.
+By establishing clear legal boundaries for AI-assisted works, it ensures the
+Philippines remains a competitive digital hub while upholding the core mandate
+of our intellectual property system—to incentivize and protect the irreplaceable
+spark of human genius.
+
+In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+                                           Rep. Jan “Atty. JP” D. Padiernos
+                                                GP (GALING SA PUSO)
+                                                        Partylist
+                             Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES
+                             Quezon City, Metro Manila
+
+                             TWENTIETH CONGRESS
+                               First Regular Session
+
+                             HOUSE BILL NO. 9981
+                                           _______
+
+
+                Introduced by Representative Jan “Atty. JP” D. Padiernos
+
+
+AN ACT AMENDING REPUBLIC ACT NO. 8293, OTHERWISE KNOWN
+AS THE INTELLECTUAL PROPERTY CODE OF THE PHILIPPINES, TO
+REGULATE THE COPYRIGHTABILITY OF WORKS CREATED WITH THE
+ASSISTANCE   OF  ARTIFICIAL  INTELLIGENCE,  ESTABLISHING
+STANDARDS FOR HUMAN AUTHORSHIP, AND FOR OTHER PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+assembled:
+
+SECTION 1. Short Title. – This Act shall be known as the "Copyright Authorship
+and Artificial Intelligence Regulation (CAIR) Act."
+
+SECTION 2. Declaration of Policy. – It is the policy of the State to protect and
+secure the exclusive rights of scientists, inventors, artists, and other gifted
+citizens to their intellectual property and creations, particularly when beneficial
+to the people. The State recognizes the rapid advancement of technology,
+including Artificial Intelligence (AI), as a tool for expression.
+
+In promoting the progress of science and the useful arts, the State shall maintain
+the human-centric foundation of copyright law, ensuring that intellectual
+property protections are granted exclusively to original creations of human
+intellect, while providing clear frameworks for works generated with
+technological assistance.
+
+SECTION 3. Definition of Terms. – Section 171 of Republic Act No. 8293 is
+hereby amended to include the following definitions:
+
+      "(m) 'Artificial Intelligence (AI)' refers to a machine-based system that
+      can, for a given set of human-defined objectives, make predictions,
+      recommendations, or decisions influencing real or virtual
+      environments, or generate content such as text, images, audio, or
+      video.
+
+      (n) 'AI-Generated Content' refers to output, data, or works produced
+      predominantly or exclusively by an artificial intelligence system
+      without direct, creative human intervention or control in the
+      expressive elements of the output.
+     (o) 'AI-Assisted Work' refers to an original literary or artistic work
+     created by a natural person where an artificial intelligence system was
+     utilized as a technical tool or medium, provided that the human
+     author exercised substantial creative control, direction, and selection
+     over the final arrangement and expression of the work."
+
+SECTION 4. Human Authorship Requirement. – A new Section 172.3 is hereby
+added to Section 172 of Republic Act No. 8293, to read as follows:
+
+     "172.3. Human Authorship. – Copyright protection under this Chapter
+     shall vest exclusively in natural persons. Works that are purely
+     AI-generated, wherein the human contribution is limited to a general
+     prompt, idea, or instructions, lack the requisite human authorship
+     and shall not be eligible for copyright protection. Such works shall
+     remain in the public domain, without prejudice to other forms of
+     intellectual property or contractual protections."
+
+SECTION 5. Copyrightability of AI-Assisted Works. – A new Section 172.4 is
+hereby added to Section 172 of Republic Act No. 8293, to read as follows:
+
+     "172.4. Copyright in AI-Assisted Works. – AI-assisted works shall be
+     eligible for copyright protection, subject to the following conditions:
+
+     (a) Protection shall only extend to the original elements of human
+     expression, arrangement, selection, or modification added by the
+     natural person, and shall not cover the underlying AI-generated
+     content itself.
+
+     (b) To determine eligibility, the Bureau of Copyright shall apply the
+     'De Minimis Non-Curat Lex' standard to the AI's contribution. If the
+     AI-generated portions are mechanical, automated, or subordinate to
+     the independent creative execution of the human author, the work as
+     a whole is copyrightable.
+
+     (c) Prompt engineering alone, consisting of standard descriptive
+     commands or strings of text, shall not satisfy the threshold of original
+     human      authorship   unless      accompanied       by    substantial
+     post-generation modification, arrangement, or creative synthesis by
+     the natural person."
+
+SECTION 6. Disclosure and Transparency in Registration. – Section 191 of
+Republic Act No. 8293 is hereby amended to include a new subsection, to read as
+follows:
+
+     "191.2. Mandatory Disclosure of AI Utilization. – Applicants seeking
+     registration and deposit of a work with the National Library and the
+     Bureau of Copyright shall have an affirmative duty to disclose the use
+     of artificial intelligence in the creation of the work. The applicant
+     must:
+     (a) Clearly demarcate the portions of the work created by human
+     agency and those generated by AI; and
+
+     (b) Provide a brief description of the extent of human control and the
+     nature of the AI tools utilized.
+
+     Failure to disclose the material use of AI with intent to deceive shall
+     be grounds for the cancellation of the certificate of registration,
+     without prejudice to administrative or criminal liabilities for perjury
+     or fraud."
+
+SECTION 7. Implementing Rules and Regulations (IRR). – Within six (6) months
+from the effectivity of this Act, the Intellectual Property Office of the Philippines
+(IPOPHL), in coordination with the National Library of the Philippines and the
+Department of Information and Communications Technology (DICT), shall
+promulgate the necessary rules and regulations for the effective implementation
+of this Act, including specific guidelines and rubrics for evaluating human
+creative control in AI-assisted applications.
+
+SECTION 8. Separability Clause. – If any provision of this Act or the application
+of such provision to any person or circumstance is declared unconstitutional or
+invalid, the remainder of this Act or the application of such provision to other
+persons or circumstances shall not be affected thereby.
+
+SECTION 9. Repealing Clause. – All laws, decrees, executive orders, rules and
+regulations, or parts thereof inconsistent with the provisions of this Act are
+hereby repealed, amended, or modified accordingly.
+
+SECTION 10. Effectivity. – This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in at least two (2) newspapers of general
+circulation in the Philippines.
+
