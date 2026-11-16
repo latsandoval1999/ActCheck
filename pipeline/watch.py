@@ -33,6 +33,7 @@ import re
 import shutil
 import subprocess
 import tempfile
+import os
 import time
 import urllib.error
 import urllib.request
@@ -255,6 +256,16 @@ def save_text(ch, n, text):
     (TEXT / f"{CONGRESS}th Congress" / fname).write_text(text)
 
 
+# Time budget: stop starting new work after this many minutes, so the GitHub job always reaches its commit step
+# (the job is cut off at 170 minutes, and anything not committed is lost). The rest continues on the next run.
+START = time.time()
+BUDGET_MIN = float(os.environ.get("WATCH_MINUTES", "120"))
+
+
+def over_budget():
+    return (time.time() - START) / 60 > BUDGET_MIN
+
+
 def run_house(state, inbox, known, report, max_probe, stop_after, pending_days, delay, dry_run):
     ch = "HB"
     start = state["last_seen"][ch] + 1
@@ -265,6 +276,9 @@ def run_house(state, inbox, known, report, max_probe, stop_after, pending_days, 
         return
     misses, source_errors = 0, 0
     for n in candidates:
+        if over_budget():
+            report.setdefault("notes", []).append("time budget reached during the House check; the rest continues next run")
+            break
         bid = f"{ch}-{CONGRESS}-{n}"
         if bid in known:
             continue
@@ -389,6 +403,9 @@ def run_backfill(state, inbox, known, report, max_n, delay, dry_run):
         return
     found, errors = 0, 0
     for k in todo:
+        if over_budget():
+            report.setdefault("notes", []).append("time budget reached during the catch-up; it resumes next run")
+            break
         data, info = SOURCES["HB"](k)
         time.sleep(delay)
         if data is None:
@@ -441,6 +458,8 @@ def run(max_probe=200, stop_after=40, pending_days=21, delay=4.0, dry_run=False,
         run_backfill(state, inbox, known, report, backfill, delay, dry_run)
     if not dry_run:
         summary = {k: report[k] for k in ("time", "checked", "errors")} | {"found": len(report["found"])}
+        if report.get("notes"):
+            summary["notes"] = report["notes"]
         if report.get("backfill"):
             summary["catch_up_added"] = report["backfill"].get("added", 0)
             summary["catch_up_remaining"] = report["backfill"].get("remaining")
