@@ -206,7 +206,8 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
   width:46px; height:46px; border-radius:12px; background:#E3E9F3 no-repeat center / 26px 26px;}
 .st-key-agent_tile div[role="radiogroup"] > div:not(:last-child)::after{content:""; position:absolute; right:-1.25rem; top:2.2rem; width:1.1rem; height:1.1rem;
   background:no-repeat center/contain url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23D4A72C' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12h14M13 6l6 6-6 6'/%3E%3C/svg%3E");}
-.st-key-agent_tile label[data-testid="stRadioOption"] > div:first-of-type:not(:last-child){display:none;}
+.st-key-agent_tile label[data-testid="stRadioOption"] > div > div:first-child:not([data-testid]){display:none;}
+.st-key-agent_tile label[data-testid="stRadioOption"] > div{display:block;}
 .st-key-agent_tile label[data-testid="stRadioOption"] p{font:800 .95rem/1.25 var(--serif); color:var(--ink); margin:0;}
 .st-key-agent_tile label[data-testid="stRadioOption"]:hover{border-color:var(--navy); transform:translateY(-2px);}
 .st-key-agent_tile label[data-testid="stRadioOption"][data-selected="true"], .st-key-agent_tile label[data-testid="stRadioOption"]:has(input:checked){
