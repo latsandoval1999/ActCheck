@@ -5,7 +5,8 @@ from html import escape
 import streamlit as st
 
 import ui
-from icons import svg
+from icons import svg, _P
+from urllib.parse import quote
 
 CHARTER_PDF = "https://www.dbm.gov.ph/wp-content/uploads/AboutDBM/%5BFINAL-COPY%5D-Updated-DBM-Charter,-1st-Edition,-CY-2026.pdf"
 
@@ -153,7 +154,18 @@ def render(a1, a2, a3, workflow):
                    ["Every action is recorded in the activity trail", "Problem reports are kept with the bill and in the Run log"],
                    "Decisions the analyst owns", dark=True),
     ]
-    ui.html('<div class="ac-agrid">' + "".join(cards) + "</div>")
+    tiles = [("daily", "Every morning", "Daily check"), ("trace", "Step 1", a1), ("compare", "Step 2", a2), ("appraise", "Step 3", a3),
+             ("billy", "Companion", "BILLy"), ("analyst", "The analyst", "Checkpoints")]
+    css = []
+    for i, (ico, _, _) in enumerate(tiles, 1):
+        uri = quote(f"<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='#0B2545' stroke-width='1.8' "
+                    f"stroke-linecap='round' stroke-linejoin='round'>{_P[ico]}</svg>")
+        css.append(f'.st-key-agent_tile div[role="radiogroup"] > label:nth-of-type({i})::before{{background-image:url("data:image/svg+xml,{uri}");}}')
+    ui.html("<style>" + "".join(css) + "</style>")
+    st.caption("Click a step to see what it does, its safeguards and its output.")
+    names = [f"{k} · {n}" for _, k, n in tiles]
+    pick = st.radio("Step", names, key="agent_tile", horizontal=True, label_visibility="collapsed")
+    ui.html('<div class="ac-agrid one">' + cards[names.index(pick)] + "</div>")
 
     ui.section("Safeguards and Limits", "What ActCheck does to stay trustworthy, and what to keep in mind",
                "ActCheck is a prototype for coursework. It is tested first on bills that create a national government agency; other types can "

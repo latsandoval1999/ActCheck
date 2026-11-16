@@ -194,6 +194,23 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-acard.dark .ac-fout{background:rgba(212,167,44,.14); border-color:rgba(212,167,44,.45);}
 .ac-acard.dark .ac-fout .lab{color:var(--gold);} .ac-acard.dark .ac-fout .val{color:#fff;}
 
+/* clickable step tiles (How it Works) */
+.ac-agrid.one{grid-template-columns:1fr;}
+.st-key-agent_tile [data-testid="stWidgetLabel"]{display:none;}
+.st-key-agent_tile div[role="radiogroup"]{display:grid !important; grid-template-columns:repeat(6, minmax(0, 1fr)); gap:1.4rem; margin:.3rem 0 .9rem;}
+.st-key-agent_tile div[role="radiogroup"] > label{position:relative; display:flex !important; flex-direction:column; align-items:center; justify-content:flex-start;
+  text-align:center; margin:0 !important; padding:4.4rem .6rem .8rem; min-height:7.6rem; background:#fff; border:1px solid var(--line);
+  border-top:5px solid var(--line); border-radius:10px; cursor:pointer; box-shadow:0 3px 12px rgba(11,37,69,.06); transition:all .15s;}
+.st-key-agent_tile div[role="radiogroup"] > label::before{content:""; position:absolute; top:.9rem; left:50%; transform:translateX(-50%);
+  width:46px; height:46px; border-radius:12px; background:#E3E9F3 no-repeat center / 26px 26px;}
+.st-key-agent_tile div[role="radiogroup"] > label:not(:last-of-type)::after{content:""; position:absolute; right:-1.25rem; top:2.2rem; width:1.1rem; height:1.1rem;
+  background:no-repeat center/contain url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23D4A72C' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12h14M13 6l6 6-6 6'/%3E%3C/svg%3E");}
+.st-key-agent_tile div[role="radiogroup"] > label > div:first-child:not([data-testid]){display:none;}
+.st-key-agent_tile div[role="radiogroup"] > label p{font:800 .95rem/1.25 var(--serif); color:var(--ink); margin:0;}
+.st-key-agent_tile div[role="radiogroup"] > label:hover{border-color:var(--navy); transform:translateY(-2px);}
+.st-key-agent_tile div[role="radiogroup"] > label:has(input:checked), .st-key-agent_tile div[role="radiogroup"] > label[data-selected="true"]{
+  border:2px solid var(--navy); border-top:5px solid var(--gold); background:var(--gold-soft); box-shadow:0 8px 20px rgba(11,37,69,.14);}
+
 /* library tiles */
 .ac-tbl.refs{table-layout:fixed;} .ac-tbl.refs th:nth-child(1){width:40%;} .ac-tbl.refs th:nth-child(2){width:20%;}
 .ac-tbl.refs th:nth-child(3){width:12%;} .ac-tbl.refs th:nth-child(4){width:28%;}
@@ -304,7 +321,9 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
   .ac-hero{min-height:0; background-size:cover; background-position:right center;} .ac-hero::before{background:rgba(15,31,59,.86);} .ac-hero h1{font-size:2.3rem !important;}
   .ac-stats{grid-template-columns:1fr;} .ac-hstats{grid-template-columns:1fr;} .ac-foot-grid{grid-template-columns:1fr;}
   .ac-flow{grid-template-columns:1fr;} .ac-arrow{transform:rotate(90deg); height:22px;}
-  .ac-agrid, .ac-acols, .ac-tiles{grid-template-columns:1fr;} .ac-tl-row{grid-template-columns:1fr;}
+  .ac-agrid, .ac-acols, .ac-tiles{grid-template-columns:1fr;}
+  .st-key-agent_tile div[role="radiogroup"]{grid-template-columns:repeat(2, minmax(0, 1fr));}
+  .st-key-agent_tile div[role="radiogroup"] > label::after{display:none;} .ac-tl-row{grid-template-columns:1fr;}
   .ac-flow2{grid-template-columns:1fr; gap:1.6rem;} .ac-fcard:not(:last-child)::after{right:auto; left:50%; top:auto; bottom:-1.45rem; transform:translateX(-50%) rotate(90deg);}
   .ac-bar{grid-template-columns:1fr 70px;} .ac-bar .t{grid-column:1 / -1; grid-row:2;}
   .ac-mast-right{display:none;} .ac-progress{flex-wrap:wrap;} .ac-progress div{flex:1 1 30%;}
