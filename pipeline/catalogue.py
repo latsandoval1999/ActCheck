@@ -68,6 +68,43 @@ def _inbox():
     return json.loads(p.read_text()) if p.exists() else []
 
 
+def _enacted():
+    """Bill ID -> (RA number, date approved), from the closing notes of Republic Acts (pipeline/ra_library.py)."""
+    p = PROC / "ra_origin_bills.csv"
+    out = {}
+    if p.exists():
+        with open(p, newline="", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                for b in (r.get("bills") or "").split(";"):
+                    if b:
+                        out[b] = (r["ra"], r.get("approved", ""))
+    return out
+
+
+def _nice_date(iso):
+    try:
+        y, m, d = (int(x) for x in iso.split("-"))
+        return f"{['January','February','March','April','May','June','July','August','September','October','November','December'][m - 1]} {d}, {y}"
+    except Exception:
+        return ""
+
+
+def fill_status(bid, congress, status, enacted, full):
+    """When the source gives no status, assign one from other evidence, and say where it came from."""
+    if status:
+        return status, "Source listing"
+    if bid in enacted:
+        ra, approved = enacted[bid]
+        return (f"Enacted as Republic Act No. {ra}" + (f" (approved {_nice_date(approved)})" if approved else ""),
+                "Closing note of the Republic Act (Philippine Legal Documents Library, BetterGov.PH / Lawphil)")
+    if str(congress) in ("18", "19"):
+        if full:
+            return (f"Not enacted; the {congress}th Congress has ended",
+                    "Derived: not among the bills named in any Republic Act, and bills lapse when a Congress ends")
+        return f"Last stage not recorded; the {congress}th Congress has ended", "Derived from the end of the Congress"
+    return "Filed; later stages not in source data", "Derived: a filed bill whose later stages are not published in a source ActCheck can read"
+
+
 @lru_cache(maxsize=1)
 def build(_stamp=None):
     """Return a list of dicts, newest Congress and highest number first."""
@@ -102,6 +139,8 @@ def build(_stamp=None):
         put(b["id"], chamber=b["chamber"], congress=str(b["congress"]), number=int(b["id"].split("-")[2]),
             title=cur.get("title") or b.get("title"), in_corpus=True)
 
+    enacted = _enacted()
+    full = len(set(r for r, _ in enacted.values())) >= 1000      # the full Republic Acts list, not a partial seed
     out = []
     for b in bills.values():
         title = b.get("title", "")
@@ -112,14 +151,16 @@ def build(_stamp=None):
         cat = typology.category(title)
         app = typology.application(title, cat)
         status = " ".join((b.get("status") or "").split())
-        status = proper(status[:1].upper() + status[1:].lower()) if status else "Status not yet available"
+        status = proper(status[:1].upper() + status[1:].lower()) if status else ""
+        status, status_basis = fill_status(b["id"], b.get("congress"), status, enacted, full)
         led = policy.ledac(f"{title} {b.get('short_title', '')}", b.get("congress"))
         text = "Full text" if b.get("in_corpus") else ("Text pending" if b.get("text_state") == "pending" else "Listing only")
         out.append({
             "id": b["id"], "label": f"{'HB' if b.get('chamber') == 'HB' else 'SB'} {num}",
             "chamber": CHAMBER.get(b.get("chamber"), b.get("chamber", "")), "congress": str(b.get("congress", "")),
             "number": num, "date_filed": b.get("date_filed", ""), "short_title": b.get("short_title", ""), "title": title,
-            "status": status, "type": cat, "applies_to": app, "house_origin": typology.house_origin(cat, app),
+            "status": status, "status_basis": status_basis,
+            "status_group": "Enacted as a Republic Act" if status.startswith("Enacted as Republic Act") else status, "type": cat, "applies_to": app, "house_origin": typology.house_origin(cat, app),
             "bill_type": "House Bill" if b.get("chamber") == "HB" else "Senate Bill", "committee": b.get("committee", ""), "author": b.get("author", ""),
             "scope": SCOPE.get(screen(title), "Other legislation"), "text": text, "found": b.get("found", ""),
             "source": b.get("source", "Corpus"), "source_url": b.get("source_url", ""), "reviewable": bool(b.get("in_corpus")),
@@ -131,5 +172,6 @@ def build(_stamp=None):
 
 def stamp():
     """Changes when any source file changes, so the portal can refresh its cached list."""
-    files = [PROC / "bill_index.csv.gz", PROC / "bills.jsonl", ROOT / "data" / "watch" / "inbox.json", *PROC.glob("senate_listing_*.csv")]
+    files = [PROC / "bill_index.csv.gz", PROC / "bills.jsonl", ROOT / "data" / "watch" / "inbox.json", PROC / "ra_origin_bills.csv",
+             *PROC.glob("senate_listing_*.csv")]
     return tuple(int(f.stat().st_mtime) for f in files if f.exists())

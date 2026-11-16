@@ -259,7 +259,8 @@ def bill_dialog(row):
                ("Full text in ActCheck" if row["reviewable"] else "Listing only", "green" if row["reviewable"] else ""),
                (house_note(row), "red"), (("LEDAC priority: " + row["ledac"]) if row.get("ledac") else "", "red")])
     ui.html(f'<div class="ac-billtitle">{escape(row["title"] or row["short_title"] or "(title not yet available)")}</div>')
-    meta = [("Short title", row["short_title"]), ("Filed", row["date_filed"]), ("Committee", row["committee"]),
+    meta = [("Short title", row["short_title"]), ("Filed", row["date_filed"]), ("Status", row["status"]),
+            ("Where the status comes from", row.get("status_basis", "")), ("Committee", row["committee"]),
             ("Author", row["author"]), ("Listed from", row["source"])]
     st.caption(" · ".join(f"{k}: {v}" for k, v in meta if v))
     st.caption("The type and scope are assigned from the bill's title and should be confirmed during review.")
@@ -547,7 +548,8 @@ def case(bid):
         bureau = st.text_area("Comments of the concerned bureaus to include (optional, e.g. BMB / OPCCB)", value="" if mf else "", key="bureau")
         c1, c2 = st.columns(2)
         if not mf or c1.button("Rebuild the memo from the approved review and comments"):
-            mf = docs.memo_prefill(bid, approved, comments, bureau, row.get("status", ""))
+            mf = docs.memo_prefill(bid, approved, comments, bureau,
+                                   "" if str(row.get("status_basis", "")).startswith("Derived") else row.get("status", ""))
             store.save(bid, "memo_fields", mf, "Memo pre-filled")
             store.set_status(bid, "memo drafted")
             st.rerun()
@@ -759,7 +761,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             congress = f1.selectbox("Congress", ["20th", "19th", "18th", "All"])
             btype = f2.selectbox("Bill type", ["All", "House Bill", "Senate Bill"])
             ttype = f3.selectbox("Type", ["All types"] + typology.CATEGORY_NAMES)
-            statuses = ["All statuses"] + list(cat["status"].value_counts().index)
+            statuses = ["All statuses"] + list(cat["status_group"].value_counts().index)
             status = f4.selectbox("Status", statuses)
             s1, s2, s3, s4 = st.columns([2.4, 1.1, 0.9, 0.9])
             q = s1.text_input("Search bill number, title or subject", placeholder="e.g. HB 2322, water resources, coast guard")
@@ -774,7 +776,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
         if ttype != "All types":
             df = df[df["type"] == ttype]
         if status != "All statuses":
-            df = df[df["status"] == status]
+            df = df[df["status_group"] == status]
         if applies != "All":
             df = df[df["applies_to"] == applies]
         if ledac_only:
