@@ -123,6 +123,15 @@ _STAGE_RULES = [
     ("Filed or on first reading", r"first reading|^filed"),
 ]
 FINAL = {"Enacted into law", "Vetoed", "Consolidated or substituted", "Withdrawn or archived"}
+# Four status groups over the ten stages
+GROUPS = {
+    "Pending in Congress": ["Filed or on first reading", "In committee", "On the floor (second or third reading)",
+                            "In the other chamber or bicameral conference", "Sent to the President"],
+    "Enacted into law": ["Enacted into law"],
+    "Consolidated or substituted": ["Consolidated or substituted"],
+    "Closed without enactment": ["Vetoed", "Withdrawn or archived", "Not enacted (Congress ended)"],
+}
+GROUP_OF = {stg: g for g, stgs in GROUPS.items() for stg in stgs}
 
 
 def stage(status, congress):
