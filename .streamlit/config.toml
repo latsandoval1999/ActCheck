@@ -8,4 +8,4 @@ font = "sans serif"
 
 [server]
 enableStaticServing = true
-maxUploadSize = 25
+maxUploadSize = 10
