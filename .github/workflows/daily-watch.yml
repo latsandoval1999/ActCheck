@@ -42,7 +42,9 @@ jobs:
       - name: Check for new bills (House PDF server, Senate listing)
         run: python -m pipeline.watch
       - name: Rebuild corpus
-        run: python -m pipeline.build_corpus
+        run: |
+          python -m pipeline.build_corpus
+          python -m pipeline.bill_meta
       - name: TrAIce triage of new entity bills (only if an API key secret is set)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

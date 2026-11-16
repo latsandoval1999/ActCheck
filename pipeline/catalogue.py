@@ -81,6 +81,23 @@ def _enacted():
     return out
 
 
+def senate_name(a):
+    """'PANGILINAN, FRANCIS "KIKO" N.' -> 'Francis "Kiko" N. Pangilinan' (first listed author)."""
+    a = (a or "").split(";")[0].strip()
+    m = re.match(r"([^,]+),\s*(.+)", a)
+    if not m:
+        return a.title() if a.isupper() else a
+    first, last = m.group(2).strip(), m.group(1).strip()
+    first = first.title() if first.isupper() else first
+    return f"{first} {last.title()}"
+
+
+def nice_date(d):
+    """'2025-07-07' -> 'July 7, 2025'; other wordings are kept."""
+    d = (d or "").strip()
+    return _nice_date(d) or d if re.match(r"^\d{4}-\d{2}-\d{2}$", d) else d
+
+
 def _nice_date(iso):
     try:
         y, m, d = (int(x) for x in iso.split("-"))
@@ -165,11 +182,11 @@ def build(_stamp=None):
             continue
         put(r["id"], chamber=r["chamber"], congress=r["congress"], number=int(r["number"]), date_filed=r.get("date_filed"),
             title=r.get("title"), short_title=r.get("short_title"), status=r.get("status"), source_url=r.get("pdf_url"),
-            source="Open Congress Data")
+            author=r.get("author"), source="Open Congress Data")
     for r in _rows_senate():
         put(r["id"], chamber="SB", congress=r["congress"], number=int(r["number"]), date_filed=r.get("date_filed"),
             title=r.get("title"), short_title=r.get("short_title"), status=r.get("status"), committee=r.get("committee"),
-            author=r.get("author"), source_url=r.get("pdf_url"), source="Senate website")
+            author=senate_name(r.get("author", "")), source_url=r.get("pdf_url"), source="Senate website")
     for x in _inbox():
         put(x["id"], chamber=x["chamber"], congress=x["congress"], number=int(x["number"]), date_filed=x.get("date_filed"),
             title=x.get("title"), short_title=x.get("short_title"), status=x.get("legislative_status"),
@@ -185,8 +202,18 @@ def build(_stamp=None):
 
     enacted = _enacted()
     full = len(set(v[0] for v in enacted.values())) >= 1000      # the full Republic Acts list, not a partial seed
+    meta = {}
+    mp = PROC / "bill_meta.csv"
+    if mp.exists():
+        with open(mp, newline="", encoding="utf-8") as f:
+            meta = {r["id"]: r for r in csv.DictReader(f)}
     out = []
     for b in bills.values():
+        m = meta.get(b["id"], {})
+        if not b.get("date_filed") and m.get("date_filed"):
+            b["date_filed"], b["date_from_pdf"] = m["date_filed"], True
+        if not b.get("author") and m.get("author"):
+            b["author"] = m["author"]
         title = b.get("title", "")
         num = b.get("number", 0)
         b["source_url"] = senate_link(b.get("source_url", ""))
@@ -202,7 +229,7 @@ def build(_stamp=None):
         out.append({
             "id": b["id"], "label": f"{'HB' if b.get('chamber') == 'HB' else 'SB'} {num}",
             "chamber": CHAMBER.get(b.get("chamber"), b.get("chamber", "")), "congress": str(b.get("congress", "")),
-            "number": num, "date_filed": b.get("date_filed", ""), "short_title": b.get("short_title", ""), "title": title,
+            "number": num, "date_filed": nice_date(b.get("date_filed", "")), "short_title": b.get("short_title", ""), "title": title,
             "status": status, "status_basis": status_basis,
             "status_group": classify(status, b.get("congress"))[0], "status_sub": classify(status, b.get("congress"))[1], "type": cat, "applies_to": app, "house_origin": typology.house_origin(cat, app),
             "bill_type": "House Bill" if b.get("chamber") == "HB" else "Senate Bill", "committee": b.get("committee", ""), "author": b.get("author", ""),
@@ -217,5 +244,6 @@ def build(_stamp=None):
 def stamp():
     """Changes when any source file changes, so the portal can refresh its cached list."""
     files = [PROC / "bill_index.csv.gz", PROC / "bills.jsonl", ROOT / "data" / "watch" / "inbox.json", PROC / "ra_origin_bills.csv",
+             PROC / "bill_meta.csv",
              *PROC.glob("senate_listing_*.csv")]
     return tuple(int(f.stat().st_mtime) for f in files if f.exists())

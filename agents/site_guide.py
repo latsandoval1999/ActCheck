@@ -46,8 +46,11 @@ GUIDE = [
      "culture, or science that use none of the key words; the analyst confirms the type during review."),
     ("What is the LEDAC flag?", "Bills related by title to the 44 Common Legislative Agenda measures identified by the LEDAC on 30 September "
      "2025 are flagged 'LEDAC priority' on the Bills page; the analyst confirms the match."),
-    ("How do I review a bill?", "Click 'Reviewer check-in' at the top right, open the Bills page, click Review on a bill, then work through "
+    ("How do I review a bill?", "Click 'Reviewer Log In' at the top right (or Log In on any bill), open the Bills page, click Review on a bill, then work through "
      "the five steps in the Review workspace. Each step ends with a checklist that unlocks the next one."),
+    ("How can the public share inputs on a bill?", "On the Bills page, click Report on any bill. The bill's number and title are filled in; "
+     "choose what the report is about (history, changes, cost, overlaps, implementation, who is affected, a correction), write a message "
+     "and attach files if you like. Name, email and contact number are optional and seen only by reviewers."),
     ("Who decides the DBM position?", "Only the analyst. The agents prepare evidence and drafts; the analyst approves each step, sets the "
      "position and finalizes the memo and letter. The letter unlocks only after the position is set."),
     ("What are the safeguards?", "Every claim cites and quotes a source and the quote is checked; peso figures must come from the cost "

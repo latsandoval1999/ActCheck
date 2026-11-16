@@ -31,7 +31,7 @@ if getattr(sys, "_actcheck_stamp", None) != _code_stamp:
         del sys.modules[_m]
     sys._actcheck_stamp = _code_stamp
 
-from agents import llm, store, documents as docs  # noqa: E402
+from agents import llm, store, reports, documents as docs  # noqa: E402
 from agents.names import APP_NAME, AGENT1, AGENT2, AGENT3  # noqa: E402
 from pipeline import catalogue, typology, policy  # noqa: E402
 from pipeline.compare import load, related_bills  # noqa: E402
@@ -192,10 +192,10 @@ with st.container(key="topbar"):
             page = st.radio("Navigation", PAGES, key="nav", horizontal=True, label_visibility="collapsed")
         with n2:
             if REVIEWER:
-                st.button("✓ Reviewer · Check out", key="btn_checkout", on_click=check_out, use_container_width=True,
+                st.button("✓ Reviewer · Log Out", key="btn_checkout", on_click=check_out, use_container_width=True,
                           help="Return to the public view")
             else:
-                st.button("Reviewer check-in", key="btn_checkin", on_click=check_in, type="primary", use_container_width=True,
+                st.button("Reviewer Log In", key="btn_checkin", on_click=check_in, type="primary", use_container_width=True,
                           help="Open the review workspace (no password needed for this course prototype)")
 cat = bill_table(catalogue.stamp())
 
@@ -253,6 +253,45 @@ def start_review(row):
     go("Review workspace", row["id"])
 
 
+@st.dialog("Share a report on this bill", width="large")
+def report_dialog(row):
+    """Public input from civil society and others; contact details optional and seen only by reviewers."""
+    if st.session_state.get("reports_sent", 0) >= 5:
+        st.info("Thank you. You have sent several reports in this visit; please try again later.")
+        return
+    c1, c2 = st.columns([1, 3])
+    c1.text_input("Bill number", value=f'{row["label"]} ({row["congress"]}th Congress)', disabled=True)
+    c2.text_input("Title", value=row["title"] or row["short_title"], disabled=True)
+    cat_ = st.selectbox("What is your report about?", reports.CATEGORIES)
+    msg = st.text_area("Your message", height=140, placeholder="What should the reviewers know? Please be specific and cite sources where you can.")
+    up = st.file_uploader(f"Attach files (optional; up to {reports.MAX_FILE_MB} MB each)", type=reports.FILE_TYPES, accept_multiple_files=True)
+    st.markdown("**Your details (optional)**")
+    d1, d2, d3 = st.columns(3)
+    nm = d1.text_input("Name")
+    em = d2.text_input("Email")
+    ph = d3.text_input("Contact number")
+    gives = any(x.strip() for x in (nm, em, ph))
+    ok = st.checkbox("I agree that ActCheck may keep this report and any contact details I gave, to review it and follow up if needed "
+                     "(Data Privacy Act of 2012). Contact details are seen only by reviewers, never published.", value=False)
+    too_big = [f.name for f in up or [] if len(f.getvalue()) > reports.MAX_FILE_MB * 1024 * 1024]
+    problems = []
+    if len(msg.strip()) < 15:
+        problems.append("Please write a message of at least a sentence.")
+    if not reports.valid_email(em.strip()):
+        problems.append("Please check the email address.")
+    if too_big:
+        problems.append("Too large: " + ", ".join(too_big))
+    if gives and not ok:
+        problems.append("Please tick the consent box to send your contact details, or leave them blank.")
+    if st.button("Send report", type="primary", disabled=bool(problems) or (not ok and gives)):
+        reports.save(row["id"], row["label"], row["title"] or row["short_title"], cat_, msg, nm, em, ph, up)
+        st.session_state["reports_sent"] = st.session_state.get("reports_sent", 0) + 1
+        st.success("Thank you. Your report was sent to the reviewers.")
+    elif problems and (msg or gives or up):
+        st.caption(" ".join(problems))
+    st.caption("This is a student prototype, not an official channel of the House, the Senate or the DBM.")
+
+
 @st.dialog("Bill details", width="large")
 def bill_dialog(row):
     st.markdown(f"### {escape(row['label'])} · {row['congress']}th Congress")
@@ -265,12 +304,23 @@ def bill_dialog(row):
             ("Author", row["author"]), ("Listed from", row["source"])]
     st.caption(" · ".join(f"{k}: {v}" for k, v in meta if v))
     st.caption("The type and scope are assigned from the bill's title and should be confirmed during review.")
+    if REVIEWER:
+        rep = reports.all_reports(row["id"])
+        if rep:
+            with st.expander(f"Public reports on this bill ({len(rep)})"):
+                for x in rep:
+                    st.markdown(f"**{escape(x['category'])}** · {x['time'][:10]}" + (f" · {escape(x['name'])}" if x.get("name") else ""))
+                    st.write(x["message"])
+                    if x.get("email") or x.get("phone"):
+                        st.caption(" · ".join(v for v in (x.get("email"), x.get("phone")) if v))
+                    if x.get("files"):
+                        st.caption("Files: " + ", ".join(x["files"]))
     c1, c2 = st.columns(2)
     if REVIEWER:
         if c1.button("Review this bill", type="primary", key=f"dlg_rev_{row['id']}"):
             start_review(row)
     else:
-        c1.caption("Reviewers can send this bill to the review workspace after checking in (button at the top right).")
+        c1.caption("Reviewers can send this bill to the review workspace after logging in (button at the top right).")
     if row["source_url"]:
         c2.link_button("View bill (source document)", row["source_url"])
 
@@ -689,7 +739,7 @@ def billy_general():
     c1.button("Ask", key="billy_go_guide", on_click=_guide_ask, type="primary")
     if hist:
         c2.button("Clear chat", key="billy_clr_guide", on_click=lambda: st.session_state.update({"billy_guide": []}))
-    st.caption("To ask about a specific bill, open it in the Review workspace" + (" (check in as a reviewer first)." if not REVIEWER else "."))
+    st.caption("To ask about a specific bill, open it in the Review workspace" + (" (log in as a reviewer first)." if not REVIEWER else "."))
 
 
 def billy():
@@ -755,18 +805,19 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
 
     elif page == "Bills":
         ui.section("Legislative measures", "Every House and Senate bill",
-                   "Filter by Congress, bill type, type of measure and status. Click a title for details. Checked-in reviewers can click <b>Review</b> "
-                   "to send a bill to the review workspace; if ActCheck does not yet have its full text, it downloads it from the official source.")
+                   "Filter by Congress, bill type, category and status. Click a title for details. Anyone can share a <b>Report</b> on a bill with the "
+                   "reviewers. Reviewers who log in can click <b>Review</b> to send a bill to the review workspace; if ActCheck does not yet have its "
+                   "full text, it downloads it from the official source.")
         with st.container(border=True):
             f1, f2, f3, f4 = st.columns([0.8, 0.9, 1.6, 1.5])
             congress = f1.selectbox("Congress", ["20th", "19th", "18th", "All"])
             btype = f2.selectbox("Bill type", ["All", "House Bill", "Senate Bill"])
-            ttype = f3.selectbox("Type", ["All types"] + typology.CATEGORY_NAMES)
+            ttype = f3.selectbox("Category", ["All categories"] + sorted(typology.CATEGORY_NAMES))
             statuses = ["All statuses"] + [g for g in catalogue.GROUPS if (cat["status_group"] == g).any()]
             status = f4.selectbox("Status", statuses, help="Pending, enacted, consolidated or substituted, and not enacted. Each bill shows "
                                   "its sub-heading (e.g. In the committee); the exact status from the source is in the bill's details.")
             s1, s2, s3, s4 = st.columns([2.4, 1.1, 0.9, 0.9])
-            q = s1.text_input("Search bill number, title or subject", placeholder="e.g. HB 2322, water resources, coast guard")
+            q = s1.text_input("Search bill number, title, subject, or author", placeholder="e.g. HB 2322, water resources, Villar")
             applies = s2.selectbox("Applies to", ["All"] + typology.APPLICATION)
             ledac_only = s3.toggle("LEDAC priority", value=False, help="Bills related by title to the 44 Common Legislative Agenda measures of the 20th Congress (LEDAC, 30 Sept 2025)")
             fulltext = s4.toggle("Full text only", value=False)
@@ -775,7 +826,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             df = df[df["congress"] == congress[:2]]
         if btype != "All":
             df = df[df["bill_type"] == btype]
-        if ttype != "All types":
+        if ttype != "All categories":
             df = df[df["type"] == ttype]
         if status != "All statuses":
             df = df[df["status_group"] == status]
@@ -787,31 +838,34 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             df = df[df["reviewable"]]
         if q:
             key = q.lower().replace(" ", "")
-            hay = (df["label"] + df["title"] + df["short_title"]).str.lower().str.replace(" ", "", regex=False)
+            hay = (df["label"] + df["title"] + df["short_title"] + df["author"]).str.lower().str.replace(" ", "", regex=False)
             df = df[hay.str.contains(key, regex=False)]
         df = df.reset_index(drop=True)
         sig = (congress, btype, ttype, status, applies, ledac_only, fulltext, q)
         if st.session_state.get("bills_sig") != sig:
             st.session_state["bills_sig"], st.session_state["bills_page"] = sig, 1
-        per = 20
+        per = st.session_state.get("bills_per", 20)
         pages = max(1, -(-len(df) // per))
         pg = min(st.session_state.get("bills_page", 1), pages)
-        st.caption(f"{len(df):,} bills match · page {pg} of {pages:,}")
-        widths = [1.0, 5.4, 1.2, 1.9, 0.8, 1.0]
-        ui.html('<div class="ac-thead" style="grid-template-columns:' + " ".join(f"{w}fr" for w in widths) +
-                '"><span>Bill No.</span><span>Title</span><span>Bill type</span><span>Status</span><span>View bill</span><span>Review</span></div>')
+        k1, k2 = st.columns([4, 1.1], vertical_alignment="bottom")
+        k1.caption(f"{len(df):,} bills match · page {pg} of {pages:,}")
+        k2.selectbox("Bills per page", [20, 30, 40, 50], key="bills_per")
+        heads = ["Bill No.", "Title", "Bill type", "Status", "View bill", "Review"] + ([] if REVIEWER else ["Report"])
+        widths = [1.0, 5.4, 1.1, 1.8, 0.8, 1.0] + ([] if REVIEWER else [1.0])
+        ui.html('<div class="ac-thead" style="grid-template-columns:' + " ".join(f"{w}fr" for w in widths) + '">'
+                + "".join(f"<span>{h}</span>" for h in heads) + "</div>")
         with st.container(key="billgrid"):
             for _, r in df.iloc[(pg - 1) * per: pg * per].iterrows():
                 r = r.to_dict()
                 c = st.columns(widths, vertical_alignment="center")
                 c[0].markdown(f'<div class="ac-billno">{escape(r["label"])}</div>', unsafe_allow_html=True)
-                title = (r["short_title"] or r["title"] or "(title not yet available)")
-                title = title if len(title) <= 190 else title[:189].rsplit(" ", 1)[0] + "…"
+                title = r["title"] or r["short_title"] or "(title not yet available)"
                 for ch in "*_[]`#<>":
                     title = title.replace(ch, "\\" + ch)
                 if c[1].button(title, key=f"t_{r['id']}", type="tertiary"):
                     bill_dialog(r)
-                c[1].markdown(f'<div class="ac-filed">Filed {escape(r["date_filed"] or "date not listed")}'
+                c[1].markdown(f'<div class="ac-filed">Filed {escape(r["date_filed"] or "(date not shown in the source)")}'
+                              + (f' · Principal author: <b>{escape(r["author"])}</b>' if r.get("author") else "")
                               + (" · full text" if r["reviewable"] else "")
                               + (f' · <b style="color:#B3261E">LEDAC priority</b>' if r.get("ledac") else "") + "</div>", unsafe_allow_html=True)
                 c[2].markdown(r["bill_type"])
@@ -823,7 +877,9 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                     if c[5].button("Review", key=f"r_{r['id']}"):
                         start_review(r)
                 else:
-                    c[5].markdown('<div class="ac-filed">Reviewers only</div>', unsafe_allow_html=True)
+                    c[5].button("Log In", key=f"li_{r['id']}", on_click=check_in, help="Reviewer log in (no password for this course prototype)")
+                    if c[6].button("Report", key=f"rp_{r['id']}"):
+                        report_dialog(r)
         p1, p2, p3 = st.columns([1, 2, 1])
         if p1.button("← Previous", disabled=pg <= 1):
             st.session_state["bills_page"] = pg - 1
@@ -925,6 +981,15 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             st.dataframe(pd.DataFrame(rows), use_container_width=True, hide_index=True)
         else:
             st.caption("No agent runs logged yet in this deployment.")
+        rep_all = reports.all_reports()
+        ui.section("Public reports", "Inputs shared by civil society and others from the Bills page",
+                   f"{len(rep_all)} report(s) received on this server. " + ("Contact details are shown to reviewers only." if REVIEWER else
+                   "Reports and contact details are visible to reviewers only."))
+        if REVIEWER and rep_all:
+            st.dataframe(pd.DataFrame([{"Received": x["time"][:16].replace("T", " "), "Bill": x["label"], "Category": x["category"],
+                                        "Message": x["message"], "Name": x.get("name", ""), "Email": x.get("email", ""),
+                                        "Contact": x.get("phone", ""), "Files": ", ".join(x.get("files", []))} for x in rep_all]),
+                         use_container_width=True, hide_index=True)
         srcp = ROOT / "data" / "watch" / "sources.json"
         if srcp.exists():
             ui.section("Data sources", "Result of the latest source check",

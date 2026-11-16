@@ -353,7 +353,7 @@ def hero(app, sub, tagline, desc, credit="", stats=None, reviewer=False):
     """stats: (value, label, sub, colour) cards shown inside the banner below the buttons."""
     credit_html = f'<div class="ac-credit">{escape(credit)}</div>' if credit else ""
     rq = "&reviewer=1" if reviewer else ""
-    checkin = "" if reviewer else '<a class="ac-btn gold" href="?checkin=1" target="_self">Reviewer check-in →</a>'
+    checkin = "" if reviewer else '<a class="ac-btn gold" href="?checkin=1" target="_self">Reviewer Log In →</a>'
 
     stats_html = ""
     if stats:

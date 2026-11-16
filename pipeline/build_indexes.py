@@ -32,8 +32,34 @@ def _toml_get(key, s):
     return m.group(1).replace('\\"', '"') if m else ""
 
 
+def _person_names(open_congress):
+    """House author code -> 'First M. Last' from Open Congress person records."""
+    out = {}
+    for f in (Path(open_congress) / "data" / "person").glob("*.toml"):
+        s = f.read_text(encoding="utf-8", errors="ignore")
+        mid = _toml_get("middle_name", s)
+        name = " ".join(x for x in [_toml_get("first_name", s), (mid[:1] + ".") if mid else "", _toml_get("last_name", s),
+                                    _toml_get("name_suffix", s)] if x)
+        m = re.search(r"^congress_website_author_keys\s*=\s*\[(.*?)\]", s, re.M | re.S)
+        for k in re.findall(r'"([^"]+)"', m.group(1)) if m else []:
+            out[k] = name
+    return out
+
+
+def _author(ch, s, names):
+    """Principal (first listed) author."""
+    if ch == "sb":
+        a = _toml_get("authors_raw", s).split(";")[0].strip()
+        m = re.match(r"([^,]+),\s*(.+)", a)
+        return f"{m.group(2).strip()} {m.group(1).strip().title()}" if m else a
+    m = re.search(r"^congress_website_author_codes\s*=\s*\[(.*?)\]", s, re.M | re.S)
+    codes = re.findall(r'"([^"]+)"', m.group(1)) if m else []
+    return names.get(codes[0], "") if codes else ""
+
+
 def bill_index(open_congress):
     rows = []
+    names = _person_names(open_congress)
     base = Path(open_congress) / "data" / "document"
     for ch in ("hb", "sb"):
         for c in ("18", "19", "20"):
@@ -49,7 +75,7 @@ def bill_index(open_congress):
                 rows.append({"id": f"{ch.upper()}-{c}-{num.group(1) if num else ''}", "chamber": ch.upper(), "congress": c,
                              "number": num.group(1) if num else "", "date_filed": _toml_get("date_filed", s),
                              "short_title": _toml_get("title", s) if ch == "sb" else "", "title": " ".join(title.split()),
-                             "status": st[-1] if st else "", "pdf_url": url.group(1) if url else ""})
+                             "status": st[-1] if st else "", "pdf_url": url.group(1) if url else "", "author": _author(ch, s, names)})
     return rows
 
 
