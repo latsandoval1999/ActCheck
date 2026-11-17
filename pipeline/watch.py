@@ -275,23 +275,32 @@ def run_house(state, inbox, known, report, max_probe, stop_after, pending_days, 
         print(f"HB: would check {len(candidates)} numbers from {candidates[0]} to {candidates[-1]}")
         return
     misses, source_errors = 0, 0
-    for n in candidates:
+    tried = []
+    # far probes: if the House skipped a long block of numbers, a later number may already be up
+    far = [start + k for k in (60, 100, 150, 200, 300, 400)]
+    for n in candidates + far:
+        if n in tried:
+            continue
         if over_budget():
             report.setdefault("notes", []).append("time budget reached during the House check; the rest continues next run")
             break
         bid = f"{ch}-{CONGRESS}-{n}"
         if bid in known:
             continue
+        if misses >= stop_after and n not in far:
+            continue                      # skip the rest of the sequential scan, go to the far probes
+        if source_errors >= 3:
+            break
         data, info = SOURCES[ch](n)
+        tried.append(n)
         time.sleep(delay)
         if data is None:
             if info.startswith(("unavailable", "PDF unavailable", "HTTP 5")):
                 source_errors += 1
-            state["pending"].setdefault(ch, {}).setdefault(str(n), now())
-            if n >= start:
-                misses += 1
-            if misses >= stop_after or source_errors >= 3:
-                break
+            if n not in far:
+                state["pending"].setdefault(ch, {}).setdefault(str(n), now())
+                if n >= start:
+                    misses += 1
             continue
         misses = 0
         text, method = pdf_to_text(data)
@@ -304,6 +313,11 @@ def run_house(state, inbox, known, report, max_probe, stop_after, pending_days, 
         report["found"].append({k: item[k] for k in ("id", "screen", "title")})
         state["pending"].get(ch, {}).pop(str(n), None)
         state["last_seen"][ch] = max(state["last_seen"][ch], n)
+    if tried:
+        report["checked"][ch] = [min(tried), max(tried)]
+        report.setdefault("notes", []).append(
+            f"House: {len(tried)} numbers checked; highest published so far HB {state['last_seen'][ch]}; "
+            f"numbers above it are not yet on the House documents server")
     if source_errors >= 3:
         report["errors"][ch] = "source unavailable: check failed, NOT the same as 'no new bills'"
     cutoff = datetime.now(timezone.utc) - timedelta(days=pending_days)
