@@ -1,0 +1,301 @@
+                            Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES
+                            Quezon City, Metro Manila
+                                                                           June 1, 2026
+                              TWENTIETH CONGRESS                            11:46 am
+                                First Regular Session
+
+
+                                              9581
+                              HOUSE BILL NO. _____
+
+
+
+
+                                    Introduced by
+
+             HON. ATTY. GERVILLE “JINKY BITRICS” R. LUISTRO
+
+
+
+
+                           AN ACT
+ESTABLISHING A NATIONAL INTEROPERABLE ELECTRONIC HEALTH
+INFORMATION SYSTEM, CREATING FOR THE PURPOSE A NATIONAL
+HEALTH INFORMATION GOVERNANCE FRAMEWORK, MANDATING THE
+ADOPTION OF ELECTRONIC HEALTH RECORDS IN ALL HEALTH FACILITIES,
+PROVIDING SAFEGUARDS FOR DATA PRIVACY AND CYBERSECURITY,
+APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES
+
+
+
+                               EXPLANATORY NOTE
+
+       Article II, Section 15 of the 1987 Constitution recognizes the duty of the State
+to protect and promote the right to health of the people and to instill health
+consciousness among Filipinos. In support of this constitutional mandate, Republic Act
+No. 11223, or the “Universal Health Care Act,” emphasizes the need for an integrated
+and efficient health information system that will strengthen the delivery of accessible,
+responsive, and patient-centered healthcare services throughout the country.
+
+       While efforts toward healthcare digitalization continue to progress, the
+country’s health information systems remain largely fragmented and disconnected.
+The absence of a unified and interoperable electronic health record infrastructure has
+resulted in delays in patient care, duplication of medical procedures, inefficiencies in
+health service delivery, and limitations in public health monitoring and planning. These
+challenges are especially evident in underserved and geographically isolated
+communities where access to healthcare information and digital infrastructure remains
+limited.
+       This proposed measure seeks to establish a National Interoperable Electronic
+Health Information System (NIEHIS) that will integrate public and accredited private
+healthcare institutions into a secure, reliable, and patient-centered digital health
+network. Through the institutionalization of a National Electronic Health Record (EHR)
+System, the bill aims to ensure interoperability among healthcare providers,
+strengthen data privacy and cybersecurity protections, improve continuity and quality
+of care, and support evidence-based health governance and disease surveillance. It
+likewise provides mechanisms for offline accessibility in rural and remote areas and
+establishes a clear governance and implementation framework for the modernization
+of the country’s healthcare information systems.
+
+      Moreover, the measure upholds the rights of patients over their personal health
+information by ensuring informed consent, data protection, and secure access to
+medical records, while enabling authorized healthcare professionals’ timely access to
+accurate patient information necessary for efficient healthcare delivery.
+
+      In view of the foregoing, the immediate passage of this measure is earnestly
+sought.
+
+
+
+
+                          HON. ATTY. GERVILLE “JINKY BITRICS” R. LUISTRO
+                                Republic of the Philippines
+                              HOUSE OF REPRESENTATIVES
+                                Quezon City, Metro Manila
+
+                                  TWENTIETH CONGRESS
+                                    First Regular Session
+
+
+                                  HOUSE BILL NO. 9581
+                                                 _____
+
+
+
+
+                                         Introduced by
+
+                  HON. ATTY. GERVILLE “JINKY BITRICS” R. LUISTRO
+
+
+
+
+                                AN ACT
+     ESTABLISHING A NATIONAL INTEROPERABLE ELECTRONIC HEALTH
+     INFORMATION SYSTEM, CREATING FOR THE PURPOSE A NATIONAL
+     HEALTH INFORMATION GOVERNANCE FRAMEWORK, MANDATING THE
+     ADOPTION OF ELECTRONIC HEALTH RECORDS IN ALL HEALTH FACILITIES,
+     PROVIDING SAFEGUARDS FOR DATA PRIVACY AND CYBERSECURITY,
+     APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES
+
+ 1   Be it enacted by the Senate and House of Representatives of the Philippines in
+ 2   Congress assembled:
+ 3
+ 4          SECTION 1. Short Title. - This Act shall be known as the “National
+ 5   Interoperable Electronic Health Information System Act.
+ 6
+ 7          SECTION 2. Declaration of Policy. - It is hereby declared the policy of the
+ 8   State to protect and promote the right to health of every Filipino by ensuring
+ 9   accessible, efficient, responsive, and continuous healthcare services through digital
+10   transformation. Towards this end, the State shall institutionalize a secure,
+11   interoperable, and universally accessible electronic health information system
+12   nationwide, while upholding patient privacy, confidentiality, and ownership of health
+13   information consistent with Republic Act No. 10173, otherwise known as the “Data
+14   Privacy Act of 2012.” The State shall likewise promote evidence-based policymaking,
+15   disease surveillance, and effective health system planning through integrated health
+16   data systems, and ensure equitable access to digital healthcare services, especially in
+17   geographically isolated and disadvantaged areas.
+18
+19         SECTION 3. Definition of terms. - For purposes of this Act:
+ 1
+ 2   (a) “Electronic Health Record (EHR)” refers to a digital repository of patient health
+ 3   information containing medical history, diagnoses, medications, laboratory results,
+ 4   treatment plans, immunization records, and related health data;
+ 5
+ 6   (b) “Interoperability” refers to the capability of different health information systems
+ 7   and applications to exchange, interpret, and utilize data seamlessly;
+ 8
+ 9   (c) “Health Information Exchange (HIE)” refers to the electronic sharing of patient
+10   health information among authorized healthcare institutions and professionals;
+11
+12   (d) “National Electronic Health Record System (NEHRS)” refers to the centralized and
+13   interoperable national platform established under this Act;
+14
+15   (e) “Digital Health ID” refers to the unique identifier assigned to every Filipino for
+16   healthcare record access and integration;
+17
+18   (f) “Healthcare Provider” refers to any hospital, clinic, laboratory, rural health unit,
+19   health center, or licensed medical professional participating in the NEHRS;
+20
+21   (g) “Patient Consent” refers to the freely given, informed, and specific agreement by
+22   a patient permitting access to or sharing of health information.
+23
+24           SECTION 4. Establishment of the National Electronic Health Record
+25   System. - There is hereby established a National Electronic Health Record System
+26   (NEHRS) under the Department of Health (DOH), in coordination with the Department
+27   of Information and Communications Technology (DICT), PhilHealth, the Philippine
+28   Statistics Authority (PSA), and the National Privacy Commission (NPC).
+29           The NEHRS shall:
+30           (a) Serve as the centralized and interoperable repository of electronic health
+31           records nationwide;
+32
+33          (b) Ensure secure real-time access to patient records by authorized healthcare
+34          providers and patients;
+35
+36          (c) Integrate with PhilHealth systems, Universal Health Care databases, LGU
+37          health systems, and the Philippine Identification System (PhilSys);
+38
+39          (d) Provide offline access functionality for geographically isolated and
+40          disadvantaged areas;
+41          (e) Utilize internationally recognized interoperability and cybersecurity
+42          standards; and
+43
+44          (f) Support disease surveillance, public health monitoring, disaster response,
+45          and national health planning.
+46
+ 1            SECTION 5. Digital Health ID System. - Every Filipino shall be assigned a
+ 2   Digital Health ID linked with the Philippine Identification System whenever practicable,
+ 3   which shall be recognized and usable across all public and accredited private health
+ 4   facilities nationwide. The Digital Health ID shall be protected through multi-factor
+ 5   authentication and appropriate cybersecurity safeguards, and shall remain confidential
+ 6   and subject to the provisions of Republic Act No. 10173, otherwise known as the “Data
+ 7   Privacy Act of 2012.”
+ 8
+ 9          SECTION 6. Mandatory Adoption and Integration. - Within three (3)
+10   years from the effectivity of this Act, the following shall adopt and integrate into the
+11   NEHRS:
+12
+13          (a) All DOH-retained hospitals;
+14
+15          (b) Provincial, city, and municipal hospitals;
+16
+17          (c) Rural health units (RHUs), barangay health stations, and local health offices;
+18
+19          (d) State universities and colleges with health-related programs; and
+20
+21          (e) Government-operated laboratories and specialty centers.
+22
+23           Private healthcare facilities shall be encouraged to participate within the first
+24   two (2) years and shall thereafter comply with interoperability standards as a
+25   requirement for PhilHealth accreditation, reimbursements, and coordinated care
+26   participation.
+27
+28          SECTION 7. Patient Rights and Ownership of Health Information. -
+29   Patients shall retain ownership and access rights over their electronic health records.
+30   No health information shall be accessed, disclosed, or shared without the informed
+31   consent of the patient, except when required by law, upon lawful court order, during
+32   public health emergencies, or for lawful public health surveillance purposes consistent
+33   with existing laws. Patients shall likewise have the right to access their records, request
+34   corrections of inaccurate information, monitor access logs relating to their records,
+35   and receive notice of data breaches affecting their personal information.
+36
+37            SECTION 8. Data Privacy, Cybersecurity, and Ethical Use. - The
+38   Department of Health (DOH), the Department of Information and Communications
+39   Technology (DICT), and the National Privacy Commission (NPC) shall establish
+40   mandatory cybersecurity and data governance standards for all participating entities.
+41   Such standards shall include end-to-end encryption of health data, secure cloud and
+42   on-premise storage systems, multi-factor authentication, periodic cybersecurity audits
+43   and penetration testing, incident response and breach notification mechanisms, and
+44   ethical standards governing the use of health data, including research access and
+45   artificial intelligence applications. Unauthorized access, misuse, tampering, sale,
+ 1   disclosure, or negligent handling of health information shall be subject to penalties
+ 2   under existing laws and this Act.
+
+ 3          SECTION 9. National Health Information Governance Council. - There
+ 4   is hereby created a National Health Information Governance Council composed of:
+
+ 5   (a) Secretary of Health – Chairperson;
+
+ 6   (b) Secretary of the DICT – Vice Chairperson;
+
+ 7   (c) Chairperson of the NPC;
+
+ 8   (d) President and Chief Executive Officer of PhilHealth;
+
+ 9   (e) Representative from the PSA;
+
+10   (f) Representative from the Department of Science and Technology (DOST);
+
+11   (g) One (1) representative each from:
+
+12      1. Private hospitals;
+
+13      2. Government hospitals;
+
+14      3. Medical professional organizations;
+
+15      4. Information technology and cybersecurity experts; and
+
+16      5. Patient advocacy organizations.
+
+17   The Council shall formulate interoperability standards, governance policies,
+18   implementation protocols, cybersecurity guidelines, and compliance mechanisms.
+
+19          SECTION 10. Capacity Building and Technical Assistance. - The DOH,
+20   in coordination with the DICT, DOST, and TESDA, shall conduct nationwide training
+21   programs for healthcare workers, administrators, and information technology
+22   personnel.
+
+23          Priority assistance shall be given to geographically isolated and disadvantaged
+24   areas, including indigenous communities and underserved local government units.
+
+25            SECTION 11. Incentives for Early Compliance. - Private healthcare
+26   facilities and local government units that adopt and fully integrate into the NEHRS
+27   within the voluntary adoption period shall be entitled to incentives, which may
+28   include:
+
+29         (a) Priority access to government grants and subsidies;
+
+30         (b) Technical assistance and equipment support;
+ 1         (c) PhilHealth processing incentives; and
+
+ 2          (d) Tax deductions for qualified digital health infrastructure investments,
+ 3   subject to existing laws.
+
+ 4           SECTION 12. Penalties. - Any person or entity found guilty of unauthorized
+ 5   access, disclosure, misuse, tampering, or commercial exploitation of electronic health
+ 6   records shall, without prejudice to liabilities under Republic Act No. 10173 and other
+ 7   applicable laws, suffer the following penalties:
+ 8           (a) Imprisonment of six (6) months to six (6) years;
+ 9           (b) A fine ranging from Five Hundred Thousand Pesos (Php500,000.00) to Five
+10   Million Pesos (Php5,000,000.00); and
+11           (c) Revocation of licenses, accreditation, or authority to operate, when
+12   applicable.
+13           Public officials who knowingly fail to implement the provisions of this Act
+14   without justifiable cause shall be administratively liable.
+15
+16          SECTION 13. Appropriations. - The amount necessary for the initial
+17   implementation of this Act shall be charged against the current appropriations of the
+18   DOH, DICT, and PhilHealth. Thereafter, such sums as may be necessary for its
+19   continued implementation shall be included in the annual General Appropriations Act.
+20
+21          The government may likewise receive grants, donations, and technical
+22   assistance from development partners, subject to existing laws and auditing rules.
+23
+24          SECTION 14. Implementing Rules and Regulations. - Within ninety (90)
+25   days from the effectivity of this Act, the DOH, in coordination with the DICT, NPC,
+26   PhilHealth, PSA, DOST, and relevant stakeholders, shall promulgate the Implementing
+27   Rules and Regulations (IRR) necessary for the implementation of this Act.
+28
+29         SECTION 15. Separability Clause. - If any provision of this Act is declared
+30   unconstitutional, the remaining provisions shall remain in full force and effect.
+31
+32          SECTION 16. Repealing Clause. - All laws, decrees, orders, rules, and
+33   regulations inconsistent with this Act are hereby repealed or modified accordingly.
+34
+35          SECTION 17. Effectivity. - This Act shall take effect fifteen (15) days after
+36   its publication in the Official Gazette or in a newspaper of general circulation.
+37
+
+38         Approved,
+

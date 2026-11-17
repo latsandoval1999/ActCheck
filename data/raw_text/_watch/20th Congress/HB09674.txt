@@ -1,0 +1,511 @@
+                            Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES
+                                   Quezon City
+                            TWENTIETH CONGRESS                             June 2, 2026
+                              First Regular Session                         3:15 pm
+
+
+
+                               HOUSE BILL NO. 9674
+                                              ____
+
+
+            Introduced by REP. BERNADETTE “DETTE” G. ESCUDERO
+
+
+                           AN ACT
+ESTABLISHING A RECOVERY MECHANISM FOR ERRONEOUS ELECTRONIC
+     FUND TRANSFERS, PROVIDING REMEDIES AGAINST UNJUST
+   ENRICHMENT, DEFINING THE RESPONSIBILITIES OF FINANCIAL
+ INSTITUTIONS AND PAYMENT SERVICE PROVIDERS, AND FOR OTHER
+                         PURPOSES
+
+                                EXPLANATORY NOTE
+
+        In the age of instant digital payments, a single wrong digit can mean the loss
+of hard-earned money. While the law already rejects unjust enrichment, ordinary
+consumers who mistakenly transfer funds to the wrong account or mobile number are
+often left without a clear, prompt, and effective means of recovery. This premise is
+connected to the rapid growth of digital payments, mobile wallets, online banking,
+and instant fund transfers has made financial transactions more convenient for millions
+of Filipinos. With a few taps on a mobile phone, money may now be sent instantly to
+another person through a bank account, e-wallet, mobile number, QR code, or other
+digital payment channel.
+
+        In many cases, the online sender discovers the mistake only after the transfer
+has already been completed. The sender is then left to rely on customer service
+escalation, which at times is very tedious, and the cooperation of the unintended
+recipient, or costly and time-consuming legal remedies. Under existing principles of
+civil law, no person should unjustly enrich himself or herself at the expense of another.
+Where a person receives money without legal right and by reason of mistake, the
+obligation to return arises. Yet, while the substantive right to recover exists, there
+remains no clear, fast, uniform, and accessible statutory mechanism for ordinary
+consumers to recover funds erroneously transferred through digital payment systems.
+This gap disproportionately affects workers, small entrepreneurs, farmers, fisherfolk,
+students, overseas Filipino families, public transport workers, and ordinary consumers
+who rely heavily on digital wallets and electronic fund transfers for daily transactions.
+Even a modest amount sent to the wrong account may be significant to a Filipino
+household.
+
+
+
+                                           1
+        This bill seeks to establish a fair and practical recovery and redress mechanism
+for erroneous electronic fund transfers. It requires covered financial institutions and
+payment service providers to adopt preventive safeguards, including clear transaction
+confirmation prompts. It also provides for a timely reporting mechanism, provisional
+holding of disputed funds when still available, notice to the unintended recipient,
+consent-based return, and a structured process for contested claims. The measure
+carefully balances the rights of both the sender and the recipient. It does not authorize
+arbitrary or automatic reversal of transactions. Instead, it provides a clear mechanism
+to verify the claim, protect the funds where appropriate, and return the money when
+the mistake is admitted, uncontested, or duly established. It also protects good-faith
+recipients while imposing liability on persons who knowingly retain, conceal, withdraw,
+transfer, or spend money that they received by mistake and without lawful right. By
+establishing a practical legal framework for erroneous fund transfers, this measure
+strengthens consumer protection, promotes trust in digital financial services, prevents
+unjust enrichment, and ensures that the benefits of financial technology are not
+undermined by the absence of accessible remedies.
+
+       In view of the foregoing, the approval of this bill is earnestly sought.
+
+
+
+
+                                   HON. BERNADETTE “DETTE” G. ESCUDERO
+                                                Representative
+                                             1st District, Sorsogon
+
+
+
+
+                                           2
+                                Republic of the Philippines
+                              HOUSE OF REPRESENTATIVES
+                                       Quezon City
+                                TWENTIETH CONGRESS
+                                  First Regular Session
+
+
+                                                  9674
+                                   HOUSE BILL NO. ____
+
+
+                Introduced by REP. BERNADETTE “DETTE” G. ESCUDERO
+
+
+
+
+                                AN ACT
+     ESTABLISHING A RECOVERY MECHANISM FOR ERRONEOUS ELECTRONIC
+          FUND TRANSFERS, PROVIDING REMEDIES AGAINST UNJUST
+        ENRICHMENT, DEFINING THE RESPONSIBILITIES OF FINANCIAL
+      INSTITUTIONS AND PAYMENT SERVICE PROVIDERS, AND FOR OTHER
+                              PURPOSES
+
+     Be it enacted by the Senate and House of Representatives of the Philippines in
+     Congress assembled:
+ 1
+ 2         SECTION 1. Short Title. This Act shall be known as the “Erroneous Transfer
+ 3   Recovery Act.”
+ 4
+ 5          SEC. 2. Declaration of Policy. It is hereby declared the policy of the State
+ 6   to protect consumers, promote trust and confidence in digital financial services,
+ 7   strengthen the integrity of electronic payment systems, and ensure that no person
+ 8   shall unjustly enrich himself or herself at the expense of another.
+ 9
+10          Towards this end, the State shall establish a fair, prompt, accessible, and due-
+11   process-based mechanism for the recovery of funds erroneously transferred through
+12   electronic fund transfer systems, digital wallets, online banking platforms, mobile
+13   payment applications, and other similar financial channels.
+14
+15          The State shall likewise ensure that the mechanism established under this Act
+16   protects both the sender and the recipient, prevents abuse, respects data privacy, and
+17   preserves the stability and finality of legitimate financial transactions.
+18
+19          SEC. 3. Coverage. This Act shall apply to erroneous electronic fund transfers
+20   involving banks, non-bank financial institutions, electronic money issuers, operators
+21   of payment systems, payment service providers, remittance and transfer companies,
+22   and other entities supervised or regulated by the Bangko Sentral ng Pilipinas that
+23   enable the electronic transfer of funds.
+
+
+                                               1
+ 1          This Act shall cover fund transfers made through, but not limited to, the
+ 2   following:
+ 3       a) Bank-to-bank electronic transfers;
+ 4       b) E-wallet-to-e-wallet transfers;
+ 5       c) Bank-to-e-wallet and e-wallet-to-bank transfers;
+ 6       d) Mobile number-based fund transfers;
+ 7       e) QR code-based fund transfers;
+ 8       f) Online banking and mobile banking transfers;
+ 9       g) Remittance and digital payment platforms; and
+10       h) Such other electronic payment channels as may be determined by the Bangko
+11          Sentral ng Pilipinas.
+12
+13      SEC. 4. Definition of Terms. For purposes of this Act:
+14            a. Bangko Sentral refers to the Bangko Sentral ng Pilipinas (BSP).
+15            b. Covered Institution refers to any bank, non-bank financial institution,
+16               electronic money issuer, operator of payment system, payment service
+17               provider, remittance and transfer company, or other entity supervised
+18               or regulated by the Bangko Sentral that enables or facilitates electronic
+19               fund transfers.
+20            c. Electronic Fund Transfer refers to any transfer of funds initiated through
+21               electronic, digital, online, mobile, or other similar channels.
+22            d. Erroneous Fund Transfer refers to an electronic fund transfer made by
+23               mistake to an unintended recipient, wrong account, wrong mobile
+24               number, wrong wallet, wrong QR code, or in an incorrect amount due
+25               to the sender’s error, system error, or other analogous circumstance,
+26               where the recipient has no lawful right to receive or retain the funds.
+27               This does not apply to transfers or payments voluntarily made pursuant
+28               to a sale, purchase, loan, investment, or other commercial transaction.
+29            e. Originating Institution refers to the covered institution from which the
+30               funds were sent or through which the sender initiated the erroneous
+31               fund transfer.
+32            f. Receiving Institution refers to the covered institution that received or
+33               credited the funds to the account, wallet, or payment instrument of the
+34               unintended recipient.
+35            g. Sender refers to the person who initiated or caused the electronic fund
+36               transfer.
+37            h. Unintended Recipient refers to the person or account holder who
+38               received funds through an erroneous fund transfer and who has no
+39               lawful right to retain the same.
+40            i. Provisional Hold refers to the temporary restriction imposed on the
+41               amount subject of an erroneous fund transfer claim, without freezing
+42               the entire account or wallet of the recipient, unless otherwise authorized
+43               by law.
+44            j. Disputed Funds refer to the amount claimed to have been erroneously
+45               transferred, including any remaining portion thereof that is still available
+46               in the recipient’s account, wallet, or payment instrument.
+47
+
+
+                                                2
+ 1          SEC. 5. Pre-Transaction Safeguards. Covered institutions shall adopt
+ 2   reasonable safeguards to prevent erroneous fund transfers, including clear,
+ 3   conspicuous, and user-friendly confirmation prompts before a transfer is completed.
+ 4   The confirmation prompt shall display, whenever technically feasible and consistent
+ 5   with data privacy laws, the following:
+ 6             a. Amount to be transferred;
+ 7             b. Masked name or verified account name of the intended recipient;
+ 8             c. account number, mobile number, wallet number, or other recipient
+ 9                 identifier, with appropriate masking;
+10             d. Transaction fees, if any; and
+11             e. A clear warning that the sender must verify the recipient details before
+12                 confirming the transaction.
+13          Covered institutions shall provide an additional warning when the transfer is
+14   made to a new or unsaved recipient, or where the recipient name cannot be verified
+15   or displayed.
+16
+17          SEC. 6. Right to Report an Erroneous Fund Transfer. A sender who claims
+18   to have made an erroneous fund transfer may file an Erroneous Fund Transfer
+19   Recovery Request with the originating institution through any available branch,
+20   hotline, mobile application, online platform, electronic mail, or other accessible
+21   reporting channel.
+22          Covered institutions shall maintain a twenty-four-seven (24/7) reporting
+23   channel for erroneous fund transfer complaints and shall provide the sender with an
+24   acknowledgment, reference number, and list of documentary requirements.
+25   The request shall contain, at minimum:
+26             a) Name and contact details of the sender;
+27             b) Date and time of the transaction;
+28             c) Amount transferred;
+29             d) Transaction reference number;
+30             e) Account, wallet, mobile number, QR code, or other identifier used;
+31             f) Reason why the transfer is claimed to be erroneous; and
+32             g) Proof of the transaction and such other information as may be required
+33                under the implementing rules and regulations.
+
+34          The sender or claimant shall certify, through written, electronic, recorded, or
+35   other verifiable means, that the information and documents submitted in support of
+36   the Erroneous Fund Transfer Recovery Request are true and correct to the best of his
+37   or her knowledge. The certification shall include a notice that the filing of a false,
+38   fraudulent, malicious, or materially misleading claim shall subject the claimant to civil,
+39   administrative, and criminal liability under this Act and other applicable laws.
+
+40         SEC. 7. Duties of the Originating Institution. Upon receipt of a sufficient
+41   Erroneous Fund Transfer Recovery Request, the originating institution shall:
+
+42             a. Acknowledge the complaint and issue a reference number;
+43             b. Conduct a preliminary verification of the transaction based on available
+44                records;
+
+
+                                                 3
+ 1             c. Notify the receiving institution not later than the next banking day from
+ 2                receipt of sufficient information;
+ 3             d. Assist the sender in completing the required documentation;
+ 4             e. Provide periodic updates to the sender; and
+ 5             f. Coordinate with the receiving institution for the verification, provisional
+ 6                holding, and possible return of the disputed funds.
+ 7                The originating institution shall not dismiss a request solely on the
+ 8                ground that the transfer was completed, where the sender has
+ 9                presented sufficient information to identify and verify the transaction.
+10
+11          SEC. 8. Duties of the Receiving Institution. Upon notice from the
+12   originating institution, the receiving institution shall:
+13              a) Verify whether the disputed funds, or any portion thereof, remain
+14                  available in the account, wallet, or payment instrument of the
+15                  unintended recipient;
+16              b) When warranted by the records and when funds remain available,
+17                  impose a provisional hold only on the disputed amount or remaining
+18                  available portion thereof;
+19              c) Notify the unintended recipient of the claim and the provisional hold, if
+20                  any;
+21              d) Provide the unintended recipient with an opportunity to consent to the
+22                  return or to contest the claim;
+23              e) Coordinate with the originating institution for the resolution of the
+24                  request; and
+25              f) Act within the periods prescribed under this Act and its implementing
+26                  rules and regulations.
+27
+28        The receiving institution shall not impose a hold exceeding the disputed
+29   amount, unless otherwise authorized by law, court order, or competent authority.
+30
+31          SEC. 9. Provisional Hold on Disputed Funds. Upon receipt of a verified
+32   report of an alleged erroneous fund transfer, the receiving covered institution shall
+33   impose a provisional hold on the disputed funds, or any available portion thereof,
+34   when all of the following conditions are present:
+35             a) Transaction can be identified through the records of the covered
+36                 institutions;
+37             b) The disputed funds, or any portion thereof, remain available in the
+38                 account, wallet, payment instrument, or other financial account of the
+39                 unintended recipient;
+40             c) The claim is supported by prima facie evidence, as may be defined by
+41                 the Bangko Sentral ng Pilipinas; and
+42             d) The imposition of the provisional hold is technically and legally possible.
+43                 The provisional hold shall be limited only to the amount subject of the
+44                 alleged erroneous fund transfer and shall not extend to unrelated funds,
+45                 accounts, wallets, or transactions of the unintended recipient, unless
+46                 otherwise authorized by law, court order, or competent authority.
+47
+
+
+                                                4
+ 1           The provisional hold shall remain effective for a period not exceeding fifteen
+ 2   (15) banking days from notice to the unintended recipient, unless extended by consent
+ 3   of the parties, order of a court, directive of a competent authority, or such other
+ 4   circumstances as may be provided in the implementing rules and regulations. The
+ 5   imposition of a provisional hold shall not be deemed a determination of ownership,
+ 6   fault, fraud, or criminal liability, but shall serve only as a temporary protective measure
+ 7   pending verification, consent-based return, dispute resolution, or lawful determination
+ 8   of the claim.
+ 9
+10          SEC. 10. Notice to the Unintended Recipient. Upon receipt of a verified
+11   claim involving an alleged erroneous fund transfer, the receiving covered institution
+12   shall promptly notify the unintended recipient that a claim has been made over funds
+13   credited to his or her account, wallet, payment instrument, or other financial account.
+
+14          The notice shall state the amount claimed, the date and time of the transaction,
+15   the transaction reference number, where available, and the fact that the funds are
+16   alleged to have been transferred by mistake. It shall likewise inform the unintended
+17   recipient of his or her right to consent to the return of the disputed funds or to contest
+18   the claim within the period prescribed by the Bangko Sentral ng Pilipinas. The notice
+19   shall also clearly state the possible consequences of bad-faith withdrawal,
+20   concealment, transfer, use, conversion, or refusal to return funds received without
+21   lawful right, without prejudice to the rights and remedies of the parties under existing
+22   laws.
+
+23          Notice under this Section shall be made through the registered communication
+24   channels of the unintended recipient, including in-app notification, text message,
+25   electronic mail, registered mobile number, or such other secure and verifiable means
+26   as may be allowed by the Bangko Sentral ng Pilipinas.
+
+27          For purposes of this Act, notice shall be deemed sufficient upon proof of
+28   successful electronic transmission to the registered communication channel of the
+29   unintended recipient, or upon documented notification attempts through the available
+30   registered communication channels, as confirmed by the records of the receiving
+31   covered institution and in accordance with the standards prescribed by the Bangko
+32   Sentral ng Pilipinas.
+
+33
+34          SEC. 11. Consent-Based Return of Funds. If the unintended recipient
+35   consents to the return of the disputed funds, the receiving institution shall return the
+36   funds to the sender through the originating institution within the period prescribed by
+37   the Bangko Sentral.
+38
+39          The consent may be given electronically, in writing, through an in-app
+40   confirmation, recorded customer service channel, or other verifiable means.
+41   No fee shall be charged to the sender or the unintended recipient for the return of
+42   funds under this Section, except such reasonable charges as may be approved or
+43   authorized by the Bangko Sentral.
+44
+
+                                                 5
+ 1          SEC. 12. Uncontested Claims. If the unintended recipient fails to respond
+ 2   within seven (7) banking days from receipt of notice, and the available records and
+ 3   submitted documents sufficiently establish that the transfer was erroneous, the
+ 4   receiving institution may, in coordination with the originating institution, return the
+ 5   disputed funds to the sender.
+ 6          The Bangko Sentral shall prescribe safeguards to ensure that the unintended
+ 7   recipient is given adequate notice and opportunity to contest the claim before any
+ 8   return is made under this Section.
+ 9
+10          SEC. 13. Contested Claims. If the unintended recipient contests the claim,
+11   the covered institutions shall not make a final determination of ownership over the
+12   disputed funds, unless expressly authorized by law, court order, directive of a
+13   competent authority, or the implementing rules and regulations issued pursuant to
+14   this Act.
+15          In such cases, the originating institution and the receiving institution shall
+16   promptly inform both the sender and the unintended recipient that the claim has been
+17   contested. The covered institutions shall assist the parties in the voluntary resolution
+18   or mediation of the dispute, consistent with the procedures prescribed by the Bangko
+19   Sentral ng Pilipinas. Subject to the Data Privacy Act of 2012, bank secrecy laws, and
+20   other applicable confidentiality rules, each party shall be furnished or allowed access
+21   to the necessary transaction records pertaining to his or her own account, wallet,
+22   payment instrument, or transaction, including such records as may be necessary to
+23   establish the fact, amount, date, time, and reference number of the disputed transfer.
+24          Where available, the covered institutions shall refer the parties to the
+25   appropriate consumer assistance, mediation, or dispute resolution mechanism under
+26   the Bangko Sentral ng Pilipinas or other competent authority. The sender shall likewise
+27   be informed of the right to pursue civil, small claims, criminal, administrative, or other
+28   remedies available under existing laws.
+29          The provisional hold, if any, shall be governed by the period and conditions
+30   provided under this Act and its implementing rules and regulations, unless extended
+31   by consent of the parties, order of a court, or directive of a competent authority.
+32
+33          SEC. 14. Criminal Liability. Any person who, after receipt of valid notice
+34   and with intent to gain or to permanently deprive the sender of the funds, knowingly
+35   withdraws, transfers, conceals, converts, or uses funds received through an erroneous
+36   fund transfer and without lawful right shall, upon conviction, be punished by a fine of
+37   not less than the amount wrongfully retained or converted but not more than three
+38   (3) times such amount, or imprisonment of arresto mayor, or both, at the discretion
+39   of the court.
+40          No criminal liability shall arise from mere receipt of an erroneous fund transfer,
+41   good-faith delay, inability to immediately respond, or a genuine dispute as to
+42   entitlement to the funds.
+43          This Section shall be without prejudice to prosecution under the Revised Penal
+44   Code, the Cybercrime Prevention Act, the Anti-Financial Account Scamming Act, and
+45   other applicable laws when the acts complained of constitute offenses under said laws.
+46
+47
+48
+
+                                                 6
+ 1          SEC. 15. Protection of Good-Faith Recipients. An unintended recipient
+ 2   who promptly reports, discloses, preserves, or returns funds received through an
+ 3   erroneous fund transfer shall not be subject to criminal, civil, or administrative liability
+ 4   solely by reason of having received the funds by mistake.
+ 5          Covered institutions shall provide simple and accessible channels through which
+ 6   recipients may report and return funds that they believe were erroneously credited to
+ 7   their accounts, wallets, or payment instruments.
+ 8
+ 9           SEC. 16. Duties and Liability of Covered Institutions. Covered
+10   institutions shall adopt policies, systems, and procedures necessary to implement this
+11   Act, including:
+12               a) Clear transaction confirmation safeguards;
+13               b) Accessible reporting channels;
+14               c) Timely acknowledgment and tracking of complaints;
+15               d) Inter-institution coordination;
+16               e) Provisional holding procedures;
+17               f) Notice and response mechanisms;
+18               g) Consumer assistance and dispute resolution procedures; and
+19               h) Data protection and recordkeeping standards. A covered institution shall
+20                    not be liable for the sender’s own encoding error when it has complied
+21                    with the requirements of this Act and its implementing rules and
+22                    regulations.
+23           However, a covered institution may be held administratively liable for
+24   unjustified failure to act on a sufficient report, failure to coordinate with the concerned
+25   institution, failure to notify the unintended recipient, or failure to impose a provisional
+26   hold when the conditions under Section 9 of this Act are clearly present, the disputed
+27   funds or any portion thereof remain available, and the imposition of such hold is
+28   technically and legally possible.
+29
+30           No liability shall attach when the disputed funds are no longer available at the
+31   time the receiving covered institution receives sufficient notice, when the transaction
+32   cannot be reasonably identified from available records, when the claim is not
+33   supported by prima facie evidence, or when the provisional hold cannot be imposed
+34   due to technical, legal, regulatory, or operational limitations not attributable to bad
+35   faith, gross negligence, or willful misconduct of the covered institution.
+36
+37           SEC. 17. Limited Immunity for Good-Faith Compliance. A covered
+38   institution, including its directors, officers, and employees, shall not be held liable for
+39   imposing a provisional hold or returning disputed funds when such action is done in
+40   good faith, in accordance with this Act, its implementing rules and regulations, a court
+41   order, or a directive of a competent authority.
+42   This immunity shall not apply in cases of gross negligence, bad faith, fraud, willful
+43   misconduct, or violation of data privacy and bank secrecy laws.
+44
+45          SEC. 18. Data Privacy and Confidentiality. All proceedings, notices,
+46   disclosures, and exchanges of information under this Act shall comply with the Data
+47   Privacy Act of 2012, bank secrecy laws, and other applicable confidentiality rules.
+
+
+                                                  7
+ 1   Covered institutions shall disclose only such information as is necessary to verify, hold,
+ 2   return, or resolve the erroneous fund transfer, or as may be required by the Bangko
+ 3   Sentral, a court, law enforcement agency, or other competent authority.
+ 4   The full identity, address, account details, or contact information of the sender or
+ 5   unintended recipient shall not be disclosed to the other party except with consent,
+ 6   lawful order, or as otherwise authorized by law.
+ 7
+ 8          SEC. 19. Transaction Records as Prima Facie Evidence. Certified
+ 9   transaction records, electronic confirmations, notices, reference numbers, account
+10   statements, and reports issued by covered institutions in connection with an erroneous
+11   fund transfer shall be admissible as prima facie evidence in civil, criminal,
+12   administrative, small claims, or other proceedings, subject to the Rules on Electronic
+13   Evidence and other applicable rules.
+14
+15          SEC. 20. Small Claims and Judicial Remedies. Nothing in this Act shall
+16   prevent the sender from pursuing recovery through the appropriate court, including
+17   the small claims procedure where applicable.
+18          Courts shall give due consideration to the summary nature of erroneous fund
+19   transfer claims and may direct the production of relevant transaction records from
+20   covered institutions, subject to applicable laws on confidentiality, data privacy, and
+21   bank secrecy.
+22
+23           SEC. 21. Consumer Education. The Bangko Sentral, in coordination with
+24   covered institutions and relevant government agencies, shall conduct public
+25   information campaigns on safe digital fund transfers, proper verification of recipient
+26   details, reporting of erroneous transfers, and the legal duty to return funds received
+27   by mistake.
+28   Covered institutions shall regularly remind users to verify the recipient’s account name,
+29   mobile number, QR code, or other payment identifier before confirming a transaction.
+30
+31           SEC. 22. Administrative Sanctions. The Bangko Sentral may impose
+32   administrative sanctions, fines, or penalties upon covered institutions, their directors,
+33   officers, or responsible employees for violations of this Act, its implementing rules and
+34   regulations, or lawful directives issued pursuant thereto, in accordance with existing
+35   banking, payment systems, and financial consumer protection laws.
+36   The Bangko Sentral may likewise require covered institutions to adopt corrective
+37   measures, improve systems, refund improper charges, submit compliance reports, or
+38   undertake consumer redress measures.
+39
+40           SEC. 23. Implementing Rules and Regulations. Within one thirty (30)
+41   days from the effectivity of this Act, the Bangko Sentral, in consultation with covered
+42   institutions, consumer groups, the National Privacy Commission, the Department of
+43   Justice, and other relevant stakeholders, shall promulgate the rules and regulations
+44   necessary for the effective implementation of this Act.
+45   The implementing rules and regulations shall include:
+46               a) Standardized reporting procedures;
+47               b) Minimum documentary requirements;
+
+
+                                                 8
+ 1               c) Timelines for acknowledgment, coordination, notice,            response,
+ 2                  provisional hold, and return;
+ 3               d) Safeguards against fraudulent or abusive claims;
+ 4               e) Rules on provisional holds and release of disputed funds;
+ 5               f) Procedures for contested claims;
+ 6               g) Consumer assistance and mediation mechanisms;
+ 7               h) Allowable or prohibited fees;
+ 8               i) Recordkeeping and reporting obligations;
+ 9               j) Data privacy and confidentiality safeguards; and
+10               k) Such other matters necessary to implement this Act.
+11
+12         SEC. 24. Separability Clause. If any provision of this Act is held invalid or
+13   unconstitutional, the other provisions not so declared shall remain in force and effect.
+14
+15          SEC. 25. Repealing Clause. All laws, decrees, orders and rules and
+16   regulations contrary to or inconsistent with the provisions of this Act are hereby
+17   repealed or amended accordingly.
+18
+19          SEC. 26. Effectivity. This Act shall take effect fifteen (15) days after its
+20   publication in the Official Gazette or in a newspaper of general circulation.
+
+     Approved,
+
+
+
+
+                                                9
+
