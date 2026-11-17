@@ -795,7 +795,9 @@ def case(bid):
                     st.rerun()
             from agents import grading
             gr3 = appraise.grade(bid, a_out, a_checks if a_ai else None)
-            done3 = checklist(bid, "a3", CHECK3, heading=None, subs={0: a_out.get("reviewer_checks") or []},
+            # the permanent Red-teamer attacks every ApprAIsal output in the background; its findings join the checklist
+            done3 = checklist(bid, "a3", CHECK3, heading=None,
+                              subs={0: (a_out.get("reviewer_checks") or []) + appraise.redteam_points(appraise.redteam(bid, a_out, c_out))},
                               notes={0: grading.note_html(gr3, AGENT3)})
             if done3 and not rec.get("approved_review"):
                 store.save(bid, "approved_review", {"summary": b["title"], "apprAIsal": a_out.get("recommendation")}, "Reviewer approved the review")

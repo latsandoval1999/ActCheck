@@ -19,6 +19,9 @@ Commands
   python scripts/traice_batch.py prompt BILL apprAIsal  ApprAIsal's prompt (needs saved TrAIce and CompAIre runs)
   python scripts/traice_batch.py save BILL FILE apprAIsal  checks and saves an ApprAIsal answer (data/agent_runs/BILL/apprAIsal.json)
   python scripts/traice_batch.py save BILL FILE compaire  checks and saves a CompAIre answer (data/agent_runs/BILL/compaire.json)
+  python scripts/traice_batch.py redteam-next [N]    workspace bills with a saved ApprAIsal run but no Red-teamer run yet
+  python scripts/traice_batch.py prompt BILL redteam    the Red-teamer's prompt (attacks the saved ApprAIsal run)
+  python scripts/traice_batch.py save BILL FILE redteam   checks and saves a Red-teamer answer (data/agent_runs/BILL/redteam.json)
 """
 import json
 import sys
@@ -91,6 +94,40 @@ def main(argv):
     elif cmd == "next":
         n = int(argv[2]) if len(argv) > 2 else 12
         print("\n".join(pending(_rows())[:n]))
+    elif cmd == "redteam-next":
+        n = int(argv[2]) if len(argv) > 2 else 6
+        ws = WORKSPACE.read_text().split() if WORKSPACE.exists() else []
+        print("\n".join([i for i in dict.fromkeys(ws) if (RUNS / i / "apprAIsal.json").exists()
+                          and not (RUNS / i / "redteam.json").exists()][:n]))
+    elif cmd == "prompt" and len(argv) > 3 and argv[3] == "redteam":
+        from agents import appraise
+        from agents.costing import cost_range
+        bid = argv[2]
+        t, c = _traice_out(bid), _compaire_out(bid)
+        a = appraise.normalize((appraise.saved_ai(bid) or {}).get("output"), bid, appraise.rule_draft(bid, t, c, cost_range(bid)))
+        system, user = appraise.build_redteam_messages(bid, a, c, cost_range(bid))
+        TMP.mkdir(exist_ok=True)
+        out = TMP / f"{bid}.redteam.prompt.md"
+        out.write_text(f"# SYSTEM PROMPT\n\n{system}\n\n# USER MESSAGE\n\n{user}\n")
+        print(out)
+    elif cmd == "save" and len(argv) > 4 and argv[4] == "redteam":
+        from agents import appraise
+        from agents.costing import cost_range
+        bid, path = argv[2], argv[3]
+        rt = json.loads(Path(path).read_text())
+        if rt.get("target") != bid:
+            sys.exit(f"target is {rt.get('target')!r}, expected {bid}")
+        t, c = _traice_out(bid), _compaire_out(bid)
+        a = appraise.normalize((appraise.saved_ai(bid) or {}).get("output"), bid, appraise.rule_draft(bid, t, c, cost_range(bid)))
+        checks = appraise.check_redteam(rt, a)
+        bad = [x for x in checks if x.get("check") != "verified"]
+        if bad:
+            print(json.dumps(bad, ensure_ascii=False, indent=1))
+            sys.exit(f"{len(bad)} checks failed; fix them and save again")
+        (RUNS / bid / "redteam.json").write_text(json.dumps({"output": rt, "checks": checks, "meta": {
+            "prepared_by": "Claude (Red-teamer run, separate session, under the owner's Claude subscription)",
+            "time": datetime.now(timezone.utc).isoformat(timespec="seconds")}}, ensure_ascii=False, indent=1))
+        print(f"saved Red-teamer {bid}: {len(rt.get('findings') or [])} findings; verdict {rt.get('verdict')}")
     elif cmd == "apprAIsal-next":
         n = int(argv[2]) if len(argv) > 2 else 6
         ws = WORKSPACE.read_text().split() if WORKSPACE.exists() else []

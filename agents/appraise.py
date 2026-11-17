@@ -470,6 +470,148 @@ def check_output(out, draft):
     for r in out.get("fiscal_rows") or []:
         if r.get("section_id") and r.get("quote"):
             checks += check_citations([{"claim": r.get("item", ""), "section": r["section_id"], "quote": r["quote"]}])
+    checks += drift_checks(out)
     if not checks:
         checks.append({"claim": "figures and lists", "section": "", "quote": "", "check": "verified"})
     return checks
+
+
+# ---------------- the team: ApprAIsal leads four sub-agents and a permanent Red-teamer ----------------
+TEAM = [
+    ("Costing", "Estimates Personnel Services, MOOE and Capital Outlay from DBM costing parameters and the 2026 salary schedule; "
+                "computed by code, so no figure is invented"),
+    ("Duplication", "Compares the bill's functions with existing bodies and laws and assesses any overlap under RA No. 12231"),
+    ("Referral", "Matches the agencies named in the bill with the DBM bureaus' coverage and functions"),
+    ("Recommendation", "Proposes one of the three Part VII options from the issues found in Parts IV to VI"),
+    ("Red-teamer", "Attacks every ApprAIsal output before the reviewer sees it: scope, figures, consistency between parts, "
+                   "missing referrals; its findings go to the Step 3 checklist"),
+]
+# drift: tasks ApprAIsal must never take on (stating the DBM position, signing, naming officials, political advice, personal data)
+DRIFT = [
+    (r"\bDBM\s+(?:supports|opposes|endorses|approves)\b", "states a DBM position outside the Part VII options"),
+    (r"\bapproved\s+by\b|\bsigned\s+by\b", "says the memo is approved or signed by someone"),
+    (r"\b(?:Secretary|Undersecretary|Usec\.|Asec\.|Director)\s+[A-Z][a-z]+\s+[A-Z]", "names an official"),
+    (r"\b(?:vote|votes|voting)\s+(?:for|against)\b|\bthe author should\b|\bpolitical(?:ly)?\b", "gives political or voting advice"),
+    (r"[\w.+-]+@[\w-]+\.[\w.]+|\b09\d{2}[\s-]?\d{3}[\s-]?\d{4}\b", "includes personal contact details"),
+    (r"\bignore (?:all |the )?(?:previous|prior) instructions\b", "repeats an instruction planted in a document"),
+]
+
+
+def drift_checks(out):
+    """Scope-drift test applied to every ApprAIsal output, Claude's or the rules'. The bureaus' office e-mail addresses
+    (added by ActCheck to the referral list, not written by the agent) are not personal details."""
+    text = json.dumps({k: out.get(k) for k in ("fiscal_rows", "memo", "duplications")}, ensure_ascii=False)
+    text += json.dumps([{k: r.get(k) for k in ("why", "parts")} for r in out.get("referrals") or []], ensure_ascii=False)
+    found = []
+    for rx, why in DRIFT:
+        m = re.search(rx, text, 0 if why == "names an official" else re.I)
+        if m and not m.group(0).lower().endswith("@dbm.gov.ph"):
+            found.append({"claim": "scope", "section": "", "quote": m.group(0), "check": f"out of scope: {why}"})
+    return found
+
+
+def redteam(bid, out, c_out=None):
+    """The permanent Red-teamer (rules, always on). Returns findings for the reviewer's checklist:
+    [{"sub": sub-agent concerned, "issue": text, "severity": "revise first" | "check"}]."""
+    f = []
+    def add(sub, issue, sev="check"):
+        f.append({"sub": sub, "issue": issue, "severity": sev})
+    for c in drift_checks(out):
+        add("Lead", f"The draft {c['check'][len('out of scope: '):]} (\"{c['quote']}\"); remove it before the memo is compiled.", "revise first")
+    rec = out.get("recommendation") or {}
+    key, issues = rec.get("option"), rec.get("issues") or []
+    memo = out.get("memo") or {}
+    part4 = sum(len(p.get("paragraphs") or []) for p in (c_out or {}).get("memo_part") or [])
+    dups = out.get("duplications") or []
+    if key == "a" and (part4 or dups):
+        add("Recommendation", f"Part VII proposes no objection as filed, but Part IV has {part4} recommendation(s) and Part VI "
+                              f"{len(dups)} possible duplication(s); option b may fit better.", "revise first")
+    if key in ("b", "c") and not issues:
+        add("Recommendation", "Part VII asks for amendments or deferment but lists no issues to address.", "revise first")
+    if key and memo.get("VII") and OPTIONS.get(key, ("", ""))[1] not in " ".join(memo["VII"]):
+        add("Recommendation", "Part VII does not use the exact wording of the chosen option.", "revise first")
+    est = out.get("estimate") or {}
+    hi = (est.get("high") or {}).get("total", 0)
+    if key == "a" and est.get("applies") is not False and hi >= 1_000_000_000:
+        add("Recommendation", f"The upper estimate is {peso(hi)} a year or more, yet Part VII raises no fiscal issue.")
+    if dups and not any(r.get("bureau") == "SPIB" for r in out.get("referrals") or []):
+        add("Referral", "Part VI finds a possible duplication, but the SPIB is not among the bureaus to consult.")
+    funding = [g["bureau"] for g in coverage(bid) if g.get("role") in ("funding", "transfer")]
+    named = {r.get("bureau") for r in out.get("referrals") or []}
+    for b_ in funding:
+        if b_ not in named:
+            add("Referral", f"{b_} covers an agency whose budget or functions the bill uses, but it is not among the bureaus to consult.")
+    if dups and not memo.get("VI"):
+        add("Duplication", "A possible duplication was found but Part VI is empty.", "revise first")
+    for d in dups:
+        if not d.get("intent_to_abolish") and re.search(r"consistent with the objectives of RA No\. 12231", d.get("assessment", "")):
+            add("Duplication", f"The assessment of {d.get('function', 'a function')} treats an overlap as consistent with RA No. 12231 "
+                               "although the bill does not abolish or merge the existing body.")
+    if est.get("applies") is not False and memo.get("V") and peso(hi) not in " ".join(memo["V"]) and hi:
+        add("Costing", "Part V does not state the estimate's upper figure; check that the estimate in the table reached the memo.")
+    for r in out.get("fiscal_rows") or []:
+        if not (r.get("recommendation") or "").strip() or not (r.get("risks") or "").strip():
+            add("Costing", f"The fiscal row '{r.get('item', '')}' has no recommendation or no risk stated.")
+    if c_out:
+        p4 = " ".join(x for p in c_out.get("memo_part") or [] for x in p.get("paragraphs") or [])
+        seen = {re.sub(r"\W+", " ", s.lower()).strip() for s in re.split(r"(?<=[.;])\s+", p4) if len(s) > 60}
+        again = [s for part in ("V", "VI") for line in memo.get(part) or [] for s in re.split(r"(?<=[.;])\s+", line)
+                 if len(s) > 60 and re.sub(r"\W+", " ", re.sub(r"^\d+\.\d+\s+", "", s).lower()).strip() in seen]
+        if again:
+            add("Lead", f"{len(again)} sentence(s) in Parts V and VI repeat Part IV word for word; they are dropped when the memo is compiled.")
+    saved = saved_redteam(bid)
+    for x in (saved or {}).get("findings") or []:
+        add(x.get("sub", "Lead"), x.get("issue", ""), x.get("severity", "check"))
+    return f
+
+
+def saved_redteam(bid):
+    p = RUNS / bid / "redteam.json"
+    try:
+        return json.loads(p.read_text()).get("output") if p.exists() else None
+    except Exception:
+        return None
+
+
+def redteam_points(findings):
+    """Checklist lines: the verdict first, then each finding."""
+    if not findings:
+        return ["Red-teamer: Parts V to VII checked for scope, figures, consistency and referrals; no issue found."]
+    sev = any(x["severity"] == "revise first" for x in findings)
+    return ([f"Red-teamer verdict: {'revise first' if sev else 'proceed, with points to check'} ({len(findings)} finding"
+             f"{'s' if len(findings) > 1 else ''})."]
+            + [f"Red-teamer ({x['sub']}): {x['issue']}" for x in findings])
+
+
+def build_redteam_messages(bid, out, c_out, cost):
+    from agents import llm
+    bills, secs = load()
+    keep = [x for x in secs.get(bid, []) if re.search(r"appropriat|fund|compensation|salary|personnel|secretariat|transfer|abolish|"
+                                                     r"powers|functions|penalt|registry|beneficiar|privacy", x["heading"], re.I)]
+    user = (f"TARGET: {bid} ({bills[bid]['label']}): {bills[bid]['title']}\n\n"
+            f"COMPAIRE PART IV (already reviewed): {json.dumps((c_out or {}).get('memo_part'), ensure_ascii=False)}\n\n"
+            f"COST ENGINE: {json.dumps(out.get('estimate'), ensure_ascii=False)}\n\n"
+            f"BUREAU COVERAGE: {json.dumps(coverage(bid), ensure_ascii=False)}\n\n"
+            f"APPRAISAL OUTPUT TO ATTACK: {json.dumps({k: out.get(k) for k in ('fiscal_rows', 'duplications', 'recommendation', 'referrals', 'memo')}, ensure_ascii=False)}\n\n"
+            "BILL SECTIONS:\n" + "\n".join(f"[{x['id']}] {x['heading']}: {' '.join(x['text'].split())[:1500]}" for x in keep[:40]))
+    return llm.prompt("p3_redteam"), user
+
+
+def check_redteam(rt, out):
+    """The Red-teamer's own output is checked too: known parts and sub-agents, quotes verified, no drift, no new figures."""
+    from agents.verify import check_citations
+    checks = []
+    allowed = {peso(out["estimate"][e][k]) for e in ("low", "high") for k in ("ps", "mooe", "co", "total", "recurring")}
+    subs = {"Lead"} | {n for n, _ in TEAM}
+    for f_ in rt.get("findings") or []:
+        if f_.get("sub") not in subs or f_.get("severity") not in ("revise first", "check"):
+            checks.append({"claim": "finding", "section": "", "quote": str(f_)[:80], "check": "unknown sub-agent or severity"})
+        for m in re.findall(r"P[\d,.]+ (?:million|billion)", f_.get("issue", "")):
+            if m not in allowed:
+                checks.append({"claim": "peso figure", "section": "", "quote": m, "check": "figure not produced by the cost engine or the bill"})
+        if f_.get("section") and f_.get("quote"):
+            checks += check_citations([{"claim": f_.get("issue", ""), "section": f_["section"], "quote": f_["quote"]}])
+    checks += drift_checks({"memo": {"x": [f_.get("issue", "") for f_ in rt.get("findings") or []]}})
+    if rt.get("verdict") not in ("proceed", "revise first"):
+        checks.append({"claim": "verdict", "section": "", "quote": str(rt.get("verdict")), "check": "unknown verdict"})
+    return checks or [{"claim": "red-team", "section": "", "quote": "", "check": "verified"}]

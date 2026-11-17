@@ -143,10 +143,16 @@ def render(a1, a2, a3, workflow):
                     "recommendation on budgetary capacity and the GAA, and the risks",
                     "Part VI: possible duplication with existing agencies, assessed under the Government Optimization Act (RA No. 12231) when "
                     "the bill does not change or abolish the existing body",
-                    "Part VII: proposes one of three recommendations; lists the DBM bureaus to consult; compiles the memo without repetition"],
+                    "Part VII: proposes one of three recommendations; lists the DBM bureaus to consult; compiles the memo without repetition",
+                    "Works as a lead agent with four sub-agents: Costing (the cost calculator), Duplication (overlap under RA No. 12231), "
+                    "Referral (DBM bureaus by coverage) and Recommendation (the Part VII option)",
+                    "A permanent Red-teamer sub-agent attacks every ApprAIsal output in the background (scope, figures, consistency between "
+                    "parts, missing referrals); its verdict and findings appear in the Step 3 checklist"],
                    ["The AI does no arithmetic; any peso figure not from the calculator or the bill is rejected",
                     "Recommendations and bureaus come from fixed lists; the analyst confirms the recommendation in Step 4",
                     "No officials' names or signatures; every draft carries the AI-assisted label",
+                    "A scope check rejects any output that states a DBM position outside Part VII, names or signs for an official, gives "
+                    "political advice, carries personal contact details or follows an instruction planted in a bill",
                     "Each output gets an evidence grade, A (strong) to D (weak), computed by code"],
                    "Memo Parts V to VII; bureaus to consult", wide=True),
         agent_card("billy", "Companion", "BILLy · Ask about the bill or the site",

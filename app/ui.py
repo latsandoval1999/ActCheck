@@ -128,6 +128,13 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-legend{display:flex; gap:1.1rem; flex-wrap:wrap; font-size:.84rem; color:var(--ink2);}
 .ac-legend i{display:inline-block; width:11px; height:11px; border-radius:2px; margin-right:.35rem; vertical-align:-1px;}
 .ac-why{font-size:.78rem; color:#7A5A00; background:#FFF6DC; border-radius:4px; padding:.15rem .45rem; margin-top:.2rem; display:inline-block;}
+/* reviewer checklists: red box with a white x until done, green box with a white check when done */
+[class*="st-key-chk_"] label > span + div{background:#B8322A !important; border-color:#B8322A !important; border-radius:4px;
+  width:1.15rem !important; height:1.15rem !important; display:flex; align-items:center; justify-content:center; position:relative;}
+[class*="st-key-chk_"] label > span + div svg{display:none;}
+[class*="st-key-chk_"] label > span + div::after{content:"✕"; color:#fff; font:700 .72rem/1 var(--sans, sans-serif);}
+[class*="st-key-chk_"] label[data-selected="true"] > span + div{background:#2E7D32 !important; border-color:#2E7D32 !important;}
+[class*="st-key-chk_"] label[data-selected="true"] > span + div::after{content:"✓"; font-size:.85rem;}
 .ac-fold-note{font-size:.8rem; color:var(--ink2); margin:-.2rem 0 0 2.6rem;}
 .ac-welcome{text-align:center;}
 .ac-welcome img{width:150px; height:150px; display:block; margin:0 auto .4rem;}
