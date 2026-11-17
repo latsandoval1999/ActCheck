@@ -1198,7 +1198,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                 a = agg.setdefault(bid, {"agent": agent, "time": ""})
                 if order.get(agent, 0) > order.get(a["agent"], 0):
                     a["agent"] = agent
-                a["time"] = max(a["time"], str(d.get("time", "")))
+                a["time"] = max(a["time"], str(d.get("time") or (d.get("meta") or {}).get("time") or ""))
         ui.section("Agent runs", "Bills the agents have worked on",
                    "The furthest step each bill has reached and when an agent last ran on it.")
         ui.table(["Bill No.", "Title", "Ran up to", "Last run"],
