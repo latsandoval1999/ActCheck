@@ -275,7 +275,11 @@ def start_review(row):
             st.error(f"Could not open {row['label']} for review: {msg}.")
             return
         st.cache_data.clear()
+    from agents import traice
+    new = not store.exists(row["id"]) or store.load(row["id"]).get("removed")
     store.queue(row["id"])
+    if new and not traice.saved_ai(row["id"]):
+        reports.queue_for_claude(row["id"], row["label"], row.get("title", ""))
     go("Review workspace", row["id"])
 
 
@@ -423,7 +427,7 @@ def bill_dialog(row):
 
 
 # ---------------- Review workspace helpers ----------------
-def checklist(bid, step, items, heading="Reviewer checklist: tick every item to unlock the next step", subs=None):
+def checklist(bid, step, items, heading="Reviewer checklist: tick every item to unlock the next step", subs=None, notes=None):
     """Short checklist with one notes-and-attachments box at the end. Returns True when every item is ticked.
     `subs` maps an item's index to short points shown under it."""
     rec = store.load(bid)
@@ -441,6 +445,8 @@ def checklist(bid, step, items, heading="Reviewer checklist: tick every item to 
             pts = (subs or {}).get(i) or []
             if pts:
                 ui.html('<ul class="ac-subchk">' + "".join(f"<li>{escape(p)}</li>" for p in pts) + "</ul>")
+            if (notes or {}).get(i):
+                ui.html(notes[i])
             if done != bool(cur.get("done")):
                 cl[str(i)] = dict(cur, done=done)
                 changed = True
@@ -615,7 +621,14 @@ def case(bid):
             if rec.get("traice_memo") and st.button("Reset to the TrAIce draft", key=f"tm_reset_{bid}"):
                 store.save(bid, "traice_memo", None, "Reviewer reset the TrAIce output")
                 st.rerun()
-        checklist(bid, "t1", CHECK1, heading=None, subs={0: t_out.get("reviewer_checks") or []})
+        gr = traice.grade(bid, t_out, ai_checks if ai_out else None)
+        note = (f'<div class="ac-grade g{gr["grade"]}"><div class="gh"><span class="gl">{gr["grade"]}</span>'
+                f'<b>Evidence grade of this TrAIce output: {gr["label"]}</b> · {gr["points"]} of {gr["of"]} points</div>'
+                f'<div class="gw">{escape("; ".join(gr["reasons"]))}.</div>'
+                '<div class="gs">Scale: A Strong (7–8) · B Moderate (5–6) · C Limited (3–4) · D Weak (0–2). Two points each for how the bill text was read, '
+                'how the findings were prepared and verified, how much of the related-measure mapping rests on full texts, and how few points remain to confirm. '
+                'Grade B or lower: verify the flagged items against the House or Senate record or the bill PDF before ticking.</div></div>')
+        checklist(bid, "t1", CHECK1, heading=None, subs={0: t_out.get("reviewer_checks") or []}, notes={1: note})
 
     # Step 2: CompAIre
     with st.container(border=True):

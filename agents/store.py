@@ -54,6 +54,10 @@ def queue(bid, note="Added to the review workspace"):
     return load(bid)
 
 
+def exists(bid):
+    return _path(bid).exists()
+
+
 def unqueue(bid):
     """Take a bill off the review workspace list; its saved work is kept and returns if it is added again."""
     if _path(bid).exists():

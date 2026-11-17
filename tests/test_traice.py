@@ -37,3 +37,12 @@ def test_altered_figure_in_quote_is_caught():
     t = next(x for x in load()[1]["RA-8435"] if x["no"] == 116)["text"]
     assert quote_found("an initial amount of Twenty million pesos (P20,000,000.00) is hereby appropriated", t)
     assert not quote_found("an initial amount of Fifty million pesos (P50,000,000.00) is hereby appropriated", t)
+
+
+def test_grade_rules_capped_and_claude_strong():
+    d = _draft("HB-20-2322")
+    g = traice.grade("HB-20-2322", d)
+    assert g["grade"] in ("B", "C", "D") and g["points"] <= 6
+    sv = traice.saved_ai("HB-20-2322")
+    g2 = traice.grade("HB-20-2322", traice.normalize(sv["output"], "HB-20-2322", d), sv["checks"])
+    assert g2["grade"] == "A"

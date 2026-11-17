@@ -147,6 +147,20 @@ def _remote_rows(force=False):
 
 
 # ---------------------------------------------------------------- save and list
+QUEUE_CATEGORY = "Workspace: TrAIce queue"
+
+
+def queue_for_claude(bill_id, bill_label, title):
+    """Note in the same Google Sheet that a reviewer added this bill to the workspace, so the scheduled
+    Claude run picks it up. Not a public report: all_reports() leaves these rows out. Runs in the background."""
+    if not remote_on():
+        return False
+    import threading
+    threading.Thread(target=save, args=(bill_id, bill_label, title, QUEUE_CATEGORY,
+                                        "Added to the review workspace; queued for a TrAIce run by Claude"), daemon=True).start()
+    return True
+
+
 def save(bill_id, bill_label, title, category, message, name="", email="", phone="", files=()):
     rid = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S") + "-" + uuid.uuid4().hex[:6]
     rec = {"id": rid, "time": datetime.now(timezone.utc).isoformat(timespec="seconds"), "bill": bill_id,
@@ -194,7 +208,8 @@ def _local(bill_id=None):
 
 def all_reports(bill_id=None, force=False):
     """Newest first. Sheet records and any server-only copies, without duplicates."""
-    remote = [r for r in _remote_rows(force) if bill_id is None or r.get("bill") == bill_id]
+    remote = [r for r in _remote_rows(force) if (bill_id is None or r.get("bill") == bill_id)
+              and not str(r.get("category", "")).startswith(QUEUE_CATEGORY)]
     seen = {r.get("id") for r in remote}
     rows = remote + [r for r in _local(bill_id) if r.get("id") not in seen]
     return sorted(rows, key=lambda r: str(r.get("time", "")), reverse=True)

@@ -6,3 +6,4 @@ logs/runs.jsonl
 .DS_Store
 .pytest_cache/
 data/public_reports/
+runs_tmp/

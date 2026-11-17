@@ -204,7 +204,9 @@
   }
  ],
  "meta": {
-  "prepared_by": "Claude (TrAIce prompt v3), in a Claude Code session",
-  "time": "2026-11-17T09:48:26+00:00"
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-17T11:23:06+00:00"
  }
 }

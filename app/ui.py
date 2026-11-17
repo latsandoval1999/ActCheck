@@ -317,6 +317,11 @@ section.main .block-container, [data-testid="stMainBlockContainer"]{padding-bott
 .ac-subchk{margin:-.35rem 0 .5rem 2.1rem; font-size:.8rem; color:var(--mute);} .ac-subchk li{margin:.1rem 0;}
 .ac-ltr{list-style:none; margin:0 0 .5rem 1.4rem; padding:0;} .ac-ltr li{text-align:justify; margin:0 0 .35rem 1.4rem; text-indent:-1.4rem;} .ac-ltr .ltr{display:inline-block; width:1.4rem; text-indent:0;}
 .ac-check-h.sc{text-transform:none; letter-spacing:.01em; font-size:.98rem;} .ac-check-h .tr{color:#1F5FAD;}
+.ac-grade{margin:-.3rem 0 .6rem 2.1rem; padding:.55rem .75rem; border:1px solid var(--line2); border-left:4px solid var(--gold); background:#FBFAF6; font-size:.8rem;}
+.ac-grade .gh{display:flex; align-items:center; gap:.5rem; font-size:.85rem;} .ac-grade .gl{display:inline-flex; width:1.6rem; height:1.6rem; align-items:center; justify-content:center; border-radius:50%; color:#fff; font-weight:800;}
+.ac-grade.gA{border-left-color:#2E7D4F;} .ac-grade.gA .gl{background:#2E7D4F;} .ac-grade.gB{border-left-color:#1F5FAD;} .ac-grade.gB .gl{background:#1F5FAD;}
+.ac-grade.gC{border-left-color:#B7791F;} .ac-grade.gC .gl{background:#B7791F;} .ac-grade.gD{border-left-color:#B23B2E;} .ac-grade.gD .gl{background:#B23B2E;}
+.ac-grade .gw{margin:.35rem 0 .2rem; color:var(--ink);} .ac-grade .gs{color:var(--mute); font-size:.72rem;}
 .ac-memo h6{font:700 .9rem Tahoma,Verdana,sans-serif; margin:.5rem 0 .25rem;} .ac-memo p{text-align:justify; margin:0 0 .5rem 1.4rem;}
 .ac-check{background:var(--gold-soft); border:1px solid #E8D79F; border-radius:6px; padding:.7rem .95rem .3rem; margin-top:.7rem;}
 .ac-check-h{font:800 .74rem var(--sans); letter-spacing:.09em; text-transform:uppercase; color:#7A5A00; margin-bottom:.3rem;}

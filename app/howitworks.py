@@ -120,6 +120,7 @@ def render(a1, a2, a3, workflow):
                    ["A draft is made by code first (no AI); Claude improves it when available",
                     "Each finding cites a section; ActCheck checks every cited passage against the source text in the background",
                     "A bill not in the corpus is reported as not found, never guessed",
+                    "Each output gets an evidence grade, A (strong) to D (weak), computed by code, not by the agent",
                     "Instructions written inside a bill's text are ignored"],
                    "Policy context, legislative history, related bills and laws, fiscal requirements"),
         agent_card("compare", "Step 2 · Diagnosis and Design", f"{a2} · Spot the changes",

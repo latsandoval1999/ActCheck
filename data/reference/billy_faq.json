@@ -333,5 +333,15 @@
   "group": "The agents",
   "q": "Does TrAIce show the quotes it used?",
   "a": "No. TrAIce cites a section for each finding and ActCheck checks the quoted passage against the bill or law in the background. The page shows only the section references, written as 'Section N (Section Title)', and how many were verified."
+ },
+ {
+  "group": "The agents",
+  "q": "What is TrAIce's evidence grade?",
+  "a": "Each TrAIce output gets one grade, from A (strong) to D (weak), computed by ActCheck's code, not by the agent. It adds up to 8 points: how the bill's text was read (official PDF or a scanned copy), how the findings were prepared and verified (by Claude with every cited section checked, or by rules), how much of the related-measure map rests on full texts rather than titles, and how many points remain to confirm. Drafts made by rules are capped at B. The grade appears under the last checklist item; for B or lower, verify the flagged items before ticking."
+ },
+ {
+  "group": "The agents",
+  "q": "Who prepares the TrAIce outputs marked 'Prepared by TrAIce (Claude)'?",
+  "a": "A scheduled Claude session, run under the project owner's Claude subscription, works through bills added to the Review workspace and the Government organization and mandates pilot bills three times a day. ActCheck saves an output only when every cited passage is found in the cited section; until then, the step shows ActCheck's rule-based draft."
  }
 ]

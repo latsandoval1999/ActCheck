@@ -541,6 +541,58 @@ def saved_ai(bid):
         return None
 
 
+PROMPT_VERSION = "v3"
+GRADES = [(7, "A", "Strong"), (5, "B", "Moderate"), (3, "C", "Limited"), (0, "D", "Weak")]
+
+
+def grade(bid, out, checks=None):
+    """One evidence grade for the whole TrAIce output (A strong to D weak), from four tests worth 2 points each:
+    1 how the bill's own text was read, 2 how the findings were prepared and verified,
+    3 how much of the related-measure mapping rests on full texts rather than titles, 4 how many points remain to confirm."""
+    b = load()[0].get(bid) or {}
+    pts, why = 0, []
+    src = b.get("text_source")
+    if src == "pdf_text":
+        pts += 2; why.append("bill text read from the official PDF")
+    elif src == "ocr":
+        pts += 1; why.append("bill text recognized from a scanned PDF (OCR), so wording may contain reading errors")
+    else:
+        why.append("full text of the bill not available")
+    kind = out.get("source", "ai")
+    if kind == "rules":
+        pts += 1; why.append("drafted by ActCheck's rules: relationships inferred from text similarity, without AI")
+    elif kind == "ai-v2":
+        pts += 1; why.append("related bills labelled by an earlier TrAIce version; other parts drafted by rules")
+    else:
+        n = len(checks or [])
+        ok = sum(1 for c in (checks or []) if c.get("check") == "verified")
+        if n and ok == n:
+            pts += 2; why.append(f"prepared by TrAIce (Claude); all {n} cited sections verified against the text")
+        elif n and ok / n >= 0.8:
+            pts += 1; why.append(f"prepared by TrAIce (Claude); {ok} of {n} cited sections verified")
+        else:
+            why.append(f"prepared by TrAIce (Claude); only {ok} of {n} cited sections verified" if n else
+                       "prepared by TrAIce (Claude) but no citations could be checked")
+    rel = [r for r in out.get("related", []) if r.get("relationship") != LABELS[6]]
+    if rel:
+        full = sum(1 for r in rel if re.match(r"\d+% of wording", r.get("basis", "")) or
+                   (r.get("section") and not str(r["section"]).startswith(("meta:", "law:"))))
+        share = full / len(rel)
+        pts += 2 if share >= 0.75 else 1 if share >= 0.4 else 0
+        why.append(f"{full} of {len(rel)} related measures read in full" + ("; the rest are matched by title only" if full < len(rel) else ""))
+    else:
+        pts += 1; why.append("no related measures found; confirm with the House and Senate records")
+    proof = set(proofread_points(bid, limit=999))
+    open_pts = [c for c in out.get("reviewer_checks", []) if c not in proof]
+    pts += 2 if len(open_pts) <= 2 else 1 if len(open_pts) <= 5 else 0
+    why.append(f"{len(open_pts)} point{'s' if len(open_pts) != 1 else ''} to confirm" + (f", plus {len(proof)} possible typo{'s' if len(proof) != 1 else ''} to check" if proof else ""))
+    if kind != "ai" and pts > 6:
+        pts = 6
+        why.append("capped at B until TrAIce (Claude) has reviewed and cited the findings")
+    g = next(x for x in GRADES if pts >= x[0])
+    return {"grade": g[1], "label": g[2], "points": pts, "of": 8, "reasons": why}
+
+
 CHECKLIST = [
     "For checking: Inconsistencies, typographical, and grammatical errors",
     "The TrAIce output above is correct and its details are verified against official sources and records and will be added to the memo.",
