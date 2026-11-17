@@ -10,6 +10,9 @@ on:
       retry:
         description: "Try again the bills marked unclear (yes/no)"
         default: "no"
+      debug:
+        description: "Print what OCR read (leave empty for no)"
+        default: ""
 
 permissions:
   contents: write
@@ -28,6 +31,8 @@ jobs:
           sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr
           pip install pandas pyarrow scikit-learn pillow
       - name: Read the receiving stamps
+        env:
+          STAMP_DEBUG: "${{ github.event.inputs.debug }}"
         run: |
           python -m pipeline.stamp_dates --limit "${{ github.event.inputs.limit }}" --minutes 150 --crops /tmp/crops \
             $([ "${{ github.event.inputs.retry }}" = "yes" ] && echo --retry)
@@ -39,6 +44,14 @@ jobs:
           path: /tmp/crops
           if-no-files-found: ignore
           retention-days: 14
+      - name: Put images of unread stamps on the stamp-review branch (for a person to check)
+        if: always()
+        run: |
+          if [ -d /tmp/crops ] && [ "$(ls -A /tmp/crops)" ]; then
+            cd /tmp/crops && git init -q && git checkout -q -b stamp-review && git add . \
+              && git -c user.name=bill-watch-bot -c user.email=bill-watch-bot@users.noreply.github.com commit -qm "Unread stamps $(date -u +%F)" \
+              && git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" stamp-review
+          fi
       - name: Commit results
         run: |
           git config user.name "bill-watch-bot"

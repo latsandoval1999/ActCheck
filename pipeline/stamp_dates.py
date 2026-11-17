@@ -297,6 +297,9 @@ def main():
                 cands = []
                 for t in ocr_page1(pdf, crop):
                     cands += candidates(t, c)
+                    if os.environ.get("STAMP_DEBUG"):
+                        hits = [ln for ln in t.splitlines() if re.search(r"DATE|RECEIV|NOV|OCT|SEP|AUG|DEC|JAN|FEB|MAR|20[0-9%]{2}", ln, re.I)]
+                        print(f"    {r['label']} ocr: {' | '.join(hits)[:300]}")
                     dt, basis = decide(cands, lo, hi)
                     if dt and basis == "receiving stamp":
                         break                               # a clean reading is enough

@@ -344,7 +344,8 @@ def bill_dialog(row):
                ("Full text in ActCheck" if row["reviewable"] else "Listing only", "green" if row["reviewable"] else ""),
                (house_note(row), "red"), (("LEDAC priority: " + row["ledac"]) if row.get("ledac") else "", "red")])
     ui.html(f'<div class="ac-billtitle">{escape(row["title"] or row["short_title"] or "(title not yet available)")}</div>')
-    meta = [("Short title", row["short_title"]), ("Filed", row["date_filed"]), ("Status", f'{row.get("status_group", "")} · {row.get("status_sub", "")} ({row["status"]})'),
+    meta = [("Short title", row["short_title"]), ("Filed", (row["date_filed"] + (f" (source: {row['date_basis']})" if row.get("date_basis") else ""))
+                                                       if row["date_filed"] else "date not clearly visible; verify in file"), ("Status", f'{row.get("status_group", "")} · {row.get("status_sub", "")} ({row["status"]})'),
             ("Where the status comes from", row.get("status_basis", "")), ("Committee", row["committee"]),
             ("Author", row["author"]), ("Listed from", row["source"])]
     st.caption(" · ".join(f"{k}: {v}" for k, v in meta if v))
@@ -908,7 +909,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                     title = title.replace(ch, "\\" + ch)
                 if c[1].button(title, key=f"t_{r['id']}", type="tertiary"):
                     bill_dialog(r)
-                c[1].markdown(f'<div class="ac-filed">Filed {escape(r["date_filed"] or "(date not shown in the source)")}'
+                c[1].markdown(f'<div class="ac-filed">Filed {escape(r["date_filed"] or "(date not clearly visible; verify in file)")}'
                               + (f' · Principal author: <b>{escape(r["author"])}</b>' if r.get("author") else "")
                               + (" · full text" if r["reviewable"] else "")
                               + (f' · <b style="color:#B3261E">LEDAC priority</b>' if r.get("ledac") else "") + "</div>", unsafe_allow_html=True)
