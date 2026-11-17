@@ -85,3 +85,4 @@ for the portfolio template is in `docs/VERSION_LOG.md`.
 - Memo: plain status sentence ("Status as listed: …") and referral line ("… for their comments."), no lowercased reasons.
 - Letter: comments, fiscal, then duplication (memo order IV, V, VI); memo paragraph numbers removed.
 - BILLy FAQ rewritten (79 entries): removed obsolete entries, merged duplicates, added welcome window, recommended bills, status colours, saved progress, checklist points, ApprAIsal team.
+- Bills under review ordered: the bill being reviewed first, then Not yet started, Ongoing, and Memo and letter drafted last.

@@ -316,15 +316,19 @@ def free_route(key, prompt_fn, on_reply, json_reply=True):
 
 
 # ---------------- Bills: review action and details dialog ----------------
-def review_chip(rec):
-    """Review status beside the bill in 'Bills under review': not yet started (red), ongoing (yellow), memo and letter drafted (green)."""
+def review_state(rec):
+    """Review status: 0 not yet started (red), 1 ongoing (yellow), 2 memo and letter drafted (green)."""
     ticked = any((v or {}).get("done") for step in (rec.get("checklist") or {}).values() for k, v in (step or {}).items() if k != "_notes")
     if rec.get("letter_fields") and docs.position_decided(rec.get("memo_fields") or {}):
-        lab, cls = "Memo and letter drafted", "done"
-    elif ticked or rec.get("memo_fields") or rec.get("traice_memo") or rec.get("compaire_memo"):
-        lab, cls = "Ongoing", "ongoing"
-    else:
-        lab, cls = "Not yet started", "new"
+        return 2, "Memo and letter drafted", "done"
+    if ticked or rec.get("memo_fields") or rec.get("traice_memo") or rec.get("compaire_memo"):
+        return 1, "Ongoing", "ongoing"
+    return 0, "Not yet started", "new"
+
+
+def review_chip(rec):
+    """Status box beside the bill in 'Bills under review'."""
+    _, lab, cls = review_state(rec)
     return f'<span class="ac-rstat {cls}">{lab}</span>'
 
 
@@ -1153,9 +1157,11 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             st.rerun()
 
     elif page == "Review workspace":
-        queue = [(k, r) for k, r in store.queue_list() if k in bills]
+        # order: the bill being reviewed, then not yet started, ongoing, and finished (memo and letter drafted) last
+        queue = sorted(((k, r) for k, r in store.queue_list() if k in bills), key=lambda kr: review_state(kr[1])[0])
         if st.session_state.get("bill") not in bills and queue:
             st.session_state["bill"] = queue[0][0]
+        queue.sort(key=lambda kr: kr[0] != st.session_state.get("bill"))
         left, right = st.columns([1, 3.3])
         with left, st.container(key="qside"):
             rail = st.empty()                    # filled after the case renders, when its step states are known
