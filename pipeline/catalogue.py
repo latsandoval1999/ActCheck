@@ -246,6 +246,11 @@ def build(_stamp=None, stamps=True):
     if stamps and sp.exists():
         with open(sp, newline="", encoding="utf-8") as f:
             sdates = {r["id"]: r for r in csv.DictReader(f)}
+    # stamps checked by eye against the page image take precedence over automatic readings
+    cp = PROC / "stamp_checked.csv"
+    if stamps and cp.exists():
+        with open(cp, newline="", encoding="utf-8") as f:
+            sdates.update({r["id"]: r for r in csv.DictReader(f)})
     out = []
     for bid in list(bills):
         b = bills.pop(bid)                                # memory: each record is released once its row is made
@@ -288,6 +293,6 @@ def build(_stamp=None, stamps=True):
 def stamp():
     """Changes when any source file changes, so the portal can refresh its cached list."""
     files = [PROC / "bill_index.csv.gz", PROC / "bills.jsonl", ROOT / "data" / "watch" / "inbox.json", PROC / "ra_origin_bills.csv",
-             PROC / "bill_meta.csv", PROC / "stamp_dates.csv",
+             PROC / "bill_meta.csv", PROC / "stamp_dates.csv", PROC / "stamp_checked.csv",
              *PROC.glob("senate_listing_*.csv")]
     return tuple(int(f.stat().st_mtime) for f in files if f.exists())

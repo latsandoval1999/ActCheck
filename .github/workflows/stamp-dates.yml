@@ -13,6 +13,9 @@ on:
       debug:
         description: "Print what OCR read (leave empty for no)"
         default: ""
+      crops_only:
+        description: "Only save stamp images of these bill ids (comma-separated), for a person to check"
+        default: ""
 
 permissions:
   contents: write
@@ -34,6 +37,9 @@ jobs:
         env:
           STAMP_DEBUG: "${{ github.event.inputs.debug }}"
         run: |
+          if [ -n "${{ github.event.inputs.crops_only }}" ]; then
+            python -m pipeline.stamp_dates --crops /tmp/crops --crops-only "${{ github.event.inputs.crops_only }}"; exit 0
+          fi
           python -m pipeline.stamp_dates --limit "${{ github.event.inputs.limit }}" --minutes 150 --crops /tmp/crops \
             $([ "${{ github.event.inputs.retry }}" = "yes" ] && echo --retry)
       - name: Keep images of stamps that could not be read (for a person to check)

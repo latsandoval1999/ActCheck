@@ -218,7 +218,7 @@ def ocr_page1(pdf_bytes, save_crop=None):
         top = im.crop((0, 0, w, int(h * 0.42)))
         right = im.crop((int(w * 0.45), 0, w, int(h * 0.32)))
         if save_crop:
-            top.convert("L").resize((int(top.width * 0.4), int(top.height * 0.4))).save(save_crop)
+            top.convert("L").resize((int(top.width * 0.5), int(top.height * 0.5))).save(save_crop)
         variants = []
         for region in (right, top):
             g = ImageOps.autocontrast(region.convert("L"))
@@ -309,8 +309,22 @@ def main():
     ap.add_argument("--crops", default="", help="folder for images of stamps that could not be read")
     ap.add_argument("--no-download", action="store_true")
     ap.add_argument("--retry", action="store_true", help="try again the bills marked unclear in earlier runs")
+    ap.add_argument("--crops-only", default="", help="comma-separated bill ids: only save images of their stamps, for a person to check")
     a = ap.parse_args()
     sys.path.insert(0, str(ROOT))
+    if a.crops_only:
+        out = Path(a.crops or "/tmp/crops")
+        out.mkdir(parents=True, exist_ok=True)
+        for bid in [x.strip() for x in a.crops_only.split(",") if x.strip()]:
+            _, c, n = bid.split("-")
+            try:
+                pdf = fetch(HOUSE_PDF.format(c=int(c), n=int(n)))
+                next(ocr_page1(pdf, out / f"{bid}.png"), None)
+                time.sleep(1.5)
+            except Exception as e:
+                print(f"  {bid}: PDF not read ({type(e).__name__})")
+        print(f"saved {len(list(out.glob('*.png')))} stamp images")
+        return
     from pipeline import catalogue
     prior = {}
     if OUT.exists():
