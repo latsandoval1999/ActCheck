@@ -87,6 +87,19 @@ def remote_on():
     return bool(_secret("REPORTS_WEBAPP_URL") and _secret("REPORTS_TOKEN"))
 
 
+def sheet_status():
+    """('connected' | 'error' | 'off', message) for reviewers: is the Google Sheet answering?"""
+    if not remote_on():
+        return "off", "Not connected: reports stay on this server until the Google Sheet is set up (README: Public reports)."
+    try:
+        res = _get()
+    except Exception as e:
+        return "error", f"The Google Sheet is set up but did not answer ({type(e).__name__}); check the web app URL in the Streamlit secrets."
+    if not res.get("ok"):
+        return "error", "The Google Sheet answered but refused the token; check REPORTS_TOKEN in the Streamlit secrets."
+    return "connected", f"Connected to the Google Sheet: {len(res.get('reports', []))} report(s) stored there; they are kept after restarts."
+
+
 def storage_label():
     return "Google Sheet in the project owner's Google Drive" if remote_on() else \
         "this server only (resets when the app restarts; connect the Google Sheet to keep reports)"

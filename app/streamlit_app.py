@@ -1152,8 +1152,9 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                 cat_ = x.get("category", "")
                 c[2].markdown(f'<div style="font-size:.85rem">{escape(cat_.split(":", 1)[-1].strip() if ":" in cat_ else cat_)}</div>', unsafe_allow_html=True)
                 c[3].markdown(f'<div style="font-size:.85rem">{escape(manila(x.get("time", ""), "%d %b %Y"))}</div>', unsafe_allow_html=True)
-        if REVIEWER and not reports.remote_on():
-            st.caption("Reports are kept on this server only until the Google Sheet is connected (see the README: Public reports).")
+        if REVIEWER:
+            state, msg = reports.sheet_status()
+            st.caption(("✅ " if state == "connected" else "⚠️ ") + msg)
 
         # 2. Data sources and the daily check
         runs = watch_state().get("runs", [])
