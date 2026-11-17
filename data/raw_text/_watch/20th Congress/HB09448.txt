@@ -1,0 +1,283 @@
+                                         Republic of the Philippines
+                                       HOUSE OF REPRESENTATIVES
+                                               Quezon City                                                 May 26, 2026
+                                                                                                            1:56 pm
+                                             TWENTIETH CONGRESS
+                                              First Regular Session
+
+                                           9448
+                           House Bill No. _____
+______________________________________________________________________
+
+           Introduced by Representative KAREN HOPE F. GARCIA
+______________________________________________________________________
+
+                                               EXPLANATORY NOTE
+
+        The rapid expansion of digital platforms has fundamentally reshaped how Filipino
+children learn, communicate, and participate in society. While online spaces offer
+educational and social benefits, they also expose children to serious risks such as
+online sexual exploitation, cyberbullying, harmful content, algorithmic manipulation, and
+the misuse of personal data. Recent international developments, including Australia’s
+decision to restrict social media access for children under sixteen1, underscore the
+growing global consensus that stronger state action is necessary to protect minors in
+digital environments.
+
+       In the Philippines, existing laws recognize the special protection owed to
+children, including Republic Act No. 7610 or the Special Protection of Children Against
+Abuse, Exploitation, and Discrimination Act, and Republic Act No. 11930 or the
+Anti-Online Sexual Abuse or Exploitation of Children (Anti-OSAEC) Act. However, these
+laws were enacted before the widespread dominance of algorithm-driven platforms,
+immersive digital environments, and large-scale data profiling of minors. There remains
+a regulatory gap in imposing affirmative, child-specific duties on digital platforms
+operating in the country.
+
+       Children today are growing up in a digital environment where online platforms,
+social media applications, games, educational tools, and content-sharing services play
+an increasingly central role in their daily lives. Filipino children are among the most
+active internet users in Southeast Asia. According to UNICEF2, Filipino children spend
+
+1
+  “Australia Bans Social Media for Children Under 16.” The New York Times, 9 Dec. 2025,
+www.nytimes.com/2025/12/09/world/asia/australia-social-media-ban-under-16.html
+2
+ UNICEF Philippines. Executive Summary: Protecting Children Online in the Philippines. United Nations Children’s Fund, 2021,
+https://www.unicef.org/philippines/media/2616/file/UNIPH-2021-PKO-Executive-Summary.pdf
+an average of two hours per day online, often beginning as early as age nine. This
+suggests the need for younger children – including those at primary school - to be
+taught the technical skills, and digital citizenship, that may be required to ensure that
+they stay safe online.
+
+       Recent global research underscores the scale of the problem. A 2023 report by
+the Organization for Economic Cooperation and Development (OECD) found that digital
+platforms routinely collect extensive data on minors, including location data, browsing
+behavior, biometric identifiers, and inferred psychological traits, often without meaningful
+parental awareness or consent.
+
+       In the Philippine context, online harms affecting children are rapidly increasing.
+Data from the Philippine National Police Anti-Cybercrime Group shows a sharp rise in
+online sexual exploitation of children, identity misuse, and data-driven grooming cases
+since the COVID-19 pandemic. The Department of Justice has likewise noted that
+social media platforms and messaging services are frequently used to collect, store,
+and disseminate children’s personal information without adequate safeguards. These
+risks are exacerbated by algorithm-driven content systems that amplify harmful material
+and normalize intrusive data collection practices.
+
+        While the Republic Act No. 10173, also known as the Data Privacy Act of 2012,
+establishes a general framework for the protection of personal information, it does not
+contain explicit provisions addressing the unique vulnerabilities of children in digital and
+online environments. The Act treats children’s data largely the same as adult data,
+relying on general consent and security standards that are insufficient in the context of
+algorithmic profiling, targeted advertising, and large-scale data processing by global
+technology platforms. In contrast, international best practices now recognize children as
+a distinct category of data subjects requiring heightened protection.
+
+       For example, the European Union’s General Data Protection Regulation (GDPR)3
+mandates enhanced safeguards for children, including limits on profiling, stricter
+consent requirements, and child-specific transparency obligations. The United
+Kingdom’s Age Appropriate Design Code4 further requires platforms to design systems
+with the best interests of the child as a primary consideration. These measures reflect a
+growing global consensus that child data protection must be proactive, preventive, and
+embedded in system design.
+
+3
+ European Union. General Data Protection Regulation (GDPR): Summary. EUR-Lex,
+https://eur-lex.europa.eu/EN/legal-content/summary/general-data-protection-regulation-gdpr.html
+4
+ Information Commissioner’s Office (ICO). Age-Appropriate Design: A Code of Practice for Online Services – Executive Summary.
+ICO,
+https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/a
+ge-appropriate-design-a-code-of-practice-for-online-services/executive-summary/
+        Amending the Data Privacy Act to explicitly integrate child-specific data
+protection standards will align Philippine law with these international norms while
+strengthening accountability for digital platforms operating in the country. By imposing
+heightened duties of care, requiring child-focused data protection impact assessments,
+restricting harmful data practices such as behavioral profiling and targeted advertising,
+and empowering the National Privacy Commission to enforce child-centered standards,
+the proposed amendment seeks to close critical regulatory gaps.
+
+      Ultimately, protecting children’s personal data is not merely a privacy issue but a
+matter of child welfare, digital safety, and human rights. In an era where data-driven
+technologies increasingly shape children’s experiences, opportunities, and
+vulnerabilities, the State has a duty to ensure that the legal framework evolves
+accordingly. The immediate passage of this measure is therefore earnestly sought.
+
+        This measure does not seek to prohibit or ban children from accessing social
+media or digital platforms. Instead, it adopts a child-rights-based and proportionate
+approach by imposing stringent safety, transparency, and data protection obligations on
+platforms, enhancing parental controls, and strengthening government oversight. By
+shifting responsibility toward platform accountability and informed supervision, this Act
+ensures that children can safely benefit from digital technologies without sacrificing their
+rights to protection, privacy, and development.
+
+       In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+
+                                                          Rep. KAREN HOPE F. GARCIA
+                                                            3rd District, Province of Cebu
+                              Republic of the Philippines
+                            HOUSE OF REPRESENTATIVES
+                                    Quezon City
+
+                                TWENTIETH CONGRESS
+                                 First Regular Session
+
+                                          9448
+                           House Bill No. _____
+______________________________________________________________________
+
+           Introduced by Representative KAREN HOPE F. GARCIA
+______________________________________________________________________
+
+                              AN ACT
+  STRENGTHENING THE PROTECTION OF CHILDREN’S PERSONAL DATA IN
+   DIGITAL AND ONLINE ENVIRONMENTS, AMENDING FOR THE PURPOSE
+ REPUBLIC ACT NO. 10173, OTHERWISE KNOWN AS THE “DATA PRIVACY ACT
+                              OF 2012”
+
+Be it enacted by the Senate and the House of Representatives of the Philippines in
+Congress assembled:
+
+                                    CHAPTER I
+                                GENERAL PROVISIONS
+
+      Section 1. Short Title. - This Act shall be known as the "Child Online Data
+Protection and Safety Amendment Act.”
+
+       Section 2. Declaration of Policy. - Consistent with Article II, Sections 11 and 13
+of the 1987 Constitution, the State recognizes the dignity of every human person and
+affirms its duty to protect children from all forms of abuse, exploitation, and harm,
+including those arising in digital environments.
+
+       It is well within the policy of the State to ensure that children are afforded special
+protection online by strengthening platform accountability, imposing heightened duties
+of care on digital service providers, and institutionalizing safeguards that promote safe,
+age-appropriate, and rights-respecting digital spaces for minors. Regulation shall be
+exercised in a manner that promotes transparency, innovation, and freedom of
+expression, while ensuring that the best interests of the child remain paramount.
+        The State recognizes that children are particularly vulnerable in digital
+environments and that online platforms have a heightened responsibility to prevent
+harm, misuse of personal data, and exposure to age-inappropriate or exploitative
+content. Consistent with this policy, the State shall adopt regulatory measures that
+ensure child-safe digital environments while respecting freedom of expression, access
+to information, and parental authority.
+
+​     Section 3. Amendment of Section 3 of Republic Act No. 10173 (Definition of
+Terms). Section 3 of Republic Act No. 10173 is hereby amended by adding new
+paragraphs to read as follows:
+
+             “(m) Child – refers to any person whose age is below eighteen (18) years
+             old.”
+             “(n) Children’s Personal Data – refers to any personal information
+             relating to a child, including but not limited to identifying information, online
+             identifiers, behavioral data, location data, biometric data, educational
+             records, and any data generated through a child’s use of digital or online
+             services.”
+             “(o) Digital Platform Accessible to Minors – refers to any online
+             service, application, website, or system that is likely to be accessed or
+             used by children, whether intentionally designed for children or not.”
+
+​     Section 4. Amendment of Section 12 of Republic Act No. 10173 (Criteria for
+Lawful Processing of Personal Information). Section 12 of Republic Act No. 10173 is
+hereby amended by adding new paragraphs to read as follows:
+
+             “In the case of children’s personal data, lawful processing shall require the
+             consent of a parent or legal guardian, except where processing is
+             necessary to protect the vital interests of the child or as otherwise
+             provided by law. Such consent shall be obtained through age-appropriate
+             and verifiable mechanisms.”
+
+​     Section 5. Amendment of Section 13 of Republic Act No. 10173 (Sensitive
+Personal Information and Privileged Information). Section 13 of Republic Act No.
+10173 is hereby amended by adding new paragraphs to read as follows:
+
+             “Children’s personal data shall be presumed to require a higher level of
+             protection. Digital platforms accessible to minors shall be prohibited from
+             processing such data for purposes of targeted advertising, behavioral
+             profiling, or automated decision-making that may adversely affect the
+             rights, safety, or well-being of the child.”
+
+​     Section 6. Amendment of Section 16 of Republic Act No. 10173 (Rights of
+the Data Subject). Section 16 of Republic Act No. 10173 is hereby amended by adding
+new paragraphs to read as follows:
+
+             “The rights of a child as a data subject shall be exercisable by the child’s
+             parent or legal guardian, without prejudice to the evolving capacities of the
+             child, and personal information controllers shall ensure that such rights are
+             practically accessible and effective.”
+
+​     Section 7. Amendment of Section 20 of Republic Act No. 10173 (Security of
+Personal Information). Section 20 of Republic Act No. 10173 is hereby amended by
+adding new paragraphs to read as follows:
+
+             “Where personal information relates to children, personal information
+             controllers shall adopt enhanced security measures commensurate to the
+             heightened risks faced by minors in digital environments.”
+
+​      Section 8. Insertion of a New Section on Heightened Duties of Care for
+Children. A new section is hereby inserted after Section 20 of Republic Act No. 10173,
+to read as follows:
+
+             “SEC. 20-A. Heightened Duties of Care for Children’s Personal Data.
+      Personal information controllers and processors whose services are accessible
+      to minors shall:
+         (a)​Design and operate their systems with the best interests of the child as a
+             primary consideration;
+         (b)​Implement enhanced organizational, physical, and technical safeguards
+             specifically calibrated to protect children from data misuse, exploitation,
+             and digital harm;
+         (c)​Collect and process only such children’s personal data as is strictly
+             necessary for the provision of the service;
+         (d)​Provide privacy notices, terms of service, and consent requests in clear,
+             age-appropriate, and child-friendly language; and
+         (e)​Establish accessible mechanisms for parents, guardians, and children to
+             exercise data subject rights.”
+​    Section 9. Insertion of a New Section on Data Protection Impact
+Assessments for Children. A new section is hereby inserted after Section 21 of
+Republic Act No. 10173, to read as follows:
+
+              “SEC. 21-A. Child Data Protection Impact Assessments. Personal
+       information controllers operating digital platforms accessible to minors shall
+       conduct periodic Child Data Protection Impact Assessments to identify, evaluate,
+       and mitigate risks to children arising from the processing of their personal data,
+       including risks from profiling, algorithmic content recommendation, and data
+       sharing practices.”
+
+
+​     Section 10. Role of the National Privacy Commission. Section 7 of Republic
+Act No. 10173 is hereby amended by adding a new paragraph to read as follows:
+
+       “The National Privacy Commission shall promulgate rules, in coordination with
+       the Department of Information and Communications Technology and other
+       relevant agencies, to enforce child-specific data protection standards for digital
+       platforms accessible to minors.”
+
+​      Section 11. Penalties. Any violation of the provisions relating to the protection of
+children’s personal data shall be subject to the penalties provided under Republic Act
+No. 10173, without prejudice to additional liabilities under special laws protecting
+children.
+
+      Section 12. Appropriations. The amount necessary for the initial
+implementation of this Act shall be charged against the current appropriation of the
+National Privacy Commission. Thereafter, the amount needed for the continued
+implementation of this Act shall be included in the annual General Appropriations Act.
+
+       Section 13. Implementing Rules and Regulations. Within ninety (90) days
+from the effectivity of this Act, the National Privacy Commission, in coordination with the
+Department of Information and Communications Technology, shall promulgate the
+necessary rules and regulations for its effective implementation.
+
+      Section 14. Separability Clause. If for any reason, any section, subsection,
+clause or term of this Act is held invalid or unconstitutional, such parts not affected by
+such declaration shall remain in full force and effect.
+       Section 15. Repealing clause. All existing laws, orders, decrees, rules and
+regulations or parts thereof, inconsistent with the provisions of this Act are hereby
+amended, modified or repealed accordingly.
+
+       Section 16. Effectivity. This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in a newspaper of general circulation.
+
+      Approved,
+

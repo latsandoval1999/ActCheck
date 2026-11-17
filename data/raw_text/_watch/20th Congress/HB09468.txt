@@ -1,0 +1,615 @@
+                                     Republic of the Philippines
+                                   HOUSE OF REPRESENTATIVES
+                                     Quezon City, Metro Manila
+                                                                                      May 26, 2026
+                                                                                       10:05 pm
+                                       TWENTIETH CONGRESS
+                                         First Regular Session
+
+                                  HOUSE BILL NO.      9468
+                                                 _______________
+
+
+
+                         Introduced by REP. JAVIER MIGUEL L. BENITEZ
+
+
+
+                                         EXPLANATORY NOTE
+
+       The law binds every Filipino. Under the Civil Code, ignorance of the law excuses
+no one from compliance therewith.1 This rule is indispensable to public order, for no
+legal system can function if citizens may evade compliance simply by claiming
+unfamiliarity with the law. But the same rule carries an equally important obligation on
+the part of the State: if the people are bound by law, the law must be reasonably
+accessible, knowable, and understandable to them.
+
+       The Supreme Court has long recognized that publication is essential to the
+binding force of laws. In Tañada v. Tuvera, the Court held that publication is
+indispensable because the people must be informed of the rules that govern them.2 The
+1987 Constitution likewise recognizes the right of the people to information on matters
+of public concern and guarantees access to official records, documents, papers
+pertaining to official acts, transactions, or decisions, and government research data used
+as a basis for policy development, subject only to limitations provided by law.3 These
+principles reflect a deeper democratic premise: the law is not the private property of
+lawyers, publishers, institutions, or government offices. It belongs to the people because
+it governs the people.
+
+       At present, however, public access to Philippine law remains fragmented. Official
+legal texts may be available online, but they are often scattered across different
+repositories, presented as originally enacted or promulgated, and not always
+
+1
+  Republic Act No. 386, art. 3 (1949) (Phil.)
+2
+  Tañada v. Tuvera, G.R. No. L-63915, 146 SCRA 446, 453–54 (Dec. 29, 1986) (Phil.).
+3
+  CONST. (1987), art. III, § 7 (Phil.).
+consolidated with later amendments, repeals, implementing rules, or related
+jurisprudence. A citizen attempting to understand a law amended several times may
+have to locate the original statute, track each amendatory law, determine which
+provisions remain in force, consult implementing rules, and search for relevant
+jurisprudence. For lawyers and institutions with paid legal databases, this may be a
+routine. For workers, farmers, fisherfolk, students, microentrepreneurs, barangay
+officials, and ordinary citizens, this can be practically impossible.
+
+       This difficulty is not merely technical. It is an access-to-justice problem. The
+Philippines continues to face serious gaps in legal assistance, rule-of-law performance,
+and digital inclusion. The World Justice Project has reported that the Philippines ranked
+97th out of 143 countries in the 2025 Rule of Law Index, and 13th out of 15 in the East
+Asia and Pacific region.4 Earlier legal-needs data also showed that many Filipinos
+experiencing legal problems do not obtain formal legal help.5 At the same time, the
+Philippine Statistics Authority reported that only 48.8% of households had internet
+connection in 2024, confirming that digital public services must be designed for
+low-bandwidth, mobile-first, and offline or assisted-access conditions.6
+
+        This bill, therefore, seeks to establish the “Philippine Open Law System,” a free,
+consolidated, continuously updated, searchable, accessible, and publicly available legal
+information platform for Philippine laws, rules, regulations, jurisprudence, and other
+legal issuances. This creates the public infrastructure necessary to help Filipinos locate
+and understand the law they are already required to obey.
+
+       This measure should be understood as part of the same transparency agenda
+advanced by the proposed Senate Bill No. 1432, or the People’s Freedom of Information
+Act. Freedom of information strengthens the citizen’s right to request and obtain
+government records. This bill strengthens the State’s corresponding duty to proactively
+supply the most basic public information in a democracy: the law itself. It ensures that
+statutes, rules, regulations, jurisprudence, and other public legal materials are not
+merely published in scattered form, but made available through an authenticated,
+searchable, reusable, and accessible public system. In this sense, the proposed
+Philippine Open Law System is the supply-side infrastructure that gives practical force
+to the demand-side right protected by freedom of information.
+
+4
+  WORLD JUSTICE PROJECT, The Philippines Ranks 97 out of 143 in the WJP Rule of Law Index 1 (2025).
+https://worldjusticeproject.org/sites/default/files/documents/Philippines_3.pdf
+5
+  WORLD JUSTICE PROJECT, Global Insights on Access to Justice 2019: Philippines (2019); see also United
+Nations Dep’t of Econ. & Soc. Affs., Access to Justice Project.
+6
+  Philippine Statistics Authority, Percentage of Households with Internet Connection Increased to 48.8 Percent in
+2024; Two in Every Three Individuals Aged 10 Years and Over Used the Internet (July 21, 2025).
+        The proposed system shall preserve official source texts, provide consolidated
+versions of laws and issuances, maintain amendment histories and prior versions,
+support open and machine-readable formats, and progressively integrate local
+ordinances and agency issuances. It shall also include accessibility measures for persons
+with disabilities, low-connectivity communities, and citizens who rely on public
+terminals, barangay facilities, libraries, schools, or local government offices for access to
+digital services.
+
+       The bill also anticipates the responsible use of artificial intelligence in public legal
+information. Legal AI tools may assist citizens in searching, summarizing, translating,
+or navigating legal texts, but they must not be allowed to replace lawyers, courts, or
+competent legal authorities. Empirical studies have shown that even specialized legal
+AI tools may produce inaccurate or fabricated legal outputs, making safeguards
+indispensable.7 For this reason, the bill requires source citation, accuracy testing, human
+oversight, hallucination-risk monitoring, public feedback mechanisms, data privacy
+compliance, cybersecurity protection, and clear disclaimers stating that AI-generated
+outputs are not legal advice or official interpretations of the law.
+
+       The measure also carefully avoids displacing private legal publishers or legal
+technology providers. The official text of the law must remain free and public, but
+private entities may continue to offer annotations, commentaries, analytics, digests,
+legal education materials, and value-added research tools. In this manner, the bill
+protects the public character of legal texts while preserving legitimate innovation and
+enterprise built around legal analysis.
+
+       Other jurisdictions have already demonstrated that free public legal databases
+are feasible and useful. The European Union operates EUR-Lex, which provides access
+to EU law, consolidated texts, case law, and the Official Journal.8 India maintains the
+India Code, a repository of central and state laws linked with subordinate legislation.9
+Australia’s AustLII provides free and independent access to Australasian legal
+materials.10 These models show that a modern legal system must not only publish laws,
+but also organize them in a way that citizens can actually use.
+
+7
+   Varun Magesh et al., Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools, 22 J.
+EMPIRICAL LEGAL STUD. 216 (2025); see also Stanford Inst. for Human-Centered Artificial Intelligence,
+AI on Trial: Legal Models Hallucinate in 1 out of 6 (or More) Benchmarking Queries (May 23, 2024).
+8
+   EUR-Lex, EU Law (providing access to the Official Journal of the European Union, EU law, case law,
+consolidated texts, and summaries of legislation). https://eur-lex.europa.eu/homepage.html
+9
+   India Code, Digital Repository of All Central and State Acts (containing enforced central and state acts
+linked with rules, regulations, notifications, orders, circulars, ordinances, and statutes).
+10
+    Australasian Legal Information Institute, AustLII (providing free and independent access to
+Australasian law). https://www.austlii.edu.au/index.shtml.
+        The Philippines must do the same. Access to law is not a luxury service. It is an
+essential condition for meaningful citizenship, accountable government, access to
+justice, and the rule of law. A right that cannot be found, read, or understood is a right
+diminished in practice. A duty imposed by an inaccessible law is a burden unevenly
+carried by those least able to navigate the legal system.
+
+        This bill gives practical effect to the constitutional right to information,
+strengthens public legal literacy, supports access to justice, and builds digital public
+infrastructure for the rule of law. It affirms a simple but fundamental principle: the law
+is already the people’s. The State must finally put it in their hands.
+
+      In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+
+                                                          JAVIER MIGUEL L. BENITEZ
+                                Republic of the Philippines
+                              HOUSE OF REPRESENTATIVES
+                                Quezon City, Metro Manila
+
+                                 TWENTIETH CONGRESS
+                                   First Regular Session
+
+                                                 9468
+                             HOUSE BILL NO. _______________
+
+
+
+                     Introduced by REP. JAVIER MIGUEL L. BENITEZ
+
+
+AN ACT ESTABLISHING THE PHILIPPINE OPEN LAW SYSTEM, PROVIDING
+    FOR A FREE, CONSOLIDATED, UPDATED, AND ACCESSIBLE PUBLIC
+    DATABASE OF PHILIPPINE LAWS, RULES, REGULATIONS, AND
+    JURISPRUDENCE,   INSTITUTIONALIZING    SAFEGUARDS     FOR
+    AI-ASSISTED LEGAL INFORMATION SERVICES, APPROPRIATING
+    FUNDS THEREFOR, AND FOR OTHER PURPOSES
+
+       Be it enacted by the Senate and House of Representatives in the Philippines in Congress
+assembled
+
+        SECTION 1. Short Title. – This Act shall be known as the “ Open Access to Law
+Act.”
+
+      SEC. 2. Declaration of Policy. – It is hereby declared the policy of the State to
+uphold the constitutional right of the people to information on matters of public
+concern, promote access to justice, strengthen the rule of law, and ensure that the laws
+binding the people are reasonably accessible, searchable, updated, and understandable.
+
+       The State recognizes that the legal system cannot rest solely on the doctrine that
+ignorance of the law excuses no one from compliance therewith, without a
+corresponding public obligation to make the law knowable to the people. Laws, rules,
+regulations, and jurisprudence are public legal materials issued in the name of the
+Republic and shall be made available to the public without unreasonable financial,
+technological, linguistic, or geographic barriers.
+
+     The State further recognizes that the right to information has both a demand-side
+and a supply-side dimension. While freedom of information mechanisms enable
+citizens to request access to public records, the State must also proactively make
+essential public legal information available in accessible, authenticated, searchable, and
+reusable form. The law itself, being the foundation of public rights, duties, obligations,
+and accountability, shall be treated as core transparency infrastructure.
+
+       Towards this end, the State shall establish and maintain a free, consolidated,
+continuously updated, and publicly accessible legal information system for Philippine
+laws, rules, regulations, and jurisprudence, while preserving the independence of the
+Judiciary, the constitutional powers of Congress, the rights of persons under data
+privacy laws, and the legitimate role of private legal publishers in providing
+commentary, analysis, and value-added services.
+
+      SEC. 3. Definition of Terms. For purposes of this Act, the following terms shall be
+defined as follows:
+
+   (a)​“An AI-assisted legal information service” refers to any artificial intelligence,
+       machine learning, natural language processing, chatbot, or similar digital tool
+       officially integrated into or linked with the Philippine Open Law System to assist
+       users in searching, summarizing, translating, or navigating public legal
+       information.
+
+   (b)​ “Authenticated digital copy” refers to a digital copy made available through the
+        System that has been verified as complete, genuine, and traceable to the official
+        source text.
+
+   (c)​ “Jurisprudence” refers to the decisions and final resolutions of the Supreme Court
+        forming part of the legal system pursuant to Article 8 of the Civil Code.
+        Decisions, resolutions, and issuances of lower courts, collegiate courts,
+        quasi-judicial agencies, and constitutional bodies may be included in the System
+        as public legal information, subject to arrangements with the issuing body and
+        applicable rules on confidentiality, privacy, and publication.
+
+   (d)​“Official source text” refers to the legal text officially enacted, issued,
+       promulgated, filed, released, or certified by the competent government body.
+
+   (e)​ “Public legal information” refers to the Constitution, statutes, presidential
+        issuances, administrative rules and regulations, local ordinances, treaties and
+        international agreements of public concern, jurisprudence, procedural rules, and
+        other issuances of binding legal effect.
+
+   (f)​ “Reference consolidation” refers to a public convenience version of a law, rule,
+        regulation, or issuance that incorporates amendments, repeals, suspensions,
+       effectivity dates, and other relevant changes based on available official source
+       texts. A reference consolidation shall not constitute an official interpretation of
+       law and shall not prevail over the official source text.
+
+   (g)​“The Philippine Open Law System” refers to the official public legal information
+       platform established under this Act.
+
+        SEC. 4. Establishment of the Philippine Open Law System. – There is hereby
+established the “Philippine Open Law System”, which shall serve as the official national
+digital public infrastructure for access to Philippine legal information.
+
+       The System shall provide the public with free access to authenticated digital
+copies of official source texts and, where available, reference consolidations prepared
+for public convenience. It shall be searchable, mobile-responsive, low-bandwidth
+compatible, accessible to persons with disabilities, and designed to support use by
+ordinary citizens, students, public officers, barangay officials, legal aid providers,
+courts, lawyers, businesses, and civil society organizations.
+
+        The System shall not replace existing publication, promulgation, filing, or
+effectivity requirements under the Civil Code, the Administrative Code of 1987, the
+Rules of Court, jurisprudence, and other applicable laws. Inclusion in or omission from
+the System shall not, by itself, determine the effectivity, validity, or enforceability of any
+law, rule, regulation, decision, or issuance.
+
+       SEC. 5. Legal Effect of Official Source Texts and Reference Consolidations. –
+Authenticated digital copies of official source texts made available through the System
+shall serve as official digital reference copies for public access, subject to verification
+protocols adopted under this Act.
+
+       Reference consolidations shall be prepared solely as public legal information
+tools. They shall not amend, repeal, modify, interpret, or determine the legal effect of
+any law, rule, regulation, decision, or issuance. In case of conflict between an official
+source text and a reference consolidation, the official source text shall prevail.
+
+       No consolidation, summary, annotation, search result, metadata tag, explanatory
+note, or AI-generated output appearing in the System shall be considered an official
+interpretation of law, a legal opinion of the government, or a binding ruling, unless
+separately issued by a competent authority in accordance with law.
+
+     Each reference consolidation shall identify the official source texts used, the
+amendments incorporated, the date of latest update, and any unresolved consolidation
+issue requiring verification by the user, the issuing agency, counsel, or the competent
+authority.
+
+       SEC. 6. Philippine Open Law Council. – There is hereby created a “Philippine
+Open Law Council,” which shall oversee policy direction, technical standards,
+authenticity protocols, consolidation rules, open-data standards, accessibility measures,
+AI safeguards, and inter-agency coordination under this Act.
+
+       The Council shall be chaired by the Secretary of Justice and co-chaired by the
+Secretary of Information and Communications Technology. It shall include
+representatives from the office administering the Official Gazette, the University of the
+Philippines Law Center through the Office of the National Administrative Register, the
+National Library of the Philippines, the Department of the Interior and Local
+Government, the Public Attorney’s Office, and such other agencies as may be necessary
+under the implementing rules.
+
+       The Senate, the House of Representatives, the Supreme Court, constitutional
+commissions, the Integrated Bar of the Philippines, legal aid organizations, state
+universities and colleges, and civil society organizations working on access to justice
+may be invited as institutional partners or observers, subject to their respective
+constitutional mandates and internal rules.
+
+       Nothing in this Act shall authorize the Council or any executive agency to revise,
+alter, suppress, or control official records belonging to Congress, the Judiciary,
+constitutional commissions, or local government units, or independent bodies.
+
+       SEC. 7. Coverage of the System. – The System shall progressively include
+authenticated digital copies of official source texts and, where available, reference
+consolidations of the Constitution, Republic Acts, Commonwealth Acts, Batas
+Pambansa, Presidential Decrees, Executive Orders, Administrative Orders,
+Proclamations, Memorandum Circulars, implementing rules and regulations,
+administrative rules filed with the Office of the National Administrative Register
+(“ONAR”), Supreme Court decisions and rules, treaties and international agreements of
+public concern, and other public legal information determined by the Council to be
+appropriate for inclusion.
+
+       Local ordinances and local issuances shall be integrated in phases through
+coordination with the Department of the Interior and Local Government and the
+concerned local government units. The Council shall prescribe standards to ensure that
+local legal materials uploaded to the System are authenticated, traceable, and clearly
+identified as local issuances.
+        SEC. 8. Relationship with ONAR and Duties of National Government Agencies.
+– For administrative rules and regulations required by law to be filed with the Office of
+the National Administrative Register, filing with ONAR shall remain the operative
+filing requirement. The System shall, to the greatest extent practicable, ingest, index, or
+link to administrative rules and regulations from ONAR in order to avoid duplicative
+filing burdens on agencies.
+
+        Where legal material is not required to be filed with ONAR, or where the
+material is not otherwise available in authenticated digital form, the issuing agency
+shall transmit to the System an authenticated digital copy in the format and within the
+period prescribed by the Council.
+
+       In case of unjustified failure to transmit, update, or correct covered public legal
+information after written notice, the Council may issue a compliance directive.
+Continued non-compliance shall be referred to the proper disciplining authority, the
+Civil Service Commission, the Office of the Ombudsman, or other competent body, as
+may be appropriate under existing laws and rules. The Council shall include material
+non-compliance in its annual report to Congress.
+
+       Failure to transmit an issuance to the System shall not dispense with publication
+or filing requirements under existing law. However, the unjustified failure of a
+responsible public officer to transmit covered issuances after notice and a reasonable
+opportunity to comply shall constitute administrative neglect of duty, without prejudice
+to other liabilities under applicable laws.
+
+       SEC. 9. Consolidation, Version Control, and Legal Integrity. – The Council shall
+adopt uniform rules for legal consolidation, citation, metadata, amendment tracking,
+repeal notation, effectivity tagging, and version control. Each legal text in the System
+shall preserve the relationship between the original law or issuance and subsequent
+amendments, repeals, modifications, implementing rules, and relevant jurisprudence,
+whenever available.
+
+       The System shall maintain an archive of prior versions of laws and issuances to
+preserve legal certainty, support historical research, and protect rights arising from past
+transactions. Corrections to the System shall be transparent, time-stamped, and
+traceable to the responsible office or official source.
+
+        SEC. 10. Access for Geographically Isolated, Disadvantaged, and
+Low-Connectivity Communities. – The System shall be designed for the actual
+conditions of the Philippines, including areas with limited internet access, low digital
+literacy, and limited access to lawyers.
+       The Department of Information and Communications Technology, in
+coordination with the Department of the Interior and Local Government, the
+Department of Education, the Commission on Higher Education, the Public Attorney’s
+Office, local government units, public libraries, and state universities and colleges, shall
+establish reasonable access mechanisms such as low-bandwidth versions, downloadable
+legal materials, offline access packets, public access terminals, mobile access points, and
+barangay or municipal legal information kiosks.
+
+       The System may include plain-language guides, frequently asked questions,
+visual explainers, and translations into Filipino and major Philippine languages. These
+materials shall be clearly marked as public legal information and shall not be treated as
+controlling legal interpretations.
+
+        SEC. 11. Verified Corpus Requirement Prior to AI Deployment. – No AI-assisted
+legal information service shall be deployed to the public as part of, or officially linked
+with, the System unless the Council has certified that the verified legal corpus necessary
+for the intended service has been sufficiently established, authenticated, indexed, and
+tested.
+
+       The certification shall identify the categories of legal materials covered by the
+AI-assisted service and the limitations of the corpus. Any AI-assisted service shall be
+technically constrained to retrieve from, cite to, and operate only upon the verified
+corpus or other official sources approved by the Council.
+
+       This section shall not prevent the System from offering ordinary keyword search,
+metadata search, citation search, or non-AI indexing tools before the deployment of
+AI-assisted services.
+
+      SEC. 12. AI-Assisted Legal Information Services. – The State may develop or
+authorize AI-assisted legal information services as part of the System, provided that
+such tools are used only to assist public access to legal information and not to replace
+lawyers, courts, prosecutors, public attorneys, judges, quasi-judicial bodies, or
+competent legal authorities.
+
+       Any AI-assisted legal information service officially integrated into the System
+shall cite the official source texts relied upon, disclose that it does not provide legal
+advice, preserve user access to the underlying legal text, and provide referral
+information to the Public Attorney’s Office, legal aid offices, courts, or appropriate
+government agencies when the query appears to involve an actual legal dispute or
+urgent rights-based concern.
+       The Council shall establish minimum safeguards before any AI-assisted legal
+information service is deployed to the public, including accuracy testing,
+hallucination-risk testing, source citation requirements, bias assessment, cybersecurity
+review, human oversight, public feedback mechanisms, and periodic independent
+audits.
+
+       The Council shall immediately suspend, correct, or withdraw any AI-assisted
+legal information service or public-facing tool that presents a substantial risk of legal
+misinformation, discrimination, privacy violation, cybersecurity breach, or public harm.
+
+       SEC. 13. Safeguards on Accuracy, Bias, and Public Harm. – The Council shall
+establish minimum safeguards before any AI-assisted legal information service is
+deployed to the public. These safeguards shall include accuracy testing,
+hallucination-risk testing, source citation requirements, bias assessment, cybersecurity
+review, human oversight, public feedback mechanisms, and periodic independent
+audits.
+
+      The System shall not collect personal or sensitive personal information from
+users except when strictly necessary for a lawful and declared public purpose.
+Anonymous access shall remain available for general legal research. Any processing of
+personal data shall comply with the Data Privacy Act of 2012 and other applicable laws.
+
+       The Council shall immediately suspend, correct, or withdraw any AI-assisted
+legal information service or public-facing tool that presents a substantial risk of legal
+misinformation, discrimination, privacy violation, cybersecurity breach, or public harm.
+
+       SEC. 14. Open Standards and Public Use. – Public legal information made
+available under this Act shall be provided in open, searchable, interoperable, and
+machine-readable formats, subject to reasonable safeguards for cybersecurity, system
+integrity, privacy, and protection against malicious interference.
+
+       Official source texts of statutes, rules, regulations, judicial decisions,
+administrative issuances, and other legal materials of binding legal effect shall not be
+subject to copyright protection and may be freely accessed, copied, reproduced,
+distributed, indexed, searched, quoted, linked, transformed into machine-readable
+formats, and used for public, educational, research, civic, technological, commercial, or
+non-commercial purposes, subject to the limitations provided by law.
+
+       Consistent with Section 176 of the Intellectual Property Code, no copyright shall
+subsist in any work of the Government of the Philippines and no prior approval or
+conditions shall be required for the use, for any purpose, of statutes, rules and
+regulations, and certain public addresses or materials rendered before courts,
+administrative agencies, deliberative assemblies, and meetings of public character.
+
+       Nothing in this Act shall prevent private publishers, law firms, universities, legal
+technology developers, or civic organizations from producing annotations,
+commentaries, digests, analytics, educational tools, citation tools, or other value-added
+services, provided that they do not falsely represent such materials as official
+government texts or exclusive sources of law.
+
+       SEC. 15. Protection of Judicial Independence and Congressional Prerogatives. –
+The integration of jurisprudence, court rules, and judicial issuances into the System
+shall be undertaken with due respect for the independence and fiscal autonomy of the
+Judiciary, and under such arrangements as may be agreed upon with the Supreme
+Court.
+
+       The integration of bills, legislative records, enrolled bills, Republic Acts, and
+related congressional materials shall be undertaken with due respect for the
+constitutional powers, internal rules, and records-management authority of the Senate
+and the House of Representatives.
+
+       Nothing in this Act shall be construed to authorize the Executive Department to
+determine the meaning of judicial decisions, alter legislative records, or interfere with
+the internal proceedings of Congress or the Judiciary.
+
+      SEC. 16. Cybersecurity and Authenticity. – The Department of Information and
+Communications Technology shall ensure that the System is protected by appropriate
+cybersecurity, authentication, encryption, backup, disaster recovery, and continuity
+measures. The System shall include audit trails sufficient to identify when a legal text
+was uploaded, corrected, updated, archived, or modified, and by whom.
+
+       The Council shall establish digital authentication protocols so that users may
+verify whether a legal text, a consolidated version, or a downloadable document
+originated from the official System.
+
+       SEC. 17. Good-Faith Reliance, Corrections, and Non-Liability. – Reference
+consolidations, summaries, translations, annotations, metadata, search results, and
+AI-assisted outputs made available through the System are provided as public legal
+information tools and shall not constitute official legal advice, official legal
+interpretation, or binding rulings.
+      No civil, administrative, or criminal liability shall attach to the government, the
+Council, participating agencies, or their officers and employees for good-faith errors,
+omissions, delays, or inaccuracies in reference consolidations, summaries, translations,
+annotations, metadata, search results, or AI-assisted outputs, provided that reasonable
+standards for authentication, consolidation, review, correction, and public notice have
+been observed.
+
+       This section shall not apply to gross negligence, willful misconduct, bad faith,
+fraud, corruption, malicious alteration, suppression, or falsification of official source
+texts or authenticated digital copies.
+
+        The Council shall maintain a clear public correction mechanism. Corrections
+shall be time-stamped, traceable, and accompanied by notice sufficient to inform users
+of the nature of the correction. This section shall be read together with the rule that
+official source texts prevail over reference consolidations and other public legal
+information tools.
+
+        SEC. 18. Prohibited Acts. – It shall be unlawful for any person to knowingly and
+without lawful authority alter, delete, corrupt, suppress, replace, disable, or interfere
+with an official source text, authenticated digital copy, authentication mechanism, audit
+trail, archive, or core integrity feature of the System in a manner that affects or is
+reasonably capable of affecting the authenticity, availability, completeness, or integrity
+of public legal information.
+
+        It shall likewise be unlawful for any person to knowingly upload, introduce,
+certify, or cause the publication in the System of a false, forged, altered, or fabricated
+legal text as an official source text or authenticated digital copy.
+
+       It shall further be unlawful for any person, for profit, public deception, or
+unlawful advantage, to falsely represent a private database, edited legal text,
+AI-generated output, unofficial consolidation, or private legal information product as
+an official source text, authenticated digital copy, or official output of the Philippine
+Open Law System.
+
+        Public officers who knowingly cause the unauthorized alteration, suppression, or
+falsification of legal information in the System shall be subject to administrative, civil,
+and criminal liability under applicable laws.
+
+      Good-faith citation, republication, commentary, annotation, teaching, research,
+legal advice, legal representation, criticism, news reporting, civic technology
+development, or private value-added legal publishing shall not constitute a prohibited
+act under this section, provided that the material is not falsely represented as an official
+source text, authenticated digital copy, or official output of the System.
+
+       SEC. 19. Penalties. – Any person who commits unauthorized tampering,
+corruption, suppression, substitution, deletion, disabling, or interference under the first
+paragraph of the preceding section shall, upon conviction, suffer the penalty of
+imprisonment of six (6) years and one (1) day to twelve (12) years, and a fine of not less
+than Five Hundred Thousand Pesos (₱500,000.00) but not more than Two Million Pesos
+(₱2,000,000.00), when the act affects or is reasonably capable of affecting the
+authenticity, availability, completeness, or integrity of an official source text,
+authenticated digital copy, authentication mechanism, audit trail, or archive of the
+System.
+
+       Any person who falsely represents a private database, unofficial consolidation,
+AI-generated output, edited legal text, or private legal information product as an official
+source text, authenticated digital copy, or official output of the System shall, upon
+conviction, suffer the penalty of imprisonment of six (6) months and one (1) day to two
+(2) years and four (4) months, or a fine of not less than Fifty Thousand Pesos
+(₱50,000.00) but not more than Five Hundred Thousand Pesos (₱500,000.00), or both, at
+the discretion of the court.
+
+      If the offender is a public officer who takes advantage of official position, the
+penalty shall be imposed in its maximum period, with the accessory penalty of
+disqualification from public office, without prejudice to administrative, civil, and other
+criminal liability under existing laws.
+
+      Where the act is punishable under the Revised Penal Code, the Cybercrime
+Prevention Act of 2012, the Anti-Graft and Corrupt Practices Act, the Data Privacy Act
+of 2012, or other special laws with a higher penalty, the higher penalty shall apply.
+Prosecution under this Act shall not bar prosecution for distinct offenses arising from
+the same act, subject to constitutional protections against double jeopardy.
+
+      SEC. 20. Public Legal Literacy Program. – The Department of Justice, Public
+Attorney’s Office, Department of Education, Commission on Higher Education,
+Department of the Interior and Local Government, and local government units shall
+promote public awareness and use of the Philippine Open Law System.
+
+      The public legal literacy program shall prioritize workers, farmers, fisherfolk,
+micro and small entrepreneurs, students, barangay officials, persons deprived of liberty,
+overseas Filipino workers and their families, indigenous cultural communities, persons
+with disabilities, and geographically isolated and disadvantaged communities.
+
+       SEC. 21. Phased Implementation. – The implementation of this Act shall be
+undertaken in phases. The first phase shall prioritize the Constitution, Republic Acts,
+major presidential issuances, and administrative rules and regulations of national
+application. The second phase shall prioritize jurisprudence, procedural rules,
+quasi-judicial issuances of public significance, and agency-level regulatory issuances.
+The third phase shall provide for the integration of local ordinances and other local
+issuances in coordination with local government units.
+
+       The Council shall publish an implementation roadmap within one hundred
+eighty (180) days from the effectivity of this Act.
+
+       SEC. 22. Annual Report to Congress. – The Council shall submit an annual report
+to Congress on the status of implementation, agencies connected to the System, number
+of legal texts consolidated, number of users served, access gaps, cybersecurity incidents,
+AI performance audits if applicable, public feedback, budget utilization, and
+recommendations for further legislation.
+
+      The annual report shall be made publicly available through the System.
+
+       SEC. 23. Appropriations. – The amount necessary for the initial implementation
+of this Act shall be charged against the current appropriations of the Department of
+Justice, the Department of Information and Communications Technology, and other
+participating agencies. Thereafter, such sums as may be necessary for the continued
+implementation of this Act shall be included in the annual General Appropriations Act.
+
+       The Council may accept grants, technical assistance, and partnerships from
+domestic or international institutions, subject to existing laws on procurement, auditing,
+cybersecurity, data privacy, national security, and conflicts of interest. No grant,
+partnership, or technical assistance arrangement shall grant any private entity exclusive
+control over public legal information.
+
+       SEC. 24. Implementing Rules and Regulations. – Within one hundred eighty
+(180) days from the effectivity of this Act, the Department of Justice and the Department
+of Information and Communications Technology, in coordination with the members of
+the Council and relevant institutional partners, shall promulgate the rules and
+regulations necessary to implement this Act.
+        SEC. 25. Separability Clause. – If any provision of this Act is declared
+unconstitutional or invalid, the remaining provisions not affected thereby shall remain
+in full force and effect.
+
+       SEC. 26. Repealing Clause. – All laws, decrees, executive orders, rules and
+regulations, or parts thereof inconsistent with this Act are hereby repealed, amended, or
+modified accordingly.
+
+      SEC. 27. Effectivity. – This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in a newspaper of general circulation.
+
+
+
+      Approved,
+

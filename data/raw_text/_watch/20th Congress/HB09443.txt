@@ -1,0 +1,542 @@
+                            Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES
+                                  Quezon City                               May 26, 2026
+                                                                             1:56 pm
+                               TWENTIETH CONGRESS
+                                First Regular Session
+
+                                           9443
+                            House Bill No. _____
+_________________________________________________________________________
+
+             Introduced by Representative KAREN HOPE F. GARCIA
+_________________________________________________________________________
+
+                                EXPLANATORY NOTE
+
+        The foundation of a strong democracy is a well-informed citizenry. The right of
+the people to information on matters of public concern is enshrined in Section 7,
+Article III of the 1987 Constitution. Aside from access to official records and
+documents, access to government research data used as bases for policy
+development is also afforded to citizens. Moreover, the State is also mandated to
+provide the policy environment for the full development of Filipino capability and the
+emergence of communication structures suitable to the needs and aspirations of the
+nation and the balanced flow of information (Article XVI, Section 10, 1987
+Constitution). Unfortunately, these constitutional provisions have not been realized to
+their full extent albeit the existence of technological platforms that has revolutionized
+access to information around the world.
+
+      In 2011, progress has been made when the Philippines became a founding
+member of the Open Government Partnership (OGP), a multilateral initiative that
+aims to secure concrete commitments to promote transparency, empower citizens,
+fight corruption, and harness new technologies to strengthen governance.
+Afterwards, an ad-hoc task force composed of the Office of the Presidential
+Spokesperson (OPS), Department of Budget and Management (DBM), and the
+Presidential Communications Development and Strategic Planning Office (PCDSPO)
+was formed to develop data.gov.ph (now gov.ph/data) resulting into the enactment of
+Joint Memorandum Circular (JMC) No. 2014-01, which was subsequently
+supplemented by JMC No. 2015-01 on the strength of Section 24 of the 2015
+General Appropriations Act. Thus, “Open Data Philippines” was born.
+
+      Thereafter, Republic Act No. 10844 or the “Department of Information and
+Communications Technology [DICT] Act of 2015” was passed. The DICT is
+mandated to harmonize and coordinate all national ICT plans and initiatives to
+ensure knowledge, resource, and information sharing, database building, and
+agency networking linkages among government agencies, consistent with
+E-Government objectives in particular, and national objectives in general.1 This fresh
+mandate paved way to the recalibration of the Philippine open data strategy as well
+as the involvement of other pertinent government agencies such as the Philippine
+Statistics Authority, National Archive of the Philippines, National Privacy
+Commission, and the Civil Service Commission.2
+
+       This bill, the first of its kind in the Philippine legislature, intends to legislate this
+outstanding initiative in order to encompass the whole government structure. It seeks
+to adopt a policy of openness with regard to all datasets created, collected,
+processed, disseminated, or disposed through the use of public funds to the extent
+permitted by applicable laws and subject to legally mandated restrictions. Its primary
+aim is to democratize data by cultivating a culture of information-sharing among
+government institutions and the public in order to strengthen evidence-based
+policymaking, enhance citizen participation, and improve government transparency,
+accountability, and effectiveness.
+
+        Importantly, the bill also recognizes the crucial role of open data in disaster
+resilience. The Philippines, being one of the most disaster-prone countries in the
+world, requires timely, accurate, and interoperable datasets to strengthen disaster
+risk reduction, preparedness, and emergency response. By mandating the disclosure
+and real-time availability of disaster-related datasets—such as hazard maps, climate
+and weather forecasts, infrastructure inventories, and social protection data—this bill
+empowers local governments, communities, and citizens to take proactive measures
+that save lives and protect livelihoods. Open data becomes not only a tool for
+transparency, but also a lifeline for resilience, ensuring that information serves as a
+foundation for safer, stronger, and more prepared communities.
+
+      The bill further provides for the creation of the Open Data Policy Board and a
+counterpart Open Data Bureau that shall ensure the effective and efficient
+implementation of this measure. A detailed set of principles and specific criteria for
+datasets to be considered open are likewise provided.
+
+        With a growing technology-savvy citizenry and the ever-improving
+technological infrastructure, the government must be able to catch up and
+institutionalize data-driven governance. More importantly, it must harness the power
+of open data to strengthen disaster resilience, empower communities, and safeguard
+lives.
+
+
+                                                                                          Rep. KAREN HOPE F. GARCIA
+                                                                                            3rd District, Province of Cebu
+
+1
+    RA 10844, Section 6 (f).
+2
+   2018 Draft Joint Memorandum Circular accessed from
+https://www.gov.ph/documents/820828/941060/Draft_Open+Data+Policy_August2018.pdf/0f553214-2a22-9b41-00c8-ec6407433376?fbclid=IwAR3KKL1THWKLj5HA31M
+NyLIrSoK9XMWbFISNGxx4mr35xfqf0kbBLSCEqls.
+                           Republic of the Philippines
+                         HOUSE OF REPRESENTATIVES
+                                 Quezon City
+
+                              TWENTIETH CONGRESS
+                               First Regular Session
+
+                                           9443
+                            House Bill No. _____
+_________________________________________________________________________
+
+             Introduced by Representative KAREN HOPE F. GARCIA
+_________________________________________________________________________
+
+                            AN ACT
+ STRENGTHENING OPEN DATA GOVERNANCE AND DISASTER RESILIENCE
+ THROUGH THE INSTITUTIONALIZATION OF OPEN DATA PHILIPPINES, AND
+                     FOR OTHER PURPOSES
+
+Be it enacted by the Senate and the House of Representatives of the Philippines in
+Congress assembled:
+
+                                 CHAPTER I
+                             GENERAL PROVISIONS
+
+      Section 1. Short Title. - This Act shall be known as the "Open Data and
+Disaster Resilience Act of 2025”.
+
+       Section 2. Declaration of Policy. - It is the policy of the State to make all
+published government data accessible to the public to promote transparency,
+innovation, citizen engagement, and disaster resilience. The State shall adopt an
+open data strategy to ensure that datasets created, collected, processed,
+disseminated, or funded through public resources are made available in
+machine-readable formats, with open licenses, to the extent permitted by applicable
+laws on privacy, national security, and confidentiality.
+
+       The State recognizes that timely, accurate, and open government data is
+essential for disaster risk reduction and management (DRRM), climate resilience,
+emergency response, and sustainable development. Accordingly, government
+agencies shall ensure that critical datasets—such as hazard maps, weather and
+climate data, infrastructure inventories, evacuation centers, social protection lists,
+and real-time emergency updates—are shared through interoperable platforms
+accessible to both government and the public.
+    In line with this, the State shall mandate all government offices to adopt the open
+data strategy to enforce the digitization of government data sets to make them
+available in a machine-readable format and publish these datasets in a shared
+repository in an internet domain. The State shall:
+           a.​ Recognize climate resilience and disaster risk reduction as integral to
+               national development, security, and sustainability, and ensure that open
+               data directly supports disaster preparedness, emergency response,
+               and recovery;
+           b.​ Mandate transparency, evidence-based decision-making, and public
+               accountability through the institutionalization of Open Data Philippines
+               as a national program;
+           c.​ Empower LGUs, civil society, academe, and the private sector to
+               access and utilize open data for resilience planning, participatory
+               governance, and community empowerment; and
+           d.​ Facilitate sustainable investments in resilience-building through
+               risk-informed budgeting, research funding, public-private partnerships,
+               and innovative financing mechanisms.
+
+       Section 3. Definition of Terms. - As used in this Act, the following terms
+shall be defined as follows:
+          a.​ “Agency Information Inventory” refers to the comprehensive listing of all
+              information and datasets that an agency currently holds.
+          b.​ “Data” refers to recorded information, regardless of form or the media
+              on which the data is recorded.
+          c.​ “Dataset” refers to information comprising a collection of information
+              held in electronic form where all or most of the information in the
+              collection —
+                  i.​ has been obtained or recorded for the purpose of providing a
+                      public authority with information,
+                 ii.​ is factual information which is not the product of analysis or
+                      interpretation other than calculation, and
+                iii.​ remains presented in a way that (except for the purpose of
+                      forming part of the collection) has not been organized, adapted
+                      or otherwise materially altered since it was obtained or recorded.
+          d.​ “Machine-readable” refers to the form in which data or text can be
+              easily processed by a computer. It excludes the picture format
+              (scanned or photographed) of documents.
+          e.​ “Metadata” refers to the description of a data or data set. It provides
+              information that describes its content.
+          f.​ “Open access” refers to the provision of free access to the general
+              public.
+          g.​ “Open Data Philippines” refers to the core government program that
+              addresses the constitutional right of Filipinos to information on matters
+              of public concern by making government data accessible, searchable,
+              and understandable.
+          h.​ “Open Data Portal” refers to the public domain website that serves as
+              the central repository for all government datasets.
+          i.​ “Open license” refers to a legal conditions that allows a content to be
+              free and reusable in any way under a few conditions, attribution being
+              the usual requirement.
+
+       Section 4. Coverage. - This Act shall cover all agencies and instrumentalities
+of the government including State Universities and Colleges (SUCs),
+Government-Owned and -Controlled Corporations (GOCCs), and Government
+Financial Institutions (GFIs); Local Government Units (LGUs); and constitutional
+offices enjoying fiscal autonomy.
+
+       Section 5. Exceptions. - This Act shall not apply to government datasets
+pertaining to the following:
+
+          a.​ Personal and sensitive personal information collected pursuant to
+              Republic Act No. 10173 or the Data Privacy Act of 2012;
+          b.​ National security matters including military, diplomatic, and other state
+              secrets;
+          c.​ Trade or industrial secrets pursuant to Republic Act No. 8293 or the
+              Intellectual Property Code of the Philippines;
+          d.​ Banking information and transactions covered by Republic Act No.
+              1405 or the Secrecy of Bank Deposits;
+          e.​ Classified law enforcement matters, such as those relating to the
+              apprehension, prosecution, and detention of criminals; and to
+          f.​ Other situations involving other known legal limitations including, but
+              not limited to, contractual pledges of confidentiality.
+
+                                  CHAPTER II
+                             OPEN DATA PHILIPPINES
+
+        Section 6. Open Data Policy Board. - An independent inter-agency body to
+be known as the Open Data Policy Board (ODPB) is hereby established to develop
+policies and oversee the proper implementation of Open Data Philippines based on
+domestic and international standards on open data. It shall ensure the alignment of
+its policies to government data disclosure initiatives such as the Data Privacy Act,
+the Intellectual Property Code, and other pertinent laws and regulations.
+
+       The ODPB shall be composed of the Secretary of the Department of
+Information and Communication Technology as Chairperson, the National Statistician
+as the Vice Chairperson, with the following members:
+         a.​ Secretary of the Department of Science and Technology;
+         b.​ Secretary of the Department of Education;
+         c.​ Secretary of the Department of Interior and Local Government;
+         d.​ Secretary of the Department of Budget and Management;
+         e.​ Secretary of the Presidential Communication Operations Office;
+         f.​ Chairperson of National Disaster Risk Reduction and Management
+             Council;
+         g.​ Director-General of the National Archives of the Philippines;
+         h.​ Chairperson of the National Privacy Commission;
+         i.​ Director-General of the Intellectual Property Office;
+         j.​ Chairperson of the Commission on Higher Education;
+         k.​ President of the University of the Philippines; and the
+         l.​ Director-General of the Technical Education and Skills Development
+             Authority;
+
+or their duly authorized representatives. A representative from the private sector
+shall be appointed by the President of the Philippines, upon the recommendation of
+the ODPB. The ODPB may invite resource persons in their meetings.
+
+     Section 7. Powers and Functions of the Open Data Policy Board. - The
+Open Data Policy Board shall have the following powers and functions:
+
+   a.​ establish government-wide policies and best practices for the use, protection,
+       dissemination, and generation of data;
+   b.​ promote and encourage data sharing agreements between government
+       agencies and instrumentalities;
+   c.​ identify ways in which government agencies and instrumentalities can
+       improve upon the production of data for use in policymaking;
+   d.​ identify and evaluate new technology solutions for improving the collection
+       and use of data; and
+   e.​ consult with the public and engage with private users of government data and
+       other stakeholders on how to improve access to and usability of data assets
+       government.
+
+      The ODPB shall be supported by the Open Data Bureau.
+
+        Section 8. Open Data Bureau. - There shall be a body to be known as the
+“Open Data Bureau” under the supervision and control of the Open Data Policy
+Board specifically dedicated to the administration, promotion, development, and
+implementation of the Open Data initiative of the Philippine government as provided
+in this Act, which shall have the following functions:
+
+         a.​ Strengthen the existing Open Data Philippines initiative to foster
+             openness, increase government transparency, enhance citizen
+             engagement, and promote the use of open data for disaster risk
+             reduction and resilience-building;
+         b.​ Strengthen the existing Open Data Portal to serve as the central
+             repository of all open government datasets, including but not limited to
+             disaster-related and climate resilience data such as hazard maps, early
+             warning systems, social protection data, and infrastructure inventories;
+         c.​ Create, issue, and implement an Open Data Action Plan (ODAP),
+             which shall outline a three-year roadmap to a complete and integrated
+             Open Data system and demonstrate the potential uses of open data in
+             public service delivery, disaster preparedness, climate adaptation, and
+             emergency response, among others;
+         d.​ Institutionalize data management practices and standards set by the
+             Philippine eGovernment Interoperability Framework (PeGIF) for open
+             data, such as a naming and tagging convention, metadata schema,
+             data dictionary, among others;
+         e.​ Maintain an accessible open data inventory and catalogue, with priority
+             given to datasets critical for disaster preparedness, response, and
+             recovery;
+         f.​ Promote civic participation by consulting with civil society
+             organizations, scientific institutions, and disaster resilience
+             stakeholders in formulating plans and policies for the implementation of
+             Open Data;
+         g.​ Monitor and evaluate the compliance of government agencies with the
+             guidelines on open data, with special emphasis on agencies mandated
+             to collect and maintain disaster- and climate-related data;
+         h.​ Issue specific guidelines in accordance with the policies laid down by
+             the ODPB;
+         i.​ Conduct capacity-building activities such as trainings, workshops, and
+             seminars to train government agencies, LGUs, and instrumentalities on
+             data integration, disaster data management, and use of the Open Data
+             Portal for resilience planning;
+         j.​ Render opinions on issues raised and referred by government
+             agencies about the implementation of this Act
+         k.​ Consult with the public and engage with private users of government
+             data and other stakeholders on how to improve access to data assets
+             of the government; and
+         l.​ Assume other duties and functions as may be deemed necessary by
+             the ODPB for the successful operation of the bureau.
+
+      In addition to the powers granted under this Act, the Open Data Bureau shall
+absorb all the powers, functions, and responsibilities of the Open Data Philippines
+Task Force created under Joint Memorandum Circular No. 2015-01.
+​      Section 9. Organizational Structure of the Bureau. - The Bureau shall be
+by headed by an Executive Director. The Executive Director shall be assisted by two
+(2) Deputy Directors, one to be responsible for Data Processing Systems and one to
+be responsible for Policy and Planning. The Open Data Commissioner and the two
+(2) Deputy Open Data Commissioners shall be appointed by the President of the
+Philippines for a term of three (3) years, and may be reappointed for another term of
+three (3) years. Vacancies in the Commission shall be filled in the same manner in
+which the original appointment was made.
+
+​     Section 10. Qualification of the Executive Director and Deputy Directors.
+- The Executive Director and Deputy Directors must be at least thirty-five (35) years
+of age and of good moral character, unquestionable integrity and known probity, and
+a recognized expert in the field of open data, statistics, and computer and
+information technology.
+
+       The Executive Director shall enjoy the benefits, privileges, and emoluments
+equivalent to the rank of an Undersecretary. The Deputy Directors shall enjoy the
+benefits, privileges, and emoluments equivalent to the rank of Assistant Secretary.
+
+      Section 11. Open Data Officer. - Each government agency covered by this
+Act shall appoint or designate an Open Data Officer. The Open Data Officer shall be
+responsible for the following:
+           a.​ Promote the increased use and re-use of official government data
+               within the agency and by the public;
+           b.​ Coordinate with the Open Data Bureau for the proper implementation
+               of its issuances and other concerns;
+           c.​ Maintain an Agency Information Inventory;
+           d.​ Improve and enhance data management practices of the agency;
+           e.​ Consult with the public and engage with private users of agency data
+               and other stakeholders on how to improve access to data assets of the
+               agency; and
+           f.​ Respond to feedback from the public regarding open data.
+
+​    The government agency may create an Agency Open Data Team to assist the
+Open Data Officer in fulfilling the functions listed above.
+
+       Appointed or designated officers shall enjoy additional emoluments as may be
+determined by the head of the government agency. In no case shall the Open Data
+Officer be the same as the Data Privacy Officer.
+
+        Section 12. League of Open Data Officers. - There shall be an organization
+of all open data officers to be known as the League of Open Data Officers for the
+primary purpose of ventilating, articulating, and crystallizing issues affecting open
+data administration, and securing, through proper and legal means, solutions
+thereto.
+
+       All Open Data Officers shall attend all meetings and participate in the
+deliberations of the league. The Executive Director of Open Data Bureau shall serve
+as the Chairperson of the League.
+
+                               CHAPTER III
+                      OPEN DATA OPERATIONALIZATION
+
+      Section 13. General Open Data Principles. - The open data initiative shall
+be guided by the following principles:
+
+         a.​ Access to public sector information. Open Data Philippines is one of
+             the core government programs that guarantee the constitutional right of
+             the people to information on matters of public concern. The Open Data
+             Portal is intended to be the primary platform by which government data
+             is published, including disaster- and climate-related data necessary for
+             preparedness, response, and recovery.
+
+         b.​ Data-driven governance. The program seeks to drive government
+             decision-making based on available and sound data. It emphasizes the
+             critical role of timely, reliable, and interoperable datasets—such as
+             hazard maps, early warning indicators, and social protection data—in
+             strengthening disaster risk reduction and resilience planning. Equally
+             important, the program recognizes that government does not have a
+             monopoly of good governance, as a citizenry empowered with open
+             government data can help improve government’s service delivery and
+             collective preparedness.
+
+         c.​ Public engagement. The program adheres to the idea that opening
+             government data goes beyond providing data; it needs the public's
+             participation to move it forward. Hence, the program establishes
+             linkages outside of government, especially with civil society
+             organizations (CSOs), the private sector, academe, and other
+             stakeholders in advancing disaster preparedness, community
+             resilience, and inclusive recovery.
+
+         d.​ Practical innovation. The program aspires to create opportunities for
+             innovation that tremendously benefit both government and the public.
+             The program recognizes that open government data goes beyond the
+             fundamental purpose of transparency, but also aims to improve the
+             delivery of public services, translate into economic or commercial
+             opportunities, and find relevance in the everyday lives of citizens.
+      Section 14. Criteria for a Dataset to be Considered Open. - For a
+government dataset to be considered open, it must possess the following:
+
+          a.​ Publicly available and accessible by default. If the dataset qualifies for
+              publication to the extent permitted by applicable laws and subject to
+              individual privacy, confidentiality, national security, or other
+              legally-mandated restrictions, it should be made available through the
+              national government portal and the agency’s website by default and
+              obtainable through download.
+
+          b.​ Timely and Comprehensive. Each dataset shall be updated to ensure
+              its quality and to preserve its value. All datasets must be updated at
+              least once every quarter of the year, or whenever possible and
+              permissible;
+
+          c.​ Accessible and Usable. Each dataset must be platform-independent,
+              machine-readable, and free of restrictions that would impede the
+              re-use, modification, or processing of the information it contains.
+              Datasets in machine-readable formats shall have data that can be
+              extracted and processed by computer programs easily; and
+
+          d.​ Comparable and Interoperable. Each dataset shall be easy to compare
+              within and between sectors, across geographic locations, and over
+              time. All datasets must be presented in a structured and standardized
+              formats to support interoperability, traceability, and effective reuse.
+
+       It shall be understood that a government dataset uploaded in the government
+open data portal is to be used for improved governance and citizen engagement as
+well as for inclusive development and innovation.
+
+       Section 15. Open license. - Government data uploaded in the Open Data
+Portal shall be considered as public content and can be used for public consumption.
+This means that the dataset is offered free and without restriction, subject only to
+proper attribution to the publishing government agency and instrumentality.
+
+​      Section 16. Agency Implementation. - All agencies, through their respective
+Open Data Officers, shall comply with the Open Data guidelines which will be set by
+the Open Data Bureau. To fulfill their commitment in the Open Data initiative, they
+shall:
+
+          a.​ Adopt an Agency Open Data Policy;
+          b.​ Foster an open, transparent and accessible government through open
+              data;
+          c.​ Promote the increased use and re-use of official government data
+              within the Department and by the public;
+          d.​ Improve and enhance data management practices;
+          e.​ Respond to feedback from the public regarding open data; and
+          f.​ Work with civil society, the private sector and citizens to prioritize open
+              datasets for release.
+
+​     Section 17. Uploading of Datasets. - All datasets to be uploaded by the
+agencies shall be coursed through their respective Open Data Officers before
+uploading. These shall include datasets which are:
+
+          a.​ necessary to espouse transparency and accountability in public
+              governance;
+          b.​ relevant for the public to know through the use of statistics;
+          c.​ requested by other government agencies and other institutions and
+              entities; and
+          d.​ required by the Open Data Policy Bureau to upload.
+
+       Section 18. Civic Engagement. - Civic participation and engagement shall
+be promoted by consulting with civil society organizations in formulating plans and
+policies for the implementation of Open Data. It is recommended that each data
+category has a CSO counterpart that shall build on the data.
+
+      Section 19. Incentive for Open Data Utilization. - All Filipino citizens are
+encouraged to create usable applications out of the datasets that will be uploaded in
+the government portal. An incentive program shall be created for this purpose.
+
+                                    CHAPTER IV
+                                    PENALTIES
+
+       Section 20. Responsibility of Heads of Agencies. – All open data
+maintained by the government, its agencies, and instrumentalities shall be published,
+as far as practicable, with the use of the most appropriate standard recognized by
+the information and communications technology industry, and as recommended by
+the Open Data Policy Board. The head of each government agency or
+instrumentality shall be responsible for complying with the disclosure requirements
+mentioned herein while the Bureau shall monitor the compliance and may
+recommend the necessary action in order to satisfy the minimum standards.
+
+       Section 21. Violations. - Any act of intentional misuse, misrepresentation,
+tampering, hacking, or other analogous acts, committed in the Philippines or abroad,
+by Filipinos or foreigners, shall be penalized by imprisonment ranging from six (6)
+months to three (3) years and a fine of not less than Two hundred thousand (Php
+200,000.00) but not more than One million pesos (Php 1,000,000.00).
+       Any combination or series of acts listed above shall be penalized by
+imprisonment ranging from three (3) years to six (6) years and a fine of not less than
+One million pesos (Php1,000,000.00) but not more than Five million pesos (Php
+5,000,000.00).
+
+                                 CHAPTER V
+                          MISCELLANEOUS PROVISIONS
+
+        Section 22. Interpretation. - Any doubt in the interpretation of any provision
+of this Act shall be liberally interpreted in a manner mindful of the right of the people
+to information on matters of public concern and access to government research data
+used as bases for policy development.
+
+      Section 23. Implementing Rules and Regulations. - The ODPB shall
+convene within fifteen (15) days from the effectivity of this Act to formulate the
+Implementing Rules and Regulations (IRR) of this Act within ninety (90) days from
+convening.
+
+​       Section 24. Congressional Oversight Committee. - There is hereby
+created a Joint Congressional Oversight Committee to oversee the implementation
+of this Act for a period not exceeding five (5) years from the effectivity of this Act.
+The Committee shall be composed of the Chairperson of the Senate Committee on
+Public Information and Mass Media and two (2) members thereof appointed by the
+Senate President, and the Chairperson of the House Committee on Public
+Information and House Committee on Information and Communications Technology
+and two (2) members thereof to be appointed by the Speaker of the House of
+Representatives.
+
+       Section 25. Reportorial Requirements. - The Open Data Bureau shall
+annually report to the President and Congress on its activities in carrying out the
+provisions of this Act. The Commission shall undertake whatever efforts it may
+determine to be necessary or appropriate to inform and educate the public of data
+privacy, data protection and fair information rights and responsibilities.
+
+       Section 26. Transitory Provision. - Government agencies and
+instrumentalities affected by this Act shall be given one (1) year transitory period
+from the effectivity of the IRR or such other period as may be determined by the
+ODPB to comply with the requirements of this Act.
+
+         Section 27. Appropriations Clause. - The ODPB shall be provided with an
+initial appropriation of Twenty million pesos (Php 20,000,000.00) to be drawn from
+the national government. Appropriations for the succeeding years shall be included
+in the General Appropriations Act. It shall likewise receive Ten million pesos (Php
+10,000,000.00) per year for five (5) years upon implementation of this Act drawn
+from the national government.
+
+       Section 28. Separability Clause. - If any provision or part hereof is held
+invalid or unconstitutional, the remainder of the law or the provision not otherwise
+affected shall remain valid and subsisting.
+
+       Section 29. Repealing Clause. - Except as otherwise expressly provided in
+this Act, all other laws, decrees, executive orders, proclamations and administrative
+regulations or parts thereof inconsistent herewith are hereby repealed or modified
+accordingly.
+
+        Section 30. Effectivity Clause. - This Act shall take effect fifteen (15) days
+after its publication in at least two (2) national newspapers of general circulation.
+
+      Approved,
+

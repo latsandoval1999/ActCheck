@@ -324,11 +324,76 @@
    "catch_up_added": 109,
    "catch_up_remaining": 4784,
    "pilot_scope": 0
+  },
+  {
+   "time": "2026-11-17T04:31:22+00:00",
+   "checked": {
+    "HB": [
+     11535,
+     12241
+    ]
+   },
+   "errors": {
+    "SB": "source unavailable (HTTPError: HTTP Error 403: Forbidden): check failed, NOT the same as 'no new bills'"
+   },
+   "found": 0,
+   "notes": [
+    "House: 89 numbers checked; highest published so far HB 11840; numbers above it are not yet on the House documents server"
+   ],
+   "catch_up_added": 104,
+   "catch_up_remaining": 4634,
+   "pilot_scope": 0
   }
  ],
  "backfill": {
-  "next": 9533,
+  "next": 9383,
   "absent": [
+   9387,
+   9388,
+   9390,
+   9391,
+   9397,
+   9452,
+   9453,
+   9461,
+   9462,
+   9463,
+   9464,
+   9465,
+   9466,
+   9467,
+   9479,
+   9480,
+   9481,
+   9482,
+   9483,
+   9484,
+   9485,
+   9486,
+   9487,
+   9508,
+   9509,
+   9510,
+   9511,
+   9512,
+   9514,
+   9515,
+   9516,
+   9517,
+   9518,
+   9519,
+   9520,
+   9523,
+   9524,
+   9525,
+   9526,
+   9527,
+   9528,
+   9529,
+   9530,
+   9531,
+   9532,
+   9533,
    9534,
    9535,
    9536,

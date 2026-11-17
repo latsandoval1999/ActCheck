@@ -1,0 +1,455 @@
+                          Republic of the Philippines
+                       HOUSE OF REPRESENTATIVES
+                        Constitution Hills, Quezon City              May 25, 2026
+                                                                      8:03 am
+                           TWENTIETH CONGRESS
+                            First Regular Session
+
+                                            9395
+                            House Bill No. _______
+______________________________________________________________________________
+            Introduced by: REPRESENTATIVE ERIC L. OLIVAREZ
+
+
+                            EXPLANATORY NOTE
+
+      The rapid expansion of digital platforms and social media has transformed
+the way people communicate, access information, and participate in public
+discourse. While these technologies have strengthened democratic engagement
+and expanded access to information, they have also enabled the widespread
+dissemination of disinformation, misinformation, malinformation,             and
+coordinated inauthentic behavior that undermine public trust, distort
+democratic processes, threaten public safety, and erode institutional credibility.
+
+       In recent years, online disinformation campaigns, troll farms, fake
+accounts, bot networks, and deceptive digital practices have increasingly been
+used to manipulate public opinion, spread fraudulent content, interfere in civic
+discourse, and exploit the vulnerabilities of digital communication systems. The
+absence of sufficient transparency and accountability mechanisms among digital
+platforms has further aggravated these harms.
+
+      At the same time, any effort to address harmful online conduct must
+remain firmly consistent with the constitutional guarantees of freedom of speech,
+freedom of the press, and the free flow of information. Regulation must therefore
+focus not on suppressing legitimate expression, criticism, dissent, journalism,
+or political advocacy, but on promoting transparency, accountability, ethical
+standards, and informed digital participation.
+
+      This proposed measure seeks to establish a balanced and rights-based
+framework for digital platform accountability by requiring transparency in online
+advertising, coordinated inauthentic behavior takedowns, recommender
+systems, and platform moderation practices. It also provides safeguards for
+users through notice-and-action mechanisms, statements of reasons for
+moderation decisions, and accessible dispute resolution systems.
+
+      This bill further recognizes the role of a multi-sectoral and independent
+Digital Media Standards Coalition (DMSC) that shall promote ethical standards,
+support fact-checking initiatives, and encourage responsible digital conduct
+without exercising censorship powers or infringing upon editorial independence.
+
+      In addition, this measure promotes media and digital literacy through
+educational institutions and strengthens government transparency through
+open and verifiable public information systems.
+
+      Ultimately, this bill seeks to protect democratic discourse and strengthen
+public trust in digital communications while upholding the fundamental
+freedoms guaranteed under the Constitution.
+
+      In view of the foregoing, the passage of this bill is earnestly sought.
+
+
+
+                                                         ERIC L. OLIVAREZ
+                          Republic of the Philippines
+                       HOUSE OF REPRESENTATIVES
+                        Constitution Hills, Quezon City
+
+                           TWENTIETH CONGRESS
+                            First Regular Session
+
+                                            9395
+                            House Bill No. ________
+______________________________________________________________________________
+            Introduced by: REPRESENTATIVE ERIC L. OLIVAREZ
+
+
+                           “AN ACT
+      STRENGTHENING TRANSPARENCY, ACCOUNTABILITY, AND
+      DIGITAL   LITERACY  TO   COMBAT    DISINFORMATION,
+      MISINFORMATION, MALINFORMATION, AND COORDINATED
+      INAUTHENTIC   BEHAVIOR   ONLINE,  RECOGNIZING   AN
+      INDEPENDENT MULTI-SECTORAL ETHICAL BODY, WITHOUT
+      INFRINGING ON FREEDOM OF SPEECH AND THE PRESS, AND
+      FOR OTHER PURPOSES”
+
+      Be it enacted by the Senate and House of Representatives of the Philippines
+  in Congress assembled:
+
+       SECTION 1. Short Title. – This Act shall be known as the “Truth and
+Integrity in Digital Communications Act of 2026.”
+
+      SECTION 2. Declaration of Policy. – It is the policy of the State to uphold
+the constitutional guarantees of free speech, free press, and the free flow of
+information, while protecting the people from deceptive, manipulative, or
+fraudulent practices online. The State shall promote transparency,
+accountability, and digital literacy, and shall regulate conduct and systems in
+addressing the harms of disinformation, misinformation, malinformation, and
+coordinated inauthentic behavior.
+
+      Governance of digital platforms shall be a shared responsibility among
+government, industry, and civil society, ensuring that ethical standards are
+enforced without censorship or political interference.
+
+      Nothing in this Act shall be interpreted to prohibit or restrict satire,
+parody, artistic expression, academic discourse, legitimate political advocacy,
+opinion, criticism, or good-faith journalistic activity protected under the
+Constitution.
+       SECTION 3. Definition of Terms. – For the purposes of this Act, the
+following terms are defined as follows:
+
+     a. Disinformation refers to false information deliberately created or
+        disseminated with the intent to mislead or cause harm.
+
+     b. Misinformation refers to false information shared without intent
+        to mislead or cause harm.
+
+     c. Malinformation refers to accurate information unlawfully
+        disclosed or maliciously manipulated in a manner that causes
+        demonstrable harm, including violations of privacy, public safety,
+        or security, by taking such information out of context or using it
+        deceptively.
+
+     d. Coordinated Inauthentic Behavior (CIB) refers to the organized use
+        of fake accounts, impersonation, bots, or deceptive networks to
+        manipulate public discourse, spread falsehoods, or interfere with
+        democratic processes.
+
+     e. Digital Platforms refer to online services such as social media
+        networks, search engines, and content-sharing platforms that
+        reach or influence a significant number of users in the
+        Philippines. The Department of Information and Communications
+        Technology (DICT) shall establish objective user, reach, revenue,
+        or risk-based thresholds for determining platform coverage under
+        this Act.
+
+     f. Digital Media Standards Coalition (DMSC) refers to a multi-
+        sectoral, non-governmental, non-partisan, and self-governing
+        body composed of associations of content creators, advertisers,
+        media institutions, fact-checkers, academe, and civil society,
+        recognized under this Act as an independent ethical authority.
+
+     g. Directive refers to a formal advisory, resolution, or
+        recommendation issued by the DMSC pursuant to content
+        disputes or ethical reviews.
+
+     h. Sanction refers to any non-criminal, industry-standard,
+        reputational, or remedial measure such as public notices,
+        content-labeling advisories, or delisting from ethical registries.
+
+     i. Harm refers to demonstrable injury to public safety, electoral
+        integrity, public health, national security, privacy rights,
+        consumer protection, or lawful democratic processes.
+j. Very Large Online Platform in the Philippines (VLP-PH) refers to a
+   digital platform designated by the DICT as reaching at least ten
+   percent (10%) of the national population in average monthly active
+   users, or such threshold and methodology as the DICT may
+   publish annually.
+
+k. Notice-and-Action Mechanism refers to a standardized electronic
+   system operated by platforms that enables users to submit
+   notices of allegedly illegal content and requires platforms to act
+   upon and communicate the result of such notices.
+
+l. Statement of Reasons (SoR) refers to a written notification provided
+   by a platform to an affected user explaining a moderation decision.
+   The statement must include:(a) the action taken, (b) the legal or
+   policy basis, (c) the facts relied upon, (d) whether automated
+   tools were used, and (e) available remedies or redress.
+
+m. Certified Out-of-Court Dispute Settlement (ODR) body refers to an
+   independent institution accredited by the DICT to provide
+   accessible, impartial, and non-binding dispute resolution services
+   for user appeals of platform decisions.
+
+n. Ad Repository refers to a searchable, publicly accessible database
+   maintained by platforms that includes information on all paid
+   advertisements, including the content, sponsor identity, payor,
+   targeting criteria, expenditure, and dates of display.
+
+o. Recommender System refers to an automated system used by
+   platforms to determine the ranking, ordering, or prioritization of
+   information displayed to users, based on profiling, engagement,
+   or other algorithmic criteria.
+
+p. Non-Profiled Feed refers to a content display option offered by
+   platforms that does not rely on profiling or user-specific data, but
+   uses chronological or context- based ordering
+
+q. Dark Patterns refer to deceptive, manipulative, or coercive
+   interface designs that materially distort or impair a user’s ability
+   to make free, informed, and autonomous choices, such as
+   misleading consent flows, hidden settings, or default opt-ins.
+
+r. Vetted Researchers refer to academics, journalists, or civil society
+   organizations accredited by the DICT or the National Privacy
+   Commission (NPC) to access platform data for the purpose of
+   studying systemic risks, subject to strict privacy, cybersecurity,
+        and confidentiality safeguards.
+
+     s. Risk Assessment refers to a structured evaluation conducted
+        annually by VLP-PH to identify, measure, and document systemic
+        risks related to disinformation, manipulation, civic discourse,
+        protection of minors, and election integrity.
+
+     t. Independent Audit refers to an assessment carried out by an
+        external, qualified, and independent auditor to evaluate a
+        platform’s compliance with its obligations under this Act,
+        including transparency, risk assessment, and mitigation
+        measures.
+
+     u. Compliance Officer refers to a senior employee of a platform, based
+        in the Philippines, designated to ensure compliance with this Act
+        and act as the contact point for regulators, the DMSC, and
+        stakeholders.
+
+      SECTION 4. Platform Obligations. – All digital platforms operating in
+the Philippines shall:
+
+     a. Establish and maintain a legal entity or permanent
+        representative office in the Philippines for regulatory and ethical
+        accountability;
+
+     b. Disclose publicly and in real time sponsored content, political
+        advertisements, and paid campaigns, and significant takedowns
+        of networks or accounts engaged in CIB;
+
+     c. Submit annual transparency reports to the DICT, detailing
+        actions taken against CIB, bot networks, and impersonation;
+
+     d. Provide anonymized and aggregate data necessary for oversight,
+        consistent with the Data Privacy Act of 2012 (RA 10173), the
+        Cybercrime Prevention Act of 2012 (RA 10175), and
+        internationally accepted cybersecurity standards; any access
+        beyond aggregate/anonymized data shall require DICT pre-
+        approval and, where personal or content data are involved,
+        judicial authorization;
+
+     e. Maintain an accessible Notice-and-Action mechanism for users
+        to report allegedly illegal content;
+
+     f. Provide a Statement of Reasons (SoR) to affected users for any
+        restriction, suspension, or removal of content or accounts,
+        stating the decision taken, the legal or policy basis, the facts
+         relied upon, whether automation was used, and available
+         redress; anonymized SoRs shall be transmitted to a DICT
+         Transparency Portal within twenty-four (24) hours;
+
+      g. Provide users with an internal complaint-handling system and
+         access to certified out-of-court dispute settlement (ODR) bodies
+         under the DICT for unresolved disputes;
+
+      h. Maintain a public ad repository that is searchable and contains,
+         at minimum, the ad creative, sponsor, payor, targeting criteria,
+         spend, and dates of display;
+
+      i. Ensure that advertisements are not targeted at minors and are
+         not targeted using sensitive personal information as defined by
+         RA 10173;
+
+      j. Provide transparency on recommender systems and offer users a
+         clearly accessible option to view content feeds not based on
+         profiling; and
+
+      k. Refrain from deploying manipulative interface designs (“dark
+         patterns”) that materially distort or impair user autonomy,
+         decision-making, or choice.
+
+      l. Platforms shall publish periodic transparency reports disclosing
+         the volume and nature of government requests for content
+         restriction, user data access, or account actions, subject to lawful
+         confidentiality requirements.
+
+       SECTION 5. Platform Obligations of Very Large Online Platforms in
+the Philippines (VLP-PH). – VLP-PHs designated by DICT, in addition to Section
+4 of this Act shall:
+
+      a. Conduct and publish annual systemic risk assessments
+         addressing, at minimum, disinformation, manipulation, civic
+         discourse, protection of minors, and election integrity;
+
+      b. Publish and implement risk-mitigation plans;
+
+      c. Undergo an independent annual audit, filing full results with
+         DICT and a public summary;
+
+      d. Appoint a senior compliance officer responsible for obligations
+         under this Act; and
+
+      e. Provide vetted researchers, accredited by the NPC or DICT, with
+         secured access to data necessary for studying systemic risks,
+         subject to strict privacy and cybersecurity safeguards.
+
+       SECTION 6. Data Access and Technical Cooperation. – In connection
+with Section 5(c) and 5(e), platforms shall provide reasonable technical
+cooperation, including access to application programming interfaces (APIs),
+metadata, and transparency dashboards, to support oversight and audits,
+subject to privacy and cybersecurity safeguards.
+
+       SECTION 7. Penalties for Non-Compliance by Platforms – After due
+notice and hearing, any platform that, without lawful excuse, fails or refuses to
+comply with obligations under Sections 4, 5, and 6, shall be subjected to the
+following penalties:
+
+      a. First offense – written warning and compliance order from the
+         DICT; and
+
+      b. Second and subsequent offenses – penalty of not less than one
+         million pesos (₱1,000,000) but not more than ten million pesos
+         (₱10,000,000), depending on gravity.
+
+      For VLP-PHs, the DICT may additionally impose an administrative
+      penalty of up to six percent (6%) of Philippine annual gross revenue
+      for grave or repeated violations.
+
+      The DICT shall publish an annual             list   of   non-compliant
+      platforms for public transparency.
+
+       SECTION 8. Prohibited Conduct and Penalties for Bad Actors. – The
+following acts are unlawful for natural persons and juridical entities:
+
+         a. Operating or financing coordinated inauthentic behavior,
+            including troll farms, bot networks, or fake accounts intended
+            to deceive the public;
+
+         b. Fraudulent misrepresentation of identity for the purpose of
+            spreading disinformation or manipulating online discourse
+            through deceptive or coordinated inauthentic means; and
+
+         c. The sale or purchase of inauthentic engagement (likes, shares,
+            followers, comments) through automated or deceptive means.
+        Any person found guilty of violating this Section shall be subjected to
+  the following penalties:
+
+         a. Natural Persons — fine of One Hundred Thousand Pesos
+            (₱100,000) to One Million Pesos (₱1,000,000) and/or
+            community service of at least six (6) months, at the discretion
+            of the court; and
+
+         b. Juridical entities — fine of Five Hundred Thousand Pesos
+            (₱500,000) to Ten million pesos (₱10,000,000) and possible
+            suspension of licenses or permits for repeat offenses.
+
+      SECTION 9. Transition Period. – Platforms shall have a two-year
+transition period from the effectivity of this Act to fully comply with reporting, ad
+repository, and systemic-risk audit obligations. The DICT may phase
+requirements according to platform size and risk.
+
+       SECTION 10. Promotion of Media and Digital Literacy. – The
+Department of Education (DepEd) and the Commission on Higher Education
+(CHED), in partnership with civil society, shall integrate media and digital
+literacy into curricula at all levels. Such programs shall emphasize critical
+thinking, fact-checking, responsible online behavior, and verification of
+information and images. Teacher training and assessment systems shall be
+developed to ensure proper implementation.
+
+      SECTION 11. Government Communication Standards. – All
+government agencies shall maintain open data portals containing verifiable
+public information. They shall also correct erroneous or misleading public
+statements within a reasonable time upon discovery, indicating the nature of the
+error and the corrected information.
+
+      SECTION 12. Digital Media Standards Coalition (DMSC). – The DMSC
+is hereby recognized as the independent ethical authority for digital media
+standards, modeled after the Ad Standards Council (ASC) and the Kapisanan
+ng mga Brodkaster ng Pilipinas (KBP).
+
+      SECTION 13. Functions of the DMSC. – The DMSC shall:
+
+          a. Accredit independent, non-partisan fact-checking
+             organizations;
+
+         b. Issue ethical directives, advisories, and resolutions for
+            platforms to consider in good faith;
+
+         c. Impose non-criminal sanctions such as public notices, ethical
+            labeling, or delisting from ethical registries;
+           d. Maintain a transparent appeals mechanism where platforms,
+              content creators, or users may contest advisories, resolved
+              within thirty (30) days;
+
+           e. Collaborate with international fact-checking and oversight
+              institutions; and
+
+           f. Receive from DICT the anonymized Statements of Reasons
+              (SoRs) transmitted by platforms and publish annual reports
+              analyzing systemic trends and platform responses.
+
+         SECTION 14. Obligation of Platforms to Engage. – Digital platforms
+shall:
+
+           a. Give due consideration to DMSC advisories; and
+
+           b. Issue a reasoned written explanation within thirty (30) days if
+              they decline to adopt an advisory.
+
+      Failure to engage in good faith with the DMSC, including ignoring
+advisories or failing to provide a written explanation, constitutes a violation of
+this Act and shall be penalized under Section 7.
+
+      Nothing in this Act shall make DMSC advisories legally binding content
+decisions. Platforms retain editorial discretion under their community
+standards. The DMSC’s role remains advisory, ethical, and reputational. The
+DMSC shall not exercise sovereign regulatory powers.
+
+
+     SECTION 15. Enforcement. – The DICT shall oversee platform
+compliance with the obligations set out in Sections 4, 5, and 6, and maintain the
+DICT Transparency Portal.
+
+      The Department of Justice (DOJ), through the National Bureau of
+Investigation Cybercrime Division (NBI-CD), shall investigate and prosecute
+prohibited conduct under Section 8 and other applicable laws.
+
+     The DICT, DOJ, and DMSC shall coordinate through a Digital Integrity
+Stakeholders Council to monitor implementation, evaluate emerging risks, and
+recommend policy updates.
+
+      During election periods, the DICT, the DMSC, and digital platforms shall
+coordinate with the Commission on Elections to address coordinated inauthentic
+behavior and election-related disinformation consistent with constitutional
+guarantees of free expression and electoral integrity.
+       SECTION 16. Funding and Independence. – The DMSC shall not receive
+direct government appropriations. It may secure project-based grants from non-
+partisan sources, which must be disclosed annually in audited transparency
+reports, in order to safeguard its independence.
+
+
+      SECTION 17. Implementing Rules and Regulations. – Within ninety (90)
+days from the effectivity of this Act, the DICT, in consultation with the DOJ,
+DepEd, CHED, the DMSC, the NPC, academe, civil society, and independent
+media, shall promulgate the implementing rules and regulations.
+
+       The rules shall include templates for statements of reasons, the structure
+of the ad repository, requirements for notice-and-action and out-of-court dispute
+settlement, methodology for designating VLP-PH, protocols for vetted
+researchers, and cybersecurity safeguards.
+
+      Section 18. Congressional Oversight Review. - Within three (3) years
+from the effectivity of this Act, Congress shall conduct a review of its
+implementation, impact on constitutional rights, effectiveness against
+coordinated disinformation, and necessity for amendments
+
+       SECTION 19. Separability Clause. – If any provision of this Act is
+declared unconstitutional, the other provisions not affected shall remain in full
+force and effect.
+
+      SECTION 20. Repealing Clause. – All laws, decrees, rules, or regulations
+inconsistent with this Act are hereby repealed or modified accordingly
+
+      SECTION 21. Effectivity. – This Act shall take effect fifteen (15) days after
+its publication in the Official Gazette or in at least two newspapers of general
+circulation.
+
+
+      Approved.
+
