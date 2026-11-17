@@ -79,6 +79,21 @@ def _tok(s):
     return [w[:6] for w in re.findall(r"[a-z]{3,}", s.lower()) if w not in STOP]
 
 
+# The longer FAQ (data/reference/billy_faq.json) is added to the guide: public use, reviewer use, the agents, the
+# cost estimate, bills and status, data and updates, the Library and Run log, safeguards and BILLy itself.
+def _faq():
+    import json
+    from pathlib import Path
+    p = Path(__file__).resolve().parents[1] / "data" / "reference" / "billy_faq.json"
+    try:
+        return [(x["q"], x["a"]) for x in json.loads(p.read_text())]
+    except Exception:
+        return []
+
+
+_seen = {q for q, _ in GUIDE}
+GUIDE += [(q, a_) for q, a_ in _faq() if q not in _seen]
+
 # questions that mean "what is this site?" (the word ActCheck itself is too common in the guide to rank on)
 ABOUT = re.compile(r"\bwho (made|created|built|developed|owns|runs)\b|\b(what|who)\b.*\b(actcheck|this (site|portal|app|website|tool)|it for|purpose|about)\b|"
                    r"\b(purpose|overview|introduc|explain actcheck|tell me about)", re.I)
@@ -107,7 +122,8 @@ def search(question, k=2):
 
 
 def suggestions():
-    return ["What is ActCheck?", "What are the three agents?", "How is the cost estimated?", "Where does the data come from?"]
+    return ["What is ActCheck?", "What are the three agents?", "How do I send a report on a bill?", "How do I log in as a reviewer?",
+            "How is the cost estimated?", "Where does the data come from?"]
 
 
 def answer(history, question, live):
