@@ -1,0 +1,138 @@
+{
+ "output": {
+  "target": "HB-20-10648",
+  "entity_proposed": "Pambansang Agapay sa Pamilya at Maliliit na Negosyo (PAMANA) Program",
+  "proposal": "HB No. 10648 seeks to establish the PAMANA Program, an annual subsidy of P12,000 for families of minimum wage earners who are not 4Ps beneficiaries, credited monthly to digital wallets and spendable only at accredited local MSMEs, to ease the cost of living and stimulate community enterprises.",
+  "alignment": "As a public program and benefit, the review should examine the coverage and number of qualified families, the annual subsidy requirement and the cost of wallet onboarding and merchant accreditation, the earmarking of revenues for a special trust fund outside the General Fund, and possible overlap with existing cash transfer and social protection programs administered by the DSWD. The bill's delivery through PhilSys-linked digital wallets relates to the Digitalization priority of the FY 2027 Budget Priorities Framework; the measure is not among the LEDAC Common Legislative Agenda measures.",
+  "legislative_history": [
+   "HB No. 10648 was filed on August 5, 2026 and is pending (filed; later stages not yet in the source data).",
+   "HB Nos. 10599 and 10735, filed in the same Congress, carry the same title and identical provisions.",
+   "No measure with a closely matching title or text was found in the 18th or 19th Congress."
+  ],
+  "related": [
+   {
+    "id": "HB-20-10599",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same title and identical short title and trust fund provisions, filed in the House in the 20th Congress.",
+    "section": "HB-20-10599:s12",
+    "quote": "There is hereby created a special fund, to be known as the PAMANA Trust Fund, to be maintained by the Bureau of the Treasury and administered by the DSWD"
+   },
+   {
+    "id": "HB-20-10735",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same title and identical short title and trust fund provisions, filed in the House in the 20th Congress.",
+    "section": "HB-20-10735:s1",
+    "quote": "This Act shall be known as the “Pambansang Agapay sa Pamilya at Maliliit na Negosyo (PAMANA) Act” or the “Family Subsidy Through Local Enterprises Act.”"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-12023",
+    "label": "Referenced in the bill",
+    "overlap": "Section 12 (The PAMANA Trust Fund; Appropriations) earmarks half of the incremental VAT on digital services under RA No. 12023 for the Fund.",
+    "section": "HB-20-10648:s12",
+    "quote": "Fifty percent (50%) of the incremental revenues from the value-added tax on digital services under Republic Act No. 12023"
+   },
+   {
+    "law": "RA-7656",
+    "label": "Referenced in the bill",
+    "overlap": "Section 12 (The PAMANA Trust Fund; Appropriations) channels GOCC dividends above the minimum remittance under RA No. 7656 to the Fund.",
+    "section": "HB-20-10648:s12",
+    "quote": "Dividends remitted by government-owned or -controlled corporations in excess of the minimum remittance required under Republic Act No. 7656"
+   },
+   {
+    "law": "RA-9501",
+    "label": "Referenced in the bill",
+    "overlap": "Section 3 (Definition of Terms) adopts the MSME definition of RA No. 9501 for accredited program merchants.",
+    "section": "HB-20-10648:s3",
+    "quote": "Local MSME refers to a micro, small, or medium enterprise as defined under Republic Act No. 9501"
+   },
+   {
+    "law": "RA-10173",
+    "label": "Referenced in the bill",
+    "overlap": "Section 9 (Identification of Beneficiaries) and Section 11 (Transparency and Oversight) subject the registry and the public dashboard to the Data Privacy Act.",
+    "section": "HB-20-10648:s9",
+    "quote": "subject to Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012.”"
+   }
+  ],
+  "salient_features": "HB No. 10648 seeks to establish the Pambansang Agapay sa Pamilya at Maliliit na Negosyo (PAMANA) Program, a direct annual subsidy to the families of minimum wage earners delivered through digital wallets for use in local MSMEs. Its salient features are as follows:\na. Section 3 (Definition of Terms) provides that a qualified family is one whose head is a minimum wage earner registered under PhilSys and that is not a current 4Ps household-beneficiary.\nb. Section 4 (The PAMANA Program) provides that the Program shall be administered by the DSWD, in coordination with the DTI, the BSP, the DICT and the PSA.\nc. Section 5 (Amount and Manner of Disbursement) provides for an annual subsidy of P12,000 per qualified family, credited in monthly tranches of P1,000 to the digital wallet of the head of family.\nd. Section 6 (Daily Spending Limit) caps spending at P200 a day per family wallet and prohibits conversion to cash and spending on excluded goods.\ne. Section 7 (Exclusive Use in Local MSMEs) limits spending to accredited local MSMEs and tasks the DTI, with LGUs, to accredit and onboard merchants at no cost to them, with settlement within 24 hours.\nf. Section 8 (Digital Wallet Onboarding and Financial Inclusion) requires the DSWD, the BSP and the DICT to provide every head of family a free PhilSys-linked digital wallet, with alternative access where connectivity is limited.\ng. Section 9 (Identification of Beneficiaries) tasks the DOLE, with the SSS, the BIR and employers, to maintain a registry of minimum wage earners, which the DSWD cross-matches with the Listahanan and the 4Ps registry, updated quarterly.\nh. Section 11 (Transparency and Oversight) requires a monthly public dashboard and creates a Joint Congressional Oversight Committee.\ni. Section 12 (The PAMANA Trust Fund; Appropriations) creates a non-reverting PAMANA Trust Fund, maintained by the Bureau of the Treasury and administered by the DSWD, sourced from earmarked revenues (part of the VAT on digital services, mining revenues, future excise taxes on sweetened beverages and junk food, excess GOCC dividends and privatization proceeds) and the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 10648 may be considered alongside HB Nos. 10599 and 10735, which carry identical provisions and may be consolidated. The measure relates to the Digitalization priority of the FY 2027 Budget Priorities Framework through its use of PhilSys-linked digital wallets. The review should assess the annual subsidy requirement for the expected number of qualified families; the earmarking of revenues under Section 12 (The PAMANA Trust Fund; Appropriations), including those under RA No. 12023 and RA No. 7656, and their non-reversion to the General Fund; the administrative cost of the beneficiary registry, wallet onboarding and merchant accreditation under Sections 7 to 9; and the program's relationship with the 4Ps and other cash transfer programs of the DSWD.",
+  "fiscal_requirements": [
+   {
+    "item": "Program subsidy",
+    "detail": "P12,000 a year per qualified family, in monthly tranches of P1,000; number of families not stated",
+    "section": "Section 5 (Amount and Manner of Disbursement)"
+   },
+   {
+    "item": "Funding source",
+    "detail": "PAMANA Trust Fund from earmarked revenues (VAT on digital services, mining revenues, excise taxes, GOCC dividends, privatization proceeds) and the GAA; non-reverting",
+    "section": "Section 12 (The PAMANA Trust Fund; Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Any deficiency in the Fund included in the annual General Appropriations Act",
+    "section": "Section 12 (The PAMANA Trust Fund; Appropriations)"
+   },
+   {
+    "item": "Implementation cost",
+    "detail": "Free digital wallets, alternative access cards, merchant onboarding at no cost, beneficiary registry and public dashboard; charged to the Fund",
+    "section": "Section 8 (Digital Wallet Onboarding and Financial Inclusion)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Joint Congressional Oversight Committee created; no funding stated",
+    "section": "Section 11 (Transparency and Oversight)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the number of minimum wage earner families who would qualify, to size the annual subsidy.",
+   "Confirm whether the earmarked revenue sources in Section 12 are already allocated under existing laws.",
+   "Check the public-sector coverage of 'minimum wage earner' in Section 3, which refers to RA No. 9504.",
+   "Confirm the status of HB Nos. 10599 and 10735 and whether they are being consolidated."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same title and identical short title and trust fund provisions, filed in the House in the 20th Congress.",
+   "section": "HB-20-10599:s12",
+   "quote": "There is hereby created a special fund, to be known as the PAMANA Trust Fund, to be maintained by the Bureau of the Treasury and administered by the DSWD",
+   "check": "verified"
+  },
+  {
+   "claim": "Same title and identical short title and trust fund provisions, filed in the House in the 20th Congress.",
+   "section": "HB-20-10735:s1",
+   "quote": "This Act shall be known as the “Pambansang Agapay sa Pamilya at Maliliit na Negosyo (PAMANA) Act” or the “Family Subsidy Through Local Enterprises Act.”",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 12 (The PAMANA Trust Fund; Appropriations) earmarks half of the incremental VAT on digital services under RA No. 12023 for the Fund.",
+   "section": "HB-20-10648:s12",
+   "quote": "Fifty percent (50%) of the incremental revenues from the value-added tax on digital services under Republic Act No. 12023",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 12 (The PAMANA Trust Fund; Appropriations) channels GOCC dividends above the minimum remittance under RA No. 7656 to the Fund.",
+   "section": "HB-20-10648:s12",
+   "quote": "Dividends remitted by government-owned or -controlled corporations in excess of the minimum remittance required under Republic Act No. 7656",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 3 (Definition of Terms) adopts the MSME definition of RA No. 9501 for accredited program merchants.",
+   "section": "HB-20-10648:s3",
+   "quote": "Local MSME refers to a micro, small, or medium enterprise as defined under Republic Act No. 9501",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Identification of Beneficiaries) and Section 11 (Transparency and Oversight) subject the registry and the public dashboard to the Data Privacy Act.",
+   "section": "HB-20-10648:s9",
+   "quote": "subject to Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012.”",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-17T14:35:42+00:00"
+ }
+}

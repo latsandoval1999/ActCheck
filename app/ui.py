@@ -127,6 +127,12 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-stack div{display:flex; align-items:center; justify-content:center; color:#fff; font:700 .78rem var(--mono); white-space:nowrap; overflow:hidden;}
 .ac-legend{display:flex; gap:1.1rem; flex-wrap:wrap; font-size:.84rem; color:var(--ink2);}
 .ac-legend i{display:inline-block; width:11px; height:11px; border-radius:2px; margin-right:.35rem; vertical-align:-1px;}
+.ac-why{font-size:.78rem; color:#7A5A00; background:#FFF6DC; border-radius:4px; padding:.15rem .45rem; margin-top:.2rem; display:inline-block;}
+.ac-fold-note{font-size:.8rem; color:var(--ink2); margin:-.2rem 0 0 2.6rem;}
+.ac-welcome{text-align:center;}
+.ac-welcome img{width:150px; height:150px; display:block; margin:0 auto .4rem;}
+.ac-welcome p{font-size:.95rem; color:var(--ink); margin:.2rem 0;}
+.ac-welcome p.q{font-size:1.05rem; margin:.8rem 0 .6rem;}
 .ac-note{font-size:.84rem; color:var(--ink2); background:var(--soft); border-left:3px solid var(--gold); padding:.6rem .9rem; margin-top:.8rem; line-height:1.5;}
 
 /* workflow */

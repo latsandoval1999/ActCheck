@@ -1,0 +1,209 @@
+{
+ "output": {
+  "target": "HB-20-9897",
+  "entity_proposed": "Department of Disaster Resilience",
+  "proposal": "HB No. 9897 seeks to create the Department of Disaster Resilience as the principal government institution for reducing the risks of natural hazards and climate change and for managing disaster preparedness, response, recovery and rehabilitation, absorbing the functions of the Climate Change Commission and the natural-disaster functions of the NDRRMC, the OCD and the DSWD.",
+  "alignment": "As a government organization measure, the review should examine how the proposed Department's functions fit with those of the bodies it absorbs and those that keep related functions (the DND, the DILG, the DSWD and the OCD for human-induced disasters), the cost of a new department with regional and local offices, and the measure's consistency with the government's intent to streamline agencies and reduce overlapping mandates under the Government Optimization Act (RA No. 12231). The bill relates to the Environment, climate, and disaster resilience priority of the FY 2027 Budget Priorities Framework, in particular stronger forecasting and early warning; it is not among the LEDAC Common Legislative Agenda measures.",
+  "legislative_history": [
+   "HB No. 9897 was filed on June 17, 2026 and is pending (filed; later stages not yet in the source data).",
+   "HB No. 6371 of the same Congress carries near-identical provisions; HB Nos. 4652, 2384 and 1190 propose the same Department with differently structured texts.",
+   "SB No. 173 is the counterpart measure in the Senate.",
+   "Earlier versions were filed in the 19th Congress (HB Nos. 158 and 6364, and SB No. 188); many bills with the same title were filed in the 18th Congress (title match only; text not reviewed)."
+  ],
+  "related": [
+   {
+    "id": "HB-20-6371",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same title and near-identical creation, Secretary and local office provisions, filed in the House in the 20th Congress.",
+    "section": "HB-20-6371:s4",
+    "quote": "There is hereby created the Department of Disaster Resilience, hereinafter referred to as the Department."
+   },
+   {
+    "id": "SB-20-173",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Senate bill of the 20th Congress creating the same Department, with the same structure of national and local offices.",
+    "section": "SB-20-173:s4",
+    "quote": "There is hereby created the Department of Disaster Resilience, hereinafter referred to as the Department."
+   },
+   {
+    "id": "HB-20-4652",
+    "relationship": "Alternative proposal",
+    "basis": "Same Department in a differently structured text (the Secretary is in Section 8), to be compared provision by provision in CompAIre.",
+    "section": "HB-20-4652:s4",
+    "quote": "There is hereby created the Department of Disaster Resilience, herein after referred to as the Department."
+   },
+   {
+    "id": "HB-20-2384",
+    "relationship": "Alternative proposal",
+    "basis": "Same Department in a differently structured text carrying the 2022 short title, to be compared in CompAIre.",
+    "section": "HB-20-2384:s1",
+    "quote": "This Act shall be known as the “Disaster Resilience Act of 2022”."
+   },
+   {
+    "id": "HB-20-1190",
+    "relationship": "Alternative proposal",
+    "basis": "Same Department; the text is read from a scanned copy and differs in parts, to be compared in CompAIre.",
+    "section": "HB-20-1190:s1",
+    "quote": "This Act shall be known as the \"Department of Disaster Resilience Act\"."
+   },
+   {
+    "id": "HB-19-158",
+    "relationship": "Filed in a past Congress",
+    "basis": "19th Congress House bill with closely matching creation, Secretary and local office provisions.",
+    "section": "HB-19-158:s1",
+    "quote": "This Act shall be known as the \"Disaster Resilience Act of 2019\"."
+   },
+   {
+    "id": "SB-19-188",
+    "relationship": "Filed in a past Congress",
+    "basis": "19th Congress Senate bill with closely matching provisions, including at least four Undersecretaries.",
+    "section": "SB-19-188:s9",
+    "quote": "The Secretary shall be assisted by at least four (4) Undersecretaries"
+   },
+   {
+    "id": "HB-19-6364",
+    "relationship": "Filed in a past Congress",
+    "basis": "19th Congress House bill on the same Department, the source of the 2022 version of the text.",
+    "section": "HB-19-6364:s1",
+    "quote": "This Act shall be known as the “Disaster Resilience Act of 2022”."
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-9729",
+    "label": "Amends or repeals",
+    "overlap": "Section 81 (Transfer of Functions) transfers all functions of the Climate Change Commission, created under RA No. 9729, to the Department and abolishes it.",
+    "section": "HB-20-9897:s81",
+    "quote": "All the functions of the Climate Change Commission (CCC)"
+   },
+   {
+    "law": "RA-10174",
+    "label": "Overlapping functions",
+    "overlap": "Section 75 (People's Survival Fund) gives the Department the management of the People's Survival Fund created under RA No. 10174.",
+    "section": "HB-20-9897:s75",
+    "quote": "The Department shall manage and administer the People's Survival Fund, created under Republic Act no. 10174"
+   },
+   {
+    "law": "RA-9184",
+    "label": "Referenced in the bill",
+    "overlap": "Sections 55 to 59 (Procurement) allow alternative modes and exceptions to RA No. 9184 in emergency situations.",
+    "section": "HB-20-9897:s58",
+    "quote": "As an exception to the provisions of Republic Act No. 9184, otherwise known as the \"Government Procurement Reform Act\""
+   }
+  ],
+  "salient_features": "HB No. 9897 seeks to create the Department of Disaster Resilience as the principal government institution for disaster and climate resilience. Its salient features are as follows:\na. Section 4 (Creation of the Department of Disaster Resilience) creates the Department to lead the reduction of the risks of natural hazards and climate change and to manage disaster preparedness, response, recovery and rehabilitation.\nb. Section 5 (Powers and Functions of the Department) provides for its functions, including a National Disaster Resilience Framework and investment plan, the management of the Disaster Resilience Fund and the Disaster Contingency Fund, and recommending the declaration of a state of calamity.\nc. Section 7 (The Secretary,) provides that the Department shall be headed by a Secretary appointed by the President, subject to confirmation by the Commission on Appointments.\nd. Sections 13 and 14 (Regional Disaster Resilience Offices; Powers and Functions of RDROs) provide for regional offices that review local disaster resilience plans and direct local offices.\ne. Section 16 (Local Disaster Resilience Offices) renames the local disaster risk reduction and management offices as Provincial, City and Municipal Disaster Resilience Offices.\nf. Sections 55 to 59 (Procurement) allow alternative modes of procurement and pre-arranged contracts in emergency situations, as exceptions to RA No. 9184.\ng. Section 70 (Appropriations and Management of Disaster Resilience Fund) constitutes the Department's budget as a Disaster Resilience Fund of annual appropriations, a lump-sum Disaster Contingency Fund and a Rehabilitation and Recovery Fund, with unused balances treated as continuing appropriations under Section 71 (Continuing Appropriations).\nh. Section 81 (Transfer of Functions) transfers to the Department the functions of the Climate Change Commission, the natural-disaster functions of the NDRRMC and the OCD, and the natural-disaster response functions of the DSWD, and abolishes the CCC and the NDRRMC; Section 82 (Transfer of Resources) transfers their funds, positions and other resources.\ni. Section 83 (Program Management Office for the Earthquake Resiliency of the Greater Metro Manila Area) attaches the PMO-ERG to the Department.\nj. Section 90 (Magna Carta Benefits) extends to qualified employees the benefits under RA No. 8439 and RA No. 7305.\nk. Section 93 (Appropriations) charges the initial requirement to the unexpended appropriations of the absorbed, transferred and attached agencies, and thereafter to the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 9897 may be considered alongside HB No. 6371, which carries near-identical provisions, HB Nos. 4652, 2384 and 1190, which propose the same Department in different texts, and SB No. 173, its counterpart in the Senate. The measure relates to the Environment, climate, and disaster resilience priority of the FY 2027 Budget Priorities Framework. The review should assess the abolition of the Climate Change Commission created under RA No. 9729 and the transfer of functions under Section 81 (Transfer of Functions), including the division of natural and human-induced disaster functions between the Department and the DND, the DILG, the DSWD and the OCD; the management of the People's Survival Fund under RA No. 10174; the exceptions to RA No. 9184 on procurement; and the cost of a new department with regional and local offices, in light of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Unexpended and unobligated appropriations of the absorbed, transferred and attached agencies; no amount stated",
+    "section": "Section 93 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act",
+    "section": "Section 93 (Appropriations)"
+   },
+   {
+    "item": "Funding source",
+    "detail": "Disaster Resilience Fund of annual appropriations, a lump-sum Disaster Contingency Fund and a Rehabilitation and Recovery Fund; unused balances treated as continuing appropriations",
+    "section": "Section 70 (Appropriations and Management of Disaster Resilience Fund)"
+   },
+   {
+    "item": "Position",
+    "detail": "Secretary of Disaster Resilience appointed by the President; undersecretaries, assistant secretaries and directors under Sections 9 and 10",
+    "section": "Section 7 (The Secretary,)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Regional Disaster Resilience Offices in each region and the attached PMO-ERG; transferred positions of the CCC, NDRRMC and OCD",
+    "section": "Section 82 (Transfer of Resources)"
+   },
+   {
+    "item": "Personnel benefits",
+    "detail": "Magna Carta benefits under RA No. 8439 and RA No. 7305 for qualified employees",
+    "section": "Section 90 (Magna Carta Benefits)"
+   }
+  ],
+  "reviewer_checks": [
+   "Check Sections 9 to 13 for the number of undersecretaries, assistant secretaries and regional offices, and their salary grades.",
+   "Confirm the status of HB No. 6371 and SB No. 173 and whether the House bills are being consolidated.",
+   "Confirm which NDRRMC and OCD functions remain with the DND for human-induced disasters under Section 81.",
+   "Check the section headings with run-on text (Sections 7, 12 and 19) for formatting errors."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same title and near-identical creation, Secretary and local office provisions, filed in the House in the 20th Congress.",
+   "section": "HB-20-6371:s4",
+   "quote": "There is hereby created the Department of Disaster Resilience, hereinafter referred to as the Department.",
+   "check": "verified"
+  },
+  {
+   "claim": "Senate bill of the 20th Congress creating the same Department, with the same structure of national and local offices.",
+   "section": "SB-20-173:s4",
+   "quote": "There is hereby created the Department of Disaster Resilience, hereinafter referred to as the Department.",
+   "check": "verified"
+  },
+  {
+   "claim": "Same Department in a differently structured text (the Secretary is in Section 8), to be compared provision by provision in CompAIre.",
+   "section": "HB-20-4652:s4",
+   "quote": "There is hereby created the Department of Disaster Resilience, herein after referred to as the Department.",
+   "check": "verified"
+  },
+  {
+   "claim": "Same Department in a differently structured text carrying the 2022 short title, to be compared in CompAIre.",
+   "section": "HB-20-2384:s1",
+   "quote": "This Act shall be known as the “Disaster Resilience Act of 2022”.",
+   "check": "verified"
+  },
+  {
+   "claim": "Same Department; the text is read from a scanned copy and differs in parts, to be compared in CompAIre.",
+   "section": "HB-20-1190:s1",
+   "quote": "This Act shall be known as the \"Department of Disaster Resilience Act\".",
+   "check": "verified"
+  },
+  {
+   "claim": "19th Congress House bill with closely matching creation, Secretary and local office provisions.",
+   "section": "HB-19-158:s1",
+   "quote": "This Act shall be known as the \"Disaster Resilience Act of 2019\".",
+   "check": "verified"
+  },
+  {
+   "claim": "19th Congress Senate bill with closely matching provisions, including at least four Undersecretaries.",
+   "section": "SB-19-188:s9",
+   "quote": "The Secretary shall be assisted by at least four (4) Undersecretaries",
+   "check": "verified"
+  },
+  {
+   "claim": "19th Congress House bill on the same Department, the source of the 2022 version of the text.",
+   "section": "HB-19-6364:s1",
+   "quote": "This Act shall be known as the “Disaster Resilience Act of 2022”.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 81 (Transfer of Functions) transfers all functions of the Climate Change Commission, created under RA No. 9729, to the Department and abolishes it.",
+   "section": "HB-20-9897:s81",
+   "quote": "All the functions of the Climate Change Commission (CCC)",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 75 (People's Survival Fund) gives the Department the management of the People's Survival Fund created under RA No. 10174.",
+   "section": "HB-20-9897:s75",
+   "quote": "The Department shall manage and administer the People's Survival Fund, created under Republic Act no. 10174",
+   "check": "verified"
+  },
+  {
+   "claim": "Sections 55 to 59 (Procurement) allow alternative modes and exceptions to RA No. 9184 in emergency situations.",
+   "section": "HB-20-9897:s58",
+   "quote": "As an exception to the provisions of Republic Act No. 9184, otherwise known as the \"Government Procurement Reform Act\"",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-17T14:46:16+00:00"
+ }
+}

@@ -16,9 +16,11 @@ MAX_SECTION_CHARS = 1500
 def _sections_block(bid, only=None, limit=60):
     bills, secs = load()
     rows = []
-    for s in secs.get(bid, [])[:limit]:
+    for s in secs.get(bid, []):
         if only and s["no"] not in only:
             continue
+        if len(rows) >= limit:          # the limit counts the sections kept, so late sections (appropriations) are not lost
+            break
         rows.append(f"[{s['id']}] {s['heading']}: {s['text'][:MAX_SECTION_CHARS]}")
     b = bills[bid]
     head = f"=== {bid} | {b['label']} | Congress: {b['congress'] or 'n/a'} | text: {b['text_source']}\nTITLE: {b['title']}"

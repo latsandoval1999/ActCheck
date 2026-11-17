@@ -289,19 +289,38 @@ def apprAIsal_fiscal(out, cost, req, peso):
     """Part V on screen: the estimate (PS, MOOE, CO), the fiscal table, and the cost references in a dropdown."""
     lo, hi = out["estimate"]["low"], out["estimate"]["high"]
     ui.html('<div class="ac-sec">Estimated budgetary requirements of the new entity</div>')
-    ui.table(["Requirement", f"Lower estimate ({lo['headcount']} positions)", f"Upper estimate ({hi['headcount']} positions)"],
+    if out["estimate"].get("applies") is False:
+        ui.html('<div class="ac-out"><p>The bill does not create a new office, so the estimate of Personnel Services, MOOE and '
+                'Capital Outlay for a new entity does not apply. Its requirements come from the program\'s benefits and implementation '
+                'costs, which depend on its coverage; see the table below.</p></div>')
+    else:
+        _est_table(lo, hi, peso)
+    ui.html('<div class="ac-sec">Fiscal and budgetary requirements</div>')
+    _fis_table(out)
+    _cost_refs(cost, req, peso, out["estimate"].get("applies") is not False)
+
+
+def _est_table(lo, hi, peso):
+    ui.table(["Requirement", f"Lower estimate ({lo['headcount']:,} positions)", f"Upper estimate ({hi['headcount']:,} positions)"],
              [["Personnel Services (PS)", peso(lo["ps"]), peso(hi["ps"])],
               ["Maintenance and Other Operating Expenses (MOOE)", peso(lo["mooe"]), peso(hi["mooe"])],
               ["Capital Outlay (CO), first year only", peso(lo["co"]), peso(hi["co"])],
               ["<b>Total, first year</b>", f"<b>{peso(lo['total'])}</b>", f"<b>{peso(hi['total'])}</b>"],
               ["Every year thereafter (PS and MOOE)", peso(lo["recurring"]), peso(hi["recurring"])]], cls="est")
-    ui.html('<div class="ac-sec">Fiscal and budgetary requirements</div>')
+
+
+def _fis_table(out):
     ui.html('<div class="ac-wide"><table class="ac-tbl cmp fis6"><thead><tr>' + "".join(f"<th>{h}</th>" for h in (
         "Fiscal requirement", "Provision", "What the bill provides", "Recommended budgetary consideration", "Recommendation", "Risks"))
         + "</tr></thead><tbody>" + "".join(
             f"<tr><td><b>{escape(r.get('item', ''))}</b></td><td>{escape(r.get('provision', ''))}</td><td>{escape(r.get('existing', ''))}</td>"
             f"<td>{escape(r.get('consideration', ''))}</td><td>{escape(r.get('recommendation', ''))}</td><td>{escape(r.get('risks', ''))}</td></tr>"
             for r in out.get("fiscal_rows") or []) + "</tbody></table></div>")
+
+
+def _cost_refs(cost, req, peso, applies=True):
+    if not applies:
+        return
     with st.expander("Cost assumptions and similar agencies used for comparison (reference)"):
         st.caption(f"The estimate above uses the 2026 salary schedule for Personnel Services and DBM costing parameters for MOOE and "
                    f"Capital Outlay ({req['basis']}). Figures are an order of magnitude for a preliminary review, not a budget proposal.")

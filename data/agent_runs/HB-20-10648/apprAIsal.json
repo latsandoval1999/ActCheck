@@ -1,0 +1,132 @@
+{
+ "output": {
+  "target": "HB-20-10648",
+  "fiscal_rows": [
+   {
+    "item": "Program subsidy",
+    "provision": "Section 5 (Amount and Manner of Disbursement)",
+    "existing": "P12,000 a year per qualified family, in monthly tranches of P1,000; the number of qualified families is not stated.",
+    "consideration": "The annual requirement depends on the number of qualified families, which the bill does not state; it should be established with the DOLE and the DSWD before the measure is costed.",
+    "recommendation": "The amount and frequency of the subsidy may be set in the implementing guidelines in consultation with the DBM, subject to available appropriations, with coverage phased in.",
+    "risks": "An open-ended entitlement fixed in law may grow faster than the available fiscal space."
+   },
+   {
+    "item": "Funding source",
+    "provision": "Section 12 (The PAMANA Trust Fund; Appropriations)",
+    "existing": "A non-reverting PAMANA Trust Fund from earmarked revenues (part of the VAT on digital services and of mining revenues, future excise taxes, excess GOCC dividends, privatization proceeds) and the GAA.",
+    "consideration": "Earmarked revenues and non-reversion take resources outside the General Fund and outside the annual budget review.",
+    "recommendation": "The requirements may instead be included in the budget of the DSWD in the annual General Appropriations Act, subject to the availability of funds.",
+    "risks": "Earmarking may reduce resources for other priorities and may conflict with existing allocations of the same revenues."
+   },
+   {
+    "item": "Continuing funding",
+    "provision": "Section 12 (The PAMANA Trust Fund; Appropriations)",
+    "existing": "Any deficiency in the Fund included in the annual General Appropriations Act.",
+    "consideration": "The GAA would cover any shortfall of the earmarked revenues, so the national government bears the full risk of the program's growth.",
+    "recommendation": "The requirements may be considered in the budget proposal of the DSWD for the succeeding GAA (FY 2028 at the earliest), subject to fiscal space and the DBM's evaluation.",
+    "risks": "Competes with other priorities within the expenditure ceilings of the Budget Priorities Framework."
+   },
+   {
+    "item": "Implementation cost",
+    "provision": "Section 7 (Exclusive Use in Local MSMEs); Section 8 (Digital Wallet Onboarding and Financial Inclusion); Section 9 (Identification of Beneficiaries)",
+    "existing": "Free digital wallets and alternative access cards, merchant accreditation at no cost to merchants, a quarterly-updated registry, appeals and a public dashboard.",
+    "consideration": "Administrative costs of the DSWD, the DOLE and the DTI, which the bill charges to the Fund; no new positions are created.",
+    "recommendation": "Implementation costs may be charged to the existing budgets of the agencies concerned in the first year, and their requirements included in their budget proposals thereafter.",
+    "risks": "Onboarding and accreditation costs may be underestimated in areas with limited connectivity."
+   },
+   {
+    "item": "Oversight committee",
+    "provision": "Section 11 (Transparency and Oversight)",
+    "existing": "A Joint Congressional Oversight Committee is created; no funding is stated.",
+    "consideration": "Meeting and secretariat expenses would be borne by the two chambers of Congress.",
+    "recommendation": "Any requirement of the committee may be charged to the appropriations of the Senate and the House of Representatives.",
+    "risks": "Minor; no separate appropriation is needed."
+   }
+  ],
+  "duplications": [
+   {
+    "function": "Section 9 (Identification of Beneficiaries)",
+    "existing": "DSWD's Listahanan and 4Ps beneficiary registries, which the bill itself names",
+    "note": "A separate DOLE registry of minimum wage earners would add another beneficiary database alongside the DSWD's registries.",
+    "intent_to_abolish": false,
+    "assessment": "The bill does not change or replace the existing registries; consistent with RA No. 12231, the data may be built into the DSWD's existing database instead."
+   }
+  ],
+  "intent_to_abolish": false,
+  "recommendation": {
+   "option": "c",
+   "label": "Defer until the issues are addressed",
+   "issues": [
+    "Coverage and annual cost of the subsidy not established",
+    "Earmarked, non-reverting trust fund outside the annual budget process",
+    "Amount of the subsidy fixed in the law",
+    "Separate beneficiary registry and stand-alone program alongside existing DSWD programs"
+   ]
+  },
+  "referrals": [
+   {
+    "bureau": "BMB-B",
+    "why": "The subsidy and the trust fund are administered by the DSWD, and the DOLE keeps the registry of minimum wage earners",
+    "parts": "Parts V and VI"
+   },
+   {
+    "bureau": "BMB-A",
+    "why": "The DTI accredits and onboards MSME merchants at no cost to them",
+    "parts": "Part V (Implementation cost)"
+   },
+   {
+    "bureau": "BTB",
+    "why": "Creation of a special trust fund, earmarking of revenues and non-reversion of balances",
+    "parts": "Part V (Funding source; Continuing funding)"
+   },
+   {
+    "bureau": "FPRB",
+    "why": "An open-ended recurring subsidy and the earmarking of tax and non-tax revenues, in relation to the medium-term fiscal program",
+    "parts": "Part V"
+   },
+   {
+    "bureau": "SPIB",
+    "why": "Possible duplication of the DSWD's beneficiary registries, in light of RA No. 12231",
+    "parts": "Part VI"
+   },
+   {
+    "bureau": "LS",
+    "why": "Penal provisions under Section 10 and the earmarking of revenues under existing tax laws",
+    "parts": "Parts IV and V"
+   }
+  ],
+  "memo": {
+   "V": [
+    "5.1 HB No. 10648 does not create a new office. Its budgetary requirements consist of the annual subsidy under Section 5 (Amount and Manner of Disbursement) and the cost of digital wallets, merchant accreditation and the beneficiary registry under Sections 7 to 9. The annual requirement depends on the number of qualified families, which the bill does not state and which should be established with the DOLE and the DSWD before the measure can be costed.",
+    "5.2 As regards the funding under Section 12 (The PAMANA Trust Fund; Appropriations), it may be noted that the Fund relies on earmarked revenues that do not revert to the General Fund, while any deficiency is charged to the General Appropriations Act. In this regard, and as discussed in Part IV, the requirements may be considered in the budget proposal of the DSWD for the succeeding GAA (FY 2028 at the earliest), subject to fiscal space.",
+    "5.3 The implementation costs of the DSWD, the DOLE and the DTI may be charged to their existing budgets in the first year, and any requirement of the Joint Congressional Oversight Committee to the appropriations of the Senate and the House of Representatives."
+   ],
+   "VI": [
+    "6.1 Section 9 (Identification of Beneficiaries) of HB No. 10648 tasks the DOLE to maintain a registry of minimum wage earners, alongside the DSWD's Listahanan and 4Ps registries, which the bill itself names. The bill does not provide for the replacement of the existing registries. In view of the Government Optimization Act (RA No. 12231), signed on August 4, 2025, which seeks to address unnecessarily overlapping or duplicating functions, the registry may be built into the DSWD's existing social protection database, as discussed in Part IV."
+   ],
+   "VII": [
+    "7.1 This Department recommends that further consideration of the proposed measure be deferred until the issues identified in this review have been adequately addressed.",
+    "7.2 In particular: (a) the coverage of the program and its annual cost are not established; (b) the earmarked, non-reverting trust fund places the program outside the annual budget process; (c) the amount of the subsidy is fixed in the law; and (d) a separate registry and program are created alongside existing DSWD social protection programs."
+   ]
+  },
+  "reviewer_checks": [
+   "Confirm with the DOLE and the DSWD the number of families of minimum wage earners outside the 4Ps, to cost the subsidy.",
+   "Confirm whether the revenues earmarked in Section 12 are already allocated under existing laws.",
+   "Confirm the choice between deferment and no objection subject to amendments with the concerned bureaus."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "figures and lists",
+   "section": "",
+   "quote": "",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (ApprAIsal run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-17T14:51:34+00:00"
+ }
+}

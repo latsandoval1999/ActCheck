@@ -717,6 +717,10 @@
    "government-owned or -controlled corporation",
    "government-owned or controlled corporation",
    "GOCCs"
+  ],
+  "Department of National Defense": [
+   "Office of Civil Defense",
+   "National Disaster Risk Reduction and Management Council"
   ]
  }
 }

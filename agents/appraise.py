@@ -84,21 +84,33 @@ def coverage(bid, t_out=None):
     allt = " ".join(body(s) for s in secs)
     fund = " ".join(body(s) for s in secs if re.search(r"appropriat|funding|budget", s["heading"], re.I))
     attach = " ".join(m.group(1) for m in re.finditer(r"attached to the ([A-Z][^.;,]{5,90})", allt))
+    moved = " ".join(body(s) for s in secs if re.search(r"transfer of (functions|powers|resources|personnel|assets)|abolition|absorption|"
+                                                         r"\babolish|\babsorb", s["heading"], re.I))
     found = {}
     for code, name, acr, pat in AGENCY_PATTERNS:
         n_all, n_fund, n_att = len(pat.findall(allt)), len(pat.findall(fund)), len(pat.findall(attach))
+        n_mov = len(pat.findall(moved))
         if not (n_all or n_fund):
             continue
-        role = "funding" if n_fund else "attached" if n_att else "sector" if n_all >= 2 and code != "LGRCB" else ""
+        if acr and len(acr) >= 3 and acr.isupper() and re.search(re.escape(name) + r"\s*\(" + re.escape(acr) + r"\)", allt, re.I):
+            # the bill names the agency in full with its acronym once, then uses the acronym
+            ap = re.compile(r"\b" + re.escape(acr) + r"\b")
+            n_all, n_fund, n_att = n_all + len(ap.findall(allt)) - 1, n_fund + len(ap.findall(fund)), n_att + len(ap.findall(attach))
+            n_mov += len(ap.findall(moved))
+        role = ("funding" if n_fund else "transfer" if n_mov else "attached" if n_att else
+                "sector" if n_all >= 2 and code != "LGRCB" else "")
         if code == "BMB-C" and name.startswith("Congress") and role == "sector":
             role = ""    # "Congress", "Senate" and "House" appear in most bills; count them only when they fund the measure
         if role:
-            g = found.setdefault(code, {"bureau": code, "by_role": {}})
-            label = f"{name} ({acr})" if acr and acr.upper() != name.upper().replace(" OF THE PHILIPPINES", "") else name
+            g = found.setdefault(code, {"bureau": code, "by_role": {}, "mentions": 0})
+            g["mentions"] += n_all
+            label = f"{name} ({acr})" if acr and re.search(r"\b" + re.escape(acr) + r"\b", allt) else name
             if all(label not in v for v in g["by_role"].values()):
                 g["by_role"].setdefault(role, []).append(label)
-    order = {"funding": 0, "attached": 1, "sector": 2}
-    out = sorted(found.values(), key=lambda g: min(order[r] for r in g["by_role"]))
+    order = {"funding": 0, "transfer": 1, "attached": 1, "sector": 2}
+    out = sorted(found.values(), key=lambda g: (min(order[r] for r in g["by_role"]), -g["mentions"]))
+    # bureaus concerned only because the bill gives their agencies a role: the two most involved
+    out = [g for g in out if set(g["by_role"]) != {"sector"}] + [g for g in out if set(g["by_role"]) == {"sector"}][:2]
     for g in out:
         g["role"] = min(g["by_role"], key=order.get)
         g["agencies"] = [a for r in sorted(g["by_role"], key=order.get) for a in g["by_role"][r]]
@@ -118,10 +130,17 @@ def _abolishes(bid):
     return any(re.search(r"abolish|transfer|merg|absorb|consolidat", s["heading"], re.I) for s in secs.get(bid, []))
 
 
+OFFICE_RX = (r"\b(DEPARTMENT|AUTHORITY|COMMISSION|OFFICE|BUREAU|COUNCIL|BOARD|AGENCY|INSTITUTE|CENTER|CENTRE|CORPORATION|"
+             r"SECRETARIAT|COMMITTEE|ADMINISTRATION|UNIVERSITY|COLLEGE|SERVICE|DIVISION|UNIT)\b")
+
+
 def _creates(bid, t_out=None):
-    """Does the bill create a new office or body?"""
-    return bool((t_out or {}).get("entity_proposed")) or bool(re.search(r"\b(CREATING|ESTABLISHING|CREATION|ESTABLISHMENT)\b",
-                                                                            (load()[0].get(bid) or {}).get("title", "").upper()))
+    """Does the bill create a new office or body (not only a program, fund or framework)?"""
+    name = (t_out or {}).get("entity_proposed") or ""
+    if not name:
+        m = re.search(r"\b(?:CREATING|ESTABLISHING)\s+(?:THE\s+|A\s+|AN\s+)?([^,]{5,120})", (load()[0].get(bid) or {}).get("title", "").upper())
+        name = m.group(1) if m else ""
+    return bool(re.search(OFFICE_RX, name.upper()))
 
 
 def _branch(entity):
@@ -131,11 +150,15 @@ def _branch(entity):
 def fiscal_rows(bid, t_out, c_out, cost, req):
     """Part V table: item, provision, existing requirement, recommended consideration, recommendation, risks."""
     lo, hi = req["low"], req["high"]
-    est = (f"about {peso(lo['total'])} to {peso(hi['total'])} in the first year for {lo['structure']['headcount']} to "
-           f"{hi['structure']['headcount']} positions (PS {peso(lo['ps'])} to {peso(hi['ps'])}; MOOE {peso(lo['mooe'])} to "
+    est = (f"about {peso(lo['total'])} to {peso(hi['total'])} in the first year for {lo['structure']['headcount']:,} to "
+           f"{hi['structure']['headcount']:,} positions (PS {peso(lo['ps'])} to {peso(hi['ps'])}; MOOE {peso(lo['mooe'])} to "
            f"{peso(hi['mooe'])}; CO {peso(lo['co'])} to {peso(hi['co'])}, one-time)")
     rec_years = f"{peso(lo['recurring'])} to {peso(hi['recurring'])} a year thereafter (PS and MOOE)"
     sched = salary_schedule()
+    office = _creates(bid, t_out)
+    if not office:                     # a program or a measure without a new office: the new-office estimate does not apply
+        est = "the program's benefits and implementation costs, which depend on its coverage (to be costed with the implementing agency)"
+        rec_years = "the program's benefits and implementation costs every year, which depend on its coverage"
     rows, secretariat_seen = [], False
     for f in t_out.get("fiscal_requirements") or []:
         item, detail, sec = f.get("item", ""), f.get("detail", ""), f.get("section", "")
@@ -145,7 +168,7 @@ def fiscal_rows(bid, t_out, c_out, cost, req):
         if "initial" in low:
             src_cong = bool(re.search(r"Senate|House", detail))
             rows.append({"item": "Initial funding", "provision": sec, "existing": detail,
-                         "consideration": f"Estimated requirement of {est}.",
+                         "consideration": f"Estimated requirement of {est}." if office else f"Requirement covers {est}.",
                          "recommendation": ("The initial requirement may be charged to the available appropriations of the Senate and the House, as "
                                             "provided, but the amount should be stated so that it can be programmed." if src_cong else
                                             "The initial requirement may be sourced from available appropriations in the year of effectivity; "
@@ -153,7 +176,7 @@ def fiscal_rows(bid, t_out, c_out, cost, req):
                          "risks": "An unstated amount may delay operations or crowd out the existing budgets it is charged to."})
         elif "continuing" in low:
             rows.append({"item": "Continuing funding", "provision": sec, "existing": detail,
-                         "consideration": f"Recurring requirement of {rec_years}.",
+                         "consideration": f"Recurring requirement of {rec_years}." if office else f"Recurring requirement covers {rec_years}.",
                          "recommendation": "The requirements may be included in the annual budget proposal under the budget call for the succeeding "
                                            "GAA (FY 2028 at the earliest), subject to fiscal space and the DBM's evaluation.",
                          "risks": "Competes with other priorities within the expenditure ceilings of the Budget Priorities Framework."})
@@ -161,7 +184,8 @@ def fiscal_rows(bid, t_out, c_out, cost, req):
             sg = re.search(r"Salary Grade (\d+)|SG[- ]?(\d+)", detail)
             g = int(next(x for x in sg.groups() if x)) if sg else None
             cost1 = f"{peso(annual_cost_per_person(sched[g]))} a year with mandatory benefits (SG {g}, Step 1, 2026 salary schedule)" if g in sched else "to be computed"
-            rows.append({"item": "Position", "provision": sec, "existing": detail, "consideration": f"About {cost1}.",
+            rows.append({"item": "Position", "provision": sec, "existing": detail,
+                         "consideration": f"About {cost1}." if g in sched else "No salary grade stated; to be set in the staffing pattern.",
                          "recommendation": "The position title and salary grade are subject to evaluation under the Compensation and Position "
                                            "Classification System and the organization and staffing standards.",
                          "risks": "A grade above comparable positions may create pay distortions across similar offices."})
@@ -175,7 +199,8 @@ def fiscal_rows(bid, t_out, c_out, cost, req):
             secretariat_seen = secretariat_seen or not existing_agency
             rows.append({"item": "Support body", "provision": sec, "existing": detail,
                          "consideration": ("Requirements to be charged to the existing agency's budget." if existing_agency else
-                                           f"Staffing of {lo['structure']['headcount']} to {hi['structure']['headcount']} positions assumed in the estimate."),
+                                           f"Staffing of {lo['structure']['headcount']:,} to {hi['structure']['headcount']:,} positions assumed in the estimate."
+                                           if office else "No new positions assumed; support to be provided by the agencies concerned."),
                          "recommendation": ("Any added requirement of the existing agency should be included in its own budget proposal." if existing_agency else
                                             "The organizational structure and staffing pattern should be submitted to the DBM for review before positions are filled."),
                          "risks": ("Competes with the agency's other work." if existing_agency else
@@ -233,7 +258,7 @@ def referrals(bid, t_out, c_out, dups, rows):
     def add(code, why, parts):
         out.append({"bureau": code, "name": BUREAUS[code][0], "function": BUREAUS[code][1], "why": why, "parts": parts,
                     "email": EMAIL.get(code, "")})
-    if any(r["item"] in ("Position", "Support body") for r in rows) or _creates(bid, t_out):
+    if any(r["item"] == "Position" for r in rows) or _creates(bid, t_out):
         add("OPCCB", "New positions, salary grades, organizational structure and staffing pattern", "Part V (Position; Support body)")
     if any(r["item"] in ("Initial funding", "Continuing funding", "Funding source") for r in rows):
         add("BTB", "Appropriations language and inclusion in the General Appropriations Act", "Part V (Initial and continuing funding)")
@@ -245,6 +270,8 @@ def referrals(bid, t_out, c_out, dups, rows):
         parts_ = []
         if br.get("funding"):
             parts_.append("the bill charges its requirements to the budget of the " + _and(br["funding"]))
+        if br.get("transfer"):
+            parts_.append("the bill's provisions on the transfer of functions, funds and positions concern the " + _and(br["transfer"]))
         if br.get("attached"):
             parts_.append("the new office is attached to the " + _and(br["attached"]))
         if br.get("sector"):
@@ -285,8 +312,8 @@ def rule_draft(bid, t_out, c_out, cost):
     p5 = [f"Based on the organization and staffing standards and existing rules on maintenance and capital outlays, the creation of "
           f"{'the ' if not entity.lower().startswith('the ') else ''}{entity} would require about {peso(lo['total'])} to {peso(hi['total'])} in its first year, consisting of Personnel Services "
           f"of {peso(lo['ps'])} to {peso(hi['ps'])}, Maintenance and Other Operating Expenses of {peso(lo['mooe'])} to {peso(hi['mooe'])}, "
-          f"and Capital Outlay of {peso(lo['co'])} to {peso(hi['co'])} (one-time), for {lo['structure']['headcount']} to "
-          f"{hi['structure']['headcount']} positions. Thereafter, about {peso(lo['recurring'])} to {peso(hi['recurring'])} would be "
+          f"and Capital Outlay of {peso(lo['co'])} to {peso(hi['co'])} (one-time), for {lo['structure']['headcount']:,} to "
+          f"{hi['structure']['headcount']:,} positions. Thereafter, about {peso(lo['recurring'])} to {peso(hi['recurring'])} would be "
           "needed every year." if _creates(bid, t_out) else
           "The bill does not create a new office; its budgetary requirements depend on implementation by the agencies concerned."]
     for r in rows:
@@ -296,7 +323,8 @@ def rule_draft(bid, t_out, c_out, cost):
     # Part VI
     p6 = []
     for d in dups:
-        base = (f"{d.get('function', 'The bill')} of {doc} appears to overlap with the {d.get('existing', 'an existing body')}. "
+        ex = re.sub(r"^the\s+", "", d.get("existing", "an existing body"), flags=re.I)
+        base = (f"{d.get('function', 'The bill')} of {doc} appears to overlap with the {ex}. "
                 f"{d.get('note', '').rstrip('.')}.")
         if not d["intent_to_abolish"]:
             base += (f" The bill does not provide for the abolition, merger or transfer of the existing body or its functions. In view of {GOA}, "
@@ -317,7 +345,10 @@ def rule_draft(bid, t_out, c_out, cost):
               "Confirm the Budget and Management Bureaus to consult (matched from the agencies named in the bill and the DBM directory's coverage lists)."]
     if dups:
         checks.append("Confirm whether the existing body named in Part VI is still constituted and active.")
-    return {"target": bid, "source": "rules", "estimate": {"low": _slim(lo), "high": _slim(hi), "basis": req["basis"]},
+    if not _creates(bid, t_out):
+        checks[0] = "Confirm the program's coverage (number of beneficiaries) and unit costs with the implementing agency, to cost the measure."
+    return {"target": bid, "source": "rules", "estimate": {"low": _slim(lo), "high": _slim(hi), "basis": req["basis"],
+                                                         "applies": _creates(bid, t_out)},
             "fiscal_rows": rows, "duplications": dups, "intent_to_abolish": intent,
             "recommendation": {"option": key, "label": OPTIONS[key][0], "issues": issues},
             "referrals": refs, "memo": {"V": _numbered(5, p5), "VI": _numbered(6, p6), "VII": _numbered(7, p7)},

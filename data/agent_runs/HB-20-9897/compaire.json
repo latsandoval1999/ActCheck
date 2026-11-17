@@ -1,0 +1,212 @@
+{
+ "output": {
+  "target": "HB-20-9897",
+  "problem": "The country faces frequent and more complex natural hazards, while disaster risk reduction, climate adaptation and disaster response are spread across several bodies. The bill proposes one department to lead disaster and climate resilience, from risk reduction to recovery.",
+  "problem_quote": "Every year, Filipino communities face the devastating impact of typhoons, floods, earthquakes, volcanic eruptions, and other natural hazards.",
+  "rows": [
+   {
+    "area": "Mandate and coverage of hazards",
+    "section_ref": "Section 4 (Creation of the Department of Disaster Resilience)",
+    "target_section": "HB-20-9897:s4",
+    "target_quote": "There is hereby created the Department of Disaster Resilience, hereinafter referred to as the Department.",
+    "comparator": {
+     "id": "HB-20-4652",
+     "section": "HB-20-4652:s5",
+     "quote": "The mandate of the Department shall cover all natural hazards, including the effects of climate change, such as the following:",
+     "title": "AN ACT CREATING THE DEPARTMENT OF DISASTER RESILIENCE, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+    },
+    "differences": "HB No. 4652 has a separate mandate section that lists the natural hazards the Department covers (geological, hydrological and meteorological, and the effects of climate change); this bill states the mandate in general terms within the creation section.",
+    "recommendation": "Adapt alternative with revisions",
+    "why": "Listing the hazards covered would mark where the Department's functions end and those kept by the DND, the OCD and the DSWD for human-induced disasters begin.",
+    "tradeoffs": "A defined list gives clarity but may need amendment as new hazards are recognized.",
+    "gap": ""
+   },
+   {
+    "area": "Head of the Department",
+    "section_ref": "Section 7 (The Secretary,)",
+    "target_section": "HB-20-9897:s7",
+    "target_quote": "The Secretary shall possess substantial experience and demonstrated competence in disaster risk reduction and management",
+    "comparator": {
+     "id": "SB-20-173",
+     "section": "SB-20-173:s7",
+     "quote": "The Secretary shall preferably have a solid background in any",
+     "title": "AN ACT CREATING THE DEPARTMENT OF DISASTER RESILIENCE, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+    },
+    "differences": "SB No. 173 states the Secretary's background only as a preference; this bill requires substantial experience and demonstrated competence in the field.",
+    "recommendation": "Retain provision",
+    "why": "A stated qualification standard supports a competent head for a technical department.",
+    "tradeoffs": "Stricter qualifications narrow the pool of appointees.",
+    "gap": ""
+   },
+   {
+    "area": "Transfer and abolition of offices",
+    "section_ref": "Section 81 (Transfer of Functions)",
+    "target_section": "HB-20-9897:s81",
+    "target_quote": "Accordingly, the CCC and NDRRMC are hereby abolished.",
+    "comparator": null,
+    "differences": "The related bills carry the same transfer of functions; none offers a different arrangement.",
+    "recommendation": "Retain provision",
+    "why": "Abolishing the CCC and the NDRRMC and transferring their functions avoids keeping parallel bodies.",
+    "tradeoffs": "Splitting disaster functions by type of hazard leaves the OCD and the DND with human-induced disasters, which needs clear coordination rules.",
+    "gap": "How the OCD's remaining functions and personnel are divided between the OCD and the Department is not stated."
+   },
+   {
+    "area": "Funding",
+    "section_ref": "Section 70 (Appropriations and Management of Disaster Resilience Fund)",
+    "target_section": "HB-20-9897:s70",
+    "target_quote": "The budget of the Department shall be composed of the following, which shall be collectively called the Disaster Resilience Fund:",
+    "comparator": null,
+    "differences": "The related bills carry the same Disaster Resilience Fund and appropriations clause; none offers a different funding design.",
+    "recommendation": "Retain provision",
+    "why": "No related measure offers a better alternative; the funding design is reviewed in ApprAIsal.",
+    "tradeoffs": "Lump-sum and continuing funds give flexibility in emergencies but reduce the detail of budget authorization.",
+    "gap": ""
+   },
+   {
+    "area": "Laws amended or repealed",
+    "section_ref": "Section 99 (Repealing Clause)",
+    "target_section": "HB-20-9897:s99",
+    "target_quote": "All laws, decrees, executive orders, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.",
+    "comparator": {
+     "id": "SB-20-173",
+     "section": "SB-20-173:s100",
+     "quote": "The provisions of Republic Act no. 10121, Republic Act no. 7160, Republic Act no. 7916, Republic Act no. 9184",
+     "title": "AN ACT CREATING THE DEPARTMENT OF DISASTER RESILIENCE, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+    },
+    "differences": "SB No. 173 names the laws it amends or repeals (RA Nos. 10121, 7160, 7916 and 9184); this bill uses a general repealing clause although it abolishes bodies created by law.",
+    "recommendation": "Adapt alternative",
+    "why": "Naming the laws affected avoids doubt on which provisions on the NDRRMC, the CCC and procurement remain in force.",
+    "tradeoffs": "A specific list must be complete, or provisions left out may be read as still in force.",
+    "gap": "Whether RA No. 9729, which created the CCC, should also be named could not be established from the material."
+   }
+  ],
+  "duplications": [
+   {
+    "function": "Section 81 (Transfer of Functions)",
+    "existing": "Office of Civil Defense and the Department of National Defense, which keep functions on human-induced disasters",
+    "note": "Natural-disaster functions move to the Department while the OCD, the DND and other agencies keep human-induced disaster functions, so two systems for disaster preparedness and response would coexist.",
+    "section": "HB-20-9897:s81",
+    "quote": "shall continue to perform their functions related to the management of human- induced disasters"
+   }
+  ],
+  "cost_notes": [
+   {
+    "item": "Section 9 (The Undersecretaries)",
+    "direction": "likely raises cost",
+    "why": "At least four undersecretaries, with no upper limit."
+   },
+   {
+    "item": "Section 13 (Regional Disaster Resilience Offices)",
+    "direction": "likely raises cost",
+    "why": "A regional office in each administrative region, headed by a Regional Director."
+   },
+   {
+    "item": "Section 29 (National Disaster Operations Center)",
+    "direction": "likely raises cost",
+    "why": "A national operations center, alternative command centers and a research and training institute, within one year."
+   },
+   {
+    "item": "Section 90 (Magna Carta Benefits)",
+    "direction": "likely raises cost",
+    "why": "Magna Carta benefits and, under Section 91 (Hazard Pay), hazard pay for all personnel add to Personnel Services."
+   },
+   {
+    "item": "Section 82 (Transfer of Resources)",
+    "direction": "likely lowers cost",
+    "why": "Funds, positions and assets of the absorbed bodies are transferred, offsetting part of the new requirement."
+   },
+   {
+    "item": "Section 92 (Separation Benefits of Officials and Employees of Affected Agencies)",
+    "direction": "likely raises cost",
+    "why": "A separation plan of one and one-half months' salary for every year of service for displaced employees."
+   }
+  ],
+  "memo_part": [
+   {
+    "heading": "On the mandate of the Department",
+    "paragraphs": [
+     "4.1 Section 4 of HB No. 9897 creates the Department as the principal government institution for disaster and climate resilience, while Section 81 leaves the management of human-induced disasters with the DND, the DILG, the DSWD and the OCD. It may be noted that the bill does not state which hazards fall within the Department's mandate. In this regard, may we recommend that the natural hazards covered by the Department be specified, similar to Section 5 of HB No. 4652, so that its functions are clearly delineated from those that remain with the existing agencies."
+    ]
+   },
+   {
+    "heading": "On the repealing clause",
+    "paragraphs": [
+     "4.2 Section 99 provides a general repealing clause, although the bill abolishes the Climate Change Commission and the NDRRMC and sets exceptions to the procurement law. May we recommend that the laws amended or repealed be expressly identified, similar to Section 100 of SB No. 173, which names RA Nos. 10121, 7160, 7916 and 9184, to avoid doubt on the provisions that remain in force."
+    ]
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm how the OCD's functions and personnel would be divided between the OCD and the Department under Section 81.",
+   "Check whether RA No. 9729 should also be named among the laws amended or repealed.",
+   "Note that HB Nos. 6371, 4652 and 2384 and SB No. 173 carry largely the same provisions, so few design alternatives are available."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 4 (Creation of the Department of Disaster Resilience)",
+   "section": "HB-20-9897:s4",
+   "quote": "There is hereby created the Department of Disaster Resilience, hereinafter referred to as the Department.",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 4652 has a separate mandate section that lists the natural hazards the Department covers (geological, hydrological and meteorological, and the effects of climate change); this bill states the mandate in general terms within the creation section.",
+   "section": "HB-20-4652:s5",
+   "quote": "The mandate of the Department shall cover all natural hazards, including the effects of climate change, such as the following:",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 7 (The Secretary,)",
+   "section": "HB-20-9897:s7",
+   "quote": "The Secretary shall possess substantial experience and demonstrated competence in disaster risk reduction and management",
+   "check": "verified"
+  },
+  {
+   "claim": "SB No. 173 states the Secretary's background only as a preference; this bill requires substantial experience and demonstrated competence in the field.",
+   "section": "SB-20-173:s7",
+   "quote": "The Secretary shall preferably have a solid background in any",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 81 (Transfer of Functions)",
+   "section": "HB-20-9897:s81",
+   "quote": "Accordingly, the CCC and NDRRMC are hereby abolished.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 70 (Appropriations and Management of Disaster Resilience Fund)",
+   "section": "HB-20-9897:s70",
+   "quote": "The budget of the Department shall be composed of the following, which shall be collectively called the Disaster Resilience Fund:",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 99 (Repealing Clause)",
+   "section": "HB-20-9897:s99",
+   "quote": "All laws, decrees, executive orders, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.",
+   "check": "verified"
+  },
+  {
+   "claim": "SB No. 173 names the laws it amends or repeals (RA Nos. 10121, 7160, 7916 and 9184); this bill uses a general repealing clause although it abolishes bodies created by law.",
+   "section": "SB-20-173:s100",
+   "quote": "The provisions of Republic Act no. 10121, Republic Act no. 7160, Republic Act no. 7916, Republic Act no. 9184",
+   "check": "verified"
+  },
+  {
+   "claim": "Natural-disaster functions move to the Department while the OCD, the DND and other agencies keep human-induced disaster functions, so two systems for disaster preparedness and response would coexist.",
+   "section": "HB-20-9897:s81",
+   "quote": "shall continue to perform their functions related to the management of human- induced disasters",
+   "check": "verified"
+  },
+  {
+   "claim": "problem",
+   "section": "HB-20-9897:note",
+   "quote": "Every year, Filipino communities face the devastating impact of typhoons, floods, earthquakes, volcanic eruptions, and other natural hazards.",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled CompAIre run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-17T14:48:17+00:00"
+ }
+}

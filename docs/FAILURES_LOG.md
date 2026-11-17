@@ -22,6 +22,9 @@ Failure the course asks this agent to catch: a fabricated citation.
 | 17 Nov 2026 | Red-team: citation to a bill that does not exist (HB-19-4321:s4) and to a section beyond the law's end (RA-8435:s250) | Both flagged "section does not exist" | Held | — |
 | 17 Nov 2026 | Reviewer reading drafted text | Rule-drafted sentences were garbled: "seeks to promot", "a AGRICOM", truncated purposes, OCR noise in quotes | Failed | Verb and article fixes, OCR clean-up, and the proposal drawn from the bill's own purpose clause |
 | 17 Nov 2026 | Proofreading check, first run | 5,202 findings, most of them false (OCR letters, place names such as "Bolo Bolo", "one hundred twenty (120)" read as "twenty (120)") | Failed (too noisy) | Full number phrases parsed; text-layer and OCR confusions skipped; only insert/delete/swap edits in full texts; 859 findings, with a Likely/Possible confidence |
+| 17 Nov 2026 | Claude run on HB 9897 (100 sections) | The prompt dropped the bill's appropriations, transfer and oversight sections (Sections 70, 81, 93): the section cap counted all sections before choosing the key ones, so sections after the 60th never reached the agent | Failed (caught while preparing the run) | The cap now counts only the sections kept (`agents/pipeline_agents.py`); bills of up to 25 sections are sent whole |
+| 17 Nov 2026 | Rule draft for HB 9897 | The rule draft called the Department "a 6-member Department", taking the count from the oversight committee | Failed (rules) | Member counts used only for commissions, councils, boards and committees |
+
 
 ## CompAIre (Agent 2): Diagnosis and Design
 
@@ -33,6 +36,8 @@ Failures the course asks this agent to catch: fake-distinct options; a flatterin
 | 8 Nov 2026 | Reviewer reading the v1 output | Wrong fiscal direction: SB 1624's added operational tasks (farmer training, identifying markets) labelled "likely lowers cost"; added tasks normally raise cost | Failed (fixed in v3) | v3: every cost note carries a one-line reason and goes to ApprAIsal, where it is reviewed with the costing; CompAIre no longer shows cost effects as findings |
 | 17 Nov 2026 | Reviewer reading v1/v2 design | v1 compared the bill with one chosen bill only, so the "design options" were mostly near-copies of the bill (fake-distinct options) and the closest bill offered little to choose from | Failed | v3 picks a comparator per provision for its alternative (differences outweigh similarities), skips near-identical copies, and limits recommendations to four defined options |
 | 17 Nov 2026 | Building the v3 rule draft | The rule draft first compared provisions with a Senate committee report that only repeats SB 1624's text, and described differences in garbled phrases ("members: 10 (this bill: 12)" in memo prose) | Failed | Committee reports dropped when the bill itself is available; separate table and memo phrasing ("SB No. 1345 ... provides for 10 members") |
+| 17 Nov 2026 | Claude run on HB 9897 (fake-distinct options test) | The related bills (HB Nos. 6371, 4652, 2384, 1190 and SB No. 173) are largely copies of the same text | Held | CompAIre retained the provisions with no comparator ("no related measure offers a different design") instead of inventing differences, and used real alternatives only where they existed (SB No. 173's repealing clause, HB No. 4652's list of hazards) |
+
 
 ## ApprAIsal (Agent 3): Appraisal and Governance
 
@@ -48,6 +53,8 @@ Failure the course asks this agent to catch: drift toward tasks it should not do
 | 17 Nov 2026 | Red-team: a peso figure not produced by the cost engine written into Part V | Flagged "figure not from the cost engine or the bill"; output not saved | Held | `appraise.check_output`; regression test `test_invented_peso_figure_is_flagged` |
 | 17 Nov 2026 | Building v3 (memo compiled from the three agents) | The same sentence appeared in Part IV (CompAIre) and Part V (ApprAIsal) because their paragraph numbers differed, so the de-duplication missed it | Failed (caught before release) | `appraise.harmonize` compares sentences without their paragraph numbers and keeps the first part's number; test `test_harmonize_drops_repeated_sentences` |
 | 17 Nov 2026 | Scope test (governance) | The overall recommendation could have gone straight into the memo from the agent | Held | ApprAIsal only proposes Part VII; the memo keeps a placeholder until the reviewer picks an option and confirms it; the letter opens only after that |
+| 17 Nov 2026 | Claude run on HB 10648 (a subsidy program, not a new office) | The rule draft applied the new-office estimate (30 to 150 positions, P41.2 million to P210.5 million a year) to a cash subsidy program, and found no Budget and Management Bureau because the bill names the DSWD by its acronym | Failed (rules; caught before release) | New-office estimate only when the bill creates an office or body; the program's cost is described as benefits times coverage; agency acronyms counted when the bill defines them; DSWD matched to BMB-B |
+
 
 ## Portal and data (supporting the agents)
 

@@ -212,6 +212,8 @@ def _context(pack, max_docs=8):
     from agents.pipeline_agents import _sections_block, _key_sections
     bid = pack["profile"]["id"]
     want = sorted(set(_key_sections(bid)) | set(_law_citing_sections(bid)))
+    if len(load()[1].get(bid, [])) <= 25:          # a short bill is sent whole, so every salient feature can be read
+        want = []
     parts = [_sections_block(bid, only=want or None, limit=60)]
     corpus_ids = [r["id"] for r in pack["related"] if r["source"] == "corpus text"]
     for cid in corpus_ids[:max_docs]:

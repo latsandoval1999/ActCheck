@@ -1,0 +1,165 @@
+{
+ "output": {
+  "target": "HB-20-9897",
+  "fiscal_rows": [
+   {
+    "item": "Initial funding",
+    "provision": "Section 93 (Appropriations)",
+    "existing": "Unexpended and unobligated appropriations of the absorbed, transferred and attached agencies; no amount stated.",
+    "consideration": "About P854.8 million to P3.28 billion in the first year for 552 to 1,896 positions (PS P492.6 million to P2.08 billion; MOOE P218.0 million to P736.1 million; CO P144.2 million to P461.3 million, one-time), part of which would be covered by the transferred budgets.",
+    "recommendation": "The initial requirement may be charged to the appropriations of the absorbed and transferred bodies, as provided; any additional requirement should be included in the succeeding GAA, subject to fiscal space.",
+    "risks": "The transferred budgets may not cover a full department with regional offices in its first year."
+   },
+   {
+    "item": "Continuing funding",
+    "provision": "Section 93 (Appropriations)",
+    "existing": "Included in the annual General Appropriations Act.",
+    "consideration": "About P710.6 million to P2.81 billion a year thereafter for PS and MOOE, before netting the budgets of the absorbed bodies.",
+    "recommendation": "The requirements may be included in the budget proposal of the Department under the budget call for the succeeding GAA (FY 2028 at the earliest), subject to fiscal space and the DBM's evaluation.",
+    "risks": "A new department competes with other priorities within the expenditure ceilings of the Budget Priorities Framework."
+   },
+   {
+    "item": "Funding source",
+    "provision": "Section 70 (Appropriations and Management of Disaster Resilience Fund); Section 71 (Continuing Appropriations)",
+    "existing": "A Disaster Resilience Fund of annual appropriations, a lump-sum Disaster Contingency Fund and a Rehabilitation and Recovery Fund, with unused balances treated as continuing appropriations.",
+    "consideration": "Disaster response and rehabilitation funds are program funds outside the estimate above.",
+    "recommendation": "The amounts of the contingency and rehabilitation funds may be determined in the annual GAA, with their release and use governed by its special and general provisions.",
+    "risks": "Lump-sum and continuing funds reduce the detail of budget authorization and accountability."
+   },
+   {
+    "item": "Position",
+    "provision": "Section 9 (The Undersecretaries); Section 10 (The Assistant Secretaries and Directors)",
+    "existing": "At least four undersecretaries; assistant secretaries and directors as determined in the staffing pattern; no salary grades stated.",
+    "consideration": "Key officials form part of the PS estimate above; the open number of undersecretaries makes the upper bound uncertain.",
+    "recommendation": "The number of undersecretaries should be fixed, and all positions be subject to the organization and staffing standards and the Compensation and Position Classification System.",
+    "risks": "An open-ended number of senior positions may raise personnel costs over time."
+   },
+   {
+    "item": "Support body",
+    "provision": "Section 13 (Regional Disaster Resilience Offices); Section 29 (National Disaster Operations Center)",
+    "existing": "A regional office in each administrative region, a national operations center, alternative command centers and a research and training institute within one year.",
+    "consideration": "Regional offices are part of the staffing assumed in the estimate; operations centers and the institute need capital outlays beyond the office equipment in the estimate.",
+    "recommendation": "The regional offices and centers may be established in phases, using the existing facilities and personnel of the OCD and the transferred bodies.",
+    "risks": "A one-year deadline for new centers may not match the budget cycle."
+   },
+   {
+    "item": "Personnel benefits",
+    "provision": "Section 90 (Magna Carta Benefits); Section 91 (Hazard Pay); Section 92 (Separation Benefits of Officials and Employees of Affected Agencies)",
+    "existing": "Magna Carta benefits and hazard pay for qualified personnel, and a separation plan of one and one-half months' salary for every year of service for displaced employees.",
+    "consideration": "These benefits are not included in the estimate above.",
+    "recommendation": "Coverage of Magna Carta benefits and hazard pay should follow existing laws and rules on eligibility, and separation benefits be aligned with existing rules for agencies affected by reorganization.",
+    "risks": "Extending benefits to all personnel may raise Personnel Services beyond the estimate."
+   },
+   {
+    "item": "Local funds",
+    "provision": "Section 73 (Local Disaster Resilience Fund and Local Disaster Contingency Fund)",
+    "existing": "LGUs set aside at least five percent of their local budget as a Local Disaster Resilience Fund, thirty percent of which is a contingency fund.",
+    "consideration": "Charged to LGU budgets; no national appropriation.",
+    "recommendation": "The provision may be reviewed with the LGRCB for consistency with existing rules on local disaster funds.",
+    "risks": "A mandatory set-aside reduces LGUs' flexibility in allocating their budgets."
+   }
+  ],
+  "duplications": [
+   {
+    "function": "Section 81 (Transfer of Functions)",
+    "existing": "Office of Civil Defense and the Department of National Defense, which keep functions on human-induced disasters",
+    "note": "Natural-disaster functions move to the Department while the OCD, the DND and other agencies keep human-induced disaster functions.",
+    "intent_to_abolish": true,
+    "assessment": "The bill abolishes the CCC and the NDRRMC and transfers their functions, consistent with the objectives of RA No. 12231; the functions that remain with the OCD should be delineated to avoid two disaster response systems."
+   }
+  ],
+  "intent_to_abolish": true,
+  "recommendation": {
+   "option": "b",
+   "label": "Interpose no objection, subject to amendments",
+   "issues": [
+    "Delineation of the Department's mandate from the functions that remain with the OCD and the DND",
+    "Express repeal or amendment of the laws affected",
+    "A fixed number of undersecretaries and a staffing pattern subject to DBM review",
+    "Phasing of regional offices and operations centers",
+    "Personnel benefits and separation benefits aligned with existing rules"
+   ]
+  },
+  "referrals": [
+   {
+    "bureau": "OPCCB",
+    "why": "Organizational structure and staffing pattern of the Department, the number of undersecretaries, Magna Carta benefits, hazard pay and separation benefits",
+    "parts": "Part V (Position; Personnel benefits)"
+   },
+   {
+    "bureau": "BTB",
+    "why": "The Disaster Resilience Fund, lump-sum contingency funds and continuing appropriations",
+    "parts": "Part V (Funding source)"
+   },
+   {
+    "bureau": "BMB-D",
+    "why": "The natural-disaster functions, funds and positions of the OCD under the DND that would move to the Department",
+    "parts": "Parts V and VI"
+   },
+   {
+    "bureau": "BMB-E",
+    "why": "The Climate Change Commission, abolished and transferred to the Department with its funds and positions",
+    "parts": "Part V"
+   },
+   {
+    "bureau": "BMB-B",
+    "why": "The natural-disaster response functions of the DSWD transferred to the Department",
+    "parts": "Part V"
+   },
+   {
+    "bureau": "LGRCB",
+    "why": "The Local Disaster Resilience Fund set aside from LGU budgets under Section 73",
+    "parts": "Part V (Local funds)"
+   },
+   {
+    "bureau": "SPIB",
+    "why": "Delineation of functions with the OCD and rationalization in light of RA No. 12231",
+    "parts": "Part VI"
+   },
+   {
+    "bureau": "FPRB",
+    "why": "The recurring cost of a new department in relation to the medium-term fiscal program",
+    "parts": "Part V"
+   },
+   {
+    "bureau": "LS",
+    "why": "The repeal of laws creating the CCC and the NDRRMC, exceptions to the procurement law, and penal provisions",
+    "parts": "Parts IV and VI"
+   }
+  ],
+  "memo": {
+   "V": [
+    "5.1 Based on the organization and staffing standards and existing rules on maintenance and capital outlays, the creation of the Department would require about P854.8 million to P3.28 billion in its first year for 552 to 1,896 positions, consisting of Personnel Services of P492.6 million to P2.08 billion, Maintenance and Other Operating Expenses of P218.0 million to P736.1 million, and Capital Outlay of P144.2 million to P461.3 million, which is a one-time requirement. Thereafter, about P710.6 million to P2.81 billion would be needed every year. Part of these requirements would be covered by the funds and positions of the bodies absorbed under Section 82 (Transfer of Resources). The estimate excludes disaster response and rehabilitation funds, Magna Carta benefits, hazard pay and separation benefits.",
+    "5.2 As regards the initial funding under Section 93 (Appropriations), the requirement may be charged to the appropriations of the absorbed and transferred bodies, as provided, and any additional requirement included in the succeeding GAA, subject to fiscal space. The amounts of the Disaster Contingency Fund and the Rehabilitation and Recovery Fund under Section 70 may be determined in the annual GAA, subject to its special and general provisions.",
+    "5.3 Section 9 provides for at least four undersecretaries without an upper limit. It may be noted that the number of senior positions should be fixed, and the organizational structure and staffing pattern of the Department, including its regional offices, be subject to the review and approval of this Department. The regional offices and the operations centers under Sections 13 and 29 may be established in phases, using the existing facilities and personnel of the transferred bodies.",
+    "5.4 The grant of Magna Carta benefits and hazard pay under Sections 90 and 91, and the separation plan under Section 92, should be aligned with existing laws and rules on eligibility and on the benefits of personnel affected by reorganization."
+   ],
+   "VI": [
+    "6.1 Section 81 (Transfer of Functions) of HB No. 9897 abolishes the Climate Change Commission and the NDRRMC and transfers their functions, together with the natural-disaster functions of the OCD and the DSWD, to the Department. This is consistent with the objectives of the Government Optimization Act (RA No. 12231), signed on August 4, 2025, which seeks to address unnecessarily overlapping or duplicating functions. However, the OCD and the DND would keep the management of human-induced disasters, so the functions that remain with them should be clearly delineated, as discussed in Part IV, to avoid two disaster preparedness and response systems."
+   ],
+   "VII": [
+    "7.1 This Department interposes no objection to the proposed measure, subject to the incorporation of the recommendations.",
+    "7.2 In particular, the following should be addressed: (a) the delineation of the Department's mandate from the functions that remain with the OCD and the DND; (b) the express identification of the laws amended or repealed; (c) a fixed number of undersecretaries and a staffing pattern subject to the review of this Department; (d) the phased establishment of regional offices and operations centers; and (e) personnel and separation benefits aligned with existing rules."
+   ]
+  },
+  "reviewer_checks": [
+   "Confirm the headcount assumed in the estimate against the personnel of the CCC, the OCD and the DSWD units to be transferred.",
+   "Confirm the budgets of the absorbed bodies that would offset the new requirement.",
+   "Confirm the choice of recommendation with the concerned bureaus, given the size of the recurring requirement."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "figures and lists",
+   "section": "",
+   "quote": "",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (ApprAIsal run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-17T14:50:50+00:00"
+ }
+}

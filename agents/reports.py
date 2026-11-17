@@ -209,7 +209,7 @@ def _local(bill_id=None):
 def all_reports(bill_id=None, force=False):
     """Newest first. Sheet records and any server-only copies, without duplicates."""
     remote = [r for r in _remote_rows(force) if (bill_id is None or r.get("bill") == bill_id)
-              and not str(r.get("category", "")).startswith(QUEUE_CATEGORY)]
+              and not str(r.get("category", "")).startswith("Workspace:")]
     seen = {r.get("id") for r in remote}
     rows = remote + [r for r in _local(bill_id) if r.get("id") not in seen]
     return sorted(rows, key=lambda r: str(r.get("time", "")), reverse=True)

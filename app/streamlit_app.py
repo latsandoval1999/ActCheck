@@ -211,6 +211,35 @@ def check_out():
     if "reviewer" in st.query_params:
         del st.query_params["reviewer"]
 
+@st.dialog("Welcome to ActCheck!", width="medium")
+def welcome_dialog():
+    """First visit: the visitor picks the view (public, or analyst with the Review workspace)."""
+    ui.html(f'<div class="ac-welcome"><img src="{ui.STATIC}/billy.png" alt="BILLy, ActCheck\'s guide">'
+            '<p>Hi, I\'m <b>BILLy</b>, your guide to ActCheck, an agentic AI system for Philippine legislative review.</p>'
+            '<p class="q">Are you a <b>Public Visitor</b> or an <b>Analyst</b>?</p></div>')
+    w1, w2 = st.columns(2)
+    with w1:
+        pub = st.button("Public Visitor", key="w_public", use_container_width=True)
+        st.caption("Civil society. Public view, with access to civil society reporting only.")
+    with w2:
+        ana = st.button("Analyst", key="w_analyst", type="primary", use_container_width=True)
+        st.caption("Reviewer. Government agency view, with access to the Review workspace.")
+    if pub or ana:
+        st.session_state["reviewer"] = bool(ana)
+        st.session_state["_goto"] = "Review workspace" if ana else "Overview"
+        if ana:
+            st.query_params["reviewer"] = "1"
+        else:
+            st.query_params["visitor"] = "1"
+            if "reviewer" in st.query_params:
+                del st.query_params["reviewer"]
+        st.rerun()
+
+
+if not st.session_state.get("_welcomed") and "reviewer" not in st.query_params and "visitor" not in st.query_params:
+    st.session_state["_welcomed"] = True
+    welcome_dialog()
+
 # When the page changes, hide what is left of the previous page while the new one loads (Streamlit otherwise
 # keeps it on screen, faded). Only on that run: within a page, content stays visible during refreshes.
 _switched = st.session_state.get("_last_page") != st.session_state["nav"]
@@ -555,6 +584,27 @@ def field_editor(key, fields, spec):
     return new if ok else None
 
 
+def step_head(bid, n, title, sub, state):
+    """Header of a step tile. A finished agent step folds up to its header; the reviewer opens it with Show."""
+    key = f"open_{bid}_{n}"
+    folded = state == "done" and n <= 3 and not st.session_state.get(key, False)
+    with st.container(key=f"stephead{n}"):
+        if state == "done" and n <= 3:
+            h1, h2 = st.columns([6, 1.1], vertical_alignment="center")
+            with h1:
+                ui.step_header(n, title, sub, state)
+            with h2:
+                st.button("Show ▾" if folded else "Fold ▴", key=f"fold_{bid}_{n}", use_container_width=True,
+                          on_click=lambda k=key, f=folded: st.session_state.__setitem__(k, f),
+                          help="Open the finished step" if folded else "Fold the finished step to reduce scrolling")
+            if folded:
+                ui.html('<div class="ac-fold-note">Checklist complete. Click <b>Show</b> to open this step again.</div>')
+        else:
+            ui.step_header(n, title, sub, state)
+    if folded:
+        ui.html(f"<style>.st-key-step{n} > div:not(:has(.st-key-stephead{n})){{display:none !important;}}</style>")
+
+
 def case(bid):
     from agents.diagnosis import report_markdown as p2_md, build_messages as p2_msgs, check_output as p2_check
     from agents.costing import cost_range, peso
@@ -601,9 +651,9 @@ def case(bid):
                   f"any bill; {AGENT3}'s cost estimate is designed for new agencies, so it may not apply here.", "navy")
 
     # Step 1: TrAIce
-    with st.container(border=True):
+    with st.container(border=True, key="step1"):
         from agents import traice
-        ui.step_header(1, AGENT1, "Trace the bill", "done" if d1 else "now")
+        step_head(bid, 1, AGENT1, "Trace the bill", "done" if d1 else "now")
         report_notice(bid, 1, f"Step 1 ({AGENT1}: legislative history)")
         ui.html('<div class="ac-step-d">Identifies what the bill proposes and why it matters for the budget, traces its legislative history, '
                 'groups the related bills and laws by how they relate, and lists its fiscal requirements. Its output becomes Parts II and III '
@@ -649,8 +699,8 @@ def case(bid):
     c_ai = (rec.get("compaire") or {}).get("output") or (c_saved or {}).get("output")
     c_checks = (rec.get("compaire") or {}).get("checks") if rec.get("compaire") else (c_saved or {}).get("checks")
     c_out = compaire.normalize(c_ai, bid, c_draft)
-    with st.container(border=True):
-        ui.step_header(2, AGENT2, "Spot the changes", "done" if d2 else ("now" if d1 else "lock"))
+    with st.container(border=True, key="step2"):
+        step_head(bid, 2, AGENT2, "Spot the changes", "done" if d2 else ("now" if d1 else "lock"))
         report_notice(bid, 2, f"Step 2 ({AGENT2}: changes and design)")
         ui.html('<div class="ac-step-d">Building on TrAIce\'s salient features, compares the bill\'s major provisions, section by section, with the '
                 'related measures that offer a real alternative, and recommends for each one whether to retain it, adapt an alternative '
@@ -691,8 +741,8 @@ def case(bid):
     a_ai = (rec.get("apprAIsal") or {}).get("output") or (a_saved or {}).get("output")
     a_checks = (rec.get("apprAIsal") or {}).get("checks") if rec.get("apprAIsal") else (a_saved or {}).get("checks")
     a_out = appraise.normalize(a_ai, bid, a_draft)
-    with st.container(border=True):
-        ui.step_header(3, AGENT3, "Weigh the impact", "done" if d3 else ("now" if d2 else "lock"))
+    with st.container(border=True, key="step3"):
+        step_head(bid, 3, AGENT3, "Weigh the impact", "done" if d3 else ("now" if d2 else "lock"))
         report_notice(bid, 3, f"Step 3 ({AGENT3}: cost, overlap or duplication, implementation or governance risk)")
         ui.html('<div class="ac-step-d">Estimates the budgetary requirements (Personnel Services, MOOE and Capital Outlay) and recommends how '
                 'they fit the budget and the GAA; assesses possible duplication with existing agencies under the Government Optimization '
@@ -1009,13 +1059,34 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             df = df[hay.str.contains(key, regex=False)]
         df = df.reset_index(drop=True)
         sig = (congress, btype, ttype, status, applies, ledac_only, fulltext, q)
+        # before any filter is used, the list starts with the bills ActCheck recommends for review first
+        recommended = sig == ("20th", "All", "All categories", "All statuses", "All", False, False, "") and not st.session_state.get("bills_all")
+        if recommended:
+            from pipeline import priority
+            counts = {}
+            for x in reports.all_reports():
+                counts[x.get("bill")] = counts.get(x.get("bill"), 0) + 1
+            df = priority.rank(cat, counts, 20)
+            r1, r2 = st.columns([4.2, 1], vertical_alignment="center")
+            r1.markdown('<div class="ac-kicker" style="margin:0">Recommended for review</div>'
+                        '<div class="ac-filed">Pending 20th Congress bills with full text, ranked by how soon they may move, '
+                        'strategic priority (LEDAC, FY 2027 Budget Priorities Framework), fiscal and organizational weight, likely '
+                        'consolidation and public reports. Bills with the same title appear once. Use any filter to see all bills.</div>',
+                        unsafe_allow_html=True)
+            r2.button("Show all bills", key="bills_show_all", on_click=lambda: st.session_state.__setitem__("bills_all", True),
+                      use_container_width=True)
+            with st.expander("How the ranking works"):
+                ui.table(["Factor", "Points"], [[escape(a), escape(b)] for a, b in priority.METHOD])
+                st.caption("A starting point for the reviewer's own judgement, computed by rules (no AI). It does not decide which bills DBM comments on.")
+        elif sig == ("20th", "All", "All categories", "All statuses", "All", False, False, ""):
+            st.button("← Back to the recommended bills", key="bills_show_rec", on_click=lambda: st.session_state.__setitem__("bills_all", False))
         if st.session_state.get("bills_sig") != sig:
             st.session_state["bills_sig"], st.session_state["bills_page"] = sig, 1
         per = st.session_state.get("bills_per", 20)
         pages = max(1, -(-len(df) // per))
         pg = min(st.session_state.get("bills_page", 1), pages)
         k1, k2 = st.columns([4, 1.1], vertical_alignment="bottom")
-        k1.caption(f"{len(df):,} bills match · page {pg} of {pages:,}")
+        k1.caption(f"{len(df):,} recommended bills" if recommended else f"{len(df):,} bills match · page {pg} of {pages:,}")
         k2.selectbox("Bills per page", [20, 30, 40, 50], key="bills_per")
         heads = ["Bill No.", "Title", "Bill type", "Status", "View bill", "Review"] + ([] if REVIEWER else ["Report"])
         widths = [1.0, 5.6, 1.0, 1.0, 0.8, 0.9] + ([] if REVIEWER else [0.9])
@@ -1035,6 +1106,8 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                               + (f' · Principal author: <b>{escape(r["author"])}</b>' if r.get("author") else "")
                               + (" · full text" if r["reviewable"] else "")
                               + (f' · <b style="color:#B3261E">LEDAC priority</b>' if r.get("ledac") else "") + "</div>", unsafe_allow_html=True)
+                if recommended and r.get("why"):
+                    c[1].markdown('<div class="ac-why"><b>Why review first:</b> ' + escape("; ".join(r["why"])) + "</div>", unsafe_allow_html=True)
                 c[2].markdown(r["bill_type"])
                 c[3].markdown(f'<span class="ac-badge {STATUS_COLOR.get(r["status_group"], "")}">{escape(r["status_group"])}</span>'
                               f'<div class="ac-filed" style="margin-top:.25rem"><b>{escape(r["status_sub"])}</b></div>', unsafe_allow_html=True)

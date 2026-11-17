@@ -427,7 +427,9 @@ def rule_draft(bid, pack, row=None, pctx=None, category=""):
     # 3. salient features (memo Part II): one opening sentence, then the major sections as a lettered list
     fq = fiscal(bid, b.get("facts") or {})
     if creates:
-        art = ("a " + members + "-member ") if members else ("the " if re.match(r"(Department|Office|Philippine|National)\b", entity or "") else "")
+        # a member count describes a commission or council; for a department or office it is usually another body's (e.g. an oversight committee)
+        collegial = bool(re.search(r"commission|council|board|committee", entity or "", re.I))
+        art = ("a " + members + "-member ") if members and collegial else ("the " if re.match(r"(Department|Office|Philippine|National)\b", entity or "") else "")
         opening = (f"{doc} seeks to establish {art}{entity}" + (f" with a {dur} mandate" if dur else "")
                    + (f" to {purpose}" if purpose else "") + ". Its salient features are as follows:")
     else:
