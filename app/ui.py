@@ -260,8 +260,8 @@ div[class*="st-key-repnote_"] button p{font-size:.92rem; text-align:left;}
 :is(.st-key-billgrid,.st-key-libgrid) [data-testid="stBaseButton-tertiary"]:hover p{color:var(--red); text-decoration:underline;}
 .ac-billno{font:700 .9rem var(--mono); color:var(--ink);}
 .ac-fulltext{padding:.2rem .4rem .1rem;}
-.ac-fulltext p{text-align:justify; text-justify:inter-word; hyphens:auto; line-height:1.7; margin:0 0 .9rem; font-size:.95rem; color:var(--ink);}
-.ac-fulltext p.item{padding-left:2.4rem; text-indent:-2.4rem;}
+.ac-fulltext p{text-align:justify; text-justify:inter-word; line-height:1.7; margin:0 0 .9rem; font-size:.95rem; color:var(--ink);}
+.ac-fulltext p.item{padding-left:2rem; text-indent:-2rem;}
 .ac-fulltext p:last-child{margin-bottom:.2rem;}
 .ac-filed{font-size:.75rem; color:var(--mute); margin-top:-.2rem;}
 .ac-view a{font-weight:700; font-size:.85rem; color:var(--red) !important; text-decoration:none;}
