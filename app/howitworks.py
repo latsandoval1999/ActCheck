@@ -46,8 +46,8 @@ def timeline():
     colors = ["#0B2545", "#13315C", "#D4A72C", "#B8322A", "#5B6B85", "#7A869A", "#1E6B47"]
 
     def bar(key):
-        return "".join(f'<div style="flex:{st_[key]} 0 0; background:{colors[i]}" title="{escape(st_[0])}: {st_[key]} working days">'
-                       f'{st_[key] if st_[key] >= 2 else ""}</div>' for i, st_ in enumerate(STAGES))
+        return "".join(f'<div style="flex:{st_[key]} 0 0; background:{colors[i]}" title="{escape(st_[0])}: {st_[key]} working day{'s' if st_[key] != 1 else ''}">'
+                       f'{st_[key]}</div>' for i, st_ in enumerate(STAGES))
     legend = "".join(f'<span><i style="background:{colors[i]}"></i>{escape(st_[0])}</span>' for i, st_ in enumerate(STAGES))
     ui.html(f'''<div class="ac-tl">
 <div class="ac-tl-row"><div class="ac-tl-lab"><b>Charter today</b><span>{total} working days</span></div>
