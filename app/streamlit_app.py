@@ -337,6 +337,33 @@ def report_notice(bid, step, where):
             reports_dialog(items, f"{where}: {n} public report{'s' if n > 1 else ''} on {bills[bid]['label']}")
 
 
+DOC_TYPE = {"law": "Law", "substitute": "Substitute bill", "committee_report": "Committee report", "reference": "Reference", "other": "Other"}
+
+
+def doc_type(b):
+    if b.get("kind") == "bill":
+        return {"HB": "House Bill", "SB": "Senate Bill"}.get(b.get("chamber"), "Bill")
+    return DOC_TYPE.get(b.get("kind"), str(b.get("kind", "")).replace("_", " ").capitalize())
+
+
+def doc_group(b):
+    f = b.get("family") or ""
+    return "New bills (daily check)" if f == "New measures (watcher)" else f
+
+
+@st.dialog("Full text", width="large")
+def doc_dialog(bid):
+    b = bills[bid]
+    st.markdown(f"### {escape(str(b.get('label', '')))}" + (f" · {b['congress']}th Congress" if b.get("congress") else ""))
+    ui.html(f'<div class="ac-billtitle">{escape(b.get("title") or "")}</div>')
+    st.caption(f"{doc_type(b)} · {b.get('n_sections') or 0} sections · "
+               + ("text recognized from a scanned PDF; check quotes against the original" if b.get("text_source") == "ocr" else "text read from the PDF")
+               + f" · group: {doc_group(b)}")
+    for s_ in secs.get(bid, []):
+        with st.expander(f"Sec. {s_['no']}. {s_['heading']}"):
+            st.write(s_["text"])
+
+
 @st.dialog("Bill details", width="large")
 def bill_dialog(row):
     st.markdown(f"### {escape(row['label'])} · {row['congress']}th Congress")
@@ -997,15 +1024,55 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             st.caption("Titles open the document at its official source, or a copy kept with ActCheck where no stable public link was found. "
                        "Internal DBM papers are not part of this library.")
         else:
-            lib = pd.DataFrame([{"Document": b.get("label"), "Congress": b.get("congress") or "", "Group": b.get("family"),
-                                 "Kind": str(b.get("kind", "")).replace("_", " "), "Sections": b.get("n_sections"),
-                                 "Text": "scanned (recognized)" if b.get("text_source") == "ocr" else "PDF text", "Title": b.get("title")}
-                                for b in bills.values()])
-            st.dataframe(lib, use_container_width=True, hide_index=True, height=320)
-            pick_id = st.selectbox("Read a document", sorted(bills), format_func=lambda x: f"{x} · {bills[x]['title'][:100]}")
-            for s_ in secs.get(pick_id, []):
-                with st.expander(f"Sec. {s_['no']}. {s_['heading']}"):
-                    st.write(s_["text"])
+            lib = sorted(bills.values(), key=lambda b: (-int(b.get("congress") or 0), str(b.get("label", ""))))
+            l1, l2, l3 = st.columns([2.4, 1.2, 1.4])
+            lq = l1.text_input("Search document number or title", key="lib_q", placeholder="e.g. HB 6789, water resources")
+            types = sorted({doc_type(b) for b in lib})
+            lt = l2.selectbox("Type", ["All types"] + types, key="lib_type")
+            grps = sorted({doc_group(b) for b in lib})
+            lg = l3.selectbox("Group", ["All groups"] + grps, key="lib_group")
+            if lq.strip():
+                ql = lq.strip().lower()
+                lib = [b for b in lib if ql in f"{b.get('label', '')} {b.get('title', '')} {b.get('id', '')}".lower()]
+            if lt != "All types":
+                lib = [b for b in lib if doc_type(b) == lt]
+            if lg != "All groups":
+                lib = [b for b in lib if doc_group(b) == lg]
+            sig = (lq, lt, lg)
+            if st.session_state.get("lib_sig") != sig:
+                st.session_state["lib_sig"], st.session_state["lib_page"] = sig, 1
+            per = st.session_state.get("lib_per", 20)
+            pages = max(1, -(-len(lib) // per))
+            pg = min(st.session_state.get("lib_page", 1), pages)
+            k1, k2 = st.columns([4, 1.1], vertical_alignment="bottom")
+            k1.caption(f"{len(lib):,} documents · page {pg} of {pages:,} · click a title to read it section by section")
+            k2.selectbox("Documents per page", [20, 30, 40, 50], key="lib_per")
+            heads = ["Document No.", "Title", "Type", "No. of sections", "Text type", "Group"]
+            widths = [1.15, 5.3, 1.0, 0.85, 1.05, 1.55]
+            ui.html('<div class="ac-thead" style="grid-template-columns:' + " ".join(f"{w}fr" for w in widths) + '">'
+                    + "".join(f"<span>{h}</span>" for h in heads) + "</div>")
+            with st.container(key="libgrid"):
+                for b in lib[(pg - 1) * per: pg * per]:
+                    c = st.columns(widths, vertical_alignment="center")
+                    c[0].markdown(f'<div class="ac-billno">{escape(str(b.get("label", "")))}</div>'
+                                  + (f'<div class="ac-filed">{b["congress"]}th Congress</div>' if b.get("congress") else ""), unsafe_allow_html=True)
+                    title = b.get("title") or "(title not found in the text)"
+                    for ch in "*_[]`#<>":
+                        title = title.replace(ch, "\\" + ch)
+                    if c[1].button(title, key=f"lt_{b['id']}", type="tertiary"):
+                        doc_dialog(b["id"])
+                    c[2].markdown(doc_type(b))
+                    c[3].markdown(f'<div class="ac-billno" style="font-weight:600">{b.get("n_sections") or 0}</div>', unsafe_allow_html=True)
+                    c[4].markdown("Scanned (recognized)" if b.get("text_source") == "ocr" else "PDF text")
+                    c[5].markdown(f'<div style="font-size:.85rem">{escape(doc_group(b))}</div>', unsafe_allow_html=True)
+            p1, p2, p3 = st.columns([1, 2, 1])
+            if p1.button("← Previous", disabled=pg <= 1, key="lib_prev"):
+                st.session_state["lib_page"] = pg - 1
+                st.rerun()
+            p2.markdown(f"<div style='text-align:center;padding-top:.4rem'>Page {pg} of {pages:,}</div>", unsafe_allow_html=True)
+            if p3.button("Next →", disabled=pg >= pages, key="lib_next", use_container_width=True):
+                st.session_state["lib_page"] = pg + 1
+                st.rerun()
 
     elif page == "Run log":
         ui.section("Run log", "Every agent run and daily check", "A record of each time an agent was run and each daily check, kept for transparency.")
