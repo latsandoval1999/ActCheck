@@ -217,6 +217,9 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-tbl.refs{table-layout:fixed;} .ac-tbl.refs th:nth-child(1){width:40%;} .ac-tbl.refs th:nth-child(2){width:20%;}
 .ac-tbl.refs th:nth-child(3){width:12%;} .ac-tbl.refs th:nth-child(4){width:28%;}
 .ac-tbl.refs a{color:var(--navy); font-weight:600;}
+.ac-tbl.src{table-layout:fixed;} .ac-tbl.src th:nth-child(1){width:38%;} .ac-tbl.src th:nth-child(2){width:44%;} .ac-tbl.src th:nth-child(3){width:18%;}
+.ac-tbl.src a{color:var(--navy); font-weight:600;}
+.ac-tbl.runs{table-layout:fixed;} .ac-tbl.runs th:nth-child(1){width:12%;} .ac-tbl.runs th:nth-child(2){width:50%;} .ac-tbl.runs th:nth-child(3){width:20%;} .ac-tbl.runs th:nth-child(4){width:18%;}
 a.ac-reflink{color:var(--navy) !important; font-weight:600; font-size:.88rem; text-decoration:underline;}
 .ac-refcell{font-size:.88rem; line-height:1.45;}
 /* Review References rows with a Read button: drawn like the other reference tables (white box, cell lines) */

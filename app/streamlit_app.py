@@ -1115,51 +1115,103 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                 st.rerun()
 
     elif page == "Run log":
-        ui.section("Run log", "Every agent run and daily check", "A record of each time an agent was run and each daily check, kept for transparency.")
-        rows = []
+        from datetime import datetime, timedelta, timezone
+
+        def manila(t, fmt="%d %b %Y, %I:%M %p"):
+            try:
+                d = datetime.fromisoformat(str(t).replace("Z", "+00:00"))
+                return (d.astimezone(timezone(timedelta(hours=8)))).strftime(fmt).lstrip("0")
+            except Exception:
+                return str(t)[:16]
+
+        # 1. Public reports
+        rep_all = reports.all_reports()
+        ui.section("Public reports", "Inputs shared by civil society and others from the Bills page",
+                   f"{len(rep_all)} report(s) received. Click a title to read the report"
+                   + ("." if REVIEWER else " (reviewers only; log in at the top right). Contact details are never shown publicly."))
+        widths = [1.0, 5.2, 2.2, 1.4]
+        ui.html('<div class="ac-thead" style="grid-template-columns:' + " ".join(f"{w}fr" for w in widths) + '">'
+                + "".join(f"<span>{h}</span>" for h in ["Bill No.", "Title", "Topic", "Received"]) + "</div>")
+        with st.container(key="libgrid"):
+            if not rep_all:
+                c = st.columns(widths, vertical_alignment="center")
+                c[0].markdown('<div class="ac-filed">—</div>', unsafe_allow_html=True)
+                c[1].markdown('<div class="ac-filed" style="font-size:.88rem">No public reports yet. Reports sent with the Report button '
+                              'on the Bills page will be listed here.</div>', unsafe_allow_html=True)
+            for k, x in enumerate(rep_all):
+                c = st.columns(widths, vertical_alignment="center")
+                c[0].markdown(f'<div class="ac-billno">{escape(x.get("label", ""))}</div>', unsafe_allow_html=True)
+                t = (x.get("title") or "(title not given)")
+                for ch in "*_[]`#<>":
+                    t = t.replace(ch, "\\" + ch)
+                if c[1].button(t, key=f"rl_rep_{k}", type="tertiary"):
+                    if REVIEWER:
+                        reports_dialog([x], f"{x.get('label', '')}: public report")
+                    else:
+                        st.toast("Reports are visible to reviewers only. Log in at the top right.")
+                cat_ = x.get("category", "")
+                c[2].markdown(f'<div style="font-size:.85rem">{escape(cat_.split(":", 1)[-1].strip() if ":" in cat_ else cat_)}</div>', unsafe_allow_html=True)
+                c[3].markdown(f'<div style="font-size:.85rem">{escape(manila(x.get("time", ""), "%d %b %Y"))}</div>', unsafe_allow_html=True)
+        if REVIEWER and not reports.remote_on():
+            st.caption("Reports are kept on this server only until the Google Sheet is connected (see the README: Public reports).")
+
+        # 2. Data sources and the daily check
+        runs = watch_state().get("runs", [])
+        last_run = manila(runs[-1]["time"]) if runs else "not yet run"
+        ui.section("Data sources and daily check", "Where ActCheck gets its bills, and when each source was last checked",
+                   f"The daily check runs every day at 9:00 AM (Manila) on GitHub's servers; latest run: {last_run}. "
+                   "A source that refuses automated visitors is never bypassed.")
+        roles = {
+            "House of Representatives: legislative documents page": "Official House list of bills (reference)",
+            "House of Representatives: documents server (bill PDFs)": "Daily check for newly filed House bills and their full text; catch-up of older bills",
+            "Senate: bill listing": "Senate bills, authors and status (refreshed every Monday)",
+            "BetterGov.PH Open Congress Data (dataset 4)": "Bill list, titles, status and authors, 18th to 20th Congress (daily)",
+            "BetterGov.PH Philippine Legal Documents Library (dataset 24)": "Republic Acts and their summaries, used for enacted status (every Monday)",
+        }
+        srcp = ROOT / "data" / "watch" / "sources.json"
+        srows = json.loads(srcp.read_text()) if srcp.exists() else []
+        ui.table(["Source", "Role in ActCheck", "Last checked"],
+                 [[f'<a href="{escape(r["url"])}" target="_blank">{escape(r["source"])}</a>', escape(roles.get(r["source"], r.get("role", ""))),
+                   escape(manila(r["time"], "%d %b %Y"))] for r in srows], cls="src")
+
+        # 3. Agent runs
+        order = {"TrAIce": 1, "CompAIre": 2, "AppraisAI (draft review)": 3, "AppraisAI (second-reviewer check)": 4,
+                 "AppraisAI (memo)": 5, "AppraisAI (letter)": 6}
+        names = {"p1": AGENT1, "p2": AGENT2}
+        agg = {}
         for f in sorted((ROOT / "logs").glob("*.jsonl")):
             for x in f.read_text().splitlines():
                 try:
                     d = json.loads(x)
                 except ValueError:
                     continue
-                meta = d.get("meta") if isinstance(d.get("meta"), dict) else {}
-                flat = {k: v for k, v in (d | meta).items()
-                        if k not in ("output", "user_prompt", "reply", "prompt", "checks", "meta") and not isinstance(v, (dict, list))}
-                if isinstance(d.get("checks"), list):
-                    flat["citations verified"] = f"{sum(1 for c in d['checks'] if c.get('check') == 'verified')}/{len(d['checks'])}"
-                rows.append(flat | {"log": f.name})
-        if rows:
-            st.dataframe(pd.DataFrame(rows), use_container_width=True, hide_index=True)
-        else:
-            st.caption("No agent runs logged yet in this deployment.")
-        rep_all = reports.all_reports()
-        ui.section("Public reports", "Inputs shared by civil society and others from the Bills page",
-                   f"{len(rep_all)} report(s) received. Stored in: {reports.storage_label()}. " + ("Contact details are shown to reviewers only." if REVIEWER else
-                   "Reports and contact details are visible to reviewers only."))
-        if REVIEWER and rep_all:
-            st.dataframe(pd.DataFrame([{"Received": x["time"][:16].replace("T", " "), "Bill": x["label"], "Category": x["category"],
-                                        "Message": x["message"], "Name": x.get("name", ""), "Email": x.get("email", ""),
-                                        "Contact": x.get("phone", ""), "Files": ", ".join(n for n, _ in reports.file_links(x)),
-                                        "Kept in": "Google Sheet" if x.get("_store") == "sheet" else "this server"} for x in rep_all]),
-                         use_container_width=True, hide_index=True)
-        srcp = ROOT / "data" / "watch" / "sources.json"
-        if srcp.exists():
-            ui.section("Data sources", "Result of the latest source check",
-                       "Checked by the daily job from GitHub's servers. A blocked source is reported, never bypassed.")
-            srows = json.loads(srcp.read_text())
-            ui.table(["Source", "Result", "Role", "Checked"],
-                     [[f'<a href="{escape(r["url"])}" target="_blank">{escape(r["source"])}</a>',
-                       f'<span class="ac-badge {"green" if r["status"] == "reachable" else "red"}">{escape(str(r.get("http") or ""))} {escape(r["status"])}</span>',
-                       escape(r["role"]), escape(r["time"][:16].replace("T", " ")) + " UTC"] for r in srows])
-        runs = watch_state().get("runs", [])
-        if runs:
-            ui.section("Daily check", "Runs of the daily check")
-            st.dataframe(pd.DataFrame(runs[::-1]), use_container_width=True, hide_index=True)
-        vl = ROOT / "docs" / "VERSION_LOG.md"
-        if vl.exists():
-            with st.expander("Version log"):
-                st.markdown(vl.read_text())
+                bid = d.get("target") or d.get("bill")
+                if not bid:
+                    continue
+                key = f.stem.split("_")[0]
+                if key in names:
+                    agent = names[key]
+                else:
+                    stp = str(d.get("step") or (d.get("meta") or {}).get("step") or "review")
+                    agent = {"review": "AppraisAI (draft review)", "redteam": "AppraisAI (second-reviewer check)",
+                             "memo": "AppraisAI (memo)", "letter": "AppraisAI (letter)"}.get(stp, "AppraisAI (draft review)")
+                a = agg.setdefault(bid, {"agent": agent, "time": ""})
+                if order.get(agent, 0) > order.get(a["agent"], 0):
+                    a["agent"] = agent
+                a["time"] = max(a["time"], str(d.get("time", "")))
+        ui.section("Agent runs", "Bills the agents have worked on",
+                   "The furthest step each bill has reached and when an agent last ran on it.")
+        ui.table(["Bill No.", "Title", "Ran up to", "Last run"],
+                 [[f'<b>{escape(bills[b]["label"] if b in bills else b)}</b>', escape((bills.get(b) or {}).get("title", "")),
+                   escape(v["agent"]), escape(manila(v["time"]))]
+                  for b, v in sorted(agg.items(), key=lambda kv: kv[1]["time"], reverse=True)]
+                 or [["—", "No agent runs yet.", "", ""]], cls="runs")
+
+        # 4. Portfolio and project log
+        pl = ROOT / "docs" / "PROJECT_LOG.md"
+        if pl.exists():
+            with st.expander("Agentic AI Portfolio and Project Log"):
+                st.markdown(pl.read_text().split("\n", 1)[1])
 
     else:
         import howitworks

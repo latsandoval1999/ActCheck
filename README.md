@@ -145,3 +145,14 @@ daily catch-up added the FY 2027 General Appropriations Bill (25 MB of text). Si
   would go over budget, the daily job stops before committing, so the live site is never pushed over the limit.
 
 Any new feature that loads data should be checked with `python scripts/memory_check.py`.
+
+## Public reports: connecting the Google Sheet
+
+Reports sent with the Report button are kept in the Google Sheet "ActCheck Public Reports (database)" (folder
+"ActCheck Public Reports" in the owner's Google Drive) once it is connected; until then they stay on the server and
+are lost when the app restarts.
+1. Open the sheet → Extensions → Apps Script; paste `scripts/reports_apps_script.gs`; Save.
+2. Choose `setup` → Run → allow the permissions (Advanced → Go to… if Google warns the script is unverified); copy
+   the token from the execution log.
+3. Deploy → New deployment → Web app; Execute as: Me; Who has access: Anyone; copy the web app URL.
+4. Streamlit Cloud → app → Settings → Secrets: add `REPORTS_WEBAPP_URL = "…"` and `REPORTS_TOKEN = "…"`.

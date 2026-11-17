@@ -39,8 +39,9 @@ GUIDE = [
     ("What is the Library?", "The Library has two parts. Review References lists the documents ActCheck relies on (budget, audit, policy, "
      "governance and legal references) with their date, purpose and a link. Full Text of Bills holds the bills, committee reports and "
      "laws ActCheck has read, divided into sections so every finding can point to an exact provision."),
-    ("What is the Run log?", "The Run log records each agent run (model, time, citations verified), each daily check (bills found, sources "
-     "that failed), the data-source checks, reviewers' problem reports and the version log. It is the audit trail of what the AI did."),
+    ("What is the Run log?", "The Run log has four parts: public reports sent from the Bills page (reviewers can open each one); the "
+     "data sources with their role and when the daily check last checked them; the bills the agents have worked on, how far each "
+     "has gone and when it was last run; and the Agentic AI Portfolio and Project Log of the major versions of ActCheck."),
     ("What are bill types?", "Each bill gets a scope (general or public, local application, or private or named grantee) and one of 18 "
      "content categories from rules on its title. 'Other or unclassified' holds titles no rule matches, such as bills on sports, "
      "culture, or science that use none of the key words; the analyst confirms the type during review."),
