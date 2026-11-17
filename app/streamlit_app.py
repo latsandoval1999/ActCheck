@@ -624,7 +624,7 @@ def case(bid):
         gr = traice.grade(bid, t_out, ai_checks if ai_out else None)
         note = (f'<div class="ac-grade g{gr["grade"]}"><div class="gh"><span class="gl">{gr["grade"]}</span>'
                 f'<b>Evidence grade of this TrAIce output: {gr["label"]}</b> · {gr["points"]} of {gr["of"]} points</div>'
-                f'<div class="gw">{escape("; ".join(gr["reasons"]))}.</div>'
+                f'<div class="gw">{escape((lambda t: t[:1].upper() + t[1:])("; ".join(gr["reasons"])))}.</div>'
                 '<div class="gs">Scale: A Strong (7–8) · B Moderate (5–6) · C Limited (3–4) · D Weak (0–2). Two points each for how the bill text was read, '
                 'how the findings were prepared and verified, how much of the related-measure mapping rests on full texts, and how few points remain to confirm. '
                 'Grade B or lower: verify the flagged items against the House or Senate record or the bill PDF before ticking.</div></div>')
