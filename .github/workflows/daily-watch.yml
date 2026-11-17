@@ -45,6 +45,11 @@ jobs:
         run: |
           python -m pipeline.build_corpus
           python -m pipeline.bill_meta
+      - name: Filing dates from the receiving stamp (new bills; a small batch each day)
+        continue-on-error: true
+        run: |
+          pip install -q pillow
+          python -m pipeline.stamp_dates --limit 60 --minutes 20
       - name: TrAIce triage of new entity bills (only if an API key secret is set)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

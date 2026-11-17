@@ -1,0 +1,48 @@
+name: stamp-dates
+# Reads filing dates from the House receiving stamp on page 1 of bills that have no date (or a date out of filing
+# order). Run by hand; the daily check also runs a small batch each day for new bills.
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Most PDFs to download and read"
+        default: "800"
+      retry:
+        description: "Try again the bills marked unclear (yes/no)"
+        default: "no"
+
+permissions:
+  contents: write
+
+jobs:
+  stamps:
+    runs-on: ubuntu-latest
+    timeout-minutes: 175
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install tools
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr
+          pip install pandas pyarrow scikit-learn pillow
+      - name: Read the receiving stamps
+        run: |
+          python -m pipeline.stamp_dates --limit "${{ github.event.inputs.limit }}" --minutes 150 --crops /tmp/crops \
+            $([ "${{ github.event.inputs.retry }}" = "yes" ] && echo --retry)
+      - name: Keep images of stamps that could not be read (for a person to check)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: unread-stamps
+          path: /tmp/crops
+          if-no-files-found: ignore
+          retention-days: 14
+      - name: Commit results
+        run: |
+          git config user.name "bill-watch-bot"
+          git config user.email "bill-watch-bot@users.noreply.github.com"
+          git add data/processed/stamp_dates.csv
+          git diff --cached --quiet || git commit -m "Filing dates from receiving stamps $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do git pull --rebase -X theirs origin main && git push && break; sleep 10; done

@@ -201,7 +201,7 @@ def classify(status, congress):
 
 
 @lru_cache(maxsize=1)
-def build(_stamp=None):
+def build(_stamp=None, stamps=True):
     """Return a list of dicts, newest Congress and highest number first."""
     from pipeline.compare import load
     corpus, _ = load()
@@ -241,6 +241,11 @@ def build(_stamp=None):
     if mp.exists():
         with open(mp, newline="", encoding="utf-8") as f:
             meta = {r["id"]: r for r in csv.DictReader(f)}
+    sdates = {}
+    sp = PROC / "stamp_dates.csv"
+    if stamps and sp.exists():
+        with open(sp, newline="", encoding="utf-8") as f:
+            sdates = {r["id"]: r for r in csv.DictReader(f)}
     out = []
     for b in bills.values():
         m = meta.get(b["id"], {})
@@ -248,6 +253,10 @@ def build(_stamp=None):
             b["date_filed"], b["date_from_pdf"] = m["date_filed"], True
         if not b.get("author") and m.get("author"):
             b["author"] = m["author"]
+        sd = sdates.get(b["id"]) if stamps else None
+        b["date_basis"] = b.get("source", "bill list") if b.get("date_filed") and not b.get("date_from_pdf") else ("page 1 of the bill PDF" if b.get("date_filed") else "")
+        if sd and (not b.get("date_filed") or b.get("date_from_pdf")):
+            b["date_filed"], b["date_basis"] = sd["date_filed"], sd["basis"]
         title = b.get("title", "")
         num = b.get("number", 0)
         b["source_url"] = senate_link(b.get("source_url", ""))
@@ -263,7 +272,7 @@ def build(_stamp=None):
         out.append({
             "id": b["id"], "label": f"{'HB' if b.get('chamber') == 'HB' else 'SB'} {num}",
             "chamber": CHAMBER.get(b.get("chamber"), b.get("chamber", "")), "congress": str(b.get("congress", "")),
-            "number": num, "date_filed": nice_date(b.get("date_filed", "")), "short_title": b.get("short_title", ""), "title": title,
+            "number": num, "date_filed": nice_date(b.get("date_filed", "")), "date_basis": b.get("date_basis", ""), "short_title": b.get("short_title", ""), "title": title,
             "status": status, "status_basis": status_basis,
             "status_group": classify(status, b.get("congress"))[0], "status_sub": classify(status, b.get("congress"))[1], "type": cat, "applies_to": app, "house_origin": typology.house_origin(cat, app),
             "bill_type": "House Bill" if b.get("chamber") == "HB" else "Senate Bill", "committee": b.get("committee", ""), "author": author_with_title(b.get("author", ""), b.get("chamber")),
@@ -278,6 +287,6 @@ def build(_stamp=None):
 def stamp():
     """Changes when any source file changes, so the portal can refresh its cached list."""
     files = [PROC / "bill_index.csv.gz", PROC / "bills.jsonl", ROOT / "data" / "watch" / "inbox.json", PROC / "ra_origin_bills.csv",
-             PROC / "bill_meta.csv",
+             PROC / "bill_meta.csv", PROC / "stamp_dates.csv",
              *PROC.glob("senate_listing_*.csv")]
     return tuple(int(f.stat().st_mtime) for f in files if f.exists())
