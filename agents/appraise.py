@@ -52,7 +52,7 @@ for _code, _b in COVERAGE["bureaus"].items():
     if _code.startswith("BMB-"):
         BUREAUS[_code] = (f"Budget and Management Bureau-{_code[-1]}",
                           "Reviews the medium-term expenditures and budget allocations of its coverage agencies ("
-                          + ", ".join(a[1] or a[0] for a in _b["agencies"][:6]) + (", and others)" if len(_b["agencies"]) > 6 else ")"))
+                          + ", ".join(a[1] or a[0].replace(" of the Philippines", "") for a in _b["agencies"][:6]) + (", and others)" if len(_b["agencies"]) > 6 else ")"))
 BUREAUS["LGRCB"] = (BUREAUS["LGRCB"][0], BUREAUS["LGRCB"][1] + " (coverage: National Tax Allotment and allocations to LGUs)")
 EMAIL = {c: b["email"] for c, b in COVERAGE["bureaus"].items()}
 
