@@ -38,6 +38,7 @@ from pipeline import catalogue, typology, policy  # noqa: E402
 from pipeline.compare import load, related_bills  # noqa: E402
 import render  # noqa: E402
 import ui  # noqa: E402
+import fulltext  # noqa: E402
 from icons import svg  # noqa: E402
 
 SUBHEADING = "An Agentic AI System for Philippine Legislative Review"
@@ -360,9 +361,11 @@ def doc_dialog(bid):
     st.caption(f"{doc_type(b)} · {b.get('n_sections') or 0} sections · "
                + ("text recognized from a scanned PDF; check quotes against the original" if b.get("text_source") == "ocr" else "text read from the PDF")
                + f" · group: {doc_group(b)}")
-    for s_ in secs.get(bid, []):
+    ss = secs.get(bid, [])
+    for i, s_ in enumerate(ss):
         with st.expander(f"Sec. {s_['no']}. {s_['heading']}"):
-            st.write(s_["text"])
+            nxt = ss[i + 1]["text"] if i + 1 < len(ss) else ""
+            ui.html(fulltext.html(fulltext.section_paragraphs(b.get("file", ""), s_["text"], nxt)))
 
 
 @st.dialog("Bill details", width="large")
