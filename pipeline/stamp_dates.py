@@ -98,6 +98,35 @@ def _iter(text):
         yield m.group(2), m.group(1)[:3], m.group(3), m.group(0)
 
 
+LOOSE = re.compile(r"(?:DATE|PATE|DATED|PARE|DAT|OATE)[\W_]{0,4}([0-9OoIl|SsZB%§?]{1,2})(?:[\W_]{0,3}([A-Za-z0-9|()]{2,4}))?"
+                   r"(?:[\W_]{0,3}([0-9OoIl|Zz%§?]{2,4}))?", re.I)
+
+
+def loose(text, congress):
+    """Fallback for smudged stamps: the day after the word DATE, with whatever of the month and year can be read.
+    Every reading is partial (quality 0), so it is only accepted when the filing order leaves a single date."""
+    lo, hi = CONGRESS_DATES.get(congress, (date(2000, 1, 1), date(2100, 1, 1)))
+    out = []
+    for m in LOOSE.finditer(text):
+        d = _digits(m.group(1))
+        if not d or "?" in d or not (1 <= int(d) <= 31):
+            continue
+        mo_tok = (m.group(2) or "").upper()
+        mo, _ = _month(mo_tok) if mo_tok else (None, False)
+        months = [mo] if mo else sorted({i + 1 for i, x in enumerate(MONTHS) if mo_tok[:2] and x.startswith(mo_tok[:2])}) or list(range(1, 13))
+        y = _digits(m.group(3) or "") or ""
+        years = [int(y)] if len(y) == 4 and "?" not in y and lo.year <= int(y) <= hi.year else list(range(lo.year, hi.year + 1))
+        for mm in months:
+            for yy in years:
+                try:
+                    dt = date(yy, mm, int(d))
+                except ValueError:
+                    continue
+                if lo <= dt <= hi:
+                    out.append((dt, -1, m.group(0)))       # day read; month or year completed from the order
+    return out
+
+
 def candidates(text, congress):
     """Every (date, quality, raw) the text could mean. quality 2 = read exactly; 1 = one letter or digit of the
     month or year misread (e.g. 'CT' for OCT, '2075' for 2025); 0 = a smudged digit, filled with every value that
@@ -149,13 +178,20 @@ def stamp_zone(text):
 def decide(cands, lo, hi):
     """lo/hi: dates of the nearest bills numbered before and after (None if unknown)."""
     fits = lambda dt: (lo is None or dt >= lo - SLACK) and (hi is None or dt <= hi + SLACK)
+    from collections import Counter
     for q in (2, 1):
-        got = {dt for dt, qq, _ in cands if qq == q and fits(dt)}
-        if len(got) == 1:
-            return next(iter(got)), "receiving stamp"
-        if len(got) > 1:
-            return None, ""                                  # two different clean readings: leave it to a person
+        votes = Counter(dt for dt, qq, _ in cands if qq == q and fits(dt))
+        if len(votes) == 1:
+            return next(iter(votes)), "receiving stamp"
+        if len(votes) > 1:                                   # several image versions disagree: a clear majority wins
+            (top, n1), (_, n2) = votes.most_common(2)
+            if n1 >= 2 * n2 and n1 >= 2:
+                return top, "receiving stamp"
+            return None, ""                                  # otherwise leave it to a person
     partial = {dt for dt, qq, _ in cands if qq == 0 and lo and hi and lo <= dt <= hi}
+    if not partial:                                          # only the day was legible: allow one day either side
+        one = timedelta(days=1)
+        partial = {dt for dt, qq, _ in cands if qq == -1 and lo and hi and lo - one <= dt <= hi + one}
     if len(partial) == 1 and lo and hi:
         return next(iter(partial)), "receiving stamp, partly legible; completed from the filing order"
     return None, ""
@@ -292,7 +328,8 @@ def main():
         c, n = int(r["congress"]), r["number"]
         lo, hi = bounds.get(r["id"], (None, None))
         text = load_text(c, n)
-        dt, basis = decide(candidates(stamp_zone(text), c), lo, hi) if text else (None, "")
+        z = stamp_zone(text) if text else ""
+        dt, basis = decide(candidates(z, c) + loose(z, c), lo, hi) if text else (None, "")
         how = "text"
         if not dt and not must:
             continue                                        # the date already shown fits the filing order
@@ -312,7 +349,7 @@ def main():
                     crop.parent.mkdir(parents=True, exist_ok=True)
                 cands = []
                 for t in ocr_page1(pdf, crop):
-                    cands += candidates(t, c)
+                    cands += candidates(t, c) + loose(t, c)
                     if os.environ.get("STAMP_DEBUG"):
                         hits = [ln for ln in t.splitlines() if re.search(r"DATE|RECEIV|NOV|OCT|SEP|AUG|DEC|JAN|FEB|MAR|20[0-9%]{2}", ln, re.I)]
                         print(f"    {r['label']} ocr: {' | '.join(hits)[:300]}")
