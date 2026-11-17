@@ -48,6 +48,7 @@ DESCRIPTION = ("A tool to aid government analysts to trace a bill's history, see
 LABEL = "AI-assisted preliminary draft for DBM reviewer validation. Not an official position."
 PILOT = "Creates a national agency (pilot)"
 STATUS_COLOR = {"PENDING": "gold", "ENACTED": "green", "CONSOLIDATED/SUBSTITUTED": "navy", "NOT ENACTED": "red"}
+APP_URL = "https://act-check.streamlit.app"      # the hosted portal (links that open in a new window)
 ALL_PAGES = ["Overview", "Bills", "Review workspace", "How it Works", "Library", "Run log"]
 PUBLIC_PAGES = [p for p in ALL_PAGES if p != "Review workspace"]
 STEPS = ["Trace", "Compare", "Weigh", "Comments & report", "Memo & letter"]
@@ -154,6 +155,13 @@ PAGES = ALL_PAGES if REVIEWER else PUBLIC_PAGES
 qp_page = st.query_params.get("page")
 if qp_page == "Home":
     qp_page = "Overview"
+# a link from the Review workspace: open the Library on Full Text of Bills with this document's text
+qp_doc = st.query_params.get("doc")
+if qp_doc:
+    if qp_doc in bills:
+        st.session_state["lib_view"], st.session_state["open_doc"] = "bills", qp_doc
+        qp_page = "Library"
+    del st.query_params["doc"]
 if qp_page in PAGES:
     st.session_state["_goto"] = qp_page
     del st.query_params["page"]
@@ -524,6 +532,15 @@ def case(bid):
     ui.badges([(row.get("bill_type"), "navy"), (row.get("type"), "gold"), (row.get("applies_to"), ""), (row.get("status"), ""),
                (house_note(row), "red"), (("LEDAC priority: " + row["ledac"]) if row.get("ledac") else "", "red")])
     ui.html(f'<div class="ac-billtitle">{escape(b["title"])}</div>')
+    src = row.get("source_url") or b.get("source_url") or ""
+    has_text = bool(secs.get(bid, []))
+    if src or has_text:
+        o1, o2, _ = st.columns([1, 1.25, 4.5])
+        if src:
+            o1.link_button("📄 PDF", src, help="Open the source document in a new window", use_container_width=True)
+        if has_text:
+            o2.link_button("📖 Full Text", f"{APP_URL}/?page=Library&doc={bid}",
+                           help="Open the text ActCheck has, section by section, in the Library (new window)", use_container_width=True)
     pctx = policy.context({"title": b["title"], "congress": b["congress"]})
     if pctx["ledac"] or pctx["bpf_2027_priority_areas"]:
         bits = []
@@ -1113,6 +1130,8 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             if p3.button("Next →", disabled=pg >= pages, key="lib_next", use_container_width=True):
                 st.session_state["lib_page"] = pg + 1
                 st.rerun()
+            if st.session_state.get("open_doc") in bills:
+                doc_dialog(st.session_state.pop("open_doc"))
 
     elif page == "Run log":
         from datetime import datetime, timedelta, timezone
