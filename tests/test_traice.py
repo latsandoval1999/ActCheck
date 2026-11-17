@@ -28,3 +28,12 @@ def test_normalize_maps_old_labels():
                             "gaps": ["Not in the evidence pack", "Check the committee report"]}, "HB-20-2322", d)
     assert out["related"][0]["relationship"] == "Senate version"
     assert "Check the committee report" in out["reviewer_checks"] and not any("pack" in c for c in out["reviewer_checks"])
+
+
+def test_altered_figure_in_quote_is_caught():
+    """Red-team case (17 Nov 2026): a quote with a changed amount used to pass the fuzzy match."""
+    from agents.verify import quote_found
+    from pipeline.compare import load
+    t = next(x for x in load()[1]["RA-8435"] if x["no"] == 116)["text"]
+    assert quote_found("an initial amount of Twenty million pesos (P20,000,000.00) is hereby appropriated", t)
+    assert not quote_found("an initial amount of Fifty million pesos (P50,000,000.00) is hereby appropriated", t)

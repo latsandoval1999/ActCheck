@@ -35,11 +35,11 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 /* masthead + navigation */
 .ac-mast{display:flex; align-items:center; justify-content:space-between; gap:1rem; background:var(--ink-dark);
   margin:-1rem calc(-1 * var(--pad)) 0; padding:.85rem var(--pad) .75rem; border-radius:0;}
-.ac-brand{display:flex; align-items:center; gap:.7rem; text-decoration:none;}
+.ac-brand{display:flex; align-items:center; gap:.45rem; text-decoration:none;}
 .ac-brand img{height:38px;}
 .ac-word{font:900 1.55rem/1 var(--serif); color:#fff; letter-spacing:.005em;}
 .ac-word span{color:var(--gold);}
-.ac-sub{font-size:.78rem; color:#BDB8AC; margin-top:.15rem; font-weight:500;}
+.ac-sub{font-size:.78rem; color:#fff; margin-top:.15rem; font-weight:500;}
 .ac-mast-right{font:600 .72rem var(--mono); color:#BDB8AC; text-align:right; text-transform:uppercase; letter-spacing:.06em;}
 .ac-brand, .ac-brand *{text-decoration:none !important;}
 /* the masthead and tab bar stay on screen while scrolling */
@@ -293,6 +293,12 @@ div[class*="st-key-repnote_"] button p{font-size:.92rem; text-align:left;}
 .ac-progress{display:flex; gap:0; margin:.5rem 0 1rem; border:1px solid var(--line); border-radius:4px; overflow:hidden; background:var(--card);}
 .ac-progress div{flex:1; padding:.48rem .4rem; text-align:center; font-size:.78rem; font-weight:700; color:var(--mute); border-right:1px solid var(--line);}
 .ac-progress div:last-child{border-right:none;}
+.ac-dock{position:fixed; bottom:10px; left:50%; transform:translateX(-50%); width:min(820px, calc(100vw - 380px)); z-index:999990;
+  background:var(--card); border:1px solid var(--line); border-radius:8px; box-shadow:0 6px 24px rgba(10,20,40,.18); padding:.35rem .5rem .1rem;}
+.ac-dock .ac-progress{margin:.2rem 0 .3rem;} .ac-dock-l{font:800 .64rem var(--sans); letter-spacing:.08em; text-transform:uppercase; color:var(--mute); padding:0 .2rem;}
+section.main .block-container, [data-testid="stMainBlockContainer"]{padding-bottom:6rem;}
+[class*="st-key-qx_"] button{min-height:0; padding:0 .45rem; line-height:1.4; border:none; background:transparent; color:var(--mute); font-size:.95rem; float:right;}
+[class*="st-key-qx_"] button:hover{color:var(--red); background:#F8E9E6;}
 .ac-progress .done{background:var(--green-soft); color:var(--green);} .ac-progress .now{background:var(--navy); color:#fff;}
 .ac-out p, .ac-out li, .ac-out td{text-align:justify;}
 .ac-out{font-size:.94rem;}
@@ -301,7 +307,7 @@ div[class*="st-key-repnote_"] button p{font-size:.92rem; text-align:left;}
   border-bottom:2px solid var(--ink); padding:.45rem .5rem;}
 .ac-tbl td{border-bottom:1px solid var(--line2); padding:.5rem .5rem; vertical-align:top; line-height:1.45;}
 .ac-tbl td.m{font:700 .82rem var(--mono); white-space:nowrap;}
-.ac-sub{font:800 .74rem var(--sans); letter-spacing:.08em; text-transform:uppercase; color:var(--navy); margin:1rem 0 .3rem;
+.ac-sec{font:800 .74rem var(--sans); letter-spacing:.08em; text-transform:uppercase; color:var(--navy); margin:1rem 0 .3rem;
   padding-bottom:.2rem; border-bottom:1px solid var(--line2);}
 .ac-tbl.grp{table-layout:fixed;} .ac-tbl.grp th:nth-child(1){width:21%;} .ac-tbl.grp th:nth-child(2){width:47%;} .ac-tbl.grp th:nth-child(3){width:32%;}
 .ac-tbl.grp td.grp{background:#F7F5EF; border-right:1px solid var(--line2);} .ac-tbl.grp td.grp .n{font-size:.72rem; color:var(--mute); margin-top:.3rem;}
@@ -309,6 +315,8 @@ div[class*="st-key-repnote_"] button p{font-size:.92rem; text-align:left;}
 .ac-tbl.fisc{table-layout:fixed;} .ac-tbl.fisc th:nth-child(1){width:20%;} .ac-tbl.fisc th:nth-child(2){width:50%;} .ac-tbl.fisc th:nth-child(3){width:30%;}
 .ac-memo{font-family:Tahoma,Verdana,sans-serif; font-size:.88rem; background:#fff; border:1px solid #D8D3C7; padding:1rem 1.3rem; margin:.3rem 0 .6rem;}
 .ac-subchk{margin:-.35rem 0 .5rem 2.1rem; font-size:.8rem; color:var(--mute);} .ac-subchk li{margin:.1rem 0;}
+.ac-ltr{list-style:none; margin:0 0 .5rem 1.4rem; padding:0;} .ac-ltr li{text-align:justify; margin:0 0 .35rem 1.4rem; text-indent:-1.4rem;} .ac-ltr .ltr{display:inline-block; width:1.4rem; text-indent:0;}
+.ac-check-h.sc{text-transform:none; letter-spacing:.01em; font-size:.98rem;} .ac-check-h .tr{color:#1F5FAD;}
 .ac-memo h6{font:700 .9rem Tahoma,Verdana,sans-serif; margin:.5rem 0 .25rem;} .ac-memo p{text-align:justify; margin:0 0 .5rem 1.4rem;}
 .ac-check{background:var(--gold-soft); border:1px solid #E8D79F; border-radius:6px; padding:.7rem .95rem .3rem; margin-top:.7rem;}
 .ac-check-h{font:800 .74rem var(--sans); letter-spacing:.09em; text-transform:uppercase; color:#7A5A00; margin-bottom:.3rem;}
@@ -365,6 +373,7 @@ div[class*="st-key-repnote_"] button p{font-size:.92rem; text-align:left;}
   .ac-flow2{grid-template-columns:1fr; gap:1.6rem;} .ac-fcard:not(:last-child)::after{right:auto; left:50%; top:auto; bottom:-1.45rem; transform:translateX(-50%) rotate(90deg);}
   .ac-bar{grid-template-columns:1fr 70px;} .ac-bar .t{grid-column:1 / -1; grid-row:2;}
   .ac-mast-right{display:none;} .ac-progress{flex-wrap:wrap;} .ac-progress div{flex:1 1 30%;}
+  .ac-dock{width:calc(100vw - 24px); bottom:4px;} .ac-dock .ac-progress div{font-size:.66rem; padding:.3rem .2rem;}
 }
 </style>
 """
@@ -476,6 +485,13 @@ def progress(names, states):
     """states: list of 'done' / 'now' / ''."""
     html('<div class="ac-progress">' + "".join(f'<div class="{s}">{"✓ " if s == "done" else ""}{escape(n)}</div>'
                                                 for n, s in zip(names, states)) + "</div>")
+
+
+def progress_dock(label, names, states):
+    """The same progress bar, fixed at the bottom of the screen so it stays in view while scrolling."""
+    n = sum(1 for x in states if x == "done")
+    html(f'<div class="ac-dock"><div class="ac-dock-l">{escape(label)} · {n} of {len(names)} steps done</div><div class="ac-progress">'
+         + "".join(f'<div class="{s_}">{"✓ " if s_ == "done" else ""}{escape(x)}</div>' for x, s_ in zip(names, states)) + "</div></div>")
 
 
 def step_header(n, title, sub, state):

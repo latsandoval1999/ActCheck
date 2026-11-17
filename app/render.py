@@ -3,6 +3,7 @@
 Lead with the finding, keep tables short (one line per row), and put the evidence quotes in an
 expander so nothing is lost but the page stays readable.
 """
+import re
 from html import escape
 
 import pandas as pd
@@ -85,18 +86,18 @@ def trace(bid, out, checks=None):
     else:
         ui.badges([("Prepared by TrAIce (Claude)", "navy")]
                   + ([(f"{ok} of {len(checks)} cited sections verified against the text", "green" if ok == len(checks) else "red")] if checks else []))
-    ui.html('<div class="ac-sub">Policy context</div>'
+    ui.html('<div class="ac-sec">Policy context</div>'
             f'<div class="ac-out"><p>{escape(out.get("proposal", ""))}</p><p>{escape(out.get("alignment", ""))}</p></div>')
     hist = out.get("legislative_history") or []
     if hist:
-        ui.html('<div class="ac-sub">Legislative history</div><div class="ac-out"><ul>'
+        ui.html('<div class="ac-sec">Legislative history</div><div class="ac-out"><ul>'
                 + "".join(f"<li>{escape(h)}</li>" for h in hist) + "</ul></div>")
-    rel = [r for r in out.get("related", []) if r.get("id") != bid]
+    rel = [r for r in out.get("related", []) if r.get("id") != bid and r.get("relationship") != traice.LABELS[6]]
     if rel:
         order = {lab: i for i, lab in enumerate(traice.LABELS + ["Senate version", "House version"])}
         order["Senate version"] = order["House version"] = traice.ORDER[traice.LABELS[3]]
         rel = sorted(rel, key=lambda r: (order.get(r.get("relationship"), 9), r.get("id", "")))
-        ui.html('<div class="ac-sub">Related Bills</div>')
+        ui.html('<div class="ac-sec">Related Bills</div>')
         _grouped([{"g": r.get("relationship") or "Not classified",
                    "cells": [_name_title(r.get("id"), r.get("title")), escape(short(r.get("basis"), 220))]} for r in rel],
                  "g", ["Relationship", "Bill number and title", "Why"], "relb")
@@ -104,18 +105,38 @@ def trace(bid, out, checks=None):
     if laws:
         lo = {lab: i for i, lab in enumerate(traice.LAW_LABELS)}
         laws = sorted(laws, key=lambda x: (lo.get(x.get("label"), 9), x.get("law", "")))
-        ui.html('<div class="ac-sub">Related Laws</div>')
+        ui.html('<div class="ac-sec">Related Laws</div>')
         _grouped([{"g": x.get("label") or traice.LAW_LABELS[1],
                    "cells": [_name_title(x.get("law"), x.get("title")), escape(short(x.get("overlap"), 240))]} for x in laws],
                  "g", ["Relationship", "Law and title", "Overlap"], "relb")
-    fq = out.get("fiscal_requirements") or []
-    ui.html('<div class="ac-sub">Fiscal requirements</div>')
+
+
+def fiscal_table(fq):
+    """The bill's fiscal requirements, identified by TrAIce, shown with AppraisAI's cost work."""
+    ui.html('<div class="ac-sec">Fiscal requirements (identified by TrAIce)</div>')
     if fq:
         ui.table(["Item", "Requirement", "Provision"],
                  [[escape(f.get("item", "")), escape(f.get("detail", "")), escape(f.get("section", ""))] for f in fq], cls="fisc")
     else:
         ui.html('<div class="ac-out"><p>No appropriations clause, position or funding provision was identified; '
                 'confirm against the full text.</p></div>')
+
+
+def memo_html(text):
+    """Memo paragraphs; lines starting 'a.', 'b.' ... become a lettered list."""
+    out, items = [], []
+    for line in [x.strip() for x in str(text or "").split("\n") if x.strip()]:
+        m = re.match(r"^([a-z])[.)]\s+(.*)", line)
+        if m:
+            items.append(f'<li><span class="ltr">{m.group(1)}.</span> {escape(m.group(2))}</li>')
+            continue
+        if items:
+            out.append('<ol class="ac-ltr">' + "".join(items) + "</ol>")
+            items = []
+        out.append(f"<p>{escape(line)}</p>")
+    if items:
+        out.append('<ol class="ac-ltr">' + "".join(items) + "</ol>")
+    return "".join(out)
 
 
 def trace_baseline(pack):

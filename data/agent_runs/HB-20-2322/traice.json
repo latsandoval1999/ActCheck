@@ -67,20 +67,6 @@
     "basis": "Same commission with a wider scope covering the agri-food system and institutional reforms.",
     "section": "HB-20-11060:s4",
     "quote": "The Commission shall undertake a comprehensive national assessment and evaluation of the performance, condition, and prospects of the Philippine agriculture and fisheries sector and the"
-   },
-   {
-    "id": "HB-20-11190",
-    "relationship": "Not related (similar wording only)",
-    "basis": "Shares the congressional commission structure but concerns mobility.",
-    "section": "meta:HB-20-11190",
-    "quote": ""
-   },
-   {
-    "id": "HB-20-9862",
-    "relationship": "Not related (similar wording only)",
-    "basis": "Shares the congressional commission structure but concerns road mobility.",
-    "section": "meta:HB-20-9862",
-    "quote": ""
    }
   ],
   "existing_law_overlaps": [
@@ -106,7 +92,7 @@
     "quote": ""
    }
   ],
-  "salient_features": "HB No. 2322 seeks to establish a 12-member bicameral Congressional Commission on Agriculture and Fisheries (AGRICOM), with six members each from the Senate and the House of Representatives, and a three-year mandate under Section 10 (Duration of AGRICOM) to assess the performance of the agriculture and fisheries sector, review existing policies and programs, and recommend reforms to ensure food security. A Technical Secretariat headed by an Executive Director with the rank of Executive Director IV (Salary Grade 29) and an Agriculture and Fisheries Legislation and Policy Advisory Council would support the Commission, with the Philippine Institute for Development Studies serving as its research arm (Sections 6 to 9). Members would serve without compensation. Section 13 (Appropriations) provides that initial funding would be charged against available appropriations of the Senate and the House of Representatives, with subsequent requirements included in the annual General Appropriations Act.",
+  "salient_features": "HB No. 2322 seeks to establish a bicameral Congressional Commission on Agriculture and Fisheries (AGRICOM) to assess the performance of the agriculture and fisheries sector, review existing policies and programs, and recommend reforms to ensure food security. Its salient features are as follows:\na. Section 4 (Creation of AGRICOM) creates the Commission to undertake a comprehensive national assessment of the agriculture and fisheries sector and recommend targeted reforms.\nb. Section 5 (Composition of AGRICOM) provides that the Commission shall have 12 members, six each from the Senate and the House of Representatives, including the chairs of the committees on agriculture, fisheries, agrarian reform, economic affairs, environment and climate change, and one Minority member from each chamber, who shall serve without compensation.\nc. Section 6 (Executive Director) provides for a full-time Executive Director, appointed by the Commission, with the rank and emoluments of Executive Director IV (Salary Grade 29).\nd. Sections 7 to 9 (Technical Secretariat; Philippine Institute for Development Studies as Research Arm; Agriculture and Fisheries Legislation and Policy Advisory Council) provide for a Technical Secretariat headed by the Executive Director, designate the PIDS as research arm, and create an advisory council of experts.\ne. Section 10 (Duration of AGRICOM) provides that the Commission shall complete its mandate within three years from its organization.\nf. Section 11 (Powers and Functions of AGRICOM) authorizes the Commission to formulate short- and long-term policy and program recommendations, approve the framework and budget of the national review, hold hearings, issue subpoenas, and secure technical information from government agencies.\ng. Section 13 (Appropriations) provides that initial funding shall be charged against available appropriations of the Senate and the House of Representatives, with subsequent requirements included in the annual General Appropriations Act.",
   "related_measures_policy": "HB No. 2322 may be considered alongside SB No. 1624, the Senate substitute for SB Nos. 1199 and 1345, and HB Nos. 5129 and 5296, which likewise propose a congressional commission to review the agriculture and fisheries sector, as well as HB No. 5106, which proposes a similar commission funded through the General Appropriations Act. The measure aligns with the Food Security priority under the FY 2027 Budget Priorities Framework. In view of the government's policy to streamline functions and reduce duplication under the Government Optimization Act (RA No. 12231), the review should assess whether AGRICOM's proposed functions under Section 11 (Powers and Functions of AGRICOM) address gaps in the oversight mandate established under Sections 114–116 of RA No. 8435 and Section 25 of RA No. 12022, and clarify how responsibilities would be assigned among these bodies.",
   "fiscal_requirements": [
    {
@@ -219,6 +205,6 @@
  ],
  "meta": {
   "prepared_by": "Claude (TrAIce prompt v3), in a Claude Code session",
-  "time": "2026-11-17T09:06:39+00:00"
+  "time": "2026-11-17T09:48:26+00:00"
  }
 }

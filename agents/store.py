@@ -49,14 +49,22 @@ def queue(bid, note="Added to the review workspace"):
     """Put a bill in the review workspace (creates its record if needed)."""
     if not _path(bid).exists():
         save(bid, "queued", datetime.now(timezone.utc).isoformat(timespec="seconds"), note)
+    elif load(bid).get("removed"):
+        save(bid, "removed", False, "Added back to the review workspace")
     return load(bid)
+
+
+def unqueue(bid):
+    """Take a bill off the review workspace list; its saved work is kept and returns if it is added again."""
+    if _path(bid).exists():
+        save(bid, "removed", True, "Removed from the review workspace")
 
 
 def queue_list():
     """Bills in the review workspace, most recently touched first: [(bid, record)]."""
     if not DIR.exists():
         return []
-    recs = [(p.stem, json.loads(p.read_text())) for p in DIR.glob("*.json")]
+    recs = [(p.stem, r) for p in DIR.glob("*.json") if not (r := json.loads(p.read_text())).get("removed")]
     return sorted(recs, key=lambda r: (r[1].get("trail") or [{"time": ""}])[-1]["time"], reverse=True)
 
 

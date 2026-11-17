@@ -40,13 +40,24 @@ def section_text(section_id):
     return None
 
 
+NUM_WORDS = r"\b(?:one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|fifteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|thousand|million|billion)\b"
+
+
+def figures(s):
+    """Numbers and number words in a passage (figures must match exactly, even when the wording may differ slightly)."""
+    s = str(s or "").lower()
+    return {x.replace(",", "").rstrip(".") for x in re.findall(r"\d[\d,.]*", s)} | set(re.findall(NUM_WORDS, s))
+
+
 def quote_found(quote, text, threshold=0.85):
-    """True if `quote` appears in `text`, allowing small OCR differences."""
+    """True if `quote` appears in `text`, allowing small OCR differences in words but none in figures."""
     q, t = _norm(quote), _norm(text)
     if not q:
         return False
     if q in t:
         return True
+    if not figures(quote) <= figures(text):       # an altered amount, count or date is never "close enough"
+        return False
     best = 0.0
     step = max(1, len(q) // 4)
     for i in range(0, max(1, len(t) - len(q) + 1), step):

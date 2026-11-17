@@ -74,7 +74,7 @@ def sections(bid):
 def sec_ref(bid, no):
     for s in sections(bid):
         if str(s["no"]) == str(no):
-            return f"Section {s['no']} ({s['heading']})"
+            return f"Section {s['no']} ({re.sub(r'\b(of|on|and|for)([A-Z])', r'\1 \2', s['heading'])})"
     return f"Section {no}"
 
 
@@ -234,6 +234,62 @@ def fiscal(bid, facts):
     return out
 
 
+KEY_SECTIONS = [r"creat|establish", r"composition|membership|members", r"executive director|secretary|head|chair",
+                r"secretariat", r"research arm", r"advisory", r"duration|term|sunset", r"powers|functions|mandate",
+                r"organi[sz]ational structure|offices|regional", r"personnel|plantilla|staffing", r"appropriation|funding",
+                r"abolition|transfer|absorb"]
+
+
+def _gist(text, heading, words=30):
+    """The opening sentence of a section without its number and heading, shortened, as an indirect statement."""
+    t = clean_ocr(" ".join(text.split()))
+    t = re.sub(r"^(SECTION|SEC\.?)\s*\d+[A-Z]?\.?\s*", "", t, flags=re.I)
+    h = re.sub(r"\s+", "", heading.lower())
+    k = 0
+    for n in range(len(t)):                      # skip the heading, however it is spaced
+        if re.sub(r"\s+", "", t[:n].lower()) == h:
+            k = n
+            break
+    t = t[k:].lstrip(" .:-–—")
+    t = re.sub(r"(?<=[a-z,.;)]) \d{1,2} (?=[A-Za-z(])", " ", t)                  # page numbers left in the text
+    t = re.sub(r",?\s*hereinafter (referred to|called) as [^,.;]+[,]?", "", t, flags=re.I)
+    t = re.split(r"(?<=[a-z0-9\)])\.(?=\s+[A-Z(]|\s*$)", t, maxsplit=1)[0]
+    t = re.split(r"[:;,]\s*[Pp]rovided", t, maxsplit=1)[0]
+    head, colon, rest = t.partition(":")
+    if colon:
+        its = [re.sub(r"^[\s(]*[a-z0-9]{1,3}[).]\s*", "", x).strip() for x in re.split(r"\s(?=\(?[a-h]\)|[a-h]\.\s)", " " + rest) if x.strip()]
+        its = [" ".join(x.split()[:7]).rstrip(",;:") for x in its if len(x.split()) > 2][:3]
+        joiner = ": " if re.search(r"following\b[^,]*$", head) else ", including: "
+        t = head + (joiner + "; ".join(x[0].lower() + x[1:] for x in its) + "; and others" if its else "")
+    w = t.split()
+    if len(w) > words:
+        cut = " ".join(w[:words])
+        t = cut[:max(cut.rfind(","), cut.rfind(" and "))] if max(cut.rfind(","), cut.rfind(" and ")) > 40 else cut
+    t = re.sub(r"[\"“”]", "", t).strip(" ,;:")
+    if re.match(r"there is hereby (created|established)", t, re.I):
+        return "creates " + re.sub(r"^there is hereby (created|established)\s*", "", t, flags=re.I)
+    first = t.split(" ", 1)[0]
+    return "provides that " + (t if (len(first) > 1 and first.isupper()) else t[:1].lower() + t[1:])
+
+
+def salient_items(bid, fq=None, limit=9):
+    """The bill's major sections, in order, each as 'Section N (Title) provides that ...'."""
+    out, seen = [], set()
+    secs = sections(bid)
+    for rx in KEY_SECTIONS:
+        for x in secs:
+            if x["no"] in seen or not re.search(rx, x["heading"], re.I) or re.search(r"short title|definition|declaration", x["heading"], re.I):
+                continue
+            seen.add(x["no"])
+            out.append((int(re.sub(r"\D", "", str(x["no"])) or 0), f"{sec_ref(bid, x['no'])} {_gist(x['text'], x['heading'])}".rstrip(".…") + "."))
+            break
+    out = sorted(out)
+    if len(out) > limit:                         # keep the funding clause, which the memo always needs
+        keep = [x for x in out if re.search(r"appropriation|funding", x[1].split(")")[0], re.I)]
+        out = sorted([x for x in out if x not in keep][:limit - len(keep)] + keep)
+    return [t for _, t in out]
+
+
 def rule_draft(bid, pack, row=None, pctx=None, category=""):
     """ActCheck's draft of the TrAIce output, made by code (no AI)."""
     bills, _ = load()
@@ -311,8 +367,8 @@ def rule_draft(bid, pack, row=None, pctx=None, category=""):
         if etype and subj and lab in (LABELS[4], LABELS[6]) and etype.group(1).upper() in ttl.upper() \
                 and not any(w.upper() in ttl.upper() for w in subj):
             lab = LABELS[5]
-        if lab == LABELS[6] and (sim or 0) < 0.35:
-            continue
+        if lab == LABELS[6]:
+            continue                 # similar wording only: adds nothing to the memo
         base = (f"{sim:.0%} of wording in common" if textual else
                 "Same title (text not available)" if (sim or 0) >= 0.9 else "Title match only (text not available)")
         why = base + {
@@ -370,34 +426,16 @@ def rule_draft(bid, pack, row=None, pctx=None, category=""):
             hist.append(f"{_short(r['id'])} was filed in substitution of {m.group(1)} Bill Nos. {nums}.")
             break
 
-    # 3. salient features and related measures (memo style)
-    parts = []
+    # 3. salient features (memo Part II): one opening sentence, then the major sections as a lettered list
+    fq = fiscal(bid, b.get("facts") or {})
     if creates:
         art = ("a " + members + "-member ") if members else ("the " if re.match(r"(Department|Office|Philippine|National)\b", entity or "") else "")
-        parts.append(f"{doc} seeks to establish {art}{entity}"
-                     + (f" with a {dur} mandate" if dur else "") + (f" to {purpose}" if purpose else "") + ".")
+        opening = (f"{doc} seeks to establish {art}{entity}" + (f" with a {dur} mandate" if dur else "")
+                   + (f" to {purpose}" if purpose else "") + ". Its salient features are as follows:")
     else:
-        parts.append(proposal)
-    sup = [s for s in sections(bid) if re.search(r"secretariat|research arm|advisory", s["heading"], re.I)]
-    if sup:
-        items = [f"{'the ' if not s['heading'].lower().startswith('the ') else ''}{s['heading']} ({sec_ref(bid, s['no']).split(' (')[0]})" for s in sup[:4]]
-        parts.append("It would be supported by " + (", ".join(items[:-1]) + ", and " + items[-1] if len(items) > 2 else " and ".join(items)) + ".")
-    fq = fiscal(bid, b.get("facts") or {})
-    pos = [f for f in fq if f["item"] == "Position"]
-    if pos:
-        parts.append(f"Under {pos[0]['section']}, the {pos[0].get('heading') or 'head'} would have the rank of {pos[0]['detail']}.")
-    ini = next((f for f in fq if f["item"] == "Initial funding"), None)
-    if ini:
-        if ini.get("amount"):
-            sent = f"{ini['section']} provides an initial appropriation of ₱{ini['amount']:,.0f}" + (f", charged against {ini['source']}" if ini["source"] else "")
-        elif ini.get("source"):
-            sent = f"{ini['section']} provides that the amount necessary for its initial implementation would be charged against {ini['source']}"
-        else:
-            sent = f"{ini['section']} provides that the amount necessary for its implementation would be included in the annual General Appropriations Act"
-        if ini.get("gaa") and (ini.get("amount") or ini.get("source")):
-            sent += ", with subsequent requirements included in the annual General Appropriations Act"
-        parts.append(sent + ".")
-    salient = " ".join(parts)
+        opening = proposal.rstrip(".") + ". Its salient features are as follows:"
+    items = salient_items(bid, fq)
+    salient = opening + ("\n" + "\n".join(f"{chr(97 + i)}. {t}" for i, t in enumerate(items)) if items else "")
     cps = sorted([r for r in rel if r["relationship"] == LABELS[3] and r["id"][:2] in ("HB", "SB")], key=lambda r: -r.get("sim", 0))[:2]
     sames = sorted([r for r in rel if r["relationship"] in (LABELS[1], LABELS[2]) and r["id"][:2] in ("HB", "SB")], key=lambda r: -r.get("sim", 0))[:1]
     alongside = cps + sames
@@ -429,10 +467,43 @@ def rule_draft(bid, pack, row=None, pctx=None, category=""):
         rm.append(link[0].upper() + link[1:])
     else:
         rm.append(f"The review should assess {focus}.")
-    checks = inconsistencies(bid)
+    checks = inconsistencies(bid) + proofread_points(bid)
     return {"target": bid, "entity_proposed": entity, "source": "rules", "proposal": proposal, "alignment": align,
             "legislative_history": hist, "related": rel, "existing_law_overlaps": laws, "salient_features": salient,
             "related_measures_policy": " ".join(rm), "fiscal_requirements": fq, "reviewer_checks": checks, "gaps": []}
+
+
+PROOF = ROOT / "data" / "processed" / "proofread.csv"
+_PROOF_CACHE = {}
+
+
+def proofread_points(bid, limit=8):
+    """Possible typos and drafting slips found by scripts/proofread.py, worded as points to check."""
+    import csv
+    key = PROOF.stat().st_mtime if PROOF.exists() else 0
+    if _PROOF_CACHE.get("key") != key:
+        rows = {}
+        if PROOF.exists():
+            for r in csv.DictReader(PROOF.open(newline="")):
+                rows.setdefault(r["id"], []).append(r)
+        _PROOF_CACHE.clear()
+        _PROOF_CACHE.update(key=key, rows=rows)
+    pts = []
+    for r in _PROOF_CACHE["rows"].get(bid, [])[:limit]:
+        where = "Title" if r["where"] == "Title" else r["where"]
+        if r["type"] == "Possible misspelling":
+            pts.append(f"{where}: \u201c{r['found']}\u201d may be a misspelling of \u201c{r['suggestion']}\u201d.")
+        elif r["type"] == "Number in words differs from figure":
+            pts.append(f"{where}: \u201c{r['found']}\u201d, the number in words and the figure differ.")
+        elif r["type"] == "Repeated word":
+            pts.append(f"{where}: repeated word \u201c{r['found']}\u201d.")
+        elif r["type"] == "Article (a/an)":
+            pts.append(f"{where}: \u201c{r['found']}\u201d should likely read \u201c{r['suggestion']}\u201d.")
+        elif r["type"].startswith("Section number"):
+            pts.append(f"Section numbering: {r['found']}; confirm that no section is missing.")
+        else:
+            pts.append(f"{where}: {r['type'].lower()}.")
+    return pts
 
 
 PACK_WORDS = re.compile(r"\b(evidence )?pack\b|\bcorpus\b", re.I)
@@ -471,9 +542,6 @@ def saved_ai(bid):
 
 
 CHECKLIST = [
-    "The proposal, salient features and fiscal requirements match the bill (checked against the PDF or full text).",
-    "The legislative history and related bills are complete and correctly grouped (checked against House and Senate records).",
-    "The related laws and overlapping mandates are confirmed.",
-    "Inconsistent provisions, typographical and grammatical errors are noted.",
-    "The TrAIce output above is correct and will be added to the memo.",
+    "For checking: Inconsistencies, typographical, and grammatical errors",
+    "The TrAIce output above is correct and its details are verified against official sources and records and will be added to the memo.",
 ]

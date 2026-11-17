@@ -561,7 +561,7 @@ def case(bid):
     check3 = (rev or {}).get("checklist") or ["The cost assumptions marked 'to verify' have been checked.", "The issues raised by the second reviewer are resolved or noted.",
                                                "The preliminary comments are edited and complete."]
     check3 = list(check3[:10]) + ["I have verified this review against the sources and approve it as the basis for the memo."]
-    d1, d2, d3 = all_done("s1", len(CHECK1)), all_done("s2", len(CHECK2)), all_done("s3", len(check3))
+    d1, d2, d3 = all_done("t1", len(CHECK1)), all_done("s2", len(CHECK2)), all_done("s3", len(check3))
     d4 = d3 and bool(rec.get("comments"))
     d5 = docs.position_decided(rec.get("memo_fields") or {}) and bool(rec.get("letter_fields"))
     states = []
@@ -569,6 +569,7 @@ def case(bid):
         prev = [True, d1, d2, d3, d3][i]
         states.append("done" if d else ("now" if prev else ""))
     ui.progress(STEPS, states)
+    ui.progress_dock(f"Review progress: {b['label']}", STEPS, states)
     report_notice(bid, 0, "this bill as a whole (corrections and other inputs)")
     st.caption((f"Bill text recognized from a scanned PDF ({b['n_sections']} sections); check quotes against the original."
                 if b["text_source"] == "ocr" else f"Bill text read from the PDF ({b['n_sections']} sections).")
@@ -601,12 +602,11 @@ def case(bid):
         render.trace(bid, t_out, ai_checks if ai_out else None)
 
         # TrAIce output (memo Parts II and III, editable) and the reviewer checklist
-        ui.html('<div class="ac-check"><div class="ac-check-h">✓ TrAIce Output and Reviewer Checklist</div></div>')
+        ui.html('<div class="ac-check"><div class="ac-check-h sc">✓ <span class="tr">TrAIce</span> output and reviewer checklist</div></div>')
         tm_default = {"salient": t_out.get("salient_features", ""), "related": t_out.get("related_measures_policy", "")}
         tm = rec.get("traice_memo") or tm_default
-        ui.html('<div class="ac-memo"><h6>II. Salient Features</h6>' + "".join(f"<p>{escape(x)}</p>" for x in tm["salient"].split("\n") if x.strip())
-                + '<h6>III. Related Measures and Policy Considerations</h6>' + "".join(f"<p>{escape(x)}</p>" for x in tm["related"].split("\n") if x.strip())
-                + '</div>')
+        ui.html('<div class="ac-memo"><h6>II. Salient Features</h6>' + render.memo_html(tm["salient"])
+                + '<h6>III. Related Measures and Policy Considerations</h6>' + render.memo_html(tm["related"]) + '</div>')
         with st.expander("✏️ Edit this text" + (" · edited by the reviewer" if rec.get("traice_memo") else "")):
             new = field_editor(f"tm_{bid}", tm, [("salient", "II. Salient Features"), ("related", "III. Related Measures and Policy Considerations")])
             if new is not None:
@@ -615,7 +615,7 @@ def case(bid):
             if rec.get("traice_memo") and st.button("Reset to the TrAIce draft", key=f"tm_reset_{bid}"):
                 store.save(bid, "traice_memo", None, "Reviewer reset the TrAIce output")
                 st.rerun()
-        checklist(bid, "s1", CHECK1, heading=None, subs={3: t_out.get("reviewer_checks") or []})
+        checklist(bid, "t1", CHECK1, heading=None, subs={0: t_out.get("reviewer_checks") or []})
 
     # Step 2: CompAIre
     with st.container(border=True):
@@ -658,6 +658,7 @@ def case(bid):
         ui.html('<div class="ac-step-d">Prepares the preliminary review: an estimated first-year cost based on the government salary schedule and '
                 'the actual spending of similar agencies, possible implementation risks, overlaps with existing agencies, and draft comments. '
                 'A second AI reviewer then checks the draft for errors.</div>')
+        render.fiscal_table(t_out.get("fiscal_requirements") or [])
         if not d2:
             st.caption("🔒 Complete Step 2's checklist to unlock this step.")
         else:
@@ -1028,9 +1029,17 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                 active = k == st.session_state.get("bill")
                 # the bill being reviewed is highlighted; the others in line are dimmed until opened
                 with st.container(border=True, key=("qactive_" if active else "qcard_") + k.replace("-", "_")):
-                    if active:
-                        ui.html('<div class="ac-qnow">Now reviewing</div>')
-                    st.markdown(f"**{bills[k]['label']}** · {bills[k]['congress']}th")
+                    t1, t2 = st.columns([5, 1], vertical_alignment="top")
+                    with t1:
+                        if active:
+                            ui.html('<div class="ac-qnow">Now reviewing</div>')
+                        st.markdown(f"**{bills[k]['label']}** · {bills[k]['congress']}th")
+                    with t2, st.container(key=f"qx_{k.replace('-', '_')}"):
+                        if st.button("✕", key=f"x_{k}", help="Remove this bill from the workspace (its saved work is kept and returns if you review it again)"):
+                            store.unqueue(k)
+                            if active:
+                                st.session_state.pop("bill", None)
+                            st.rerun()
                     st.caption(f"{bills[k]['title'][:80]}… · {r.get('status', 'new')}")
                     if not active and st.button("Open", key=f"q_{k}", use_container_width=True):
                         st.session_state["bill"] = k
