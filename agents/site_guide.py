@@ -6,7 +6,7 @@ GUIDE = [
     ("What is ActCheck?", "ActCheck is an Agentic AI System for Philippine Legislative Review. It helps government analysts, first of "
      "all those who prepare the Department of Budget and Management's comments on bills, to trace a bill's history, see what changed "
      "from related measures, and assess its legal and budget implications, so they can give legislators timely, well-sourced comments. "
-     "Three AI agents do the groundwork: TrAIce traces the bill, CompAIre spots the changes and AppraisAI weighs the impact. The "
+     "Three AI agents do the groundwork: TrAIce traces the bill, CompAIre spots the changes and ApprAIsal weighs the impact. The "
      "analyst checks and approves every step and alone decides the DBM position. Every finding cites the bill or law it comes from, "
      "and every output is an AI-assisted preliminary draft for reviewer validation. ActCheck is a student prototype for PP5538 "
      "(Lee Kuan Yew School of Public Policy), not an official government website."),
@@ -20,7 +20,7 @@ GUIDE = [
      "agents are tested first on bills that create a national government agency, in any sector; other bills with full text can be "
      "reviewed, but the cost estimate applies only to new agencies."),
     ("What are the three agents?", "TrAIce traces the bill: earlier versions, counterparts in the other chamber, refiled copies and the "
-     "laws it touches. CompAIre spots the changes against the closest related measure and lists design options. AppraisAI weighs the "
+     "laws it touches. CompAIre spots the changes against the closest related measure and lists design options. ApprAIsal weighs the "
      "impact: cost range, risks, overlaps, policy context and draft comments, then drafts the DBM memo and letter; a second AI reviewer "
      "(red-teamer) checks its draft."),
     ("What does TrAIce do?", "TrAIce (Evidence and Research) finds the bills whose wording is most similar, then labels each relationship "
@@ -29,7 +29,7 @@ GUIDE = [
     ("What does CompAIre do?", "CompAIre (Diagnosis and Design) compares the bill with its closest related measure section by section: the "
      "problem it addresses, substantial differences (mandate, structure, salary grades, funding, duration) with their likely cost "
      "effect, and design options seen in related bills. ActCheck's own non-AI section matching is shown beside it."),
-    ("What does AppraisAI do?", "AppraisAI (Appraisal and Governance) drafts the preliminary review: summary, history, differences, overlaps, "
+    ("What does ApprAIsal do?", "ApprAIsal (Appraisal and Governance) drafts the preliminary review: summary, history, differences, overlaps, "
      "fiscal implications, risks, policy context (LEDAC priority and the 2027 Budget Priorities Framework), a verification checklist "
      "and draft comments. After the analyst approves, it drafts the memorandum for the Secretary and the letter to Congress in DBM "
      "format. It never sets the DBM position."),
@@ -54,9 +54,9 @@ GUIDE = [
     ("What is the LEDAC flag?", "Bills related by title to the 44 Common Legislative Agenda measures identified by the LEDAC on 30 September "
      "2025 are flagged 'LEDAC priority' on the Bills page; the analyst confirms the match."),
     ("How do I review a bill?", "Click 'Reviewer Log In' at the top right (or Log In on any bill), open the Bills page, click Review on a bill, then work through "
-     "the five steps in the Review workspace. Each step ends with a checklist that unlocks the next one."),
+     "the four steps in the Review workspace. Each step ends with a checklist that unlocks the next one."),
     ("How can the public share inputs on a bill?", "On the Bills page, click Report on any bill. The bill's number and title are filled in; "
-     "choose the part of the review it concerns (TrAIce: legislative history; CompAIre: comparison and policy design; AppraisAI: cost, overlap or duplication, implementation or governance risk; or Others) and the topic, write a message "
+     "choose the part of the review it concerns (TrAIce: legislative history; CompAIre: comparison and policy design; ApprAIsal: cost, overlap or duplication, implementation or governance risk; or Others) and the topic, write a message "
      "and attach files if you like. Name, email and contact number are optional and seen only by reviewers. Reports are kept in a "
      "Google Sheet so they survive restarts, and reviewers see a clickable notice in the part of the Review workspace each report concerns."),
     ("Who decides the DBM position?", "Only the analyst. The agents prepare evidence and drafts; the analyst approves each step, sets the "

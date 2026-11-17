@@ -14,7 +14,10 @@ Commands
   python scripts/traice_batch.py save BILL FILE      checks FILE (the JSON answer) and saves it; exit 1 if a citation fails
   python scripts/traice_batch.py queue BILL [BILL…]  adds bills to the workspace queue
   python scripts/traice_batch.py compaire-next [N]   workspace bills with a saved TrAIce run but no CompAIre run yet
+  python scripts/traice_batch.py apprAIsal-next [N]  workspace bills with a saved CompAIre run but no ApprAIsal run yet
   python scripts/traice_batch.py prompt BILL compaire   CompAIre's prompt (needs the bill's saved TrAIce run)
+  python scripts/traice_batch.py prompt BILL apprAIsal  ApprAIsal's prompt (needs saved TrAIce and CompAIre runs)
+  python scripts/traice_batch.py save BILL FILE apprAIsal  checks and saves an ApprAIsal answer (data/agent_runs/BILL/apprAIsal.json)
   python scripts/traice_batch.py save BILL FILE compaire  checks and saves a CompAIre answer (data/agent_runs/BILL/compaire.json)
 """
 import json
@@ -47,6 +50,12 @@ def _traice_out(bid):
     row = _rows().get(bid) or {}
     draft = traice.rule_draft(bid, evidence_pack(bid), row, policy.context({"title": b["title"], "congress": b["congress"]}), row.get("type", ""))
     return traice.normalize((traice.saved_ai(bid) or {}).get("output"), bid, draft)
+
+
+def _compaire_out(bid):
+    from agents import compaire
+    t = _traice_out(bid)
+    return compaire.normalize((compaire.saved_ai(bid) or {}).get("output"), bid, compaire.rule_draft(bid, t))
 
 
 def done(bid):
@@ -82,10 +91,45 @@ def main(argv):
     elif cmd == "next":
         n = int(argv[2]) if len(argv) > 2 else 12
         print("\n".join(pending(_rows())[:n]))
+    elif cmd == "apprAIsal-next":
+        n = int(argv[2]) if len(argv) > 2 else 6
+        ws = WORKSPACE.read_text().split() if WORKSPACE.exists() else []
+        print("\n".join([i for i in dict.fromkeys(ws) if (RUNS / i / "compaire.json").exists()
+                          and not (RUNS / i / "apprAIsal.json").exists()][:n]))
     elif cmd == "compaire-next":
         n = int(argv[2]) if len(argv) > 2 else 12
         ws = WORKSPACE.read_text().split() if WORKSPACE.exists() else []
         print("\n".join([i for i in dict.fromkeys(ws) if done(i) and not (RUNS / i / "compaire.json").exists()][:n]))
+    elif cmd == "prompt" and len(argv) > 3 and argv[3] == "apprAIsal":
+        from agents import appraise
+        from agents.costing import cost_range
+        bid = argv[2]
+        t, c = _traice_out(bid), _compaire_out(bid)
+        system, user, _ = appraise.build_messages(bid, t, c, cost_range(bid))
+        TMP.mkdir(exist_ok=True)
+        out = TMP / f"{bid}.apprAIsal.prompt.md"
+        out.write_text(f"# SYSTEM PROMPT\n\n{system}\n\n# USER MESSAGE\n\n{user}\n")
+        print(out)
+    elif cmd == "save" and len(argv) > 4 and argv[4] == "apprAIsal":
+        from agents import appraise
+        from agents.costing import cost_range
+        bid, path = argv[2], argv[3]
+        out = json.loads(Path(path).read_text())
+        if out.get("target") != bid:
+            sys.exit(f"target is {out.get('target')!r}, expected {bid}")
+        draft = appraise.rule_draft(bid, _traice_out(bid), _compaire_out(bid), cost_range(bid))
+        checks = appraise.check_output(out, draft)
+        bad = [c for c in checks if c.get("check") != "verified"]
+        if bad:
+            print(json.dumps(bad, ensure_ascii=False, indent=1))
+            sys.exit(f"{len(bad)} checks failed; fix them and save again")
+        g = appraise.grade(bid, appraise.normalize(out, bid, draft), checks)
+        (RUNS / bid).mkdir(parents=True, exist_ok=True)
+        (RUNS / bid / "apprAIsal.json").write_text(json.dumps({"output": out, "checks": checks, "meta": {
+            "prepared_by": "Claude (ApprAIsal run under the owner's Claude subscription)",
+            "prompt_version": appraise.PROMPT_VERSION, "grade": g["grade"],
+            "time": datetime.now(timezone.utc).isoformat(timespec="seconds")}}, ensure_ascii=False, indent=1))
+        print(f"saved ApprAIsal {bid}: checks passed; grade {g['grade']} ({g['label']})")
     elif cmd == "prompt" and len(argv) > 3 and argv[3] == "compaire":
         from agents import compaire
         bid = argv[2]

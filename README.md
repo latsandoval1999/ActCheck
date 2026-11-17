@@ -10,7 +10,7 @@ A prototype made as an individual project by Louise Antonette T. Sandoval (Lee K
 |---|---|---|
 | **TrAIce** | P1 Evidence & Research | Daily check for new bills; traces earlier and parallel versions and related laws |
 | **CompAIre** | P2 Diagnosis & Design | Compares the bill with related measures; problem, differences, design options |
-| **AppraisAI** | P3 Appraisal & Governance | Cost range, risks, preliminary comments, memo and letter drafts (with a red-teamer) |
+| **ApprAIsal** | P3 Appraisal & Governance | Cost range, risks, preliminary comments, memo and letter drafts (with a red-teamer) |
 
 A reviewer portal that lists **every House and Senate bill** and helps staff of the DBM Budget Information Legislative and Liaison Service (BILLS) do their **preliminary review**. The agents are being tested first on the **pilot scope: bills that create a new national government agency** (all sectors); other bills with full text can be reviewed experimentally.
 
@@ -22,7 +22,7 @@ Live portal: https://act-check.streamlit.app Built for the PP5538 Agentic AI Por
 
 - **Overview:** bills listed (18th–20th Congress), bills in the 20th Congress, new bills from the daily run; shares of bills by type and scope of application (rules on titles, `pipeline/typology.py`); how a review flows.
 - **Bills:** every bill with Congress, Bill type, Type, Status and "Applies to" filters. Click a title for details; **Review** sends it to the workspace (bills without full text are fetched from their source PDF first, `pipeline/ondemand.py`).
-- **Review workspace:** the bills under review; for each, Step 1 TrAIce (trace), Step 2 CompAIre (compare), Step 3 AppraisAI (weigh, with red-team check), each with a run button, a free route and a reviewer checklist (notes and file uploads) that unlocks the next step; Step 4 comments and report; Step 5 the DBM-format memo and letter (Tahoma, Word download, `agents/documents.py`).
+- **Review workspace:** the bills under review; for each, Step 1 TrAIce (trace), Step 2 CompAIre (compare), Step 3 ApprAIsal (weigh, with red-team check), each with a run button, a free route and a reviewer checklist (notes and file uploads) that unlocks the next step; Step 4 comments and report; Step 5 the DBM-format memo and letter (Tahoma, Word download, `agents/documents.py`).
 - **BILLy:** the floating companion answers questions about the open bill in the Review workspace (AI with checked citations, or search mode without a key, `agents/billy.py`), and general questions about ActCheck on the other pages (`agents/site_guide.py`).
 - **Public view and reviewer check-in:** the public sees Overview, Bills, How it Works, Library and Run log; "Reviewer Log In" (top right, on the Overview banner, or Log In on any bill) opens the Review workspace. For the course demonstration it needs no password.
 - **Daily check:** 9:00 AM Manila time (`.github/workflows/daily-watch.yml`): checks the data sources, refreshes Open Congress Data, finds new House bills (the probe tolerates runs of unpublished numbers), catches up older House bills, refreshes Republic Acts with summaries weekly. The Senate listing refuses GitHub's servers; it is refreshed from a normal browser and committed. A keep-awake job (`.github/workflows/keep-awake.yml`) visits the portal every 6 hours until 31 December 2026.
@@ -34,7 +34,7 @@ Live portal: https://act-check.streamlit.app Built for the PP5538 Agentic AI Por
 |---|---|---|---|
 | TrAIce | P1 Evidence & Research | Finds earlier versions, refiled copies, counterpart bills and existing laws related to a bill | Each link must cite and quote a section; quotes are checked automatically |
 | CompAIre | P2 Diagnosis & Design | Compares the bill with a related measure, lists substantial differences and their fiscal direction, corrects the baseline alignment | Both versions quoted; non-AI alignment shown beside the agent's |
-| AppraisAI + Red-teamer | P3 Appraisal & Governance | Drafts a preliminary report with a cost range (only from sourced assumptions) and a verification checklist; a second agent red-teams it | Checks for unsupported amounts, unverified quotes, official positions or signatures |
+| ApprAIsal + Red-teamer | P3 Appraisal & Governance | Drafts a preliminary report with a cost range (only from sourced assumptions) and a verification checklist; a second agent red-teams it | Checks for unsupported amounts, unverified quotes, official positions or signatures |
 | Baseline | A2 comparator | TF-IDF similarity and section alignment, no AI | Reproducible benchmark the agents must beat |
 
 ## Try each agent without an API key (free route)
@@ -42,7 +42,7 @@ Live portal: https://act-check.streamlit.app Built for the PP5538 Agentic AI Por
 ```bash
 python3 -m agents.research  HB-20-2322 --prompt > p1.txt                 # TrAIce
 python3 -m agents.diagnosis HB-20-2322 SB-20-1624 --prompt > p2.txt      # CompAIre
-python3 -m agents.appraisal HB-20-2322 --step review --prompt > p3.txt   # AppraisAI (then redteam, memo, letter)
+python3 -m agents.appraisal HB-20-2322 --step review --prompt > p3.txt   # ApprAIsal (then redteam, memo, letter)
 ```
 Attach the file to a Claude chat, ask it to follow the SYSTEM PROMPT and reply with JSON only, copy the reply, then `pbpaste > reply.json` and run the same command with `--check reply.json` instead of `--prompt`. Results are saved to `logs/` for the run log and scoring (`python3 -m eval.p1_eval --runs logs/p1_runs.jsonl`, `python3 -m eval.p2_eval --runs logs/p2_runs.jsonl`).
 
@@ -130,7 +130,7 @@ Text from 27 scanned bills was produced by OCR (Tesseract) and is flagged `text_
 
 - Pilot families: Congressional Commission on Agriculture (AGRICOM), Department of Water Resources, Department of Fisheries and Aquatic Resources. Scope catalogue covers 218 entity-creation families (18th–20th Congress), auto-extracted from titles and still to be reviewed.
 - Baseline thresholds (`pipeline/compare.py`) are untuned: tune on 19th Congress pairs, test on 20th.
-- Costing needs benchmarks (GAA 2026, staffing summary, salary schedule). Without them AppraisAI must answer "cannot estimate".
+- Costing needs benchmarks (GAA 2026, staffing summary, salary schedule). Without them ApprAIsal must answer "cannot estimate".
 - Model is set in `agents/llm.py` (`BILL_AGENT_MODEL` environment variable overrides it).
 
 ## Memory budget (hosting limit)

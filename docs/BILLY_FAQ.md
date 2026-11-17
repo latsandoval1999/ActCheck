@@ -4,7 +4,7 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 
 ## Core guide
 
-**What is ActCheck?** ActCheck is an Agentic AI System for Philippine Legislative Review. It helps government analysts, first of all those who prepare the Department of Budget and Management's comments on bills, to trace a bill's history, see what changed from related measures, and assess its legal and budget implications, so they can give legislators timely, well-sourced comments. Three AI agents do the groundwork: TrAIce traces the bill, CompAIre spots the changes and AppraisAI weighs the impact. The analyst checks and approves every step and alone decides the DBM position. Every finding cites the bill or law it comes from, and every output is an AI-assisted preliminary draft for reviewer validation. ActCheck is a student prototype for PP5538 (Lee Kuan Yew School of Public Policy), not an official government website.
+**What is ActCheck?** ActCheck is an Agentic AI System for Philippine Legislative Review. It helps government analysts, first of all those who prepare the Department of Budget and Management's comments on bills, to trace a bill's history, see what changed from related measures, and assess its legal and budget implications, so they can give legislators timely, well-sourced comments. Three AI agents do the groundwork: TrAIce traces the bill, CompAIre spots the changes and ApprAIsal weighs the impact. The analyst checks and approves every step and alone decides the DBM position. Every finding cites the bill or law it comes from, and every output is an AI-assisted preliminary draft for reviewer validation. ActCheck is a student prototype for PP5538 (Lee Kuan Yew School of Public Policy), not an official government website.
 
 **What can BILLy do?** BILLy is ActCheck's guide. On any page it answers questions about the portal: the agents, the data sources, the cost estimate, the Library and the Run log. When a bill is open in the Review workspace, BILLy answers questions about that bill from its own sections and the agents' findings, and points to the section it used.
 
@@ -12,13 +12,13 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 
 **Which bills are covered?** The Bills page lists every House and Senate bill of the 18th to 20th Congress from public sources. The agents are tested first on bills that create a national government agency, in any sector; other bills with full text can be reviewed, but the cost estimate applies only to new agencies.
 
-**What are the three agents?** TrAIce traces the bill: earlier versions, counterparts in the other chamber, refiled copies and the laws it touches. CompAIre spots the changes against the closest related measure and lists design options. AppraisAI weighs the impact: cost range, risks, overlaps, policy context and draft comments, then drafts the DBM memo and letter; a second AI reviewer (red-teamer) checks its draft.
+**What are the three agents?** TrAIce traces the bill: earlier versions, counterparts in the other chamber, refiled copies and the laws it touches. CompAIre spots the changes against the closest related measure and lists design options. ApprAIsal weighs the impact: cost range, risks, overlaps, policy context and draft comments, then drafts the DBM memo and letter; a second AI reviewer (red-teamer) checks its draft.
 
 **What does TrAIce do?** TrAIce (Evidence and Research) finds the bills whose wording is most similar, then labels each relationship (earlier version, counterpart, near-copy, competing, precedent) and the existing laws the bill amends or overlaps. Every link cites and quotes a section, and ActCheck checks each quote against the source.
 
 **What does CompAIre do?** CompAIre (Diagnosis and Design) compares the bill with its closest related measure section by section: the problem it addresses, substantial differences (mandate, structure, salary grades, funding, duration) with their likely cost effect, and design options seen in related bills. ActCheck's own non-AI section matching is shown beside it.
 
-**What does AppraisAI do?** AppraisAI (Appraisal and Governance) drafts the preliminary review: summary, history, differences, overlaps, fiscal implications, risks, policy context (LEDAC priority and the 2027 Budget Priorities Framework), a verification checklist and draft comments. After the analyst approves, it drafts the memorandum for the Secretary and the letter to Congress in DBM format. It never sets the DBM position.
+**What does ApprAIsal do?** ApprAIsal (Appraisal and Governance) drafts the preliminary review: summary, history, differences, overlaps, fiscal implications, risks, policy context (LEDAC priority and the 2027 Budget Priorities Framework), a verification checklist and draft comments. After the analyst approves, it drafts the memorandum for the Secretary and the letter to Congress in DBM format. It never sets the DBM position.
 
 **How is the cost estimated?** A fixed calculator, not the AI, estimates a first-year range two ways: staff costs from the 2026 salary schedule (NBC No. 601) plus benefits and running costs, and the running cost per authorized position of similar agencies in the FY 2026 budget (GAA and DBM Staffing Summary). COA audit reports are a cross-check. The agent may only quote these figures.
 
@@ -34,9 +34,9 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 
 **What is the LEDAC flag?** Bills related by title to the 44 Common Legislative Agenda measures identified by the LEDAC on 30 September 2025 are flagged 'LEDAC priority' on the Bills page; the analyst confirms the match.
 
-**How do I review a bill?** Click 'Reviewer Log In' at the top right (or Log In on any bill), open the Bills page, click Review on a bill, then work through the five steps in the Review workspace. Each step ends with a checklist that unlocks the next one.
+**How do I review a bill?** Click 'Reviewer Log In' at the top right (or Log In on any bill), open the Bills page, click Review on a bill, then work through the four steps in the Review workspace. Each step ends with a checklist that unlocks the next one.
 
-**How can the public share inputs on a bill?** On the Bills page, click Report on any bill. The bill's number and title are filled in; choose the part of the review it concerns (TrAIce: legislative history; CompAIre: comparison and policy design; AppraisAI: cost, overlap or duplication, implementation or governance risk; or Others) and the topic, write a message and attach files if you like. Name, email and contact number are optional and seen only by reviewers. Reports are kept in a Google Sheet so they survive restarts, and reviewers see a clickable notice in the part of the Review workspace each report concerns.
+**How can the public share inputs on a bill?** On the Bills page, click Report on any bill. The bill's number and title are filled in; choose the part of the review it concerns (TrAIce: legislative history; CompAIre: comparison and policy design; ApprAIsal: cost, overlap or duplication, implementation or governance risk; or Others) and the topic, write a message and attach files if you like. Name, email and contact number are optional and seen only by reviewers. Reports are kept in a Google Sheet so they survive restarts, and reviewers see a clickable notice in the part of the Review workspace each report concerns.
 
 **Who decides the DBM position?** Only the analyst. The agents prepare evidence and drafts; the analyst approves each step, sets the position and finalizes the memo and letter. The letter unlocks only after the position is set.
 
@@ -60,7 +60,7 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 
 **What do the numbers on the Overview mean?** Bills listed is every House and Senate bill of the 18th to 20th Congress found in the public sources. Bills in the 20th Congress counts the current Congress by chamber. New bills from the daily run shows bills found by the latest daily check, and how many older House bills the catch-up has added.
 
-**What does 'Trace the bill. Spot the changes. Weigh the impact.' mean?** These are the three agents' jobs: TrAIce traces the bill's history, CompAIre spots what changed against related bills, and AppraisAI weighs the legal and budget impact.
+**What does 'Trace the bill. Spot the changes. Weigh the impact.' mean?** These are the three agents' jobs: TrAIce traces the bill's history, CompAIre spots what changed against related bills, and ApprAIsal weighs the legal and budget impact.
 
 ## Public users
 
@@ -72,7 +72,7 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 
 **What information does each bill row show?** The bill number, the full title, the filing date and principal author (with Representative or Senator), the bill type, its status group and stage, a link to the PDF, and buttons to review (reviewers) or report (public).
 
-**How do I send a report on a bill?** Click Report on the bill's row. The bill number and title are filled in. Choose the part of the review your report concerns (TrAIce: legislative history; CompAIre: comparison and policy design; AppraisAI: cost, overlap or implementation risk; or Others) and the topic, write your message, and attach files if you like. Your name, email and contact number are optional.
+**How do I send a report on a bill?** Click Report on the bill's row. The bill number and title are filled in. Choose the part of the review your report concerns (TrAIce: legislative history; CompAIre: comparison and policy design; ApprAIsal: cost, overlap or implementation risk; or Others) and the topic, write your message, and attach files if you like. Your name, email and contact number are optional.
 
 **What happens to my report?** It is saved in ActCheck's Google Sheet and appears in the Run log's Public reports list. Reviewers see it as a notice in the step of the Review workspace it concerns, so it reaches them while they analyse the bill. Treat it as an input to the review, not a decision.
 
@@ -90,7 +90,7 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 
 **How do I start a review?** Log in, open the Bills page and click Review on a bill. If ActCheck does not have its text yet, it fetches it from the official source. The bill then appears in the Review workspace under 'Bills under review'.
 
-**What are the five steps in the Review workspace?** Step 1 TrAIce traces the bill; Step 2 CompAIre spots the changes; Step 3 AppraisAI weighs the impact, with a second AI reviewer; Step 4 Comments and report, which the reviewer edits and exports; Step 5 the memorandum and letter in DBM format.
+**What are the four steps in the Review workspace?** Step 1 TrAIce traces the bill (memo Parts I to III); Step 2 CompAIre spots the changes and recommends design options (Part IV); Step 3 ApprAIsal weighs the impact: budgetary requirements, possible duplication under RA No. 12231, the proposed recommendation and the DBM bureaus to consult (Parts V to VII); Step 4 Memo and letter, where the reviewer confirms the recommendation, edits and downloads the DBM-format memo and letter. Each step ends with a checklist that unlocks the next one.
 
 **Why are some steps locked?** Each step ends with a reviewer checklist. The next step unlocks only when every item is ticked. This is the human approval gate: nothing moves forward until the reviewer has checked it.
 
@@ -100,15 +100,15 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 
 **What is the free route?** The copy-and-paste route to a Claude chat has been removed from TrAIce. Without an API key, TrAIce shows ActCheck's rule-based draft (no AI); TrAIce outputs prepared by Claude outside the site can also be saved with ActCheck and are then shown in the step.
 
-**Can I edit what the agents produce?** Yes. Comments in Step 4 are editable in a table, and the memo and letter fields in Step 5 are filled in for you to change before download. The reviewer's edits are what go into the documents.
+**Can I edit what the agents produce?** Yes. Each agent's output has an 'Edit this text (if needed)' box, and in Step 4 the 'Edit memo' and 'Edit letter' buttons open the full drafts for editing before download. The reviewer's edits are what go into the documents.
 
-**How do I download the memo and letter?** In Step 5, after Step 3 is approved, fill in or edit the fields and click the Word download buttons. The memo follows the DBM position-paper format; the letter opens only after you set the DBM position.
+**How do I download the memo and letter?** In Step 4, after the Step 3 checklist is complete: confirm the recommendation (Part VII), review the draft memo shown on screen, click 'Edit memo' if changes are needed, then use the Word download button. The letter opens after the recommendation is confirmed.
 
-**Where do I see public reports on a bill?** In the Review workspace, a highlighted notice appears in the step a report concerns (TrAIce, CompAIre, AppraisAI, or the whole bill). Click it to read the report, including any contact details and attachments. All reports are also listed in the Run log.
+**Where do I see public reports on a bill?** In the Review workspace, a highlighted notice appears in the step a report concerns (TrAIce, CompAIre, ApprAIsal, or the whole bill). Click it to read the report, including any contact details and attachments. All reports are also listed in the Run log.
 
 **How do I report a problem with an agent's output?** Use the Notes and attachments box at the end of the step's checklist to record a correction, and edit the TrAIce output directly. Public reports from the Bills page still appear as notices in the step they concern.
 
-**Can I review a bill that does not create an agency?** Yes. TrAIce and CompAIre work on any bill with full text. AppraisAI's cost estimate is designed for bills that create a government agency, so the workspace warns you when a bill is outside that pilot scope.
+**Can I review a bill that does not create an agency?** Yes. TrAIce and CompAIre work on any bill with full text. ApprAIsal's cost estimate is designed for bills that create a government agency, so the workspace warns you when a bill is outside that pilot scope.
 
 ## The agents
 
@@ -118,11 +118,11 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 
 **What are CompAIre's outputs?** The problem the bill addresses, the substantial differences from the closest related measure with their likely effect on cost, design options found in related bills, and corrections to ActCheck's own non-AI section matching.
 
-**What are AppraisAI's outputs?** A preliminary review: summary, legislative history, differences, overlaps, fiscal implications with a cost range, risks, policy context, draft comments and a verification checklist. After approval it drafts the memorandum and the letter in DBM format.
+**What are ApprAIsal's outputs?** A preliminary review: summary, legislative history, differences, overlaps, fiscal implications with a cost range, risks, policy context, draft comments and a verification checklist. After approval it drafts the memorandum and the letter in DBM format.
 
-**What is the red-teamer?** A second AI reviewer that checks AppraisAI's draft for unsupported figures, unchecked quotes, overstated claims and anything that reads like an official DBM position. It recommends whether the draft is ready or needs revision; the human reviewer decides.
+**What is the red-teamer?** A second AI reviewer that checks ApprAIsal's draft for unsupported figures, unchecked quotes, overstated claims and anything that reads like an official DBM position. It recommends whether the draft is ready or needs revision; the human reviewer decides.
 
-**Does AppraisAI decide whether DBM supports a bill?** No. It lays out observations and options ('DBM may consider...'). Only the analyst sets the DBM position, and the Secretary approves the position paper.
+**Does ApprAIsal decide whether DBM supports a bill?** No. It lays out observations and options ('DBM may consider...'). Only the analyst sets the DBM position, and the Secretary approves the position paper.
 
 **Which AI model do the agents use?** Claude, by Anthropic, when an API key is added under Reviewer settings or when a run prepared by Claude is saved with ActCheck. Without either, each step shows ActCheck's own rule-based draft. The cost calculator and the similarity ranking do not use AI.
 
@@ -196,7 +196,7 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 
 **Why does TrAIce mention the Government Optimization Act?** For bills that create or reorganize government bodies, TrAIce asks the reviewer to examine how the proposed functions fit with existing agencies and the government's intent to streamline agencies and reduce overlapping mandates under the Government Optimization Act (RA No. 12231). The law is listed under Review References in the Library.
 
-**Can I edit TrAIce's output?** Yes. Under 'TrAIce Output and Reviewer Checklist', click 'Edit this text' to revise Parts II and III. Your edited text is used in the memorandum in Step 5; 'Reset to the TrAIce draft' brings back the agent's version.
+**Can I edit TrAIce's output?** Yes. Under 'TrAIce Output and Reviewer Checklist', click 'Edit this text' to revise Parts II and III. Your edited text is used in the memorandum in Step 4; 'Reset to the TrAIce draft' brings back the agent's version.
 
 **Does TrAIce show the quotes it used?** No. TrAIce cites a section for each finding and ActCheck checks the quoted passage against the bill or law in the background. The page shows only the section references, written as 'Section N (Section Title)', and how many were verified.
 
@@ -204,6 +204,12 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 
 **Who prepares the TrAIce outputs marked 'Prepared by TrAIce (Claude)'?** A scheduled Claude session, run under the project owner's Claude subscription, works through bills added to the Review workspace and the Government organization and mandates pilot bills three times a day. ActCheck saves an output only when every cited passage is found in the cited section; until then, the step shows ActCheck's rule-based draft.
 
-**What does CompAIre produce?** Building on TrAIce's salient features, CompAIre states what the bill aims to address and compares each major provision with the related measure that offers a real alternative. Its table, Substantial Differences and Design Options, shows for each provision the related measure, the major differences, the recommended option (Retain provision, Adapt alternative, Adapt alternative with revisions, or Remove provision) and why, the trade-offs and the gaps to check. Its main output is memo Part III (Comments and Recommendations), covering only the provisions that need a decision. Possible duplication of functions and cost effects go to AppraisAI and are reviewed there.
+**What does CompAIre produce?** Building on TrAIce's salient features, CompAIre states what the bill aims to address and compares each major provision with the related measure that offers a real alternative. Its table, Substantial Differences and Design Options, shows for each provision the related measure, the major differences, the recommended option (Retain provision, Adapt alternative, Adapt alternative with revisions, or Remove provision) and why, the trade-offs and the gaps to check. Its main output is memo Part IV (Comments and Recommendations), covering only the provisions that need a decision. Possible duplication of functions and cost effects go to ApprAIsal and are reviewed there.
 
 **Is the evidence grade used for every agent?** Yes. TrAIce and CompAIre each show one grade (A Strong to D Weak) under their final checklist item, with the points and what kept the output from more points. The method is explained under Safeguards and Limits on the How it Works page.
+
+**What does ApprAIsal produce?** ApprAIsal prepares memo Parts V to VII. Part V, Fiscal and Budgetary Requirements: an estimate of Personnel Services, MOOE and Capital Outlay for a new entity or positions, and a table of each fiscal item with the provision, what the bill provides, the recommended budgetary consideration, the recommendation on the budget and the GAA, and the risks. Part VI, Possible Duplication with Existing Agencies (when found): whether the bill changes or abolishes the existing body and, if not, an assessment under the Government Optimization Act (RA No. 12231). Part VII, Recommendation: one of three options (interpose no objection; no objection, subject to amendments; or deferment until the issues are addressed), which the reviewer confirms. It also lists the DBM bureaus to consult and compiles the memo without repeating statements.
+
+**How are the bureaus' comments included without another log-in?** ApprAIsal lists the DBM bureaus and offices to consult, with the items for each. Under 'Bureau comments (if needed)' in Step 3, each bureau has a ready request to copy into the usual referral memo or e-mail, and a box to paste the reply when it arrives. The replies go into Part IV of the memo under 'Comments of the concerned bureaus'. Bureaus do not need an account.
+
+**How is the cost of a new agency estimated?** In the background, ActCheck sets a staffing structure for the headcount range (offices, officials, division chiefs and staff), computes Personnel Services from the 2026 salary schedule with mandatory benefits, and MOOE and Capital Outlay from DBM costing parameters (travel under EO No. 77, s. 2019; training under NBC No. 563; rent under the DBM-DPWH Joint Circular; vehicles under DBM Budget Circular Nos. 2022-1 and 2022-1A). It shows the PS, MOOE and CO summary; the assumptions and similar agencies are in a reference dropdown.

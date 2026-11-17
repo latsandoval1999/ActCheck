@@ -4,7 +4,7 @@
 
 Pages: Overview (summary data, bill typology, how a review flows) -> Bills (every bill; Type and Status
 filters; click a title for details; Review sends it to the workspace) -> Review workspace (bills under
-review; Step 1 TrAIce, Step 2 CompAIre, Step 3 AppraisAI, each with a run button and a reviewer
+review; Step 1 TrAIce, Step 2 CompAIre, Step 3 ApprAIsal, each with a run button and a reviewer
 checklist that unlocks the next step; comments and report; DBM-format memo and letter) -> Library ->
 Run log -> How it Works. BILLy, the review companion, floats in the corner of every page.
 
@@ -51,8 +51,8 @@ STATUS_COLOR = {"PENDING": "gold", "ENACTED": "green", "CONSOLIDATED/SUBSTITUTED
 APP_URL = "https://act-check.streamlit.app"      # the hosted portal (links that open in a new window)
 ALL_PAGES = ["Overview", "Bills", "Review workspace", "How it Works", "Library", "Run log"]
 PUBLIC_PAGES = [p for p in ALL_PAGES if p != "Review workspace"]
-STEPS = ["Trace", "Compare", "Weigh", "Comments & report", "Memo & letter"]
-STEP_DESCS = ["Trace the bill", "Spot the changes", "Weigh the impact", "Edit and export", "DBM format"]
+STEPS = ["Trace", "Compare", "Weigh", "Memo & letter"]
+STEP_DESCS = ["Trace the bill", "Spot the changes", "Weigh the impact", "DBM format"]
 WORKFLOW = [
     ("Every morning · 9:00 AM", "Daily check", "daily",
      ["Checks the House documents server for new bill numbers", "Catches up older House bills missing from the list",
@@ -66,7 +66,7 @@ WORKFLOW = [
      ["Compares the bill with its closest related measure, section by section", "States the problem the bill addresses",
       "Lists substantial differences and their likely cost effect", "Shows design options seen in related bills"],
      "Substantial differences and design options", False),
-    ("Step 3 · Weigh the impact", "AppraisAI", "appraise",
+    ("Step 3 · Weigh the impact", "ApprAIsal", "appraise",
      ["Estimates a first-year cost range (fixed calculator, 2026 budget data)", "Notes risks, overlaps and policy context",
       "Drafts preliminary comments and a checklist", "A second AI reviewer checks the draft", "Drafts the memo and letter in DBM format"],
      "Preliminary review, comments, memo and letter drafts", False),
@@ -99,6 +99,18 @@ def bill_table(stamp):
 def c_evidence(bid, stamp):
     from agents.research import evidence_pack
     return evidence_pack(bid)
+
+
+@st.cache_data(show_spinner="Estimating the budgetary requirements...", max_entries=32)
+def c_req(bid, stamp):
+    from agents import budget, costing
+    return budget.requirements(costing.cost_range(bid))
+
+
+@st.cache_data(show_spinner="Drafting the ApprAIsal output...", max_entries=32)
+def c_adraft(bid, stamp, t_out, c_out):
+    from agents import appraise, costing
+    return appraise.rule_draft(bid, t_out, c_out, costing.cost_range(bid))
 
 
 @st.cache_data(show_spinner="Drafting the CompAIre output...", max_entries=32)
@@ -482,6 +494,7 @@ def checklist(bid, step, items, heading="Reviewer checklist: tick every item to 
 
 
 from agents.traice import CHECKLIST as CHECK1  # noqa: E402
+CHECK3 = ["The ApprAIsal output above is correct and its details are verified against official sources and records and will be added to the memo."]
 CHECK2 = ["The CompAIre output above is correct and its details are verified against official sources and records and will be added to the memo."]
 
 
@@ -514,8 +527,9 @@ def paper(fields, kind):
         rows = "".join(f'<tr><td style="width:70px;vertical-align:top">{lab}</td><td style="width:14px;vertical-align:top">:</td>'
                        f'<td style="{"font-weight:700;" if k == "subject" else ""}text-align:justify">{e(fields.get(k))}</td></tr>'
                        for k, lab in (("thru", "Thru"), ("from_", "From"), ("subject", "Subject")))
-        body = "".join(f'<p style="margin:.5rem 0 .2rem"><b>{lab}</b></p><p style="text-align:justify;margin:0 0 0 1.2rem">{e(fields.get(k))}</p>'
-                       for k, lab in docs.MEMO_FIELDS[5:])
+        body = "".join((f'<p style="margin:.6rem 0 .2rem"><b>{lab}</b></p>' if k not in ("s8", "s9") else "")
+                       + f'<div class="ac-memo" style="border:0;padding:0;margin:0 0 0 .4rem;font-size:.86rem">{render.memo_body_html(fields.get(k))}</div>'
+                       for k, lab in docs.MEMO_FIELDS[5:] if str(fields.get(k) or "").strip())
         inner = (f'<p>{e(fields.get("date"))}</p><p><b>MEMORANDUM FOR {e(fields.get("memo_for"))}</b></p><table style="font-size:.86rem">{rows}</table>'
                  f'<hr style="border:0;border-top:1.5px solid #000">{body}')
     else:
@@ -570,15 +584,12 @@ def case(bid):
     def all_done(step, n):
         c = cl.get(step) or {}
         return n > 0 and all((c.get(str(i)) or {}).get("done") for i in range(n))
-    check3 = (rev or {}).get("checklist") or ["The cost assumptions marked 'to verify' have been checked.", "The issues raised by the second reviewer are resolved or noted.",
-                                               "The preliminary comments are edited and complete."]
-    check3 = list(check3[:10]) + ["I have verified this review against the sources and approve it as the basis for the memo."]
-    d1, d2, d3 = all_done("t1", len(CHECK1)), all_done("c2", len(CHECK2)), all_done("s3", len(check3))
-    d4 = d3 and bool(rec.get("comments"))
-    d5 = docs.position_decided(rec.get("memo_fields") or {}) and bool(rec.get("letter_fields"))
+    mf_saved = rec.get("memo_fields") or {}
+    d1, d2, d3 = all_done("t1", len(CHECK1)), all_done("c2", len(CHECK2)), all_done("a3", len(CHECK3))
+    d4 = docs.position_decided(mf_saved) and bool(rec.get("letter_fields"))
     states = []
-    for i, d in enumerate([d1, d2, d3, d4, d5]):
-        prev = [True, d1, d2, d3, d3][i]
+    for i, d in enumerate([d1, d2, d3, d4]):
+        prev = [True, d1, d2, d3][i]
         states.append("done" if d else ("now" if prev else ""))
     st.session_state["_rail"] = (b["label"], states)
     report_notice(bid, 0, "this bill as a whole (corrections and other inputs)")
@@ -596,7 +607,7 @@ def case(bid):
         report_notice(bid, 1, f"Step 1 ({AGENT1}: legislative history)")
         ui.html('<div class="ac-step-d">Identifies what the bill proposes and why it matters for the budget, traces its legislative history, '
                 'groups the related bills and laws by how they relate, and lists its fiscal requirements. Its output becomes Parts II and III '
-                'of the memo, and its findings feed CompAIre and AppraisAI.</div>')
+                'of the memo, and its findings feed CompAIre and ApprAIsal.</div>')
         if live and st.button(f"▶ Run {AGENT1}", type="primary", key="run1"):
             from agents.research import run_agent as run1
             with st.spinner(f"{AGENT1} is tracing the bill..."):
@@ -643,8 +654,8 @@ def case(bid):
         report_notice(bid, 2, f"Step 2 ({AGENT2}: changes and design)")
         ui.html('<div class="ac-step-d">Building on TrAIce\'s salient features, compares the bill\'s major provisions, section by section, with the '
                 'related measures that offer a real alternative, and recommends for each one whether to retain it, adapt an alternative '
-                '(with or without revisions) or remove it, for example where it duplicates existing functions. Its output becomes Part III '
-                '(Comments and Recommendations) of the memo; possible duplications and cost effects go to AppraisAI.</div>')
+                '(with or without revisions) or remove it, for example where it duplicates existing functions. Its output becomes Part IV '
+                '(Comments and Recommendations) of the memo; possible duplications and cost effects go to ApprAIsal.</div>')
         if not d1:
             st.caption("🔒 Complete Step 1's checklist to unlock this step.")
         else:
@@ -656,11 +667,11 @@ def case(bid):
             render.compaire(bid, c_out, c_checks if c_ai else None)
             ui.html('<div class="ac-check"><div class="ac-check-h sc">✓ <span class="tr">CompAIre</span> output and reviewer checklist</div></div>')
             cm = rec.get("compaire_memo") or compaire.memo_text(c_out)
-            ui.html('<div class="ac-memo"><h6>III. Comments and Recommendations</h6>'
+            ui.html('<div class="ac-memo"><h6>IV. Comments and Recommendations</h6>'
                     + (render.memo3_html(cm) if cm.strip() else "<p>No provision needs a decision: all major provisions are recommended for retention.</p>")
                     + "</div>")
             with st.expander("✏️ Edit this text (if needed)" + (" · edited by the reviewer" if rec.get("compaire_memo") else "")):
-                new = field_editor(f"cm_{bid}", {"text": cm}, [("text", "III. Comments and Recommendations")])
+                new = field_editor(f"cm_{bid}", {"text": cm}, [("text", "IV. Comments and Recommendations")])
                 if new is not None:
                     store.save(bid, "compaire_memo", new["text"], "Reviewer edited the CompAIre output")
                     st.rerun()
@@ -672,142 +683,146 @@ def case(bid):
             checklist(bid, "c2", CHECK2, heading=None, subs={0: c_out.get("reviewer_checks") or []},
                       notes={0: grading.note_html(gr2, AGENT2)})
 
-    # Step 3: AppraisAI
+    # Step 3: ApprAIsal
+    from agents import appraise
+    cost = c_cost(bid, catalogue.stamp())
+    a_draft = c_adraft(bid, catalogue.stamp(), t_out, c_out)
+    a_saved = appraise.saved_ai(bid)
+    a_ai = (rec.get("apprAIsal") or {}).get("output") or (a_saved or {}).get("output")
+    a_checks = (rec.get("apprAIsal") or {}).get("checks") if rec.get("apprAIsal") else (a_saved or {}).get("checks")
+    a_out = appraise.normalize(a_ai, bid, a_draft)
     with st.container(border=True):
         ui.step_header(3, AGENT3, "Weigh the impact", "done" if d3 else ("now" if d2 else "lock"))
         report_notice(bid, 3, f"Step 3 ({AGENT3}: cost, overlap or duplication, implementation or governance risk)")
-        ui.html('<div class="ac-step-d">Prepares the preliminary review: an estimated first-year cost based on the government salary schedule and '
-                'the actual spending of similar agencies, possible implementation risks, overlaps with existing agencies, and draft comments. '
-                'A second AI reviewer then checks the draft for errors.</div>')
-        render.fiscal_table(t_out.get("fiscal_requirements") or [])
-        render.compaire_feeds(c_out)
+        ui.html('<div class="ac-step-d">Estimates the budgetary requirements (Personnel Services, MOOE and Capital Outlay) and recommends how '
+                'they fit the budget and the GAA; assesses possible duplication with existing agencies under the Government Optimization '
+                'Act (RA No. 12231); proposes the overall recommendation; lists the DBM bureaus to consult; and compiles memo Parts V to VII.</div>')
         if not d2:
             st.caption("🔒 Complete Step 2's checklist to unlock this step.")
         else:
-            dia_out = c_ai or (rec.get("diagnosis") or {}).get("output")
-            if st.button(f"▶ Run {AGENT3} (with a second check)", type="primary", disabled=not live, key="run3"):
-                from agents.appraisal import run_review, run_redteam
-                with st.spinner(f"{AGENT3} is weighing the impact, then a second reviewer checks the draft..."):
-                    r3 = run_review(bid, research_out, dia_out)
-                    store.save(bid, "review", {"output": r3["draft"], "checks": r3["checks"]}, f"{AGENT3} review")
-                    rt = run_redteam(bid, r3["draft"])
-                    store.save(bid, "redteam", {"output": rt["redteam"]}, "Red-team run")
+            if live and st.button(f"▶ Run {AGENT3}", type="primary", key="run3"):
+                from agents import llm as _llm
+                with st.spinner(f"{AGENT3} is weighing the impact..."):
+                    system, user, _d = appraise.build_messages(bid, t_out, c_out, cost)
+                    text, _meta = _llm.call("apprAIsal", system, user, max_tokens=8000)
+                    o3 = json.loads(text[text.find("{"): text.rfind("}") + 1])
+                store.save(bid, "apprAIsal", {"output": o3, "checks": appraise.check_output(o3, _d)}, f"{AGENT3} run")
                 st.rerun()
-            free_route(f"p3review_{bid}", lambda: build_review_messages(bid, research_out, dia_out)[:2],
-                       lambda out: store.save(bid, "review", {"output": out, "checks": check_review(bid, out)}, f"{AGENT3} review (free route)"))
-            if rev:
-                free_route(f"p3rt_{bid}", lambda: build_redteam_messages(bid, rev),
-                           lambda out: store.save(bid, "redteam", {"output": out}, "Red-team (free route)"))
-            render.appraise(rev, c_cost(bid, catalogue.stamp()), peso, check_review(bid, rev) if rev else None, (rec.get("redteam") or {}).get("output"))
-            if not rev:
-                st.caption(f"{AGENT3} has not drafted a review yet. You can still complete the checklist using ActCheck's own analysis above.")
-            done3 = checklist(bid, "s3", check3, "Reviewer checklist: verify, then approve to unlock comments, memo and letter")
+            src = a_out.get("source", "ai")
+            ui.badges([("Draft prepared by ActCheck's rules (no AI)", "gold")] if src == "rules" else [("Prepared by ApprAIsal (Claude)", "navy")])
+            render.apprAIsal_fiscal(a_out, cost, c_req(bid, catalogue.stamp()), peso)
+            render.apprAIsal_dup(a_out)
+            render.referrals_table(a_out)
+            # bureau comments, without a separate log-in: the reviewer sends the request by the usual channel and pastes the reply
+            refs = a_out.get("referrals") or []
+            if refs:
+                binp = dict(rec.get("bureau_inputs") or {})
+                with st.expander("Bureau comments (if needed): request to send, and the reply received" + (f" · {sum(1 for v in binp.values() if v)} received" if binp else "")):
+                    st.caption("Copy each request into the usual referral memo or e-mail. When a bureau replies, paste its comment here; it goes "
+                               "into Part IV of the memo under 'Comments of the concerned bureaus'.")
+                    changed = False
+                    for r in refs:
+                        code = r.get("bureau", "")
+                        st.markdown(f"**{code}** · {r.get('name', '')}")
+                        st.code(f"May we request the comments of the {r.get('name', code)} on {traice._doc(bid)}, particularly on: "
+                                f"{r.get('why', '').rstrip('.')} ({r.get('parts', '')} of the attached preliminary review).", language=None)
+                        v = st.text_area(f"Comment received from {code}", value=binp.get(code, ""), key=f"bi_{bid}_{code}", height=80)
+                        if v != binp.get(code, ""):
+                            binp[code], changed = v, True
+                    if changed:
+                        store.save(bid, "bureau_inputs", binp, "Bureau comments recorded")
+                        st.rerun()
+            ui.html('<div class="ac-check"><div class="ac-check-h sc">✓ <span class="tr">ApprAIsal</span> output and reviewer checklist</div></div>')
+            am = rec.get("apprAIsal_memo") or appraise.memo_text(a_out)
+            ui.html('<div class="ac-memo">' + "".join(
+                f"<h6>{escape(blk.split(chr(10), 1)[0])}</h6>" + render.memo_body_html(blk.split(chr(10), 1)[1] if chr(10) in blk else "")
+                for blk in am.split("\n\n") if blk.strip()) + "</div>")
+            st.caption(f"Part VII is {AGENT3}'s proposed recommendation ({a_out['recommendation']['label']}); you confirm it in Step 4.")
+            with st.expander("✏️ Edit this text (if needed)" + (" · edited by the reviewer" if rec.get("apprAIsal_memo") else "")):
+                new = field_editor(f"am_{bid}", {"text": am}, [("text", "Parts V to VII")])
+                if new is not None:
+                    store.save(bid, "apprAIsal_memo", new["text"], "Reviewer edited the ApprAIsal output")
+                    st.rerun()
+                if rec.get("apprAIsal_memo") and st.button("Reset to the ApprAIsal draft", key=f"am_reset_{bid}"):
+                    store.save(bid, "apprAIsal_memo", None, "Reviewer reset the ApprAIsal output")
+                    st.rerun()
+            from agents import grading
+            gr3 = appraise.grade(bid, a_out, a_checks if a_ai else None)
+            done3 = checklist(bid, "a3", CHECK3, heading=None, subs={0: a_out.get("reviewer_checks") or []},
+                              notes={0: grading.note_html(gr3, AGENT3)})
             if done3 and not rec.get("approved_review"):
-                store.save(bid, "approved_review", rev or {"summary": b["title"]}, "Reviewer approved the review")
+                store.save(bid, "approved_review", {"summary": b["title"], "apprAIsal": a_out.get("recommendation")}, "Reviewer approved the review")
                 store.set_status(bid, "review approved")
                 st.rerun()
 
-    # Step 4: comments and report
+    # Step 4: memo and letter
     with st.container(border=True):
-        ui.step_header(4, "Comments & report", "Edit and export", "done" if d4 else ("now" if d3 else "lock"))
+        ui.step_header(4, "Memo & letter", "DBM format", "done" if d4 else ("now" if d3 else "lock"))
         if not d3:
-            st.caption("🔒 Approve the review in Step 3 to unlock.")
-        else:
-            from agents.report import markdown as rep_md, docx_bytes
-            comments = rec.get("comments") or [dict(c, include=True) for c in (rev or {}).get("preliminary_comments", [])]
-            ui.html('<div class="ac-step-d">Edit the wording, untick to drop a comment, or add rows. Saved comments go into the report, the memo and the letter.</div>')
-            cdf = pd.DataFrame(comments or [{"include": True, "comment": "", "section": "", "basis": ""}])
-            ed = st.data_editor(cdf[[c for c in ("include", "comment", "section", "basis") if c in cdf]], num_rows="dynamic",
-                                use_container_width=True, key=f"ed_{bid}",
-                                column_config={"include": st.column_config.CheckboxColumn("Include", width="small"),
-                                               "comment": st.column_config.TextColumn("Comment", width="large"),
-                                               "section": st.column_config.TextColumn("Section", width="small")})
-            c1, c2, c3 = st.columns(3)
-            if c1.button("Save comments", type="primary"):
-                store.save(bid, "comments", ed.fillna("").to_dict("records"), "Reviewer edited comments")
-                st.rerun()
-            c2.download_button("Download report (Word)", docx_bytes(bid), file_name=f"ActCheck_preliminary_report_{bid}.docx")
-            c3.download_button("Download report (Markdown)", rep_md(bid), file_name=f"ActCheck_preliminary_report_{bid}.md")
-
-    # Step 5: memo and letter
-    with st.container(border=True):
-        ui.step_header(5, "Memo & letter", "DBM format", "done" if d5 else ("now" if d3 else "lock"))
-        if not d3:
-            st.caption("🔒 Approve the review in Step 3 to unlock.")
+            st.caption("🔒 Complete Step 3's checklist to unlock.")
             return
-        ui.html('<div class="ac-step-d">Drafts in the DBM memorandum and letter layout (Tahoma), pre-filled from the approved review and your '
-                'comments. Offices, dates and the addressee are bracketed for you to complete; the position is yours to decide.</div>')
-        approved = rec.get("approved_review") or {}
-        comments = rec.get("comments") or approved.get("preliminary_comments", [])
+        ui.html('<div class="ac-step-d">The memorandum compiles the three agents\' reviewed outputs, Parts I to VII, without repeating '
+                'statements. Offices, dates and the addressee are bracketed for you to complete; you confirm the recommendation.</div>')
         mf = rec.get("memo_fields")
-        bureau = st.text_area("Comments of the concerned bureaus to include (optional, e.g. BMB / OPCCB)", value="" if mf else "", key="bureau")
-        c1, c2 = st.columns(2)
-        if not mf or c1.button("Rebuild the memo from the approved review and comments"):
-            from agents import traice as _tr
-            _sv = (_tr.saved_ai(bid) or {}).get("output")
-            _ai = _sv if _sv and (not research_out or "proposal" not in research_out) else research_out
-            tm = rec.get("traice_memo") or (lambda o: {"salient": o.get("salient_features", ""), "related": o.get("related_measures_policy", "")})(
-                _tr.normalize(_ai, bid, c_traice(bid, catalogue.stamp())))
-            from agents import compaire as _cp
-            _c = (rec.get("compaire") or {}).get("output") or (_cp.saved_ai(bid) or {}).get("output")
-            cmemo = rec.get("compaire_memo") or (_cp.memo_text(_cp.normalize(_c, bid, c_cdraft(bid, catalogue.stamp(), t_out))))
-            mf = docs.memo_prefill(bid, approved, comments, bureau,
-                                   "" if str(row.get("status_basis", "")).startswith("Derived") else row.get("status", ""), tm, cmemo)
-            store.save(bid, "memo_fields", mf, "Memo pre-filled")
+        if not mf or "s7" not in mf or st.button("Rebuild the memo from the agents' outputs"):
+            tm = rec.get("traice_memo") or {"salient": t_out.get("salient_features", ""), "related": t_out.get("related_measures_policy", "")}
+            cmemo = rec.get("compaire_memo") or compaire.memo_text(c_out)
+            amemo = rec.get("apprAIsal_memo") or appraise.memo_text(a_out)
+            blocks = {blk.split("\n", 1)[0][:4].strip(): blk.split("\n", 1)[1] if "\n" in blk else "" for blk in amemo.split("\n\n") if blk.strip()}
+            ctx = "\n".join(x for x in (t_out.get("proposal", ""), t_out.get("alignment", "")) if x)
+            parts_ = appraise.harmonize(ctx, tm["salient"], tm["related"], cmemo, blocks.get("V.", ""), blocks.get("VI.", ""), blocks.get("VII.", ""))
+            mf = docs.memo_prefill(bid, dict(zip(("context", "salient", "related", "comments", "fiscal", "duplication", "recommendation"), parts_)),
+                                   "" if str(row.get("status_basis", "")).startswith("Derived") else row.get("status", ""),
+                                   a_out.get("referrals"), rec.get("bureau_inputs"))
+            store.save(bid, "memo_fields", mf, "Memo compiled from the agents' outputs")
             store.set_status(bid, "memo drafted")
             st.rerun()
-        if c2.button(f"Redraft the narrative with {AGENT3}", disabled=not live):
-            from agents.appraisal import run_memo
-            with st.spinner("Drafting..."):
-                ai = run_memo(bid, dict(approved, preliminary_comments=comments), bureau)["memo"]
-            store.save(bid, "memo_fields", docs.apply_ai(mf, ai), f"{AGENT3} memo draft")
-            st.rerun()
-        free_route(f"p3memo_{bid}", lambda: build_memo_messages(bid, dict(approved, preliminary_comments=comments), bureau),
-                   lambda out: store.save(bid, "memo_fields", docs.apply_ai(mf, out), "Memo (free route)"))
         mt1, mt2 = st.tabs(["Memorandum for the Secretary", "Letter to the committee or principal author"])
         with mt1:
-            ui.html("<p><b>Your position</b></p>")
-            p1, p2 = st.columns([1.2, 2])
-            cur = next((i for i, x in sorted(enumerate(docs.POSITIONS), key=lambda y: -len(y[1]))
-                        if docs.position_decided(mf) and x.upper() in (mf.get("s4") or "")), None)
-            pos = p1.radio("Position", docs.POSITIONS, horizontal=False, label_visibility="collapsed", index=cur, key=f"pos_{bid}")
-            extra = p2.text_area("Reason or conditions (optional)", key="pos_extra", height=90)
-            if st.button("Set position in the memo", disabled=pos is None):
-                txt = (f"In view of the foregoing, we recommend that the DBM manifest its position to {pos.upper()} the bill"
-                       + (", subject to the comments above" if "amend" in pos else "") + "." + (f" {extra.strip()}" if extra.strip() else ""))
-                store.save(bid, "memo_fields", dict(mf, s4=txt), f"Reviewer set the position: {pos}")
+            ui.html("<p><b>VII. Recommendation: confirm</b></p>")
+            keys = list(appraise.OPTIONS)
+            prop = a_out["recommendation"]["option"]
+            pick = st.radio("Recommendation", keys, index=keys.index(prop), horizontal=True, label_visibility="collapsed",
+                            format_func=lambda k: appraise.OPTIONS[k][0] + (" (proposed by ApprAIsal)" if k == prop else ""), key=f"pos_{bid}")
+            prop_text = mf.get("_proposed") if pick == prop and mf.get("_proposed") else "7.1 " + appraise.OPTIONS[pick][1]
+            txt = st.text_area("Part VII text", value=mf.get("s7") if docs.position_decided(mf) else prop_text, height=110, key=f"s7_{bid}_{pick}")
+            if st.button("Confirm the recommendation in the memo", type="primary"):
+                store.save(bid, "memo_fields", docs.set_recommendation(mf, txt), f"Reviewer confirmed the recommendation: {appraise.OPTIONS[pick][0]}")
                 st.rerun()
-            new = field_editor(f"memo_{bid}", mf, docs.MEMO_FIELDS)
-            if new:
-                store.save(bid, "memo_fields", new, "Reviewer edited the memo")
+            ek = f"edit_memo_{bid}"
+            if st.button("✏️ Edit memo" if not st.session_state.get(ek) else "Close the editor", key=f"btn_{ek}"):
+                st.session_state[ek] = not st.session_state.get(ek)
                 st.rerun()
+            if st.session_state.get(ek):
+                new = field_editor(f"memo_{bid}", mf, docs.MEMO_FIELDS)
+                if new:
+                    store.save(bid, "memo_fields", dict(mf, **new), "Reviewer edited the memo")
+                    st.session_state[ek] = False
+                    st.rerun()
             for x in governance_flags(docs.memo_text(mf), "letter"):
                 st.warning(x)
             paper(mf, "memo")
             st.download_button("Download memo (Word, Tahoma)", docs.memo_docx(mf), file_name=f"Memo_for_the_Secretary_{bid}.docx", type="primary")
         with mt2:
             if not docs.position_decided(mf):
-                st.info("Set your position in the memorandum first; the letter conveys that position.")
+                st.info("Confirm the recommendation in the memorandum first; the letter conveys it.")
             else:
                 lf = rec.get("letter_fields")
-                l1, l2 = st.columns(2)
-                if not lf or l1.button("Rebuild the letter from the memo"):
+                if not lf or st.button("Rebuild the letter from the memo"):
                     lf = docs.letter_prefill(bid, mf)
                     store.save(bid, "letter_fields", lf, "Letter pre-filled")
                     store.set_status(bid, "letter drafted")
                     st.rerun()
-                if l2.button(f"Redraft the paragraphs with {AGENT3}", disabled=not live):
-                    from agents.appraisal import run_letter
-                    with st.spinner("Drafting..."):
-                        ai = run_letter(bid, docs.memo_text(mf))["letter"]
-                    store.save(bid, "letter_fields", docs.apply_ai(lf, ai), f"{AGENT3} letter draft")
+                lk = f"edit_letter_{bid}"
+                if st.button("✏️ Edit letter" if not st.session_state.get(lk) else "Close the editor", key=f"btn_{lk}"):
+                    st.session_state[lk] = not st.session_state.get(lk)
                     st.rerun()
-                free_route(f"p3letter_{bid}", lambda: build_letter_messages(bid, docs.memo_text(mf)),
-                           lambda out: store.save(bid, "letter_fields", docs.apply_ai(lf, out), "Letter (free route)"))
-                new = field_editor(f"letter_{bid}", lf, docs.LETTER_FIELDS)
-                if new:
-                    store.save(bid, "letter_fields", new, "Reviewer edited the letter")
-                    st.rerun()
+                if st.session_state.get(lk):
+                    new = field_editor(f"letter_{bid}", lf, docs.LETTER_FIELDS)
+                    if new:
+                        store.save(bid, "letter_fields", new, "Reviewer edited the letter")
+                        st.session_state[lk] = False
+                        st.rerun()
                 for x in governance_flags(docs.letter_text(lf), "letter"):
                     st.warning(x)
                 paper(lf, "letter")
@@ -886,7 +901,7 @@ def billy_general():
     for i, s_ in enumerate(G.suggestions()):
         if not any(m["content"] == s_ for m in hist):
             st.button(s_, key=f"gsug_{i}", on_click=_guide_ask, args=(s_,))
-    st.text_input("Ask about ActCheck", key="billy_in_guide", placeholder="e.g. What does AppraisAI do?", on_change=_guide_ask)
+    st.text_input("Ask about ActCheck", key="billy_in_guide", placeholder="e.g. What does ApprAIsal do?", on_change=_guide_ask)
     c1, c2 = st.columns(2)
     c1.button("Ask", key="billy_go_guide", on_click=_guide_ask, type="primary")
     if hist:
@@ -1081,7 +1096,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                 case(bid)
                 if st.session_state.get("_rail"):
                     lab, states = st.session_state["_rail"]
-                    rail.markdown(ui.progress_rail(lab, [AGENT1, AGENT2, AGENT3, "Comments & report", "Memo & letter"], STEP_DESCS, states),
+                    rail.markdown(ui.progress_rail(lab, [AGENT1, AGENT2, AGENT3, "Memo & letter"], STEP_DESCS, states),
                                   unsafe_allow_html=True)
 
     elif page == "Library":
@@ -1141,7 +1156,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                         c[3].markdown(f'<div class="ac-refcell">{escape(r["Released"])}</div>', unsafe_allow_html=True)
                         c[4].markdown(f'<div class="ac-refcell">{escape(r["Purpose in ActCheck"])}</div>', unsafe_allow_html=True)
                 ui.html("<div class='ac-refnote'><b>Note:</b> 📖 Read opens the text ActCheck keeps of these documents. They are split into "
-                        "sections so AppraisAI can quote them in a review, and each quote is checked against this text, as with bills.</div>")
+                        "sections so ApprAIsal can quote them in a review, and each quote is checked against this text, as with bills.</div>")
             st.caption("Titles open the document at its official source, or a copy kept with ActCheck where no stable public link was found. "
                        "Internal DBM papers are not part of this library.")
         else:
@@ -1262,8 +1277,8 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                    escape(manila(r["time"], "%d %b %Y"))] for r in srows], cls="src")
 
         # 3. Agent runs
-        order = {"TrAIce": 1, "CompAIre": 2, "AppraisAI (draft review)": 3, "AppraisAI (second-reviewer check)": 4,
-                 "AppraisAI (memo)": 5, "AppraisAI (letter)": 6}
+        order = {"TrAIce": 1, "CompAIre": 2, "ApprAIsal (draft review)": 3, "ApprAIsal (second-reviewer check)": 4,
+                 "ApprAIsal (memo)": 5, "ApprAIsal (letter)": 6}
         names = {"p1": AGENT1, "p2": AGENT2}
         agg = {}
         for f in sorted((ROOT / "logs").glob("*.jsonl")):
@@ -1280,8 +1295,8 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                     agent = names[key]
                 else:
                     stp = str(d.get("step") or (d.get("meta") or {}).get("step") or "review")
-                    agent = {"review": "AppraisAI (draft review)", "redteam": "AppraisAI (second-reviewer check)",
-                             "memo": "AppraisAI (memo)", "letter": "AppraisAI (letter)"}.get(stp, "AppraisAI (draft review)")
+                    agent = {"review": "ApprAIsal (draft review)", "redteam": "ApprAIsal (second-reviewer check)",
+                             "memo": "ApprAIsal (memo)", "letter": "ApprAIsal (letter)"}.get(stp, "ApprAIsal (draft review)")
                 a = agg.setdefault(bid, {"agent": agent, "time": ""})
                 if order.get(agent, 0) > order.get(a["agent"], 0):
                     a["agent"] = agent

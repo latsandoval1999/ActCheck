@@ -52,7 +52,7 @@ def category(group, topic):
 
 
 def step_of(category):
-    """Which part of the Review workspace a report concerns: 1 TrAIce, 2 CompAIre, 3 AppraisAI, 0 the whole bill."""
+    """Which part of the Review workspace a report concerns: 1 TrAIce, 2 CompAIre, 3 ApprAIsal, 0 the whole bill."""
     c = category or ""
     g = c.split(":")[0].strip()
     if g in STEP:

@@ -30,11 +30,11 @@ Failures the course asks this agent to catch: fake-distinct options; a flatterin
 | Date | Test or how found | What happened | Result | Rule or fix |
 |---|---|---|---|---|
 | 8 Nov 2026 | Live run v1, HB 2322 vs SB 1624 | The rule baseline marked Duration, Advisory Council and Technical Secretariat clauses "changed" although equal in substance, and paired Effectivity with the Repealing clause because of OCR | Held (the agent corrected 10 baseline pairings) | Agent's baseline corrections kept; checker flags differences claimed in near-identical sections |
-| 8 Nov 2026 | Reviewer reading the v1 output | Wrong fiscal direction: SB 1624's added operational tasks (farmer training, identifying markets) labelled "likely lowers cost"; added tasks normally raise cost | Failed (fixed in v3) | v3: every cost note carries a one-line reason and goes to AppraisAI, where it is reviewed with the costing; CompAIre no longer shows cost effects as findings |
+| 8 Nov 2026 | Reviewer reading the v1 output | Wrong fiscal direction: SB 1624's added operational tasks (farmer training, identifying markets) labelled "likely lowers cost"; added tasks normally raise cost | Failed (fixed in v3) | v3: every cost note carries a one-line reason and goes to ApprAIsal, where it is reviewed with the costing; CompAIre no longer shows cost effects as findings |
 | 17 Nov 2026 | Reviewer reading v1/v2 design | v1 compared the bill with one chosen bill only, so the "design options" were mostly near-copies of the bill (fake-distinct options) and the closest bill offered little to choose from | Failed | v3 picks a comparator per provision for its alternative (differences outweigh similarities), skips near-identical copies, and limits recommendations to four defined options |
 | 17 Nov 2026 | Building the v3 rule draft | The rule draft first compared provisions with a Senate committee report that only repeats SB 1624's text, and described differences in garbled phrases ("members: 10 (this bill: 12)" in memo prose) | Failed | Committee reports dropped when the bill itself is available; separate table and memo phrasing ("SB No. 1345 ... provides for 10 members") |
 
-## AppraisAI (Agent 3): Appraisal and Governance
+## ApprAIsal (Agent 3): Appraisal and Governance
 
 Failure the course asks this agent to catch: drift toward tasks it should not do.
 
@@ -45,6 +45,9 @@ Failure the course asks this agent to catch: drift toward tasks it should not do
 | 8 Nov 2026 | Red-teamer | Could not check the comparator table because it was not in its input | Failed | Comparator table added to the red-team input |
 | 16 Nov 2026 | Review of cost sources | COA obligations include program funds, overstating personnel cost per position | Failed | Method B moved to FY 2026 GAA personnel and overhead per authorized position; COA kept as a cross-check. HB 2322 P67.7M–P270.0M → P65.6M–P201.8M |
 | 8 Nov 2026 | Scope test (governance) | Drafts must never state the DBM position or name officials | Held | Checker blocks forbidden phrases and officials' names; the letter opens only after the analyst sets the position |
+| 17 Nov 2026 | Red-team: a peso figure not produced by the cost engine written into Part V | Flagged "figure not from the cost engine or the bill"; output not saved | Held | `appraise.check_output`; regression test `test_invented_peso_figure_is_flagged` |
+| 17 Nov 2026 | Building v3 (memo compiled from the three agents) | The same sentence appeared in Part IV (CompAIre) and Part V (ApprAIsal) because their paragraph numbers differed, so the de-duplication missed it | Failed (caught before release) | `appraise.harmonize` compares sentences without their paragraph numbers and keeps the first part's number; test `test_harmonize_drops_repeated_sentences` |
+| 17 Nov 2026 | Scope test (governance) | The overall recommendation could have gone straight into the memo from the agent | Held | ApprAIsal only proposes Part VII; the memo keeps a placeholder until the reviewer picks an option and confirms it; the letter opens only after that |
 
 ## Portal and data (supporting the agents)
 

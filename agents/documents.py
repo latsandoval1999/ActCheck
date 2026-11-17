@@ -3,14 +3,15 @@
 The layout follows DBM memoranda and position-paper letters on legislative measures (reviewed for format only):
 the DBM letterhead text (Republic of the Philippines / Department of Budget and Management / General Solano Street,
 San Miguel, Manila); date; MEMORANDUM FOR THE SECRETARY / Thru / From / Subject; a rule; numbered sections 1.0 to
-6.0 (1.0 request, 1.1 referral to bureaus, 2.0 Salient Features, 3.0 Comments with 3.1 per bureau, 4.0
-Recommendation, 5.0 attached letter, 6.0 for the Secretary's consideration) in Tahoma; the letter opens
+Parts I to VII (I Background with the referral to bureaus, II Salient Features, III Related Measures and Policy
+Considerations, IV Comments and Recommendations with the bureaus' comments, V Fiscal and Budgetary Requirements, VI Possible
+Duplication with Existing Agencies when found, VII Recommendation), then the attached letter and closing, in Tahoma; the letter opens
 "Greetings!" and "We respectfully submit the comments and recommendations of the Department of Budget and
 Management on ...". The DBM seal is left for DBM to add on its official template (this public prototype does
 not reproduce it), and there are no names of officials, no signatures and no approval boxes. Offices are
 bracketed placeholders, the position stays with the reviewer, and every draft carries the AI-assisted label.
 
-Fields are pre-filled from the reviewer-approved review and comments (no AI needed); AppraisAI can
+Fields are pre-filled from the reviewer-approved review and comments (no AI needed); ApprAIsal can
 redraft the narrative fields, and the reviewer edits everything before download.
 """
 import io
@@ -20,15 +21,18 @@ from datetime import date
 from pipeline.compare import load
 
 LABEL = "AI-assisted preliminary draft for DBM reviewer validation. Not an official position."
-POSITION_PLACEHOLDER = "[POSITION TO BE DETERMINED BY THE REVIEWER: support / support with amendments / defer / oppose]"
+POSITION_PLACEHOLDER = "[RECOMMENDATION TO BE CONFIRMED BY THE REVIEWER: no objection / no objection subject to amendments / deferment]"
 SIGNATURE = "[SIGNATURE BLOCK - to be completed by DBM]"
-POSITIONS = ["support", "support with amendments", "defer", "oppose"]
+POSITIONS = ["a", "b", "c"]          # ApprAIsal's options; the reviewer confirms one
+POSITION_LABELS = {"a": "Interpose no objection", "b": "Interpose no objection, subject to amendments",
+                   "c": "Constrained from supporting the proposed measure"}
 FONT = "Tahoma"
 
 MEMO_FIELDS = [("date", "Date"), ("memo_for", "Memorandum for"), ("thru", "Thru"), ("from_", "From"), ("subject", "Subject"),
-               ("s1", "1.0 Background"), ("s1_1", "1.1 Referral to DBM bureaus"), ("s2", "2.0 Salient features"),
-               ("s3_1", "3.1 Comments of the concerned bureaus"), ("s3_2", "3.2 Observations and proposed comments"),
-               ("s3_3", "3.3 Fiscal implications"), ("s4", "4.0 Recommendation"), ("s5", "5.0 Draft letter"), ("s6", "6.0 Closing")]
+               ("s1", "I. Background"), ("s2", "II. Salient Features"), ("s3", "III. Related Measures and Policy Considerations"),
+               ("s4", "IV. Comments and Recommendations"), ("s4_b", "Comments of the concerned bureaus"),
+               ("s5", "V. Fiscal and Budgetary Requirements"), ("s6", "VI. Possible Duplication with Existing Agencies"),
+               ("s7", "VII. Recommendation"), ("s8", "Draft letter"), ("s9", "Closing")]
 LETTER_FIELDS = [("date", "Date"), ("addressee", "Addressee"), ("office", "Committee / office"), ("address", "Address"),
                  ("subject", "Subject"), ("salutation", "Salutation"), ("p1", "Opening paragraph"), ("p2", "DBM comments"),
                  ("p3", "Fiscal implications"), ("p4", "Closing paragraph"), ("closing", "Complimentary close")]
@@ -54,59 +58,70 @@ def _policy_line(b):
     return policy.memo_line({"title": b.get("title", ""), "congress": b.get("congress")})
 
 
-def memo_prefill(bid, review, comments=None, bureau_inputs="", status="", traice_memo=None, compaire_memo=""):
+def memo_prefill(bid, parts=None, status="", referrals=None, bureau_inputs=None):
+    """The memorandum, Parts I to VII, from the three agents' reviewed outputs (no AI needed).
+    parts: {"context", "salient", "related", "comments", "fiscal", "duplication", "recommendation"}.
+    The recommendation (Part VII) stays a placeholder until the reviewer confirms one of ApprAIsal's options."""
     bills, _ = load()
     b = bills[bid]
     title = b["title"].rstrip(".")
-    comments = [c for c in (comments or review.get("preliminary_comments", [])) if c.get("include", True)]
-    lines = []
-    for i, c in enumerate(comments, 1):
-        sec = _section_no(c.get("section"))
-        lines.append(f"{i}. " + (f"On {sec}: " if sec else "") + str(c.get("comment", "")).strip())
-    fiscal = (review.get("fiscal") or {}).get("narrative", "")
+    parts = parts or {}
+    refs = referrals or []
+    nm = [f"the {r.get('name', r.get('bureau', ''))} ({r.get('bureau', '')})" for r in refs]
+    ref_line = ((" The bill was referred to " + (", ".join(nm[:-1]) + " and " + nm[-1] if len(nm) > 1 else nm[0]) + " for comments on "
+                 + "; ".join(sorted({r.get("why", "").split(" (")[0].lower() for r in refs})) + ".") if refs else
+                " [The bill was referred to the concerned DBM bureaus for comments on ______.]")
+    bur = "\n".join(f"The {k} commented that {v.strip()}" if not v.strip().lower().startswith("the ") else v.strip()
+                     for k, v in (bureau_inputs or {}).items() if v and v.strip())
     return {
         "date": today(), "memo_for": "THE SECRETARY",
         "thru": "[The Undersecretary, Legal and Legislative Group]",
-        "from_": "[The Director, Budget Information Legislative and Liaison Service]",
+        "from_": "[The Director, Budget Information Legislative Service]",
         "subject": f"PRELIMINARY COMMENTS ON {bill_name(bid).upper()} ENTITLED \"{title.upper()}\"",
         "s1": (f"This pertains to [the request of the Committee on ______ dated ______] for the comments and recommendations of the "
                f"Department of Budget and Management (DBM) on {bill_name(bid)} entitled \"{title}.\""
                + (f" Its status as listed is: {status.lower()}." if status and not status.startswith("Status not") else "")
-               + _policy_line(b)),
-        "s1_1": "[BILLS referred the bill to the concerned DBM bureaus, e.g. the Budget and Management Bureau (BMB) and the "
-                "Organization, Position Classification and Compensation Bureau (OPCCB), for comments on ______.]",
-        "s2": ("\n\n".join(x for x in ((traice_memo or {}).get("salient", ""), (traice_memo or {}).get("related", "")) if x.strip())
-               or review.get("summary", "")),
-        "s3_1": bureau_inputs.strip() or "[Comments of the concerned bureaus, as received.]",
-        "s3_2": "\n\n".join(x for x in (compaire_memo.strip(), "\n".join(lines)) if x) or "[Proposed comments.]",
-        "s3_3": fiscal or "[Fiscal implications: to be completed from the AppraisAI review and the bureaus' comments.]",
-        "s4": "In view of the foregoing, we recommend to manifest as DBM position that we " + POSITION_PLACEHOLDER,
-        "s5": "Should the Secretary find merit to our recommendation, attached is the draft letter to [the Chairperson, Committee on ______, "
+               + ref_line + ("\n" + parts["context"] if parts.get("context") else "")),
+        "s2": parts.get("salient", "") or "[Salient features from TrAIce.]",
+        "s3": parts.get("related", "") or "[Related measures and policy considerations from TrAIce.]",
+        "s4": parts.get("comments", "") or "[Comments and recommendations from CompAIre.]",
+        "s4_b": bur or "[Comments of the concerned bureaus, as received.]",
+        "s5": parts.get("fiscal", "") or "[Fiscal and budgetary requirements from ApprAIsal.]",
+        "s6": parts.get("duplication", ""),
+        "s7": POSITION_PLACEHOLDER,
+        "s8": "Should the Secretary find merit to our recommendation, attached is the draft letter to [the Chairperson, Committee on ______, "
               "House of Representatives / Senate of the Philippines] conveying the DBM comments.",
-        "s6": "For the Secretary's consideration, please. Thank you.",
+        "s9": "For the Secretary's consideration, please. Thank you.",
+        "_proposed": parts.get("recommendation", ""),
     }
 
 
+def set_recommendation(fields, text):
+    """The reviewer confirms Part VII (ApprAIsal's proposal, as edited)."""
+    return dict(fields, s7=text)
+
+
 def apply_ai(fields, ai):
-    """Merge an AppraisAI memo or letter draft (JSON with the same keys) into the fields; placeholders stay."""
+    """Merge an ApprAIsal memo or letter draft (JSON with the same keys) into the fields; placeholders stay."""
     out = dict(fields)
     for k, v in (ai or {}).items():
         if k in out and isinstance(v, (str, list)) and v:
             out[k] = "\n".join(v) if isinstance(v, list) else v
-    if "s4" in out and POSITION_PLACEHOLDER not in out["s4"] and not position_decided(fields):
-        out["s4"] = POSITION_PLACEHOLDER          # the agent may never set the position
+    if "s7" in out and POSITION_PLACEHOLDER not in out["s7"] and not position_decided(fields):
+        out["s7"] = POSITION_PLACEHOLDER          # the agent may propose, but only the reviewer sets the recommendation
     return out
 
 
 def position_decided(fields):
-    return POSITION_PLACEHOLDER not in (fields.get("s4") or "") and "[POSITION" not in (fields.get("s4") or "")
+    s7 = fields.get("s7") or ""
+    return bool(s7.strip()) and POSITION_PLACEHOLDER not in s7 and "[RECOMMENDATION" not in s7 and "[POSITION" not in s7
 
 
 def memo_text(fields):
     lab = dict(MEMO_FIELDS)
     head = [f"{fields.get('date', '')}", f"MEMORANDUM FOR {fields.get('memo_for', '')}", f"Thru: {fields.get('thru', '')}",
             f"From: {fields.get('from_', '')}", f"Subject: {fields.get('subject', '')}"]
-    body = [f"{lab[k]}\n{fields.get(k, '')}" for k, _ in MEMO_FIELDS[5:]]
+    body = [f"{lab[k]}\n{fields.get(k, '')}" for k, _ in MEMO_FIELDS[5:] if fields.get(k) or k != "s6"]
     return "\n".join(head) + "\n\n" + "\n\n".join(body) + f"\n\n{SIGNATURE}\n\n{LABEL}"
 
 
@@ -115,12 +130,12 @@ def letter_prefill(bid, memo_fields, chamber_hint=None):
     title = bills[bid]["title"].rstrip(".")
     chamber = "Senate of the Philippines" if bid.startswith("SB") else "House of Representatives"
     place = "Pasay City" if bid.startswith("SB") else "Quezon City"
-    s4 = (memo_fields.get("s4") or "").upper()
-    chosen = next((x for x in sorted(POSITIONS, key=len, reverse=True) if x.upper() in s4), None) if position_decided(memo_fields) else None
-    stance = {"support": "supports the passage of the bill",
-              "support with amendments": "supports the bill, subject to the comments below",
-              "defer": "respectfully recommends that action on the bill be deferred, in view of the comments below",
-              "oppose": "is unable to support the bill, in view of the comments below"}.get(chosen, "[states its position]")
+    s7 = memo_fields.get("s7") or ""
+    stance = ("[states its position]" if not position_decided(memo_fields) else
+              "interposes no objection to the proposed measure, subject to the incorporation of the comments below" if "subject to" in s7 else
+              "interposes no objection to the proposed measure" if "no objection" in s7 else
+              "respectfully recommends that further consideration of the measure be deferred until the issues below are addressed"
+              if "deferred" in s7 else "[states its position]")
     return {
         "date": today(),
         "addressee": "[HON. ______]",
@@ -131,8 +146,8 @@ def letter_prefill(bid, memo_fields, chamber_hint=None):
         "p1": (f"We respectfully submit the comments and recommendations of the Department of Budget and Management (DBM) "
                f"on {bill_name(bid)} entitled \"{title}.\""),
         "p2": (f"After review, the DBM {stance}. In particular, we respectfully offer the following comments:\n"
-               f"{memo_fields.get('s3_2', '')}"),
-        "p3": memo_fields.get("s3_3", ""),
+               f"{memo_fields.get('s4', '')}" + (f"\n{memo_fields.get('s6')}" if memo_fields.get("s6") else "")),
+        "p3": memo_fields.get("s5", ""),
         "p4": "We trust that these comments will be considered in the Committee's deliberations. The DBM remains available to provide "
               "further technical assistance on the measure.\n\nThank you very much.",
         "closing": "Very truly yours,",
@@ -262,31 +277,28 @@ def memo_docx(fields):
         for cell in t.columns[i].cells:
             cell.width = w
     _rule(doc)
-    heads = [("s1", "1.0", None), ("s1_1", "1.1", None), ("s2", "2.0", "Salient Features"), ("s3_1", "3.0", "Comments"),
-             ("s3_2", None, None), ("s3_3", None, None), ("s4", "4.0", "Recommendation"), ("s5", "5.0", None), ("s6", "6.0", None)]
-    sub = {"s3_1": "3.1 Comments of the Concerned Bureaus", "s3_2": "3.2 Observations and Proposed Comments", "s3_3": "3.3 Fiscal Implications"}
-    for k, num, head in heads:
-        if head:
-            p = doc.add_paragraph()
-            _run(p, f"{num}  ")
-            _run(p, head, underline=True)
-            if k in sub:
-                p = doc.add_paragraph()
-                p.paragraph_format.left_indent = Cm(1.0)
-                _run(p, sub[k], bold=True)
-            _body(doc, fields.get(k, ""))
-        elif k in sub:
-            p = doc.add_paragraph()
+    for k, head in MEMO_FIELDS[5:]:
+        val = fields.get(k, "")
+        if k == "s6" and not str(val).strip():
+            continue                                   # Part VI only when a duplication was found
+        if k in ("s8", "s9"):
+            _body(doc, val, indent_cm=0)
+            continue
+        p = doc.add_paragraph()
+        if k == "s4_b":
             p.paragraph_format.left_indent = Cm(1.0)
-            _run(p, sub[k], bold=True)
-            _body(doc, fields.get(k, ""))
+            _run(p, head, bold=True, italic=True)
         else:
-            lines = str(fields.get(k, "")).split("\n")
-            p = doc.add_paragraph()
-            _run(p, f"{num}  ")
-            _run(p, lines[0])
-            if len(lines) > 1:
-                _body(doc, "\n".join(lines[1:]))
+            _run(p, head, bold=True)
+        for line in str(val or "").split("\n"):
+            if not line.strip():
+                continue
+            if re.match(r"^On (the )?\w", line.strip()) and len(line) < 110 and not line.strip().endswith("."):
+                q = doc.add_paragraph()
+                q.paragraph_format.left_indent = Cm(1.0)
+                _run(q, line.strip(), bold=True, italic=True)
+            else:
+                _body(doc, line)
     doc.add_paragraph()
     p = doc.add_paragraph()
     _run(p, SIGNATURE, italic=True)

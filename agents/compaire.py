@@ -5,9 +5,9 @@ section, with the most useful alternative in related measures (chosen per provis
 where it repeats), and recommends for each provision one of four design options:
     Retain provision · Adapt alternative · Adapt alternative with revisions · Remove provision
 with the reason, the trade-offs and the gaps to check. It also notes possible duplication of existing functions and the
-likely cost direction of each difference; both feed AppraisAI (Step 3) and are reviewed there, not here.
+likely cost direction of each difference; both feed ApprAIsal (Step 3) and are reviewed there, not here.
 
-Main output: memo Part III (Comments and Recommendations), only for provisions that need a decision
+Main output: memo Part IV (Comments and Recommendations), only for provisions that need a decision
 (adapt, adapt with revisions, remove); provisions recommended for retention are left out.
 
 Rules-only draft (no AI): rule_draft(). Claude's run: build_messages() + check_output(); saved runs in
@@ -163,7 +163,7 @@ def _name(i):
 
 
 def rule_draft(bid, t_out=None, pack=None):
-    """CompAIre's draft by code (no AI): rows of the Substantial Differences and Design Options table and memo Part III."""
+    """CompAIre's draft by code (no AI): rows of the Substantial Differences and Design Options table and memo Part IV."""
     bills, secs = load()
     b = bills.get(bid) or {}
     doc = traice._doc(bid)
@@ -184,7 +184,7 @@ def rule_draft(bid, t_out=None, pack=None):
             differences = (f"{_name(c)}, {cref}: " + ("; ".join(d[0] for d in diff) if diff else
                            f"same matter with different terms ({al['similarity']:.0%} wording in common)") + ".")
             if r["area"] == "Funding" and diff:
-                rec, why = RECS[2], f"{_name(c)} sets a clearer funding basis; adapt it, with the amount to be validated in AppraisAI."
+                rec, why = RECS[2], f"{_name(c)} sets a clearer funding basis; adapt it, with the amount to be validated in ApprAIsal."
             elif diff:
                 rec, why = RECS[0], "Differences noted; ActCheck's rules do not judge design merit. Decide after reading both provisions."
             else:
@@ -207,18 +207,18 @@ def rule_draft(bid, t_out=None, pack=None):
                          "tradeoffs": TRADEOFFS.get(r["area"], ""), "gap": "; ".join(gaps)})
         if r["best"] and r["best"][4]:
             cost.append({"item": ref, "direction": "unclear", "why": "; ".join(d[0] for d in r["best"][4])})
-    # memo Part III: provisions that need a decision, plus provisions with fact differences for the reviewer to settle
+    # memo Part IV: provisions that need a decision, plus provisions with fact differences for the reviewer to settle
     n = 0
     for row in out_rows:
         if row["recommendation"] in DECISION or (row["comparator"] and "(this bill:" in row["differences"]):
             n += 1
             gist = traice._gist(next(x["text"] for x in secs[bid] if x["id"] == row["target_section"]),
                                 next(x["heading"] for x in secs[bid] if x["id"] == row["target_section"]))
-            para = f"3.{n} {row['section_ref']} of {doc} {gist.rstrip('.…')}."
+            para = f"4.{n} {row['section_ref']} of {doc} {gist.rstrip('.…')}."
             if row.get("_memo_cmp"):
                 para += " " + row["_memo_cmp"]
             para += (f" In this regard, we recommend that the provision be revised along the lines of {_name(row['comparator']['id'])}, "
-                     "subject to the validation of the cost by AppraisAI." if row["recommendation"] == RECS[2] else
+                     "subject to the validation of the cost by ApprAIsal." if row["recommendation"] == RECS[2] else
                      " The reviewer may consider whether to retain the provision or adapt the alternative.")
             memo.append({"heading": f"On the {row['area'][0].lower() + row['area'][1:]}", "paragraphs": [para]})
     for row in out_rows:
@@ -229,7 +229,7 @@ def rule_draft(bid, t_out=None, pack=None):
 
 
 def memo_text(out):
-    """Memo Part III as editable text: a subheading line per topic, then numbered paragraphs."""
+    """Memo Part IV as editable text: a subheading line per topic, then numbered paragraphs."""
     lines = []
     for m in out.get("memo_part", []):
         lines.append(m.get("heading", ""))

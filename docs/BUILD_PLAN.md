@@ -33,7 +33,7 @@ Implemented in `agents/research.py`: profile (entity, laws cited, substitution c
 | Measure | Agreement with a hand-labelled difference list for 4 pairs; compare with the baseline (A2 comparator). | Section 7 |
 | Document | Where the agent beat or lost to the baseline, and why. | Section 10 |
 
-## Project 3: AppraisAI, Appraisal & Governance Agent (+ Red-teamer)
+## Project 3: ApprAIsal, Appraisal & Governance Agent (+ Red-teamer)
 
 | Stage | What to do | Evidence |
 |---|---|---|

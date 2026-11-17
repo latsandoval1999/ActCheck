@@ -340,6 +340,10 @@ section.main .block-container, [data-testid="stMainBlockContainer"]{padding-bott
 .ac-tbl.cmp td{font-size:.8rem; vertical-align:top;} .ac-tbl.cmp .why{font-size:.76rem; margin-top:.3rem; color:var(--ink);}
 .ac-memo .oh{font-weight:700; font-style:italic; margin:.7rem 0 .3rem;} .ac-memo .np{display:flex; gap:.8rem; margin:0 0 .5rem;}
 .ac-memo .np .no{flex:0 0 2.2rem;} .ac-memo .np p{margin:0; text-align:justify;}
+.ac-tbl.fis6{min-width:900px;} .ac-tbl.fis6 th:nth-child(1){width:11%;} .ac-tbl.fis6 th:nth-child(2){width:13%;} .ac-tbl.fis6 th:nth-child(3){width:17%;}
+.ac-tbl.fis6 th:nth-child(4){width:21%;} .ac-tbl.fis6 th:nth-child(5){width:22%;} .ac-tbl.fis6 th:nth-child(6){width:16%;}
+.ac-tbl.est td:nth-child(2), .ac-tbl.est td:nth-child(3), .ac-tbl.est th:nth-child(2), .ac-tbl.est th:nth-child(3){text-align:right; font-variant-numeric:tabular-nums;}
+.ac-tbl.asm td, .ac-tbl.dup td, .ac-tbl.ref td{font-size:.8rem; vertical-align:top;} .ac-tbl.ref .ttl{font-size:.74rem; color:var(--mute);}
 .ac-memo h6{font:700 .9rem Tahoma,Verdana,sans-serif; margin:.5rem 0 .25rem;} .ac-memo p{text-align:justify; margin:0 0 .5rem 1.4rem;}
 .ac-check{background:var(--gold-soft); border:1px solid #E8D79F; border-radius:6px; padding:.7rem .95rem .3rem; margin-top:.7rem;}
 .ac-check-h{font:800 .74rem var(--sans); letter-spacing:.09em; text-transform:uppercase; color:#7A5A00; margin-bottom:.3rem;}

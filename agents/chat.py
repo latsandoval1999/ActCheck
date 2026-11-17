@@ -20,7 +20,7 @@ def workspace(bid, max_sections=40):
              f"COSTING ENGINE (summary): {json.dumps({k: v for k, v in cost_range(bid).items() if k in ('entity_type', 'range', 'stated_in_bill', 'assumptions')}, ensure_ascii=False)}",
              "RELATED (baseline): " + json.dumps([{k: r[k] for k in ('id', 'similarity', 'title')} for r in related_bills(bid, top=8)], ensure_ascii=False),
              _sections_block(bid, limit=max_sections)]
-    for key, label in (("research", "TrAIce output"), ("diagnosis", "CompAIre output"), ("review", "AppraisAI review"), ("redteam", "Red-team findings")):
+    for key, label in (("research", "TrAIce output"), ("diagnosis", "CompAIre output"), ("review", "ApprAIsal review"), ("redteam", "Red-team findings")):
         if rec.get(key):
             parts.append(f"{label.upper()}: {json.dumps(rec[key].get('output', rec[key]), ensure_ascii=False)[:12000]}")
     return "\n\n".join(parts)

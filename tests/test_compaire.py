@@ -16,7 +16,7 @@ def test_saved_run_verified_and_memo_only_decisions():
     checks = compaire.check_output(sv["output"])
     assert checks and all(c["check"] == "verified" for c in checks)
     text = compaire.memo_text(sv["output"])
-    assert text.startswith("On the") and "3.1 " in text
+    assert text.startswith("On the") and "4.1 " in text
     retained = [r["section_ref"].split(" (")[0] for r in sv["output"]["rows"] if r["recommendation"] == "Retain provision"]
     assert all(f"{x} of HB No. 2322" not in text for x in retained)
 

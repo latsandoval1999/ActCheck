@@ -22,30 +22,29 @@ def test_typology_examples_from_coding_frame():
     assert T.house_origin("Taxation and revenue", "General or public") and not T.house_origin("Regulation and standards", "General or public")
 
 
-def test_memo_prefill_keeps_position_with_reviewer():
-    review = {"summary": "Creates AGRICOM.", "fiscal": {"narrative": "Range from the costing engine."},
-              "preliminary_comments": [{"comment": "DBM may consider a sunset clause.", "section": "HB-20-2322:s10", "include": True},
-                                       {"comment": "Dropped", "section": "HB-20-2322:s1", "include": False}]}
-    f = D.memo_prefill("HB-20-2322", review)
-    assert f["memo_for"] == "THE SECRETARY" and "HOUSE BILL NO. 2322" in f["subject"]
-    assert "On Section 10: DBM may consider a sunset clause." in f["s3_2"] and "Dropped" not in f["s3_2"]
-    assert not D.position_decided(f)
-    ai = D.apply_ai(f, {"s2": "Section 4 provides that ...", "s4": "We recommend SUPPORT."})
-    assert ai["s2"].startswith("Section 4") and not D.position_decided(ai)       # the agent cannot set the position
-    decided = dict(f, s4="In view of the foregoing, we recommend that the DBM manifest its position to SUPPORT the bill.")
+def test_memo_prefill_keeps_recommendation_with_reviewer():
+    f = D.memo_prefill("HB-20-2322", {"salient": "HB No. 2322 seeks ...", "comments": "On the scope\n4.1 Section 4 ...",
+                                      "fiscal": "5.1 ...", "recommendation": "7.1 This Department interposes no objection ..."},
+                       referrals=[{"bureau": "OPCCB", "name": "Organization, Position Classification and Compensation Bureau", "why": "New positions"}])
+    assert f["memo_for"] == "THE SECRETARY" and "HOUSE BILL NO. 2322" in f["subject"] and "(OPCCB)" in f["s1"]
+    assert not D.position_decided(f)                                        # ApprAIsal only proposes Part VII
+    ai = D.apply_ai(f, {"s2": "Section 4 provides that ...", "s7": "We recommend SUPPORT."})
+    assert ai["s2"].startswith("Section 4") and not D.position_decided(ai)   # an agent cannot set it
+    decided = D.set_recommendation(f, "7.1 This Department interposes no objection to the proposed measure as filed.")
     assert D.position_decided(decided)
 
 
-def test_word_documents_use_tahoma_and_placeholders():
+def test_word_documents_use_tahoma_and_parts():
     from docx import Document
-    f = D.memo_prefill("HB-20-2322", {"summary": "x"})
+    f = D.memo_prefill("HB-20-2322", {"salient": "x"})
     doc = Document(io.BytesIO(D.memo_docx(f)))
     text = "\n".join(p.text for p in doc.paragraphs)
-    assert "DEPARTMENT OF BUDGET AND MANAGEMENT" in text and D.SIGNATURE in text and "Salient Features" in text
+    assert "DEPARTMENT OF BUDGET AND MANAGEMENT" in text and D.SIGNATURE in text and "II. Salient Features" in text
+    assert "VI. Possible Duplication" not in text                           # Part VI only when a duplication was found
     assert doc.styles["Normal"].font.name == "Tahoma"
-    lf = D.letter_prefill("SB-20-1624", dict(f, s4="... to SUPPORT the bill."))
+    lf = D.letter_prefill("SB-20-1624", D.set_recommendation(f, "7.1 This Department interposes no objection to the proposed measure as filed."))
     ldoc = Document(io.BytesIO(D.letter_docx(lf)))
-    assert "Senate of the Philippines" in "\n".join(p.text for p in ldoc.paragraphs)
+    assert "Senate of the Philippines" in "\n".join(p.text for p in ldoc.paragraphs) and "interposes no objection" in lf["p2"]
 
 
 def test_billy_search_mode_cites_sections():

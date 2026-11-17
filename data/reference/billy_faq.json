@@ -32,7 +32,7 @@
  {
   "group": "About ActCheck",
   "q": "What does 'Trace the bill. Spot the changes. Weigh the impact.' mean?",
-  "a": "These are the three agents' jobs: TrAIce traces the bill's history, CompAIre spots what changed against related bills, and AppraisAI weighs the legal and budget impact."
+  "a": "These are the three agents' jobs: TrAIce traces the bill's history, CompAIre spots what changed against related bills, and ApprAIsal weighs the legal and budget impact."
  },
  {
   "group": "Public users",
@@ -57,7 +57,7 @@
  {
   "group": "Public users",
   "q": "How do I send a report on a bill?",
-  "a": "Click Report on the bill's row. The bill number and title are filled in. Choose the part of the review your report concerns (TrAIce: legislative history; CompAIre: comparison and policy design; AppraisAI: cost, overlap or implementation risk; or Others) and the topic, write your message, and attach files if you like. Your name, email and contact number are optional."
+  "a": "Click Report on the bill's row. The bill number and title are filled in. Choose the part of the review your report concerns (TrAIce: legislative history; CompAIre: comparison and policy design; ApprAIsal: cost, overlap or implementation risk; or Others) and the topic, write your message, and attach files if you like. Your name, email and contact number are optional."
  },
  {
   "group": "Public users",
@@ -96,8 +96,8 @@
  },
  {
   "group": "Reviewers",
-  "q": "What are the five steps in the Review workspace?",
-  "a": "Step 1 TrAIce traces the bill; Step 2 CompAIre spots the changes; Step 3 AppraisAI weighs the impact, with a second AI reviewer; Step 4 Comments and report, which the reviewer edits and exports; Step 5 the memorandum and letter in DBM format."
+  "q": "What are the four steps in the Review workspace?",
+  "a": "Step 1 TrAIce traces the bill (memo Parts I to III); Step 2 CompAIre spots the changes and recommends design options (Part IV); Step 3 ApprAIsal weighs the impact: budgetary requirements, possible duplication under RA No. 12231, the proposed recommendation and the DBM bureaus to consult (Parts V to VII); Step 4 Memo and letter, where the reviewer confirms the recommendation, edits and downloads the DBM-format memo and letter. Each step ends with a checklist that unlocks the next one."
  },
  {
   "group": "Reviewers",
@@ -122,17 +122,17 @@
  {
   "group": "Reviewers",
   "q": "Can I edit what the agents produce?",
-  "a": "Yes. Comments in Step 4 are editable in a table, and the memo and letter fields in Step 5 are filled in for you to change before download. The reviewer's edits are what go into the documents."
+  "a": "Yes. Each agent's output has an 'Edit this text (if needed)' box, and in Step 4 the 'Edit memo' and 'Edit letter' buttons open the full drafts for editing before download. The reviewer's edits are what go into the documents."
  },
  {
   "group": "Reviewers",
   "q": "How do I download the memo and letter?",
-  "a": "In Step 5, after Step 3 is approved, fill in or edit the fields and click the Word download buttons. The memo follows the DBM position-paper format; the letter opens only after you set the DBM position."
+  "a": "In Step 4, after the Step 3 checklist is complete: confirm the recommendation (Part VII), review the draft memo shown on screen, click 'Edit memo' if changes are needed, then use the Word download button. The letter opens after the recommendation is confirmed."
  },
  {
   "group": "Reviewers",
   "q": "Where do I see public reports on a bill?",
-  "a": "In the Review workspace, a highlighted notice appears in the step a report concerns (TrAIce, CompAIre, AppraisAI, or the whole bill). Click it to read the report, including any contact details and attachments. All reports are also listed in the Run log."
+  "a": "In the Review workspace, a highlighted notice appears in the step a report concerns (TrAIce, CompAIre, ApprAIsal, or the whole bill). Click it to read the report, including any contact details and attachments. All reports are also listed in the Run log."
  },
  {
   "group": "Reviewers",
@@ -142,7 +142,7 @@
  {
   "group": "Reviewers",
   "q": "Can I review a bill that does not create an agency?",
-  "a": "Yes. TrAIce and CompAIre work on any bill with full text. AppraisAI's cost estimate is designed for bills that create a government agency, so the workspace warns you when a bill is outside that pilot scope."
+  "a": "Yes. TrAIce and CompAIre work on any bill with full text. ApprAIsal's cost estimate is designed for bills that create a government agency, so the workspace warns you when a bill is outside that pilot scope."
  },
  {
   "group": "The agents",
@@ -161,17 +161,17 @@
  },
  {
   "group": "The agents",
-  "q": "What are AppraisAI's outputs?",
+  "q": "What are ApprAIsal's outputs?",
   "a": "A preliminary review: summary, legislative history, differences, overlaps, fiscal implications with a cost range, risks, policy context, draft comments and a verification checklist. After approval it drafts the memorandum and the letter in DBM format."
  },
  {
   "group": "The agents",
   "q": "What is the red-teamer?",
-  "a": "A second AI reviewer that checks AppraisAI's draft for unsupported figures, unchecked quotes, overstated claims and anything that reads like an official DBM position. It recommends whether the draft is ready or needs revision; the human reviewer decides."
+  "a": "A second AI reviewer that checks ApprAIsal's draft for unsupported figures, unchecked quotes, overstated claims and anything that reads like an official DBM position. It recommends whether the draft is ready or needs revision; the human reviewer decides."
  },
  {
   "group": "The agents",
-  "q": "Does AppraisAI decide whether DBM supports a bill?",
+  "q": "Does ApprAIsal decide whether DBM supports a bill?",
   "a": "No. It lays out observations and options ('DBM may consider...'). Only the analyst sets the DBM position, and the Secretary approves the position paper."
  },
  {
@@ -327,7 +327,7 @@
  {
   "group": "The agents",
   "q": "Can I edit TrAIce's output?",
-  "a": "Yes. Under 'TrAIce Output and Reviewer Checklist', click 'Edit this text' to revise Parts II and III. Your edited text is used in the memorandum in Step 5; 'Reset to the TrAIce draft' brings back the agent's version."
+  "a": "Yes. Under 'TrAIce Output and Reviewer Checklist', click 'Edit this text' to revise Parts II and III. Your edited text is used in the memorandum in Step 4; 'Reset to the TrAIce draft' brings back the agent's version."
  },
  {
   "group": "The agents",
@@ -347,11 +347,26 @@
  {
   "group": "The agents",
   "q": "What does CompAIre produce?",
-  "a": "Building on TrAIce's salient features, CompAIre states what the bill aims to address and compares each major provision with the related measure that offers a real alternative. Its table, Substantial Differences and Design Options, shows for each provision the related measure, the major differences, the recommended option (Retain provision, Adapt alternative, Adapt alternative with revisions, or Remove provision) and why, the trade-offs and the gaps to check. Its main output is memo Part III (Comments and Recommendations), covering only the provisions that need a decision. Possible duplication of functions and cost effects go to AppraisAI and are reviewed there."
+  "a": "Building on TrAIce's salient features, CompAIre states what the bill aims to address and compares each major provision with the related measure that offers a real alternative. Its table, Substantial Differences and Design Options, shows for each provision the related measure, the major differences, the recommended option (Retain provision, Adapt alternative, Adapt alternative with revisions, or Remove provision) and why, the trade-offs and the gaps to check. Its main output is memo Part IV (Comments and Recommendations), covering only the provisions that need a decision. Possible duplication of functions and cost effects go to ApprAIsal and are reviewed there."
  },
  {
   "group": "The agents",
   "q": "Is the evidence grade used for every agent?",
   "a": "Yes. TrAIce and CompAIre each show one grade (A Strong to D Weak) under their final checklist item, with the points and what kept the output from more points. The method is explained under Safeguards and Limits on the How it Works page."
+ },
+ {
+  "group": "The agents",
+  "q": "What does ApprAIsal produce?",
+  "a": "ApprAIsal prepares memo Parts V to VII. Part V, Fiscal and Budgetary Requirements: an estimate of Personnel Services, MOOE and Capital Outlay for a new entity or positions, and a table of each fiscal item with the provision, what the bill provides, the recommended budgetary consideration, the recommendation on the budget and the GAA, and the risks. Part VI, Possible Duplication with Existing Agencies (when found): whether the bill changes or abolishes the existing body and, if not, an assessment under the Government Optimization Act (RA No. 12231). Part VII, Recommendation: one of three options (interpose no objection; no objection, subject to amendments; or deferment until the issues are addressed), which the reviewer confirms. It also lists the DBM bureaus to consult and compiles the memo without repeating statements."
+ },
+ {
+  "group": "The agents",
+  "q": "How are the bureaus' comments included without another log-in?",
+  "a": "ApprAIsal lists the DBM bureaus and offices to consult, with the items for each. Under 'Bureau comments (if needed)' in Step 3, each bureau has a ready request to copy into the usual referral memo or e-mail, and a box to paste the reply when it arrives. The replies go into Part IV of the memo under 'Comments of the concerned bureaus'. Bureaus do not need an account."
+ },
+ {
+  "group": "The agents",
+  "q": "How is the cost of a new agency estimated?",
+  "a": "In the background, ActCheck sets a staffing structure for the headcount range (offices, officials, division chiefs and staff), computes Personnel Services from the 2026 salary schedule with mandatory benefits, and MOOE and Capital Outlay from DBM costing parameters (travel under EO No. 77, s. 2019; training under NBC No. 563; rent under the DBM-DPWH Joint Circular; vehicles under DBM Budget Circular Nos. 2022-1 and 2022-1A). It shows the PS, MOOE and CO summary; the assumptions and similar agencies are in a reference dropdown."
  }
 ]

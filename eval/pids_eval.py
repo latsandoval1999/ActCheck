@@ -8,7 +8,7 @@ HELD OUT: the PIDS comment is never given to the agents (tests/test_benchmark.py
 whether ActCheck independently surfaces what an expert reviewer raised. Keyword matching is a first pass; the
 reviewer confirms each match by reading the output.
 
-    python -m eval.pids_eval --runs logs/p3_runs.jsonl          # latest AppraisAI run on HB-20-6789
+    python -m eval.pids_eval --runs logs/p3_runs.jsonl          # latest ApprAIsal run on HB-20-6789
     python -m eval.pids_eval --file my_review.json               # any saved output (JSON or text)
 """
 import argparse
@@ -54,7 +54,7 @@ def main():
             if r.get("target") == BILL or r.get("bill") == BILL:
                 out = r.get("output")
         if out is None:
-            raise SystemExit(f"No run on {BILL} in the log yet. Run AppraisAI (and TrAIce, CompAIre) on {BILL} first.")
+            raise SystemExit(f"No run on {BILL} in the log yet. Run ApprAIsal (and TrAIce, CompAIre) on {BILL} first.")
         text = json.dumps(out, ensure_ascii=False)
     s = score(text)
     for r in s["rows"]:

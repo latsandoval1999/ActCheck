@@ -112,7 +112,7 @@ def trace(bid, out, checks=None):
 
 
 def fiscal_table(fq):
-    """The bill's fiscal requirements, identified by TrAIce, shown with AppraisAI's cost work."""
+    """The bill's fiscal requirements, identified by TrAIce, shown with ApprAIsal's cost work."""
     ui.html('<div class="ac-sec">Fiscal requirements (identified by TrAIce)</div>')
     if fq:
         ui.table(["Item", "Requirement", "Provision"],
@@ -223,7 +223,7 @@ def compaire(bid, out, checks=None):
 
 
 def memo3_html(text):
-    """Memo Part III: 'On the ...' lines as italic bold subheadings, '3.1 ...' paragraphs with hanging numbers."""
+    """Memo Part IV: 'On the ...' lines as italic bold subheadings, '3.1 ...' paragraphs with hanging numbers."""
     out = []
     for line in [x.strip() for x in str(text or "").split("\n") if x.strip()]:
         m = re.match(r"^(\d+\.\d+)\s+(.*)", line)
@@ -237,7 +237,7 @@ def memo3_html(text):
 
 
 def compaire_feeds(out):
-    """What CompAIre passes to AppraisAI: possible duplication of functions and cost directions."""
+    """What CompAIre passes to ApprAIsal: possible duplication of functions and cost directions."""
     dup, cost = out.get("duplications") or [], out.get("cost_notes") or []
     if dup:
         ui.html('<div class="ac-sec">Possible duplication of functions (identified by CompAIre)</div>')
@@ -247,6 +247,103 @@ def compaire_feeds(out):
         ui.html('<div class="ac-sec">Cost implications of the differences (identified by CompAIre)</div>')
         ui.table(["Provision", "Likely effect", "Why"],
                  [[escape(c.get("item", "")), escape(c.get("direction", "")), escape(c.get("why", ""))] for c in cost], cls="fisc")
+
+
+def memo_body_html(text):
+    """Any memo part: 'On the ...' subheadings, numbered paragraphs (4.1), lettered items (a.) and plain paragraphs."""
+    out, items = [], []
+    def flush():
+        if items:
+            out.append('<ol class="ac-ltr">' + "".join(items) + "</ol>")
+            items.clear()
+    for line in [x.strip() for x in str(text or "").split("\n") if x.strip()]:
+        m_no = re.match(r"^(\d+\.\d+)\s+(.*)", line)
+        m_lt = re.match(r"^([a-z])[.)]\s+(.*)", line)
+        if m_lt:
+            items.append(f'<li><span class="ltr">{m_lt.group(1)}.</span> {escape(m_lt.group(2))}</li>')
+            continue
+        flush()
+        if m_no:
+            out.append(f'<div class="np"><span class="no">{m_no.group(1)}</span><p>{escape(m_no.group(2))}</p></div>')
+        elif re.match(r"^On (the )?\w", line) and len(line) < 110 and not line.endswith("."):
+            out.append(f'<div class="oh">{escape(line)}</div>')
+        else:
+            out.append(f"<p>{escape(line)}</p>")
+    flush()
+    return "".join(out)
+
+
+def _sentence(t):
+    t = str(t or "").strip()
+    return t[:1].upper() + t[1:]
+
+
+def _clean_source(src):
+    src = re.sub(r"\s*\((?:data/|[\w/]+\.csv)[^)]*\)", "", str(src or ""))
+    src = src.replace("data/benchmarks/coa_comparators.csv", "COA annual audit reports")
+    src = re.sub(r"data/benchmarks/[\w.]+", "", src).strip(" ;,")
+    return _sentence(src)
+
+
+def apprAIsal_fiscal(out, cost, req, peso):
+    """Part V on screen: the estimate (PS, MOOE, CO), the fiscal table, and the cost references in a dropdown."""
+    lo, hi = out["estimate"]["low"], out["estimate"]["high"]
+    ui.html('<div class="ac-sec">Estimated budgetary requirements of the new entity</div>')
+    ui.table(["Requirement", f"Lower estimate ({lo['headcount']} positions)", f"Upper estimate ({hi['headcount']} positions)"],
+             [["Personnel Services (PS)", peso(lo["ps"]), peso(hi["ps"])],
+              ["Maintenance and Other Operating Expenses (MOOE)", peso(lo["mooe"]), peso(hi["mooe"])],
+              ["Capital Outlay (CO), first year only", peso(lo["co"]), peso(hi["co"])],
+              ["<b>Total, first year</b>", f"<b>{peso(lo['total'])}</b>", f"<b>{peso(hi['total'])}</b>"],
+              ["Every year thereafter (PS and MOOE)", peso(lo["recurring"]), peso(hi["recurring"])]], cls="est")
+    ui.html('<div class="ac-sec">Fiscal and budgetary requirements</div>')
+    ui.html('<div class="ac-wide"><table class="ac-tbl cmp fis6"><thead><tr>' + "".join(f"<th>{h}</th>" for h in (
+        "Fiscal requirement", "Provision", "What the bill provides", "Recommended budgetary consideration", "Recommendation", "Risks"))
+        + "</tr></thead><tbody>" + "".join(
+            f"<tr><td><b>{escape(r.get('item', ''))}</b></td><td>{escape(r.get('provision', ''))}</td><td>{escape(r.get('existing', ''))}</td>"
+            f"<td>{escape(r.get('consideration', ''))}</td><td>{escape(r.get('recommendation', ''))}</td><td>{escape(r.get('risks', ''))}</td></tr>"
+            for r in out.get("fiscal_rows") or []) + "</tbody></table></div>")
+    with st.expander("Cost assumptions and similar agencies used for comparison (reference)"):
+        st.caption(f"The estimate above uses the 2026 salary schedule for Personnel Services and DBM costing parameters for MOOE and "
+                   f"Capital Outlay ({req['basis']}). Figures are an order of magnitude for a preliminary review, not a budget proposal.")
+        ui.html("<p><b>Assumptions</b></p>")
+        ui.table(["Assumption", "Source", "To verify"],
+                 [[escape(_sentence(a["assumption"])), escape(_clean_source(a["source"])), "Yes" if a.get("to_verify") else "No"]
+                  for a in cost["assumptions"]], cls="asm")
+        ui.html("<p><b>Parameters for MOOE and Capital Outlay</b></p>")
+        ui.table(["Item", "Parameter"], [[escape(k), escape(_sentence(v))] for k, v in list(req["mooe_notes"]) + list(req["co_notes"])], cls="asm")
+        comps = cost["method_b_comparators"]["comparators"]
+        if comps:
+            ui.html("<p><b>Similar agencies, FY 2026 budget</b></p>")
+            ui.table(["Agency", "Authorized positions", "Personnel Services", "Overhead MOOE", "Operating cost per position", "Source"],
+                     [[escape(c["agency"]), f"{c['positions']:,}", peso(c["personnel_services"]), peso(c["mooe_overhead"]),
+                       peso(c["per_position"]), escape(_clean_source(c["source"]))] for c in comps], cls="asm")
+        if cost.get("coa_crosscheck"):
+            ui.html("<p><b>Cross-check: COA audited spending per staff member (includes programs; not used in the estimate)</b></p>")
+            ui.table(["Agency", "Year", "Spending per staff member", "Source"],
+                     [[escape(c["agency"]), escape(str(c["year"])), peso(c["per_staff"]), escape(_clean_source(c["source"]))]
+                      for c in cost["coa_crosscheck"]], cls="asm")
+
+
+def apprAIsal_dup(out):
+    dups = out.get("duplications") or []
+    ui.html('<div class="ac-sec">Possible duplication of functions</div>')
+    if not dups:
+        ui.html('<div class="ac-out"><p>No duplication with existing offices was identified by TrAIce or CompAIre.</p></div>')
+        return
+    ui.table(["Provision of the bill", "Existing office or body", "Note", "Bill changes or abolishes the existing body?", "Assessment"],
+             [[escape(d.get("function", "")), escape(d.get("existing", "")), escape(d.get("note", "")),
+               "Yes" if d.get("intent_to_abolish") else "No", escape(d.get("assessment", ""))] for d in dups], cls="dup")
+
+
+def referrals_table(out):
+    refs = out.get("referrals") or []
+    ui.html('<div class="ac-sec">DBM bureaus and offices to consult</div>')
+    if not refs:
+        ui.html('<div class="ac-out"><p>No referral identified.</p></div>')
+        return
+    ui.table(["Bureau or office", "Function (DBM Charter, CY 2026)", "Why consult", "Memo part"],
+             [[f"<b>{escape(r.get('bureau', ''))}</b><div class='ttl'>{escape(r.get('name', ''))}</div>", escape(r.get("function", "")),
+               escape(r.get("why", "")), escape(r.get("parts", ""))] for r in refs], cls="ref")
 
 
 def _facts_cell(v, key):
@@ -308,7 +405,7 @@ def compare_plain(bid, ref, facts, aligned):
 
 
 def appraise(rev, cost, peso, checks=None, redteam=None):
-    """Step 3: AppraisAI."""
+    """Step 3: ApprAIsal."""
     c1, c2, c3 = st.columns(3)
     c1.metric("Entity type", cost["entity_type"])
     c2.metric("First-year cost range", f"{peso(cost['range']['low'])} – {peso(cost['range']['high'])}")

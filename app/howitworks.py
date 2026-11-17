@@ -22,7 +22,7 @@ STAGES = [
      "TrAIce's evidence brief and the bill's type suggest which bureaus to ask and what to ask them.", 1),
     ("Bureau comments", "8-9", "Concerned bureaus (e.g. BMB, OPCCB) prepare and submit comments; BILLS receives and records them",
      "DBM bureaus, services and offices", 15,
-     "Bureaus receive CompAIre's list of substantial differences and AppraisAI's cost range with sources, so they comment on the points that matter.", 10),
+     "Bureaus receive CompAIre's list of substantial differences and ApprAIsal's cost range with sources, so they comment on the points that matter.", 10),
     ("Prepare the position paper", "10-15", "Prepare the DBM position paper from the inputs; Chief and Director review, approve and sign; release the draft to the Legal and Legislative Group",
      "BILLS analysts, Chief, Director", 15,
      "The memorandum and letter are pre-filled in DBM format from the approved review; every finding cites a checked section.", 7),
@@ -128,25 +128,27 @@ def render(a1, a2, a3, workflow):
                     "Compares each major provision with the related measure that offers a real alternative (differences, not repetition)",
                     "Recommends for each: retain the provision, adapt the alternative (with or without revisions) or remove it, with "
                     "trade-offs and gaps to check",
-                    "Drafts memo Part III (Comments and Recommendations) for the provisions that need a decision; possible duplications and "
-                    "cost effects go to AppraisAI"],
+                    "Drafts memo Part IV (Comments and Recommendations) for the provisions that need a decision; possible duplications and "
+                    "cost effects go to ApprAIsal"],
                    ["A draft is made by code first (no AI); Claude prepares the full analysis when available",
                     "Every compared provision cites both sections; ActCheck checks each cited passage in the background",
                     "Recommendations come from a fixed list of four options; the agent never states the DBM position",
                     "Each output gets an evidence grade, A (strong) to D (weak), computed by code (see Safeguards and Limits)"],
-                   "Substantial Differences and Design Options; memo Part III"),
+                   "Substantial Differences and Design Options; memo Part IV"),
         agent_card("appraise", "Step 3 · Appraisal and Governance", f"{a3} · Weigh the impact",
-                   ["Estimates a first-year cost range with a fixed calculator: 2026 salary schedule (NBC No. 601) and benefits, and the running "
-                    "cost per position of similar agencies in the FY 2026 budget (GAA, DBM Staffing Summary); COA audits as a cross-check",
-                    "Adds policy context: LEDAC priority status, the 2027 Budget Priorities Framework area and its call to remove redundant "
-                    "programs",
-                    "Drafts the summary, risks, overlaps, checklist and preliminary comments",
-                    "After approval, drafts the memorandum for the Secretary and the letter to Congress in DBM format"],
-                   ["The AI does no arithmetic; any peso figure not from the calculator or the bill is flagged",
-                    "A second AI reviewer (red-teamer) checks the draft for errors, unsupported claims and overstated status",
-                    "Drafts never contain a DBM position, officials' names or signatures; the letter unlocks only after the analyst sets the position",
-                    "Policy context informs; it is never a reason to support or oppose"],
-                   "Preliminary review, comments, memo and letter drafts", wide=True),
+                   ["Estimates the budgetary requirements of a new entity or positions in the background: Personnel Services from the 2026 "
+                    "salary schedule (NBC No. 601) with benefits; MOOE and Capital Outlay from DBM costing parameters; similar agencies in the "
+                    "FY 2026 GAA and COA audits as cross-checks",
+                    "Part V: each fiscal item with the provision, what the bill provides, the recommended budgetary consideration, the "
+                    "recommendation on budgetary capacity and the GAA, and the risks",
+                    "Part VI: possible duplication with existing agencies, assessed under the Government Optimization Act (RA No. 12231) when "
+                    "the bill does not change or abolish the existing body",
+                    "Part VII: proposes one of three recommendations; lists the DBM bureaus to consult; compiles the memo without repetition"],
+                   ["The AI does no arithmetic; any peso figure not from the calculator or the bill is rejected",
+                    "Recommendations and bureaus come from fixed lists; the analyst confirms the recommendation in Step 4",
+                    "No officials' names or signatures; every draft carries the AI-assisted label",
+                    "Each output gets an evidence grade, A (strong) to D (weak), computed by code"],
+                   "Memo Parts V to VII; bureaus to consult", wide=True),
         agent_card("billy", "Companion", "BILLy · Ask about the bill or the site",
                    ["With a bill open in the workspace, answers questions about that bill from its sections, the cost estimate and the agents' findings",
                     "With no bill open, answers questions about ActCheck: the agents, data sources, Library, Run log, safeguards"],
@@ -154,8 +156,7 @@ def render(a1, a2, a3, workflow):
                    "Answers with section references"),
         agent_card("analyst", "The analyst", "Human checkpoints",
                    ["Each step ends with a checklist, with notes and file attachments; the next step stays locked until every item is ticked",
-                    "Approves the review, edits the comments, sets the position, finalizes the memo and letter",
-                    "Reports problems with any output from the step itself"],
+                    "Edits each agent's output if needed, confirms the recommendation, records the bureaus' comments, finalizes the memo and letter"],
                    ["Every action is recorded in the activity trail", "Problem reports are kept with the bill and in the Run log"],
                    "Decisions the analyst owns", dark=True),
     ]
