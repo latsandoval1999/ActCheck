@@ -1037,19 +1037,20 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                                escape(r["Released"]), escape(r["Purpose in ActCheck"])] for r in rows_g], cls="refs")
                     continue
                 # documents whose text ActCheck reads: same table, with a Read button beside the title
-                widths = [3.1, 0.75, 2.0, 1.2, 2.8]
+                widths = [4.0, 2.0, 1.2, 2.8]
+                ui.html('<div class="ac-thead refhead" style="grid-template-columns:' + " ".join(f"{w}fr" for w in widths) + '">'
+                        + "".join(f"<span>{h}</span>" for h in ["Title", "Issued by", "Released", "Purpose in ActCheck"]) + "</div>")
                 with st.container(key="refgrid"):
-                    ui.html('<div class="ac-thead refhead" style="grid-template-columns:' + " ".join(f"{w}fr" for w in widths) + '">'
-                            '<span style="grid-column:span 2">Title</span><span>Issued by</span><span>Released</span><span>Purpose in ActCheck</span></div>')
                     for r in rows_g:
-                        c = st.columns(widths, vertical_alignment="center", gap="small")
+                        c = st.columns(widths, vertical_alignment="center")
                         k = ref_doc(r["Title"])
-                        c[0].markdown(f'<a class="ac-reflink" href="{escape(r["Link"])}" target="_blank">{escape(r["Title"])} ↗</a>', unsafe_allow_html=True)
-                        if k and c[1].button("📖 Read", key=f"refread_{k}", help="Read the text ActCheck uses, section by section"):
+                        t1_, t2_ = c[0].columns([3.2, 1], vertical_alignment="center")
+                        t1_.markdown(f'<a class="ac-reflink" href="{escape(r["Link"])}" target="_blank">{escape(r["Title"])} ↗</a>', unsafe_allow_html=True)
+                        if k and t2_.button("📖 Read", key=f"refread_{k}", help="Read the text ActCheck uses, section by section"):
                             doc_dialog(k)
-                        c[2].markdown(f'<div class="ac-refcell">{escape(r["Issued by"])}</div>', unsafe_allow_html=True)
-                        c[3].markdown(f'<div class="ac-refcell">{escape(r["Released"])}</div>', unsafe_allow_html=True)
-                        c[4].markdown(f'<div class="ac-refcell">{escape(r["Purpose in ActCheck"])}</div>', unsafe_allow_html=True)
+                        c[1].markdown(f'<div class="ac-refcell">{escape(r["Issued by"])}</div>', unsafe_allow_html=True)
+                        c[2].markdown(f'<div class="ac-refcell">{escape(r["Released"])}</div>', unsafe_allow_html=True)
+                        c[3].markdown(f'<div class="ac-refcell">{escape(r["Purpose in ActCheck"])}</div>', unsafe_allow_html=True)
                 ui.html("<div class='ac-refnote'><b>Note:</b> 📖 Read opens the text ActCheck keeps of these documents. They are split into "
                         "sections so AppraisAI can quote them in a review, and each quote is checked against this text, as with bills.</div>")
             st.caption("Titles open the document at its official source, or a copy kept with ActCheck where no stable public link was found. "
