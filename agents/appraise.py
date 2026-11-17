@@ -341,7 +341,7 @@ def build_messages(bid, t_out, c_out, cost):
             f"COST ENGINE (figures you may quote; never compute your own): {json.dumps(draft['estimate'], ensure_ascii=False)}\n\n"
             f"ACTCHECK DRAFT (made by code; improve it): {json.dumps({k: draft[k] for k in ('fiscal_rows', 'duplications', 'intent_to_abolish', 'recommendation', 'referrals', 'memo')}, ensure_ascii=False)}\n\n"
             "BILL SECTIONS ON FUNDING, STAFFING AND TRANSFERS:\n" + "\n".join(f"[{s['id']}] {s['heading']}: {' '.join(s['text'].split())[:1500]}" for s in fin))
-    return llm.prompt("p3_apprAIsal"), user, draft
+    return llm.prompt("p3_appraise"), user, draft
 
 
 def check_output(out, draft):
