@@ -77,3 +77,11 @@ for the portfolio template is in `docs/VERSION_LOG.md`.
 | Revised | Checklist boxes: red with a white x until ticked, green with a white check when done | |
 | Added | TrAIce /limits: findings sorted into established (cited text verified in a full text), contested (scanned or title-only sources, unverified quotes, labels that differ from ActCheck's rules) and cannot establish (status after filing, title-only content, no counterpart found); shown under 'For checking'; a source tag (full text, scanned text, title only) beside each related bill | Project 1: established vs contested; source discipline |
 | Added | CompAIre /attack: the strongest objection to each recommendation, judged stands, weakened or reversed, and a theory of change with its weakest assumption (prompt v3.1); a code check flags a flattering critique (all verdicts 'stands', objections that repeat the reason, objections called minor, rows not attacked); shown in the CompAIre checklist; added to the Claude runs for HB 2322, HB 9897 and HB 10648 | Project 2: the agent attacks its own design |
+
+## 2026-11-18 — Plain-language pass, one-line checklist points, review status, memo/letter fixes
+- Overview/How it Works workflow and Run log text rewritten in plain language; no "no AI" wording on the site.
+- Checklist points condensed to one line each: TrAIce "Evidence: …", CompAIre "Theory of change: …" and "Self-critique: …", ApprAIsal "Red-teamer (…): …".
+- Bills under review: status box beside the Congress number — Not yet started (red), Ongoing (yellow), Memo and letter drafted (green).
+- Memo: plain status sentence ("Status as listed: …") and referral line ("… for their comments."), no lowercased reasons.
+- Letter: comments, fiscal, then duplication (memo order IV, V, VI); memo paragraph numbers removed.
+- BILLy FAQ rewritten (79 entries): removed obsolete entries, merged duplicates, added welcome window, recommended bills, status colours, saved progress, checklist points, ApprAIsal team.

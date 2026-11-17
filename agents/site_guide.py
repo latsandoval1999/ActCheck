@@ -19,23 +19,11 @@ GUIDE = [
     ("Which bills are covered?", "The Bills page lists every House and Senate bill of the 18th to 20th Congress from public sources. The "
      "agents are tested first on bills that create a national government agency, in any sector; other bills with full text can be "
      "reviewed, but the cost estimate applies only to new agencies."),
-    ("What are the three agents?", "TrAIce traces the bill: earlier versions, counterparts in the other chamber, refiled copies and the "
-     "laws it touches. CompAIre spots the changes against the closest related measure and lists design options. ApprAIsal weighs the "
-     "impact: cost range, risks, overlaps, policy context and draft comments, then drafts the DBM memo and letter; a second AI reviewer "
-     "(red-teamer) checks its draft."),
-    ("What does TrAIce do?", "TrAIce (Evidence and Research) finds the bills whose wording is most similar, then labels each relationship "
-     "(earlier version, counterpart, near-copy, competing, precedent) and the existing laws the bill amends or overlaps. Every link "
-     "cites and quotes a section, and ActCheck checks each quote against the source."),
-    ("What does CompAIre do?", "CompAIre (Diagnosis and Design) compares the bill with its closest related measure section by section: the "
-     "problem it addresses, substantial differences (mandate, structure, salary grades, funding, duration) with their likely cost "
-     "effect, and design options seen in related bills. ActCheck's own non-AI section matching is shown beside it."),
-    ("What does ApprAIsal do?", "ApprAIsal (Appraisal and Governance) drafts the preliminary review: summary, history, differences, overlaps, "
-     "fiscal implications, risks, policy context (LEDAC priority and the 2027 Budget Priorities Framework), a verification checklist "
-     "and draft comments. After the analyst approves, it drafts the memorandum for the Secretary and the letter to Congress in DBM "
-     "format. It never sets the DBM position."),
-    ("How is the cost estimated?", "A fixed calculator, not the AI, estimates a first-year range two ways: staff costs from the 2026 salary "
-     "schedule (NBC No. 601) plus benefits and running costs, and the running cost per authorized position of similar agencies in the "
-     "FY 2026 budget (GAA and DBM Staffing Summary). COA audit reports are a cross-check. The agent may only quote these figures."),
+    ('What are the three agents?', 'TrAIce traces the bill: earlier versions, the counterpart in the other chamber, refiled copies and the laws it touches (memo Parts II and III). CompAIre spots the changes: it compares each major provision with the related bill that offers a real alternative, recommends what to keep or change, and argues against its own recommendations (Part IV). ApprAIsal weighs the impact: it leads a small team (Costing, Duplication, Referral and Recommendation) that estimates the cost, checks for overlap with existing agencies, proposes a recommendation and lists the DBM bureaus to consult (Parts V to VII). A Red-teamer checks every ApprAIsal draft.'),
+    ('What does TrAIce do?', 'TrAIce (Evidence and Research) finds the related bills and laws and labels how each relates: filed in a past Congress, filed again this Congress, merged into this bill, Senate or House version, or an alternative proposal. Every link is backed by a passage from the cited section, which ActCheck checks word for word. Its checklist shows what is established, what is contested (for example, scanned or title-only sources) and what the data cannot establish.'),
+    ('What does CompAIre do?', "CompAIre (Diagnosis and Design) states the problem the bill addresses and compares each major provision with the related bill that offers a real alternative. For each it recommends: retain the provision, adapt the alternative, adapt it with revisions, or remove the provision, with the trade-offs. It then argues against its own recommendations and states the bill's theory of change; both appear in its checklist. It drafts memo Part IV."),
+    ('What does ApprAIsal do?', 'ApprAIsal (Appraisal and Governance) is a lead agent with four helpers: Costing estimates the cost of a new office; Duplication checks overlap with existing agencies under RA No. 12231; Referral lists the DBM bureaus to consult; Recommendation proposes one of three options for Part VII. A Red-teamer checks every draft for scope, figures and consistency, and its findings appear in the Step 3 checklist. ApprAIsal drafts memo Parts V to VII; the analyst confirms the recommendation.'),
+    ('How is the cost estimated?', 'A fixed calculator, not the agent, estimates the first-year cost of a new office: Personnel Services from the 2026 salary schedule (NBC No. 601) with benefits, operating costs (MOOE) and equipment (Capital Outlay) from DBM costing parameters. Similar agencies in the FY 2026 budget and COA audit reports are cross-checks. The agent may only quote these figures. For bills that create a program rather than an office, the estimate does not apply.'),
     ("What is the daily check?", "Every day at 9:00 AM Manila time a scheduled job checks the data sources, looks for new House bills on the "
      "House documents server, reads them (including scanned pages), sorts them by type and lists them on the Bills page. It also "
      "catches up older House bills missing from the list. The Senate listing blocks GitHub's servers, so it is refreshed separately."),
@@ -45,9 +33,7 @@ GUIDE = [
     ("What is the Library?", "The Library has two parts. Review References lists the documents ActCheck relies on (budget, audit, policy, "
      "governance and legal references) with their date, purpose and a link. Full Text of Bills holds the bills, committee reports and "
      "laws ActCheck has read, divided into sections so every finding can point to an exact provision."),
-    ("What is the Run log?", "The Run log has four parts: public reports sent from the Bills page (reviewers can open each one); the "
-     "data sources with their role and when the daily check last checked them; the bills the agents have worked on, how far each "
-     "has gone and when it was last run; and the Agentic AI Portfolio and Project Log of the major versions of ActCheck."),
+    ('What is the Run log?', "The Run log shows the public reports sent from the Bills page (reviewers can open each one), whether the Google Sheet that keeps reports and review progress is connected, the data sources and when they were last checked, the agent outputs prepared by Claude for each bill with their grades and the Red-teamer's verdict, and the project log."),
     ("What are bill types?", "Each bill gets a scope (general or public, local application, or private or named grantee) and one of 18 "
      "content categories from rules on its title. 'Other or unclassified' holds titles no rule matches, such as bills on sports, "
      "culture, or science that use none of the key words; the analyst confirms the type during review."),
@@ -59,17 +45,10 @@ GUIDE = [
      "choose the part of the review it concerns (TrAIce: legislative history; CompAIre: comparison and policy design; ApprAIsal: cost, overlap or duplication, implementation or governance risk; or Others) and the topic, write a message "
      "and attach files if you like. Name, email and contact number are optional and seen only by reviewers. Reports are kept in a "
      "Google Sheet so they survive restarts, and reviewers see a clickable notice in the part of the Review workspace each report concerns."),
-    ("Who decides the DBM position?", "Only the analyst. The agents prepare evidence and drafts; the analyst approves each step, sets the "
-     "position and finalizes the memo and letter. The letter unlocks only after the position is set."),
-    ("What are the safeguards?", "Every claim cites and quotes a source and the quote is checked; peso figures must come from the cost "
-     "calculator or the bill; drafts may not contain positions, officials' names or signatures; a second AI reviewer checks the draft; "
-     "checklists gate each step; reviewers can report problems; everything is logged. ActCheck follows the DICT-CSC Joint Memorandum "
-     "Circular No. 003, s. 2026 on responsible AI in government."),
-    ("What are the limits?", "It is a prototype: agents are tested on bills creating agencies; bill types come from title rules; the cost "
-     "range is order-of-magnitude; House lists have gaps that the daily catch-up is filling; Senate updates need a manual refresh; "
-     "reviews saved on the hosted site reset when it restarts."),
-    ("Does it need an AI key?", "No. Without a key, each step shows ActCheck's own rule-based draft and BILLy searches the site. "
-     "With an Anthropic key, reviewers can run the agents on the site; TrAIce outputs prepared by Claude can also be saved with ActCheck."),
+    ('Who decides the DBM position?', 'Only the analyst. The agents prepare evidence and drafts; ApprAIsal proposes one of three recommendations, and the analyst confirms or changes it in Step 4. The letter follows the confirmed recommendation.'),
+    ('What are the safeguards?', 'Every link to a bill or law is backed by a passage that ActCheck checks word for word; peso figures must come from the calculator or the bill; drafts may not state a DBM position, name or sign for officials, give political advice or include personal details; a Red-teamer checks every ApprAIsal draft; checklists lock each step until the analyst approves; everything is logged. ActCheck follows DICT-CSC Joint Memorandum Circular No. 003, s. 2026 on responsible AI in government.'),
+    ('What are the limits?', 'It is a prototype: the agents are tested first on bills that create agencies; bill types come from the titles; the cost range is an order of magnitude; House lists have gaps that the daily catch-up is filling; the Senate list is refreshed separately. Review progress and public reports are kept in a Google Sheet; files attached to checklists are not.'),
+    ('Does it need an AI key?', "No. Outputs prepared by TrAIce, CompAIre and ApprAIsal (Claude) are saved with ActCheck and shown automatically; bills without them show ActCheck's draft. With an Anthropic key, reviewers can also run the agents on the site."),
 ]
 
 STOP = set("the and for that this with what how does who are its is can you about actcheck".split())

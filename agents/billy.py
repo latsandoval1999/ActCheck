@@ -84,7 +84,7 @@ def answer(bid, history, question, live):
     hits = search(bid, question)
     if not hits:
         return "I couldn't find a section of this bill that matches. Try other words, e.g. 'appropriation' or 'composition'.", "search"
-    lines = ["Here are the parts of the bill that best match your question (search mode: quotes only, no AI summary):"]
+    lines = ["Here are the parts of the bill that best match your question (quoted from the bill):"]
     for sid, head, ex, _ in hits:
         lines.append(f"**{head}** [{sid}]\n> {ex}")
     return "\n\n".join(lines), "search"

@@ -574,13 +574,14 @@ def saved_redteam(bid):
 
 
 def redteam_points(findings):
-    """Checklist lines: the verdict first, then each finding."""
+    """One checklist line: the Red-teamer's verdict and its findings, briefly."""
     if not findings:
-        return ["Red-teamer: Parts V to VII checked for scope, figures, consistency and referrals; no issue found."]
+        return ["Red-teamer: no issue found in Parts V to VII."]
     sev = any(x["severity"] == "revise first" for x in findings)
-    return ([f"Red-teamer verdict: {'revise first' if sev else 'proceed, with points to check'} ({len(findings)} finding"
-             f"{'s' if len(findings) > 1 else ''})."]
-            + [f"Red-teamer ({x['sub']}): {x['issue']}" for x in findings])
+    top = sorted(findings, key=lambda x: x["severity"] != "revise first")[:3]
+    more = f" ({len(findings) - 3} more in the run record)" if len(findings) > 3 else ""
+    return [f"Red-teamer ({'revise first' if sev else 'points to check'}): " + " ".join(x["issue"].rstrip(".") + "." for x in top) + more]
+
 
 
 def build_redteam_messages(bid, out, c_out, cost):

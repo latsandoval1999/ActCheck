@@ -22,12 +22,12 @@
  {
   "group": "About ActCheck",
   "q": "What are the main parts of the portal?",
-  "a": "Overview (summary and bills by type), Bills (every House and Senate bill of the 18th to 20th Congress), Review workspace (for reviewers: the five review steps), How it Works (the process and the agents), Library (Review References and Full Text of Bills) and Run log (public reports, data sources, agent runs and the project log). BILLy, the guide, is available on every page."
+  "a": "Overview (summary, bills by type, and bills slated for review), Bills (every House and Senate bill of the 18th to 20th Congress, starting with the bills recommended for review), Review workspace (for reviewers: four review steps), How it Works (the process and the agents), Library (Review References and Full Text of Bills) and Run log (public reports, data sources, agent runs and the project log). BILLy is available on every page."
  },
  {
   "group": "About ActCheck",
   "q": "What do the numbers on the Overview mean?",
-  "a": "Bills listed is every House and Senate bill of the 18th to 20th Congress found in the public sources. Bills in the 20th Congress counts the current Congress by chamber. New bills from the daily run shows bills found by the latest daily check, and how many older House bills the catch-up has added."
+  "a": "Bills listed is every House and Senate bill of the 18th to 20th Congress found in public sources. Bills in the 20th Congress counts the current Congress by chamber. New bills from the daily run shows what the latest daily check found. Bills slated for review counts the bills in the Review workspace."
  },
  {
   "group": "About ActCheck",
@@ -42,7 +42,7 @@
  {
   "group": "Public users",
   "q": "How do I find a bill?",
-  "a": "Open the Bills page. Type a bill number (e.g. HB 2322), words from the title, a subject or an author's name in the search box, or narrow the list with the Congress, Bill type, Category, Status and Applies to filters. Turn on 'Full text only' to see only bills whose text ActCheck has read."
+  "a": "Open the Bills page. It starts with the bills ActCheck recommends for review, each with a one-sentence reason (stage, LEDAC or budget priority, whether it creates an agency, similar bills, public reports). Use any filter or the search box, or click Show all bills, to see every bill."
  },
  {
   "group": "Public users",
@@ -92,7 +92,7 @@
  {
   "group": "Reviewers",
   "q": "How do I start a review?",
-  "a": "Log in, open the Bills page and click Review on a bill. If ActCheck does not have its text yet, it fetches it from the official source. The bill then appears in the Review workspace under 'Bills under review'."
+  "a": "Log in, open the Bills page and click Review on a bill (the page starts with the bills recommended for review). If ActCheck does not have the bill's text yet, it gets it from the official source. The bill then appears under 'Bills under review' with a status box: red for not yet started, yellow for ongoing, green when the memo and letter are drafted."
  },
  {
   "group": "Reviewers",
@@ -107,17 +107,12 @@
  {
   "group": "Reviewers",
   "q": "What is the reviewer checklist?",
-  "a": "A list of checks at the end of each step, such as 'the quotes match the bill' or 'the cost assumptions marked to verify have been checked'. Each item can carry a note and an uploaded file as evidence of the check."
+  "a": "A short list at the end of each step. A red box with a white x means not yet done; a green box with a white check means done. Under the items are the points to check: for TrAIce, what is established, contested or cannot be established; for CompAIre, the theory of change and its self-critique; for ApprAIsal, the Red-teamer's findings. Each checklist has a Notes and attachments box. When every item is ticked, the next step unlocks and the finished step folds up; click Show to open it again."
  },
  {
   "group": "Reviewers",
   "q": "How do I run an agent?",
-  "a": "Each step first shows ActCheck's own draft, prepared by code without AI, so you can review it right away. When an AI key is set under Reviewer settings, the Run button lets the agent improve that draft; a TrAIce output prepared by Claude and saved with ActCheck is shown automatically and marked 'Prepared by TrAIce (Claude)'."
- },
- {
-  "group": "Reviewers",
-  "q": "What is the free route?",
-  "a": "The copy-and-paste route to a Claude chat has been removed from TrAIce. Without an API key, TrAIce shows ActCheck's rule-based draft (no AI); TrAIce outputs prepared by Claude outside the site can also be saved with ActCheck and are then shown in the step."
+  "a": "You usually don't need to. Outputs prepared by TrAIce, CompAIre and ApprAIsal (Claude) are saved with ActCheck three times a day for the bills in the Review workspace and appear in each step automatically. Until then, each step shows ActCheck's draft. With an Anthropic key under Reviewer settings, the Run button runs an agent on the site."
  },
  {
   "group": "Reviewers",
@@ -137,12 +132,12 @@
  {
   "group": "Reviewers",
   "q": "How do I report a problem with an agent's output?",
-  "a": "Use the Notes and attachments box at the end of the step's checklist to record a correction, and edit the TrAIce output directly. Public reports from the Bills page still appear as notices in the step they concern."
+  "a": "Use the Notes and attachments box at the end of the step's checklist to record a correction, and edit the agent's text with 'Edit this text (if needed)'. Public reports from the Bills page appear as notices in the step they concern."
  },
  {
   "group": "Reviewers",
   "q": "Can I review a bill that does not create an agency?",
-  "a": "Yes. TrAIce and CompAIre work on any bill with full text. ApprAIsal's cost estimate is designed for bills that create a government agency, so the workspace warns you when a bill is outside that pilot scope."
+  "a": "Yes. TrAIce and CompAIre work on any bill with full text. ApprAIsal's cost estimate is mainly designed for new agencies, so the workspace shows a note when a bill is outside the pilot scope, and the estimate is not shown for bills that create a program rather than an office."
  },
  {
   "group": "The agents",
@@ -152,42 +147,32 @@
  {
   "group": "The agents",
   "q": "How does TrAIce find related bills?",
-  "a": "ActCheck ranks bills by similarity of title and text across the 18th to 20th Congress, without AI, and drafts each relationship by rule. When Claude runs TrAIce, it reads the closest bills and laws, corrects the labels, and cites a section for each finding; ActCheck checks every cited passage against the text in the background."
- },
- {
-  "group": "The agents",
-  "q": "What are CompAIre's outputs?",
-  "a": "The problem the bill addresses, the substantial differences from the closest related measure with their likely effect on cost, design options found in related bills, and corrections to ActCheck's own non-AI section matching."
- },
- {
-  "group": "The agents",
-  "q": "What are ApprAIsal's outputs?",
-  "a": "A preliminary review: summary, legislative history, differences, overlaps, fiscal implications with a cost range, risks, policy context, draft comments and a verification checklist. After approval it drafts the memorandum and the letter in DBM format."
+  "a": "ActCheck first ranks bills by how similar their titles and text are across the 18th to 20th Congress and drafts each relationship. TrAIce (Claude) then reads the closest bills and laws, corrects the labels, and backs each link with a passage from the cited section; ActCheck checks every passage word for word."
  },
  {
   "group": "The agents",
   "q": "What is the red-teamer?",
-  "a": "A second AI reviewer that checks ApprAIsal's draft for unsupported figures, unchecked quotes, overstated claims and anything that reads like an official DBM position. It recommends whether the draft is ready or needs revision; the human reviewer decides."
+  "a": "A permanent helper in ApprAIsal's team that attacks every ApprAIsal draft before the reviewer sees it. It looks for statements outside ApprAIsal's role (a DBM position, officials' names, political advice, personal details), figures not from the calculator, conflicts between Parts IV to VII (for example 'no objection as filed' while Part IV asks for amendments) and missing bureau referrals. Its verdict and findings appear in the Step 3 checklist; the reviewer decides what to change."
  },
  {
   "group": "The agents",
   "q": "Does ApprAIsal decide whether DBM supports a bill?",
-  "a": "No. It lays out observations and options ('DBM may consider...'). Only the analyst sets the DBM position, and the Secretary approves the position paper."
+  "a": "No. ApprAIsal proposes one of three recommendations: no objection; no objection, subject to amendments; or deferment until the issues are addressed. Only the analyst confirms it in Step 4, and the Secretary approves the position paper."
  },
  {
   "group": "The agents",
   "q": "Which AI model do the agents use?",
-  "a": "Claude, by Anthropic, when an API key is added under Reviewer settings or when a run prepared by Claude is saved with ActCheck. Without either, each step shows ActCheck's own rule-based draft. The cost calculator and the similarity ranking do not use AI."
+  "a": "Claude, by Anthropic. Outputs marked 'Prepared by TrAIce/CompAIre/ApprAIsal (Claude)' were prepared in scheduled Claude sessions under the project owner's subscription and saved after ActCheck's checks. The cost calculator and the similarity ranking are fixed calculations."
  },
  {
   "group": "Cost estimate",
   "q": "How reliable is the cost estimate?",
-  "a": "It is a first-year range, not a forecast. It is computed by a fixed calculator from public budget data and comparator agencies, and every judgement assumption is marked 'to verify'. Reviewers should check the assumptions against the agency's actual staffing plan."
+  "a": "It is a first-year range for a new office, not a budget proposal. A fixed calculator computes it from the 2026 salary schedule and DBM costing parameters, with similar agencies in the FY 2026 budget as a cross-check. Reviewers should check the staffing assumptions against the agency's own plan."
  },
  {
   "group": "Cost estimate",
   "q": "What is Method A and Method B?",
-  "a": "Method A builds the cost from staff: positions and salary grades from the bill, the 2026 salary schedule (NBC No. 601), mandatory benefits and running costs. Method B uses what similar agencies spend per authorized position in the FY 2026 budget (GAA and DBM Staffing Summary)."
+  "a": "Method A builds the cost from staff: positions and salary grades, the 2026 salary schedule (NBC No. 601), mandatory benefits, operating costs and equipment. Method B compares what similar agencies spend per authorized position in the FY 2026 budget (GAA and DBM Staffing Summary); it is shown as a cross-check."
  },
  {
   "group": "Cost estimate",
@@ -272,7 +257,7 @@
  {
   "group": "Library and Run log",
   "q": "What does the Run log show?",
-  "a": "Public reports received, the data sources with their role and when they were last checked, the bills the agents have worked on and how far each has gone, and the Agentic AI Portfolio and Project Log of the major versions of ActCheck."
+  "a": "Public reports received (reviewers can open them), whether the Google Sheet that keeps reports and review progress is connected, the data sources and when they were last checked, the outputs prepared by each agent (Claude) with their grades and the Red-teamer's verdict, and the project log."
  },
  {
   "group": "Library and Run log",
@@ -287,7 +272,7 @@
  {
   "group": "Safeguards and privacy",
   "q": "How does ActCheck prevent made-up citations?",
-  "a": "Every finding must quote a section, and ActCheck checks each quote word for word against the stored text. Quotes that do not match are flagged before the reviewer sees the output as verified."
+  "a": "Every link to a bill or law must be backed by a short passage from the cited section, and ActCheck checks each passage word for word against the stored text; figures must match exactly. An output with a passage that is not found is not saved, and anything unverified shows as 'contested' in the TrAIce checklist."
  },
  {
   "group": "Safeguards and privacy",
@@ -307,7 +292,7 @@
  {
   "group": "Safeguards and privacy",
   "q": "What can't ActCheck be trusted to do?",
-  "a": "It cannot guarantee it found every related bill, judge the political merits of a bill, replace the bureaus' expertise, or decide the DBM position. Scanned PDFs may contain reading errors, so quotes from them should be checked against the original."
+  "a": "It cannot guarantee it found every related bill, judge the political merits of a bill, replace the bureaus' expertise, or decide the DBM position. Scanned PDFs may contain reading errors, so passages from them are marked contested and should be checked against the original."
  },
  {
   "group": "Using BILLy",
@@ -332,17 +317,17 @@
  {
   "group": "The agents",
   "q": "Does TrAIce show the quotes it used?",
-  "a": "No. TrAIce cites a section for each finding and ActCheck checks the quoted passage against the bill or law in the background. The page shows only the section references, written as 'Section N (Section Title)', and how many were verified."
+  "a": "No. The passages are checked in the background. The page shows the section references, written as 'Section N (Section Title)', how many were verified, and a tag on each related bill: full text, scanned text or title only."
  },
  {
   "group": "The agents",
   "q": "What is TrAIce's evidence grade?",
-  "a": "Each TrAIce output gets one grade, from A (strong) to D (weak), computed by ActCheck's code, not by the agent. It adds up to 8 points: how the bill's text was read (official PDF or a scanned copy), how the findings were prepared and verified (by Claude with every cited section checked, or by rules), how much of the related-measure map rests on full texts rather than titles, and how many points remain to confirm. Drafts made by rules are capped at B. The grade appears under the last checklist item; for B or lower, verify the flagged items before ticking."
+  "a": "Each TrAIce output gets one grade, from A (strong) to D (weak), set by ActCheck, not by the agent. It adds up to 8 points: how the bill's text was read (official PDF or scanned copy), whether every cited passage was verified, how much of the mapping rests on full texts rather than titles, and how many points remain to confirm."
  },
  {
   "group": "The agents",
   "q": "Who prepares the TrAIce outputs marked 'Prepared by TrAIce (Claude)'?",
-  "a": "A scheduled Claude session, run under the project owner's Claude subscription, works through bills added to the Review workspace and the Government organization and mandates pilot bills three times a day. ActCheck saves an output only when every cited passage is found in the cited section; until then, the step shows ActCheck's rule-based draft."
+  "a": "A scheduled Claude session, run three times a day under the project owner's Claude subscription, prepares TrAIce, CompAIre and ApprAIsal outputs for the bills in the Review workspace, and TrAIce outputs for the pilot bills. A separate session runs the Red-teamer. ActCheck saves an output only when every cited passage and figure passes its checks."
  },
  {
   "group": "The agents",
@@ -352,7 +337,7 @@
  {
   "group": "The agents",
   "q": "Is the evidence grade used for every agent?",
-  "a": "Yes. TrAIce and CompAIre each show one grade (A Strong to D Weak) under their final checklist item, with the points and what kept the output from more points. The method is explained under Safeguards and Limits on the How it Works page."
+  "a": "Yes. TrAIce, CompAIre and ApprAIsal each show one grade (A Strong to D Weak) in their checklist, with the points and what kept the output from more points. ActCheck sets the grade, not the agent. The method is under Safeguards and Limits on the How it Works page."
  },
  {
   "group": "The agents",
@@ -373,5 +358,40 @@
   "group": "The agents",
   "q": "How is the cost of a new agency estimated?",
   "a": "In the background, ActCheck sets a staffing structure for the headcount range (offices, officials, division chiefs and staff), computes Personnel Services from the 2026 salary schedule with mandatory benefits, and MOOE and Capital Outlay from DBM costing parameters (travel under EO No. 77, s. 2019; training under NBC No. 563; rent under the DBM-DPWH Joint Circular; vehicles under DBM Budget Circular Nos. 2022-1 and 2022-1A). It shows the PS, MOOE and CO summary; the assumptions and similar agencies are in a reference dropdown."
+ },
+ {
+  "group": "About ActCheck",
+  "q": "What happens when I first open ActCheck?",
+  "a": "A welcome window from BILLy asks whether you are a Public Visitor (the public view, with reporting on bills) or an Analyst (the Review workspace). Your choice opens that view. You can switch later with the Reviewer Log In or Log Out button at the top right."
+ },
+ {
+  "group": "Reviewers",
+  "q": "How does ActCheck choose the bills recommended for review?",
+  "a": "It looks at pending 20th Congress bills with full text and adds points for: how soon the bill may move (final stage, floor, committee), a LEDAC priority or an FY 2027 budget priority, creating a national agency or appropriating funds, several bills with the same title, and public reports. Bills with the same title are listed once. It is a starting point; the reviewer decides what to review."
+ },
+ {
+  "group": "Reviewers",
+  "q": "What do the colours beside a bill under review mean?",
+  "a": "Red: not yet started. Yellow: ongoing (some checklist items ticked or text edited). Green: the memo and the letter are drafted, after the recommendation is confirmed."
+ },
+ {
+  "group": "Reviewers",
+  "q": "Is my review progress saved if the site restarts?",
+  "a": "Yes. Ticks, notes, edits, bureau comments and the memo and letter are copied to the project's Google Sheet a few seconds after each change and come back when the site restarts. Files attached to checklists are not copied."
+ },
+ {
+  "group": "The agents",
+  "q": "What are 'established', 'contested' and 'cannot establish' in TrAIce's checklist?",
+  "a": "Established: links whose cited passage was verified in a bill's full text. Contested: links that rest on a scanned or title-only source, a passage that was not verified, or a label that differs from ActCheck's draft; confirm these before relying on them. Cannot establish: what the data does not show, such as the bill's status after filing."
+ },
+ {
+  "group": "The agents",
+  "q": "What are the theory of change and the self-critique in CompAIre's checklist?",
+  "a": "The theory of change states, in one line, how the bill is meant to work and the assumption most likely to fail. In the self-critique, CompAIre argues against each of its own recommendations and judges whether it still holds, holds only with a condition, or is reversed. ActCheck flags the critique if it looks too easy on itself, for example when nothing is ever weakened."
+ },
+ {
+  "group": "The agents",
+  "q": "Is ApprAIsal one agent or a team?",
+  "a": "A team. ApprAIsal leads four helpers: Costing (the cost calculator), Duplication (overlap with existing agencies under RA No. 12231), Referral (the DBM bureaus to consult, by their coverage) and Recommendation (the Part VII option). A Red-teamer checks every draft. They work in the background; their results appear in Step 3."
  }
 ]

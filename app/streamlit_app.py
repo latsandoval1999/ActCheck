@@ -55,24 +55,26 @@ STEPS = ["Trace", "Compare", "Weigh", "Memo & letter"]
 STEP_DESCS = ["Trace the bill", "Spot the changes", "Weigh the impact", "DBM format"]
 WORKFLOW = [
     ("Every morning · 9:00 AM", "Daily check", "daily",
-     ["Checks the House documents server for new bill numbers", "Catches up older House bills missing from the list",
-      "Reads each bill, including scanned pages", "Sorts bills by type and flags LEDAC priority measures", "Reports any source that fails"],
+     ["Looks for newly filed bills and fills in older ones missing from the list", "Reads each bill, including scanned pages",
+      "Sorts bills by type and marks LEDAC priority bills", "Reports any source that could not be checked"],
      "New bills on the Bills page", True),
     ("Step 1 · Trace the bill", "TrAIce", "trace",
-     ["Finds earlier versions in the 18th and 19th Congress", "Finds the counterpart in the other chamber and refiled copies",
-      "Lists the existing laws the bill amends or overlaps", "Quotes a section for every link; each quote is checked"],
-     "Legislative history with checked citations", False),
+     ["Finds earlier versions, refiled copies and the Senate or House counterpart", "Lists the laws the bill changes or overlaps",
+      "Backs every related bill or law with a passage from the cited section, which ActCheck checks word for word",
+      "Drafts memo Parts II and III"],
+     "Policy context, legislative history, related bills and laws", False),
     ("Step 2 · Spot the changes", "CompAIre", "compare",
-     ["Compares the bill with its closest related measure, section by section", "States the problem the bill addresses",
-      "Lists substantial differences and their likely cost effect", "Shows design options seen in related bills"],
-     "Substantial differences and design options", False),
+     ["States the problem the bill addresses", "Compares each major provision with the related bill that offers a real alternative",
+      "Recommends: retain, adapt the alternative, adapt with revisions, or remove", "Argues against its own recommendations, then drafts memo Part IV"],
+     "Substantial differences and design options; memo Part IV", False),
     ("Step 3 · Weigh the impact", "ApprAIsal", "appraise",
-     ["Estimates a first-year cost range (fixed calculator, 2026 budget data)", "Notes risks, overlaps and policy context",
-      "Drafts preliminary comments and a checklist", "A second AI reviewer checks the draft", "Drafts the memo and letter in DBM format"],
-     "Preliminary review, comments, memo and letter drafts", False),
-    ("The analyst", "Decide and send", "analyst",
-     ["Ticks each checklist to unlock the next step", "Edits the findings and comments", "Sets the DBM position",
-      "Finalizes and signs off the memo and letter"],
+     ["Estimates the cost of a new office (staff, operating costs, equipment) with a fixed calculator",
+      "Checks for overlap with existing agencies under RA No. 12231", "Proposes one of three recommendations and lists the DBM bureaus to consult",
+      "A Red-teamer checks every draft before the reviewer sees it"],
+     "Memo Parts V to VII; bureaus to consult", False),
+    ("The analyst", "Check and decide", "analyst",
+     ["Ticks each checklist to unlock the next step", "Edits the agents' text where needed and adds the bureaus' comments",
+      "Confirms the recommendation in Part VII", "Downloads the memo and the letter in DBM format"],
      "DBM memo to the Secretary and letter to Congress", True),
 ]
 
@@ -256,7 +258,7 @@ if REVIEWER:
     st.selectbox("Model", list(llm.MODELS), format_func=lambda m: llm.MODELS[m], key="model",
                  help="Haiku is about 20 times cheaper; Sonnet gives better citations and comparisons.")
     live = bool(llm.api_key())
-    st.write("AI agents:", "**on**" if live else "**off**. ActCheck still shows its own analysis, BILLy searches the bill's text, and each agent can be run in your Claude chat.")
+    st.write("Live runs:", "**on**" if live else "**off**. Each step shows the output prepared by Claude where available, or ActCheck's draft; BILLy searches the bill's text.")
     st.caption(LABEL)
 
 with st.container(key="topbar"):
@@ -293,7 +295,7 @@ def house_note(row):
 
 def free_route(key, prompt_fn, on_reply, json_reply=True):
     """Download the prompt, run it in a Claude chat, paste the reply back."""
-    with st.expander("No AI key? Run this step in your Claude chat instead"):
+    with st.expander("Run this step in your Claude chat"):
         st.caption("1) Download the instructions. 2) Open a new Claude chat, attach the file and ask Claude to follow it exactly. "
                    "3) Paste Claude's reply below. ActCheck checks the reply before saving it.")
         try:
@@ -314,6 +316,18 @@ def free_route(key, prompt_fn, on_reply, json_reply=True):
 
 
 # ---------------- Bills: review action and details dialog ----------------
+def review_chip(rec):
+    """Review status beside the bill in 'Bills under review': not yet started (red), ongoing (yellow), memo and letter drafted (green)."""
+    ticked = any((v or {}).get("done") for step in (rec.get("checklist") or {}).values() for k, v in (step or {}).items() if k != "_notes")
+    if rec.get("letter_fields") and docs.position_decided(rec.get("memo_fields") or {}):
+        lab, cls = "Memo and letter drafted", "done"
+    elif ticked or rec.get("memo_fields") or rec.get("traice_memo") or rec.get("compaire_memo"):
+        lab, cls = "Ongoing", "ongoing"
+    else:
+        lab, cls = "Not yet started", "new"
+    return f'<span class="ac-rstat {cls}">{lab}</span>'
+
+
 def start_review(row):
     """Send a bill to the review workspace; fetch its text first if ActCheck does not have it yet."""
     if not row["reviewable"]:
@@ -759,7 +773,7 @@ def case(bid):
                 store.save(bid, "apprAIsal", {"output": o3, "checks": appraise.check_output(o3, _d)}, f"{AGENT3} run")
                 st.rerun()
             src = a_out.get("source", "ai")
-            ui.badges([("Draft prepared by ActCheck's rules (no AI)", "gold")] if src == "rules" else [("Prepared by ApprAIsal (Claude)", "navy")])
+            ui.badges([("Draft prepared by ActCheck", "gold")] if src == "rules" else [("Prepared by ApprAIsal (Claude)", "navy")])
             render.apprAIsal_fiscal(a_out, cost, c_req(bid, catalogue.stamp()), peso)
             render.apprAIsal_dup(a_out)
             render.referrals_table(a_out)
@@ -928,7 +942,7 @@ def billy_body(bid):
     if hist:
         c2.button("Clear chat", key=f"billy_clr_{bid}", on_click=lambda: st.session_state.update({f"billy_{bid}": []}))
     st.caption("Answers come from the bill's own text, with every citation checked." if bool(llm.api_key())
-               else "Without an AI key, BILLy answers by quoting the parts of the bill that best match your question.")
+               else "BILLy answers by quoting the parts of the bill that best match your question.")
 
 
 def _guide_ask(q=None):
@@ -1156,14 +1170,14 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                     with t1:
                         if active:
                             ui.html('<div class="ac-qnow">Now reviewing</div>')
-                        st.markdown(f"**{bills[k]['label']}** · {bills[k]['congress']}th")
+                        st.markdown(f"**{bills[k]['label']}** · {bills[k]['congress']}th " + review_chip(r), unsafe_allow_html=True)
                     with t2, st.container(key=f"qx_{k.replace('-', '_')}"):
                         if st.button("✕", key=f"x_{k}", help="Remove this bill from the workspace (its saved work is kept and returns if you review it again)"):
                             store.unqueue(k)
                             if active:
                                 st.session_state.pop("bill", None)
                             st.rerun()
-                    st.caption(f"{bills[k]['title'][:80]}… · {r.get('status', 'new')}")
+                    st.caption(f"{bills[k]['title'][:80]}…")
                     if not active and st.button("Open", key=f"q_{k}", use_container_width=True):
                         st.session_state["bill"] = k
                         st.rerun()
@@ -1357,37 +1371,35 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                  [[f'<a href="{escape(r["url"])}" target="_blank">{escape(r["source"])}</a>', escape(roles.get(r["source"], r.get("role", ""))),
                    escape(manila(r["time"], "%d %b %Y"))] for r in srows], cls="src")
 
-        # 3. Agent runs
-        order = {"TrAIce": 1, "CompAIre": 2, "ApprAIsal (draft review)": 3, "ApprAIsal (second-reviewer check)": 4,
-                 "ApprAIsal (memo)": 5, "ApprAIsal (letter)": 6}
-        names = {"p1": AGENT1, "p2": AGENT2}
-        agg = {}
-        for f in sorted((ROOT / "logs").glob("*.jsonl")):
-            for x in f.read_text().splitlines():
+        # 3. Agent runs: the outputs prepared by Claude, with their grades and checks
+        runs_dir = ROOT / "data" / "agent_runs"
+        rows_ = []
+        for d_ in sorted(runs_dir.glob("*-*-*")) if runs_dir.exists() else []:
+            b_ = d_.name
+            cells, last = [], ""
+            for fn, nm in (("traice.json", AGENT1), ("compaire.json", AGENT2), ("apprAIsal.json", AGENT3), ("redteam.json", "Red-teamer")):
+                f_ = d_ / fn
+                if not f_.exists():
+                    continue
                 try:
-                    d = json.loads(x)
+                    j = json.loads(f_.read_text())
                 except ValueError:
                     continue
-                bid = d.get("target") or d.get("bill")
-                if not bid:
-                    continue
-                key = f.stem.split("_")[0]
-                if key in names:
-                    agent = names[key]
+                m = j.get("meta") or {}
+                last = max(last, str(m.get("time", "")))
+                ck = j.get("checks") or []
+                ok = sum(1 for c in ck if c.get("check") == "verified")
+                if fn == "redteam.json":
+                    cells.append(f"Red-teamer: {(j.get('output') or {}).get('verdict', '')}")
                 else:
-                    stp = str(d.get("step") or (d.get("meta") or {}).get("step") or "review")
-                    agent = {"review": "ApprAIsal (draft review)", "redteam": "ApprAIsal (second-reviewer check)",
-                             "memo": "ApprAIsal (memo)", "letter": "ApprAIsal (letter)"}.get(stp, "ApprAIsal (draft review)")
-                a = agg.setdefault(bid, {"agent": agent, "time": ""})
-                if order.get(agent, 0) > order.get(a["agent"], 0):
-                    a["agent"] = agent
-                a["time"] = max(a["time"], str(d.get("time") or (d.get("meta") or {}).get("time") or ""))
-        ui.section("Agent runs", "Bills the agents have worked on",
-                   "The furthest step each bill has reached and when an agent last ran on it.")
-        ui.table(["Bill No.", "Title", "Ran up to", "Last run"],
-                 [[f'<b>{escape(bills[b]["label"] if b in bills else b)}</b>', escape((bills.get(b) or {}).get("title", "")),
-                   escape(v["agent"]), escape(manila(v["time"]))]
-                  for b, v in sorted(agg.items(), key=lambda kv: kv[1]["time"], reverse=True)]
+                    cells.append(f"{nm} · grade {m.get('grade', '?')}" + (f" · {ok} of {len(ck)} checks passed" if ck else ""))
+            if cells:
+                rows_.append((last, [f'<b>{escape(bills[b_]["label"] if b_ in bills else b_)}</b>', escape(render.short((bills.get(b_) or {}).get("title", ""), 120)),
+                                     "<br>".join(escape(c) for c in cells), escape(manila(last))]))
+        ui.section("Agent runs", "Outputs prepared by TrAIce, CompAIre and ApprAIsal (Claude)",
+                   f"{len(rows_)} bill(s). An output is saved only after ActCheck checks every quoted passage and peso figure in it. "
+                   "ActCheck, not the agent, sets the grade. The Red-teamer's verdict is shown for each ApprAIsal output it has checked.")
+        ui.table(["Bill No.", "Title", "Agents and checks", "Last run"], [r for _, r in sorted(rows_, key=lambda x: x[0], reverse=True)]
                  or [["—", "No agent runs yet.", "", ""]], cls="runs")
 
         # 4. Portfolio and project log

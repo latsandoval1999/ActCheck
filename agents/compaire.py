@@ -380,20 +380,24 @@ def flattering(out):
 
 
 def critique_points(out):
-    """Checklist lines: the theory of change, the self-critique per row, and any sign of a flattering critique."""
+    """Two checklist lines: the theory of change, and the self-critique (with any sign of a flattering critique)."""
     pts = []
     toc = out.get("theory_of_change") or {}
-    if toc:
-        pts.append("Theory of change: " + "; ".join(f"{k.replace('_', ' ')}: {v.rstrip('.')}" for k, v in
-                                                  (("problem", toc.get("problem")), ("mechanism", toc.get("mechanism")),
-                                                   ("outcome", toc.get("outcome")), ("weakest assumption", toc.get("weakest_assumption"))) if v) + ".")
+    if toc.get("mechanism"):
+        lc = lambda t: (t or "").rstrip(".")[:1].lower() + (t or "").rstrip(".")[1:]  # noqa: E731
+        pts.append(f"Theory of change: {toc['mechanism'].rstrip('.')} → {lc(toc.get('outcome'))}"
+                   + (f"; weakest assumption: {lc(toc['weakest_assumption'])}" if toc.get("weakest_assumption") else "") + ".")
     crit = out.get("self_critique") or []
     if not crit:
-        pts.append("Self-critique: not done for this output (draft prepared by code); test each recommendation against its strongest objection.")
-    for x in crit:
-        pts.append(f"Self-critique ({x.get('area')}): {x.get('objection', '').rstrip('.')}. Verdict: {x.get('verdict')}"
-                   + (f", on condition that {x['condition'][:1].lower() + x['condition'][1:].rstrip('.')}" if x.get("condition") else "") + ".")
+        pts.append("Self-critique: not yet done for this output; test each recommendation against its strongest objection.")
+        return pts
+    w = [x.get("area", "") for x in crit if x.get("verdict") == "weakened"]
+    r = [x.get("area", "") for x in crit if x.get("verdict") == "reversed"]
+    n_st = sum(1 for x in crit if x.get("verdict") == "stands")
+    line = f"Self-critique: {len(w)} of {len(crit)} recommendations hold only with a condition"
+    line += f" ({', '.join(a[:1].lower() + a[1:] for a in w)})" if w else ""
+    line += f"; {n_st} {'stands' if n_st == 1 else 'stand'}" if n_st else ""
+    line += f"; {len(r)} reversed ({', '.join(a[:1].lower() + a[1:] for a in r)})" if r else ""
     f = flattering(out)
-    if f:
-        pts.append("Check for a flattering self-critique: " + "; ".join(f) + ".")
+    pts.append(line + "." + (f" Possible flattering critique: {'; '.join(f)}." if f else ""))
     return pts

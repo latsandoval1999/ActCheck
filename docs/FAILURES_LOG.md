@@ -67,3 +67,8 @@ Failure the course asks this agent to catch: drift toward tasks it should not do
 | 16 Nov 2026 | BILLy answered "I'm not sure" to its own quick button "What is ActCheck?" ("actcheck" was a stop word) | Exact-match and intent rules for the quick buttons |
 | 16–17 Nov 2026 | Filing dates read from the House stamp by OCR broke filing order for 36 bills (e.g. HB 9430 read as May 28, stamped May 26) | Dates checked against filing order and corrected by visual check |
 | 16 Nov 2026 | The daily check stopped finding new House bills after a gap in House numbering | Wider search for new numbers and catch-up of older bills |
+
+## 2026-11-18 — Memo and letter wording (found in reviewer's downloaded drafts)
+- Memo referral line lowercased the referral reasons ("gaa", "ra no. 8435") and the status sentence read awkwardly. Fixed: bureaus named "for their comments"; status kept as listed.
+- Letter placed Part VI before Part V and kept memo numbering (4.1, 6.1, 5.1). Fixed: order IV, V, VI; numbering removed.
+- Downloaded HB 2322 memo still showed the Part VII placeholder while the letter said "subject to": the memo was downloaded before the recommendation was confirmed. Reviewer step: confirm Part VII, then download both.

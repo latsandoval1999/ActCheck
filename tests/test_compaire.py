@@ -40,6 +40,6 @@ def test_self_critique_points_and_flattering_flag():
                                         "verdict": "stands", "condition": ""} for r in rows])
     reasons = compaire.flattering(flat)
     assert any("every objection" in r for r in reasons) and any("repeats" in r for r in reasons)
-    assert any(p.startswith("Check for a flattering self-critique") for p in compaire.critique_points(flat))
+    assert any("Possible flattering critique" in p for p in compaire.critique_points(flat))
     bad = dict(honest, self_critique=[{"area": "Scope", "objection": "x", "verdict": "fine"}])
     assert any("self-critique" in c["check"] for c in compaire.check_output(dict(bad, target="HB-20-2322")))

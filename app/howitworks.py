@@ -112,63 +112,50 @@ def render(a1, a2, a3, workflow):
                     "Types are a first pass: about 5% stay 'Other or unclassified' and the analyst confirms the type",
                     "Senate content is not used to train AI models"],
                    "New bills on the Bills page, typed and flagged", dark=True),
-        agent_card("trace", f"Step 1 · Evidence and Research", f"{a1} · Trace the bill",
-                   ["States what the bill proposes, its alignment with the FY 2027 Budget Priorities Framework and the LEDAC agenda, and the review priority",
-                    "Traces the legislative history and groups related bills by relationship: past Congress, refiled, merged, Senate or House version, alternative, template",
-                    "Lists the related laws (amends, overlapping functions, referenced, template) and the bill's fiscal requirements",
-                    "Drafts memo Parts II (Salient Features) and III (Related Measures and Policy Considerations) for the reviewer to edit",
-                    "Sorts its findings in the background into established (cited text verified in a full text), contested (scanned or "
-                    "title-only sources, unverified quotes, labels that differ from ActCheck's rules) and what the data cannot establish; "
-                    "the three lists appear under 'For checking', and each related bill shows its source: full text, scanned text or title only"],
-                   ["A draft is made by code first (no AI); Claude improves it when available",
-                    "Each finding cites a section; ActCheck checks every cited passage against the source text in the background",
-                    "A bill not in the corpus is reported as not found, never guessed",
-                    "Each output gets an evidence grade, A (strong) to D (weak), computed by code, not by the agent (see Safeguards and Limits)",
-                    "Instructions written inside a bill's text are ignored"],
-                   "Policy context, legislative history, related bills and laws, fiscal requirements"),
+        agent_card("trace", "Step 1 · Evidence and Research", f"{a1} · Trace the bill",
+                   ["Explains what the bill proposes and how it fits the FY 2027 Budget Priorities Framework and the LEDAC agenda",
+                    "Traces its history and groups related bills: filed in a past Congress, filed again, merged, the other chamber's version, "
+                    "or an alternative proposal",
+                    "Lists the laws the bill amends, overlaps or refers to, and its funding provisions",
+                    "Drafts memo Parts II (Salient Features) and III (Related Measures and Policy Considerations)",
+                    "In the checklist, notes what is established (verified in a full text) and what is contested or not shown in the data"],
+                   ["Every related bill or law is backed by a passage from the cited section; ActCheck checks it word for word, figures included",
+                    "Each related bill shows its source: full text, scanned text or title only",
+                    "A bill not in the records is reported as not found, never guessed; instructions written inside a bill are ignored",
+                    "Each output gets an evidence grade, A (strong) to D (weak), set by ActCheck, not by the agent"],
+                   "Memo Parts II and III"),
         agent_card("compare", "Step 2 · Diagnosis and Design", f"{a2} · Spot the changes",
-                   ["Building on TrAIce's salient features, states what the bill aims to address and what is materially different in it",
-                    "Compares each major provision with the related measure that offers a real alternative (differences, not repetition)",
-                    "Recommends for each: retain the provision, adapt the alternative (with or without revisions) or remove it, with "
-                    "trade-offs and gaps to check",
-                    "Drafts memo Part IV (Comments and Recommendations) for the provisions that need a decision; possible duplications and "
-                    "cost effects go to ApprAIsal",
-                    "Attacks its own design in the background: the strongest objection to each recommendation, judged stands, weakened or "
-                    "reversed, and a theory of change with its weakest assumption; these appear in the CompAIre checklist, with a flag "
-                    "when the critique looks flattering"],
-                   ["A draft is made by code first (no AI); Claude prepares the full analysis when available",
-                    "Every compared provision cites both sections; ActCheck checks each cited passage in the background",
-                    "Recommendations come from a fixed list of four options; the agent never states the DBM position",
-                    "Each output gets an evidence grade, A (strong) to D (weak), computed by code (see Safeguards and Limits)"],
-                   "Substantial Differences and Design Options; memo Part IV"),
+                   ["States the problem the bill addresses",
+                    "Compares each major provision with the related bill that offers a real alternative, not a copy",
+                    "Recommends one of four options for each: retain, adapt the alternative, adapt it with revisions, or remove, with trade-offs",
+                    "Drafts memo Part IV (Comments and Recommendations) for the provisions that need a decision",
+                    "Argues against its own recommendations and states the bill's theory of change; both appear in the checklist"],
+                   ["Every comparison cites both sections, and ActCheck checks each passage",
+                    "ActCheck flags a self-critique that looks too easy on its own recommendations",
+                    "Possible duplication and cost effects go to ApprAIsal; CompAIre never states the DBM position",
+                    "Each output gets an evidence grade, A to D, set by ActCheck"],
+                   "Memo Part IV"),
         agent_card("appraise", "Step 3 · Appraisal and Governance", f"{a3} · Weigh the impact",
-                   ["Estimates the budgetary requirements of a new entity or positions in the background: Personnel Services from the 2026 "
-                    "salary schedule (NBC No. 601) with benefits; MOOE and Capital Outlay from DBM costing parameters; similar agencies in the "
-                    "FY 2026 GAA and COA audits as cross-checks",
-                    "Part V: each fiscal item with the provision, what the bill provides, the recommended budgetary consideration, the "
-                    "recommendation on budgetary capacity and the GAA, and the risks",
-                    "Part VI: possible duplication with existing agencies, assessed under the Government Optimization Act (RA No. 12231) when "
-                    "the bill does not change or abolish the existing body",
-                    "Part VII: proposes one of three recommendations; lists the DBM bureaus to consult; compiles the memo without repetition",
-                    "Works as a lead agent with four sub-agents: Costing (the cost calculator), Duplication (overlap under RA No. 12231), "
-                    "Referral (DBM bureaus by coverage) and Recommendation (the Part VII option)",
-                    "A permanent Red-teamer sub-agent attacks every ApprAIsal output in the background (scope, figures, consistency between "
-                    "parts, missing referrals); its verdict and findings appear in the Step 3 checklist"],
-                   ["The AI does no arithmetic; any peso figure not from the calculator or the bill is rejected",
-                    "Recommendations and bureaus come from fixed lists; the analyst confirms the recommendation in Step 4",
-                    "No officials' names or signatures; every draft carries the AI-assisted label",
-                    "A scope check rejects any output that states a DBM position outside Part VII, names or signs for an official, gives "
-                    "political advice, carries personal contact details or follows an instruction planted in a bill",
-                    "Each output gets an evidence grade, A (strong) to D (weak), computed by code"],
+                   ["Leads a team of sub-agents: Costing (Personnel Services, MOOE and Capital Outlay from DBM costing rules and the 2026 "
+                    "salary schedule), Duplication (overlap with existing agencies under RA No. 12231), Referral (the DBM bureaus that cover "
+                    "the agencies named in the bill) and Recommendation (one of three Part VII options)",
+                    "Drafts memo Parts V (Fiscal and Budgetary Requirements), VI (Possible Duplication) and VII (Recommendation)",
+                    "A Red-teamer sub-agent checks every output for scope, figures, consistency between parts and missing bureaus; its verdict "
+                    "appears in the checklist"],
+                   ["Every peso figure comes from the cost calculator or the bill; any other figure is rejected",
+                    "An output is rejected if it states a DBM position outside Part VII, names or signs for an official, gives political advice, "
+                    "or includes personal contact details",
+                    "The analyst confirms the recommendation in Step 4; drafts carry the AI-assisted label",
+                    "Each output gets an evidence grade, A to D, set by ActCheck"],
                    "Memo Parts V to VII; bureaus to consult", wide=True),
         agent_card("billy", "Companion", "BILLy · Ask about the bill or the site",
                    ["With a bill open in the workspace, answers questions about that bill from its sections, the cost estimate and the agents' findings",
                     "With no bill open, answers questions about ActCheck: the agents, data sources, Library, Run log, safeguards"],
-                   ["Every citation in an AI answer is checked", "Without an AI key, it only quotes matching passages, nothing invented"],
+                   ["Every citation in an answer is checked", "When live runs are off, it quotes the matching passages of the bill"],
                    "Answers with section references"),
         agent_card("analyst", "The analyst", "Human checkpoints",
-                   ["Each step ends with a checklist, with notes and file attachments; the next step stays locked until every item is ticked",
-                    "Edits each agent's output if needed, confirms the recommendation, records the bureaus' comments, finalizes the memo and letter"],
+                   ["Each step ends with a checklist and a notes box; the next step stays locked until every item is ticked",
+                    "Edits any output, records the bureaus' comments, confirms the recommendation and downloads the memo and letter"],
                    ["Every action is recorded in the activity trail", "Problem reports are kept with the bill and in the Run log"],
                    "Decisions the analyst owns", dark=True),
     ]
@@ -186,12 +173,11 @@ def render(a1, a2, a3, workflow):
     ui.html('<div class="ac-agrid one">' + cards[names.index(pick)] + "</div>")
 
     ui.section("Safeguards and Limits", "What ActCheck does to stay trustworthy, and what to keep in mind",
-               "ActCheck is a prototype for coursework. It is tested first on bills that create a national government agency; other types can "
-               "be reviewed, but the cost estimate applies only to new agencies. Bill types come from title rules and are approximate. House "
-               "bills filed before the daily check began are listed from Open Congress Data, which has gaps that the daily catch-up is filling. "
-               "The Senate listing blocks automated checks from GitHub, so it is refreshed separately. Reviews saved on the hosted portal reset "
-               "when it restarts, so download reports, memos and letters. Every output is labelled an AI-assisted preliminary draft for DBM "
-               "reviewer validation, not an official position.")
+               "ActCheck is a prototype for coursework. It is tested first on bills that create a national government agency; other bills "
+               "can be reviewed, but the cost estimate is designed for new agencies. Bill types come from the titles and are approximate. Some "
+               "older House bills come from Open Congress Data, which has gaps that the daily check is filling. Review progress and public "
+               "reports are saved to a Google Sheet, so they are kept when the site restarts; attached files in checklists are not. Every output "
+               "is labelled an AI-assisted preliminary draft for DBM reviewer validation, not an official position.")
     from agents import grading
     ui.html("<p style='margin:.9rem 0 .2rem'><b>Evidence grade of each agent output</b></p>")
     ui.html("<ul style='margin:.2rem 0 .6rem 1.1rem;font-size:.92rem;line-height:1.5'>" + "".join(f"<li>{x}</li>" for x in grading.METHOD) + "</ul>")
@@ -207,11 +193,11 @@ def render(a1, a2, a3, workflow):
     ui.table(["Principle (JMC 003, Sec. 5-10)", "How ActCheck meets it", "Still needed before agency use"], [
         ["Proportionality and do no harm", "Used only for preliminary review within DBM-BILLS' existing mandate; agents never set a position or sign.",
          "A risk assessment by the deploying office."],
-        ["Human-centricity; final decision by a human", "Checklists lock each step until the analyst approves; only the analyst sets the position; every action is in the activity trail.",
+        ["Human-centricity; final decision by a human", "Checklists lock each step until the analyst approves; only the analyst confirms the recommendation; every action is in the activity trail.",
          "User testing with BILLS analysts; consult staff whose work changes."],
         ["Fairness and non-discrimination", "No personal data is used to judge anyone; the agent may not describe legislators' motives; reviewers can flag biased wording.",
          "A bias check across bill types and chambers (coverage gaps in House listings, title-based types)."],
-        ["Transparency and explainability", "Each finding quotes its source and the quote is checked; rule-based results are labelled 'Before any AI is used'; this page explains inputs, limits and outputs.",
+        ["Transparency and explainability", "Each finding is backed by a checked passage from its source; outputs say who prepared them; this page explains inputs, limits and outputs.",
          "Publish the disclosure in the agency's own AI policy."],
         ["Data governance, privacy and protection", "Only public documents (bills, laws, budget and audit reports); the only personal data are legislators' names as published.",
          "Privacy impact assessment; classify data under Sec. 9 before adding internal files."],
@@ -219,13 +205,13 @@ def render(a1, a2, a3, workflow):
          "Name the accountable unit; the internal AI committee (IT and Legal) under Sec. 8 reviews use."],
         ["Reporting and feedback (Sec. 6b)", "Each checklist ends with a Notes and attachments box for corrections, and members of the public can send reports from the Bills page; both are kept with the bill.",
          "Route reports to the system owner and fix within a set time."],
-        ["Disclosure of AI use (Sec. 6b)", "Reports, memos and letters carry the AI-assisted label; the Run log records which model produced what.",
+        ["Disclosure of AI use (Sec. 6b)", "Reports, memos and letters carry the AI-assisted label; the Run log shows which agent prepared what, and when.",
          "Agency rule on how AI use is disclosed to Congress."],
         ["Cyber safety and security", "No keys or passwords stored in the code; only public data on the hosted prototype.",
          "Vulnerability assessment and access control before internal deployment."],
-        ["Robustness and reliability", "Sources documented; automatic checks on citations, peso figures and governance rules; a second AI reviewer; tests run on every change.",
+        ["Robustness and reliability", "Sources documented; automatic checks on citations, peso figures and scope; a Red-teamer on every ApprAIsal output; tests run on every change.",
          "Regular monitoring of accuracy on new bills (Sec. 10)."],
-        ["Sustainability", "Rule-based steps run first and cost nothing; a smaller AI model can be chosen; results are reused, not regenerated.",
+        ["Sustainability", "ActCheck prepares a draft first at no cost; Claude's outputs are saved and reused, not regenerated.",
          "Track usage and cost per review."],
     ])
     st.caption("Sources: DICT-CSC JMC No. 003, s. 2026; NPC Advisory No. 2024-04; RA 10173 (Data Privacy Act of 2012).")

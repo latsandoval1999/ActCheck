@@ -54,7 +54,6 @@ def test_evidence_map_sorts_findings():
     t = _traice_out("HB-20-9897")
     s = traice.saved_ai("HB-20-9897")
     pts = traice.evidence_map("HB-20-9897", t, s["checks"], status="Filed; later stages not in source data")
-    assert pts[0].startswith("Established") and "SB No. 173" in pts[0]
-    assert any(p.startswith("Contested") and "HB No. 1190 (scanned text)" in p for p in pts)
-    assert any(p.startswith("Cannot establish") and "status after filing" in p for p in pts)
+    assert len(pts) == 1 and pts[0].startswith("Evidence:")
+    assert "HB No. 1190 (scanned text)" in pts[0] and "status after filing" in pts[0]
     assert traice.source_tag("HB-20-1190") == "Scanned text" and traice.source_tag("HB-18-195") == "Title only"

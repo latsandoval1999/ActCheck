@@ -23,7 +23,7 @@
    },
    {
     "area": "Head of the Department",
-    "section_ref": "Section 7 (The Secretary,)",
+    "section_ref": "Section 7 (The Secretary)",
     "target_section": "HB-20-9897:s7",
     "target_quote": "The Secretary shall possess substantial experience and demonstrated competence in disaster risk reduction and management",
     "comparator": {
@@ -193,7 +193,7 @@
    "check": "verified"
   },
   {
-   "claim": "Section 7 (The Secretary,)",
+   "claim": "Section 7 (The Secretary)",
    "section": "HB-20-9897:s7",
    "quote": "The Secretary shall possess substantial experience and demonstrated competence in disaster risk reduction and management",
    "check": "verified"

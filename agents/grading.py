@@ -17,11 +17,11 @@ GRADES = [(7, "A", "Strong"), (5, "B", "Moderate"), (3, "C", "Limited"), (0, "D"
 METHOD = [
     "Every agent output gets one evidence grade, computed by ActCheck's code, never by the agent itself.",
     "Four tests, 2 points each: how the bill's text was read (official PDF 2, scanned copy 1); how the findings were prepared and "
-    "verified (by Claude with every cited passage found in its section 2, 80% or more 1, rules without AI 1); how much of the mapping "
+    "verified (by Claude with every cited passage found in its section 2, 80% or more 1, ActCheck's draft 1); how much of the mapping "
     "rests on full texts rather than titles (75% or more 2, 40% or more 1); and how many points remain to confirm (up to 2: 2 points, "
     "up to 5: 1 point).",
-    "A Strong (7-8 points), B Moderate (5-6), C Limited (3-4), D Weak (0-2). Drafts made by rules are capped at B until Claude has "
-    "reviewed and cited the findings.",
+    "A Strong (7-8 points), B Moderate (5-6), C Limited (3-4), D Weak (0-2). ActCheck's drafts are capped at B until Claude has "
+    "prepared and cited the findings.",
     "The note under the final checklist item shows the grade and what kept it from more points; for B or lower, the reviewer verifies "
     "those items against the House or Senate record or the bill PDF before ticking.",
 ]
@@ -37,9 +37,9 @@ def text_test(text_source):
 
 def prep_test(kind, checks):
     if kind == "rules":
-        return 1, "Drafted by ActCheck's rules without AI; not yet reviewed by Claude"
+        return 1, "Draft prepared by ActCheck; not yet prepared by Claude"
     if kind == "ai-v2":
-        return 1, "Partly prepared by an earlier agent version; other parts drafted by rules"
+        return 1, "Partly prepared by an earlier agent version; other parts drafted by ActCheck"
     n = len(checks or [])
     ok = sum(1 for c in (checks or []) if c.get("check") == "verified")
     if n and ok == n:

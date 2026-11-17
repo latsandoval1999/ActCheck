@@ -68,9 +68,8 @@ def memo_prefill(bid, parts=None, status="", referrals=None, bureau_inputs=None)
     parts = parts or {}
     refs = referrals or []
     nm = [f"the {r.get('name', r.get('bureau', ''))} ({r.get('bureau', '')})" for r in refs]
-    ref_line = ((" The bill was referred to " + (", ".join(nm[:-1]) + " and " + nm[-1] if len(nm) > 1 else nm[0]) + " for comments on "
-                 + "; ".join(sorted({r.get("why", "").split(" (")[0].lower() for r in refs})) + ".") if refs else
-                " [The bill was referred to the concerned DBM bureaus for comments on ______.]")
+    ref_line = ((" The bill was referred to " + (", ".join(nm[:-1]) + " and " + nm[-1] if len(nm) > 1 else nm[0]) + " for their comments.")
+                if refs else " [The bill was referred to the concerned DBM bureaus for their comments.]")
     bur = "\n".join(f"The {k} commented that {v.strip()}" if not v.strip().lower().startswith("the ") else v.strip()
                      for k, v in (bureau_inputs or {}).items() if v and v.strip())
     return {
@@ -80,7 +79,7 @@ def memo_prefill(bid, parts=None, status="", referrals=None, bureau_inputs=None)
         "subject": f"PRELIMINARY COMMENTS ON {bill_name(bid).upper()} ENTITLED \"{title.upper()}\"",
         "s1": (f"This pertains to [the request of the Committee on ______ dated ______] for the comments and recommendations of the "
                f"Department of Budget and Management (DBM) on {bill_name(bid)} entitled \"{title}.\""
-               + (f" Its status as listed is: {status.lower()}." if status and not status.startswith("Status not") else "")
+               + (f" Status as listed: {status.strip().rstrip('.')}." if status and not status.startswith("Status not") else "")
                + ref_line + ("\n" + parts["context"] if parts.get("context") else "")),
         "s2": parts.get("salient", "") or "[Salient features from TrAIce.]",
         "s3": parts.get("related", "") or "[Related measures and policy considerations from TrAIce.]",
@@ -125,6 +124,11 @@ def memo_text(fields):
     return "\n".join(head) + "\n\n" + "\n\n".join(body) + f"\n\n{SIGNATURE}\n\n{LABEL}"
 
 
+def _unnumber(text):
+    """Memo paragraph numbers (4.1, 5.2 ...) do not belong in the letter; subheadings stay."""
+    return "\n".join(re.sub(r"^\s*\d+\.\d+\.?\s+", "", ln) for ln in (text or "").split("\n")).strip()
+
+
 def letter_prefill(bid, memo_fields, chamber_hint=None):
     bills, _ = load()
     title = bills[bid]["title"].rstrip(".")
@@ -145,9 +149,8 @@ def letter_prefill(bid, memo_fields, chamber_hint=None):
         "salutation": "Dear [Senator / Representative ______]:\n\nGreetings!",
         "p1": (f"We respectfully submit the comments and recommendations of the Department of Budget and Management (DBM) "
                f"on {bill_name(bid)} entitled \"{title}.\""),
-        "p2": (f"After review, the DBM {stance}. In particular, we respectfully offer the following comments:\n"
-               f"{memo_fields.get('s4', '')}" + (f"\n{memo_fields.get('s6')}" if memo_fields.get("s6") else "")),
-        "p3": memo_fields.get("s5", ""),
+        "p2": f"After review, the DBM {stance}. In particular, we respectfully offer the following comments:\n" + _unnumber(memo_fields.get("s4", "")),
+        "p3": "\n".join(x for x in (_unnumber(memo_fields.get("s5", "")), _unnumber(memo_fields.get("s6", ""))) if x),
         "p4": "We trust that these comments will be considered in the Committee's deliberations. The DBM remains available to provide "
               "further technical assistance on the measure.\n\nThank you very much.",
         "closing": "Very truly yours,",

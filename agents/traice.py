@@ -74,7 +74,9 @@ def sections(bid):
 def sec_ref(bid, no):
     for s in sections(bid):
         if str(s["no"]) == str(no):
-            return f"Section {s['no']} ({re.sub(r'\b(of|on|and|for)([A-Z])', r'\1 \2', s['heading'])})"
+            h = re.sub(r'\b(of|on|and|for)([A-Z])', r'\1 \2', s['heading'])
+            h = re.split(r"\s*[.\u2014-]\s*[-\u2014]?\s*(?=[A-Z][a-z])|\.\s+-|\s+-\s*The\b", h)[0].strip(" ,.;:-\u2014")
+            return f"Section {s['no']} ({h})"
     return f"Section {no}"
 
 
@@ -583,7 +585,9 @@ def _ref_name(doc_id):
 
 def _names(items, n=4):
     items = list(dict.fromkeys(items))
-    return ", ".join(items[:n]) + (f" and {len(items) - n} more" if len(items) > n else "")
+    if len(items) > n:
+        return ", ".join(items[:n]) + f" and {len(items) - n} more"
+    return items[0] if len(items) == 1 else ", ".join(items[:-1]) + " and " + items[-1]
 
 
 def _lc(label):
@@ -627,17 +631,16 @@ def evidence_map(bid, out, checks=None, draft=None, status=None):
         status = (next((r for r in catalogue.build() if r["id"] == bid), {}) or {}).get("status", "")
     status = str(status or "")
     if "later stages not in source data" in status or not status:
-        cant.append("the bill's status after filing (committee action is not in the source data)")
+        cant.append("the bill's status after filing")
     titles_only = [r.get("id") for r in out.get("related", []) if source_tag(r.get("id")) == "Title only"]
     if titles_only:
-        cant.append(f"the content of {len(titles_only)} related bill(s) known by title only")
+        cant.append(f"the content of {len(titles_only)} bill(s) known by title only")
     if not any(r.get("relationship") in (LABELS[3], "Senate version", "House version") for r in out.get("related", [])):
-        cant.append("a counterpart bill in the other chamber (none found in the data)")
-    pts = []
-    if est:
-        pts.append(f"Established (cited text verified in the full text): {_names(est)}.")
+        cant.append("a counterpart bill in the other chamber")
+    line = f"Evidence: {len(est)} link{'s' if len(est) != 1 else ''} verified in the full text"
     if con:
-        pts.append(f"Contested (confirm before relying on it): {_names(con)}.")
+        line += f"; contested: {_names(con, 3)}"
     if cant:
-        pts.append(f"Cannot establish from the data: {'; '.join(cant)}.")
+        line += f"; cannot establish: {cant[0]}"
+    pts = [line + "."]
     return pts
