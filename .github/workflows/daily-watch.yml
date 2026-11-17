@@ -55,6 +55,8 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         if: env.ANTHROPIC_API_KEY != ''
         run: python -c "from pipeline.watch import triage; triage()"
+      - name: Memory budget check (stops the commit if the portal would go over the Streamlit memory limit)
+        run: python scripts/memory_check.py
       - name: Commit results
         run: |
           git config user.name "bill-watch-bot"

@@ -132,3 +132,16 @@ Text from 27 scanned bills was produced by OCR (Tesseract) and is flagged `text_
 - Baseline thresholds (`pipeline/compare.py`) are untuned: tune on 19th Congress pairs, test on 20th.
 - Costing needs benchmarks (GAA 2026, staffing summary, salary schedule). Without them AppraisAI must answer "cannot estimate".
 - Model is set in `agents/llm.py` (`BILL_AGENT_MODEL` environment variable overrides it).
+
+## Memory budget (hosting limit)
+
+Streamlit Community Cloud gives the portal about 1 GB of memory. On 17 Nov 2026 the app was restricted after the
+daily catch-up added the FY 2027 General Appropriations Bill (25 MB of text). Since then:
+
+- `pipeline/build_corpus.py` shortens very long sections (40,000 characters) and documents (600,000 characters);
+- the similarity models in `pipeline/compare.py` use hashed, streaming TF-IDF built once per process;
+- the bill list is cached once (`st.cache_resource`), not copied on every page load;
+- `scripts/memory_check.py` (budget 700 MB peak) runs in the tests and before every daily commit; if the corpus
+  would go over budget, the daily job stops before committing, so the live site is never pushed over the limit.
+
+Any new feature that loads data should be checked with `python scripts/memory_check.py`.
