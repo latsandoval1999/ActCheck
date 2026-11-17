@@ -13,6 +13,7 @@ Commands
   python scripts/traice_batch.py prompt BILL         writes the prompt to runs_tmp/BILL.prompt.md and prints the path
   python scripts/traice_batch.py save BILL FILE      checks FILE (the JSON answer) and saves it; exit 1 if a citation fails
   python scripts/traice_batch.py queue BILL [BILL…]  adds bills to the workspace queue
+  python scripts/traice_batch.py compaire-next [N]   workspace bills with a saved TrAIce run but no CompAIre run yet
   python scripts/traice_batch.py prompt BILL compaire   CompAIre's prompt (needs the bill's saved TrAIce run)
   python scripts/traice_batch.py save BILL FILE compaire  checks and saves a CompAIre answer (data/agent_runs/BILL/compaire.json)
 """
@@ -27,6 +28,7 @@ from agents import traice  # noqa: E402
 
 RUNS = ROOT / "data" / "agent_runs"
 QUEUE = RUNS / "queue.txt"
+WORKSPACE = RUNS / "workspace.txt"      # every bill ever added from the Review workspace (CompAIre runs for these)
 TMP = ROOT / "runs_tmp"
 PILOT = "Government organization and mandates"
 
@@ -80,6 +82,10 @@ def main(argv):
     elif cmd == "next":
         n = int(argv[2]) if len(argv) > 2 else 12
         print("\n".join(pending(_rows())[:n]))
+    elif cmd == "compaire-next":
+        n = int(argv[2]) if len(argv) > 2 else 12
+        ws = WORKSPACE.read_text().split() if WORKSPACE.exists() else []
+        print("\n".join([i for i in dict.fromkeys(ws) if done(i) and not (RUNS / i / "compaire.json").exists()][:n]))
     elif cmd == "prompt" and len(argv) > 3 and argv[3] == "compaire":
         from agents import compaire
         bid = argv[2]
@@ -140,6 +146,8 @@ def main(argv):
         q = queued() + [i for i in argv[2:] if i not in queued() and not done(i)]
         RUNS.mkdir(parents=True, exist_ok=True)
         QUEUE.write_text("\n".join(q) + "\n")
+        ws = WORKSPACE.read_text().split() if WORKSPACE.exists() else []
+        WORKSPACE.write_text("\n".join(dict.fromkeys(ws + argv[2:])) + "\n")
         print(f"{len(q)} in the workspace queue")
     else:
         sys.exit(__doc__)
