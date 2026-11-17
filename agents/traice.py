@@ -169,6 +169,10 @@ def _verb(word):
     return st + "e" if st.endswith(E_STEMS) else st
 
 
+PROPER = {"philippines": "Philippines", "philippine": "Philippine", "filipinos": "Filipinos", "filipino": "Filipino", "congress": "Congress",
+          "senate": "Senate", "house of representatives": "House of Representatives", "republic act": "Republic Act",
+          "local government units": "local government units", "mindanao": "Mindanao", "visayas": "Visayas", "luzon": "Luzon",
+          "metro manila": "Metro Manila", "manila": "Manila", "bangsamoro": "Bangsamoro", "general appropriations act": "General Appropriations Act"}
 SMALL = {"of", "on", "and", "the", "for", "in", "to", "a", "an", "at", "by", "with"}
 
 
@@ -259,6 +263,9 @@ def rule_draft(bid, pack, row=None, pctx=None, category=""):
             t0 = row.get("title") or t0
         t = re.sub(r"^AN ACT\s+", "", t0, flags=re.I).rstrip(".").lower()
         t = re.sub(r"\b([a-z]+ing)\b", lambda x: _verb(x.group(1)) if x.start() == 0 or t[x.start() - 2:x.start()] in (", ", "d ") else x.group(1), t)
+        for w, r in PROPER.items():
+            t = re.sub(rf"\b{w}\b", r, t)
+        t = re.sub(r"\(([a-z0-9-]{2,10})\)", lambda m: "(" + m.group(1).upper() + ")", t)
         proposal = f"{doc} seeks to {t}." if t else f"{doc} is a proposed measure."
     pctx = pctx or {}
     areas = [a["area"] for a in pctx.get("bpf_2027_priority_areas", [])]
@@ -436,7 +443,7 @@ def normalize(out, bid, draft):
     if not out:
         return draft
     o = dict(out)
-    o.setdefault("source", "ai")
+    o.setdefault("source", "ai" if out.get("proposal") else "ai-v2")
     for k in ("proposal", "alignment", "legislative_history", "salient_features", "related_measures_policy", "fiscal_requirements"):
         if not o.get(k):
             o[k] = draft.get(k)

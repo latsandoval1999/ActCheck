@@ -79,6 +79,9 @@ def trace(bid, out, checks=None):
     ok = sum(1 for c in (checks or []) if c.get("check") == "verified")
     if src == "rules":
         ui.badges([("Draft prepared by ActCheck's rules (no AI)", "gold")])
+    elif src == "ai-v2":
+        ui.badges([("Related bills and laws labelled by TrAIce (Claude, earlier version); other parts drafted by ActCheck's rules", "gold")]
+                  + ([(f"{ok} of {len(checks)} cited sections verified against the text", "green" if ok == len(checks) else "red")] if checks else []))
     else:
         ui.badges([("Prepared by TrAIce (Claude)", "navy")]
                   + ([(f"{ok} of {len(checks)} cited sections verified against the text", "green" if ok == len(checks) else "red")] if checks else []))
