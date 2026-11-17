@@ -176,14 +176,14 @@ def evidence_pack(bid):
     rel = []
     for r in corpus:
         rel.append({"id": r["id"], "source": "corpus text", "congress": r["congress"], "similarity": r["similarity"],
-                    "title": r["title"][:200],
+                    "title": r["title"][:600],
                     "baseline_label": baseline_label(prof, r["id"], r["similarity"], r["congress"], subs, r["family"] == prof["family"])})
     have = {x["id"] for x in rel}
     for m in meta:
         if m["id"] in have:
             continue
         rel.append({"id": m["id"], "source": "title only" + ("" if not m["in_corpus"] else " (text in corpus)"),
-                    "congress": m["congress"], "similarity": m["title_similarity"], "title": m["title"][:200],
+                    "congress": m["congress"], "similarity": m["title_similarity"], "title": m["title"][:600],
                     "status": m["status"], "date_filed": m["date_filed"],
                     "baseline_label": baseline_label(prof, m["id"], m["title_similarity"] * 0.8, m["congress"], subs, False)})
     for s in subs - {x["id"] for x in rel}:
@@ -222,21 +222,47 @@ def _context(pack, max_docs=8):
     titles = [f"[meta:{r['id']}] ({r['congress']}th Congress, filed {r.get('date_filed', '')}, status: {r.get('status', '')}) {r['title']}"
               for r in pack["related"] if r["source"].startswith("title only")]
     laws = []
+    ent_words = {w.lower() for w in re.findall(r"[A-Za-z]{5,}", pack["profile"].get("entity", "") + " " + pack["profile"].get("title", "")[:200])}
     for l in pack["laws"]:
         if l["text_in_corpus"]:
-            parts.append(_sections_block(l["law"], limit=15))
+            # the opening sections, plus those on oversight bodies, councils, commissions or the bill's subject
+            _, secs = load()
+            lsecs = secs.get(l["law"], [])
+            keyn = [x["no"] for x in lsecs if re.search(r"oversight|commission|council|committee|board|appropriation|creation|periodic report", x["heading"], re.I)]
+            keyn += [x["no"] for x in lsecs if x["no"] not in keyn
+                     and len(ent_words & {w.lower() for w in re.findall(r"[A-Za-z]{5,}", x["heading"])}) >= 2][:3]
+            first = [x["no"] for x in secs.get(l["law"], [])[:4]]
+            parts.append(_sections_block(l["law"], only=sorted(set(first + keyn[:13]), key=lambda v: int(re.sub(r"\D", "", str(v)) or 0)), limit=10000))
         laws.append(f"[law:{l['law']}] {l['title']} ({l['why']})")
     return ("BILL AND LAW SECTIONS:\n" + "\n\n".join(parts) +
             "\n\nOTHER BILLS (TITLES ONLY, FROM OPEN CONGRESS DATA):\n" + "\n".join(titles) +
             "\n\nEXISTING LAWS (TITLES FROM THE LEGAL DOCUMENTS LIBRARY):\n" + "\n".join(laws))
 
 
-def build_messages(bid, pack=None):
+def build_messages(bid, pack=None, row=None, category="", pctx=None):
     """The exact system prompt and user message Agent 1 sends (also usable by hand in a chat)."""
-    from agents import llm
+    from agents import llm, traice
+    from pipeline import policy
     pack = pack or evidence_pack(bid)
+    bills, secs = load()
+    b = bills.get(bid, {})
+    pctx = pctx or policy.context({"title": b.get("title", ""), "congress": b.get("congress")})
+    if row is None:
+        from pipeline import catalogue
+        row = next((r for r in catalogue.build() if r.get("id") == bid), {})
+    category = category or row.get("type", "")
+    draft = traice.rule_draft(bid, pack, row, pctx, category)
     baseline = [{k: r[k] for k in ("id", "source", "similarity", "baseline_label")} for r in pack["related"]]
+    heads = [f"Section {x['no']} ({x['heading']})" for x in secs.get(bid, [])]
+    cat_facts = {k: row.get(k) for k in ("date_filed", "author", "status", "status_group", "status_sub", "committee", "type") if row.get(k)}
+    pol = {"bill_type": category, "bpf_2027_priority_areas": [dict(a, focus=traice.BPF_FOCUS.get(a["area"], "")) for a in pctx.get("bpf_2027_priority_areas", [])],
+           "ledac": pctx.get("ledac", []), "streamlining_law": "Government Optimization Act (RA No. 12231), 2025: authorizes the streamlining and reorganization of the Executive branch to reduce overlapping functions"}
+    keep = ("proposal", "alignment", "legislative_history", "salient_features", "related_measures_policy", "fiscal_requirements", "reviewer_checks")
     user = (f"TARGET: {bid}\nPROFILE (rules, no AI): {json.dumps(pack['profile'], ensure_ascii=False)}\n"
+            f"TARGET SECTION HEADINGS: {json.dumps(heads, ensure_ascii=False)}\n"
+            f"CATALOGUE (bill list): {json.dumps(cat_facts, ensure_ascii=False)}\n"
+            f"POLICY CONTEXT: {json.dumps(pol, ensure_ascii=False)}\n"
+            f"ACTCHECK DRAFT (made by code; improve it): {json.dumps({k: draft[k] for k in keep}, ensure_ascii=False)}\n"
             f"BASELINE LABELS (rules, no AI; may be wrong): {json.dumps(baseline)}\n\n{_context(pack)}")
     return llm.prompt("p1_research"), user, pack
 
@@ -257,15 +283,15 @@ def check_output(out):
                 res += _cc([c])
         return res
     claims = [{"claim": r.get("basis", ""), "section": r.get("section", ""), "quote": r.get("quote", "")}
-              for r in out.get("related", [])]
+              for r in out.get("related", []) if r.get("quote") or (r.get("section") and not r["section"].startswith(("meta:", "law:")))]
     claims += [{"claim": r.get("overlap", ""), "section": r.get("section", ""), "quote": r.get("quote", "")}
-               for r in out.get("existing_law_overlaps", [])]
+               for r in out.get("existing_law_overlaps", []) if r.get("quote") or (r.get("section") and not r["section"].startswith(("meta:", "law:")))]
     return check_citations(claims)
 
 
-def run_agent(bid):
+def run_agent(bid, row=None, category=""):
     from agents import llm
-    system, user, pack = build_messages(bid)
+    system, user, pack = build_messages(bid, row=row, category=category)
     text, meta = llm.call("research", system, user, max_tokens=6000)
     out = llm.parse_json(text)
     return {"pack": pack, "output": out, "checks": check_output(out), "meta": meta}

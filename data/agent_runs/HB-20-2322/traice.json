@@ -1,0 +1,224 @@
+{
+ "output": {
+  "target": "HB-20-2322",
+  "entity_proposed": "Congressional Commission on Agriculture and Fisheries (AGRICOM)",
+  "proposal": "HB No. 2322 proposes to establish a three-year Congressional Commission on Agriculture and Fisheries (AGRICOM) to assess the performance of the agriculture and fisheries sector, review existing policies, strategies and programs, and recommend targeted reforms to strengthen food security and improve coordination among the agencies concerned.",
+  "alignment": "Under Government Organization and Mandates, the review should examine how AGRICOM's proposed functions under Section 11 (Powers and Functions of AGRICOM) fit with those of existing oversight bodies, notably the Congressional Oversight Committee on Agricultural and Fisheries Modernization under RA No. 8435 and the Congressional Oversight Committee on Anti-Agricultural Economic Sabotage under RA No. 12022, and how its recommendations could support the government's intent to streamline agencies and reduce overlapping mandates under the Government Optimization Act (RA No. 12231). The bill's primary alignment is with Food Security in the FY 2027 Budget Priorities Framework, particularly its focus on climate-resilient and smart agriculture, targeted infrastructure and mechanization, and Farm and Fisheries Clustering and Consolidation (F2C2). It is not among the LEDAC Common Legislative Agenda measures for the 20th Congress.",
+  "legislative_history": [
+   "HB No. 2322 was filed in the House of Representatives on July 28, 2025 and is pending with the committee.",
+   "No measure proposing a congressional commission on agriculture was identified in the 18th or 19th Congress.",
+   "HB Nos. 5129 and 5296 were later filed in the House with near-identical text, under the name Congressional Commission on Agriculture, Fisheries and Food Security.",
+   "In the Senate, SB Nos. 1199 and 1345 propose the same commission; the Senate Committees on Agriculture, Food and Agrarian Reform and on Finance recommended SB No. 1624 in substitution of both (Committee Report dated December 16, 2025).",
+   "HB Nos. 5106 and 11060 propose a congressional commission on agriculture with a different design and scope."
+  ],
+  "related": [
+   {
+    "id": "HB-20-5296",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Near-identical provisions; uses the name Congressional Commission on Agriculture, Fisheries and Food Security.",
+    "section": "HB-20-5296:s1",
+    "quote": "This Act shall be known as the “Congressional Commission on Agriculture, Fisheries and Food Security” (AGRICOM) Act."
+   },
+   {
+    "id": "HB-20-5129",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Near-identical provisions, including the three-year mandate in Section 10 (Duration of AGRICOM).",
+    "section": "HB-20-5129:s10",
+    "quote": "The Commission shall accomplish its mandate within three (3) years from its organization. It"
+   },
+   {
+    "id": "SB-20-1624",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Senate substitute bill recommended in the Committee Report in place of SB Nos. 1199 and 1345.",
+    "section": "SB-20-1624:s1",
+    "quote": "This Act shall be known as the “Congressional Commission on Agriculture, Fisheries, and Food Security (AGRICOM) Act”."
+   },
+   {
+    "id": "CR-20-AGRICOM",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Senate Committee Report recommending approval of SB No. 1624 in substitution of SB Nos. 1199 and 1345.",
+    "section": "CR-20-AGRICOM:s1",
+    "quote": "This Act shall be known as the \"Congressional Commission on Agriculture, Fisheries and Food Security (AGRICOM) Act”."
+   },
+   {
+    "id": "SB-20-1199",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Same commission, structure and funding clause; consolidated into SB No. 1624.",
+    "section": "SB-20-1199:s13",
+    "quote": "The amount necessary for the initial implementation of this Act shall be charged against available appropriations of the Senate and the House"
+   },
+   {
+    "id": "SB-20-1345",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Same commission limited to the agriculture sector; consolidated into SB No. 1624.",
+    "section": "SB-20-1345:s4",
+    "quote": "There is hereby created a Congressional Commission on Agriculture hereinafter referred to as the \"AGRICOM\", to undertake a comprehensive national"
+   },
+   {
+    "id": "HB-20-5106",
+    "relationship": "Alternative proposal",
+    "basis": "Commission on agriculture focused on institutional reforms; initial funding through the next General Appropriations Act instead of congressional appropriations (Section 13 (Appropriations)).",
+    "section": "HB-20-5106:s13",
+    "quote": "The amount necessary for the initial operation of the Commission shall be specifically appropriated in the next General Appropriation Act following the"
+   },
+   {
+    "id": "HB-20-11060",
+    "relationship": "Alternative proposal",
+    "basis": "Same commission with a wider scope covering the agri-food system and institutional reforms.",
+    "section": "HB-20-11060:s4",
+    "quote": "The Commission shall undertake a comprehensive national assessment and evaluation of the performance, condition, and prospects of the Philippine agriculture and fisheries sector and the"
+   },
+   {
+    "id": "HB-20-11190",
+    "relationship": "Not related (similar wording only)",
+    "basis": "Shares the congressional commission structure but concerns mobility.",
+    "section": "meta:HB-20-11190",
+    "quote": ""
+   },
+   {
+    "id": "HB-20-9862",
+    "relationship": "Not related (similar wording only)",
+    "basis": "Shares the congressional commission structure but concerns road mobility.",
+    "section": "meta:HB-20-9862",
+    "quote": ""
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-8435",
+    "label": "Overlapping functions",
+    "overlap": "Section 114 (Congressional Oversight Committee on Agricultural and Fisheries Modernization) to Section 116 (Periodic Reports) already create a bicameral body that reviews the sector and recommends actions to Congress.",
+    "section": "RA-8435:s116",
+    "quote": "The Committee shall submit periodic reports on its findings and make recommendations on actions to be taken by Congress and"
+   },
+   {
+    "law": "RA-12022",
+    "label": "Overlapping functions",
+    "overlap": "Section 25 (Congressional Oversight Committee) creates a bicameral oversight committee on anti-agricultural economic sabotage.",
+    "section": "RA-12022:s25",
+    "quote": "There is hereby created a Congressional Oversight Committee on Anti-Agricultural Economic Sabotage (COCAAES) composed of seven (7) members from the Senate and"
+   },
+   {
+    "law": "RA-11899",
+    "label": "Template it follows",
+    "overlap": "Creates the Second Congressional Commission on Education (EDCOM 2); the bill follows its structure of a time-bound bicameral commission with a secretariat and research arm.",
+    "section": "law:RA-11899",
+    "quote": ""
+   }
+  ],
+  "salient_features": "HB No. 2322 seeks to establish a 12-member bicameral Congressional Commission on Agriculture and Fisheries (AGRICOM), with six members each from the Senate and the House of Representatives, and a three-year mandate under Section 10 (Duration of AGRICOM) to assess the performance of the agriculture and fisheries sector, review existing policies and programs, and recommend reforms to ensure food security. A Technical Secretariat headed by an Executive Director with the rank of Executive Director IV (Salary Grade 29) and an Agriculture and Fisheries Legislation and Policy Advisory Council would support the Commission, with the Philippine Institute for Development Studies serving as its research arm (Sections 6 to 9). Members would serve without compensation. Section 13 (Appropriations) provides that initial funding would be charged against available appropriations of the Senate and the House of Representatives, with subsequent requirements included in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 2322 may be considered alongside SB No. 1624, the Senate substitute for SB Nos. 1199 and 1345, and HB Nos. 5129 and 5296, which likewise propose a congressional commission to review the agriculture and fisheries sector, as well as HB No. 5106, which proposes a similar commission funded through the General Appropriations Act. The measure aligns with the Food Security priority under the FY 2027 Budget Priorities Framework. In view of the government's policy to streamline functions and reduce duplication under the Government Optimization Act (RA No. 12231), the review should assess whether AGRICOM's proposed functions under Section 11 (Powers and Functions of AGRICOM) address gaps in the oversight mandate established under Sections 114–116 of RA No. 8435 and Section 25 of RA No. 12022, and clarify how responsibilities would be assigned among these bodies.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary (no amount stated), charged against available appropriations of the Senate and the House of Representatives",
+    "section": "Section 13 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act, including any deficiency in the current year",
+    "section": "Section 13 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Executive Director, full-time, Executive Director IV (Salary Grade 29)",
+    "section": "Section 6 (Executive Director)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Technical Secretariat with staff and technical panel organized by the Executive Director",
+    "section": "Section 7 (Technical Secretariat)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Philippine Institute for Development Studies as research arm (existing agency)",
+    "section": "Section 8 (Philippine Institute for Development Studies as Research Arm)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Agriculture and Fisheries Legislation and Policy Advisory Council",
+    "section": "Section 9 (Agriculture and Fisheries Legislation and Policy Advisory Council)"
+   },
+   {
+    "item": "Members",
+    "detail": "Twelve legislators; no compensation, with allowable expenses",
+    "section": "Section 5 (Composition of AGRICOM)"
+   },
+   {
+    "item": "Comparator",
+    "detail": "RA No. 8435 appropriated an initial PHP 20 million for its oversight committee's first year",
+    "section": "RA No. 8435, Section 116 (Periodic Reports)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm with the Senate the current status of SB No. 1624 and the committee report.",
+   "Confirm whether the Technical Secretariat would require new plantilla positions or detailed personnel, for costing in AppraisAI."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Near-identical provisions; uses the name Congressional Commission on Agriculture, Fisheries and Food Security.",
+   "section": "HB-20-5296:s1",
+   "quote": "This Act shall be known as the “Congressional Commission on Agriculture, Fisheries and Food Security” (AGRICOM) Act.",
+   "check": "verified"
+  },
+  {
+   "claim": "Near-identical provisions, including the three-year mandate in Section 10 (Duration of AGRICOM).",
+   "section": "HB-20-5129:s10",
+   "quote": "The Commission shall accomplish its mandate within three (3) years from its organization. It",
+   "check": "verified"
+  },
+  {
+   "claim": "Senate substitute bill recommended in the Committee Report in place of SB Nos. 1199 and 1345.",
+   "section": "SB-20-1624:s1",
+   "quote": "This Act shall be known as the “Congressional Commission on Agriculture, Fisheries, and Food Security (AGRICOM) Act”.",
+   "check": "verified"
+  },
+  {
+   "claim": "Senate Committee Report recommending approval of SB No. 1624 in substitution of SB Nos. 1199 and 1345.",
+   "section": "CR-20-AGRICOM:s1",
+   "quote": "This Act shall be known as the \"Congressional Commission on Agriculture, Fisheries and Food Security (AGRICOM) Act”.",
+   "check": "verified"
+  },
+  {
+   "claim": "Same commission, structure and funding clause; consolidated into SB No. 1624.",
+   "section": "SB-20-1199:s13",
+   "quote": "The amount necessary for the initial implementation of this Act shall be charged against available appropriations of the Senate and the House",
+   "check": "verified"
+  },
+  {
+   "claim": "Same commission limited to the agriculture sector; consolidated into SB No. 1624.",
+   "section": "SB-20-1345:s4",
+   "quote": "There is hereby created a Congressional Commission on Agriculture hereinafter referred to as the \"AGRICOM\", to undertake a comprehensive national",
+   "check": "verified"
+  },
+  {
+   "claim": "Commission on agriculture focused on institutional reforms; initial funding through the next General Appropriations Act instead of congressional appropriations (Section 13 (Appropriations)).",
+   "section": "HB-20-5106:s13",
+   "quote": "The amount necessary for the initial operation of the Commission shall be specifically appropriated in the next General Appropriation Act following the",
+   "check": "verified"
+  },
+  {
+   "claim": "Same commission with a wider scope covering the agri-food system and institutional reforms.",
+   "section": "HB-20-11060:s4",
+   "quote": "The Commission shall undertake a comprehensive national assessment and evaluation of the performance, condition, and prospects of the Philippine agriculture and fisheries sector and the",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 114 (Congressional Oversight Committee on Agricultural and Fisheries Modernization) to Section 116 (Periodic Reports) already create a bicameral body that reviews the sector and recommends actions to Congress.",
+   "section": "RA-8435:s116",
+   "quote": "The Committee shall submit periodic reports on its findings and make recommendations on actions to be taken by Congress and",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 25 (Congressional Oversight Committee) creates a bicameral oversight committee on anti-agricultural economic sabotage.",
+   "section": "RA-12022:s25",
+   "quote": "There is hereby created a Congressional Oversight Committee on Anti-Agricultural Economic Sabotage (COCAAES) composed of seven (7) members from the Senate and",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (TrAIce prompt v3), in a Claude Code session",
+  "time": "2026-11-17T09:06:39+00:00"
+ }
+}

@@ -54,7 +54,7 @@ def _policy_line(b):
     return policy.memo_line({"title": b.get("title", ""), "congress": b.get("congress")})
 
 
-def memo_prefill(bid, review, comments=None, bureau_inputs="", status=""):
+def memo_prefill(bid, review, comments=None, bureau_inputs="", status="", traice_memo=None):
     bills, _ = load()
     b = bills[bid]
     title = b["title"].rstrip(".")
@@ -75,7 +75,8 @@ def memo_prefill(bid, review, comments=None, bureau_inputs="", status=""):
                + _policy_line(b)),
         "s1_1": "[BILLS referred the bill to the concerned DBM bureaus, e.g. the Budget and Management Bureau (BMB) and the "
                 "Organization, Position Classification and Compensation Bureau (OPCCB), for comments on ______.]",
-        "s2": review.get("summary", ""),
+        "s2": ("\n\n".join(x for x in ((traice_memo or {}).get("salient", ""), (traice_memo or {}).get("related", "")) if x.strip())
+               or review.get("summary", "")),
         "s3_1": bureau_inputs.strip() or "[Comments of the concerned bureaus, as received.]",
         "s3_2": "\n".join(lines) or "[Proposed comments.]",
         "s3_3": fiscal or "[Fiscal implications: to be completed from the AppraisAI review and the bureaus' comments.]",

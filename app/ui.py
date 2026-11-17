@@ -301,6 +301,15 @@ div[class*="st-key-repnote_"] button p{font-size:.92rem; text-align:left;}
   border-bottom:2px solid var(--ink); padding:.45rem .5rem;}
 .ac-tbl td{border-bottom:1px solid var(--line2); padding:.5rem .5rem; vertical-align:top; line-height:1.45;}
 .ac-tbl td.m{font:700 .82rem var(--mono); white-space:nowrap;}
+.ac-sub{font:800 .74rem var(--sans); letter-spacing:.08em; text-transform:uppercase; color:var(--navy); margin:1rem 0 .3rem;
+  padding-bottom:.2rem; border-bottom:1px solid var(--line2);}
+.ac-tbl.grp{table-layout:fixed;} .ac-tbl.grp th:nth-child(1){width:21%;} .ac-tbl.grp th:nth-child(2){width:47%;} .ac-tbl.grp th:nth-child(3){width:32%;}
+.ac-tbl.grp td.grp{background:#F7F5EF; border-right:1px solid var(--line2);} .ac-tbl.grp td.grp .n{font-size:.72rem; color:var(--mute); margin-top:.3rem;}
+.ac-tbl.grp .ttl{font-size:.76rem; color:var(--mute); margin-top:.15rem; line-height:1.35;} .ac-tbl.grp b.m{font:700 .8rem var(--mono);}
+.ac-tbl.fisc{table-layout:fixed;} .ac-tbl.fisc th:nth-child(1){width:20%;} .ac-tbl.fisc th:nth-child(2){width:50%;} .ac-tbl.fisc th:nth-child(3){width:30%;}
+.ac-memo{font-family:Tahoma,Verdana,sans-serif; font-size:.88rem; background:#fff; border:1px solid #D8D3C7; padding:1rem 1.3rem; margin:.3rem 0 .6rem;}
+.ac-subchk{margin:-.35rem 0 .5rem 2.1rem; font-size:.8rem; color:var(--mute);} .ac-subchk li{margin:.1rem 0;}
+.ac-memo h6{font:700 .9rem Tahoma,Verdana,sans-serif; margin:.5rem 0 .25rem;} .ac-memo p{text-align:justify; margin:0 0 .5rem 1.4rem;}
 .ac-check{background:var(--gold-soft); border:1px solid #E8D79F; border-radius:6px; padding:.7rem .95rem .3rem; margin-top:.7rem;}
 .ac-check-h{font:800 .74rem var(--sans); letter-spacing:.09em; text-transform:uppercase; color:#7A5A00; margin-bottom:.3rem;}
 .st-key-casecol [data-testid="stVerticalBlockBorderWrapper"]{background:var(--card);}

@@ -40,36 +40,86 @@ def quotes(rows, key):
         st.dataframe(df, use_container_width=True, hide_index=True, key=key)
 
 
-def trace(pack, out=None, checks=None):
-    """Step 1: TrAIce."""
-    p = pack["profile"]
-    entity = (out or {}).get("entity_proposed") or p.get("entity") or "not detected"
-    ui.html(f'<div class="ac-out"><p><b>Entity proposed:</b> {escape(entity)}. '
-            + (f"<b>Substitutes:</b> {escape(', '.join(p['substitutes']))}. " if p.get("substitutes") else "")
-            + f"<b>Text:</b> {'recognized from a scanned PDF' if p['text_source'] == 'ocr' else 'read from the PDF'}, {p['n_sections']} sections.</p></div>")
-    if out:
-        verification(checks)
-        rel = out.get("related", [])
-        ui.html("<p><b>Related measures</b></p>")
-        ui.table(["Bill", "Relationship", "Why"], [[escape(label(r.get("id"))), f'<span class="ac-badge navy">{escape(r.get("relationship", ""))}</span>',
-                                                   escape(short(r.get("basis"), 160))] for r in rel], mono_cols=(0,))
-        ov = out.get("existing_law_overlaps", [])
-        if ov:
-            ui.html("<p><b>Existing laws it touches</b></p>")
-            ui.table(["Law", "Overlap"], [[escape(label(o.get("law"))), escape(short(o.get("overlap"), 220))] for o in ov], mono_cols=(0,))
-        quotes((checks or []) or [dict(section=r.get("section"), quote=r.get("quote")) for r in rel + ov], "q_trace")
-        if out.get("gaps"):
-            with st.expander(f"Gaps the agent could not close ({len(out['gaps'])})"):
-                for g in out["gaps"]:
-                    st.markdown(f"- {g}")
+def _doc_name(i):
+    from agents import traice
+    parts = str(i).split("-")
+    if parts[0] in ("HB", "SB") and len(parts) == 3:
+        return traice._doc(i) + f" ({parts[1]}th)"
+    if parts[0] in ("RA", "PD", "EO", "CA", "BP") and len(parts) >= 2:
+        return f"{'RA' if parts[0] == 'RA' else parts[0]} No. {'-'.join(parts[1:])}"
+    return traice._short(i).strip()
+
+
+def _grouped(rows, group_key, cols, cls):
+    """A table whose first column (the relationship) spans the rows of its group."""
+    head = "".join(f"<th>{escape(h)}</th>" for h in cols)
+    body, groups = "", {}
+    for r in rows:
+        groups.setdefault(r[group_key], []).append(r)
+    for g, items in groups.items():
+        for j, r in enumerate(items):
+            first = (f'<td rowspan="{len(items)}" class="grp"><span class="ac-badge navy">{escape(g)}</span>'
+                     f'<div class="n">{len(items)} item{"s" if len(items) > 1 else ""}</div></td>') if j == 0 else ""
+            body += "<tr>" + first + "".join(f"<td>{c}</td>" for c in r["cells"]) + "</tr>"
+    ui.html(f'<table class="ac-tbl grp {cls}"><thead><tr>{head}</tr></thead><tbody>{body}</tbody></table>')
+
+
+def _name_title(i, title):
+    from pipeline.compare import load
+    full = (load()[0].get(i) or {}).get("title") or ""
+    t = " ".join(str(full if len(full) > len(str(title or "")) else title or "").split())
+    return (f'<b class="m">{escape(_doc_name(i))}</b>'
+            + (f'<div class="ttl">{escape(short(t, 330))}</div>' if t else '<div class="ttl">Title not available; listing only.</div>'))
+
+
+def trace(bid, out, checks=None):
+    """Step 1: TrAIce (version 3): policy context, legislative history, related bills and laws, fiscal requirements."""
+    from agents import traice
+    src = out.get("source", "ai")
+    ok = sum(1 for c in (checks or []) if c.get("check") == "verified")
+    if src == "rules":
+        ui.badges([("Draft prepared by ActCheck's rules (no AI)", "gold")])
     else:
-        ui.notice("<b>Before any AI is used:</b> the bills whose wording is most similar to this one, and the laws it cites or closely resembles.", "navy")
-        ui.table(["Bill", "Wording in common", "Likely relationship", "Title"],
-                 [[escape(label(r["id"])), f"{r['similarity']:.0%}" if r.get("similarity") is not None else "–",
-                   escape(r.get("baseline_label", "")), escape(short(r.get("title"), 110))] for r in pack["related"][:10]], mono_cols=(0, 1))
-        if pack.get("laws"):
-            ui.table(["Law", "Why listed", "Title"], [[escape(label(l["law"])), escape(l.get("why", "")), escape(short(l.get("title"), 120))]
-                                                     for l in pack["laws"][:8]], mono_cols=(0,))
+        ui.badges([("Prepared by TrAIce (Claude)", "navy")]
+                  + ([(f"{ok} of {len(checks)} cited sections verified against the text", "green" if ok == len(checks) else "red")] if checks else []))
+    ui.html('<div class="ac-sub">Policy context</div>'
+            f'<div class="ac-out"><p>{escape(out.get("proposal", ""))}</p><p>{escape(out.get("alignment", ""))}</p></div>')
+    hist = out.get("legislative_history") or []
+    if hist:
+        ui.html('<div class="ac-sub">Legislative history</div><div class="ac-out"><ul>'
+                + "".join(f"<li>{escape(h)}</li>" for h in hist) + "</ul></div>")
+    rel = [r for r in out.get("related", []) if r.get("id") != bid]
+    if rel:
+        order = {lab: i for i, lab in enumerate(traice.LABELS + ["Senate version", "House version"])}
+        order["Senate version"] = order["House version"] = traice.ORDER[traice.LABELS[3]]
+        rel = sorted(rel, key=lambda r: (order.get(r.get("relationship"), 9), r.get("id", "")))
+        ui.html('<div class="ac-sub">Related Bills</div>')
+        _grouped([{"g": r.get("relationship") or "Not classified",
+                   "cells": [_name_title(r.get("id"), r.get("title")), escape(short(r.get("basis"), 220))]} for r in rel],
+                 "g", ["Relationship", "Bill number and title", "Why"], "relb")
+    laws = out.get("existing_law_overlaps", [])
+    if laws:
+        lo = {lab: i for i, lab in enumerate(traice.LAW_LABELS)}
+        laws = sorted(laws, key=lambda x: (lo.get(x.get("label"), 9), x.get("law", "")))
+        ui.html('<div class="ac-sub">Related Laws</div>')
+        _grouped([{"g": x.get("label") or traice.LAW_LABELS[1],
+                   "cells": [_name_title(x.get("law"), x.get("title")), escape(short(x.get("overlap"), 240))]} for x in laws],
+                 "g", ["Relationship", "Law and title", "Overlap"], "relb")
+    fq = out.get("fiscal_requirements") or []
+    ui.html('<div class="ac-sub">Fiscal requirements</div>')
+    if fq:
+        ui.table(["Item", "Requirement", "Provision"],
+                 [[escape(f.get("item", "")), escape(f.get("detail", "")), escape(f.get("section", ""))] for f in fq], cls="fisc")
+    else:
+        ui.html('<div class="ac-out"><p>No appropriations clause, position or funding provision was identified; '
+                'confirm against the full text.</p></div>')
+
+
+def trace_baseline(pack):
+    """Kept for reference: the raw similarity list before any drafting."""
+    ui.table(["Bill", "Wording in common", "Likely relationship", "Title"],
+             [[escape(label(r["id"])), f"{r['similarity']:.0%}" if r.get("similarity") is not None else "–",
+               escape(r.get("baseline_label", "")), escape(short(r.get("title"), 110))] for r in pack["related"][:10]], mono_cols=(0, 1))
 
 
 FISCAL = {"likely raises cost": "red", "likely lowers cost": "green", "no cost effect": "", "unclear": "gold"}

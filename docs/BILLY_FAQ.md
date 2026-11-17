@@ -44,7 +44,7 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 
 **What are the limits?** It is a prototype: agents are tested on bills creating agencies; bill types come from title rules; the cost range is order-of-magnitude; House lists have gaps that the daily catch-up is filling; Senate updates need a manual refresh; reviews saved on the hosted site reset when it restarts.
 
-**Does it need an AI key?** No. Without a key, ActCheck shows its own rule-based analysis, BILLy searches, and each agent step can be run in a Claude chat through the free route. With an Anthropic key, reviewers can run the agents on the site.
+**Does it need an AI key?** No. Without a key, each step shows ActCheck's own rule-based draft and BILLy searches the site. With an Anthropic key, reviewers can run the agents on the site; TrAIce outputs prepared by Claude can also be saved with ActCheck.
 
 ## About ActCheck
 
@@ -96,9 +96,9 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 
 **What is the reviewer checklist?** A list of checks at the end of each step, such as 'the quotes match the bill' or 'the cost assumptions marked to verify have been checked'. Each item can carry a note and an uploaded file as evidence of the check.
 
-**How do I run an agent?** Click the Run button in the step. This needs an AI key under Reviewer settings (the arrow at the top left). Without a key, use the free route: copy the prepared prompt into your Claude chat and paste the answer back; ActCheck checks it the same way.
+**How do I run an agent?** Each step first shows ActCheck's own draft, prepared by code without AI, so you can review it right away. When an AI key is set under Reviewer settings, the Run button lets the agent improve that draft; a TrAIce output prepared by Claude and saved with ActCheck is shown automatically and marked 'Prepared by TrAIce (Claude)'.
 
-**What is the free route?** A way to use the agents without an API key. ActCheck prepares the agent's full instructions and evidence; you run them in a Claude chat and paste the reply back. The same citation and rule checks are applied to the pasted answer.
+**What is the free route?** The copy-and-paste route to a Claude chat has been removed from TrAIce. Without an API key, TrAIce shows ActCheck's rule-based draft (no AI); TrAIce outputs prepared by Claude outside the site can also be saved with ActCheck and are then shown in the step.
 
 **Can I edit what the agents produce?** Yes. Comments in Step 4 are editable in a table, and the memo and letter fields in Step 5 are filled in for you to change before download. The reviewer's edits are what go into the documents.
 
@@ -106,15 +106,15 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 
 **Where do I see public reports on a bill?** In the Review workspace, a highlighted notice appears in the step a report concerns (TrAIce, CompAIre, AppraisAI, or the whole bill). Click it to read the report, including any contact details and attachments. All reports are also listed in the Run log.
 
-**How do I report a problem with an agent's output?** Use 'Report a problem with this output' in the step. The note is logged with the bill so the problem can be fixed and documented.
+**How do I report a problem with an agent's output?** Use the Notes and attachments box at the end of the step's checklist to record a correction, and edit the TrAIce output directly. Public reports from the Bills page still appear as notices in the step they concern.
 
 **Can I review a bill that does not create an agency?** Yes. TrAIce and CompAIre work on any bill with full text. AppraisAI's cost estimate is designed for bills that create a government agency, so the workspace warns you when a bill is outside that pilot scope.
 
 ## The agents
 
-**What are TrAIce's outputs?** A list of related measures with their relationship (earlier version, counterpart in the other chamber, refiled near-copy, competing design, precedent or model, unrelated), the existing laws the bill amends or overlaps with, a quoted section for each finding, and the gaps it could not establish.
+**What are TrAIce's outputs?** A policy context (what the bill proposes, its alignment with the FY 2027 Budget Priorities Framework and the LEDAC agenda, and what the review should examine), the bill's legislative history, its Related Bills grouped by relationship (filed in a past Congress; same bill, filed again this Congress; merged into this bill; Senate or House version; alternative proposal; template it follows; not related), its Related Laws (amends or repeals, overlapping functions, referenced in the bill, template it follows), its fiscal requirements, and memo-ready Parts II (Salient Features) and III (Related Measures and Policy Considerations) that the reviewer can edit.
 
-**How does TrAIce find related bills?** ActCheck first ranks bills by similarity of title and text across the 18th to 20th Congress, without AI. TrAIce then reads the closest ones and labels each relationship, quoting a section as evidence.
+**How does TrAIce find related bills?** ActCheck ranks bills by similarity of title and text across the 18th to 20th Congress, without AI, and drafts each relationship by rule. When Claude runs TrAIce, it reads the closest bills and laws, corrects the labels, and cites a section for each finding; ActCheck checks every cited passage against the text in the background.
 
 **What are CompAIre's outputs?** The problem the bill addresses, the substantial differences from the closest related measure with their likely effect on cost, design options found in related bills, and corrections to ActCheck's own non-AI section matching.
 
@@ -124,7 +124,7 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 
 **Does AppraisAI decide whether DBM supports a bill?** No. It lays out observations and options ('DBM may consider...'). Only the analyst sets the DBM position, and the Secretary approves the position paper.
 
-**Which AI model do the agents use?** Claude, by Anthropic, either through an API key added under Reviewer settings or through the free route in a Claude chat. The cost calculator and the similarity ranking do not use AI.
+**Which AI model do the agents use?** Claude, by Anthropic, when an API key is added under Reviewer settings or when a run prepared by Claude is saved with ActCheck. Without either, each step shows ActCheck's own rule-based draft. The cost calculator and the similarity ranking do not use AI.
 
 ## Cost estimate
 
@@ -193,3 +193,9 @@ Everything BILLy can answer about ActCheck when no bill is open. Core guide entr
 **How do I ask BILLy about a specific bill?** Log in as a reviewer and open the bill in the Review workspace. BILLy then answers from that bill's sections and the agents' findings, and points to the section it used.
 
 **Why does BILLy say it is not sure?** BILLy answers only from ActCheck's guide or the open bill, so it does not guess. Try rephrasing, or ask about the agents, the data sources, the cost estimate, the Library or the Run log.
+
+**Why does TrAIce mention the Government Optimization Act?** For bills that create or reorganize government bodies, TrAIce asks the reviewer to examine how the proposed functions fit with existing agencies and the government's intent to streamline agencies and reduce overlapping mandates under the Government Optimization Act (RA No. 12231). The law is listed under Review References in the Library.
+
+**Can I edit TrAIce's output?** Yes. Under 'TrAIce Output and Reviewer Checklist', click 'Edit this text' to revise Parts II and III. Your edited text is used in the memorandum in Step 5; 'Reset to the TrAIce draft' brings back the agent's version.
+
+**Does TrAIce show the quotes it used?** No. TrAIce cites a section for each finding and ActCheck checks the quoted passage against the bill or law in the background. The page shows only the section references, written as 'Section N (Section Title)', and how many were verified.

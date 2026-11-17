@@ -68,8 +68,8 @@ GUIDE = [
     ("What are the limits?", "It is a prototype: agents are tested on bills creating agencies; bill types come from title rules; the cost "
      "range is order-of-magnitude; House lists have gaps that the daily catch-up is filling; Senate updates need a manual refresh; "
      "reviews saved on the hosted site reset when it restarts."),
-    ("Does it need an AI key?", "No. Without a key, ActCheck shows its own rule-based analysis, BILLy searches, and each agent step can be "
-     "run in a Claude chat through the free route. With an Anthropic key, reviewers can run the agents on the site."),
+    ("Does it need an AI key?", "No. Without a key, each step shows ActCheck's own rule-based draft and BILLy searches the site. "
+     "With an Anthropic key, reviewers can run the agents on the site; TrAIce outputs prepared by Claude can also be saved with ActCheck."),
 ]
 
 STOP = set("the and for that this with what how does who are its is can you about actcheck".split())

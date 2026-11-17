@@ -100,6 +100,15 @@ def c_evidence(bid, stamp):
     return evidence_pack(bid)
 
 
+@st.cache_data(show_spinner="Drafting the TrAIce output...", max_entries=32)
+def c_traice(bid, stamp):
+    """ActCheck's rule-based TrAIce draft (no AI); shown until an AI run is saved."""
+    from agents import traice
+    row = row_of(bid) or {}
+    b = bills[bid]
+    return traice.rule_draft(bid, c_evidence(bid, stamp), row, policy.context({"title": b["title"], "congress": b["congress"]}), row.get("type", ""))
+
+
 @st.cache_data(show_spinner="Finding related bills...", max_entries=64)
 def c_related(bid, stamp):
     return related_bills(bid, top=15)
@@ -414,64 +423,66 @@ def bill_dialog(row):
 
 
 # ---------------- Review workspace helpers ----------------
-def checklist(bid, step, items, heading="Reviewer checklist: tick every item to unlock the next step"):
-    """Salient checklist with a note and file upload per item. Returns True when every item is ticked."""
+def checklist(bid, step, items, heading="Reviewer checklist: tick every item to unlock the next step", subs=None):
+    """Short checklist with one notes-and-attachments box at the end. Returns True when every item is ticked.
+    `subs` maps an item's index to short points shown under it."""
     rec = store.load(bid)
     allcl = rec.get("checklist") or {}
     cl = dict(allcl.get(step) or {})
     with st.container(key=f"chk_{step}"):
-        ui.html(f'<div class="ac-check"><div class="ac-check-h">✓ {escape(heading)}</div></div>')
+        if heading:
+            ui.html(f'<div class="ac-check"><div class="ac-check-h">✓ {escape(heading)}</div></div>')
+        else:
+            st.caption("Tick every item to unlock the next step.")
         changed = False
         for i, item in enumerate(items):
-            cur = cl.get(str(i), {"done": False, "note": "", "files": []})
-            done = st.checkbox(item, value=cur.get("done", False), key=f"ck_{bid}_{step}_{i}")
-            with st.expander("Add a note or attach a file" + (f" · {len(cur.get('files', []))} file(s)" if cur.get("files") else "")
-                             + (" · note added" if cur.get("note") else "")):
-                note = st.text_area("Note", value=cur.get("note", ""), key=f"nt_{bid}_{step}_{i}", height=70,
-                                    label_visibility="collapsed", placeholder="Comment or finding for this item")
-                up = st.file_uploader("Attach a file", key=f"up_{bid}_{step}_{i}", label_visibility="collapsed")
-                files = list(cur.get("files", []))
-                if up is not None and not any(f.endswith(up.name.replace(" ", "_")) for f in files):
-                    files.append(store.save_upload(bid, f"{step}-{i}", up.name, up.getvalue()))
-                for f in files:
-                    st.caption(f"📎 {f}")
-            new = {"done": done, "note": note, "files": files}
-            if new != cur:
-                cl[str(i)] = new
+            cur = cl.get(str(i)) or {}
+            done = st.checkbox(item, value=bool(cur.get("done")), key=f"ck_{bid}_{step}_{i}")
+            pts = (subs or {}).get(i) or []
+            if pts:
+                ui.html('<ul class="ac-subchk">' + "".join(f"<li>{escape(p)}</li>" for p in pts) + "</ul>")
+            if done != bool(cur.get("done")):
+                cl[str(i)] = dict(cur, done=done)
                 changed = True
+        box = dict(cl.get("_notes") or {"note": "", "files": []})
+        with st.expander("Notes and attachments" + (f" · {len(box.get('files', []))} file(s)" if box.get("files") else "")
+                         + (" · note added" if box.get("note") else "")):
+            note = st.text_area("Notes", value=box.get("note", ""), key=f"nt_{bid}_{step}", height=90,
+                                label_visibility="collapsed", placeholder="Findings, corrections or anything to follow up for this step")
+            up = st.file_uploader("Attach a file", key=f"up_{bid}_{step}", label_visibility="collapsed")
+            files = list(box.get("files", []))
+            if up is not None and not any(f.endswith(up.name.replace(" ", "_")) for f in files):
+                files.append(store.save_upload(bid, step, up.name, up.getvalue()))
+            for f in files:
+                st.caption(f"📎 {f}")
+        if {"note": note, "files": files} != {"note": box.get("note", ""), "files": box.get("files", [])}:
+            cl["_notes"] = {"note": note, "files": files}
+            changed = True
         if changed:
             allcl[step] = cl
             store.save(bid, "checklist", allcl, trail=False)
             st.rerun()                       # refresh so the step locks and the progress bar reflect the change
         n_done = sum(1 for i in range(len(items)) if (cl.get(str(i)) or {}).get("done"))
         st.caption(f"{n_done} of {len(items)} items done.")
-        with st.expander("Report a problem with this output"):
-            st.caption("Reports are kept with the bill and in the Run log, so errors can be tracked and fixed.")
-            kind = st.selectbox("What is wrong?", store.FEEDBACK_KINDS, key=f"fbk_{bid}_{step}")
-            txt = st.text_area("Details", key=f"fbt_{bid}_{step}", height=70, placeholder="Where it is and what it should say")
-            if st.button("Submit report", key=f"fbs_{bid}_{step}", disabled=not txt.strip()):
-                store.feedback(bid, step, kind, txt)
-                st.success("Report saved. Thank you.")
-        prev = [f for f in (store.load(bid).get("feedback") or []) if f.get("step") == step]
-        if prev:
-            st.caption(f"{len(prev)} problem report(s) on this step.")
     return n_done == len(items) and len(items) > 0
 
 
-CHECK1 = ["The related bills and how each relates (earlier version, counterpart, refiled) are correct.",
-          "Every citation flagged 'needs checking' has been checked against the bill PDF.",
-          "The existing laws and agencies the bill overlaps with are confirmed."]
+from agents.traice import CHECKLIST as CHECK1  # noqa: E402
 CHECK2 = ["The reference measure is the right comparison for this bill.",
           "Each substantial difference and its cost effect has been checked against both texts.",
           "The design options DBM may comment on are noted."]
 
 
 def pick_reference(bid, research_out):
-    order = ("consolidated", "counterpart", "near-copy", "earlier version", "competing")
-    if research_out:
+    from agents import traice
+    order = (traice.LABELS[2], traice.LABELS[3], traice.LABELS[1], traice.LABELS[0], traice.LABELS[4])
+    out = research_out or (traice.saved_ai(bid) or {}).get("output")
+    if out:
         for lab in order:
-            for r in research_out.get("related", []):
-                if lab in (r.get("relationship") or "") and r.get("id") in bills and r["id"] != bid:
+            for r in out.get("related", []):
+                rl = traice.OLD.get(str(r.get("relationship", "")).lower().strip(), r.get("relationship"))
+                rl = traice.LABELS[3] if rl in ("Senate version", "House version") else rl
+                if rl == lab and r.get("id") in bills and r["id"] != bid:
                     return r["id"]
     rel = c_related(bid, catalogue.stamp())
     return rel[0]["id"] if rel else None
@@ -518,7 +529,6 @@ def field_editor(key, fields, spec):
 
 
 def case(bid):
-    from agents.research import evidence_pack, build_messages as p1_msgs, check_output as p1_check
     from agents.diagnosis import report_markdown as p2_md, build_messages as p2_msgs, check_output as p2_check
     from agents.costing import cost_range, peso
     from agents.appraisal import (check_review, build_review_messages, build_redteam_messages, build_memo_messages,
@@ -541,17 +551,6 @@ def case(bid):
         if has_text:
             o2.link_button("📖 Full Text", f"{APP_URL}/?page=Library&doc={bid}",
                            help="Open the text ActCheck has, section by section, in the Library (new window)", use_container_width=True)
-    pctx = policy.context({"title": b["title"], "congress": b["congress"]})
-    if pctx["ledac"] or pctx["bpf_2027_priority_areas"]:
-        bits = []
-        if pctx["ledac"]:
-            bits.append(f"Related by title to LEDAC Common Legislative Agenda item {pctx['ledac'][0]['no']} "
-                        f"({escape(pctx['ledac'][0]['measure'])}) for the 20th Congress.")
-        if pctx["bpf_2027_priority_areas"]:
-            bits.append("Falls under the 2027 budget priority area(s): " + ", ".join(escape(a["area"]) for a in pctx["bpf_2027_priority_areas"]) + ".")
-        ui.notice("<b>Policy context.</b> " + " ".join(bits) + " The 2027 Budget Priorities Framework also calls for rationalizing programs "
-                  "to remove redundancies. Sources in the Library: " + ("LEDAC agenda (30 Sept 2025) and " if pctx["ledac"] else "")
-                  + "DBM 2027 Budget Priorities Framework briefers.", "navy")
     research_out = (rec.get("research") or {}).get("output")
     rev = (rec.get("review") or {}).get("output")
 
@@ -572,30 +571,49 @@ def case(bid):
     report_notice(bid, 0, "this bill as a whole (corrections and other inputs)")
     st.caption((f"Bill text recognized from a scanned PDF ({b['n_sections']} sections); check quotes against the original."
                 if b["text_source"] == "ocr" else f"Bill text read from the PDF ({b['n_sections']} sections).")
-               + ("" if live else " AI agents are off: add a key under Reviewer settings (the › arrow at the top left), or run each step in your Claude chat."))
+               + ("" if live else " AI agents are off, so each step shows ActCheck's own draft, prepared by code without AI."))
     if row.get("type") != "Government organization and mandates":
         ui.notice(f"<b>Outside the pilot scope.</b> This bill does not appear to create a new government agency. {AGENT1} and {AGENT2} can review "
                   f"any bill; {AGENT3}'s cost estimate is designed for new agencies, so it may not apply here.", "navy")
 
     # Step 1: TrAIce
     with st.container(border=True):
+        from agents import traice
         ui.step_header(1, AGENT1, "Trace the bill", "done" if d1 else "now")
         report_notice(bid, 1, f"Step 1 ({AGENT1}: legislative history)")
-        ui.html('<div class="ac-step-d">Finds earlier versions of the bill in past Congresses, its counterpart and refiled copies in both chambers, '
-                'and the existing laws it amends or overlaps with. Each finding points to a section and quotes it, and ActCheck checks every '
-                'quote against the original text.</div>')
-        if st.button(f"▶ Run {AGENT1}", type="primary", disabled=not live, key="run1"):
+        ui.html('<div class="ac-step-d">Identifies what the bill proposes and why it matters for the budget, traces its legislative history, '
+                'groups the related bills and laws by how they relate, and lists its fiscal requirements. Its output becomes Parts II and III '
+                'of the memo, and its findings feed CompAIre and AppraisAI.</div>')
+        if live and st.button(f"▶ Run {AGENT1}", type="primary", key="run1"):
             from agents.research import run_agent as run1
             with st.spinner(f"{AGENT1} is tracing the bill..."):
-                r1 = run1(bid)
+                r1 = run1(bid, row, row.get("type", ""))
             store.save(bid, "research", {"output": r1["output"], "checks": r1["checks"]}, f"{AGENT1} run")
             store.set_status(bid, "in review")
             st.rerun()
-        free_route(f"p1_{bid}", lambda: p1_msgs(bid)[:2],
-                   lambda out: (store.save(bid, "research", {"output": out, "checks": p1_check(out)}, f"{AGENT1} (free route)"),
-                                store.set_status(bid, "in review")))
-        render.trace(c_evidence(bid, catalogue.stamp()), research_out, (rec.get("research") or {}).get("checks"))
-        checklist(bid, "s1", CHECK1)
+        draft = c_traice(bid, catalogue.stamp())
+        saved = traice.saved_ai(bid)
+        ai_out = research_out or (saved or {}).get("output")
+        ai_checks = (rec.get("research") or {}).get("checks") if research_out else (saved or {}).get("checks")
+        t_out = traice.normalize(ai_out, bid, draft)
+        render.trace(bid, t_out, ai_checks if ai_out else None)
+
+        # TrAIce output (memo Parts II and III, editable) and the reviewer checklist
+        ui.html('<div class="ac-check"><div class="ac-check-h">✓ TrAIce Output and Reviewer Checklist</div></div>')
+        tm_default = {"salient": t_out.get("salient_features", ""), "related": t_out.get("related_measures_policy", "")}
+        tm = rec.get("traice_memo") or tm_default
+        ui.html('<div class="ac-memo"><h6>II. Salient Features</h6>' + "".join(f"<p>{escape(x)}</p>" for x in tm["salient"].split("\n") if x.strip())
+                + '<h6>III. Related Measures and Policy Considerations</h6>' + "".join(f"<p>{escape(x)}</p>" for x in tm["related"].split("\n") if x.strip())
+                + '</div>')
+        with st.expander("✏️ Edit this text" + (" · edited by the reviewer" if rec.get("traice_memo") else "")):
+            new = field_editor(f"tm_{bid}", tm, [("salient", "II. Salient Features"), ("related", "III. Related Measures and Policy Considerations")])
+            if new is not None:
+                store.save(bid, "traice_memo", new, "Reviewer edited the TrAIce output")
+                st.rerun()
+            if rec.get("traice_memo") and st.button("Reset to the TrAIce draft", key=f"tm_reset_{bid}"):
+                store.save(bid, "traice_memo", None, "Reviewer reset the TrAIce output")
+                st.rerun()
+        checklist(bid, "s1", CHECK1, heading=None, subs={3: t_out.get("reviewer_checks") or []})
 
     # Step 2: CompAIre
     with st.container(border=True):
@@ -700,8 +718,11 @@ def case(bid):
         bureau = st.text_area("Comments of the concerned bureaus to include (optional, e.g. BMB / OPCCB)", value="" if mf else "", key="bureau")
         c1, c2 = st.columns(2)
         if not mf or c1.button("Rebuild the memo from the approved review and comments"):
+            from agents import traice as _tr
+            tm = rec.get("traice_memo") or (lambda o: {"salient": o.get("salient_features", ""), "related": o.get("related_measures_policy", "")})(
+                _tr.normalize(research_out or (_tr.saved_ai(bid) or {}).get("output"), bid, c_traice(bid, catalogue.stamp())))
             mf = docs.memo_prefill(bid, approved, comments, bureau,
-                                   "" if str(row.get("status_basis", "")).startswith("Derived") else row.get("status", ""))
+                                   "" if str(row.get("status_basis", "")).startswith("Derived") else row.get("status", ""), tm)
             store.save(bid, "memo_fields", mf, "Memo pre-filled")
             store.set_status(bid, "memo drafted")
             st.rerun()
