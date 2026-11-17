@@ -141,7 +141,7 @@ daily catch-up added the FY 2027 General Appropriations Bill (25 MB of text). Si
 - `pipeline/build_corpus.py` shortens very long sections (40,000 characters) and documents (600,000 characters);
 - the similarity models in `pipeline/compare.py` use hashed, streaming TF-IDF built once per process;
 - the bill list is cached once (`st.cache_resource`), not copied on every page load;
-- `scripts/memory_check.py` (budget 700 MB peak) runs in the tests and before every daily commit; if the corpus
+- `scripts/memory_check.py` (budget 550 MB peak) runs in the tests and before every daily commit; if the corpus
   would go over budget, the daily job stops before committing, so the live site is never pushed over the limit.
 
 Any new feature that loads data should be checked with `python scripts/memory_check.py`.

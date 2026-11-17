@@ -82,7 +82,14 @@ bills, secs = load()
 
 @st.cache_resource(show_spinner="Loading the bill list...", max_entries=1)
 def bill_table(stamp):
-    return pd.DataFrame(catalogue.build(stamp))
+    df = pd.DataFrame(catalogue.build(stamp))
+    # memory: repeated labels stored once (category columns); free text and searched columns stay as text
+    for c in ("chamber", "congress", "status", "status_basis", "status_group", "status_sub", "bill_type", "committee",
+              "scope", "text", "found", "source", "date_basis", "ledac", "date_filed"):
+        if c in df:
+            df[c] = df[c].astype("category")
+    catalogue.build.cache_clear()          # the list of dicts is no longer needed once the table exists
+    return df
 
 
 # The rules-only analyses take a few seconds each; cache them per bill (the stamp changes when the corpus does).

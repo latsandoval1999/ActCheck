@@ -12,7 +12,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
-BUDGET_MB = 700          # leaves room for Streamlit itself and several visitors under the ~1 GB limit
+BUDGET_MB = 550          # leaves room for Streamlit itself and several visitors under the ~1 GB limit
 SECTIONS_MB = 70         # size of data/processed/sections.jsonl on disk
 
 
@@ -37,7 +37,12 @@ def main():
     from pipeline import compare, catalogue
     import pandas as pd
     compare.load()
-    pd.DataFrame(catalogue.build())
+    df = pd.DataFrame(catalogue.build())                # as the portal's bill_table(): category columns, cache freed
+    for c in ("chamber", "congress", "status", "status_basis", "status_group", "status_sub", "bill_type", "committee",
+              "scope", "text", "found", "source", "date_basis", "ledac", "date_filed"):
+        if c in df:
+            df[c] = df[c].astype("category")
+    catalogue.build.cache_clear()
     probe = next((b for b in ("HB-20-6789", "HB-20-2322") if b in compare.load()[0]), next(iter(compare.load()[0])))
     rel = compare.related_bills(probe, top=5)
     if rel:

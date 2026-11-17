@@ -47,9 +47,9 @@ def proper(s):
 def _rows_index():
     p = PROC / "bill_index.csv.gz"
     if not p.exists():
-        return []
+        return
     with gzip.open(p, "rt", encoding="utf-8") as f:
-        return list(csv.DictReader(f))
+        yield from csv.DictReader(f)                      # streamed: the 34,000 rows are never all held
 
 
 def _rows_senate():
@@ -247,7 +247,8 @@ def build(_stamp=None, stamps=True):
         with open(sp, newline="", encoding="utf-8") as f:
             sdates = {r["id"]: r for r in csv.DictReader(f)}
     out = []
-    for b in bills.values():
+    for bid in list(bills):
+        b = bills.pop(bid)                                # memory: each record is released once its row is made
         m = meta.get(b["id"], {})
         if not b.get("date_filed") and m.get("date_filed"):
             b["date_filed"], b["date_from_pdf"] = m["date_filed"], True

@@ -30,22 +30,91 @@ def heading_sim(x, y):
     return SequenceMatcher(None, _norm_heading(x), _norm_heading(y)).ratio()
 
 
+class Sections:
+    """Read-only {bill id: [sections]} that keeps the 50 MB section file on disk. Only the position of each
+    bill's lines is held in memory; a bill's sections are read when asked for (the last 48 are kept)."""
+
+    def __init__(self, path):
+        self.path = path
+        self.where = {}                                   # bill -> [(offset, length)]
+        with open(path, "rb") as f:
+            pos = 0
+            for line in f:
+                m = re.search(rb'"bill":\s*"([^"]+)"', line[:400])
+                if m:
+                    self.where.setdefault(m.group(1).decode(), []).append((pos, len(line)))
+                pos += len(line)
+
+    @lru_cache(maxsize=48)
+    def _read(self, bid):
+        spans = self.where.get(bid)
+        if not spans:
+            return ()
+        out = []
+        with open(self.path, "rb") as f:
+            start, end = spans[0][0], spans[-1][0] + spans[-1][1]
+            if end - start == sum(n for _, n in spans):       # the bill's lines are together (as written)
+                f.seek(start)
+                out = [json.loads(x) for x in f.read(end - start).splitlines() if x.strip()]
+            else:
+                for o, n in spans:
+                    f.seek(o)
+                    out.append(json.loads(f.read(n)))
+        return tuple(out)
+
+    def get(self, bid, default=None):
+        r = self._read(bid)
+        return list(r) if r else ([] if default is None else default)
+
+    def __getitem__(self, bid):
+        if bid not in self.where:
+            raise KeyError(bid)
+        return self.get(bid)
+
+    def __contains__(self, bid):
+        return bid in self.where
+
+    def __iter__(self):
+        return iter(self.where)
+
+    def __len__(self):
+        return len(self.where)
+
+    def keys(self):
+        return self.where.keys()
+
+    def values(self):
+        """Streams every bill's sections from disk, in file order, without keeping them."""
+        cur, buf = None, []
+        with open(self.path, encoding="utf-8") as f:
+            for line in f:
+                s = json.loads(line)
+                if s["bill"] != cur and buf:
+                    yield buf
+                    buf = []
+                cur = s["bill"]
+                buf.append(s)
+        if buf:
+            yield buf
+
+    def items(self):
+        for v in self.values():
+            yield v[0]["bill"], v
+
+
 @lru_cache(maxsize=1)
 def load():
     bills = {}
     for line in open(PROC / "bills.jsonl"):
         b = json.loads(line)
         bills[b["id"]] = b
-    secs = {}
-    for line in open(PROC / "sections.jsonl"):
-        s = json.loads(line)
-        secs.setdefault(s["bill"], []).append(s)
-    return bills, secs
+    return bills, Sections(PROC / "sections.jsonl")
 
 
 # Memory: the hosting limit is about 1 GB and the corpus grows every day, so the similarity models use hashed
 # features (no vocabulary kept in memory), float32 numbers, and are built once per process.
 HASH_FEATURES = 2 ** 20
+DOC_CHARS = 40_000
 
 
 class _HashedTfidf:
@@ -72,8 +141,8 @@ class _HashedTfidf:
         x = x.tocsr().astype(np.float32)
         np.log(x.data, out=x.data)
         x.data += 1
-        x = x.multiply(self.idf).tocsr()
-        return normalize(x, copy=False).astype(np.float32)
+        x.data *= self.idf[x.indices]                       # in place: no dense row is ever made
+        return normalize(x, copy=False)
 
     def fit(self, texts, size=50):
         df, n = np.zeros(HASH_FEATURES, dtype=np.int64), 0
@@ -86,8 +155,13 @@ class _HashedTfidf:
     def transform(self, texts):
         return self.h.transform(texts) if self.idf is None else self._weight(self.h.transform(texts))
 
-    def fit_transform(self, texts, size=20):
+    def fit_transform(self, texts, size=4):
+        """texts: a list, or a function that returns a fresh iterator (then the texts are read twice, once to
+        learn the idf and once to weight them, and never all held in memory)."""
         from scipy.sparse import vstack
+        if callable(texts):
+            self.fit(texts(), size)
+            return vstack([self._weight(p) for p in self._chunks(texts(), size)], format="csr")
         parts = list(self._chunks(texts, size))
         self.fit_counts(parts)
         return vstack([self._weight(p) for p in parts], format="csr")
@@ -112,15 +186,18 @@ def _doc_matrix():
     """Whole-text TF-IDF of every document, built once: (ids, matrix)."""
     bills, _ = load()
     ids = [i for i, b in bills.items() if b.get("kind") != "reference"]
-    m = _HashedTfidf(stop_words="english").fit_transform(bill_text(i) for i in ids)
+    # the first 40,000 characters (title, policy, structure and main provisions) are enough to tell related bills
+    # apart; longer texts only add memory
+    m = _HashedTfidf(stop_words="english").fit_transform(lambda: (bill_text(i, cache=False)[:DOC_CHARS] for i in ids))
     import gc
     gc.collect()
     return ids, {i: k for k, i in enumerate(ids)}, m
 
 
-def bill_text(bid):
+def bill_text(bid, cache=True):
     _, secs = load()
-    return " ".join(s["text"] for s in secs.get(bid, []))
+    rows = secs.get(bid, []) if cache else secs._read.__wrapped__(secs, bid)
+    return " ".join(s["text"] for s in rows)
 
 
 def related_bills(bid, top=10, include_laws=False):
