@@ -30,7 +30,9 @@ Failures the course asks this agent to catch: fake-distinct options; a flatterin
 | Date | Test or how found | What happened | Result | Rule or fix |
 |---|---|---|---|---|
 | 8 Nov 2026 | Live run v1, HB 2322 vs SB 1624 | The rule baseline marked Duration, Advisory Council and Technical Secretariat clauses "changed" although equal in substance, and paired Effectivity with the Repealing clause because of OCR | Held (the agent corrected 10 baseline pairings) | Agent's baseline corrections kept; checker flags differences claimed in near-identical sections |
-| 8 Nov 2026 | Reviewer reading the v1 output | Wrong fiscal direction: SB 1624's added operational tasks (farmer training, identifying markets) labelled "likely lowers cost"; added tasks normally raise cost | Failed (open) | Candidate fix: a one-line reason for every fiscal direction, checked by AppraisAI's red-teamer |
+| 8 Nov 2026 | Reviewer reading the v1 output | Wrong fiscal direction: SB 1624's added operational tasks (farmer training, identifying markets) labelled "likely lowers cost"; added tasks normally raise cost | Failed (fixed in v3) | v3: every cost note carries a one-line reason and goes to AppraisAI, where it is reviewed with the costing; CompAIre no longer shows cost effects as findings |
+| 17 Nov 2026 | Reviewer reading v1/v2 design | v1 compared the bill with one chosen bill only, so the "design options" were mostly near-copies of the bill (fake-distinct options) and the closest bill offered little to choose from | Failed | v3 picks a comparator per provision for its alternative (differences outweigh similarities), skips near-identical copies, and limits recommendations to four defined options |
+| 17 Nov 2026 | Building the v3 rule draft | The rule draft first compared provisions with a Senate committee report that only repeats SB 1624's text, and described differences in garbled phrases ("members: 10 (this bill: 12)" in memo prose) | Failed | Committee reports dropped when the bill itself is available; separate table and memo phrasing ("SB No. 1345 ... provides for 10 members") |
 
 ## AppraisAI (Agent 3): Appraisal and Governance
 

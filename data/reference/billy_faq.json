@@ -343,5 +343,15 @@
   "group": "The agents",
   "q": "Who prepares the TrAIce outputs marked 'Prepared by TrAIce (Claude)'?",
   "a": "A scheduled Claude session, run under the project owner's Claude subscription, works through bills added to the Review workspace and the Government organization and mandates pilot bills three times a day. ActCheck saves an output only when every cited passage is found in the cited section; until then, the step shows ActCheck's rule-based draft."
+ },
+ {
+  "group": "The agents",
+  "q": "What does CompAIre produce?",
+  "a": "Building on TrAIce's salient features, CompAIre states what the bill aims to address and compares each major provision with the related measure that offers a real alternative. Its table, Substantial Differences and Design Options, shows for each provision the related measure, the major differences, the recommended option (Retain provision, Adapt alternative, Adapt alternative with revisions, or Remove provision) and why, the trade-offs and the gaps to check. Its main output is memo Part III (Comments and Recommendations), covering only the provisions that need a decision. Possible duplication of functions and cost effects go to AppraisAI and are reviewed there."
+ },
+ {
+  "group": "The agents",
+  "q": "Is the evidence grade used for every agent?",
+  "a": "Yes. TrAIce and CompAIre each show one grade (A Strong to D Weak) under their final checklist item, with the points and what kept the output from more points. The method is explained under Safeguards and Limits on the How it Works page."
  }
 ]

@@ -120,18 +120,21 @@ def render(a1, a2, a3, workflow):
                    ["A draft is made by code first (no AI); Claude improves it when available",
                     "Each finding cites a section; ActCheck checks every cited passage against the source text in the background",
                     "A bill not in the corpus is reported as not found, never guessed",
-                    "Each output gets an evidence grade, A (strong) to D (weak), computed by code, not by the agent",
+                    "Each output gets an evidence grade, A (strong) to D (weak), computed by code, not by the agent (see Safeguards and Limits)",
                     "Instructions written inside a bill's text are ignored"],
                    "Policy context, legislative history, related bills and laws, fiscal requirements"),
         agent_card("compare", "Step 2 · Diagnosis and Design", f"{a2} · Spot the changes",
-                   ["Compares the bill with its closest related measure, section by section",
-                    "States the problem the bill says it addresses",
-                    "Lists substantial differences (mandate, structure, salary grades, funding, duration) and their likely cost effect",
-                    "Shows design options seen across related bills"],
-                   ["Both versions are quoted for every difference",
-                    "ActCheck's own section matching is shown beside the agent's, so disagreements are visible",
-                    "Options must be genuinely different; a check flags near-duplicates"],
-                   "Substantial differences and design options"),
+                   ["Building on TrAIce's salient features, states what the bill aims to address and what is materially different in it",
+                    "Compares each major provision with the related measure that offers a real alternative (differences, not repetition)",
+                    "Recommends for each: retain the provision, adapt the alternative (with or without revisions) or remove it, with "
+                    "trade-offs and gaps to check",
+                    "Drafts memo Part III (Comments and Recommendations) for the provisions that need a decision; possible duplications and "
+                    "cost effects go to AppraisAI"],
+                   ["A draft is made by code first (no AI); Claude prepares the full analysis when available",
+                    "Every compared provision cites both sections; ActCheck checks each cited passage in the background",
+                    "Recommendations come from a fixed list of four options; the agent never states the DBM position",
+                    "Each output gets an evidence grade, A (strong) to D (weak), computed by code (see Safeguards and Limits)"],
+                   "Substantial Differences and Design Options; memo Part III"),
         agent_card("appraise", "Step 3 · Appraisal and Governance", f"{a3} · Weigh the impact",
                    ["Estimates a first-year cost range with a fixed calculator: 2026 salary schedule (NBC No. 601) and benefits, and the running "
                     "cost per position of similar agencies in the FY 2026 budget (GAA, DBM Staffing Summary); COA audits as a cross-check",
@@ -176,6 +179,14 @@ def render(a1, a2, a3, workflow):
                "The Senate listing blocks automated checks from GitHub, so it is refreshed separately. Reviews saved on the hosted portal reset "
                "when it restarts, so download reports, memos and letters. Every output is labelled an AI-assisted preliminary draft for DBM "
                "reviewer validation, not an official position.")
+    from agents import grading
+    ui.html("<p style='margin:.9rem 0 .2rem'><b>Evidence grade of each agent output</b></p>")
+    ui.html("<ul style='margin:.2rem 0 .6rem 1.1rem;font-size:.92rem;line-height:1.5'>" + "".join(f"<li>{x}</li>" for x in grading.METHOD) + "</ul>")
+    ui.table(["Grade", "Points (of 8)", "Meaning for the reviewer"], [
+        ["A · Strong", "7–8", "Findings rest on the official text, every cited passage verified; confirm the few points noted."],
+        ["B · Moderate", "5–6", "Usable; verify the items under 'To note' against the House or Senate record or the bill PDF before ticking."],
+        ["C · Limited", "3–4", "Treat as a lead only; check the main findings against the sources."],
+        ["D · Weak", "0–2", "Do not rely on it; redo the step from the sources."]])
     ui.html("<p style='margin:.9rem 0 .2rem'><b>Responsible AI: how ActCheck follows the government's AI principles</b></p>")
     p("DICT-CSC Joint Memorandum Circular No. 003, s. 2026 sets the principles for the ethical and responsible development, deployment and use "
       "of AI in government; NPC Advisory No. 2024-04 applies the Data Privacy Act to AI systems. The table shows how the prototype meets each "

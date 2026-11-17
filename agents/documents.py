@@ -54,7 +54,7 @@ def _policy_line(b):
     return policy.memo_line({"title": b.get("title", ""), "congress": b.get("congress")})
 
 
-def memo_prefill(bid, review, comments=None, bureau_inputs="", status="", traice_memo=None):
+def memo_prefill(bid, review, comments=None, bureau_inputs="", status="", traice_memo=None, compaire_memo=""):
     bills, _ = load()
     b = bills[bid]
     title = b["title"].rstrip(".")
@@ -78,7 +78,7 @@ def memo_prefill(bid, review, comments=None, bureau_inputs="", status="", traice
         "s2": ("\n\n".join(x for x in ((traice_memo or {}).get("salient", ""), (traice_memo or {}).get("related", "")) if x.strip())
                or review.get("summary", "")),
         "s3_1": bureau_inputs.strip() or "[Comments of the concerned bureaus, as received.]",
-        "s3_2": "\n".join(lines) or "[Proposed comments.]",
+        "s3_2": "\n\n".join(x for x in (compaire_memo.strip(), "\n".join(lines)) if x) or "[Proposed comments.]",
         "s3_3": fiscal or "[Fiscal implications: to be completed from the AppraisAI review and the bureaus' comments.]",
         "s4": "In view of the foregoing, we recommend to manifest as DBM position that we " + POSITION_PLACEHOLDER,
         "s5": "Should the Secretary find merit to our recommendation, attached is the draft letter to [the Chairperson, Committee on ______, "

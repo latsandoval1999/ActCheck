@@ -280,6 +280,7 @@ div[class*="st-key-repnote_"] button p{font-size:.92rem; text-align:left;}
 .ac-fulltext p.item{padding-left:2rem; text-indent:-2rem;}
 .ac-fulltext p:last-child{margin-bottom:.2rem;}
 .ac-filed{font-size:.75rem; color:var(--mute); margin-top:-.2rem;}
+.st-key-pg_next, .st-key-pg_next_lib{align-items:flex-end;}
 .ac-view a{font-weight:700; font-size:.85rem; color:var(--red) !important; text-decoration:none;}
 
 /* review steps */
@@ -333,7 +334,12 @@ section.main .block-container, [data-testid="stMainBlockContainer"]{padding-bott
 .ac-grade .gh{display:flex; align-items:center; gap:.5rem; font-size:.85rem;} .ac-grade .gl{display:inline-flex; width:1.6rem; height:1.6rem; align-items:center; justify-content:center; border-radius:50%; color:#fff; font-weight:800;}
 .ac-grade.gA{border-left-color:#2E7D4F;} .ac-grade.gA .gl{background:#2E7D4F;} .ac-grade.gB{border-left-color:#1F5FAD;} .ac-grade.gB .gl{background:#1F5FAD;}
 .ac-grade.gC{border-left-color:#B7791F;} .ac-grade.gC .gl{background:#B7791F;} .ac-grade.gD{border-left-color:#B23B2E;} .ac-grade.gD .gl{background:#B23B2E;}
-.ac-grade .gw{margin:.35rem 0 .2rem; color:var(--ink);} .ac-grade .gs{color:var(--mute); font-size:.72rem;}
+.ac-grade .gw{margin:.3rem 0 0; color:var(--ink);} .ac-grade .gs{color:var(--mute); font-size:.72rem;}
+.ac-wide{overflow-x:auto;} .ac-tbl.cmp{min-width:860px;} .ac-tbl.cmp th:nth-child(1){width:15%;} .ac-tbl.cmp th:nth-child(2){width:14%;}
+.ac-tbl.cmp th:nth-child(3){width:24%;} .ac-tbl.cmp th:nth-child(4){width:19%;} .ac-tbl.cmp th:nth-child(5){width:15%;} .ac-tbl.cmp th:nth-child(6){width:13%;}
+.ac-tbl.cmp td{font-size:.8rem; vertical-align:top;} .ac-tbl.cmp .why{font-size:.76rem; margin-top:.3rem; color:var(--ink);}
+.ac-memo .oh{font-weight:700; font-style:italic; margin:.7rem 0 .3rem;} .ac-memo .np{display:flex; gap:.8rem; margin:0 0 .5rem;}
+.ac-memo .np .no{flex:0 0 2.2rem;} .ac-memo .np p{margin:0; text-align:justify;}
 .ac-memo h6{font:700 .9rem Tahoma,Verdana,sans-serif; margin:.5rem 0 .25rem;} .ac-memo p{text-align:justify; margin:0 0 .5rem 1.4rem;}
 .ac-check{background:var(--gold-soft); border:1px solid #E8D79F; border-radius:6px; padding:.7rem .95rem .3rem; margin-top:.7rem;}
 .ac-check-h{font:800 .74rem var(--sans); letter-spacing:.09em; text-transform:uppercase; color:#7A5A00; margin-bottom:.3rem;}

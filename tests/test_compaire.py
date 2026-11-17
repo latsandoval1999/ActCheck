@@ -1,0 +1,26 @@
+"""CompAIre version 3: rule draft, Claude's saved run, checks and grade."""
+from agents import compaire, traice
+
+
+def test_rule_draft_structure():
+    t = traice.saved_ai("HB-20-2322")["output"]
+    d = compaire.rule_draft("HB-20-2322", t)
+    assert d["source"] == "rules" and d["rows"]
+    assert all(r["recommendation"] in compaire.RECS for r in d["rows"])
+    assert "SB-20-1624" in d["comparators"] and not any(c.startswith("CR-") for c in d["comparators"])
+    assert compaire.grade("HB-20-2322", d)["points"] <= 6           # rule drafts are capped at B
+
+
+def test_saved_run_verified_and_memo_only_decisions():
+    sv = compaire.saved_ai("HB-20-2322")
+    checks = compaire.check_output(sv["output"])
+    assert checks and all(c["check"] == "verified" for c in checks)
+    text = compaire.memo_text(sv["output"])
+    assert text.startswith("On the") and "3.1 " in text
+    retained = [r["section_ref"].split(" (")[0] for r in sv["output"]["rows"] if r["recommendation"] == "Retain provision"]
+    assert all(f"{x} of HB No. 2322" not in text for x in retained)
+
+
+def test_bad_recommendation_is_flagged():
+    out = {"target": "HB-20-2322", "rows": [{"section_ref": "Section 5", "target_section": "", "recommendation": "Keep it"}]}
+    assert any("unknown recommendation" in c["check"] for c in compaire.check_output(out))

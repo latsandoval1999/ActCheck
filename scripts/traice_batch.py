@@ -13,6 +13,8 @@ Commands
   python scripts/traice_batch.py prompt BILL         writes the prompt to runs_tmp/BILL.prompt.md and prints the path
   python scripts/traice_batch.py save BILL FILE      checks FILE (the JSON answer) and saves it; exit 1 if a citation fails
   python scripts/traice_batch.py queue BILL [BILL…]  adds bills to the workspace queue
+  python scripts/traice_batch.py prompt BILL compaire   CompAIre's prompt (needs the bill's saved TrAIce run)
+  python scripts/traice_batch.py save BILL FILE compaire  checks and saves a CompAIre answer (data/agent_runs/BILL/compaire.json)
 """
 import json
 import sys
@@ -32,6 +34,17 @@ PILOT = "Government organization and mandates"
 def _rows():
     from pipeline import catalogue
     return {r["id"]: r for r in catalogue.build()}
+
+
+def _traice_out(bid):
+    """The bill's TrAIce output as the site shows it (Claude's saved run, completed by the rule draft)."""
+    from agents.research import evidence_pack
+    from pipeline import policy
+    from pipeline.compare import load
+    b = load()[0][bid]
+    row = _rows().get(bid) or {}
+    draft = traice.rule_draft(bid, evidence_pack(bid), row, policy.context({"title": b["title"], "congress": b["congress"]}), row.get("type", ""))
+    return traice.normalize((traice.saved_ai(bid) or {}).get("output"), bid, draft)
 
 
 def done(bid):
@@ -67,6 +80,32 @@ def main(argv):
     elif cmd == "next":
         n = int(argv[2]) if len(argv) > 2 else 12
         print("\n".join(pending(_rows())[:n]))
+    elif cmd == "prompt" and len(argv) > 3 and argv[3] == "compaire":
+        from agents import compaire
+        bid = argv[2]
+        system, user, _ = compaire.build_messages(bid, _traice_out(bid))
+        TMP.mkdir(exist_ok=True)
+        out = TMP / f"{bid}.compaire.prompt.md"
+        out.write_text(f"# SYSTEM PROMPT\n\n{system}\n\n# USER MESSAGE\n\n{user}\n")
+        print(out)
+    elif cmd == "save" and len(argv) > 4 and argv[4] == "compaire":
+        from agents import compaire
+        bid, path = argv[2], argv[3]
+        out = json.loads(Path(path).read_text())
+        if out.get("target") != bid:
+            sys.exit(f"target is {out.get('target')!r}, expected {bid}")
+        checks = compaire.check_output(out)
+        bad = [c for c in checks if c.get("check") != "verified"]
+        if bad:
+            print(json.dumps([{k: c.get(k) for k in ("section", "check", "quote")} for c in bad], ensure_ascii=False, indent=1))
+            sys.exit(f"{len(bad)} of {len(checks)} checks failed; fix or remove them and save again")
+        g = compaire.grade(bid, compaire.normalize(out, bid, {}), checks)
+        (RUNS / bid).mkdir(parents=True, exist_ok=True)
+        (RUNS / bid / "compaire.json").write_text(json.dumps({"output": out, "checks": checks, "meta": {
+            "prepared_by": "Claude (scheduled CompAIre run under the owner's Claude subscription)",
+            "prompt_version": compaire.PROMPT_VERSION, "grade": g["grade"],
+            "time": datetime.now(timezone.utc).isoformat(timespec="seconds")}}, ensure_ascii=False, indent=1))
+        print(f"saved CompAIre {bid}: {len(checks)} checks passed; grade {g['grade']} ({g['label']})")
     elif cmd == "prompt":
         from agents.research import build_messages
         bid = argv[2]
@@ -81,7 +120,8 @@ def main(argv):
         out = json.loads(Path(path).read_text())
         if out.get("target") != bid:
             sys.exit(f"target is {out.get('target')!r}, expected {bid}")
-        out["related"] = [r for r in out.get("related", []) if r.get("relationship") != traice.LABELS[6]]
+        out["related"] = [r for r in out.get("related", []) if r.get("relationship") not in (traice.LABELS[5], traice.LABELS[6])]
+        out["existing_law_overlaps"] = [x for x in out.get("existing_law_overlaps", []) if x.get("label") != traice.LAW_LABELS[3]]
         checks = check_output(out)
         bad = [c for c in checks if c.get("check") != "verified"]
         if bad:

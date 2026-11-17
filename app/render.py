@@ -92,7 +92,7 @@ def trace(bid, out, checks=None):
     if hist:
         ui.html('<div class="ac-sec">Legislative history</div><div class="ac-out"><ul>'
                 + "".join(f"<li>{escape(h)}</li>" for h in hist) + "</ul></div>")
-    rel = [r for r in out.get("related", []) if r.get("id") != bid and r.get("relationship") != traice.LABELS[6]]
+    rel = [r for r in out.get("related", []) if r.get("id") != bid and r.get("relationship") not in (traice.LABELS[5], traice.LABELS[6])]
     if rel:
         order = {lab: i for i, lab in enumerate(traice.LABELS + ["Senate version", "House version"])}
         order["Senate version"] = order["House version"] = traice.ORDER[traice.LABELS[3]]
@@ -101,7 +101,7 @@ def trace(bid, out, checks=None):
         _grouped([{"g": r.get("relationship") or "Not classified",
                    "cells": [_name_title(r.get("id"), r.get("title")), escape(short(r.get("basis"), 220))]} for r in rel],
                  "g", ["Relationship", "Bill number and title", "Why"], "relb")
-    laws = out.get("existing_law_overlaps", [])
+    laws = [x for x in out.get("existing_law_overlaps", []) if x.get("label") != traice.LAW_LABELS[3]]   # content, not format
     if laws:
         lo = {lab: i for i, lab in enumerate(traice.LAW_LABELS)}
         laws = sorted(laws, key=lambda x: (lo.get(x.get("label"), 9), x.get("law", "")))
@@ -184,6 +184,69 @@ def compare(out, checks=None, baseline_md=None):
                 st.markdown(f"- **{c.get('target_section')} ↔ {c.get('reference_section')}**: {c.get('note')}")
             for g in extra[1]:
                 st.markdown(f"- Gap: {g}")
+
+
+REC_COLOR = {"Retain provision": "green", "Adapt alternative": "navy", "Adapt alternative with revisions": "gold", "Remove provision": "red"}
+
+
+def compaire(bid, out, checks=None):
+    """Step 2: CompAIre (version 3): the problem, then Substantial Differences and Design Options (no quotes shown)."""
+    src = out.get("source", "ai")
+    ok = sum(1 for c in (checks or []) if c.get("check") == "verified")
+    if src == "rules":
+        ui.badges([("Draft prepared by ActCheck's rules (no AI)", "gold")])
+    else:
+        ui.badges([("Prepared by CompAIre (Claude)", "navy")]
+                  + ([(f"{ok} of {len(checks)} cited sections verified against the text", "green" if ok == len(checks) else "red")] if checks else []))
+    ui.html('<div class="ac-sec">What the bill aims to address</div>'
+            f'<div class="ac-out"><p>{escape(out.get("problem") or "Not stated in the bill.")}</p></div>')
+    rows = out.get("rows") or []
+    if not rows:
+        return
+    ui.html('<div class="ac-sec">Substantial Differences and Design Options</div>')
+    groups = {}
+    for r in rows:
+        groups.setdefault((r.get("area"), r.get("section_ref")), []).append(r)
+    head = "".join(f"<th>{h}</th>" for h in ["Section / area", "Related measure", "Major differences", "Recommended option", "Trade-offs", "Gaps to check"])
+    body = ""
+    for (area, ref), items in groups.items():
+        for j, r in enumerate(items):
+            first = (f'<td rowspan="{len(items)}" class="grp"><b>{escape(ref or "")}</b><div class="n">{escape(area or "")}</div></td>') if j == 0 else ""
+            c = r.get("comparator") or {}
+            rel = (f'<b class="m">{escape(_doc_name(c["id"]))}</b><div class="ttl">{escape(short(c.get("title", ""), 90))}</div>'
+                   if c.get("id") else '<span class="ttl">None offers a different design</span>')
+            rec = r.get("recommendation", "")
+            body += (f"<tr>{first}<td>{rel}</td><td>{escape(r.get('differences', ''))}</td>"
+                     f'<td><span class="ac-badge {REC_COLOR.get(rec, "")}">{escape(rec)}</span><div class="why">{escape(r.get("why", ""))}</div></td>'
+                     f"<td>{escape(r.get('tradeoffs', ''))}</td><td>{escape(r.get('gap', '') or '–')}</td></tr>")
+    ui.html(f'<div class="ac-wide"><table class="ac-tbl grp cmp"><thead><tr>{head}</tr></thead><tbody>{body}</tbody></table></div>')
+
+
+def memo3_html(text):
+    """Memo Part III: 'On the ...' lines as italic bold subheadings, '3.1 ...' paragraphs with hanging numbers."""
+    out = []
+    for line in [x.strip() for x in str(text or "").split("\n") if x.strip()]:
+        m = re.match(r"^(\d+\.\d+)\s+(.*)", line)
+        if m:
+            out.append(f'<div class="np"><span class="no">{m.group(1)}</span><p>{escape(m.group(2))}</p></div>')
+        elif len(line) < 110 and not line.endswith("."):
+            out.append(f'<div class="oh">{escape(line)}</div>')
+        else:
+            out.append(f"<p>{escape(line)}</p>")
+    return "".join(out)
+
+
+def compaire_feeds(out):
+    """What CompAIre passes to AppraisAI: possible duplication of functions and cost directions."""
+    dup, cost = out.get("duplications") or [], out.get("cost_notes") or []
+    if dup:
+        ui.html('<div class="ac-sec">Possible duplication of functions (identified by CompAIre)</div>')
+        ui.table(["Provision of the bill", "Existing office or body", "Note"],
+                 [[escape(d.get("function", "")), escape(d.get("existing", "")), escape(d.get("note", ""))] for d in dup], cls="fisc")
+    if cost:
+        ui.html('<div class="ac-sec">Cost implications of the differences (identified by CompAIre)</div>')
+        ui.table(["Provision", "Likely effect", "Why"],
+                 [[escape(c.get("item", "")), escape(c.get("direction", "")), escape(c.get("why", ""))] for c in cost], cls="fisc")
 
 
 def _facts_cell(v, key):
