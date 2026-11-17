@@ -341,8 +341,11 @@ def referrals_table(out):
     if not refs:
         ui.html('<div class="ac-out"><p>No referral identified.</p></div>')
         return
-    ui.table(["Bureau or office", "Function (DBM Charter, CY 2026)", "Why consult", "Memo part"],
-             [[f"<b>{escape(r.get('bureau', ''))}</b><div class='ttl'>{escape(r.get('name', ''))}</div>", escape(r.get("function", "")),
+    ui.html('<div class="ac-note">Functions from the DBM Charter (CY 2026); the Budget and Management Bureau is matched from the agencies '
+            'named in the bill and the coverage lists in the DBM Central Office Directory.</div>')
+    ui.table(["Bureau or office", "Function", "Why consult", "Memo part"],
+             [[f"<b>{escape(r.get('bureau', ''))}</b><div class='ttl'>{escape(r.get('name', ''))}</div>"
+               + (f"<div class='ttl'>{escape(r['email'])}</div>" if r.get("email") else ""), escape(r.get("function", "")),
                escape(r.get("why", "")), escape(r.get("parts", ""))] for r in refs], cls="ref")
 
 

@@ -84,8 +84,8 @@
     "parts": "Part V (Initial and continuing funding)"
    },
    {
-    "bureau": "BMB",
-    "why": "Budgetary requirements within the budgets of the Senate and the House of Representatives (confirm the BMB with coverage of the Legislature)",
+    "bureau": "BMB-C",
+    "why": "Budgetary requirements to be charged to the budgets of the Senate and the House of Representatives (Congress), and any added requirement of PIDS (research arm, Section 8), both under its coverage",
     "parts": "Part V"
    },
    {
@@ -111,7 +111,6 @@
   },
   "reviewer_checks": [
    "Confirm the Secretariat headcount assumed in the estimate with the two chambers' plans, if any.",
-   "Confirm the BMB with coverage of the Senate and the House of Representatives before referral.",
    "Confirm whether the RA No. 8435 oversight committee is still constituted."
   ]
  },
@@ -127,6 +126,6 @@
   "prepared_by": "Claude (ApprAIsal run under the owner's Claude subscription)",
   "prompt_version": "v3",
   "grade": "A",
-  "time": "2026-11-17T13:36:59+00:00"
+  "time": "2026-11-17T14:02:19+00:00"
  }
 }

@@ -41,14 +41,68 @@ BUREAUS = {
     "BTB": ("Budget Technical Bureau", "Sets budget standards, prepares the President's Budget and administers special funds"),
     "BMB": ("Budget and Management Bureau with coverage of the agency or sector concerned",
             "Reviews the agencies' medium-term expenditures and budget allocations"),
-    "BMB-C": ("Budget and Management Bureau-C", "Oversees the budgets, organization and compensation of GOCCs"),
-    "BMB-F": ("Budget and Management Bureau-F", "Oversees the budgets of SUCs and related agencies"),
     "SPIB": ("Systems and Productivity Improvement Bureau", "Sets policies and standards for systems improvement, productivity and bureaucratic reform"),
     "LS": ("Legal Service", "Provides legal guidance and reviews legislative measures and issuances"),
     "LGRCB": ("Local Government and Regional Coordination Bureau", "Administers LGU allocations and local budget policies"),
     "FPRB": ("Fiscal Planning and Reforms Bureau", "Conducts fiscal policy research and budget frameworks"),
 }
-SOURCE_BUREAUS = "DBM Charter, CY 2026 (functional statements)"
+SOURCE_BUREAUS = "DBM Charter, CY 2026 (functional statements); DBM Central Office Directory (coverage agencies)"
+COVERAGE = json.loads((Path(__file__).resolve().parents[1] / "data" / "reference" / "dbm_bureau_coverage.json").read_text())
+for _code, _b in COVERAGE["bureaus"].items():
+    if _code.startswith("BMB-"):
+        BUREAUS[_code] = (f"Budget and Management Bureau-{_code[-1]}",
+                          "Reviews the medium-term expenditures and budget allocations of its coverage agencies ("
+                          + ", ".join(a[1] or a[0] for a in _b["agencies"][:6]) + (", and others)" if len(_b["agencies"]) > 6 else ")"))
+BUREAUS["LGRCB"] = (BUREAUS["LGRCB"][0], BUREAUS["LGRCB"][1] + " (coverage: National Tax Allotment and allocations to LGUs)")
+EMAIL = {c: b["email"] for c, b in COVERAGE["bureaus"].items()}
+
+
+def _agency_patterns():
+    out = []
+    for code, b in COVERAGE["bureaus"].items():
+        for name, acr in b["agencies"]:
+            names = [name] + COVERAGE["aliases"].get(name, [])
+            out.append((code, name, acr, re.compile(r"\b(" + "|".join(re.escape(n) for n in names if n) + r")\b", re.I)))
+    return out
+
+
+AGENCY_PATTERNS = _agency_patterns()
+
+
+def _and(xs):
+    xs = list(xs)[:4]
+    return xs[0] if len(xs) == 1 else ", ".join(xs[:-1]) + " and " + xs[-1]
+
+
+def coverage(bid, t_out=None):
+    """The Budget and Management Bureaus concerned, from the coverage agencies named in the bill.
+    funding: the agency whose budget the bill charges; attached: the agency the new office is attached to;
+    sector: other agencies the bill names at least twice (members, implementers). The enacting clause is ignored."""
+    secs = load()[1].get(bid, [])
+    def body(s):
+        return re.sub(r"(Be it enacted|in Congress assembled)[^.:]*[.:]", " ", s["heading"] + ". " + s["text"], flags=re.I)
+    allt = " ".join(body(s) for s in secs)
+    fund = " ".join(body(s) for s in secs if re.search(r"appropriat|funding|budget", s["heading"], re.I))
+    attach = " ".join(m.group(1) for m in re.finditer(r"attached to the ([A-Z][^.;,]{5,90})", allt))
+    found = {}
+    for code, name, acr, pat in AGENCY_PATTERNS:
+        n_all, n_fund, n_att = len(pat.findall(allt)), len(pat.findall(fund)), len(pat.findall(attach))
+        if not (n_all or n_fund):
+            continue
+        role = "funding" if n_fund else "attached" if n_att else "sector" if n_all >= 2 and code != "LGRCB" else ""
+        if code == "BMB-C" and name.startswith("Congress") and role == "sector":
+            role = ""    # "Congress", "Senate" and "House" appear in most bills; count them only when they fund the measure
+        if role:
+            g = found.setdefault(code, {"bureau": code, "by_role": {}})
+            label = f"{name} ({acr})" if acr and acr.upper() != name.upper().replace(" OF THE PHILIPPINES", "") else name
+            if all(label not in v for v in g["by_role"].values()):
+                g["by_role"].setdefault(role, []).append(label)
+    order = {"funding": 0, "attached": 1, "sector": 2}
+    out = sorted(found.values(), key=lambda g: min(order[r] for r in g["by_role"]))
+    for g in out:
+        g["role"] = min(g["by_role"], key=order.get)
+        g["agencies"] = [a for r in sorted(g["by_role"], key=order.get) for a in g["by_role"][r]]
+    return out
 
 
 def _doc(bid):
@@ -177,21 +231,34 @@ def referrals(bid, t_out, c_out, dups, rows):
     text = " ".join(s["heading"] + " " + s["text"][:400] for s in secs.get(bid, [])).lower()
     out = []
     def add(code, why, parts):
-        out.append({"bureau": code, "name": BUREAUS[code][0], "function": BUREAUS[code][1], "why": why, "parts": parts})
+        out.append({"bureau": code, "name": BUREAUS[code][0], "function": BUREAUS[code][1], "why": why, "parts": parts,
+                    "email": EMAIL.get(code, "")})
     if any(r["item"] in ("Position", "Support body") for r in rows) or _creates(bid, t_out):
         add("OPCCB", "New positions, salary grades, organizational structure and staffing pattern", "Part V (Position; Support body)")
     if any(r["item"] in ("Initial funding", "Continuing funding", "Funding source") for r in rows):
         add("BTB", "Appropriations language and inclusion in the General Appropriations Act", "Part V (Initial and continuing funding)")
-        add("BMB", "Budgetary requirements and fiscal space of the agency or sector concerned (confirm the BMB with coverage)", "Part V")
-    if re.search(r"government-owned|goccs?\b|corporation", text):
-        add("BMB-C", "The bill involves a government-owned or -controlled corporation", "Parts V and VI")
-    if re.search(r"state universit|sucs?\b|commission on higher education|deped", text):
-        add("BMB-F", "The bill involves SUCs or education agencies", "Part V")
+    groups = coverage(bid, t_out)
+    for g in groups:
+        if g["bureau"] == "LGRCB":
+            continue
+        br = g["by_role"]
+        parts_ = []
+        if br.get("funding"):
+            parts_.append("the bill charges its requirements to the budget of the " + _and(br["funding"]))
+        if br.get("attached"):
+            parts_.append("the new office is attached to the " + _and(br["attached"]))
+        if br.get("sector"):
+            parts_.append("the bill assigns a role to the " + _and(br["sector"]))
+        why = "; ".join(parts_)
+        why = why[:1].upper() + why[1:]
+        add(g["bureau"], why, "Part V" if g["role"] != "sector" else "Parts IV and V")
+    if not [g for g in groups if g["bureau"].startswith("BMB-")] and any(r["item"] in ("Initial funding", "Continuing funding", "Funding source") for r in rows):
+        add("BMB", "Budgetary requirements of the agency or sector concerned (no coverage agency named in the bill; confirm the bureau)", "Part V")
     if dups:
         add("SPIB", "Possible duplication and rationalization of functions under RA No. 12231", "Part VI")
     if any(x.get("label") == traice.LAW_LABELS[0] for x in t_out.get("existing_law_overlaps", [])) or re.search(r"penalt|imprisonment|fine of", text):
         add("LS", "The bill amends existing laws or provides penalties", "Parts IV and VI")
-    if re.search(r"local government units?.{0,80}(share|fund|allocation|appropriat)", text):
+    if re.search(r"local government units?.{0,80}(share|fund|allocation|appropriat)", text) or any(g["bureau"] == "LGRCB" for g in groups):
         add("LGRCB", "The bill affects LGU allocations or local budgets", "Part V")
     if req_big(rows):
         add("FPRB", "Large fiscal impact relative to the medium-term fiscal program", "Part V")
@@ -247,7 +314,7 @@ def rule_draft(bid, t_out, c_out, cost):
     if key == "c":
         p7.append(f"The issues and risks to be addressed are: {lst}.")
     checks = ["Confirm the headcount and staffing assumptions against a draft organizational structure and staffing pattern.",
-              "Confirm the BMB with coverage of the agency or sector concerned before referral."]
+              "Confirm the Budget and Management Bureaus to consult (matched from the agencies named in the bill and the DBM directory's coverage lists)."]
     if dups:
         checks.append("Confirm whether the existing body named in Part VI is still constituted and active.")
     return {"target": bid, "source": "rules", "estimate": {"low": _slim(lo), "high": _slim(hi), "basis": req["basis"]},
@@ -309,7 +376,8 @@ def normalize(out, bid, draft):
     o["source"] = out.get("source", "ai")
     o["estimate"] = draft["estimate"]            # figures always come from the engine, never from the agent
     o["referrals"] = [dict(r, name=r.get("name") or BUREAUS.get(r.get("bureau"), ("", ""))[0],
-                           function=r.get("function") or BUREAUS.get(r.get("bureau"), ("", ""))[1]) for r in o.get("referrals") or []]
+                           function=r.get("function") or BUREAUS.get(r.get("bureau"), ("", ""))[1],
+                           email=r.get("email") or EMAIL.get(r.get("bureau"), "")) for r in o.get("referrals") or []]
     for d in o.get("duplications") or []:
         d.setdefault("intent_to_abolish", o.get("intent_to_abolish", False))
     return o
@@ -339,6 +407,7 @@ def build_messages(bid, t_out, c_out, cost):
             f"TRAICE (Step 1, checked by the analyst): {json.dumps({k: t_out.get(k) for k in ('proposal', 'salient_features', 'related_measures_policy', 'fiscal_requirements')}, ensure_ascii=False)}\n\n"
             f"COMPAIRE (Step 2, checked by the analyst): {json.dumps({k: (c_out or {}).get(k) for k in ('memo_part', 'duplications', 'cost_notes')}, ensure_ascii=False)}\n\n"
             f"COST ENGINE (figures you may quote; never compute your own): {json.dumps(draft['estimate'], ensure_ascii=False)}\n\n"
+            f"BUREAU COVERAGE (agencies named in the bill, matched to the DBM directory's coverage lists): {json.dumps(coverage(bid), ensure_ascii=False)}\n\n"
             f"ACTCHECK DRAFT (made by code; improve it): {json.dumps({k: draft[k] for k in ('fiscal_rows', 'duplications', 'intent_to_abolish', 'recommendation', 'referrals', 'memo')}, ensure_ascii=False)}\n\n"
             "BILL SECTIONS ON FUNDING, STAFFING AND TRANSFERS:\n" + "\n".join(f"[{s['id']}] {s['heading']}: {' '.join(s['text'].split())[:1500]}" for s in fin))
     return llm.prompt("p3_appraise"), user, draft
@@ -361,6 +430,9 @@ def check_output(out, draft):
     for r in out.get("referrals") or []:
         if r.get("bureau") not in BUREAUS:
             checks.append({"claim": "referral", "section": "", "quote": str(r.get("bureau")), "check": "unknown DBM bureau"})
+        elif str(r.get("bureau")).startswith("BMB-") and r["bureau"] not in {g["bureau"] for g in coverage(out.get("target", ""))}:
+            checks.append({"claim": "referral", "section": "", "quote": r["bureau"],
+                           "check": "no agency named in the bill is under this bureau's coverage"})
     for d in out.get("duplications") or []:
         if d.get("section") and d.get("quote"):
             checks += check_citations([{"claim": d.get("note", ""), "section": d["section"], "quote": d["quote"]}])

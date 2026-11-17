@@ -37,3 +37,16 @@ def test_harmonize_drops_repeated_sentences():
     s = "The Commission's functions overlap with the oversight committee under RA No. 8435 and should be delineated clearly."
     out = appraise.harmonize("4.1 " + s, "6.1 " + s + " A new point that is long enough to be kept in the second part of the memo.")
     assert s in out[0] and s not in out[1] and "A new point" in out[1]
+
+
+def test_bureau_coverage_matches_funding_agency():
+    from agents import appraise
+    g = appraise.coverage("HB-20-2322")
+    assert g[0]["bureau"] == "BMB-C" and g[0]["role"] == "funding"
+    assert any("Congress" in a for a in g[0]["agencies"])
+    # a BMB whose coverage has no agency named in the bill is flagged
+    out = {"target": "HB-20-2322", "recommendation": {"option": "a"}, "referrals": [{"bureau": "BMB-B"}], "fiscal_rows": [], "memo": {}}
+    draft = {"estimate": {"low": {k: 1 for k in ("ps", "mooe", "co", "total", "recurring")},
+                          "high": {k: 1 for k in ("ps", "mooe", "co", "total", "recurring")}}}
+    checks = appraise.check_output(out, draft)
+    assert any(c["check"].startswith("no agency named") for c in checks)

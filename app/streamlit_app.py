@@ -723,7 +723,7 @@ def case(bid):
                     changed = False
                     for r in refs:
                         code = r.get("bureau", "")
-                        st.markdown(f"**{code}** · {r.get('name', '')}")
+                        st.markdown(f"**{code}** · {r.get('name', '')}" + (f" · send to {r['email']}" if r.get("email") else ""))
                         st.code(f"May we request the comments of the {r.get('name', code)} on {traice._doc(bid)}, particularly on: "
                                 f"{r.get('why', '').rstrip('.')} ({r.get('parts', '')} of the attached preliminary review).", language=None)
                         v = st.text_area(f"Comment received from {code}", value=binp.get(code, ""), key=f"bi_{bid}_{code}", height=80)

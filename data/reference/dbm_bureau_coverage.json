@@ -1,0 +1,722 @@
+{
+ "source": "DBM Central Office Directory, https://www.dbm.gov.ph/index.php/dbm-central-office-directory (coverage agencies as listed on the page, copied by the owner on 17 November 2026). Officials' names are not recorded.",
+ "bureaus": {
+  "BMB-A": {
+   "email": "bmba@dbm.gov.ph",
+   "agencies": [
+    [
+     "Department of Finance",
+     "DOF"
+    ],
+    [
+     "Department of Public Works and Highways",
+     "DPWH"
+    ],
+    [
+     "Department of Tourism",
+     "DOT"
+    ],
+    [
+     "Department of Trade and Industry",
+     "DTI"
+    ],
+    [
+     "Department of Transportation",
+     "DOTr"
+    ],
+    [
+     "Department of Economy, Planning, and Development",
+     "DEPDev"
+    ],
+    [
+     "Legislative-Executive Development Advisory Council",
+     "LEDAC"
+    ],
+    [
+     "Mindanao Development Authority",
+     "MDA"
+    ],
+    [
+     "Anti-Red Tape Authority",
+     "ARTA"
+    ]
+   ]
+  },
+  "BMB-B": {
+   "email": "dbmbmb-b@dbm.gov.ph",
+   "agencies": [
+    [
+     "Department of Health",
+     "DOH"
+    ],
+    [
+     "Department of Labor and Employment",
+     "DOLE"
+    ],
+    [
+     "Department of Social Welfare and Development",
+     "DSWD"
+    ],
+    [
+     "Commission on the Filipino Language",
+     "CFL"
+    ],
+    [
+     "Movie and Television Review and Classification Board",
+     "MTRCB"
+    ],
+    [
+     "National Commission for Culture and the Arts",
+     "NCCA"
+    ],
+    [
+     "National Historical Commission of the Philippines",
+     ""
+    ],
+    [
+     "National Library of the Philippines",
+     ""
+    ],
+    [
+     "National Archives of the Philippines",
+     ""
+    ],
+    [
+     "Optical Media Board",
+     "OMB"
+    ],
+    [
+     "Philippine Sports Commission",
+     "PSC"
+    ],
+    [
+     "Department of Migrant Workers",
+     "DMW"
+    ],
+    [
+     "Department of Human Settlements and Urban Development",
+     "DHSUD"
+    ]
+   ]
+  },
+  "BMB-C": {
+   "email": "bmbc-releasing@dbm.gov.ph",
+   "agencies": [
+    [
+     "Congress of the Philippines",
+     "CONGRESS"
+    ],
+    [
+     "Office of the President",
+     "OP"
+    ],
+    [
+     "Office of the Vice President",
+     "OVP"
+    ],
+    [
+     "Department of Budget and Management",
+     "DBM"
+    ],
+    [
+     "Office of the Press Secretary",
+     "PCO"
+    ],
+    [
+     "Civil Service Commission",
+     "CSC"
+    ],
+    [
+     "Commission on Audit",
+     "COA"
+    ],
+    [
+     "Commission on Elections",
+     "COMELEC"
+    ],
+    [
+     "Anti-Money Laundering Council",
+     "AMLC"
+    ],
+    [
+     "Games and Amusements Board",
+     "GAB"
+    ],
+    [
+     "Governance Commission for GOCCs",
+     "GCG"
+    ],
+    [
+     "Philippine Competition Commission",
+     "PCCOM"
+    ],
+    [
+     "Philippine Racing Commission",
+     "PRACOM"
+    ],
+    [
+     "Presidential Legislative Liaison Office",
+     "PLLO"
+    ],
+    [
+     "Presidential Management Staff",
+     "PMS"
+    ],
+    [
+     "Philippine Space Agency",
+     "PhilSA"
+    ],
+    [
+     "Philippine Information Agency",
+     "PIA"
+    ],
+    [
+     "Aurora Pacific Economic Zone and Freeport",
+     "APECO"
+    ],
+    [
+     "Authority of the Freeport Area of Bataan",
+     "AFAB"
+    ],
+    [
+     "Bangko Sentral ng Pilipinas",
+     "BSP"
+    ],
+    [
+     "Bases Conversion and Development Authority",
+     "BCDA"
+    ],
+    [
+     "Bases Conversion Development Authority",
+     "BCDA"
+    ],
+    [
+     "Cagayan Economic Zone Authority",
+     "CEZA"
+    ],
+    [
+     "Center for International Trade Expositions and Missions",
+     "CITEM"
+    ],
+    [
+     "Corregidor Foundation",
+     "CFI"
+    ],
+    [
+     "Cultural Center of the Philippines",
+     "CCP"
+    ],
+    [
+     "Development Academy of the Philippines",
+     "DAP"
+    ],
+    [
+     "Intercontinental Broadcasting Corporation",
+     "IBC-13"
+    ],
+    [
+     "Laguna Lake Development Authority",
+     "LLDA"
+    ],
+    [
+     "Land Bank of the Philippines",
+     "LBP"
+    ],
+    [
+     "United Coconut Planters Bank",
+     "UCPB"
+    ],
+    [
+     "Light Rail Transit Authority",
+     "LRTA"
+    ],
+    [
+     "Local Water Utilities Administration",
+     "LWUA"
+    ],
+    [
+     "Lung Center of the Philippines",
+     "LCP"
+    ],
+    [
+     "National Dairy Authority",
+     "NDA"
+    ],
+    [
+     "National Electrification Administration",
+     "NEA"
+    ],
+    [
+     "National Food Authority",
+     "NFA"
+    ],
+    [
+     "National Home Mortgage Finance Corporation",
+     "NHMFC"
+    ],
+    [
+     "National Housing Authority",
+     "NHA"
+    ],
+    [
+     "National Irrigation Administration",
+     "NIA"
+    ],
+    [
+     "National Kidney and Transplant Institute",
+     "NKTI"
+    ],
+    [
+     "National Power Corporation",
+     "NAPOCOR"
+    ],
+    [
+     "National Tobacco Administration",
+     "NTA"
+    ],
+    [
+     "People's Television Network",
+     "PTNI"
+    ],
+    [
+     "Philippine Center for Economic Development",
+     "PCED"
+    ],
+    [
+     "Philippine Children's Medical Center",
+     "PCMC"
+    ],
+    [
+     "Philippine Coconut Authority",
+     "PCA"
+    ],
+    [
+     "Philippine Crop Insurance Corporation",
+     "PCIC"
+    ],
+    [
+     "Philippine Fisheries Development Authority",
+     "PFDA"
+    ],
+    [
+     "Philippine Health Insurance Corporation",
+     "PhilHealth"
+    ],
+    [
+     "Philippine Heart Center",
+     "PHC"
+    ],
+    [
+     "Philippine Institute for Development Studies",
+     "PIDS"
+    ],
+    [
+     "Philippine Institute of Traditional and Alternative Health Care",
+     "PITAHC"
+    ],
+    [
+     "Philippine National Railways",
+     "PNR"
+    ],
+    [
+     "Philippine Postal Corporation",
+     "PHILPOST"
+    ],
+    [
+     "Philippine Rice Research Institute",
+     "PhilRice"
+    ],
+    [
+     "Philippine Tax Academy",
+     "PHILTAX"
+    ],
+    [
+     "Power Sector Assets and Liabilities Management Corporation",
+     "PSALM"
+    ],
+    [
+     "Small Business Corporation",
+     "SBC"
+    ],
+    [
+     "Social Housing Finance Corporation",
+     "SHFC"
+    ],
+    [
+     "Southern Philippines Development Authority",
+     "SPDA"
+    ],
+    [
+     "Subic Bay Metropolitan Authority",
+     "SBMA"
+    ],
+    [
+     "Sugar Regulatory Administration",
+     "SRA"
+    ],
+    [
+     "Tourism Infrastructure and Enterprise Zone Authority",
+     "TIEZA"
+    ],
+    [
+     "Tourism Promotions Board",
+     "TPB"
+    ],
+    [
+     "Zamboanga City Special Economic Zone Authority",
+     "ZCSEZA"
+    ],
+    [
+     "Al-Amanah Islamic Investment Bank of the Philippines",
+     "AL-AMANAH"
+    ],
+    [
+     "APO Production Unit",
+     "APO"
+    ],
+    [
+     "Boy Scouts of the Philippines",
+     "BSP"
+    ],
+    [
+     "Cebu Port Authority",
+     "CPA"
+    ],
+    [
+     "Civil Aviation Authority of the Philippines",
+     "CAAP"
+    ],
+    [
+     "Credit Information Corporation",
+     "CIC"
+    ],
+    [
+     "Davao International Airport Authority",
+     "DIAA"
+    ],
+    [
+     "Development Bank of the Philippines",
+     "DBP"
+    ],
+    [
+     "Duty Free Philippines Corporation",
+     "DFPC"
+    ],
+    [
+     "Employees' Compensation Commission",
+     "ECC"
+    ],
+    [
+     "Government Service Insurance System",
+     "GSIS"
+    ],
+    [
+     "Home Development Mutual Fund",
+     "HDMF"
+    ],
+    [
+     "Mactan-Cebu International Airport Authority",
+     "MCIAA"
+    ],
+    [
+     "Manila International Airport Authority",
+     "MIAA"
+    ],
+    [
+     "Metropolitan Waterworks and Sewerage System",
+     "MWSS"
+    ],
+    [
+     "National Development Company",
+     "NDC"
+    ],
+    [
+     "National Transmission Corporation",
+     "TRANSCO"
+    ],
+    [
+     "Natural Resources Development Corporation",
+     "NRDC"
+    ],
+    [
+     "Nayong Pilipino Foundation",
+     "NPF"
+    ],
+    [
+     "Occupational Safety and Health Center",
+     "OSHC"
+    ],
+    [
+     "Partido Development Administration",
+     "PDA"
+    ],
+    [
+     "People's Credit and Finance Corporation",
+     "PCFC"
+    ],
+    [
+     "Philippine Aerospace Development Corporation",
+     "PADC"
+    ],
+    [
+     "Philippine Amusement and Gaming Corporation",
+     "PAGCOR"
+    ],
+    [
+     "Philippine Charity Sweepstakes Office",
+     "PCSO"
+    ],
+    [
+     "Philippine Deposit Insurance Corporation",
+     "PDIC"
+    ],
+    [
+     "Philippine Economic Zone Authority",
+     "PEZA"
+    ],
+    [
+     "Philippine Guarantee Corporation",
+     "PHILGUARANTEE"
+    ],
+    [
+     "Philippine International Trading Corporation",
+     "PITC"
+    ],
+    [
+     "Philippine National Construction Corporation",
+     "PNCC"
+    ],
+    [
+     "Philippine National Oil Company",
+     "PNOC"
+    ],
+    [
+     "Philippine Ports Authority",
+     "PPA"
+    ],
+    [
+     "Philippine Reclamation Authority",
+     "PRA"
+    ],
+    [
+     "Philippine Retirement Authority",
+     "PRA"
+    ],
+    [
+     "Philippine Sugar Corporation",
+     "PHILSUCOR"
+    ],
+    [
+     "PHIVIDEC Industrial Authority",
+     "PHIVIDEC"
+    ],
+    [
+     "Quedan and Rural Credit Guarantee Corporation",
+     "QUEDANCOR"
+    ],
+    [
+     "Social Security System",
+     "SSS"
+    ],
+    [
+     "Veterans Federation of the Philippines",
+     "VFP"
+    ],
+    [
+     "Government-owned or -controlled corporations with budgetary support",
+     ""
+    ]
+   ]
+  },
+  "BMB-D": {
+   "email": "bmbd@dbm.gov.ph",
+   "agencies": [
+    [
+     "Department of Foreign Affairs",
+     "DFA"
+    ],
+    [
+     "Department of the Interior and Local Government",
+     "DILG"
+    ],
+    [
+     "Department of Justice",
+     "DOJ"
+    ],
+    [
+     "Department of National Defense",
+     "DND"
+    ],
+    [
+     "The Judiciary",
+     "JUD"
+    ],
+    [
+     "Bangsamoro Autonomous Region in Muslim Mindanao",
+     "BARMM"
+    ],
+    [
+     "Office of the Ombudsman",
+     "OMB"
+    ],
+    [
+     "Commission on Human Rights",
+     "CHR"
+    ],
+    [
+     "Commission on Filipinos Overseas",
+     ""
+    ],
+    [
+     "Dangerous Drugs Board",
+     "DDB"
+    ],
+    [
+     "National Intelligence Coordinating Agency",
+     "NICA"
+    ],
+    [
+     "National Security Council",
+     "NSC"
+    ],
+    [
+     "Office of the Presidential Adviser on Peace, Reconciliation and Unity",
+     "OPAPRU"
+    ],
+    [
+     "Philippine Drug Enforcement Agency",
+     "PDEA"
+    ],
+    [
+     "Philippine Commission on Women",
+     ""
+    ]
+   ]
+  },
+  "BMB-E": {
+   "email": "dbmbmb-e@dbm.gov.ph",
+   "agencies": [
+    [
+     "Department of Agriculture",
+     "DA"
+    ],
+    [
+     "Department of Agrarian Reform",
+     "DAR"
+    ],
+    [
+     "Department of Energy",
+     "DOE"
+    ],
+    [
+     "Department of Environment and Natural Resources",
+     "DENR"
+    ],
+    [
+     "Department of Information and Communications Technology",
+     "DICT"
+    ],
+    [
+     "Climate Change Commission",
+     "CCC"
+    ],
+    [
+     "Energy Regulatory Commission",
+     "ERC"
+    ]
+   ]
+  },
+  "BMB-F": {
+   "email": "bmb-f@dbm.gov.ph",
+   "agencies": [
+    [
+     "Department of Education",
+     "DepEd"
+    ],
+    [
+     "Department of Science and Technology",
+     "DOST"
+    ],
+    [
+     "Commission on Higher Education",
+     "CHED"
+    ],
+    [
+     "University of the Philippines System",
+     "UP"
+    ],
+    [
+     "Mindanao State University System",
+     "MSU"
+    ],
+    [
+     "MSU-Iligan Institute of Technology",
+     "MSU-IIT"
+    ],
+    [
+     "MSU-Tawi-Tawi College of Technology and Oceanography",
+     "MSU-TCTO"
+    ]
+   ]
+  },
+  "LGRCB": {
+   "email": "lgrcb@dbm.gov.ph",
+   "agencies": [
+    [
+     "National Tax Allotment",
+     "NTA"
+    ],
+    [
+     "Allocation to Local Government Units",
+     ""
+    ]
+   ]
+  }
+ },
+ "aliases": {
+  "Congress of the Philippines": [
+   "Senate of the Philippines",
+   "House of Representatives",
+   "the Senate",
+   "both Houses of Congress"
+  ],
+  "The Judiciary": [
+   "Supreme Court",
+   "the Judiciary",
+   "lower courts"
+  ],
+  "Department of Economy, Planning, and Development": [
+   "Department of Economy, Planning and Development",
+   "National Economic and Development Authority",
+   "NEDA"
+  ],
+  "Office of the Press Secretary": [
+   "Presidential Communications Office",
+   "Presidential Communications Operations Office"
+  ],
+  "University of the Philippines System": [
+   "University of the Philippines"
+  ],
+  "Mindanao State University System": [
+   "Mindanao State University"
+  ],
+  "Bangsamoro Autonomous Region in Muslim Mindanao": [
+   "Bangsamoro Government",
+   "Bangsamoro Autonomous Region"
+  ],
+  "Allocation to Local Government Units": [
+   "share of local government units",
+   "local government units shall receive",
+   "Internal Revenue Allotment"
+  ],
+  "Mindanao Development Authority": [],
+  "Light Rail Transit Authority": [
+   "Light Rail Transport Authority"
+  ],
+  "Government-owned or -controlled corporations with budgetary support": [
+   "government-owned or -controlled corporation",
+   "government-owned or controlled corporation",
+   "GOCCs"
+  ]
+ }
+}
