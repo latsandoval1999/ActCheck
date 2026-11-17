@@ -12,6 +12,7 @@ Without an API key, every rules-only part works, BILLy answers in search mode, a
 a free route (download the prompt, run it in a Claude chat, paste the reply back to check and save it).
 """
 import json
+import re
 import sys
 from html import escape
 from pathlib import Path
@@ -1024,7 +1025,9 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             st.caption("Titles open the document at its official source, or a copy kept with ActCheck where no stable public link was found. "
                        "Internal DBM papers are not part of this library.")
         else:
-            lib = sorted(bills.values(), key=lambda b: (-int(b.get("congress") or 0), str(b.get("label", ""))))
+            rank = {"House Bill": 0, "Senate Bill": 1, "Substitute bill": 2, "Committee report": 3, "Law": 4}
+            lib = sorted(bills.values(), key=lambda b: (rank.get(doc_type(b), 5), -int(b.get("congress") or 0),
+                                                         -int((re.findall(r"\d+", str(b.get("label", ""))) or ["0"])[0]), str(b.get("label", ""))))
             l1, l2, l3 = st.columns([2.4, 1.2, 1.4])
             lq = l1.text_input("Search document number or title", key="lib_q", placeholder="e.g. HB 6789, water resources")
             types = sorted({doc_type(b) for b in lib})
@@ -1048,7 +1051,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             k1.caption(f"{len(lib):,} documents · page {pg} of {pages:,} · click a title to read it section by section")
             k2.selectbox("Documents per page", [20, 30, 40, 50], key="lib_per")
             heads = ["Document No.", "Title", "Type", "No. of sections", "Text type", "Group"]
-            widths = [1.15, 5.3, 1.0, 0.85, 1.05, 1.55]
+            widths = [1.15, 5.0, 1.25, 0.85, 1.1, 1.55]
             ui.html('<div class="ac-thead" style="grid-template-columns:' + " ".join(f"{w}fr" for w in widths) + '">'
                     + "".join(f"<span>{h}</span>" for h in heads) + "</div>")
             with st.container(key="libgrid"):
@@ -1061,7 +1064,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                         title = title.replace(ch, "\\" + ch)
                     if c[1].button(title, key=f"lt_{b['id']}", type="tertiary"):
                         doc_dialog(b["id"])
-                    c[2].markdown(doc_type(b))
+                    c[2].markdown(f'<div style="font-size:.9rem;word-break:normal;overflow-wrap:normal">{escape(doc_type(b))}</div>', unsafe_allow_html=True)
                     c[3].markdown(f'<div class="ac-billno" style="font-weight:600">{b.get("n_sections") or 0}</div>', unsafe_allow_html=True)
                     c[4].markdown("Scanned (recognized)" if b.get("text_source") == "ocr" else "PDF text")
                     c[5].markdown(f'<div style="font-size:.85rem">{escape(doc_group(b))}</div>', unsafe_allow_html=True)
