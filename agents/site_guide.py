@@ -3,10 +3,16 @@ the other pages). Search mode ranks these entries; AI mode answers from them onl
 import re
 
 GUIDE = [
-    ("What is ActCheck?", "ActCheck is an agentic AI system for Philippine legislative review, made as a student prototype for PP5538 "
-     "(Lee Kuan Yew School of Public Policy). It helps analysts of the DBM Budget Information Legislative and Liaison Service trace a "
-     "bill's history, see what changed and assess its legal and budget implications, so they can prepare comments for legislators. "
-     "It is not an official government website, and every output is an AI-assisted preliminary draft for DBM reviewer validation."),
+    ("What is ActCheck?", "ActCheck is an Agentic AI System for Philippine Legislative Review. It helps government analysts, first of "
+     "all those who prepare the Department of Budget and Management's comments on bills, to trace a bill's history, see what changed "
+     "from related measures, and assess its legal and budget implications, so they can give legislators timely, well-sourced comments. "
+     "Three AI agents do the groundwork: TrAIce traces the bill, CompAIre spots the changes and AppraisAI weighs the impact. The "
+     "analyst checks and approves every step and alone decides the DBM position. Every finding cites the bill or law it comes from, "
+     "and every output is an AI-assisted preliminary draft for reviewer validation. ActCheck is a student prototype for PP5538 "
+     "(Lee Kuan Yew School of Public Policy), not an official government website."),
+    ("What can BILLy do?", "BILLy is ActCheck's guide. On any page it answers questions about the portal: the agents, the data sources, "
+     "the cost estimate, the Library and the Run log. When a bill is open in the Review workspace, BILLy answers questions about that "
+     "bill from its own sections and the agents' findings, and points to the section it used."),
     ("What problem does it address?", "DBM must comment on a large volume of bills. The DBM Citizen's Charter (CY 2026) gives 39 working "
      "days and 20 steps for a position paper. The evidence for each review is scattered across two chamber websites, three Congresses, "
      "refiled and substitute versions, existing laws and budget data, and bills that create agencies often state no cost."),
@@ -73,7 +79,23 @@ def _tok(s):
     return [w[:6] for w in re.findall(r"[a-z]{3,}", s.lower()) if w not in STOP]
 
 
+# questions that mean "what is this site?" (the word ActCheck itself is too common in the guide to rank on)
+ABOUT = re.compile(r"\bwho (made|created|built|developed|owns|runs)\b|\b(what|who)\b.*\b(actcheck|this (site|portal|app|website|tool)|it for|purpose|about)\b|"
+                   r"\b(purpose|overview|introduc|explain actcheck|tell me about)", re.I)
+
+
+def _key(q):
+    return re.sub(r"[^a-z]", "", q.lower())
+
+
 def search(question, k=2):
+    exact = [g for g in GUIDE if _key(g[0]) == _key(question)]          # a quick button or the same question
+    if exact:
+        return exact
+    if re.search(r"\bbilly\b|\bcan you\b|\bwho are you\b|\bwhat do you\b", question, re.I):
+        return [g for g in GUIDE if g[0] == "What can BILLy do?"]
+    if ABOUT.search(question) and not re.search(r"agent|cost|data|source|library|run log|daily|key|limit|bill type", question, re.I):
+        return [g for g in GUIDE if g[0] == "What is ActCheck?"]
     from sklearn.feature_extraction.text import TfidfVectorizer
     docs = [(q + " ") * 2 + a for q, a in GUIDE]
     vec = TfidfVectorizer(analyzer=_tok, sublinear_tf=True)
@@ -99,5 +121,6 @@ def answer(history, question, live):
         return text
     hits = search(question)
     if not hits:
-        return "I'm not sure. Try asking about the agents, the data sources, the cost estimate, the Library or the Run log."
+        return ("I'm not sure about that one. " + GUIDE[0][1].split(". ")[0] + ". Try asking what the three agents do, where the data "
+                "comes from, how the cost is estimated, or what the Library and the Run log show.")
     return "\n\n".join(f"**{q}** {a}" for q, a in hits)
