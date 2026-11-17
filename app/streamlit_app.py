@@ -80,7 +80,7 @@ ui.inject()
 bills, secs = load()
 
 
-@st.cache_data(show_spinner="Loading the bill list...")
+@st.cache_resource(show_spinner="Loading the bill list...", max_entries=1)
 def bill_table(stamp):
     return pd.DataFrame(catalogue.build(stamp))
 

@@ -51,15 +51,18 @@ def law_index():
 def _bill_title_model():
     bi = bill_index()
     texts = (bi["short_title"] + " " + bi["title"]).str.lower().tolist()
-    vec = TfidfVectorizer(stop_words="english", ngram_range=(1, 2), min_df=1, sublinear_tf=True)
+    from pipeline.compare import _HashedTfidf
+    vec = _HashedTfidf(stop_words="english")
     return vec, vec.fit_transform(texts)
 
 
 @lru_cache(maxsize=1)
 def _law_title_model():
     li = law_index()
-    vec = TfidfVectorizer(stop_words="english", ngram_range=(1, 2), min_df=1, sublinear_tf=True)
-    return vec, vec.fit_transform(li["title"].str.lower().tolist())
+    from pipeline.compare import _HashedTfidf
+    texts = li["title"].str.lower().tolist()
+    vec = _HashedTfidf(stop_words="english")
+    return vec, vec.fit_transform(texts)
 
 
 # ---------------- step 1: profile ----------------

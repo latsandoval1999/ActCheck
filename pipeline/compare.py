@@ -10,7 +10,8 @@ from difflib import SequenceMatcher
 from functools import lru_cache
 from pathlib import Path
 
-from sklearn.feature_extraction.text import TfidfVectorizer
+import numpy as np
+from sklearn.feature_extraction.text import HashingVectorizer, TfidfTransformer, TfidfVectorizer  # noqa: F401
 from sklearn.metrics.pairwise import cosine_similarity
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -42,12 +43,79 @@ def load():
     return bills, secs
 
 
+# Memory: the hosting limit is about 1 GB and the corpus grows every day, so the similarity models use hashed
+# features (no vocabulary kept in memory), float32 numbers, and are built once per process.
+HASH_FEATURES = 2 ** 20
+
+
+class _HashedTfidf:
+    """TF-IDF (sublinear tf, smooth idf, l2 norm, as sklearn) on hashed unigrams and bigrams. The idf is learned
+    in a stream, so fitting keeps only one number per feature in memory."""
+
+    def __init__(self, stop_words=None):
+        self.h = HashingVectorizer(ngram_range=(1, 2), n_features=HASH_FEATURES, alternate_sign=False, norm=None,
+                                   stop_words=stop_words, dtype=np.float32)
+        self.idf = None
+
+    def _chunks(self, texts, size):
+        buf = []
+        for t in texts:
+            buf.append(t)
+            if len(buf) == size:
+                yield self.h.transform(buf)
+                buf = []
+        if buf:
+            yield self.h.transform(buf)
+
+    def _weight(self, x):
+        from sklearn.preprocessing import normalize
+        x = x.tocsr().astype(np.float32)
+        np.log(x.data, out=x.data)
+        x.data += 1
+        x = x.multiply(self.idf).tocsr()
+        return normalize(x, copy=False).astype(np.float32)
+
+    def fit(self, texts, size=50):
+        df, n = np.zeros(HASH_FEATURES, dtype=np.int64), 0
+        for x in self._chunks(texts, size):
+            df += np.bincount(x.indices, minlength=HASH_FEATURES)
+            n += x.shape[0]
+        self.idf = (np.log((1 + n) / (1 + df)) + 1).astype(np.float32)
+        return self
+
+    def transform(self, texts):
+        return self.h.transform(texts) if self.idf is None else self._weight(self.h.transform(texts))
+
+    def fit_transform(self, texts, size=20):
+        from scipy.sparse import vstack
+        parts = list(self._chunks(texts, size))
+        self.fit_counts(parts)
+        return vstack([self._weight(p) for p in parts], format="csr")
+
+    def fit_counts(self, parts):
+        df, n = np.zeros(HASH_FEATURES, dtype=np.int64), 0
+        for x in parts:
+            df += np.bincount(x.indices, minlength=HASH_FEATURES)
+            n += x.shape[0]
+        self.idf = (np.log((1 + n) / (1 + df)) + 1).astype(np.float32)
+
+
 @lru_cache(maxsize=1)
 def section_vectorizer():
     """One TF-IDF model fitted on every section in the corpus (global IDF)."""
     _, secs = load()
-    texts = [x["heading"] + " " + x["text"] for v in secs.values() for x in v]
-    return TfidfVectorizer(ngram_range=(1, 2), sublinear_tf=True, min_df=1).fit(texts)
+    return _HashedTfidf().fit(x["heading"] + " " + x["text"] for v in secs.values() for x in v)
+
+
+@lru_cache(maxsize=1)
+def _doc_matrix():
+    """Whole-text TF-IDF of every document, built once: (ids, matrix)."""
+    bills, _ = load()
+    ids = [i for i, b in bills.items() if b.get("kind") != "reference"]
+    m = _HashedTfidf(stop_words="english").fit_transform(bill_text(i) for i in ids)
+    import gc
+    gc.collect()
+    return ids, {i: k for k, i in enumerate(ids)}, m
 
 
 def bill_text(bid):
@@ -58,12 +126,12 @@ def bill_text(bid):
 def related_bills(bid, top=10, include_laws=False):
     """Rank other documents by whole-text similarity to bill `bid`."""
     bills, _ = load()
-    ids = [i for i, b in bills.items() if i != bid and b.get("kind") != "reference" and (include_laws or not b["is_law"])]
-    docs = [bill_text(bid)] + [bill_text(i) for i in ids]
-    vec = TfidfVectorizer(stop_words="english", ngram_range=(1, 2), min_df=1, sublinear_tf=True)
-    m = vec.fit_transform(docs)
-    sims = cosine_similarity(m[0:1], m[1:]).ravel()
-    ranked = sorted(zip(ids, sims), key=lambda x: -x[1])[:top]
+    ids, pos, m = _doc_matrix()
+    if bid not in pos:
+        return []
+    sims = cosine_similarity(m[pos[bid]:pos[bid] + 1], m).ravel()
+    keep = [(i, sims[k]) for k, i in enumerate(ids) if i != bid and (include_laws or not bills[i]["is_law"])]
+    ranked = sorted(keep, key=lambda x: -x[1])[:top]
     return [{"id": i, "label": bills[i]["label"], "congress": bills[i]["congress"], "family": bills[i]["family"],
              "title": bills[i]["title"], "similarity": round(float(s), 3)} for i, s in ranked]
 

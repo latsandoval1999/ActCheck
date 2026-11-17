@@ -77,6 +77,13 @@ def classify(path):
             "chamber": chamber, "congress": congress, "family": family, "kind": "substitute" if substitute else "bill"}
 
 
+# Size limits: the hosted portal has about 1 GB of memory. The FY 2027 General Appropriations Bill (HB 10858,
+# 25 MB of text) alone used a quarter of the corpus, so very long sections and documents are shortened here.
+MAX_SECTION = 40_000
+MAX_DOC = 600_000
+CUT_NOTE = " [... shortened in ActCheck because of its length; see the source PDF for the full text]"
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     ocr_list = set((ROOT / "data" / "ocr_files.txt").read_text().split()) if (ROOT / "data" / "ocr_files.txt").exists() else set()
@@ -99,8 +106,15 @@ def main():
                "facts": facts(parsed["sections"]),
                "laws_cited": laws_cited(raw), "substitutes": substitution_list(raw[:20000], meta["congress"])}
         docs.append(rec)
+        used = 0
         for s in parsed["sections"]:
-            secs.append({"id": f"{meta['id']}:s{s['no']}", "bill": meta["id"], "no": s["no"], "heading": s["heading"], "text": s["text"]})
+            text = s["text"] if len(s["text"]) <= MAX_SECTION else s["text"][:MAX_SECTION] + CUT_NOTE
+            if used + len(text) > MAX_DOC:
+                rec["shortened"] = True
+                break
+            rec["shortened"] = rec.get("shortened") or len(s["text"]) > MAX_SECTION
+            used += len(text)
+            secs.append({"id": f"{meta['id']}:s{s['no']}", "bill": meta["id"], "no": s["no"], "heading": s["heading"], "text": text})
     # Policy references (LEDAC agenda, DBM budget priorities, PSA inflation): curated excerpts of public documents,
     # in the Library so agents can cite them and citations can be checked like any other section.
     for p in sorted((ROOT / "data" / "reference" / "docs").glob("*.json")):
