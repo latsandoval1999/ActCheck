@@ -687,7 +687,9 @@ def case(bid):
         from agents import grading
         gr = traice.grade(bid, t_out, ai_checks if ai_out else None)
         note = grading.note_html(gr, AGENT1)
-        checklist(bid, "t1", CHECK1, heading=None, subs={0: t_out.get("reviewer_checks") or []}, notes={1: note})
+        # /limits: findings sorted into established, contested and cannot establish, for the reviewer to check
+        emap = traice.evidence_map(bid, t_out, ai_checks if ai_out else None, draft, row.get("status", ""))
+        checklist(bid, "t1", CHECK1, heading=None, subs={0: emap + (t_out.get("reviewer_checks") or [])}, notes={1: note})
 
     # Step 2: CompAIre
     from agents import compaire
@@ -727,7 +729,8 @@ def case(bid):
                     st.rerun()
             from agents import grading
             gr2 = compaire.grade(bid, c_out, c_checks if c_ai else None)
-            checklist(bid, "c2", CHECK2, heading=None, subs={0: c_out.get("reviewer_checks") or []},
+            # /attack: CompAIre's self-critique and theory of change, with a check for a flattering critique
+            checklist(bid, "c2", CHECK2, heading=None, subs={0: compaire.critique_points(c_out) + (c_out.get("reviewer_checks") or [])},
                       notes={0: grading.note_html(gr2, AGENT2)})
 
     # Step 3: ApprAIsal

@@ -565,3 +565,79 @@ CHECKLIST = [
     "For checking: Inconsistencies, typographical, and grammatical errors",
     "The TrAIce output above is correct and its details are verified against official sources and records and will be added to the memo.",
 ]
+
+
+# ---------------- /limits: what the evidence establishes, what is contested, what cannot be established ----------------
+def source_tag(doc_id):
+    """How ActCheck holds a related document: full text, scanned text (OCR), or title only."""
+    bills, secs = load()
+    b = bills.get(doc_id)
+    if not b or not secs.get(doc_id):
+        return "Title only"
+    return "Scanned text" if b.get("text_source") == "ocr" else "Full text"
+
+
+def _ref_name(doc_id):
+    return _doc(doc_id) if re.match(r"^(HB|SB)-", doc_id or "") else _doc_name_law(doc_id) if doc_id else ""
+
+
+def _names(items, n=4):
+    items = list(dict.fromkeys(items))
+    return ", ".join(items[:n]) + (f" and {len(items) - n} more" if len(items) > n else "")
+
+
+def _lc(label):
+    return label if re.match(r"(Senate|House)\b", label or "") else (label or "")[:1].lower() + (label or "")[1:]
+
+
+def evidence_map(bid, out, checks=None, draft=None, status=None):
+    """Sorts TrAIce's findings for the reviewer: established (cited text verified in a full text), contested (scanned or
+    title-only sources, failed quotes, or a label that differs from ActCheck's rules), and cannot establish (what the data
+    does not show). Returns checklist lines."""
+    from pipeline import catalogue
+    ok = {c.get("section", "").split(":")[0] for c in checks or [] if c.get("check") == "verified"}
+    bad = {c.get("section", "").split(":")[0] for c in checks or [] if c.get("check") not in (None, "verified")}
+    rule_label = {r.get("id"): r.get("relationship") for r in (draft or {}).get("related", [])}
+    est, con, cant = [], [], []
+    for r in out.get("related", []):
+        i, lab = r.get("id"), r.get("relationship", "")
+        if not i or i == bid or lab in (LABELS[5], LABELS[6]):
+            continue
+        tag = source_tag(i)
+        name = f"{_ref_name(i)} ({_lc(lab)})"
+        if i in bad:
+            con.append(f"{_ref_name(i)} (quote not verified)")
+        elif tag == "Title only":
+            con.append(f"{_ref_name(i)} (title only)")
+        elif tag == "Scanned text":
+            con.append(f"{_ref_name(i)} (scanned text)")
+        elif rule_label.get(i) and rule_label[i] != lab and out.get("source") != "rules":
+            con.append(f"{_ref_name(i)} (labelled {_lc(lab)}; ActCheck's rules say {_lc(rule_label[i])})")
+        elif i in ok or not checks:
+            est.append(name)
+        else:
+            con.append(f"{_ref_name(i)} (no citation checked)")
+    for x in out.get("existing_law_overlaps", []):
+        if x.get("label") == LAW_LABELS[3]:
+            continue
+        sec = (x.get("section") or "").split(":")[0]
+        nm = f"{_ref_name(x.get('law'))} ({(x.get('label') or '').lower()})"
+        (est if sec in ok or not checks else con).append(nm)
+    if status is None:
+        status = (next((r for r in catalogue.build() if r["id"] == bid), {}) or {}).get("status", "")
+    status = str(status or "")
+    if "later stages not in source data" in status or not status:
+        cant.append("the bill's status after filing (committee action is not in the source data)")
+    titles_only = [r.get("id") for r in out.get("related", []) if source_tag(r.get("id")) == "Title only"]
+    if titles_only:
+        cant.append(f"the content of {len(titles_only)} related bill(s) known by title only")
+    if not any(r.get("relationship") in (LABELS[3], "Senate version", "House version") for r in out.get("related", [])):
+        cant.append("a counterpart bill in the other chamber (none found in the data)")
+    pts = []
+    if est:
+        pts.append(f"Established (cited text verified in the full text): {_names(est)}.")
+    if con:
+        pts.append(f"Contested (confirm before relying on it): {_names(con)}.")
+    if cant:
+        pts.append(f"Cannot establish from the data: {'; '.join(cant)}.")
+    return pts

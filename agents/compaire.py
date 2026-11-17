@@ -22,7 +22,7 @@ from agents import traice
 
 ROOT = Path(__file__).resolve().parents[1]
 RUNS = ROOT / "data" / "agent_runs"
-PROMPT_VERSION = "v3"
+PROMPT_VERSION = "v3.1"
 RECS = ["Retain provision", "Adapt alternative", "Adapt alternative with revisions", "Remove provision"]
 DECISION = RECS[1:]
 AREAS = [  # (heading pattern, area name used in the table and in the memo subheading)
@@ -328,6 +328,11 @@ def check_output(out):
             checks.append({**c, "check": "verified" if ok else "quote not found in section"})
         else:
             checks += check_citations([c])
+    areas = {r.get("area") for r in out.get("rows", [])}
+    for x in out.get("self_critique") or []:
+        if x.get("verdict") not in VERDICTS or x.get("area") not in areas:
+            checks.append({"claim": "self-critique", "section": "", "quote": str(x.get("area")),
+                           "check": "self-critique must name a row of the table and use stands, weakened or reversed"})
     for r in out.get("rows", []):
         if r.get("recommendation") not in RECS:
             checks.append({"claim": r.get("section_ref", ""), "section": r.get("target_section", ""), "quote": "",
@@ -341,3 +346,54 @@ def run_agent(bid, t_out=None):
     text, meta = llm.call("compaire", system, user, max_tokens=8000)
     out = json.loads(text[text.find("{"): text.rfind("}") + 1])
     return {"output": out, "checks": check_output(out), "meta": meta}
+
+
+
+# ---------------- /attack: CompAIre argues against its own design ----------------
+VERDICTS = ("stands", "weakened", "reversed")
+
+
+def _words(t):
+    return {w for w in re.findall(r"[a-z]{4,}", str(t or "").lower())}
+
+
+def flattering(out):
+    """Signs of a flattering self-critique: every verdict 'stands', objections that repeat the row's own reason,
+    objections called minor, or rows left unattacked. Returns the reasons found."""
+    crit = out.get("self_critique") or []
+    rows = {r.get("area"): r for r in out.get("rows", [])}
+    why = []
+    if not crit:
+        return why
+    if len(crit) >= 3 and all(x.get("verdict") == "stands" for x in crit):
+        why.append("every objection was judged not to change the recommendation")
+    echo = [x["area"] for x in crit if x.get("area") in rows and _words(x.get("objection")) and
+            len(_words(x.get("objection")) & _words(rows[x["area"]].get("why"))) / len(_words(x.get("objection"))) >= 0.6]
+    if echo:
+        why.append("the objection repeats the recommendation's own reason (" + ", ".join(echo) + ")")
+    if any(re.search(r"\bminor\b|\bnegligible\b|\bonly a small\b", x.get("objection", ""), re.I) for x in crit):
+        why.append("an objection is dismissed as minor")
+    missing = [a for a in rows if a not in {x.get("area") for x in crit}]
+    if missing:
+        why.append("rows not attacked: " + ", ".join(missing))
+    return why
+
+
+def critique_points(out):
+    """Checklist lines: the theory of change, the self-critique per row, and any sign of a flattering critique."""
+    pts = []
+    toc = out.get("theory_of_change") or {}
+    if toc:
+        pts.append("Theory of change: " + "; ".join(f"{k.replace('_', ' ')}: {v.rstrip('.')}" for k, v in
+                                                  (("problem", toc.get("problem")), ("mechanism", toc.get("mechanism")),
+                                                   ("outcome", toc.get("outcome")), ("weakest assumption", toc.get("weakest_assumption"))) if v) + ".")
+    crit = out.get("self_critique") or []
+    if not crit:
+        pts.append("Self-critique: not done for this output (draft prepared by code); test each recommendation against its strongest objection.")
+    for x in crit:
+        pts.append(f"Self-critique ({x.get('area')}): {x.get('objection', '').rstrip('.')}. Verdict: {x.get('verdict')}"
+                   + (f", on condition that {x['condition'][:1].lower() + x['condition'][1:].rstrip('.')}" if x.get("condition") else "") + ".")
+    f = flattering(out)
+    if f:
+        pts.append("Check for a flattering self-critique: " + "; ".join(f) + ".")
+    return pts

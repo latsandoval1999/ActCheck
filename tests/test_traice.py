@@ -46,3 +46,15 @@ def test_grade_rules_capped_and_claude_strong():
     sv = traice.saved_ai("HB-20-2322")
     g2 = traice.grade("HB-20-2322", traice.normalize(sv["output"], "HB-20-2322", d), sv["checks"])
     assert g2["grade"] == "A"
+
+
+def test_evidence_map_sorts_findings():
+    from agents import traice
+    from scripts.traice_batch import _traice_out
+    t = _traice_out("HB-20-9897")
+    s = traice.saved_ai("HB-20-9897")
+    pts = traice.evidence_map("HB-20-9897", t, s["checks"], status="Filed; later stages not in source data")
+    assert pts[0].startswith("Established") and "SB No. 173" in pts[0]
+    assert any(p.startswith("Contested") and "HB No. 1190 (scanned text)" in p for p in pts)
+    assert any(p.startswith("Cannot establish") and "status after filing" in p for p in pts)
+    assert traice.source_tag("HB-20-1190") == "Scanned text" and traice.source_tag("HB-18-195") == "Title only"

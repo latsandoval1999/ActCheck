@@ -135,6 +135,8 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 [class*="st-key-chk_"] label > span + div::after{content:"✕"; color:#fff; font:700 .72rem/1 var(--sans, sans-serif);}
 [class*="st-key-chk_"] label[data-selected="true"] > span + div{background:#2E7D32 !important; border-color:#2E7D32 !important;}
 [class*="st-key-chk_"] label[data-selected="true"] > span + div::after{content:"✓"; font-size:.85rem;}
+.ac-srctag{display:inline-block; font-size:.68rem; font-weight:700; letter-spacing:.02em; padding:.05rem .4rem; border-radius:3px; margin-top:.2rem;}
+.ac-srctag.ok{background:#E3F2E9; color:#1E6B47;} .ac-srctag.warn{background:#F9EEDA; color:#7A5A00;}
 .ac-fold-note{font-size:.8rem; color:var(--ink2); margin:-.2rem 0 0 2.6rem;}
 .ac-welcome{text-align:center;}
 .ac-welcome img{width:150px; height:150px; display:block; margin:0 auto .4rem;}

@@ -24,3 +24,22 @@ def test_saved_run_verified_and_memo_only_decisions():
 def test_bad_recommendation_is_flagged():
     out = {"target": "HB-20-2322", "rows": [{"section_ref": "Section 5", "target_section": "", "recommendation": "Keep it"}]}
     assert any("unknown recommendation" in c["check"] for c in compaire.check_output(out))
+
+
+def test_self_critique_points_and_flattering_flag():
+    from agents import compaire
+    rows = [{"area": a, "why": "A defined scope ties the work to measurable results."} for a in ("Scope", "Funding", "Composition")]
+    honest = {"rows": rows, "self_critique": [
+        {"area": "Scope", "objection": "A fixed list may leave out issues that arise later in the term.", "verdict": "weakened", "condition": "The list is a minimum."},
+        {"area": "Funding", "objection": "An amount in law may be outdated by enactment.", "verdict": "stands", "condition": ""},
+        {"area": "Composition", "objection": "Secretaries as members may weaken independence.", "verdict": "weakened", "condition": "They do not vote."}],
+        "theory_of_change": {"problem": "p", "mechanism": "m", "outcome": "o", "weakest_assumption": "w"}}
+    pts = compaire.critique_points(honest)
+    assert pts[0].startswith("Theory of change") and not compaire.flattering(honest)
+    flat = dict(honest, self_critique=[{"area": r["area"], "objection": "A defined scope ties the work to measurable results.",
+                                        "verdict": "stands", "condition": ""} for r in rows])
+    reasons = compaire.flattering(flat)
+    assert any("every objection" in r for r in reasons) and any("repeats" in r for r in reasons)
+    assert any(p.startswith("Check for a flattering self-critique") for p in compaire.critique_points(flat))
+    bad = dict(honest, self_critique=[{"area": "Scope", "objection": "x", "verdict": "fine"}])
+    assert any("self-critique" in c["check"] for c in compaire.check_output(dict(bad, target="HB-20-2322")))

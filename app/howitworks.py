@@ -116,7 +116,10 @@ def render(a1, a2, a3, workflow):
                    ["States what the bill proposes, its alignment with the FY 2027 Budget Priorities Framework and the LEDAC agenda, and the review priority",
                     "Traces the legislative history and groups related bills by relationship: past Congress, refiled, merged, Senate or House version, alternative, template",
                     "Lists the related laws (amends, overlapping functions, referenced, template) and the bill's fiscal requirements",
-                    "Drafts memo Parts II (Salient Features) and III (Related Measures and Policy Considerations) for the reviewer to edit"],
+                    "Drafts memo Parts II (Salient Features) and III (Related Measures and Policy Considerations) for the reviewer to edit",
+                    "Sorts its findings in the background into established (cited text verified in a full text), contested (scanned or "
+                    "title-only sources, unverified quotes, labels that differ from ActCheck's rules) and what the data cannot establish; "
+                    "the three lists appear under 'For checking', and each related bill shows its source: full text, scanned text or title only"],
                    ["A draft is made by code first (no AI); Claude improves it when available",
                     "Each finding cites a section; ActCheck checks every cited passage against the source text in the background",
                     "A bill not in the corpus is reported as not found, never guessed",
@@ -129,7 +132,10 @@ def render(a1, a2, a3, workflow):
                     "Recommends for each: retain the provision, adapt the alternative (with or without revisions) or remove it, with "
                     "trade-offs and gaps to check",
                     "Drafts memo Part IV (Comments and Recommendations) for the provisions that need a decision; possible duplications and "
-                    "cost effects go to ApprAIsal"],
+                    "cost effects go to ApprAIsal",
+                    "Attacks its own design in the background: the strongest objection to each recommendation, judged stands, weakened or "
+                    "reversed, and a theory of change with its weakest assumption; these appear in the CompAIre checklist, with a flag "
+                    "when the critique looks flattering"],
                    ["A draft is made by code first (no AI); Claude prepares the full analysis when available",
                     "Every compared provision cites both sections; ActCheck checks each cited passage in the background",
                     "Recommendations come from a fixed list of four options; the agent never states the DBM position",

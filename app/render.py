@@ -73,6 +73,13 @@ def _name_title(i, title):
             + (f'<div class="ttl">{escape(short(t, 330))}</div>' if t else '<div class="ttl">Title not available; listing only.</div>'))
 
 
+def _src_tag(doc_id):
+    """Source grade beside a related bill: full text, scanned text or title only."""
+    from agents import traice
+    t = traice.source_tag(doc_id)
+    return f'<div class="ac-srctag {"ok" if t == "Full text" else "warn"}">{escape(t)}</div>'
+
+
 def trace(bid, out, checks=None):
     """Step 1: TrAIce (version 3): policy context, legislative history, related bills and laws, fiscal requirements."""
     from agents import traice
@@ -99,7 +106,7 @@ def trace(bid, out, checks=None):
         rel = sorted(rel, key=lambda r: (order.get(r.get("relationship"), 9), r.get("id", "")))
         ui.html('<div class="ac-sec">Related Bills</div>')
         _grouped([{"g": r.get("relationship") or "Not classified",
-                   "cells": [_name_title(r.get("id"), r.get("title")), escape(short(r.get("basis"), 220))]} for r in rel],
+                   "cells": [_name_title(r.get("id"), r.get("title")) + _src_tag(r.get("id")), escape(short(r.get("basis"), 220))]} for r in rel],
                  "g", ["Relationship", "Bill number and title", "Why"], "relb")
     laws = [x for x in out.get("existing_law_overlaps", []) if x.get("label") != traice.LAW_LABELS[3]]   # content, not format
     if laws:

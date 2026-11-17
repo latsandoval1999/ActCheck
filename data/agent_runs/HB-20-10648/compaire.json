@@ -169,7 +169,51 @@
    "Confirm the number of families of minimum wage earners outside the 4Ps, to size the annual subsidy.",
    "Confirm whether the revenue sources earmarked in Section 12 are already allocated under existing laws.",
    "Check with the DSWD the overlap of the proposed registry with the Listahanan and the 4Ps registry."
-  ]
+  ],
+  "self_critique": [
+   {
+    "area": "Amount of the subsidy",
+    "objection": "An amount fixed in law gives families certainty and protects the benefit from yearly cuts; setting it by guidelines can let it erode.",
+    "verdict": "weakened",
+    "condition": "The law sets a minimum amount or a review period, with the actual amount in guidelines subject to appropriations."
+   },
+   {
+    "area": "Funding source",
+    "objection": "Without earmarked sources the program depends on yearly appropriations and may be underfunded, defeating a regular monthly benefit.",
+    "verdict": "stands",
+    "condition": ""
+   },
+   {
+    "area": "Identification of beneficiaries",
+    "objection": "The DSWD's registries target poor households, not wage earners; payroll and SSS records held by the DOLE identify minimum wage earners better.",
+    "verdict": "weakened",
+    "condition": "The DOLE data feed the DSWD's database as a separate field rather than a new registry."
+   },
+   {
+    "area": "Program placement",
+    "objection": "Folding the program into existing cash transfers may blur its distinct target, employed minimum wage earners outside the 4Ps, and its MSME objective.",
+    "verdict": "weakened",
+    "condition": "It runs as a distinct component with its own targeting, through the DSWD's existing delivery systems."
+   },
+   {
+    "area": "Merchant accreditation",
+    "objection": "Limiting spending to accredited MSMEs may shut out families in areas with few accredited merchants or poor connectivity, and free onboarding shifts costs to the DTI and LGUs.",
+    "verdict": "weakened",
+    "condition": "A fallback, such as the alternative access in Section 8, applies where accredited merchants are few."
+   },
+   {
+    "area": "Oversight",
+    "objection": "A new joint oversight committee adds to Congress's committees when existing ones could oversee the program.",
+    "verdict": "weakened",
+    "condition": "Oversight goes to an existing committee if one already covers social protection programs."
+   }
+  ],
+  "theory_of_change": {
+   "problem": "Minimum wage earner families face a rising cost of living outside cash transfer programs, while local MSMEs face weak demand",
+   "mechanism": "A monthly digital subsidy that can be spent only in accredited local MSMEs",
+   "outcome": "Higher consumption for these families and higher sales for local MSMEs",
+   "weakest_assumption": "That enough local MSMEs are accredited and digitally ready for families to spend the subsidy where they live"
+  }
  },
  "checks": [
   {
@@ -259,8 +303,8 @@
  ],
  "meta": {
   "prepared_by": "Claude (scheduled CompAIre run under the owner's Claude subscription)",
-  "prompt_version": "v3",
+  "prompt_version": "v3.1",
   "grade": "A",
-  "time": "2026-11-17T14:37:41+00:00"
+  "time": "2026-11-17T15:59:41+00:00"
  }
 }

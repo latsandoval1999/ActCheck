@@ -139,7 +139,45 @@
    "Confirm how the OCD's functions and personnel would be divided between the OCD and the Department under Section 81.",
    "Check whether RA No. 9729 should also be named among the laws amended or repealed.",
    "Note that HB Nos. 6371, 4652 and 2384 and SB No. 173 carry largely the same provisions, so few design alternatives are available."
-  ]
+  ],
+  "self_critique": [
+   {
+    "area": "Mandate and coverage of hazards",
+    "objection": "A fixed list of hazards may leave out compound or new hazards that fall between natural and human-induced disasters, such as a typhoon followed by a fire in an evacuation center.",
+    "verdict": "weakened",
+    "condition": "The list is illustrative and paired with a rule on which agency leads when hazards combine."
+   },
+   {
+    "area": "Head of the Department",
+    "objection": "Qualification requirements in law narrow the pool for a cabinet post, while SB No. 173 leaves them as a preference.",
+    "verdict": "stands",
+    "condition": ""
+   },
+   {
+    "area": "Transfer and abolition of offices",
+    "objection": "Splitting functions by type of hazard keeps the OCD and the DND for human-induced disasters, so the reform may create a second response system instead of consolidating one.",
+    "verdict": "weakened",
+    "condition": "The bill delineates the OCD's remaining functions and the transfer of its personnel, as raised in Part VI."
+   },
+   {
+    "area": "Funding",
+    "objection": "Retaining lump-sum contingency funds and continuing appropriations because no related bill differs is not itself a reason; they reduce budget detail and accountability.",
+    "verdict": "weakened",
+    "condition": "The amounts and release rules are set in the annual GAA, as reviewed in ApprAIsal's Part V."
+   },
+   {
+    "area": "Laws amended or repealed",
+    "objection": "A specific list can omit laws: SB No. 173's list does not name RA No. 9729, which created the Climate Change Commission that this bill abolishes.",
+    "verdict": "weakened",
+    "condition": "The list includes RA No. 9729 and a general clause remains for other inconsistent laws."
+   }
+  ],
+  "theory_of_change": {
+   "problem": "Disaster risk reduction, climate adaptation and disaster response are spread across several bodies",
+   "mechanism": "One department absorbs the CCC, the NDRRMC and the natural-disaster functions of the OCD and the DSWD, with regional and local offices and a Disaster Resilience Fund",
+   "outcome": "Faster, coordinated preparedness and response, and fewer losses from natural hazards",
+   "weakest_assumption": "That separating natural from human-induced disasters still leaves a clear line of command in mixed events"
+  }
  },
  "checks": [
   {
@@ -205,8 +243,8 @@
  ],
  "meta": {
   "prepared_by": "Claude (scheduled CompAIre run under the owner's Claude subscription)",
-  "prompt_version": "v3",
+  "prompt_version": "v3.1",
   "grade": "A",
-  "time": "2026-11-17T14:48:17+00:00"
+  "time": "2026-11-17T15:59:40+00:00"
  }
 }
