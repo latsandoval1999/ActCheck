@@ -643,12 +643,9 @@ def case(bid):
         states.append("done" if d else ("now" if prev else ""))
     st.session_state["_rail"] = (b["label"], states)
     report_notice(bid, 0, "this bill as a whole (corrections and other inputs)")
-    st.caption((f"Bill text recognized from a scanned PDF ({b['n_sections']} sections); check quotes against the original."
-                if b["text_source"] == "ocr" else f"Bill text read from the PDF ({b['n_sections']} sections).")
-               + ("" if live else " AI agents are off, so each step shows ActCheck's own draft, prepared by code without AI."))
     if row.get("type") != "Government organization and mandates":
         ui.notice(f"<b>Outside the pilot scope.</b> This bill does not appear to create a new government agency. {AGENT1} and {AGENT2} can review "
-                  f"any bill; {AGENT3}'s cost estimate is designed for new agencies, so it may not apply here.", "navy")
+                  f"any bill; {AGENT3}'s cost estimate is primarily designed for new agencies, so it may not be as precise.", "navy")
 
     # Step 1: TrAIce
     with st.container(border=True, key="step1"):
@@ -818,7 +815,7 @@ def case(bid):
             tm = rec.get("traice_memo") or {"salient": t_out.get("salient_features", ""), "related": t_out.get("related_measures_policy", "")}
             cmemo = rec.get("compaire_memo") or compaire.memo_text(c_out)
             amemo = rec.get("apprAIsal_memo") or appraise.memo_text(a_out)
-            blocks = {blk.split("\n", 1)[0][:4].strip(): blk.split("\n", 1)[1] if "\n" in blk else "" for blk in amemo.split("\n\n") if blk.strip()}
+            blocks = {blk.split()[0]: blk.split("\n", 1)[1] if "\n" in blk else "" for blk in amemo.split("\n\n") if blk.strip()}
             ctx = "\n".join(x for x in (t_out.get("proposal", ""), t_out.get("alignment", "")) if x)
             parts_ = appraise.harmonize(ctx, tm["salient"], tm["related"], cmemo, blocks.get("V.", ""), blocks.get("VI.", ""), blocks.get("VII.", ""))
             mf = docs.memo_prefill(bid, dict(zip(("context", "salient", "related", "comments", "fiscal", "duplication", "recommendation"), parts_)),
@@ -827,6 +824,13 @@ def case(bid):
             store.save(bid, "memo_fields", mf, "Memo compiled from the agents' outputs")
             store.set_status(bid, "memo drafted")
             st.rerun()
+        if str(mf.get("s5", "")).startswith("[Fiscal and budgetary requirements from"):
+            # a memo compiled before Part V reached it: fill Part V only, keeping the reviewer's edits and confirmed recommendation
+            amemo = rec.get("apprAIsal_memo") or appraise.memo_text(a_out)
+            blocks = {blk.split()[0]: blk.split("\n", 1)[1] if "\n" in blk else "" for blk in amemo.split("\n\n") if blk.strip()}
+            if blocks.get("V."):
+                mf = dict(mf, s5=appraise.harmonize(mf.get("s4", ""), blocks["V."])[1])
+                store.save(bid, "memo_fields", mf, "Part V added to the memo from ApprAIsal")
         mt1, mt2 = st.tabs(["Memorandum for the Secretary", "Letter to the committee or principal author"])
         with mt1:
             ui.html("<p><b>VII. Recommendation: confirm</b></p>")
@@ -852,7 +856,7 @@ def case(bid):
             for x in governance_flags(docs.memo_text(mf), "letter"):
                 st.warning(x)
             paper(mf, "memo")
-            st.download_button("Download memo (Word, Tahoma)", docs.memo_docx(mf), file_name=f"Memo_for_the_Secretary_{bid}.docx", type="primary")
+            st.download_button("Download memo (Word)", docs.memo_docx(mf), file_name=f"Memo_for_the_Secretary_{bid}.docx", type="primary")
         with mt2:
             if not docs.position_decided(mf):
                 st.info("Confirm the recommendation in the memorandum first; the letter conveys it.")
@@ -876,7 +880,7 @@ def case(bid):
                 for x in governance_flags(docs.letter_text(lf), "letter"):
                     st.warning(x)
                 paper(lf, "letter")
-                st.download_button("Download letter (Word, Tahoma)", docs.letter_docx(lf), file_name=f"Letter_{bid}.docx", type="primary")
+                st.download_button("Download letter (Word)", docs.letter_docx(lf), file_name=f"Letter_{bid}.docx", type="primary")
     with st.expander("Activity trail"):
         st.dataframe(pd.DataFrame(rec.get("trail", [])), use_container_width=True, hide_index=True)
 
@@ -988,7 +992,9 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                   (f"{last.get('found', 0):,}", "New bills from the daily run",
                    (f"Found on {last['time'][:10]} · {sum(1 for x in inbox if not x.get('backfill')):,} since the daily check began"
                     + (f" · {sum(1 for x in inbox if x.get('backfill')):,} older bills caught up" if any(x.get('backfill') for x in inbox) else "")
-                    if last else "The daily check runs at 9:00 AM Manila time"), "red")], reviewer=REVIEWER)
+                    if last else "The daily check runs at 9:00 AM Manila time"), "red"),
+                  (f"{len([k for k, _ in store.queue_list() if k in bills]):,}", "Bills slated for review",
+                   "In the Review workspace, with the agents' outputs ready for the reviewer", "white")], reviewer=REVIEWER)
 
         ui.section("Bills by type", "What the bills propose",
                    "Bills can be grouped by whom they apply to and by what they propose to do. ActCheck assigns each bill one main type based "
@@ -1073,11 +1079,8 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                         'strategic priority (LEDAC, FY 2027 Budget Priorities Framework), fiscal and organizational weight, likely '
                         'consolidation and public reports. Bills with the same title appear once. Use any filter to see all bills.</div>',
                         unsafe_allow_html=True)
-            r2.button("Show all bills", key="bills_show_all", on_click=lambda: st.session_state.__setitem__("bills_all", True),
+            r2.button("Show all bills", key="bills_show_all", type="primary", on_click=lambda: st.session_state.__setitem__("bills_all", True),
                       use_container_width=True)
-            with st.expander("How the ranking works"):
-                ui.table(["Factor", "Points"], [[escape(a), escape(b)] for a, b in priority.METHOD])
-                st.caption("A starting point for the reviewer's own judgement, computed by rules (no AI). It does not decide which bills DBM comments on.")
         elif sig == ("20th", "All", "All categories", "All statuses", "All", False, False, ""):
             st.button("← Back to the recommended bills", key="bills_show_rec", on_click=lambda: st.session_state.__setitem__("bills_all", False))
         if st.session_state.get("bills_sig") != sig:
@@ -1107,7 +1110,7 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                               + (" · full text" if r["reviewable"] else "")
                               + (f' · <b style="color:#B3261E">LEDAC priority</b>' if r.get("ledac") else "") + "</div>", unsafe_allow_html=True)
                 if recommended and r.get("why"):
-                    c[1].markdown('<div class="ac-why"><b>Why review first:</b> ' + escape("; ".join(r["why"])) + "</div>", unsafe_allow_html=True)
+                    c[1].markdown('<div class="ac-why"><b>Why review first:</b> ' + escape(r["why"]) + "</div>", unsafe_allow_html=True)
                 c[2].markdown(r["bill_type"])
                 c[3].markdown(f'<span class="ac-badge {STATUS_COLOR.get(r["status_group"], "")}">{escape(r["status_group"])}</span>'
                               f'<div class="ac-filed" style="margin-top:.25rem"><b>{escape(r["status_sub"])}</b></div>', unsafe_allow_html=True)

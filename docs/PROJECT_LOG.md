@@ -68,3 +68,7 @@ for the portfolio template is in `docs/VERSION_LOG.md`.
 | Added | Claude runs of all three agents for HB 9897 (Department of Disaster Resilience) and HB 10648 (PAMANA subsidy program); all checks passed | Agent performance on a 100-section department bill and on a program bill |
 | Fixed | Long bills: the section cap now counts only the sections kept, so appropriations and transfer sections late in a bill reach the agents; short bills (25 sections or fewer) are sent whole | |
 | Fixed | ApprAIsal: the new-office estimate is shown only when the bill creates an office or body; bureaus matched by agency acronyms defined in the bill and by transfer-of-functions provisions | |
+| Revised | Bills page: 'Why review first' written as one short sentence; the ranking table removed (the short definition stays); 'Show all bills' as a red button | |
+| Fixed | Memo Part V was left as a placeholder: the ApprAIsal blocks were keyed by the first four characters ('V. F'), so Part V was never found; memos already compiled get Part V filled without losing the reviewer's edits | |
+| Fixed | Step 4 showed 'forbidden phrase: \\bsigned\\b(?!\\s*])' because Part VI cites RA No. 12231 'signed on August 4, 2025'; 'signed on' and 'signed into' are now allowed, and checks are worded for the reviewer | |
+| Revised | Review workspace: bill-text line under the PDF and Full Text buttons removed; outside-pilot notice reworded; download buttons read 'Download memo (Word)' and 'Download letter (Word)'; Overview adds a white card for bills slated for review | |

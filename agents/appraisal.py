@@ -171,12 +171,17 @@ def unsupported_numbers(bid, text):
 
 
 OFFICIAL_NAME = re.compile(r"\b(?:Secretary|Undersecretary|Usec\.|Asec\.|Director)\s+[A-Z][a-z]+\s+[A-Z]", re.M)
-FORBIDDEN = [r"\bapproved\s+by\b", r"\bsigned\b(?!\s*\])", r"\bwe\s+recommend\s+(?:the\s+)?(?:approval|disapproval|passage)\b",
+FORBIDDEN = [r"\bapproved\s+by\b", r"\bsigned\b(?!\s*\])(?!\s+(?:on|into)\b)", r"\bwe\s+recommend\s+(?:the\s+)?(?:approval|disapproval|passage)\b",
              r"\bDBM\s+(?:supports|opposes|interposes no objection)\b"]
+# what each check guards against, in plain words for the reviewer
+FORBIDDEN_NOTE = ["the text says something was 'approved by' someone; drafts must not state approvals",
+                  "the text says something was 'signed' by someone; drafts must not carry signatures",
+                  "the text recommends approval or passage of the bill; the position is set only in Part VII",
+                  "the text states a DBM position outside Part VII"]
 
 
 def governance_flags(text, kind):
-    flags = [f"forbidden phrase: {p}" for p in FORBIDDEN if re.search(p, text, re.I)]
+    flags = [f"Check before sending: {n}." for p, n in zip(FORBIDDEN, FORBIDDEN_NOTE) if re.search(p, text, re.I)]
     if OFFICIAL_NAME.search(text):
         flags.append("possible name of an official: " + OFFICIAL_NAME.search(text).group(0))
     if LABEL.split(".")[0] not in text:

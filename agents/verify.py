@@ -98,7 +98,7 @@ def numbers_supported(output_text, source_texts):
     return missing
 
 
-BANNED = [r"\bapproved by\b", r"\bsigned\b", r"\bsecretary\s+[A-Z][a-z]+", r"\bwe recommend (?:approval|disapproval)\b"]
+BANNED = [r"\bapproved by\b", r"\bsigned\b(?!\s+(?:on|into)\b)", r"\bsecretary\s+[A-Z][a-z]+", r"\bwe recommend (?:approval|disapproval)\b"]
 
 
 def governance_flags(report_text):

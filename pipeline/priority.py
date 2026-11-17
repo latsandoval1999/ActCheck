@@ -37,32 +37,36 @@ def rank(cat, report_counts=None, n=20):
     same = df["title"].map(_norm).map(df["title"].map(_norm).value_counts())
     scores, whys = [], []
     for (_, r), k in zip(df.iterrows(), same):
-        pts, why = 0, []
+        pts = 0
         s = STAGE.get(r["status_sub"], 0)
-        if s:
-            pts += s
-            why.append({4: "at the final stage (" + r["status_sub"].lower() + ")", 3: "on the floor (" + r["status_sub"].lower().replace("in the ", "") + ")",
-                        1: "in the committee"}[s])
+        pts += s
+        stage = {4: "At the final stage", 3: "On the floor", 1: "In the committee"}.get(s, "Newly filed")
+        strat = []
         if r.get("ledac"):
             pts += 3
-            why.append("LEDAC priority")
+            strat.append("a LEDAC priority")
         areas = [a for a, _, rx in BPF_AREAS if re.search(rx, r["title"] or "", re.I)]
         if areas:
             pts += 1
-            why.append("FY 2027 budget priority: " + areas[0].lower())
+            strat.append(("on " if strat else "a FY 2027 budget priority on ") + areas[0].lower())
+        fisc = []
         if r["scope"].startswith("Creates a national agency"):
             pts += 2
-            why.append("creates a national agency")
+            fisc.append("creates a national agency")
         if re.search(r"APPROPRIATING FUNDS", r["title"] or "", re.I):
             pts += 1
-            why.append("appropriates funds")
+            fisc.append("with its own appropriation" if fisc else "appropriates funds")
+        mid = " ".join(strat)
+        fis = " ".join(fisc)
+        why = stage + (", " + mid + (" that " + fis if fis else "") if mid else (" and " + fis if fis else "")) + "."
         if k >= 3:
             pts += 1
-            why.append(f"{k - 1} other bills with the same title (likely consolidation)")
+            why += f" {k - 1} other bills share its title."
         c = min(2, report_counts.get(r["id"], 0))
         if c:
             pts += c
-            why.append(f"{report_counts[r['id']]} public report{'s' if report_counts[r['id']] > 1 else ''}")
+            nrep = report_counts[r["id"]]
+            why += f" {nrep} public report{'s' if nrep > 1 else ''} received."
         scores.append(pts)
         whys.append(why)
     df["priority"], df["why"] = scores, whys
