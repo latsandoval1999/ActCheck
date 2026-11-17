@@ -217,6 +217,9 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-tbl.refs{table-layout:fixed;} .ac-tbl.refs th:nth-child(1){width:40%;} .ac-tbl.refs th:nth-child(2){width:20%;}
 .ac-tbl.refs th:nth-child(3){width:12%;} .ac-tbl.refs th:nth-child(4){width:28%;}
 .ac-tbl.refs a{color:var(--navy); font-weight:600;}
+a.ac-reflink{color:var(--navy) !important; font-weight:600; font-size:.88rem; text-decoration:underline;}
+.ac-refcell{font-size:.88rem; line-height:1.45;}
+.ac-refnote{font-size:.82rem; color:var(--mute); margin:.45rem 0 .2rem; padding:.45rem .7rem; border-left:3px solid var(--gold); background:var(--soft);}
 .ac-tiles{display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:1.1rem; margin:.4rem 0 1rem;}
 .ac-tile{display:flex; gap:.9rem; align-items:flex-start; padding:.2rem 0 .4rem;}
 .ac-tile p{font-size:.88rem; color:var(--ink2); margin:.25rem 0 0; line-height:1.45;}
@@ -226,7 +229,7 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 /* cards, badges, notices */
 .ac-card{background:var(--card); border:1px solid var(--line); border-radius:6px; padding:1rem 1.15rem;}
 .ac-badges{display:flex; gap:.35rem; flex-wrap:wrap; margin:.2rem 0 .45rem;}
-:is(.st-key-billgrid,.st-key-libgrid) .ac-badge{white-space:normal; line-height:1.25;}
+:is(.st-key-billgrid,.st-key-libgrid,.st-key-refgrid) .ac-badge{white-space:normal; line-height:1.25;}
 .ac-badge{display:inline-block; padding:.12rem .55rem; border-radius:3px; font-size:.74rem; font-weight:700; background:#ECE8DE; color:var(--ink2);}
 .ac-badge.navy{background:#E3E9F3; color:var(--navy);} .ac-badge.gold{background:var(--gold-soft); color:#7A5A00;}
 .ac-badge.red{background:var(--red-soft); color:var(--red);} .ac-badge.green{background:var(--green-soft); color:var(--green);}
@@ -245,19 +248,19 @@ div[class*="st-key-repnote_"] button p{font-size:.92rem; text-align:left;}
 /* bill list */
 .ac-thead{display:grid; gap:.6rem; font:800 .7rem var(--sans); letter-spacing:.08em; text-transform:uppercase; color:var(--mute);
   border-bottom:2px solid var(--ink); padding:.5rem .2rem;}
-:is(.st-key-billgrid,.st-key-libgrid) [data-testid="stHorizontalBlock"]{border-bottom:1px solid var(--line2); padding:.55rem 0 .6rem; align-items:center;}
+:is(.st-key-billgrid,.st-key-libgrid,.st-key-refgrid) [data-testid="stHorizontalBlock"]{border-bottom:1px solid var(--line2); padding:.55rem 0 .6rem; align-items:center;}
 /* keep the filing date inside its row, so the dividing line falls below it */
-:is(.st-key-billgrid,.st-key-libgrid) .stMarkdown, :is(.st-key-billgrid,.st-key-libgrid) [data-testid="stMarkdown"], :is(.st-key-billgrid,.st-key-libgrid) [data-testid="stMarkdownContainer"], :is(.st-key-billgrid,.st-key-libgrid) [data-testid="stElementContainer"]{margin-bottom:0 !important;}
-:is(.st-key-billgrid,.st-key-libgrid) [data-testid="stColumn"] [data-testid="stVerticalBlock"]{gap:.25rem;}
-:is(.st-key-billgrid,.st-key-libgrid) .ac-filed{margin-top:0;}
-:is(.st-key-billgrid,.st-key-libgrid) [data-testid="stBaseButton-tertiary"]{text-align:left; justify-content:flex-start; padding:0; min-height:0;
+:is(.st-key-billgrid,.st-key-libgrid,.st-key-refgrid) .stMarkdown, :is(.st-key-billgrid,.st-key-libgrid,.st-key-refgrid) [data-testid="stMarkdown"], :is(.st-key-billgrid,.st-key-libgrid,.st-key-refgrid) [data-testid="stMarkdownContainer"], :is(.st-key-billgrid,.st-key-libgrid,.st-key-refgrid) [data-testid="stElementContainer"]{margin-bottom:0 !important;}
+:is(.st-key-billgrid,.st-key-libgrid,.st-key-refgrid) [data-testid="stColumn"] [data-testid="stVerticalBlock"]{gap:.25rem;}
+:is(.st-key-billgrid,.st-key-libgrid,.st-key-refgrid) .ac-filed{margin-top:0;}
+:is(.st-key-billgrid,.st-key-libgrid,.st-key-refgrid) [data-testid="stBaseButton-tertiary"]{text-align:left; justify-content:flex-start; padding:0; min-height:0;
   color:var(--navy); font-weight:600; line-height:1.35;}
-:is(.st-key-billgrid,.st-key-libgrid) [data-testid="stBaseButton-tertiary"] p{text-align:left; font-size:.88rem; white-space:normal; overflow:visible;
+:is(.st-key-billgrid,.st-key-libgrid,.st-key-refgrid) [data-testid="stBaseButton-tertiary"] p{text-align:left; font-size:.88rem; white-space:normal; overflow:visible;
   text-overflow:clip; display:block;}
-:is(.st-key-billgrid,.st-key-libgrid) [data-testid="stBaseButton-tertiary"] div{white-space:normal; overflow:visible;}
-:is(.st-key-billgrid,.st-key-libgrid) [data-testid="stBaseButton-secondary"]{padding:.25rem .7rem; min-height:0;}
-:is(.st-key-billgrid,.st-key-libgrid) [data-testid="stBaseButton-secondary"] p{font-size:.82rem;}
-:is(.st-key-billgrid,.st-key-libgrid) [data-testid="stBaseButton-tertiary"]:hover p{color:var(--red); text-decoration:underline;}
+:is(.st-key-billgrid,.st-key-libgrid,.st-key-refgrid) [data-testid="stBaseButton-tertiary"] div{white-space:normal; overflow:visible;}
+:is(.st-key-billgrid,.st-key-libgrid,.st-key-refgrid) [data-testid="stBaseButton-secondary"]{padding:.25rem .7rem; min-height:0;}
+:is(.st-key-billgrid,.st-key-libgrid,.st-key-refgrid) [data-testid="stBaseButton-secondary"] p{font-size:.82rem;}
+:is(.st-key-billgrid,.st-key-libgrid,.st-key-refgrid) [data-testid="stBaseButton-tertiary"]:hover p{color:var(--red); text-decoration:underline;}
 .ac-billno{font:700 .9rem var(--mono); color:var(--ink);}
 .ac-fulltext{padding:.2rem .4rem .1rem;}
 .ac-fulltext p{text-align:justify; text-justify:inter-word; line-height:1.7; margin:0 0 .9rem; font-size:.95rem; color:var(--ink);}

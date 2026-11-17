@@ -54,6 +54,8 @@ def paragraphs(path):
 
 
 def section_paragraphs(path, sec_text, next_text=""):
+    if not path or not str(path).endswith(".txt"):
+        return _split(sec_text)                              # e.g. reference briefers kept as structured data
     paras = paragraphs(path)
     key, nkey = _norm(sec_text)[:60], _norm(next_text)[:60]
     start = next((i for i, p in enumerate(paras) if key and key[:40] in _norm(p)), None)

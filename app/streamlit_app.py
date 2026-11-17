@@ -359,7 +359,8 @@ def doc_dialog(bid):
     st.markdown(f"### {escape(str(b.get('label', '')))}" + (f" · {b['congress']}th Congress" if b.get("congress") else ""))
     ui.html(f'<div class="ac-billtitle">{escape(b.get("title") or "")}</div>')
     st.caption(f"{doc_type(b)} · {b.get('n_sections') or 0} sections · "
-               + ("text recognized from a scanned PDF; check quotes against the original" if b.get("text_source") == "ocr" else "text read from the PDF")
+               + ("text kept by ActCheck from the official document" if b.get("kind") == "reference" else
+                  "text recognized from a scanned PDF; check quotes against the original" if b.get("text_source") == "ocr" else "text read from the PDF")
                + f" · group: {doc_group(b)}")
     ss = secs.get(bid, [])
     for i, s_ in enumerate(ss):
@@ -1022,19 +1023,36 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                     st.rerun()
         if view == "refs":
             groups = list(dict.fromkeys(r["Group"] for r in refs))
+            text_of = {"Expenditure Priorities": "REF-BPF2027-EXP", "Macroeconomic and Fiscal": "REF-BPF2027-MACRO",
+                       "Summary Inflation Report": "REF-PSA-CPI-OCT2026", "Common Legislative Agenda": "REF-LEDAC-CLA20"}
+
+            def ref_doc(title):
+                return next((v for k, v in text_of.items() if k in title and v in ref_docs), None)
             for g in groups:
                 ui.html(f"<p style='margin:1rem 0 .2rem'><b>{escape(g)}</b></p>")
-                ui.table(["Title", "Issued by", "Released", "Purpose in ActCheck"],
-                         [[f'<a href="{escape(r["Link"])}" target="_blank">{escape(r["Title"])} ↗</a>', escape(r["Issued by"]),
-                           escape(r["Released"]), escape(r["Purpose in ActCheck"])] for r in refs if r["Group"] == g], cls="refs")
-            if ref_docs:
-                ui.html("<p style='margin:1.2rem 0 .3rem'><b>Text ActCheck reads and cites</b> · the fiscal and policy context documents "
-                        "above are also split into sections, so AppraisAI can quote them like a bill. Click to read.</p>")
-                rc = st.columns(2)
-                for i, (k, d) in enumerate(sorted(ref_docs.items())):
-                    lab = str(d.get("label", k)).replace(" (DBM)", "").replace("2027 Budget Priorities Framework", "2027 BPF")
-                    if rc[i % 2].button(f"📖 Read: {lab}", key=f"refread_{k}", use_container_width=True):
-                        doc_dialog(k)
+                rows_g = [r for r in refs if r["Group"] == g]
+                if not any(ref_doc(r["Title"]) for r in rows_g):
+                    ui.table(["Title", "Issued by", "Released", "Purpose in ActCheck"],
+                             [[f'<a href="{escape(r["Link"])}" target="_blank">{escape(r["Title"])} ↗</a>', escape(r["Issued by"]),
+                               escape(r["Released"]), escape(r["Purpose in ActCheck"])] for r in rows_g], cls="refs")
+                    continue
+                # documents whose text ActCheck reads: same table, with a Read button beside the title
+                widths = [4.0, 2.0, 1.2, 2.8]
+                ui.html('<div class="ac-thead refhead" style="grid-template-columns:' + " ".join(f"{w}fr" for w in widths) + '">'
+                        + "".join(f"<span>{h}</span>" for h in ["Title", "Issued by", "Released", "Purpose in ActCheck"]) + "</div>")
+                with st.container(key="refgrid"):
+                    for r in rows_g:
+                        c = st.columns(widths, vertical_alignment="center")
+                        k = ref_doc(r["Title"])
+                        t1_, t2_ = c[0].columns([3.2, 1], vertical_alignment="center")
+                        t1_.markdown(f'<a class="ac-reflink" href="{escape(r["Link"])}" target="_blank">{escape(r["Title"])} ↗</a>', unsafe_allow_html=True)
+                        if k and t2_.button("📖 Read", key=f"refread_{k}", help="Read the text ActCheck uses, section by section"):
+                            doc_dialog(k)
+                        c[1].markdown(f'<div class="ac-refcell">{escape(r["Issued by"])}</div>', unsafe_allow_html=True)
+                        c[2].markdown(f'<div class="ac-refcell">{escape(r["Released"])}</div>', unsafe_allow_html=True)
+                        c[3].markdown(f'<div class="ac-refcell">{escape(r["Purpose in ActCheck"])}</div>', unsafe_allow_html=True)
+                ui.html("<div class='ac-refnote'><b>Note:</b> 📖 Read opens the text ActCheck keeps of these documents. They are split into "
+                        "sections so AppraisAI can quote them in a review, and each quote is checked against this text, as with bills.</div>")
             st.caption("Titles open the document at its official source, or a copy kept with ActCheck where no stable public link was found. "
                        "Internal DBM papers are not part of this library.")
         else:
