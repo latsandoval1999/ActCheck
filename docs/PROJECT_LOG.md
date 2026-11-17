@@ -86,3 +86,4 @@ for the portfolio template is in `docs/VERSION_LOG.md`.
 - Letter: comments, fiscal, then duplication (memo order IV, V, VI); memo paragraph numbers removed.
 - BILLy FAQ rewritten (79 entries): removed obsolete entries, merged duplicates, added welcome window, recommended bills, status colours, saved progress, checklist points, ApprAIsal team.
 - Bills under review ordered: the bill being reviewed first, then Not yet started, Ongoing, and Memo and letter drafted last.
+- Review progress: large records compressed so they fit in one sheet cell; restore retries if the sheet does not answer.

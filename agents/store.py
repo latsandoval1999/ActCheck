@@ -7,8 +7,10 @@ Sheet (the same Apps Script web app as public reports, as rows with category "Wo
 when the app starts. Agent outputs from live API runs and attached files are not copied (agent outputs prepared by
 Claude are kept in the code repository); everything the reviewer enters is.
 """
+import base64
 import json
 import threading
+import zlib
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -18,7 +20,7 @@ STATUSES = ["new", "in review", "review approved", "memo drafted", "letter draft
 
 
 STATE_CATEGORY = "Workspace: review state"
-NOT_SYNCED = ("research", "compaire", "apprAIsal", "review")   # large outputs of live API runs
+NOT_SYNCED = ("research", "compaire", "apprAIsal", "review", "diagnosis", "redteam")   # large outputs of live API runs
 _SYNC = {"restored": False, "timers": {}, "lock": threading.Lock()}
 DELAY = 6          # seconds: quick successive changes (ticks, edits) go to the sheet as one row
 
@@ -31,6 +33,24 @@ def _last_time(rec):
     return max([t.get("time", "") for t in rec.get("trail") or []] + [rec.get("_synced", "")])
 
 
+LIMIT = 45000      # a Google Sheet cell holds 50,000 characters
+
+
+def pack(rec):
+    """JSON for the sheet cell; long records are compressed ("z:" + base64 zlib) so they fit in one cell."""
+    body = json.dumps(rec, ensure_ascii=False)
+    if len(body) > LIMIT:
+        body = "z:" + base64.b64encode(zlib.compress(body.encode("utf-8"), 9)).decode("ascii")
+    return body
+
+
+def unpack(text):
+    text = (text or "").strip()
+    if text.startswith("z:"):
+        text = zlib.decompress(base64.b64decode(text[2:])).decode("utf-8")
+    return json.loads(text or "{}")
+
+
 def _push_now(bid):
     from agents import reports
     if not reports.remote_on() or not _path(bid).exists():
@@ -38,9 +58,12 @@ def _push_now(bid):
     rec = json.loads(_path(bid).read_text())
     slim = {k: v for k, v in rec.items() if k not in NOT_SYNCED}
     slim["trail"] = (rec.get("trail") or [])[-40:]
-    body = json.dumps(slim, ensure_ascii=False)
-    if len(body) > 45000:                      # a sheet cell holds 50,000 characters; the memo can be rebuilt
-        body = json.dumps({k: v for k, v in slim.items() if k not in ("memo_fields", "letter_fields")}, ensure_ascii=False)
+    body = pack(slim)
+    if len(body) > LIMIT:                      # still too long for one cell: keep everything but the oldest trail entries
+        slim["trail"] = slim["trail"][-10:]
+        body = pack(slim)
+    if len(body) > LIMIT:                      # last resort: the memo and letter can be rebuilt from the agents' outputs
+        body = pack({k: v for k, v in slim.items() if k not in ("memo_fields", "letter_fields")})
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     row = {"id": "state-" + bid + "-" + now.replace(":", "").replace("-", ""), "time": now, "bill": bid, "label": bid,
            "title": "", "category": STATE_CATEGORY, "message": body, "name": "", "email": "", "phone": "", "status": "saved"}
@@ -73,19 +96,23 @@ def restore(force=False):
     from agents import reports
     if not reports.remote_on():
         return 0
-    latest = {}
-    for r in reports._remote_rows(force=True):
+    rows = reports._remote_rows(force=True)
+    if not rows:                               # the sheet did not answer: try again on the next page load
+        _SYNC["restored"] = False
+        return 0
+    latest = {}                                # latest readable row per bill
+    for r in rows:
         if r.get("category") == STATE_CATEGORY and r.get("bill"):
-            if str(r.get("time", "")) >= str(latest.get(r["bill"], {}).get("time", "")):
-                latest[r["bill"]] = r
+            try:
+                rec = unpack(r.get("message"))
+            except Exception:
+                continue
+            if str(r.get("time", "")) >= str(latest.get(r["bill"], ({}, ""))[1]):
+                latest[r["bill"]] = (rec, str(r.get("time", "")))
     n = 0
     DIR.mkdir(parents=True, exist_ok=True)
-    for bid, r in latest.items():
-        try:
-            rec = json.loads(r.get("message") or "{}")
-        except Exception:
-            continue
-        rec["_synced"] = str(r.get("time", ""))
+    for bid, (rec, when) in latest.items():
+        rec["_synced"] = when
         p = _path(bid)
         local = json.loads(p.read_text()) if p.exists() else None
         if local is None or _last_time(local) < rec["_synced"]:

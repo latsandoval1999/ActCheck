@@ -72,3 +72,8 @@ Failure the course asks this agent to catch: drift toward tasks it should not do
 - Memo referral line lowercased the referral reasons ("gaa", "ra no. 8435") and the status sentence read awkwardly. Fixed: bureaus named "for their comments"; status kept as listed.
 - Letter placed Part VI before Part V and kept memo numbering (4.1, 6.1, 5.1). Fixed: order IV, V, VI; numbering removed.
 - Downloaded HB 2322 memo still showed the Part VII placeholder while the letter said "subject to": the memo was downloaded before the recommendation was confirmed. Reviewer step: confirm Part VII, then download both.
+
+## 2026-11-18 — HB 2322 review progress lost on a full app restart
+- What happened: after a redeploy that fully restarted the app, HB 2322 came back as "Not yet started". Its record carried two large old outputs (diagnosis, redteam, about 32,000 characters) that were not excluded from the sheet copy, so the record grew past the 50,000-character limit of one Google Sheet cell and the copy failed silently. Earlier redeploys had only reloaded the code, so the local copy hid the problem. A stale HB 2322 file shipped in the repo was shown instead.
+- Fix: the old outputs are no longer copied; long records are compressed (about 15 times smaller) so they fit in one cell; restore reads the latest readable row and retries if the sheet does not answer; review files are no longer kept in the repo. Test added.
+- Reviewer step: HB 2322's ticks and memo edits must be redone; the downloaded memo and letter (17 Nov) remain as reference.

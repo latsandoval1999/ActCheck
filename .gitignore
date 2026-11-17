@@ -7,3 +7,4 @@ logs/runs.jsonl
 .pytest_cache/
 data/public_reports/
 runs_tmp/
+data/reviews/

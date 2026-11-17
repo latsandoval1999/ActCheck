@@ -28,3 +28,14 @@ def test_review_state_roundtrip(tmp_path, monkeypatch):
     # review-state rows are not public reports
     monkeypatch.setattr(reports, "_local", lambda bill_id=None: [])
     assert reports.all_reports() == []
+
+
+def test_large_record_is_compressed_into_one_cell():
+    from agents import store
+    text = open("data/agent_runs/HB-20-9897/compaire.json", encoding="utf-8").read()
+    rec = {"bill": "HB-20-2322", "memo_fields": {f"s{i}": text[i * 1000:] for i in range(9)},
+           "checklist": {"t1": {"a": {"done": True}}}, "trail": [{"time": "2026-11-17T00:00:00+00:00", "event": "x"}] * 40}
+    body = store.pack(rec)
+    assert body.startswith("z:") and len(body) <= 50000
+    assert store.unpack(body) == rec
+    assert store.unpack('{"bill": "HB-20-4"}') == {"bill": "HB-20-4"}
