@@ -1030,9 +1030,10 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
             if ref_docs:
                 ui.html("<p style='margin:1.2rem 0 .3rem'><b>Text ActCheck reads and cites</b> · the fiscal and policy context documents "
                         "above are also split into sections, so AppraisAI can quote them like a bill. Click to read.</p>")
-                rc = st.columns(len(ref_docs))
+                rc = st.columns(2)
                 for i, (k, d) in enumerate(sorted(ref_docs.items())):
-                    if rc[i].button(str(d.get("label", k)), key=f"refread_{k}", use_container_width=True):
+                    lab = str(d.get("label", k)).replace(" (DBM)", "").replace("2027 Budget Priorities Framework", "2027 BPF")
+                    if rc[i % 2].button(f"📖 Read: {lab}", key=f"refread_{k}", use_container_width=True):
                         doc_dialog(k)
             st.caption("Titles open the document at its official source, or a copy kept with ActCheck where no stable public link was found. "
                        "Internal DBM papers are not part of this library.")
