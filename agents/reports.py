@@ -97,7 +97,11 @@ def sheet_status():
         return "error", f"The Google Sheet is set up but did not answer ({type(e).__name__}); check the web app URL in the Streamlit secrets."
     if not res.get("ok"):
         return "error", "The Google Sheet answered but refused the token; check REPORTS_TOKEN in the Streamlit secrets."
-    return "connected", f"Connected to the Google Sheet: {len(res.get('reports', []))} report(s) stored there; they are kept after restarts."
+    rows = res.get("reports", [])
+    pub = sum(1 for r in rows if not str(r.get("category", "")).startswith("Workspace:"))
+    bills = len({r.get("bill") for r in rows if r.get("category") == "Workspace: review state"})
+    return "connected", (f"Connected to the Google Sheet: {pub} public report(s) and the saved review progress of {bills} bill(s) "
+                         "are stored there; they are kept after restarts.")
 
 
 def storage_label():
