@@ -476,7 +476,8 @@ CHECK2 = ["The reference measure is the right comparison for this bill.",
 def pick_reference(bid, research_out):
     from agents import traice
     order = (traice.LABELS[2], traice.LABELS[3], traice.LABELS[1], traice.LABELS[0], traice.LABELS[4])
-    out = research_out or (traice.saved_ai(bid) or {}).get("output")
+    sv = (traice.saved_ai(bid) or {}).get("output")
+    out = sv if sv and (not research_out or "proposal" not in research_out) else research_out
     if out:
         for lab in order:
             for r in out.get("related", []):
@@ -593,8 +594,9 @@ def case(bid):
             st.rerun()
         draft = c_traice(bid, catalogue.stamp())
         saved = traice.saved_ai(bid)
-        ai_out = research_out or (saved or {}).get("output")
-        ai_checks = (rec.get("research") or {}).get("checks") if research_out else (saved or {}).get("checks")
+        use_saved = bool(saved) and (not research_out or ("proposal" in (saved.get("output") or {}) and "proposal" not in research_out))
+        ai_out = (saved or {}).get("output") if use_saved else research_out
+        ai_checks = (saved or {}).get("checks") if use_saved else (rec.get("research") or {}).get("checks")
         t_out = traice.normalize(ai_out, bid, draft)
         render.trace(bid, t_out, ai_checks if ai_out else None)
 
@@ -719,8 +721,10 @@ def case(bid):
         c1, c2 = st.columns(2)
         if not mf or c1.button("Rebuild the memo from the approved review and comments"):
             from agents import traice as _tr
+            _sv = (_tr.saved_ai(bid) or {}).get("output")
+            _ai = _sv if _sv and (not research_out or "proposal" not in research_out) else research_out
             tm = rec.get("traice_memo") or (lambda o: {"salient": o.get("salient_features", ""), "related": o.get("related_measures_policy", "")})(
-                _tr.normalize(research_out or (_tr.saved_ai(bid) or {}).get("output"), bid, c_traice(bid, catalogue.stamp())))
+                _tr.normalize(_ai, bid, c_traice(bid, catalogue.stamp())))
             mf = docs.memo_prefill(bid, approved, comments, bureau,
                                    "" if str(row.get("status_basis", "")).startswith("Derived") else row.get("status", ""), tm)
             store.save(bid, "memo_fields", mf, "Memo pre-filled")
