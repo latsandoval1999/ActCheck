@@ -81,9 +81,21 @@ def _month(tok):
     return None, False
 
 
-STAMP = re.compile(r"(?<![A-Za-z0-9])([0-9OoQDUlI|i!\]\[JZzSs$Bgq%§&@#?*]{1,2}(?:\s[0-9OoQDlI|Zz%§?])?)\s*[-./,]?\s*"
+STAMP = re.compile(r"(?<![A-Za-z0-9])([0-9OoQDUlI|i!\]\[JZzSs$Bgq%§&@#?*]{1,2}(?:\s[0-9OoQDlI|Zz%§?](?=\s))?)\s*[-./,]?\s*"
                    r"([A-Za-z0-9|!]{2,3})[A-Za-z.]{0,6}\s*[-./,]?\s*"
                    r"([2Z][0-9OoQDlI|Zz%§?]\s?[0-9OoQDlI|Zz%§?]\s?[0-9OoQDlI|Zz%§?S$B&]?)(?![0-9])")
+
+
+FULL = ["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER"]
+LONG = re.compile(r"(" + "|".join(FULL) + r")\s*[.,]?\s*([0-9OoQDlI|Zz%§?]{1,2})\s*[,.]?\s*([2Z][0-9OoQDlI|Zz%§?]{2,3})(?![0-9])", re.I)
+
+
+def _iter(text):
+    """(day, month token, year) triples in 'DD MON YYYY' and 'Month DD, YYYY' order."""
+    for m in STAMP.finditer(text):
+        yield m.group(1), m.group(2), m.group(3), m.group(0)
+    for m in LONG.finditer(text):
+        yield m.group(2), m.group(1)[:3], m.group(3), m.group(0)
 
 
 def candidates(text, congress):
@@ -92,20 +104,24 @@ def candidates(text, congress):
     makes a real date inside the Congress."""
     lo, hi = CONGRESS_DATES.get(congress, (date(2000, 1, 1), date(2100, 1, 1)))
     out = []
-    for m in STAMP.finditer(text):
-        d, (mo, mexact), y = _digits(m.group(1)), _month(m.group(2)), _digits(m.group(3))
+    for g1, g2, g3, raw in _iter(text):
+        d, (mo, mexact), y = _digits(g1), _month(g2), _digits(g3)
         if not (d and mo and y) or len(d) > 2 or not (3 <= len(y) <= 4):
             continue
-        if len(y) == 3:                                     # '20%' or '202': last digit lost
-            y += "?"
         q = 2 if mexact else 1
         years = [y]
-        if "?" in y:
+        if len(y) == 3:                                     # '205' or '20%': one digit lost
+            years = sorted({y[:i] + k + y[i:] for i in range(4) for k in "0123456789"} if "?" not in y else
+                           {y.replace("?", "") [:i] + k + y.replace("?", "")[i:] for i in range(3) for k in "0123456789"})
+            years, q = [v for v in years if "?" not in v and lo.year <= int(v) <= hi.year], 0
+        elif "?" in y:
             years, q = ["".join(p) for p in itertools.product(*[[c] if c != "?" else list("0123456789") for c in y])], 0
         elif not (lo.year <= int(y) <= hi.year):            # one digit of the year misread
             years = [str(v) for v in range(lo.year, hi.year + 1) if sum(a != b for a, b in zip(str(v), y)) == 1]
             q = min(q, 1)
         days = [d]
+        if "?" not in d and len(d) == 2 and int(d) > 31:   # '86' for '06': first digit misread
+            d = "?" + d[1]
         if "?" in d:
             days, q = [d.replace("?", str(k), 1) for k in range(10)] + ([d.replace("?", "")] if len(d) == 2 else []), 0
         for dd, yy in itertools.product(days, years):
@@ -114,7 +130,7 @@ def candidates(text, congress):
             except ValueError:
                 continue
             if lo <= dt <= hi:
-                out.append((dt, q, m.group(0)))
+                out.append((dt, q, raw))
     return out
 
 
