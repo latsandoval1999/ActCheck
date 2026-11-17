@@ -293,9 +293,21 @@ div[class*="st-key-repnote_"] button p{font-size:.92rem; text-align:left;}
 .ac-progress{display:flex; gap:0; margin:.5rem 0 1rem; border:1px solid var(--line); border-radius:4px; overflow:hidden; background:var(--card);}
 .ac-progress div{flex:1; padding:.48rem .4rem; text-align:center; font-size:.78rem; font-weight:700; color:var(--mute); border-right:1px solid var(--line);}
 .ac-progress div:last-child{border-right:none;}
-.ac-dock{position:fixed; bottom:10px; left:50%; transform:translateX(-50%); width:min(820px, calc(100vw - 380px)); z-index:999990;
-  background:var(--card); border:1px solid var(--line); border-radius:8px; box-shadow:0 6px 24px rgba(10,20,40,.18); padding:.35rem .5rem .1rem;}
-.ac-dock .ac-progress{margin:.2rem 0 .3rem;} .ac-dock-l{font:800 .64rem var(--sans); letter-spacing:.08em; text-transform:uppercase; color:var(--mute); padding:0 .2rem;}
+.ac-rail{background:var(--card); border:1px solid var(--line); border-radius:8px; padding:.7rem .8rem .5rem; margin:1.1rem 0 .4rem;}
+.ac-rail-h{font:800 .66rem var(--sans); letter-spacing:.08em; text-transform:uppercase; color:var(--navy);}
+.ac-rail-s{font-size:.74rem; color:var(--mute); margin:.1rem 0 .55rem;}
+.ac-rail ol{list-style:none; margin:0; padding:0;}
+.ac-rail li{display:flex; gap:.6rem; min-height:3.1rem;}
+.ac-rail .mk{position:relative; display:flex; flex-direction:column; align-items:center; width:20px; flex:0 0 20px;}
+.ac-rail .dot{width:16px; height:16px; border-radius:50%; border:2px solid #C9C4B8; background:#fff; margin-top:1px; box-sizing:border-box;}
+.ac-rail li.done .dot{background:var(--navy); border-color:var(--navy);}
+.ac-rail .mk svg{margin-top:-2px;}
+.ac-rail .ln{flex:1; width:2px; background:#D9D4C8; margin:3px 0;}
+.ac-rail li.done .ln{background:var(--navy);}
+.ac-rail .tx{display:flex; flex-direction:column; line-height:1.25; padding-bottom:.5rem;}
+.ac-rail .tx b{font-size:.83rem; color:var(--ink);} .ac-rail .tx span{font-size:.72rem; color:var(--mute);}
+.ac-rail li.todo .tx b{color:var(--mute); font-weight:600;} .ac-rail li.now .tx b{color:var(--navy);}
+[data-testid="stColumn"]:has(.st-key-qside){position:sticky; top:118px; align-self:flex-start; max-height:calc(100vh - 128px); overflow-y:auto;}
 section.main .block-container, [data-testid="stMainBlockContainer"]{padding-bottom:6rem;}
 [class*="st-key-qx_"] button{min-height:0; padding:0 .45rem; line-height:1.4; border:none; background:transparent; color:var(--mute); font-size:.95rem; float:right;}
 [class*="st-key-qx_"] button:hover{color:var(--red); background:#F8E9E6;}
@@ -378,7 +390,7 @@ section.main .block-container, [data-testid="stMainBlockContainer"]{padding-bott
   .ac-flow2{grid-template-columns:1fr; gap:1.6rem;} .ac-fcard:not(:last-child)::after{right:auto; left:50%; top:auto; bottom:-1.45rem; transform:translateX(-50%) rotate(90deg);}
   .ac-bar{grid-template-columns:1fr 70px;} .ac-bar .t{grid-column:1 / -1; grid-row:2;}
   .ac-mast-right{display:none;} .ac-progress{flex-wrap:wrap;} .ac-progress div{flex:1 1 30%;}
-  .ac-dock{width:calc(100vw - 24px); bottom:4px;} .ac-dock .ac-progress div{font-size:.66rem; padding:.3rem .2rem;}
+  [data-testid="stColumn"]:has(.st-key-qside){position:static; max-height:none;}
 }
 </style>
 """
@@ -492,11 +504,24 @@ def progress(names, states):
                                                 for n, s in zip(names, states)) + "</div>")
 
 
-def progress_dock(label, names, states):
-    """The same progress bar, fixed at the bottom of the screen so it stays in view while scrolling."""
+GAVEL = ('<svg viewBox="0 0 24 24" width="19" height="19" aria-label="current step"><g fill="#0E1A33">'
+         '<g transform="rotate(-45 10 9)"><rect x="4" y="5" width="12" height="7" rx="1.4"/>'
+         '<rect x="2.8" y="4.2" width="2.4" height="8.6" rx=".8"/><rect x="14.8" y="4.2" width="2.4" height="8.6" rx=".8"/>'
+         '<rect x="9" y="12" width="2" height="11" rx="1"/></g><rect x="12" y="20.3" width="10" height="2.6" rx="1"/></g></svg>')
+
+
+def progress_rail(label, names, descs, states):
+    """Vertical progress for the left column: navy = done, gavel = the step you are on, white = not yet."""
     n = sum(1 for x in states if x == "done")
-    html(f'<div class="ac-dock"><div class="ac-dock-l">{escape(label)} · {n} of {len(names)} steps done</div><div class="ac-progress">'
-         + "".join(f'<div class="{s_}">{"✓ " if s_ == "done" else ""}{escape(x)}</div>' for x, s_ in zip(names, states)) + "</div></div>")
+    items = ""
+    for k, (name, desc, st_) in enumerate(zip(names, descs, states)):
+        mark = (GAVEL if st_ == "now" else '<span class="dot"></span>')
+        cls = st_ or "todo"
+        line = '<span class="ln"></span>' if k < len(names) - 1 else ""
+        items += (f'<li class="{cls}"><div class="mk">{mark}{line}</div>'
+                  f'<div class="tx"><b>{escape(name)}</b><span>{escape(desc)}</span></div></li>')
+    return (f'<div class="ac-rail"><div class="ac-rail-h">Review progress</div>'
+            f'<div class="ac-rail-s">{escape(label)} · {n} of {len(names)} steps done</div><ol>{items}</ol></div>')
 
 
 def step_header(n, title, sub, state):

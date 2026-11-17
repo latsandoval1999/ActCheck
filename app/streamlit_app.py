@@ -52,6 +52,7 @@ APP_URL = "https://act-check.streamlit.app"      # the hosted portal (links that
 ALL_PAGES = ["Overview", "Bills", "Review workspace", "How it Works", "Library", "Run log"]
 PUBLIC_PAGES = [p for p in ALL_PAGES if p != "Review workspace"]
 STEPS = ["Trace", "Compare", "Weigh", "Comments & report", "Memo & letter"]
+STEP_DESCS = ["TrAIce: trace the bill", "CompAIre: spot the changes", "AppraisAI: weigh the impact", "Edit and export", "DBM format"]
 WORKFLOW = [
     ("Every morning · 9:00 AM", "Daily check", "daily",
      ["Checks the House documents server for new bill numbers", "Catches up older House bills missing from the list",
@@ -575,7 +576,7 @@ def case(bid):
         prev = [True, d1, d2, d3, d3][i]
         states.append("done" if d else ("now" if prev else ""))
     ui.progress(STEPS, states)
-    ui.progress_dock(f"Review progress: {b['label']}", STEPS, states)
+    st.session_state["_rail"] = (b["label"], states)
     report_notice(bid, 0, "this bill as a whole (corrections and other inputs)")
     st.caption((f"Bill text recognized from a scanned PDF ({b['n_sections']} sections); check quotes against the original."
                 if b["text_source"] == "ocr" else f"Bill text read from the PDF ({b['n_sections']} sections).")
@@ -1034,7 +1035,8 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
         if st.session_state.get("bill") not in bills and queue:
             st.session_state["bill"] = queue[0][0]
         left, right = st.columns([1, 3.3])
-        with left:
+        with left, st.container(key="qside"):
+            rail = st.empty()                    # filled after the case renders, when its step states are known
             ui.html('<div class="ac-kicker" style="margin-top:1.2rem">Bills under review</div>')
             if not queue:
                 st.caption("No bills yet. Click Review on the Bills page.")
@@ -1063,7 +1065,11 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                 ui.notice("No bill open. Go to <b>Bills</b> and click <b>Review</b> on any bill.", "navy")
             else:
                 store.queue(bid)
+                st.session_state.pop("_rail", None)
                 case(bid)
+                if st.session_state.get("_rail"):
+                    lab, states = st.session_state["_rail"]
+                    rail.markdown(ui.progress_rail(lab, STEPS, STEP_DESCS, states), unsafe_allow_html=True)
 
     elif page == "Library":
         ui.section("Document library", "What ActCheck reads and relies on",
