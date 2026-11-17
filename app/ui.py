@@ -219,7 +219,16 @@ h1, h2, h3, h4{font-family:var(--serif) !important; color:var(--ink) !important;
 .ac-tbl.refs a{color:var(--navy); font-weight:600;}
 a.ac-reflink{color:var(--navy) !important; font-weight:600; font-size:.88rem; text-decoration:underline;}
 .ac-refcell{font-size:.88rem; line-height:1.45;}
-.st-key-refgrid [data-testid="stHorizontalBlock"] [data-testid="stHorizontalBlock"]{border-bottom:none !important; padding:0 !important;}
+/* Review References rows with a Read button: drawn like the other reference tables (white box, cell lines) */
+.st-key-refgrid{background:var(--card); border:1px solid var(--line2); gap:0 !important; margin:.4rem 0 .3rem;}
+.st-key-refgrid .ac-thead{gap:0; padding:0; border-bottom:2px solid var(--ink);}
+.st-key-refgrid .ac-thead span{padding:.45rem .5rem; font-size:.68rem; letter-spacing:.07em; border-left:1px solid var(--line2);}
+.st-key-refgrid .ac-thead span:first-child{border-left:none;}
+.st-key-refgrid [data-testid="stHorizontalBlock"]{gap:0 !important; padding:0 !important; align-items:stretch !important;}
+.st-key-refgrid [data-testid="stHorizontalBlock"]:last-child{border-bottom:none;}
+.st-key-refgrid [data-testid="stColumn"]{padding:.5rem .5rem; justify-content:center;}
+.st-key-refgrid [data-testid="stColumn"]:nth-child(n+3){border-left:1px solid var(--line2);}
+.st-key-refgrid [data-testid="stColumn"]:nth-child(2){padding-left:0;}
 .ac-refnote{font-size:.82rem; color:var(--mute); margin:.45rem 0 .2rem; padding:.45rem .7rem; border-left:3px solid var(--gold); background:var(--soft);}
 .ac-tiles{display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:1.1rem; margin:.4rem 0 1rem;}
 .ac-tile{display:flex; gap:.9rem; align-items:flex-start; padding:.2rem 0 .4rem;}
