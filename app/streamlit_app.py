@@ -1001,6 +1001,8 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
         import csv as _csv
         refs = list(_csv.DictReader(open(ROOT / "data" / "reference" / "review_references.csv", newline="")))
         view = st.session_state.get("lib_view", "refs")
+        bill_docs = {k: v for k, v in bills.items() if v.get("kind") != "reference"}
+        ref_docs = {k: v for k, v in bills.items() if v.get("kind") == "reference"}
         t1, t2 = st.columns(2)
         with t1:
             with st.container(border=True, key="tile_refs" + ("_on" if view == "refs" else "")):
@@ -1013,8 +1015,8 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
         with t2:
             with st.container(border=True, key="tile_bills" + ("_on" if view == "bills" else "")):
                 ui.html(f'<div class="ac-tile"><span class="ac-aico">{svg("files", 28)}</span><div><div class="ac-fk">Collection 2</div>'
-                        f'<div class="ac-aname">Full Text of Bills</div><p>{len(bills):,} documents read by ActCheck (bills, committee reports, laws '
-                        'and policy excerpts), split into sections for citation and checking.</p></div></div>')
+                        f'<div class="ac-aname">Full Text of Bills</div><p>{len(bill_docs):,} documents read by ActCheck (bills, committee reports '
+                        'and laws), split into sections for citation and checking.</p></div></div>')
                 if st.button("Open Full Text of Bills", key="open_bills", use_container_width=True, type="primary" if view == "bills" else "secondary"):
                     st.session_state["lib_view"] = "bills"
                     st.rerun()
@@ -1025,11 +1027,18 @@ with st.container(key="page_" + page.lower().replace(" ", "_")):
                 ui.table(["Title", "Issued by", "Released", "Purpose in ActCheck"],
                          [[f'<a href="{escape(r["Link"])}" target="_blank">{escape(r["Title"])} ↗</a>', escape(r["Issued by"]),
                            escape(r["Released"]), escape(r["Purpose in ActCheck"])] for r in refs if r["Group"] == g], cls="refs")
+            if ref_docs:
+                ui.html("<p style='margin:1.2rem 0 .3rem'><b>Text ActCheck reads and cites</b> · the fiscal and policy context documents "
+                        "above are also split into sections, so AppraisAI can quote them like a bill. Click to read.</p>")
+                rc = st.columns(len(ref_docs))
+                for i, (k, d) in enumerate(sorted(ref_docs.items())):
+                    if rc[i].button(str(d.get("label", k)), key=f"refread_{k}", use_container_width=True):
+                        doc_dialog(k)
             st.caption("Titles open the document at its official source, or a copy kept with ActCheck where no stable public link was found. "
                        "Internal DBM papers are not part of this library.")
         else:
             rank = {"House Bill": 0, "Senate Bill": 1, "Substitute bill": 2, "Committee report": 3, "Law": 4}
-            lib = sorted(bills.values(), key=lambda b: (rank.get(doc_type(b), 5), -int(b.get("congress") or 0),
+            lib = sorted(bill_docs.values(), key=lambda b: (rank.get(doc_type(b), 5), -int(b.get("congress") or 0),
                                                          -int((re.findall(r"\d+", str(b.get("label", ""))) or ["0"])[0]), str(b.get("label", ""))))
             l1, l2, l3 = st.columns([2.4, 1.2, 1.4])
             lq = l1.text_input("Search document number or title", key="lib_q", placeholder="e.g. HB 6789, water resources")
