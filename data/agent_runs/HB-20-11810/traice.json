@@ -1,0 +1,58 @@
+{
+ "output": {
+  "target": "HB-20-11810",
+  "entity_proposed": "Zamboanga City Maritime Technology and Ocean Research Agency (ZCMTORA)",
+  "proposal": "HB No. 11810 seeks to establish the Zamboanga City Maritime Technology and Ocean Research Agency as a national government agency headquartered in Zamboanga City, to promote and coordinate marine technology development, ocean research, coastal monitoring and maritime innovation.",
+  "alignment": "As a government organization measure, the review should examine how the proposed Agency's research, coastal monitoring, technology development and technical assistance functions (Section 4) fit with those of existing national government agencies, state universities and colleges and research institutions that the Agency is directed to coordinate with (Section 6), and whether creating a new national agency is consistent with the government's intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess whether a national agency defined by its location in one city is the appropriate institutional form, and the basis of the proposed initial fund. No priority area of the FY 2027 Budget Priorities Framework and no item of the LEDAC Common Legislative Agenda has been identified for the measure.",
+  "legislative_history": [
+   "HB No. 11810 was filed on November 9, 2026 by Representative Katrina Reiko Chua - Tai; later stages are not yet on record.",
+   "No measure with closely matching title or text has been identified in the current or earlier Congresses, and no substitute bill or committee report is on record."
+  ],
+  "related": [],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 11810 seeks to establish the Zamboanga City Maritime Technology and Ocean Research Agency as the principal government institution for marine technology development and ocean research. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the Zamboanga City Maritime Technology and Ocean Research Act.\nb. Section 2 (Creation of the Agency) provides for the creation of a national government agency responsible for promoting and coordinating marine technology development, ocean research, coastal monitoring and maritime innovation.\nc. Section 3 (Principal Headquarters) provides that the Agency shall be headquartered in Zamboanga City, with national government support for its research facilities subject to feasibility studies, environmental requirements and available appropriations.\nd. Section 4 (Mandate, Powers, and Functions) provides that the Agency shall conduct oceanographic and marine research, develop marine technologies and ocean observation systems, establish coastal monitoring systems and research laboratories, promote technology transfer and the blue economy, provide technical assistance and support the training of marine science professionals.\ne. Section 5 (Organizational Structure) provides that the Agency shall be headed by a Director-General appointed by the President, with offices, divisions, personnel and facilities as authorized; no salary grade or staffing complement is stated.\nf. Section 6 (Interagency Coordination) provides that the Agency shall coordinate with national government agencies, state universities and colleges, research institutions, LGUs and the private sector while respecting their statutory mandates.\ng. Section 7 (Appropriations) provides for a proposed initial establishment and operating fund of PHP 500,000,000.00, subject to congressional authorization and inclusion in the General Appropriations Act or other lawful funding sources, with subsequent appropriations included in the annual General Appropriations Act.\nh. Section 8 (Implementing Rules and Regulations) provides that the Agency, in coordination with appropriate agencies, shall issue the implementing rules within ninety days from effectivity.",
+  "related_measures_policy": "No related bill or existing law with closely matching content has been identified for HB No. 11810. The review should assess whether the functions under Section 4 (Mandate, Powers, and Functions) duplicate those of existing agencies, state universities and colleges and research institutions engaged in marine science, coastal monitoring and maritime affairs, whether those functions could be performed through existing bodies instead of a new national agency, consistent with the Government Optimization Act (RA No. 12231), and the basis and source of the PHP 500,000,000.00 initial fund under Section 7 (Appropriations).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "PHP 500,000,000.00 proposed as initial establishment and operating fund, subject to congressional authorization and inclusion in the GAA or other lawful funding sources",
+    "section": "Section 7 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Subsequent appropriations included in the annual General Appropriations Act",
+    "section": "Section 7 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Director-General appointed by the President; salary grade not stated",
+    "section": "Section 5 (Organizational Structure)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Offices, divisions, personnel and facilities as may be authorized; staffing not specified",
+    "section": "Section 5 (Organizational Structure)"
+   },
+   {
+    "item": "Facilities",
+    "detail": "Principal research facilities in Zamboanga City, subject to feasibility studies and available appropriations",
+    "section": "Section 3 (Principal Headquarters)"
+   }
+  ],
+  "reviewer_checks": [
+   "Check the typographical error \"Director-(seneral\" in Section 5 (Organizational Structure), which should read Director-General.",
+   "Confirm the attachment of the Agency to a department or its supervising authority, which the bill does not specify.",
+   "Confirm the salary grade of the Director-General and the staffing complement, which are not stated in Section 5 (Organizational Structure).",
+   "Verify the basis for the PHP 500,000,000.00 initial fund and clarify the reference to \"other lawful funding sources\" in Section 7 (Appropriations).",
+   "Confirm whether the Agency's functions overlap with existing bodies on marine science, coastal monitoring and maritime and ocean affairs.",
+   "Confirm the status of the bill and its committee referral with the House of Representatives."
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-18T00:05:27+00:00"
+ }
+}
