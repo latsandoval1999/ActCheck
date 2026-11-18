@@ -1,0 +1,146 @@
+{
+ "output": {
+  "target": "HB-20-11839",
+  "entity_proposed": "Disaster Risk Financing and Insurance Council (DRFIC)",
+  "proposal": "HB No. 11839, the proposed Public Infrastructure Financing and Insurance Act, seeks to institutionalize a multilayered disaster risk financing and insurance strategy for government-owned public infrastructure assets. It creates a Disaster Risk Financing and Insurance Council, a National Public Asset Insurance Consortium led by the GSIS, and a National Disaster Response for Infrastructure Fund managed by the DBM, to ensure timely financing for the repair, reconstruction and rehabilitation of public assets after disasters.",
+  "alignment": "As an emergency response and recovery measure that also creates a new inter-agency council and a new fund, the review should examine the relationship of the proposed National Disaster Response for Infrastructure Fund with the existing National Disaster Risk Reduction and Management Fund, from which Section 9 (National Disaster Response for Infrastructure Fund) transfers infrastructure financing functions, and whether the DRFIC duplicates existing coordination bodies, consistent with streamlining under the Government Optimization Act (RA No. 12231). The review should also assess the fiscal implications of the corporate income tax reduction under Section 10 (Tax Incentive for Members of the Consortium) and the recurring premium subsidies under Section 11 (Appropriations). The measure aligns with the Infrastructure Development and the Environment, Climate, and Disaster Resilience priority areas of the FY 2027 Budget Priorities Framework, and corresponds to item 38 of the LEDAC Common Legislative Agenda (Disaster Risk Financing Insurance).",
+  "legislative_history": [
+   "HB No. 11839 was filed on November 9, 2026 by Representative Iris Marie D. Montes; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "HB No. 10851, filed in the same Congress, bears the same title and short title and contains near-identical provisions, including identical appropriations.",
+   "No earlier-Congress version with matching text was identified; HB No. 10422 (19th Congress), which sought to amend RA No. 10121 and was consolidated with an approved bill, is related by subject only on the basis of its title."
+  ],
+  "related": [
+   {
+    "id": "HB-20-10851",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same chamber and Congress, identical title and short title, and near-identical text in Section 6 (Powers and Functions of the DRFIC) and Section 11 (Appropriations).",
+    "section": "HB-20-10851:s11",
+    "quote": "an initial and minimum fund of Twenty Billion Pesos (Php 20,000,000,000.00) shall be allocated for NDRIF for the first year of its implementation"
+   },
+   {
+    "id": "HB-19-10422",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. The measure sought to amend RA No. 10121, which this bill also amends.",
+    "section": "meta:HB-19-10422",
+    "quote": "AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 10121, OTHERWISE KNOWN AS THE \"PHILIPPINE DISASTER RISK REDUCTION AND MANAGEMENT ACT OF 2010\""
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-10121",
+    "label": "Amends or repeals",
+    "overlap": "Section 17 (Repealing Clause) amends RA No. 10121, and Section 9 (National Disaster Response for Infrastructure Fund) transfers infrastructure financing functions from the National Disaster Risk Reduction Management Fund.",
+    "section": "HB-20-11839:s17",
+    "quote": "Republic Act No. 10121 or the Philippine Disaster Risk Reduction and Management Act of 2010"
+   },
+   {
+    "law": "RA-656",
+    "label": "Amends or repeals",
+    "overlap": "Section 17 (Repealing Clause) amends the Property Insurance Law, as amended by PD No. 245, given the government asset insurance functions under Sections 6 to 8.",
+    "section": "HB-20-11839:s17",
+    "quote": "Republic Act No. 656, as amended by PD No. 245"
+   },
+   {
+    "law": "PD-245",
+    "label": "Amends or repeals",
+    "overlap": "Section 17 (Repealing Clause) covers RA No. 656 as amended by PD No. 245.",
+    "section": "HB-20-11839:s17",
+    "quote": "Republic Act No. 656, as amended by PD No. 245"
+   },
+   {
+    "law": "RA-6957",
+    "label": "Referenced in the bill",
+    "overlap": "Section 4 (Coverage and Scope) extends coverage to public infrastructure assets owned under the Build-Operate-Transfer Law.",
+    "section": "HB-20-11839:s4",
+    "quote": "including those owned under Republic Act No. 6957 or the Build-Operate-Transfer Law, as amended"
+   }
+  ],
+  "salient_features": "HB No. 11839 seeks to institutionalize a disaster risk financing and insurance strategy for public infrastructure assets through a new council, an insurance consortium and a dedicated fund. Its salient features are as follows:\na. Section 4 (Coverage and Scope) provides that the Act covers all government-owned public infrastructure assets, including those under the Build-Operate-Transfer Law, such as buildings, roads, bridges, airports, ports, railways, power and water structures, with financing covering post-disaster repair, reconstruction and rehabilitation.\nb. Section 5 (Disaster Risk Financing and Insurance Council) provides for the creation of the DRFIC, chaired by the Secretary of Finance with the Secretaries of Budget and Management and of Economy, Planning, and Development as Vice Chairpersons, and composed of the heads of the DOST, DICT, DILG, DND, DPWH, GSIS, the Climate Change Commission and the GCG, who may designate representatives not lower than Assistant Secretary.\nc. Section 6 (Powers and Functions of the DRFIC) provides that the DRFIC shall exercise policy-making, coordination and monitoring functions, including developing the DRFI Framework, conducting risk modeling and valuation, managing the insurance of government assets, and approving insurance policies and claim guidelines with the Consortium.\nd. Section 7 (National Public Asset Insurance Consortium) provides for a consortium of all insurance and reinsurance companies offering public asset insurance, led by the GSIS, to provide collective public asset insurance and rapid claims processing.\ne. Section 8 (Functions of the NPAIC) provides that the Consortium shall issue annual public asset insurance policies, ensure collective risk sharing, and evaluate, approve and release insurance claims of the Government.\nf. Section 9 (National Disaster Response for Infrastructure Fund) provides for the creation of the NDRIF, managed by the DBM, to which the infrastructure financing functions of the National Disaster Risk Reduction Management Fund are transferred, with financing requests subject to DRFIC approval.\ng. Section 10 (Tax Incentive for Members of the Consortium) provides for a five percent reduction in the corporate income tax of Consortium members for the first five years, subject to later congressional review.\nh. Section 11 (Appropriations) provides for an initial fund of Php 20 billion for the NDRIF in its first year, with subsequent funding, insurance premiums, and premium subsidies for GOCCs and LGUs to be included in the annual General Appropriations Act.\ni. Section 12 (Congressional Oversight Committee) provides for a joint oversight committee of six members from each chamber.\nj. Section 13 (Annual Report) provides that the DRFIC shall submit an annual progress report to the President and Congress.\nk. Section 14 (Sunset Review) provides that the oversight committee shall conduct a sunset review within five years of effectivity.\nl. Section 15 (Implementing Rules and Regulations) provides that the DRFIC shall issue the implementing rules within ninety days of effectivity.\nm. Section 17 (Repealing Clause) provides that the relevant provisions of RA No. 656, as amended by PD No. 245, and RA No. 10121 are amended accordingly.",
+  "related_measures_policy": "HB No. 11839 may be considered alongside HB No. 10851, which carries the same title and near-identical provisions in the same Congress, and with reference to RA No. 10121, whose National Disaster Risk Reduction and Management Fund would lose its infrastructure financing functions under Section 9 (National Disaster Response for Infrastructure Fund), and RA No. 656, as amended by PD No. 245, which Section 17 (Repealing Clause) amends. The measure aligns with the Infrastructure Development and the Environment, Climate, and Disaster Resilience priorities of the FY 2027 Budget Priorities Framework and with item 38 of the LEDAC Common Legislative Agenda. The review should assess the delineation between the proposed fund and the existing disaster risk reduction and management fund, the potential overlap of the DRFIC with existing coordinating bodies under RA No. 12231, the revenue impact of Section 10 (Tax Incentive for Members of the Consortium), and the recurring premium obligations under Section 11 (Appropriations).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Php 20,000,000,000.00 minimum for the NDRIF in the first year of implementation",
+    "section": "Section 11 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Regular NDRIF appropriations in the annual General Appropriations Act",
+    "section": "Section 11 (Appropriations)"
+   },
+   {
+    "item": "Insurance premiums",
+    "detail": "Premium payments as determined by DRFIC-approved policies, including national government subsidies for GOCC and LGU premiums, in the annual General Appropriations",
+    "section": "Section 11 (Appropriations)"
+   },
+   {
+    "item": "Fund transfer",
+    "detail": "Infrastructure financing functions transferred from the National Disaster Risk Reduction Management Fund to the NDRIF",
+    "section": "Section 9 (National Disaster Response for Infrastructure Fund)"
+   },
+   {
+    "item": "Tax expenditure",
+    "detail": "Five percent reduction of corporate income tax for Consortium members for five years",
+    "section": "Section 10 (Tax Incentive for Members of the Consortium)"
+   },
+   {
+    "item": "Support body",
+    "detail": "DRFIC secretariat and operating requirements not specified; other requirements to be determined by the DBM",
+    "section": "Section 11 (Appropriations)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the status of HB No. 10851 and whether the two bills should be consolidated.",
+   "Section 8 (Functions of the NPAIC), item (e), requires the Consortium to submit data to itself; the intended recipient should be clarified.",
+   "Section 7 (National Public Asset Insurance Consortium) contains an incomplete phrase on whom the Consortium shall aid.",
+   "The NARS referred to in Section 6 (Powers and Functions of the DRFIC) should be defined or confirmed in Section 3 (Definition of Terms).",
+   "Clarify how the transfer of infrastructure financing functions in Section 9 affects the size and use of the existing disaster risk reduction and management fund.",
+   "Verify the citation of RA No. 12019 in the bill and its intended relationship to the measure.",
+   "Typographical errors appear throughout, including in Section 10 (Tax Incentive for Members of the Consortium), where a parenthesis is unclosed."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same chamber and Congress, identical title and short title, and near-identical text in Section 6 (Powers and Functions of the DRFIC) and Section 11 (Appropriations).",
+   "section": "HB-20-10851:s11",
+   "quote": "an initial and minimum fund of Twenty Billion Pesos (Php 20,000,000,000.00) shall be allocated for NDRIF for the first year of its implementation",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The measure sought to amend RA No. 10121, which this bill also amends.",
+   "section": "meta:HB-19-10422",
+   "quote": "AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 10121, OTHERWISE KNOWN AS THE \"PHILIPPINE DISASTER RISK REDUCTION AND MANAGEMENT ACT OF 2010\"",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 17 (Repealing Clause) amends RA No. 10121, and Section 9 (National Disaster Response for Infrastructure Fund) transfers infrastructure financing functions from the National Disaster Risk Reduction Management Fund.",
+   "section": "HB-20-11839:s17",
+   "quote": "Republic Act No. 10121 or the Philippine Disaster Risk Reduction and Management Act of 2010",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 17 (Repealing Clause) amends the Property Insurance Law, as amended by PD No. 245, given the government asset insurance functions under Sections 6 to 8.",
+   "section": "HB-20-11839:s17",
+   "quote": "Republic Act No. 656, as amended by PD No. 245",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 17 (Repealing Clause) covers RA No. 656 as amended by PD No. 245.",
+   "section": "HB-20-11839:s17",
+   "quote": "Republic Act No. 656, as amended by PD No. 245",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 4 (Coverage and Scope) extends coverage to public infrastructure assets owned under the Build-Operate-Transfer Law.",
+   "section": "HB-20-11839:s4",
+   "quote": "including those owned under Republic Act No. 6957 or the Build-Operate-Transfer Law, as amended",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T00:02:48+00:00"
+ }
+}
