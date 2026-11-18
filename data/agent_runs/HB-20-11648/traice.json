@@ -1,0 +1,72 @@
+{
+ "output": {
+  "target": "HB-20-11648",
+  "entity_proposed": "NCR Polytechnic Institute (the Institute)",
+  "proposal": "HB No. 11648 seeks to establish the NCR Polytechnic Institute under the supervision of TESDA National Capital Region by integrating the TESDA NCR Regional Training Center and six District Training Centers into a unified polytechnic system. It aims to strengthen higher-level, industry-responsive technical vocational education and training (TVET) as a driver of competitiveness, innovation and inclusive growth.",
+  "alignment": "As a government organization measure, the review should examine how the Institute, with its own Governing Board, executive management offices and centralized support services, fits within the existing structure of TESDA and its regional office, whether it duplicates the functions of higher education institutions given the degree-articulated programs in Section 6 (Academic Framework and Curricular Offering), and whether the integration of seven training centers into one system is consistent with the rationalization and reduction of overlapping functions under the Government Optimization Act (RA No. 12231). No direct match with the FY 2027 Budget Priorities Framework priority areas was identified, and the measure is not among the measures in the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 11648 was filed on October 8, 2026 by Representative Jude A. Acidre; its status is Filed, and later stages are not available.",
+   "No earlier version, counterpart measure in the Senate, substitute bill or committee report was identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 11648 seeks to establish the NCR Polytechnic Institute, under the supervision of TESDA National Capital Region, as a unified polytechnic system for higher-level technical vocational education and training. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the NCR Polytechnic Institute Act.\nb. Section 2 (Declaration of Policy) provides that the State shall strengthen TVET as a strategic driver of national competitiveness and establish a modern polytechnic system.\nc. Section 3 (Statement of Goals and Objectives) sets goals including the rationalization of TESDA technology institutions into an integrated system, higher-level and Technical Diploma programs, ladderization consistent with the Philippine Qualifications Framework, lifelong learning, industry partnerships, applied research and Regional TVET Innovation Centers.\nd. Section 4 (Establishment) provides that the Institute is established in the NCR under the supervision of TESDA National Capital Region, integrating the TESDA NCR Regional Training Center and six District Training Centers.\ne. Section 5 (Powers and Functions of the Polytechnic Institute) provides that the Institute shall deliver higher-level TVET and Technical Diploma programs, undertake applied research, operate Regional TVET Innovation Centers, enter into partnerships, generate and retain income pursuant to existing laws and establish scholarship programs, and requires TESDA to develop its organizational structure.\nf. Section 6 (Academic Framework and Curricular Offering) provides that the Institute shall be the lead institution for higher-level TVET in its jurisdiction, with programs aligned with the Philippine Qualifications Framework and articulation agreements with higher education institutions for credit transfer toward degree programs, subject to TESDA quality assurance.\ng. Section 7 (Governance and Administration) provides for a One System framework with a Governing Board of representatives from TESDA, DOST, DOLE, DTI, LGUs, industry, employers, workers, educational institutions, civil society and students, which approves development plans, budgets, programs, campuses and organizational structures; the Institute is headed by a President or Executive Director supported by executive, academic, research and finance offices.\nh. Section 8 (Campus Organizational and Staffing Framework) provides that each campus shall be headed by a Campus Director or Chief TESD Specialist with dedicated support personnel, and that TESDA shall propose a staffing structure subject to the review and approval of the Department of Budget and Management, the Civil Service Commission and other relevant authorities.\ni. Section 9 (Assets, Liabilities and Personnel) transfers the assets, personnel, records and liabilities of the integrated training centers to the Institute without impairing the tenure of personnel, and declares their land the property of the Institute, with reversion if no longer needed.\nj. Section 10 (Appropriations) charges the initial cost to TESDA's current appropriations and thereafter to the annual General Appropriations Act, and requires the LGUs concerned to set aside local revenue as fund support.\nk. Section 11 (Implementing Rules and Regulations) requires TESDA, in coordination with DOST, DOLE, DTI, DBM, DILG, the LGUs concerned and other stakeholders, to issue the implementing rules within ninety days from approval.\nl. Section 12 (Institutional Transition) requires TESDA NCR to formulate within one hundred eighty days a Transition Plan covering assets, personnel, organization, academic harmonization, budget integration and campus specialization.\nm. Sections 13 and 14 (Separability Clause and Effectivity) contain the standard final provisions.",
+  "related_measures_policy": "No related bills or existing laws with similar content were identified for HB No. 11648. The review should assess the relationship of the Institute with the existing TESDA regional and training center structure under Section 4 (Establishment) and Section 9 (Assets, Liabilities and Personnel), the overlap with higher education institutions arising from the degree-articulated programs under Section 6 (Academic Framework and Curricular Offering), the creation of new management offices under Section 7 (Governance and Administration), and whether the integration is consistent with the streamlining objectives of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged against TESDA's appropriations for the current year; no amount stated.",
+    "section": "Section 10 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such amount as may be necessary, to be included in the annual General Appropriations Act.",
+    "section": "Section 10 (Appropriations)"
+   },
+   {
+    "item": "Local funding",
+    "detail": "LGUs concerned to set aside an amount from available local revenue, in consultation with TESDA; no amount stated.",
+    "section": "Section 10 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "President or Executive Director heading the Institute; rank and salary grade not stated.",
+    "section": "Section 7 (Governance and Administration)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Executive Office, Academic Affairs Office, Research and Development Office, Finance and Administrative Services Office and other support units, plus centralized support services.",
+    "section": "Section 7 (Governance and Administration)"
+   },
+   {
+    "item": "Members",
+    "detail": "Governing Board of government, LGU, industry, employer, worker, academic, civil society and student representatives; compensation not stated.",
+    "section": "Section 7 (Governance and Administration)"
+   },
+   {
+    "item": "Position",
+    "detail": "Campus Directors or Chief TESD Specialists with campus support personnel; staffing structure subject to DBM and CSC approval.",
+    "section": "Section 8 (Campus Organizational and Staffing Framework)"
+   },
+   {
+    "item": "Transfer",
+    "detail": "Assets, personnel, records, liabilities and land of the integrated training centers transferred to the Institute.",
+    "section": "Section 9 (Assets, Liabilities and Personnel)"
+   }
+  ],
+  "reviewer_checks": [
+   "Check the consistency of the institutions covered: Section 4 (Establishment) refers to the Regional Training Center and six District Training Centers, while Section 9 (Assets, Liabilities and Personnel) refers to D/PTCs, PTCs and TAS.",
+   "Section 5 (Powers and Functions of the Polytechnic Institute) refers to Polytechnic Institutes in the plural for a single Institute, and contains a stray character.",
+   "Section 7 (Governance and Administration) uses an incomplete name for the Department of Labor and Employment and leaves the head's title as either President or Executive Director.",
+   "Confirm the rank, salary grade and appointing authority of the head of the Institute, which are not specified.",
+   "Verify whether the six District Training Centers and the campuses of the Institute should be named in the bill."
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-18T00:06:58+00:00"
+ }
+}
