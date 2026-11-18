@@ -1,0 +1,226 @@
+{
+ "output": {
+  "target": "HB-20-11655",
+  "entity_proposed": "National Nutrition Commission (Commission)",
+  "proposal": "HB No. 11655 seeks to create the National Nutrition Commission, attached to the Office of the President, as the primary policy-making, coordinating, implementing and advisory body on nutrition and food concerns, by reconstituting the National Nutrition Council and repealing PD No. 491. It recognizes nutrition as a basic human right and seeks the integrated implementation of the right to adequate food.",
+  "alignment": "As a government organization measure, the review should examine whether reconstituting the National Nutrition Council as a commission attached to the Office of the President, with a Chairperson and two Commissioners and an Advisory Board of twenty offices and organizations, adds to or reduces overlap with existing bodies, including the Department of Health, to which the Council was transferred, the Department of Social Welfare and Development and the Food and Nutrition Research Institute, and whether this is consistent with the streamlining and reduction of overlapping functions under the Government Optimization Act (RA No. 12231). The review should also consider the requirement for every province, city and municipality to maintain a nutrition office. The measure aligns with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on the Universal Health Care system and better targeting of social protection. It is not among the measures in the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 11655 was filed on October 8, 2026 by Representative S Lani Mercado-Revilla; its status is Filed, and later stages are not available.",
+   "In the 20th Congress, HB No. 2921 (filed August 4, 2025), which bears the same title, and HB No. 4085 (filed August 27, 2025), which proposes to strengthen the National Nutrition Commission, are pending in the Committee; their texts were not reviewed.",
+   "HB No. 10193 of the 20th Congress likewise proposes to establish a National Nutrition Commission and repeal PD No. 491, with a different design.",
+   "In the 19th Congress, HB Nos. 8581 and 7700 bore the same title, and HB Nos. 9816, 7869, 6501, 9123, 8051, 9566 and 7586 proposed to strengthen the National Nutrition Council or Commission; their texts were not reviewed.",
+   "No counterpart measure in the Senate, substitute bill or committee report for HB No. 11655 is recorded."
+  ],
+  "related": [
+   {
+    "id": "HB-20-2921",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title is identical and the bill was filed in the same chamber and Congress.",
+    "section": "meta:HB-20-2921",
+    "quote": "AN ACT CREATING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491"
+   },
+   {
+    "id": "HB-20-10193",
+    "relationship": "Alternative proposal",
+    "basis": "Same subject in the same Congress with a different design, as its Section 5 (Composition of the Commission) gives the Chairperson the rank of Cabinet Secretary and the Commissioners the rank of Undersecretary.",
+    "section": "HB-20-10193:s5",
+    "quote": "The Commission shall be headed by a Chairperson with the rank of Cabinet Secretary and two (2) Commissioners with the rank of Undersecretary."
+   },
+   {
+    "id": "HB-20-4085",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title proposes to strengthen the National Nutrition Commission and repeal PD No. 491.",
+    "section": "meta:HB-20-4085",
+    "quote": "AN ACT STRENGTHENING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491"
+   },
+   {
+    "id": "HB-19-8581",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; a 19th Congress bill with an identical title.",
+    "section": "meta:HB-19-8581",
+    "quote": "AN ACT CREATING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491"
+   },
+   {
+    "id": "HB-19-7700",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; a 19th Congress bill with an identical title.",
+    "section": "meta:HB-19-7700",
+    "quote": "AN ACT CREATING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491"
+   },
+   {
+    "id": "HB-19-9816",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; a 19th Congress bill to strengthen the National Nutrition Commission.",
+    "section": "meta:HB-19-9816",
+    "quote": "AN ACT STRENGTHENING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491"
+   },
+   {
+    "id": "HB-19-8051",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; a 19th Congress bill expanding the Council's powers and functions as a commission.",
+    "section": "meta:HB-19-8051",
+    "quote": "EXPANDING ITS POWERS AND FUNCTIONS AS A COMMISSION, AND FOR OTHER PURPOSES"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "PD-491",
+    "label": "Amends or repeals",
+    "overlap": "The title repeals PD No. 491, and Section 12 (Transitory Provisions) reconstitutes the National Nutrition Council it created as the Commission.",
+    "section": "HB-20-11655:s12",
+    "quote": "The National Nutrition Council (“Council”) is reconstituted as the National Nutrition Commission."
+   },
+   {
+    "law": "EO-472-2005",
+    "label": "Overlapping functions",
+    "overlap": "Section 3 (The National Nutrition Commission) attaches the Commission to the Office of the President, which would supersede the transfer of the Council to the Department of Health.",
+    "section": "law:EO-472-2005",
+    "quote": "TRANSFERRING THE NATIONAL NUTRITION COUNCIL FROM THE DEPARTMENT OF AGRICULTURE TO THE DEPARTMENT OF HEALTH"
+   },
+   {
+    "law": "EO-234-1987",
+    "label": "Overlapping functions",
+    "overlap": "Section 3 (The National Nutrition Commission), Section 7 (Advisory Board) and Section 12 (Transitory Provisions) restructure the Council as reorganized under this order.",
+    "section": "law:EO-234-1987",
+    "quote": "REORGANIZING THE NATIONAL NUTRITION COUNCIL"
+   },
+   {
+    "law": "PD-1569",
+    "label": "Overlapping functions",
+    "overlap": "Section 9 (Nutrition Office) requires provincial, city and municipal nutrition offices, which relate to the local nutrition workforce provided under this decree.",
+    "section": "law:PD-1569",
+    "quote": "STRENGTHENING THE BARANGAY NUTRITION PROGRAM BY PROVIDING FOR A BARANGAY NUTRITION SCHOLAR IN EVERY BARANGAY"
+   }
+  ],
+  "salient_features": "HB No. 11655 seeks to create the National Nutrition Commission, attached to the Office of the President, as the primary policy-making, coordinating, implementing and advisory body on nutrition and food concerns. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the National Nutrition Commission Act.\nb. Section 2 (Declaration of Policy) provides that the State recognizes nutrition as a basic human right and guarantees the right to adequate food, to be implemented in an integrated manner.\nc. Section 3 (The National Nutrition Commission) provides for the creation of the Commission, attached to the Office of the President, as the primary policy-making, coordinating, implementing and advisory body on nutrition and food.\nd. Section 4 (Powers and Functions of the Commission) provides that the Commission shall formulate national food and nutrition policies, monitor and evaluate programs of government and private agencies, recommend legislation, investigate matters on the right to nutrition and adequate food, call on government agencies for assistance, build stakeholder capacity, and coordinate the release of funds, loans and grants, among others.\ne. Section 5 (Composition of the Commission) provides that the Commission shall be composed of a Chairperson and two Commissioners appointed by the President for a term of four years, with one reappointment allowed.\nf. Section 6 (The Chairperson and the Commissioners) sets out their qualifications, requires at least one of them to be a licensed physician, and grants the Chairperson the compensation of a Department Undersecretary and the Commissioners that of Department Assistant Secretaries.\ng. Section 7 (Advisory Board) provides for an Advisory Board of twenty departments, agencies, leagues of local governments and private nutrition organizations, meeting with the Commission at least once a year, whose members receive per diem, reimbursement of expenses and incentives.\nh. Section 8 (Composition of the Secretariat) provides for a secretariat headed by an Executive Director who shall be a career officer, and authorizes the Commission to hire other necessary personnel.\ni. Section 9 (Nutrition Office) requires every province, city and municipality to have a nutrition office, with plantilla positions determined by the Commission and created by local government units in consultation with the Civil Service Commission and the Department of Budget and Management.\nj. Section 10 (Research and Policy Development Support) requires the Food and Nutrition Research Institute of the Department of Science and Technology and other research entities to cooperate with the Commission.\nk. Section 11 (Donations) authorizes the Commission to receive donations, which shall be deductible from the donor's income and exempt from donor's tax under the National Internal Revenue Code.\nl. Section 12 (Transitory Provisions) reconstitutes the National Nutrition Council as the Commission, transfers its personnel, assets, liabilities and functions, and provides that the incumbent Executive Director and Deputy Executive Directors of the Council shall serve as Chairperson and Commissioners until appointments are made.\nm. Section 13 (Appropriations) charges the initial cost, except for Section 9 (Nutrition Office), to the current appropriations of the National Nutrition Council, and thereafter to the annual General Appropriations Act.\nn. Section 14 (Implementing Rules and Regulations) requires the Commission, with the Advisory Board, to issue the implementing rules within sixty days from the appointment of the Chairperson and Commissioners.\no. Sections 15 to 17 (Separability Clause, Repealing Clause and Effectivity) contain the standard final provisions.",
+  "related_measures_policy": "HB No. 11655 may be considered alongside HB No. 2921, which bears the same title, and HB No. 10193 and HB No. 4085 of the 20th Congress, which likewise propose to establish or strengthen a National Nutrition Commission and repeal PD No. 491, as well as similar measures filed in the 19th Congress. The measure aligns with the Human Capital Development priority of the FY 2027 Budget Priorities Framework. The review should assess the repeal of PD No. 491 and the reconstitution of the Council under Section 12 (Transitory Provisions), the change in attachment from the Department of Health under EO No. 472 (2005) to the Office of the President under Section 3 (The National Nutrition Commission), the relationship of Section 9 (Nutrition Office) with the barangay nutrition program under PD No. 1569, and whether the new structure is consistent with the streamlining objectives of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged to the current fiscal year appropriations of the National Nutrition Council, except for Section 9 (Nutrition Office); no amount stated.",
+    "section": "Section 13 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sum as may be necessary, to be included in the annual General Appropriations Act.",
+    "section": "Section 13 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Chairperson with the compensation, benefits and privileges of a Department Undersecretary; salary grade not stated.",
+    "section": "Section 6 (The Chairperson and the Commissioners)"
+   },
+   {
+    "item": "Position",
+    "detail": "Two Commissioners with the compensation, benefits and privileges of Department Assistant Secretaries; salary grade not stated.",
+    "section": "Section 6 (The Chairperson and the Commissioners)"
+   },
+   {
+    "item": "Members",
+    "detail": "Advisory Board of twenty offices and organizations, entitled to per diem, reimbursement of expenses and incentives authorized by the Commission.",
+    "section": "Section 7 (Advisory Board)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Secretariat headed by a career Executive Director, with other personnel as necessary; staffing not specified.",
+    "section": "Section 8 (Composition of the Secretariat)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Provincial, city and municipal nutrition offices with plantilla positions created by local government units; excluded from the national funding charge.",
+    "section": "Section 9 (Nutrition Office)"
+   },
+   {
+    "item": "Transfer",
+    "detail": "Personnel, properties, assets, liabilities and functions of the National Nutrition Council transferred to the Commission.",
+    "section": "Section 12 (Transitory Provisions)"
+   },
+   {
+    "item": "Tax expenditure",
+    "detail": "Donations to the Commission deductible from the donor's income and exempt from donor's tax.",
+    "section": "Section 11 (Donations)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 6 (The Chairperson and the Commissioners): the number in words and the figure for the minimum age differ.",
+   "Confirm that the bill expressly repeals PD No. 491, as the title states, since Section 16 (Repealing Clause) is a general repeal.",
+   "Check the consistency of Section 8 (Composition of the Secretariat), which requires a career Executive Director, with Section 12 (Transitory Provisions), under which the Chairperson appoints the new Executive Director.",
+   "Verify how local nutrition offices under Section 9 (Nutrition Office) will be funded, since Section 13 (Appropriations) excludes them.",
+   "Confirm with the House of Representatives whether HB No. 2921, which bears the same title, is a refiled version of this bill, and the status of HB No. 4085 and HB No. 10193."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed; the title is identical and the bill was filed in the same chamber and Congress.",
+   "section": "meta:HB-20-2921",
+   "quote": "AN ACT CREATING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491",
+   "check": "verified"
+  },
+  {
+   "claim": "Same subject in the same Congress with a different design, as its Section 5 (Composition of the Commission) gives the Chairperson the rank of Cabinet Secretary and the Commissioners the rank of Undersecretary.",
+   "section": "HB-20-10193:s5",
+   "quote": "The Commission shall be headed by a Chairperson with the rank of Cabinet Secretary and two (2) Commissioners with the rank of Undersecretary.",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the title proposes to strengthen the National Nutrition Commission and repeal PD No. 491.",
+   "section": "meta:HB-20-4085",
+   "quote": "AN ACT STRENGTHENING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress bill with an identical title.",
+   "section": "meta:HB-19-8581",
+   "quote": "AN ACT CREATING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress bill with an identical title.",
+   "section": "meta:HB-19-7700",
+   "quote": "AN ACT CREATING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress bill to strengthen the National Nutrition Commission.",
+   "section": "meta:HB-19-9816",
+   "quote": "AN ACT STRENGTHENING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress bill expanding the Council's powers and functions as a commission.",
+   "section": "meta:HB-19-8051",
+   "quote": "EXPANDING ITS POWERS AND FUNCTIONS AS A COMMISSION, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "The title repeals PD No. 491, and Section 12 (Transitory Provisions) reconstitutes the National Nutrition Council it created as the Commission.",
+   "section": "HB-20-11655:s12",
+   "quote": "The National Nutrition Council (“Council”) is reconstituted as the National Nutrition Commission.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 3 (The National Nutrition Commission) attaches the Commission to the Office of the President, which would supersede the transfer of the Council to the Department of Health.",
+   "section": "law:EO-472-2005",
+   "quote": "TRANSFERRING THE NATIONAL NUTRITION COUNCIL FROM THE DEPARTMENT OF AGRICULTURE TO THE DEPARTMENT OF HEALTH",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 3 (The National Nutrition Commission), Section 7 (Advisory Board) and Section 12 (Transitory Provisions) restructure the Council as reorganized under this order.",
+   "section": "law:EO-234-1987",
+   "quote": "REORGANIZING THE NATIONAL NUTRITION COUNCIL",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Nutrition Office) requires provincial, city and municipal nutrition offices, which relate to the local nutrition workforce provided under this decree.",
+   "section": "law:PD-1569",
+   "quote": "STRENGTHENING THE BARANGAY NUTRITION PROGRAM BY PROVIDING FOR A BARANGAY NUTRITION SCHOLAR IN EVERY BARANGAY",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T00:05:19+00:00"
+ }
+}
