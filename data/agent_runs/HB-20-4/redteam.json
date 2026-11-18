@@ -1,0 +1,122 @@
+{
+ "output": {
+  "target": "HB-20-4",
+  "verdict": "revise first",
+  "findings": [
+   {
+    "sub": "Duplication",
+    "part": "VI",
+    "issue": "Paragraph 6.2 states that RA No. 12231 was \"signed on August 4, 2025\"; the signing date is not in the material given and a statement about signature is out of scope, so it should be removed or verified against the source.",
+    "severity": "revise first",
+    "section": "",
+    "quote": ""
+   },
+   {
+    "sub": "Recommendation",
+    "part": "VII",
+    "issue": "Part VI suggests assigning the function to existing DepEd offices instead of creating a new bureau, which goes to the core of Section 11, yet Part VII treats it as a delineation item under \"no objection, subject to\"; the reviewer should check that the option chosen fits the weight of the Part VI issue.",
+    "severity": "check",
+    "section": "",
+    "quote": ""
+   },
+   {
+    "sub": "Costing",
+    "part": "V",
+    "issue": "The full new-office estimate (30 to 150 positions) is applied to the bureau while Part VI says existing DepEd offices already administer the RA No. 8545 programs; the estimate does not consider staff or funds that could be absorbed or transferred from those offices.",
+    "severity": "check",
+    "section": "",
+    "quote": ""
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "The Part V memo does not mention the tax exclusion of the salary subsidy and its foregone revenue; it appears only in the fiscal-table risks and is not carried into Part VII.",
+    "severity": "check",
+    "section": "HB-20-4:s10",
+    "quote": "shall form part of the exclusions from taxable gross income"
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "The requirement to maintain the present allocation from tuition increases is not analysed; it bears on who funds teacher pay (tuition-paying families versus the subsidy) and on whether the subsidy displaces school spending.",
+    "severity": "check",
+    "section": "HB-20-4:s10",
+    "quote": "Provided, furthermore, That the present allocation out of increases from tuition and other income shall be maintained"
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "The fixed 60-day disbursement deadline creates a cash-programming obligation that is not raised, nor is the processing capacity it presupposes.",
+    "severity": "check",
+    "section": "HB-20-4:s10",
+    "quote": "the government shall disburse payment within sixty (60) days after the close of the school year upon submission of complete documents"
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "The collection of teachers' qualification and service records for the subsidy raises data privacy and retention questions that ApprAIsal does not mention.",
+    "severity": "check",
+    "section": "HB-20-4:s10",
+    "quote": "including but not limited to qualification and actual teaching service, to the DepEd"
+   },
+   {
+    "sub": "Lead",
+    "part": "VI",
+    "issue": "The penalty bars a school from all other DepEd programs with no standards for due process or duration, and in effect penalises voucher students and teachers of that school; this rights and distribution issue is listed only in a referral reason and not analysed in the memo.",
+    "severity": "check",
+    "section": "HB-20-4:s14",
+    "quote": "the DepEd may bar, after due process, such school from participating in or benefiting from the programs of this Act, and from other programs of the DepEd"
+   },
+   {
+    "sub": "Referral",
+    "part": "referrals",
+    "issue": "The bill is implemented and funded through the DepEd, yet the budget and management bureau that covers the DepEd is not listed; only the bureaus covering DEPDev and the DBM, which have council roles, are included.",
+    "severity": "check",
+    "section": "HB-20-4:s13",
+    "quote": "shall be charged against the current year’s appropriation of the DepEd"
+   }
+  ]
+ },
+ "checks": [
+  {
+   "claim": "The Part V memo does not mention the tax exclusion of the salary subsidy and its foregone revenue; it appears only in the fiscal-table risks and is not carried into Part VII.",
+   "section": "HB-20-4:s10",
+   "quote": "shall form part of the exclusions from taxable gross income",
+   "check": "verified"
+  },
+  {
+   "claim": "The requirement to maintain the present allocation from tuition increases is not analysed; it bears on who funds teacher pay (tuition-paying families versus the subsidy) and on whether the subsidy displaces school spending.",
+   "section": "HB-20-4:s10",
+   "quote": "Provided, furthermore, That the present allocation out of increases from tuition and other income shall be maintained",
+   "check": "verified"
+  },
+  {
+   "claim": "The fixed 60-day disbursement deadline creates a cash-programming obligation that is not raised, nor is the processing capacity it presupposes.",
+   "section": "HB-20-4:s10",
+   "quote": "the government shall disburse payment within sixty (60) days after the close of the school year upon submission of complete documents",
+   "check": "verified"
+  },
+  {
+   "claim": "The collection of teachers' qualification and service records for the subsidy raises data privacy and retention questions that ApprAIsal does not mention.",
+   "section": "HB-20-4:s10",
+   "quote": "including but not limited to qualification and actual teaching service, to the DepEd",
+   "check": "verified"
+  },
+  {
+   "claim": "The penalty bars a school from all other DepEd programs with no standards for due process or duration, and in effect penalises voucher students and teachers of that school; this rights and distribution issue is listed only in a referral reason and not analysed in the memo.",
+   "section": "HB-20-4:s14",
+   "quote": "the DepEd may bar, after due process, such school from participating in or benefiting from the programs of this Act, and from other programs of the DepEd",
+   "check": "verified"
+  },
+  {
+   "claim": "The bill is implemented and funded through the DepEd, yet the budget and management bureau that covers the DepEd is not listed; only the bureaus covering DEPDev and the DBM, which have council roles, are included.",
+   "section": "HB-20-4:s13",
+   "quote": "shall be charged against the current year’s appropriation of the DepEd",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (Red-teamer run, separate session, under the owner's Claude subscription)",
+  "time": "2026-11-18T00:23:56+00:00"
+ }
+}
