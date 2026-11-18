@@ -1,0 +1,573 @@
+{
+ "output": {
+  "target": "HB-20-11839",
+  "problem": "Frequent typhoons, earthquakes and volcanic eruptions cause significant losses and damage to government-owned public infrastructure. The explanatory note states that existing disaster policy under RA No. 10121 lacks a multi-layered, pre-arranged financial protection system for state-owned physical assets. The bill seeks a coordinated insurance and non-insurance financing strategy so that public assets can be repaired and rebuilt quickly and services can continue.",
+  "problem_quote": "a significant structural gap remains: the absence of a multi-layered, pre-arranged financial protection system for state-owned physical assets.",
+  "rows": [
+   {
+    "area": "Coverage",
+    "section_ref": "Section 4 (Coverage and Scope)",
+    "target_section": "HB-20-11839:s4",
+    "target_quote": "This Act shall apply to all public infrastructure assets owned by the Government, including those owned under Republic Act No. 6957 or the Build-Operate-Transfer Law, as amended.",
+    "comparator": {
+     "id": "HB-20-10763",
+     "section": "HB-20-10763:s13",
+     "quote": "Nothing in this Act shall require the Government to assume, insure, or finance a risk lawfully allocated to a private party under Republic Act No. 11966",
+     "title": "AN ACT INSTITUTIONALIZING A PHILIPPINE DISASTER RISK FINANCING AND INSURANCE FRAMEWORK, STRENGTHENING THE FINANCIAL PROTECTION OF PUBLIC ASSETS, LOCAL GOVERNMENT UNITS, AND VULNERABLE SECTORS, AND FOR OTHER PURPOSES"
+    },
+    "differences": "HB No. 10763 requires public-private partnership agreements on critical public assets to allocate disaster risks, insurance duties and retained risks, and states that the Government need not insure or finance risks lawfully allocated to a private party; this bill extends coverage to Build-Operate-Transfer assets without such a safeguard.",
+    "recommendation": "Adapt alternative with revisions",
+    "why": "Covering Build-Operate-Transfer assets without a risk-allocation safeguard could shift to the Government disaster risks that contracts already assign to private proponents.",
+    "tradeoffs": "The safeguard protects public funds but requires contract review to determine which risks each party bears.",
+    "gap": "Which covered assets are under contracts that already assign insurance obligations to private parties could not be established from the material."
+   },
+   {
+    "area": "Lead body and composition",
+    "section_ref": "Section 5 (Disaster Risk Financing and Insurance Council)",
+    "target_section": "HB-20-11839:s5",
+    "target_quote": "headed by the Secretary of the Department of Finance (DOF) as the Chairperson, and with the Secretary of the Department of Budget and Management (DBM)",
+    "comparator": {
+     "id": "HB-20-10763",
+     "section": "HB-20-10763:s4",
+     "quote": "The Department of Finance (DOF), through the Bureau of the Treasury (BTr), in coordination with the National Disaster Risk Reduction and Management Council (NDRRMC), shall formulate",
+     "title": "AN ACT INSTITUTIONALIZING A PHILIPPINE DISASTER RISK FINANCING AND INSURANCE FRAMEWORK, STRENGTHENING THE FINANCIAL PROTECTION OF PUBLIC ASSETS, LOCAL GOVERNMENT UNITS, AND VULNERABLE SECTORS, AND FOR OTHER PURPOSES"
+    },
+    "differences": "HB No. 10763 assigns the disaster risk financing framework to the DOF through the BTr, in coordination with the NDRRMC and without prejudice to the NDRRMC's functions under RA No. 10121, instead of creating a new ten-agency council.",
+    "recommendation": "Adapt alternative with revisions",
+    "why": "Lodging the framework with the DOF and BTr, with formal coordination with the DBM, DEPDev, GSIS and NDRRMC, achieves the same purpose without adding a new inter-agency body alongside the NDRRMC.",
+    "tradeoffs": "Fewer bodies reduce coordination cost, but a single lead agency may secure less buy-in from the other members named in Section 5.",
+    "gap": "Whether existing coordination bodies already cover disaster risk financing for public assets, for purposes of RA No. 12231 streamlining, must be checked."
+   },
+   {
+    "area": "Powers and functions",
+    "section_ref": "Section 6 (Powers and Functions of the DRFIC)",
+    "target_section": "HB-20-11839:s6",
+    "target_quote": "Manage and ensure the insurance of Government public assets",
+    "comparator": {
+     "id": "HB-20-10763",
+     "section": "HB-20-10763:s7",
+     "quote": "The Government Service Insurance System (GSIS) shall continue to administer the insurance of government properties, assets, and insurable interests in accordance with Republic Act No. 656, as amended",
+     "title": "AN ACT INSTITUTIONALIZING A PHILIPPINE DISASTER RISK FINANCING AND INSURANCE FRAMEWORK, STRENGTHENING THE FINANCIAL PROTECTION OF PUBLIC ASSETS, LOCAL GOVERNMENT UNITS, AND VULNERABLE SECTORS, AND FOR OTHER PURPOSES"
+    },
+    "differences": "HB No. 10763 keeps the administration of government property insurance with the GSIS under RA No. 656 and leaves the asset registry with the BTr, whereas this bill gives the council itself the management of public asset insurance and the data integrity of the NARS.",
+    "recommendation": "Adapt alternative with revisions",
+    "why": "Giving the council operational insurance management and registry functions may duplicate the GSIS mandate under RA No. 656, as amended by PD No. 245, and the BTr's administration of the NARS; the council's role may be confined to policy, standards and monitoring.",
+    "tradeoffs": "A policy-only role avoids overlap but leaves operational accountability with the GSIS and BTr rather than one body.",
+    "gap": "The full list of council functions could not be reviewed because the section text is truncated after item (j)."
+   },
+   {
+    "area": "Insurance consortium",
+    "section_ref": "Section 7 (National Public Asset Insurance Consortium)",
+    "target_section": "HB-20-11839:s7",
+    "target_quote": "composed of ali insurance and reinsurance companies offering public asset insurance and shall be led by the Government Service Insurance System (GSIS)",
+    "comparator": {
+     "id": "HB-20-10763",
+     "section": "HB-20-10763:s7",
+     "quote": "The GSIS may obtain reinsurance and other lawful risk-transfer protection from qualified domestic and foreign counterparties in accordance with Republic Act No. 656, as amended",
+     "title": "AN ACT INSTITUTIONALIZING A PHILIPPINE DISASTER RISK FINANCING AND INSURANCE FRAMEWORK, STRENGTHENING THE FINANCIAL PROTECTION OF PUBLIC ASSETS, LOCAL GOVERNMENT UNITS, AND VULNERABLE SECTORS, AND FOR OTHER PURPOSES"
+    },
+    "differences": "HB No. 10763 has the GSIS strengthen public asset protection through portfolio insurance, reinsurance and risk pooling with qualified counterparties, rather than a statutory consortium of all insurers and reinsurers offering public asset insurance.",
+    "recommendation": "Adapt alternative",
+    "why": "Reinsurance and risk pooling under the GSIS achieve collective risk sharing within the existing RA No. 656 framework without a new statutory consortium whose membership and governance are not defined.",
+    "tradeoffs": "Working through GSIS reinsurance avoids a new structure but may draw less private capacity than a consortium that all insurers join.",
+    "gap": "How membership in the consortium would be determined or made compulsory is not stated in the bill."
+   },
+   {
+    "area": "Claims processing",
+    "section_ref": "Section 8 (Functions of the NPAIC)",
+    "target_section": "HB-20-11839:s8",
+    "target_quote": "Evaluate and approve insurance claims made by the Government in a timely manner",
+    "comparator": {
+     "id": "HB-20-10763",
+     "section": "HB-20-10763:s11",
+     "quote": "Government insurance and risk- transfer arrangements shall prescribe simplified, transparent, and time-bound claims procedures.",
+     "title": "AN ACT INSTITUTIONALIZING A PHILIPPINE DISASTER RISK FINANCING AND INSURANCE FRAMEWORK, STRENGTHENING THE FINANCIAL PROTECTION OF PUBLIC ASSETS, LOCAL GOVERNMENT UNITS, AND VULNERABLE SECTORS, AND FOR OTHER PURPOSES"
+    },
+    "differences": "HB No. 10763 sets claims standards such as a definitive list of documents, provisional payment of undisputed amounts, written reasons for denial and a review mechanism, while this bill only requires the consortium to approve claims in a timely manner and to submit claims data to itself.",
+    "recommendation": "Adapt alternative with revisions",
+    "why": "Specific, time-bound claims standards give agencies an enforceable basis for prompt payment; the item requiring the consortium to submit data to itself may be corrected to name the receiving body.",
+    "tradeoffs": "Detailed standards speed payouts but limit insurers' discretion and may affect premium pricing.",
+    "gap": "The intended recipient of claims data under item (e) could not be established from the material."
+   },
+   {
+    "area": "Fund and attachment",
+    "section_ref": "Section 9 (National Disaster Response for Infrastructure Fund)",
+    "target_section": "HB-20-11839:s9",
+    "target_quote": "The existing financing functions for infrastructure for repair, reconstruction, rehabilitation, or disaster mitigation under the National Disaster Risk Reduction Management Fund is hereby transferred",
+    "comparator": {
+     "id": "HB-20-10763",
+     "section": "HB-20-10763:s14",
+     "quote": "Such recoveries shall supplement and shall not supplant funds otherwise available under Republic Act No. 10121, Republic Act No. 12287, and the annual General Appropriations Act.",
+     "title": "AN ACT INSTITUTIONALIZING A PHILIPPINE DISASTER RISK FINANCING AND INSURANCE FRAMEWORK, STRENGTHENING THE FINANCIAL PROTECTION OF PUBLIC ASSETS, LOCAL GOVERNMENT UNITS, AND VULNERABLE SECTORS, AND FOR OTHER PURPOSES"
+    },
+    "differences": "HB No. 10763 keeps the NDRRMF under RA No. 10121 as part of risk retention and requires insurance recoveries to supplement it, whereas this bill carves out a separate DBM-managed fund whose releases also need council approval.",
+    "recommendation": "Adapt alternative with revisions",
+    "why": "Splitting infrastructure financing out of the NDRRMF creates a second fund for the same purpose and adds a council approval layer; keeping it within the NDRRMF, with insurance recoveries supplementing it and released through streamlined procedures, may serve the same aim.",
+    "tradeoffs": "One fund simplifies management, but infrastructure needs may compete with relief needs within the NDRRMF.",
+    "gap": "The share of the current NDRRMF used for infrastructure repair and rehabilitation could not be established from the material."
+   },
+   {
+    "area": "Tax incentive",
+    "section_ref": "Section 10 (Tax Incentive for Members of the Consortium)",
+    "target_section": "HB-20-11839:s10",
+    "target_quote": "a reduction of five percent (5% on the prevailing Corporate Income Tax on member companies of the Consortium shall be implemented for the first five (5) years",
+    "comparator": null,
+    "differences": "None of the related measures given provides a tax incentive for insurers; HB No. 10763 relies on reinsurance and procurement arrangements under existing law instead.",
+    "recommendation": "Remove provision",
+    "why": "The reduction applies to all consortium members on their whole corporate income, is not tied to public asset coverage provided, and its revenue effect is not stated.",
+    "tradeoffs": "Removal protects revenue but may reduce private insurers' willingness to take part.",
+    "gap": "Whether the reduction means five percentage points or five percent of the prevailing rate, and its revenue cost, must be checked."
+   },
+   {
+    "area": "Funding",
+    "section_ref": "Section 11 (Appropriations)",
+    "target_section": "HB-20-11839:s11",
+    "target_quote": "an initial and minimum fund of Twenty Billion Pesos (Php 20,000,000,000.00) shall be allocated for NDRIF for the first year of its implementation",
+    "comparator": {
+     "id": "HB-20-10763",
+     "section": "HB-20-10763:s14",
+     "quote": "The amounts necessary for the initial implementation of this Act shall be charged against the existing appropriations of the concerned agencies.",
+     "title": "AN ACT INSTITUTIONALIZING A PHILIPPINE DISASTER RISK FINANCING AND INSURANCE FRAMEWORK, STRENGTHENING THE FINANCIAL PROTECTION OF PUBLIC ASSETS, LOCAL GOVERNMENT UNITS, AND VULNERABLE SECTORS, AND FOR OTHER PURPOSES"
+    },
+    "differences": "HB No. 10763 charges initial implementation to existing appropriations, funds later needs through the annual General Appropriations Act, and bars automatic earmarking, whereas this bill sets a fixed minimum first-year amount for a new fund.",
+    "recommendation": "Adapt alternative with revisions",
+    "why": "A fixed minimum for a new fund reduces budget flexibility; funding through existing appropriations and the annual General Appropriations Act, sized by the DRFI framework's risk assessment, may be more consistent with sound fiscal management.",
+    "tradeoffs": "Annual appropriation keeps flexibility but gives less certainty of resources than a statutory minimum.",
+    "gap": "The basis for the stated first-year amount is not given in the material."
+   },
+   {
+    "area": "Premium subsidies",
+    "section_ref": "Section 11 (Appropriations)",
+    "target_section": "HB-20-11839:s11",
+    "target_quote": "Provided, That premium payments for GOCCs and LGUs shall likewise be included in the annual General Appropriations as national government subsidies.",
+    "comparator": {
+     "id": "HB-20-10763",
+     "section": "HB-20-10763:s9",
+     "quote": "National government financial assistance shall be targeted and risk-based, taking into account hazard exposure, poverty incidence, fiscal capacity, critical-service responsibilities, and the financial protection gap of the LGU.",
+     "title": "AN ACT INSTITUTIONALIZING A PHILIPPINE DISASTER RISK FINANCING AND INSURANCE FRAMEWORK, STRENGTHENING THE FINANCIAL PROTECTION OF PUBLIC ASSETS, LOCAL GOVERNMENT UNITS, AND VULNERABLE SECTORS, AND FOR OTHER PURPOSES"
+    },
+    "differences": "HB No. 10763 limits national assistance for LGU premiums to targeted, risk-based support with eligibility conditions such as asset registration and counterpart funding, while this bill funds premiums of all GOCCs and LGUs as national subsidies.",
+    "recommendation": "Adapt alternative with revisions",
+    "why": "Blanket subsidies for all GOCCs and LGUs create a recurring obligation regardless of fiscal capacity; targeted, conditional assistance, with GOCCs paying from their own resources, may be considered.",
+    "tradeoffs": "Targeting lowers cost but may leave some lower-risk entities underinsured.",
+    "gap": "The number of GOCCs and LGUs that would qualify and current premium levels could not be established from the material."
+   },
+   {
+    "area": "Reporting",
+    "section_ref": "Section 13 (Annual Report)",
+    "target_section": "HB-20-11839:s13",
+    "target_quote": "an annual report relating to the progress and status of the implementation of this Act not later than the last day of November of every fiscal year",
+    "comparator": {
+     "id": "HB-20-10763",
+     "section": "HB-20-10763:s15",
+     "quote": "including material disaster fiscal risks, financial-protection gaps, coverage of critical public assets, claims and payout performance, LGU participation, utilization of financing instruments",
+     "title": "AN ACT INSTITUTIONALIZING A PHILIPPINE DISASTER RISK FINANCING AND INSURANCE FRAMEWORK, STRENGTHENING THE FINANCIAL PROTECTION OF PUBLIC ASSETS, LOCAL GOVERNMENT UNITS, AND VULNERABLE SECTORS, AND FOR OTHER PURPOSES"
+    },
+    "differences": "HB No. 10763 specifies the content of the annual report, including fiscal risks, protection gaps, coverage and claims performance, and adds a public information facility, whereas this bill asks only for progress and status.",
+    "recommendation": "Adapt alternative with revisions",
+    "why": "Specified report content allows Congress and oversight agencies to assess whether the strategy closes the protection gap.",
+    "tradeoffs": "Fuller reporting improves accountability but adds data and staff workload.",
+    "gap": ""
+   },
+   {
+    "area": "Review",
+    "section_ref": "Section 14 (Sunset Review)",
+    "target_section": "HB-20-11839:s14",
+    "target_quote": "Within five (5) years after the effectivity of this Act, or as the need arises, the Congressional Oversight Committee shall conduct a sunset review.",
+    "comparator": {
+     "id": "HB-20-10763",
+     "section": "HB-20-10763:s15",
+     "quote": "An independent actuarial and program review shall be undertaken at least once every three (3) years.",
+     "title": "AN ACT INSTITUTIONALIZING A PHILIPPINE DISASTER RISK FINANCING AND INSURANCE FRAMEWORK, STRENGTHENING THE FINANCIAL PROTECTION OF PUBLIC ASSETS, LOCAL GOVERNMENT UNITS, AND VULNERABLE SECTORS, AND FOR OTHER PURPOSES"
+    },
+    "differences": "HB No. 10763 adds an independent actuarial and program review at least every three years, while this bill relies on a congressional sunset review within five years.",
+    "recommendation": "Retain provision",
+    "why": "A sunset review by the oversight committee is a standard check on the law's impact and the structure of its implementing bodies.",
+    "tradeoffs": "Relying on a congressional review costs little but gives less technical scrutiny of insurance pricing and coverage.",
+    "gap": ""
+   },
+   {
+    "area": "Implementation timeline",
+    "section_ref": "Section 15 (Implementing Rules and Regulations)",
+    "target_section": "HB-20-11839:s15",
+    "target_quote": "shail within ninety (90) days from the effectivity of this Act, promulgate the rules and regulations",
+    "comparator": {
+     "id": "HB-20-10763",
+     "section": "HB-20-10763:s17",
+     "quote": "Within one hundred eighty (180) days from the effectivity of this Act, the DOF and BTr, in coordination with the DBM",
+     "title": "AN ACT INSTITUTIONALIZING A PHILIPPINE DISASTER RISK FINANCING AND INSURANCE FRAMEWORK, STRENGTHENING THE FINANCIAL PROTECTION OF PUBLIC ASSETS, LOCAL GOVERNMENT UNITS, AND VULNERABLE SECTORS, AND FOR OTHER PURPOSES"
+    },
+    "differences": "HB No. 10763 allows 180 days, names the coordinating agencies and consultation with LGUs and the insurance sector, and provides phased implementation, while this bill gives a new council 90 days.",
+    "recommendation": "Adapt alternative with revisions",
+    "why": "A newly created body may not be able to issue rules covering a framework, insurance policies and a new fund within 90 days; a longer period with phased implementation is more feasible.",
+    "tradeoffs": "A longer period improves feasibility but delays the start of protection.",
+    "gap": ""
+   }
+  ],
+  "duplications": [
+   {
+    "function": "Section 6 (Powers and Functions of the DRFIC)",
+    "existing": "Government Service Insurance System, Republic Act No. 656, as amended by PD No. 245",
+    "note": "Managing the insurance of government public assets may overlap with the GSIS's administration of government property insurance.",
+    "section": "HB-20-11839:s6",
+    "quote": "Manage and ensure the insurance of Government public assets"
+   },
+   {
+    "function": "Section 6 (Powers and Functions of the DRFIC)",
+    "existing": "Bureau of the Treasury, which administers the existing National Asset Registry System (as stated in HB No. 10763)",
+    "note": "Assigning the council the data integrity of the NARS may overlap with the BTr's administration of the registry.",
+    "section": "HB-20-11839:s6",
+    "quote": "Ensure the data integrity of the NARS"
+   },
+   {
+    "function": "Section 9 (National Disaster Response for Infrastructure Fund)",
+    "existing": "National Disaster Risk Reduction and Management Fund, Republic Act No. 10121",
+    "note": "The new fund takes over a financing purpose already served by the NDRRMF, creating two funds for disaster-related infrastructure repair and rehabilitation.",
+    "section": "HB-20-11839:s9",
+    "quote": "The NDRIF shall be managed by the DBM, and its use shall be guided by the principles of the DRFI Framework."
+   }
+  ],
+  "cost_notes": [
+   {
+    "item": "Section 5 (Disaster Risk Financing and Insurance Council)",
+    "direction": "likely raises cost",
+    "why": "A new council with risk modeling, monitoring and a digital claims module will need staff and operating funds not provided in the bill."
+   },
+   {
+    "item": "Section 7 (National Public Asset Insurance Consortium)",
+    "direction": "unclear",
+    "why": "Collective coverage may change premium levels, but the bill does not state how premiums would be set."
+   },
+   {
+    "item": "Section 9 (National Disaster Response for Infrastructure Fund)",
+    "direction": "likely raises cost",
+    "why": "A separate fund with its own management and approval process adds administrative cost on top of the existing NDRRMF."
+   },
+   {
+    "item": "Section 10 (Tax Incentive for Members of the Consortium)",
+    "direction": "likely raises cost",
+    "why": "The corporate income tax reduction lowers revenue for five years."
+   },
+   {
+    "item": "Section 11 (Appropriations)",
+    "direction": "likely raises cost",
+    "why": "The bill sets a fixed minimum first-year fund and makes premiums of all GOCCs and LGUs a recurring national subsidy."
+   },
+   {
+    "item": "Section 14 (Sunset Review)",
+    "direction": "no cost effect",
+    "why": "The review is done by the oversight committee within existing congressional processes."
+   }
+  ],
+  "memo_part": [
+   {
+    "heading": "On the Coverage of Public-Private Partnership Assets",
+    "paragraphs": [
+     "4.1 Section 4 (Coverage and Scope) of the bill extends coverage to public infrastructure assets owned under the Build-Operate-Transfer Law. It may be noted that some of these assets may be under contracts that already allocate disaster risks and insurance obligations to private proponents. In this regard, may we recommend that a safeguard be added, similar to Section 13 of HB No. 10763, providing that the Government shall not be required to assume, insure or finance risks lawfully allocated to a private party, to avoid shifting contractual risks to public funds."
+    ]
+   },
+   {
+    "heading": "On the Disaster Risk Financing and Insurance Council",
+    "paragraphs": [
+     "4.2 Section 5 (Disaster Risk Financing and Insurance Council) creates a new council chaired by the DOF with ten member agencies. It may be noted that an alternative arrangement, as in Section 4 of HB No. 10763, assigns the formulation of the disaster risk financing framework to the DOF through the BTr, in coordination with the NDRRMC and without prejudice to its functions under RA No. 10121. Consistent with the streamlining thrust of RA No. 12231, may we recommend that the framework be lodged with the DOF and BTr, with formal coordination with the DBM, DEPDev, GSIS and NDRRMC, in lieu of creating a new council.",
+     "4.3 Section 6 (Powers and Functions of the DRFIC) grants the council operational functions, including managing and ensuring the insurance of government public assets and ensuring the data integrity of the NARS. It may be noted that the insurance of government property is administered by the GSIS under RA No. 656, as amended by PD No. 245, and the NARS is administered by the BTr. In this regard, may we recommend that these operational functions be deleted and the council's or lead agency's role be confined to policy, standards, and monitoring and evaluation, to avoid duplication of functions."
+    ]
+   },
+   {
+    "heading": "On the National Public Asset Insurance Consortium",
+    "paragraphs": [
+     "4.4 Section 7 (National Public Asset Insurance Consortium) establishes a consortium of all insurance and reinsurance companies offering public asset insurance, led by the GSIS. It may be noted that the bill does not define how membership, governance and risk shares would be determined. May we recommend that the provision be revisited so that collective risk sharing is pursued through GSIS reinsurance and risk pooling with qualified domestic and foreign counterparties under RA No. 656, as amended, similar to Section 7 of HB No. 10763.",
+     "4.5 Section 8 (Functions of the NPAIC) requires the consortium to evaluate and approve government claims in a timely manner, and item (e) requires it to submit claims data to itself. May we recommend that simplified, transparent and time-bound claims standards be provided instead, including a definitive list of documentary requirements, provisional payment of undisputed amounts and written reasons for denial, similar to Section 11 of HB No. 10763, and that item (e) be corrected to name the body receiving claims data."
+    ]
+   },
+   {
+    "heading": "On the National Disaster Response for Infrastructure Fund and its Funding",
+    "paragraphs": [
+     "4.6 Section 9 (National Disaster Response for Infrastructure Fund) transfers the infrastructure financing functions of the National Disaster Risk Reduction and Management Fund to a new fund managed by the DBM, with financing requests subject to council approval. It may be noted that this creates a second fund for disaster-related infrastructure repair and rehabilitation and an additional approval layer. In this regard, may we recommend that infrastructure financing remain within the NDRRMF under RA No. 10121, with insurance recoveries supplementing, and not supplanting, that fund and released through streamlined procedures, similar to Section 14 of HB No. 10763.",
+     "4.7 Section 11 (Appropriations) provides an initial and minimum fund of Php 20 billion for the new fund in its first year. It may be noted that a fixed statutory minimum reduces flexibility in budget preparation. May we recommend that initial implementation be charged against the existing appropriations of the concerned agencies and that succeeding requirements be included in the annual General Appropriations Act based on the risk assessment under the framework, without a fixed minimum amount."
+    ]
+   },
+   {
+    "heading": "On the Tax Incentive for Members of the Consortium",
+    "paragraphs": [
+     "4.8 Section 10 (Tax Incentive for Members of the Consortium) provides a five percent reduction in the corporate income tax of consortium members for the first five years. It may be noted that the reduction is not tied to the volume of public asset coverage provided, and the bill does not state whether it refers to percentage points or a share of the prevailing rate. In this regard, may we recommend the deletion of the provision, and we defer to the DOF on its revenue implications."
+    ]
+   },
+   {
+    "heading": "On the Premium Subsidies for GOCCs and LGUs",
+    "paragraphs": [
+     "4.9 Section 11 (Appropriations) further provides that premium payments for GOCCs and LGUs shall be included in the annual General Appropriations as national government subsidies. It may be noted that this creates a recurring obligation regardless of the fiscal capacity of the entities concerned. May we recommend that national assistance for LGU premiums be targeted and risk-based, with eligibility conditions such as asset registration and counterpart funding, similar to Section 9 of HB No. 10763, and that GOCCs fund their own premiums."
+    ]
+   },
+   {
+    "heading": "On the Annual Report",
+    "paragraphs": [
+     "4.10 Section 13 (Annual Report) requires a report on the progress and status of implementation. May we recommend that the required content be specified, including disaster fiscal risks, financial protection gaps, coverage of critical public assets, and claims and payout performance, similar to Section 15 of HB No. 10763, to allow assessment of whether the strategy closes the protection gap."
+    ]
+   },
+   {
+    "heading": "On the Implementing Rules and Regulations",
+    "paragraphs": [
+     "4.11 Section 15 (Implementing Rules and Regulations) requires the council to issue the implementing rules within ninety days. It may be noted that a newly created body would need to organize while also developing the framework, insurance policies and fund guidelines. May we recommend that the period be extended to 180 days, with phased implementation and consultation with LGUs and the insurance sector, similar to Sections 16 and 17 of HB No. 10763."
+    ]
+   }
+  ],
+  "self_critique": [
+   {
+    "area": "Coverage",
+    "objection": "Build-Operate-Transfer assets return to the Government and serve the public, so leaving them out of the strategy could leave service gaps after disasters if private insurance proves inadequate.",
+    "verdict": "stands",
+    "condition": ""
+   },
+   {
+    "area": "Lead body and composition",
+    "objection": "Section 5 makes the DBM and DEPDev vice-chairs and includes the DPWH and GSIS, which gives budget, planning and implementing agencies a binding role that a DOF-BTr lead with mere coordination may not secure.",
+    "verdict": "weakened",
+    "condition": "The recommendation holds only if the DOF-led arrangement formally requires DBM, DEPDev, DPWH and GSIS participation in approving the framework."
+   },
+   {
+    "area": "Powers and functions",
+    "objection": "A single council with both policy and operational powers could provide clearer accountability than splitting functions among the GSIS, BTr and DOF.",
+    "verdict": "stands",
+    "condition": ""
+   },
+   {
+    "area": "Insurance consortium",
+    "objection": "A consortium of all insurers could add domestic capacity and competition that GSIS reinsurance alone may not mobilize, given the scale of public asset exposure.",
+    "verdict": "weakened",
+    "condition": "The recommendation holds only if GSIS reinsurance and pooling arrangements are shown to provide enough capacity for the covered assets; otherwise a voluntary pool may be considered."
+   },
+   {
+    "area": "Claims processing",
+    "objection": "Leaving claims evaluation to a consortium led by the GSIS keeps procedures flexible and allows faster adaptation than statutory claims standards.",
+    "verdict": "stands",
+    "condition": ""
+   },
+   {
+    "area": "Fund and attachment",
+    "objection": "A dedicated fund ring-fences money for infrastructure repair so it is not crowded out by relief and response needs drawn from the NDRRMF after a disaster.",
+    "verdict": "weakened",
+    "condition": "The recommendation holds only if the NDRRMF release guidelines separately track and protect the infrastructure financing layer."
+   },
+   {
+    "area": "Tax incentive",
+    "objection": "Section 10 is limited to five years and requires congressional review, and an incentive may be needed to draw private insurers into public asset coverage they do not now offer.",
+    "verdict": "weakened",
+    "condition": "The recommendation holds unless the DOF finds the revenue cost justified by additional coverage, in which case the incentive could be tied to public asset premiums written."
+   },
+   {
+    "area": "Funding",
+    "objection": "A statutory minimum guarantees resources in the first year and signals commitment, which annual appropriations cannot assure.",
+    "verdict": "stands",
+    "condition": ""
+   },
+   {
+    "area": "Premium subsidies",
+    "objection": "Universal subsidies ensure all public assets are insured, while targeting may leave poorer LGUs that fail eligibility conditions uninsured.",
+    "verdict": "stands",
+    "condition": ""
+   },
+   {
+    "area": "Reporting",
+    "objection": "A detailed report list adds workload to a new body and may be better left to the implementing rules.",
+    "verdict": "stands",
+    "condition": ""
+   },
+   {
+    "area": "Review",
+    "objection": "An independent actuarial and program review every three years, as in HB No. 10763, would test premium adequacy and coverage more rigorously than a congressional sunset review within five years.",
+    "verdict": "weakened",
+    "condition": "Retention holds only if the annual report includes actuarial and claims performance information that the oversight committee can use."
+   },
+   {
+    "area": "Implementation timeline",
+    "objection": "A ninety-day period pushes early action on a gap the explanatory note describes as urgent.",
+    "verdict": "stands",
+    "condition": ""
+   }
+  ],
+  "theory_of_change": {
+   "problem": "Disasters damage government infrastructure and there is no multi-layered, pre-arranged financing to repair it quickly.",
+   "mechanism": "A council-led framework, a GSIS-led insurance consortium and a dedicated infrastructure fund provide insurance and non-insurance financing for public assets.",
+   "outcome": "Faster repair, reconstruction and rehabilitation of public assets and continuity of public services after disasters.",
+   "weakest_assumption": "That insurers will join a consortium and price public asset cover affordably, and that asset data in the NARS is complete enough to set coverage."
+  },
+  "reviewer_checks": [
+   "Check whether the five percent reduction in Section 10 means percentage points or a share of the rate.",
+   "Confirm the current use of the NDRRMF for infrastructure repair before assessing Section 9.",
+   "Verify GSIS functions under RA No. 656 as amended by PD No. 245 against Sections 6 to 8.",
+   "Check the truncated text of Section 6 beyond item (j).",
+   "Confirm whether HB No. 10763 is pending in the same Congress and committee."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 4 (Coverage and Scope)",
+   "section": "HB-20-11839:s4",
+   "quote": "This Act shall apply to all public infrastructure assets owned by the Government, including those owned under Republic Act No. 6957 or the Build-Operate-Transfer Law, as amended.",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 10763 requires public-private partnership agreements on critical public assets to allocate disaster risks, insurance duties and retained risks, and states that the Government need not insure or finance risks lawfully allocated to a private party; this bill extends coverage to Build-Operate-Transfer assets without such a safeguard.",
+   "section": "HB-20-10763:s13",
+   "quote": "Nothing in this Act shall require the Government to assume, insure, or finance a risk lawfully allocated to a private party under Republic Act No. 11966",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 5 (Disaster Risk Financing and Insurance Council)",
+   "section": "HB-20-11839:s5",
+   "quote": "headed by the Secretary of the Department of Finance (DOF) as the Chairperson, and with the Secretary of the Department of Budget and Management (DBM)",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 10763 assigns the disaster risk financing framework to the DOF through the BTr, in coordination with the NDRRMC and without prejudice to the NDRRMC's functions under RA No. 10121, instead of creating a new ten-agency council.",
+   "section": "HB-20-10763:s4",
+   "quote": "The Department of Finance (DOF), through the Bureau of the Treasury (BTr), in coordination with the National Disaster Risk Reduction and Management Council (NDRRMC), shall formulate",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 6 (Powers and Functions of the DRFIC)",
+   "section": "HB-20-11839:s6",
+   "quote": "Manage and ensure the insurance of Government public assets",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 10763 keeps the administration of government property insurance with the GSIS under RA No. 656 and leaves the asset registry with the BTr, whereas this bill gives the council itself the management of public asset insurance and the data integrity of the NARS.",
+   "section": "HB-20-10763:s7",
+   "quote": "The Government Service Insurance System (GSIS) shall continue to administer the insurance of government properties, assets, and insurable interests in accordance with Republic Act No. 656, as amended",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 7 (National Public Asset Insurance Consortium)",
+   "section": "HB-20-11839:s7",
+   "quote": "composed of ali insurance and reinsurance companies offering public asset insurance and shall be led by the Government Service Insurance System (GSIS)",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 10763 has the GSIS strengthen public asset protection through portfolio insurance, reinsurance and risk pooling with qualified counterparties, rather than a statutory consortium of all insurers and reinsurers offering public asset insurance.",
+   "section": "HB-20-10763:s7",
+   "quote": "The GSIS may obtain reinsurance and other lawful risk-transfer protection from qualified domestic and foreign counterparties in accordance with Republic Act No. 656, as amended",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 8 (Functions of the NPAIC)",
+   "section": "HB-20-11839:s8",
+   "quote": "Evaluate and approve insurance claims made by the Government in a timely manner",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 10763 sets claims standards such as a definitive list of documents, provisional payment of undisputed amounts, written reasons for denial and a review mechanism, while this bill only requires the consortium to approve claims in a timely manner and to submit claims data to itself.",
+   "section": "HB-20-10763:s11",
+   "quote": "Government insurance and risk- transfer arrangements shall prescribe simplified, transparent, and time-bound claims procedures.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (National Disaster Response for Infrastructure Fund)",
+   "section": "HB-20-11839:s9",
+   "quote": "The existing financing functions for infrastructure for repair, reconstruction, rehabilitation, or disaster mitigation under the National Disaster Risk Reduction Management Fund is hereby transferred",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 10763 keeps the NDRRMF under RA No. 10121 as part of risk retention and requires insurance recoveries to supplement it, whereas this bill carves out a separate DBM-managed fund whose releases also need council approval.",
+   "section": "HB-20-10763:s14",
+   "quote": "Such recoveries shall supplement and shall not supplant funds otherwise available under Republic Act No. 10121, Republic Act No. 12287, and the annual General Appropriations Act.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 10 (Tax Incentive for Members of the Consortium)",
+   "section": "HB-20-11839:s10",
+   "quote": "a reduction of five percent (5% on the prevailing Corporate Income Tax on member companies of the Consortium shall be implemented for the first five (5) years",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 11 (Appropriations)",
+   "section": "HB-20-11839:s11",
+   "quote": "an initial and minimum fund of Twenty Billion Pesos (Php 20,000,000,000.00) shall be allocated for NDRIF for the first year of its implementation",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 10763 charges initial implementation to existing appropriations, funds later needs through the annual General Appropriations Act, and bars automatic earmarking, whereas this bill sets a fixed minimum first-year amount for a new fund.",
+   "section": "HB-20-10763:s14",
+   "quote": "The amounts necessary for the initial implementation of this Act shall be charged against the existing appropriations of the concerned agencies.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 11 (Appropriations)",
+   "section": "HB-20-11839:s11",
+   "quote": "Provided, That premium payments for GOCCs and LGUs shall likewise be included in the annual General Appropriations as national government subsidies.",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 10763 limits national assistance for LGU premiums to targeted, risk-based support with eligibility conditions such as asset registration and counterpart funding, while this bill funds premiums of all GOCCs and LGUs as national subsidies.",
+   "section": "HB-20-10763:s9",
+   "quote": "National government financial assistance shall be targeted and risk-based, taking into account hazard exposure, poverty incidence, fiscal capacity, critical-service responsibilities, and the financial protection gap of the LGU.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 13 (Annual Report)",
+   "section": "HB-20-11839:s13",
+   "quote": "an annual report relating to the progress and status of the implementation of this Act not later than the last day of November of every fiscal year",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 10763 specifies the content of the annual report, including fiscal risks, protection gaps, coverage and claims performance, and adds a public information facility, whereas this bill asks only for progress and status.",
+   "section": "HB-20-10763:s15",
+   "quote": "including material disaster fiscal risks, financial-protection gaps, coverage of critical public assets, claims and payout performance, LGU participation, utilization of financing instruments",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 14 (Sunset Review)",
+   "section": "HB-20-11839:s14",
+   "quote": "Within five (5) years after the effectivity of this Act, or as the need arises, the Congressional Oversight Committee shall conduct a sunset review.",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 10763 adds an independent actuarial and program review at least every three years, while this bill relies on a congressional sunset review within five years.",
+   "section": "HB-20-10763:s15",
+   "quote": "An independent actuarial and program review shall be undertaken at least once every three (3) years.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 15 (Implementing Rules and Regulations)",
+   "section": "HB-20-11839:s15",
+   "quote": "shail within ninety (90) days from the effectivity of this Act, promulgate the rules and regulations",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 10763 allows 180 days, names the coordinating agencies and consultation with LGUs and the insurance sector, and provides phased implementation, while this bill gives a new council 90 days.",
+   "section": "HB-20-10763:s17",
+   "quote": "Within one hundred eighty (180) days from the effectivity of this Act, the DOF and BTr, in coordination with the DBM",
+   "check": "verified"
+  },
+  {
+   "claim": "Managing the insurance of government public assets may overlap with the GSIS's administration of government property insurance.",
+   "section": "HB-20-11839:s6",
+   "quote": "Manage and ensure the insurance of Government public assets",
+   "check": "verified"
+  },
+  {
+   "claim": "Assigning the council the data integrity of the NARS may overlap with the BTr's administration of the registry.",
+   "section": "HB-20-11839:s6",
+   "quote": "Ensure the data integrity of the NARS",
+   "check": "verified"
+  },
+  {
+   "claim": "The new fund takes over a financing purpose already served by the NDRRMF, creating two funds for disaster-related infrastructure repair and rehabilitation.",
+   "section": "HB-20-11839:s9",
+   "quote": "The NDRIF shall be managed by the DBM, and its use shall be guided by the principles of the DRFI Framework.",
+   "check": "verified"
+  },
+  {
+   "claim": "problem",
+   "section": "HB-20-11839:note",
+   "quote": "a significant structural gap remains: the absence of a multi-layered, pre-arranged financial protection system for state-owned physical assets.",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled CompAIre run under the owner's Claude subscription)",
+  "prompt_version": "v3.1",
+  "grade": "B",
+  "time": "2026-11-18T00:12:09+00:00"
+ }
+}
