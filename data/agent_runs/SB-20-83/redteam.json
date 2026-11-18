@@ -1,0 +1,148 @@
+{
+ "output": {
+  "target": "SB-20-83",
+  "verdict": "revise first",
+  "findings": [
+   {
+    "sub": "Duplication",
+    "part": "VI",
+    "issue": "Paragraph 6.3 states that RA No. 12231 was \"signed on August 4, 2025\"; the signing date is not in the material given and a statement about signature is out of scope, so it should be removed or verified against the source.",
+    "severity": "revise first",
+    "section": "",
+    "quote": ""
+   },
+   {
+    "sub": "Duplication",
+    "part": "VI",
+    "issue": "Part VI and the duplication table say the Council's policymaking and supervision functions extend to land, air and other natural resources, but the bill limits harmonization to resources connected to the water sector and gives the Council no supervision power; the overlap with the DENR is overstated, and the functions sit in Section 27, not Section 26.",
+    "severity": "revise first",
+    "section": "SB-20-83:s27",
+    "quote": "Ensure harmonization of all policies involving water, land, subsurface, air and other resources which are connected to the water sector"
+   },
+   {
+    "sub": "Costing",
+    "part": "V",
+    "issue": "Paragraph 5.1 says the Department and Commission \"would require\" the full new-office amount for 552 to 1,896 positions, although Section 7 transfers the personnel, funds and appropriations of the abolished offices; the gross figure leads, and the offset, including positions absorbed, is mentioned only as unestimated, which may lead the reviewer to read it as a net new cost.",
+    "severity": "check",
+    "section": "SB-20-83:s7",
+    "quote": "and the corresponding personnel, funds and appropriations, records, equipment, and property shall be absorbed by the Department"
+   },
+   {
+    "sub": "Costing",
+    "part": "V",
+    "issue": "The Commission members are costed within standard PS parameters, while the bill pegs their pay to Court of Appeals justices outside the Salary Standardization Law; the estimate's PS may not reflect the bill as filed, and this should be stated.",
+    "severity": "check",
+    "section": "SB-20-83:s36",
+    "quote": "The Chairperson and members of the Commission shall initially be entitled to the same salaries, allowances and benefits as those of the Presiding Justice"
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "Part IV addresses only Section 36, but Section 34 separately lets the Commission fix the compensation of the Executive Director and Secretariat staff; this is not flagged for consistency with the SSL recommendation.",
+    "severity": "check",
+    "section": "SB-20-83:s34",
+    "quote": "The Commission shall appoint, fix the compensation, and determine the status, qualifications, and duties of the Executive Director and the Secretariat staff"
+   },
+   {
+    "sub": "Duplication",
+    "part": "VI",
+    "issue": "Part VI omits the transfer of the former Pasig River Rehabilitation Commission functions now with the Manila Bay Task Force; whether the Task Force retains overlapping functions, or its funds, is not assessed and no referral covers it.",
+    "severity": "check",
+    "section": "SB-20-83:s8",
+    "quote": "The following functions of the dissolved Pasig River Rehabilitation Commission and transferred to the Manila Bay Task Force per Executive Order No. 93, series of 2019"
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "The proof-of-land-ownership requirement for water permits may exclude landless users, informal settlers and communities without titles; this rights and distribution issue is not raised.",
+    "severity": "check",
+    "section": "SB-20-83:s16",
+    "quote": "applicants for water permits shall submit proof of land ownership of, or right to use the property where the water source is located"
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "The Board may impose fees on water appropriators, but ApprAIsal does not address who bears these charges or whether the collections are to be remitted to the Treasury or retained, which affects the funding analysis.",
+    "severity": "check",
+    "section": "SB-20-83:s16",
+    "quote": "including the imposition on water appropriators of such fees or charges by the Department"
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "The Commission's licensing and regulatory authority covers public providers, including LGU-run systems and water districts; the compliance cost to LGUs and its pass-through to consumers' tariffs is not raised.",
+    "severity": "check",
+    "section": "SB-20-83:s31",
+    "quote": "shall cover and apply to all service providers, whether private or public, providing or intending to provide water supply"
+   },
+   {
+    "sub": "Referral",
+    "part": "referrals",
+    "issue": "BMB-D is referred only for LGU rate-fixing and the DILG, although the coverage lists the Judiciary under a transfer role and the Board receives original jurisdiction over water disputes; the reason should cover this or the omission should be checked.",
+    "severity": "check",
+    "section": "SB-20-83:s16",
+    "quote": "Exercise original jurisdiction over decisions in cases involving the following"
+   }
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Part VI and the duplication table say the Council's policymaking and supervision functions extend to land, air and other natural resources, but the bill limits harmonization to resources connected to the water sector and gives the Council no supervision power; the overlap with the DENR is overstated, and the functions sit in Section 27, not Section 26.",
+   "section": "SB-20-83:s27",
+   "quote": "Ensure harmonization of all policies involving water, land, subsurface, air and other resources which are connected to the water sector",
+   "check": "verified"
+  },
+  {
+   "claim": "Paragraph 5.1 says the Department and Commission \"would require\" the full new-office amount for 552 to 1,896 positions, although Section 7 transfers the personnel, funds and appropriations of the abolished offices; the gross figure leads, and the offset, including positions absorbed, is mentioned only as unestimated, which may lead the reviewer to read it as a net new cost.",
+   "section": "SB-20-83:s7",
+   "quote": "and the corresponding personnel, funds and appropriations, records, equipment, and property shall be absorbed by the Department",
+   "check": "verified"
+  },
+  {
+   "claim": "The Commission members are costed within standard PS parameters, while the bill pegs their pay to Court of Appeals justices outside the Salary Standardization Law; the estimate's PS may not reflect the bill as filed, and this should be stated.",
+   "section": "SB-20-83:s36",
+   "quote": "The Chairperson and members of the Commission shall initially be entitled to the same salaries, allowances and benefits as those of the Presiding Justice",
+   "check": "verified"
+  },
+  {
+   "claim": "Part IV addresses only Section 36, but Section 34 separately lets the Commission fix the compensation of the Executive Director and Secretariat staff; this is not flagged for consistency with the SSL recommendation.",
+   "section": "SB-20-83:s34",
+   "quote": "The Commission shall appoint, fix the compensation, and determine the status, qualifications, and duties of the Executive Director and the Secretariat staff",
+   "check": "verified"
+  },
+  {
+   "claim": "Part VI omits the transfer of the former Pasig River Rehabilitation Commission functions now with the Manila Bay Task Force; whether the Task Force retains overlapping functions, or its funds, is not assessed and no referral covers it.",
+   "section": "SB-20-83:s8",
+   "quote": "The following functions of the dissolved Pasig River Rehabilitation Commission and transferred to the Manila Bay Task Force per Executive Order No. 93, series of 2019",
+   "check": "verified"
+  },
+  {
+   "claim": "The proof-of-land-ownership requirement for water permits may exclude landless users, informal settlers and communities without titles; this rights and distribution issue is not raised.",
+   "section": "SB-20-83:s16",
+   "quote": "applicants for water permits shall submit proof of land ownership of, or right to use the property where the water source is located",
+   "check": "verified"
+  },
+  {
+   "claim": "The Board may impose fees on water appropriators, but ApprAIsal does not address who bears these charges or whether the collections are to be remitted to the Treasury or retained, which affects the funding analysis.",
+   "section": "SB-20-83:s16",
+   "quote": "including the imposition on water appropriators of such fees or charges by the Department",
+   "check": "verified"
+  },
+  {
+   "claim": "The Commission's licensing and regulatory authority covers public providers, including LGU-run systems and water districts; the compliance cost to LGUs and its pass-through to consumers' tariffs is not raised.",
+   "section": "SB-20-83:s31",
+   "quote": "shall cover and apply to all service providers, whether private or public, providing or intending to provide water supply",
+   "check": "verified"
+  },
+  {
+   "claim": "BMB-D is referred only for LGU rate-fixing and the DILG, although the coverage lists the Judiciary under a transfer role and the Board receives original jurisdiction over water disputes; the reason should cover this or the omission should be checked.",
+   "section": "SB-20-83:s16",
+   "quote": "Exercise original jurisdiction over decisions in cases involving the following",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (Red-teamer run, separate session, under the owner's Claude subscription)",
+  "time": "2026-11-18T00:26:05+00:00"
+ }
+}
