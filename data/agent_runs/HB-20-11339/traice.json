@@ -1,0 +1,74 @@
+{
+ "output": {
+  "target": "HB-20-11339",
+  "entity_proposed": "Inter-Agency Maginhawang Buhay Support Council (Council)",
+  "proposal": "HB No. 11339, the proposed \"Maginhawang Buhay Act,\" seeks to institutionalize a Maginhawang Buhay Support Framework that grants low-income and middle-class households a twenty percent (20%) discount on essential needs, including basic utilities, healthcare, education and housing. It provides for an inflation-responsive and integrated delivery mechanism with benefit ceilings, targeting, fiscal safeguards and an Inter-Agency Maginhawang Buhay Support Council to coordinate implementation.",
+  "alignment": "As a measure on government organization and mandates, the review should examine whether the proposed Inter-Agency Maginhawang Buhay Support Council under Section 14 (Inter-Agency Maginhawang Buhay Support Council) and its Permanent Secretariat under Section 16 (Permanent Secretariat) duplicate existing social protection coordination bodies and subsidy programs, and how the measure relates to the streamlining of the Executive branch and the reduction of overlapping functions under the Government Optimization Act (RA No. 12231). The review should likewise assess the fiscal exposure arising from the twenty percent (20%) discount, the Annual Household Benefit Ceiling, the inflation-triggered enhancement of benefits and the cost-sharing arrangement with private service providers. The measure may be considered aligned with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on equitable access to quality education, the Universal Health Care system and better targeting of social protection. No corresponding measure is identified in the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 11339 was filed in the House of Representatives of the 20th Congress on September 15, 2026 by Representative Ferdinand Martin G. Romualdez.",
+   "Its status is filed and pending; later stages are not reflected in the available records.",
+   "No earlier version, counterpart measure, substitute bill or committee report has been identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 11339 seeks to institutionalize the Maginhawang Buhay Support Framework, providing a twenty percent (20%) discount on essential needs of low-income and middle-class households through an inflation-responsive and integrated delivery mechanism coordinated by an Inter-Agency Maginhawang Buhay Support Council. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the \"Maginhawang Buhay Act.\"\nb. Section 4 (Maginhawang Buhay Support Framework), Section 5 (Annual Household Benefit Ceiling) and Section 6 (Scope of Maginhawang Buhay Discounts) set out the support framework, a ceiling on benefits per household per year, and the essential needs covered by the discount.\nc. Section 7 (Integration with Existing Subsidy Programs and Order of Application) provides for the integration of the discount with existing subsidy programs and the order in which benefits apply.\nd. Section 8 (Beneficiary Identification, Income Tiers, and Prioritization), Section 9 (National Maginhawang Buhay Registry) and Section 10 (Grievance, Correction, and Appeals Mechanism) provide for beneficiary targeting by income tier, a national registry of beneficiaries, and a grievance and appeals process.\ne. Section 11 (Inflation-Triggered Automatic Enhancement of Benefits) provides for the automatic enhancement of benefits when inflation conditions are met.\nf. Section 12 (Annual Fiscal Envelope and Fiscal Safeguards) and Section 13 (Pilot Rollout and Phased National Implementation) provide for an annual fiscal envelope with fiscal safeguards, and a pilot rollout followed by phased national implementation.\ng. Section 14 (Inter-Agency Maginhawang Buhay Support Council) and Section 15 (Composition of the Council) create the Council, chaired by the Secretary of Social Welfare and Development, with the Secretaries of Finance and of Economic Planning and Development as Vice Chairpersons, and with the Secretaries of Budget and Management, Health, Education, and Human Settlements and Urban Development, the Chairpersons of the Commission on Higher Education and the Energy Regulatory Commission, the Director General of TESDA, the Administrator of the National Water Resources Board and the National Statistician as members, and a local government representative designated by the President in a consultative capacity.\nh. Section 16 (Permanent Secretariat) creates a Permanent Secretariat to support the Council.\ni. Section 17 (Responsibilities of Covered Service Providers) and Section 18 (Cost-Sharing with Private Service Providers and Government) set out the obligations of covered service providers and the sharing of discount costs between private providers and the government.\nj. Section 19 (Transparency and Public Reporting), Section 20 (Congressional Oversight and Sunset Review) and Section 25 (Periodic Program Review) provide for public reporting, a Joint Congressional Oversight Committee with a sunset review, and periodic review of the program.\nk. Section 21 (Fraud Prevention, Prohibited Acts, and Penalties) and Section 22 (Data Privacy, Security, and System Integrity) provide for prohibited acts and penalties, and safeguards for data privacy and system integrity.\nl. Section 24 (Funding) provides that, subject to the Annual Fiscal Envelope and applicable laws, implementation may be funded from duly authorized appropriations and reprogrammed savings, among other sources.",
+  "related_measures_policy": "No related bill in the current or previous Congresses has been identified for HB No. 11339. The measure aligns with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly the better targeting of social protection. The review should assess whether the Council under Section 14 (Inter-Agency Maginhawang Buhay Support Council) and Section 15 (Composition of the Council) and the Permanent Secretariat under Section 16 (Permanent Secretariat) overlap with existing social protection coordination mechanisms, consistent with the streamlining objectives of the Government Optimization Act (RA No. 12231); how Section 7 (Integration with Existing Subsidy Programs and Order of Application) interacts with existing subsidy and discount programs; and the fiscal implications of Section 11 (Inflation-Triggered Automatic Enhancement of Benefits), Section 12 (Annual Fiscal Envelope and Fiscal Safeguards), Section 18 (Cost-Sharing with Private Service Providers and Government) and Section 24 (Funding).",
+  "fiscal_requirements": [
+   {
+    "item": "Benefit cost",
+    "detail": "Twenty percent (20%) discount on essential needs, subject to an annual household benefit ceiling (amount not stated in the available text)",
+    "section": "Section 5 (Annual Household Benefit Ceiling)"
+   },
+   {
+    "item": "Contingent cost",
+    "detail": "Automatic enhancement of benefits triggered by inflation",
+    "section": "Section 11 (Inflation-Triggered Automatic Enhancement of Benefits)"
+   },
+   {
+    "item": "Fiscal envelope",
+    "detail": "Annual fiscal envelope with fiscal safeguards (amount not stated in the available text)",
+    "section": "Section 12 (Annual Fiscal Envelope and Fiscal Safeguards)"
+   },
+   {
+    "item": "Cost-sharing",
+    "detail": "Government share of discount costs with private service providers",
+    "section": "Section 18 (Cost-Sharing with Private Service Providers and Government)"
+   },
+   {
+    "item": "Members",
+    "detail": "Inter-agency Council of 13 members, including one consultative LGU representative",
+    "section": "Section 15 (Composition of the Council)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Permanent Secretariat",
+    "section": "Section 16 (Permanent Secretariat)"
+   },
+   {
+    "item": "Registry",
+    "detail": "National Maginhawang Buhay Registry for beneficiary identification",
+    "section": "Section 9 (National Maginhawang Buhay Registry)"
+   },
+   {
+    "item": "Initial and continuing funding",
+    "detail": "Duly authorized appropriations and reprogrammed savings, subject to the Annual Fiscal Envelope; no amount stated",
+    "section": "Section 24 (Funding)"
+   }
+  ],
+  "reviewer_checks": [
+   "Verify the full text of Sections 4 to 14 and 16 to 28, including the discount mechanics, benefit ceiling, fiscal envelope and funding sources, against the official copy of the bill.",
+   "Confirm whether the Annual Household Benefit Ceiling and the Annual Fiscal Envelope state specific amounts or formulas for costing.",
+   "Correct the heading of Section 20, which runs into the opening words of its text.",
+   "Check the stray page number appearing within the list of Council members in Section 15 (Composition of the Council).",
+   "Confirm the relationship of the measure to EO No. 443 (1997) on the comprehensive and integrated delivery of social services.",
+   "Confirm with the House of Representatives the current status of the bill and whether a Senate counterpart has been filed."
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-18T10:10:40+00:00"
+ }
+}
