@@ -1,0 +1,391 @@
+{
+ "output": {
+  "target": "HB-20-11487",
+  "entity_proposed": "Sierra Madre Mountain Range Authority (SMMRA)",
+  "proposal": "HB No. 11487 seeks to create the Sierra Madre Mountain Range Authority (SMMRA), a government-owned or -controlled corporation with an original charter attached to the Office of the President, as the lead policy, planning, coordinating and regulatory body for the protection, conservation, restoration and sustainable development of the Sierra Madre Mountain Range. The measure also establishes a 25-year Sierra Madre Master Plan with binding ecological limits, a Master Plan Conformity Certificate, a nature-credit system and a Sierra Madre Fund.",
+  "alignment": "As a government organization measure, the review should examine how the SMMRA's proposed functions fit with those of existing bodies, in particular the DENR and its Environmental Management Bureau, the Protected Area Management Boards under RA No. 7586 as amended by RA No. 11038, the NCIP under RA No. 8371, and the agencies responsible for ecosystem accounting under RA No. 11995, and whether creating a new GOCC is consistent with the government's intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess whether the coordinative role declared in Section 13 (Delineation of Powers and Functions) is consistent with the binding Conformity Certificate in Section 25 (Consistency with the Sierra Madre Master Plan) and the regulatory and fee-setting powers in Section 10 (Corporate Powers of the Authority). No direct match with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 11487 was filed on September 28, 2026 by Representative Maximo B. Rodriguez, Jr.; it is pending, with later stages not reflected in the available records.",
+   "Seven bills with near-identical text were filed in the House in the 20th Congress: HB Nos. 11474, 11330, 11374, 11350, 11017, 11467 and 11437.",
+   "HB No. 10729 (20th Congress) carries substantially the same provisions under a different section numbering and a partly different statement of powers and functions.",
+   "HB No. 3538 (20th Congress, filed August 12, 2025, pending in the Committee) proposes a Sierra Madre Conservation and Development Authority; title match only, text not reviewed.",
+   "Earlier House bills proposing a Sierra Madre authority, known by title only, include HB No. 1214 and HB No. 1972 (19th Congress) and HB No. 8305 and HB No. 5634 (18th Congress), all pending in the Committee.",
+   "No Senate counterpart, substitute bill or committee report was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-11474",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Its Section 5 (Creation of the Sierra Madre Mountain Range Authority) and other compared provisions are near-identical to those of the target bill.",
+    "section": "HB-20-11474:s5",
+    "quote": "There is hereby created the Sierra Madre Mountain Range Authority (SMMRA), hereinafter referred to as the Authority, as a government-owned or -controlled corporation"
+   },
+   {
+    "id": "HB-20-11330",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Its Section 11 (Composition of the Board) and other compared provisions are near-identical to those of the target bill.",
+    "section": "HB-20-11330:s11",
+    "quote": "The Authority shall be governed by a seventeen (17)-member Board of Directors composed of the following members"
+   },
+   {
+    "id": "HB-20-11374",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Its Section 13 (Delineation of Powers and Functions) and other compared provisions are near-identical to those of the target bill.",
+    "section": "HB-20-11374:s13",
+    "quote": "The Authority shall operate as a coordinative and integrative body, and shall not duplicate or supersede the existing mandates of national agencies"
+   },
+   {
+    "id": "HB-20-11350",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Its Section 5 (Creation of the Sierra Madre Mountain Range Authority) and other compared provisions are near-identical to those of the target bill.",
+    "section": "HB-20-11350:s5",
+    "quote": "It shall be attached to the Office of the President for policy coordination and administrative supervision"
+   },
+   {
+    "id": "HB-20-11017",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Its Section 13 (Delineation of Powers and Functions) and other compared provisions are near-identical to those of the target bill.",
+    "section": "HB-20-11017:s13",
+    "quote": "It shall not exercise customary governance or determine ownership of ancestral domains."
+   },
+   {
+    "id": "HB-20-11467",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Its Section 5 (Creation of the Sierra Madre Mountain Range Authority) and other compared provisions are near-identical to those of the target bill.",
+    "section": "HB-20-11467:s5",
+    "quote": "The Authority shall be the lead policy, planning, coordinating, and regulatory body"
+   },
+   {
+    "id": "HB-20-11437",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Its Section 13 (Delineation of Powers and Functions) and other compared provisions are near-identical to those of the target bill.",
+    "section": "HB-20-11437:s13",
+    "quote": "Likewise, it shall not override LGU autonomy, except to the extent necessary to enforce consistency with national environmental laws and the Sierra Madre Master Plan."
+   },
+   {
+    "id": "HB-20-10729",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Its provisions on creation, the Board, delineation of functions and enforcement match the target bill, although sections are numbered differently and its Section 8 (Powers and Functions) is partly restructured.",
+    "section": "HB-20-10729:s5",
+    "quote": "There is hereby created the Sierra Madre Mountain Range Authority (SMMRA), hereinafter referred to as the Authority, as a government-owned or -controlled corporation"
+   },
+   {
+    "id": "HB-20-3538",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. The title proposes a differently named Sierra Madre Conservation and Development Authority.",
+    "section": "meta:HB-20-3538",
+    "quote": "CREATING FOR THE PURPOSE THE SIERRA MADRE CONSERVATION AND DEVELOPMENT AUTHORITY"
+   },
+   {
+    "id": "HB-19-1214",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. The 19th Congress title proposes a Sierra Madre Conservation and Development Authority.",
+    "section": "meta:HB-19-1214",
+    "quote": "CREATING FOR THE PURPOSE THE SIERRA MADRE CONSERVATION AND DEVELOPMENT AUTHORITY"
+   },
+   {
+    "id": "HB-19-1972",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. The 19th Congress title proposes a Sierra Madre Development Authority.",
+    "section": "meta:HB-19-1972",
+    "quote": "CREATING THE SIERRA MADRE DEVELOPMENT AUTHORITY FOR THE PURPOSE"
+   },
+   {
+    "id": "HB-18-8305",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. The 18th Congress title proposes a Sierra Madre Conservation and Development Authority.",
+    "section": "meta:HB-18-8305",
+    "quote": "CREATING THE SIERRA MADRE CONSERVATION AND DEVELOPMENT AUTHORITY FOR THE PURPOSE"
+   },
+   {
+    "id": "HB-18-5634",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. The 18th Congress title proposes a Sierra Madre Development Authority.",
+    "section": "meta:HB-18-5634",
+    "quote": "CREATING THE SIERRA MADRE DEVELOPMENT AUTHORITY FOR THE PURPOSE"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-10149",
+    "label": "Referenced in the bill",
+    "overlap": "Section 5 (Creation of the Sierra Madre Mountain Range Authority), Section 14 (Administrator of the Authority), Section 16 (Compensation and Benefits) and Section 78 (Performance Evaluation and Disclosure) place the Authority under the GOCC governance framework and GCG oversight.",
+    "section": "HB-20-11487:s5",
+    "quote": "as a government-owned or -controlled corporation with an original charter under Republic Act No. 10149"
+   },
+   {
+    "law": "RA-11995",
+    "label": "Overlapping functions",
+    "overlap": "Section 5 (Creation of the Sierra Madre Mountain Range Authority) and Section 12 (Functions of the Board) task the Authority with ecosystem and sector-dependency accounts that relate to the accounting system under RA No. 11995.",
+    "section": "HB-20-11487:s12",
+    "quote": "Approving ecosystem-accounting and sector-dependency frameworks consistent with Republic Act No. 11995"
+   },
+   {
+    "law": "RA-11038",
+    "label": "Overlapping functions",
+    "overlap": "Section 41 (Protected Area Expansion) and Section 48 (Harmonization with Other Laws) give the Authority a role in identifying and recommending protected areas under the E-NIPAS framework.",
+    "section": "HB-20-11487:s41",
+    "quote": "Recommending new protected areas to Congress for inclusion in E-NIPAS, especially areas that complete ecological corridors or buffer existing parks"
+   },
+   {
+    "law": "RA-7586",
+    "label": "Overlapping functions",
+    "overlap": "Section 35 (Resettlement and Relocation) and Section 82 (Construction with Other Laws; Repealing Clause) require harmony with the NIPAS law, whose protected-area management structures operate within the same landscape.",
+    "section": "HB-20-11487:s82",
+    "quote": "Republic Act No. 7586 as amended by Republic Act No. 11038"
+   },
+   {
+    "law": "RA-9125",
+    "label": "Overlapping functions",
+    "overlap": "Section 2 (Declaration of Policy) covers the Northern Sierra Madre, already established as a protected area with its own management under RA No. 9125.",
+    "section": "HB-20-11487:s2",
+    "quote": "The range includes the Northern Sierra Madre, which Republic Act No. 9125 recognizes as the widest remaining tropical rainforest in Luzon"
+   },
+   {
+    "law": "RA-8371",
+    "label": "Overlapping functions",
+    "overlap": "Section 41 (Protected Area Expansion) and Section 23 (Formulation and Adoption) give the Authority a role in recognizing ICCAs within ancestral domains, an area covered by the IPRA and the NCIP.",
+    "section": "HB-20-11487:s41",
+    "quote": "Formally recognizing ICCAs within ancestral domains, granting them legal protection equivalent to PAs under IPRA (RA 8371)"
+   },
+   {
+    "law": "PD-1586",
+    "label": "Referenced in the bill",
+    "overlap": "Section 13 (Delineation of Powers and Functions) and Section 82 (Construction with Other Laws; Repealing Clause) preserve the EIA System and ECC process while adding a separate Conformity Certificate.",
+    "section": "HB-20-11487:s82",
+    "quote": "Republic Act No. 7160, Presidential Decree No. 1586, Republic Act No. 10149"
+   },
+   {
+    "law": "RA-9175",
+    "label": "Referenced in the bill",
+    "overlap": "Section 38 (Forest Protection and Management) sets illegal logging penalties without prejudice to those under RA No. 9175.",
+    "section": "HB-20-11487:s38",
+    "quote": "These penalties are without prejudice to penalties under Republic Act No. 9175 or the Illegal Logging Act."
+   },
+   {
+    "law": "RA-9147",
+    "label": "Referenced in the bill",
+    "overlap": "Section 39 (Biodiversity Conservation) imposes wildlife penalties in addition to those under RA No. 9147.",
+    "section": "HB-20-11487:s39",
+    "quote": "These penalties are in addition to those under the Wildlife Act or RA 9147."
+   },
+   {
+    "law": "RA-7279",
+    "label": "Referenced in the bill",
+    "overlap": "Section 35 (Resettlement and Relocation) requires resettlement under the measure to comply with RA No. 7279.",
+    "section": "HB-20-11487:s35",
+    "quote": "Comply with Republic Act No. 7279, otherwise known as the Urban Development and Housing Act of 1992, as amended"
+   }
+  ],
+  "salient_features": "HB No. 11487 seeks to create the Sierra Madre Mountain Range Authority (SMMRA) as a government-owned or -controlled corporation responsible for range-wide planning, regulation and coordination for the Sierra Madre Mountain Range. Its salient features are as follows:\na. Section 5 (Creation of the Sierra Madre Mountain Range Authority) provides that the SMMRA is created as a GOCC with an original charter under RA No. 10149, attached to the Office of the President for policy coordination and administrative supervision, subject to GCG oversight and coordinating with the DENR.\nb. Section 6 (Institutional Linkages and Mandates) provides that the Authority shall coordinate with nine named agencies and assigns additional mandates, including binding implementation and data-sharing protocols, to the DENR, the EMB, LGUs, GOCCs, PAMBs and other institutions.\nc. Section 7 (Powers and Functions) provides that the Authority shall formulate and periodically update a 25-year Sierra Madre Master Plan and establish a range-wide hydrological, climate and disaster-risk baseline, among other functions.\nd. Section 10 (Corporate Powers of the Authority) provides that the Authority may contract, acquire property, borrow and issue bonds, administer the Sierra Madre Fund, and impose and retain fees and charges related to nature credits and its registry.\ne. Section 11 (Composition of the Board) provides for a seventeen-member Board of Directors chaired ex officio by the Executive Secretary, with the DENR Secretary as Vice Chairperson, and including other department secretaries, the NCIP Chairperson, LGU, ICC/IP, PAMB and private-sector representatives.\nf. Section 12 (Functions of the Board) provides that the Board exercises policy-making and oversight functions, including approving the Master Plan, nature-credit methodologies, and fee and revenue-allocation rules.\ng. Section 13 (Delineation of Powers and Functions) provides that the Authority shall act as a coordinative body and shall not issue ECCs, tenure instruments, protected-area permits, NCIP certifications or LGU permits.\nh. Section 14 (Administrator of the Authority) provides that the Authority shall be headed by an Administrator, appointed by the President from a GCG shortlist, for a five-year term with one reappointment.\ni. Section 16 (Compensation and Benefits) provides that the Administrator and personnel shall be compensated under the GCG Compensation and Position Classification System; no salary grades are stated.\nj. Section 17 (Powers and Functions of the Administrator) provides the Administrator's duties and requires eight functionally separate offices, with the organizational structure and staffing pattern submitted to the GCG, the Civil Service Commission and the DBM.\nk. Section 21 (Initial Capitalization) provides for an initial start-up fund from the National Treasury, a Central Office in Region II and satellite offices in Regions III and IV-A, phased release of funds, and subsequent funding from annual appropriations and own-source revenues.\nl. Section 23 (Formulation and Adoption) and Section 24 (Landscape Zoning System) provide for a 25-year Master Plan to be adopted within one year, with a landscape zoning system of core, sustainable use, buffer and special management zones.\nm. Section 25 (Consistency with the Sierra Madre Master Plan) provides that the Master Plan binds national agencies, GOCCs and LGUs, and that covered actions require a Sierra Madre Master Plan Conformity Certificate issued by the Authority.\nn. Section 38 (Forest Protection and Management) and Section 39 (Biodiversity Conservation) provide for a no-logging rule in primary forests, a Sierra Madre Forest Protection Corps, wildlife rescue centers and penalties for illegal logging and wildlife offenses.\no. Section 58 (Police and Enforcement Powers) provides that the Authority may deputize the AFP and request assistance from the PNP, NBI, DENR and LGUs, and that a portion of its revenues may be allocated to the AFP.\np. Section 78 (Performance Evaluation and Disclosure) provides that the Authority is subject to the GCG Performance Evaluation System and a scorecard with ecological, compliance and market-integrity indicators.\nq. Section 82 (Construction with Other Laws; Repealing Clause) provides that the measure shall be construed in harmony with existing environmental, Indigenous Peoples', local-government and GOCC laws, and modifies inconsistent laws only to the extent of the inconsistency.",
+  "related_measures_policy": "HB No. 11487 may be considered alongside HB Nos. 11474, 11330, 11374, 11350, 11017, 11467, 11437 and 10729, which carry substantially the same provisions, and HB No. 3538, which proposes a differently named Sierra Madre Conservation and Development Authority. No direct match with the FY 2027 Budget Priorities Framework or the LEDAC Common Legislative Agenda was identified. The review should assess whether a new GOCC is warranted in light of the Government Optimization Act (RA No. 12231), and how Section 25 (Consistency with the Sierra Madre Master Plan) and Section 13 (Delineation of Powers and Functions) interact with the protected-area management structures under RA No. 7586 as amended by RA No. 11038, the Northern Sierra Madre protected area under RA No. 9125, the EIA System under PD No. 1586, the NCIP mandate under RA No. 8371, and the ecosystem accounting arrangements under RA No. 11995. The review should also assess the fiscal implications of Section 21 (Initial Capitalization), the fee and revenue-retention arrangements in Section 10 (Corporate Powers of the Authority), and the allocation of revenues to the AFP under Section 58 (Police and Enforcement Powers).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Initial start-up fund of Five Hundred Million Pesos (₱500,000,000.00) authorized to be appropriated from the National Treasury; release phased against an organizational plan approved by the GCG and the DBM and implementation milestones.",
+    "section": "Section 21 (Initial Capitalization)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Subsequent requirements to be supported by annual appropriations and the Authority's own-source revenues from fees and the Market Administration Charge.",
+    "section": "Section 21 (Initial Capitalization)"
+   },
+   {
+    "item": "Own-source revenues",
+    "detail": "Authority may impose and retain application, registration, review, issuance and registry fees, among other charges.",
+    "section": "Section 10 (Corporate Powers of the Authority)"
+   },
+   {
+    "item": "Offices",
+    "detail": "Central Office in Region II (Cagayan Valley) and satellite offices in Region III (Central Luzon) and Region IV-A (CALABARZON).",
+    "section": "Section 21 (Initial Capitalization)"
+   },
+   {
+    "item": "Position",
+    "detail": "Administrator as Chief Executive Officer, five-year term; compensation under the GCG Compensation and Position Classification System, no salary grade stated.",
+    "section": "Section 14 (Administrator of the Authority)"
+   },
+   {
+    "item": "Personnel",
+    "detail": "Officers and employees compensated under the GCG Compensation and Position Classification System; staffing pattern to be submitted to the GCG, CSC and DBM.",
+    "section": "Section 16 (Compensation and Benefits)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Eight functionally separate offices, including the Sierra Madre Fund and Corporate Services.",
+    "section": "Section 17 (Powers and Functions of the Administrator)"
+   },
+   {
+    "item": "Members",
+    "detail": "Seventeen-member Board of Directors with ex officio and sectoral members; no per diem or allowance stated in the available text.",
+    "section": "Section 11 (Composition of the Board)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Sierra Madre Forest Protection Corps to be organized by the Authority for forest patrols and enforcement.",
+    "section": "Section 38 (Forest Protection and Management)"
+   },
+   {
+    "item": "Revenue allocation",
+    "detail": "Portion of fees, charges, fines and other revenues, as determined by the Board, may be allocated to the AFP for personnel and equipment.",
+    "section": "Section 58 (Police and Enforcement Powers)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm with the House whether HB No. 11487 and the near-identical bills HB Nos. 11474, 11330, 11374, 11350, 11017, 11467, 11437 and 10729 have been referred to the same committee or consolidated.",
+   "Section 38 (Forest Protection and Management) refers to RA No. 9175 as the Illegal Logging Act; RA No. 9175 regulates chain saws, so the intended reference should be verified.",
+   "Verify that the members listed in Section 11 (Composition of the Board) add up to the stated seventeen.",
+   "Section 17 (Powers and Functions of the Administrator) submits the staffing pattern to the GCG, CSC and DBM, while Section 21 (Initial Capitalization) refers to an organizational plan approved by the GCG and the DBM; confirm which body approves the organizational structure.",
+   "Assess whether the coordinative role stated in Section 13 (Delineation of Powers and Functions) is consistent with the mandatory Conformity Certificate in Section 25 (Consistency with the Sierra Madre Master Plan).",
+   "Section 6 (Institutional Linkages and Mandates): \"Department of Public Works and Highway\" should likely read \"Department of Public Works and Highways\".",
+   "Section 39 (Biodiversity Conservation): \"threatened and or endemic\" should likely read \"threatened and/or endemic\".",
+   "Section 25 (Consistency with the Sierra Madre Master Plan): a sentence begins with a lowercase \"the Sierra Madre Master Plan\"."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Its Section 5 (Creation of the Sierra Madre Mountain Range Authority) and other compared provisions are near-identical to those of the target bill.",
+   "section": "HB-20-11474:s5",
+   "quote": "There is hereby created the Sierra Madre Mountain Range Authority (SMMRA), hereinafter referred to as the Authority, as a government-owned or -controlled corporation",
+   "check": "verified"
+  },
+  {
+   "claim": "Its Section 11 (Composition of the Board) and other compared provisions are near-identical to those of the target bill.",
+   "section": "HB-20-11330:s11",
+   "quote": "The Authority shall be governed by a seventeen (17)-member Board of Directors composed of the following members",
+   "check": "verified"
+  },
+  {
+   "claim": "Its Section 13 (Delineation of Powers and Functions) and other compared provisions are near-identical to those of the target bill.",
+   "section": "HB-20-11374:s13",
+   "quote": "The Authority shall operate as a coordinative and integrative body, and shall not duplicate or supersede the existing mandates of national agencies",
+   "check": "verified"
+  },
+  {
+   "claim": "Its Section 5 (Creation of the Sierra Madre Mountain Range Authority) and other compared provisions are near-identical to those of the target bill.",
+   "section": "HB-20-11350:s5",
+   "quote": "It shall be attached to the Office of the President for policy coordination and administrative supervision",
+   "check": "verified"
+  },
+  {
+   "claim": "Its Section 13 (Delineation of Powers and Functions) and other compared provisions are near-identical to those of the target bill.",
+   "section": "HB-20-11017:s13",
+   "quote": "It shall not exercise customary governance or determine ownership of ancestral domains.",
+   "check": "verified"
+  },
+  {
+   "claim": "Its Section 5 (Creation of the Sierra Madre Mountain Range Authority) and other compared provisions are near-identical to those of the target bill.",
+   "section": "HB-20-11467:s5",
+   "quote": "The Authority shall be the lead policy, planning, coordinating, and regulatory body",
+   "check": "verified"
+  },
+  {
+   "claim": "Its Section 13 (Delineation of Powers and Functions) and other compared provisions are near-identical to those of the target bill.",
+   "section": "HB-20-11437:s13",
+   "quote": "Likewise, it shall not override LGU autonomy, except to the extent necessary to enforce consistency with national environmental laws and the Sierra Madre Master Plan.",
+   "check": "verified"
+  },
+  {
+   "claim": "Its provisions on creation, the Board, delineation of functions and enforcement match the target bill, although sections are numbered differently and its Section 8 (Powers and Functions) is partly restructured.",
+   "section": "HB-20-10729:s5",
+   "quote": "There is hereby created the Sierra Madre Mountain Range Authority (SMMRA), hereinafter referred to as the Authority, as a government-owned or -controlled corporation",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The title proposes a differently named Sierra Madre Conservation and Development Authority.",
+   "section": "meta:HB-20-3538",
+   "quote": "CREATING FOR THE PURPOSE THE SIERRA MADRE CONSERVATION AND DEVELOPMENT AUTHORITY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The 19th Congress title proposes a Sierra Madre Conservation and Development Authority.",
+   "section": "meta:HB-19-1214",
+   "quote": "CREATING FOR THE PURPOSE THE SIERRA MADRE CONSERVATION AND DEVELOPMENT AUTHORITY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The 19th Congress title proposes a Sierra Madre Development Authority.",
+   "section": "meta:HB-19-1972",
+   "quote": "CREATING THE SIERRA MADRE DEVELOPMENT AUTHORITY FOR THE PURPOSE",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The 18th Congress title proposes a Sierra Madre Conservation and Development Authority.",
+   "section": "meta:HB-18-8305",
+   "quote": "CREATING THE SIERRA MADRE CONSERVATION AND DEVELOPMENT AUTHORITY FOR THE PURPOSE",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The 18th Congress title proposes a Sierra Madre Development Authority.",
+   "section": "meta:HB-18-5634",
+   "quote": "CREATING THE SIERRA MADRE DEVELOPMENT AUTHORITY FOR THE PURPOSE",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 5 (Creation of the Sierra Madre Mountain Range Authority), Section 14 (Administrator of the Authority), Section 16 (Compensation and Benefits) and Section 78 (Performance Evaluation and Disclosure) place the Authority under the GOCC governance framework and GCG oversight.",
+   "section": "HB-20-11487:s5",
+   "quote": "as a government-owned or -controlled corporation with an original charter under Republic Act No. 10149",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 5 (Creation of the Sierra Madre Mountain Range Authority) and Section 12 (Functions of the Board) task the Authority with ecosystem and sector-dependency accounts that relate to the accounting system under RA No. 11995.",
+   "section": "HB-20-11487:s12",
+   "quote": "Approving ecosystem-accounting and sector-dependency frameworks consistent with Republic Act No. 11995",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 41 (Protected Area Expansion) and Section 48 (Harmonization with Other Laws) give the Authority a role in identifying and recommending protected areas under the E-NIPAS framework.",
+   "section": "HB-20-11487:s41",
+   "quote": "Recommending new protected areas to Congress for inclusion in E-NIPAS, especially areas that complete ecological corridors or buffer existing parks",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 35 (Resettlement and Relocation) and Section 82 (Construction with Other Laws; Repealing Clause) require harmony with the NIPAS law, whose protected-area management structures operate within the same landscape.",
+   "section": "HB-20-11487:s82",
+   "quote": "Republic Act No. 7586 as amended by Republic Act No. 11038",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 2 (Declaration of Policy) covers the Northern Sierra Madre, already established as a protected area with its own management under RA No. 9125.",
+   "section": "HB-20-11487:s2",
+   "quote": "The range includes the Northern Sierra Madre, which Republic Act No. 9125 recognizes as the widest remaining tropical rainforest in Luzon",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 41 (Protected Area Expansion) and Section 23 (Formulation and Adoption) give the Authority a role in recognizing ICCAs within ancestral domains, an area covered by the IPRA and the NCIP.",
+   "section": "HB-20-11487:s41",
+   "quote": "Formally recognizing ICCAs within ancestral domains, granting them legal protection equivalent to PAs under IPRA (RA 8371)",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 13 (Delineation of Powers and Functions) and Section 82 (Construction with Other Laws; Repealing Clause) preserve the EIA System and ECC process while adding a separate Conformity Certificate.",
+   "section": "HB-20-11487:s82",
+   "quote": "Republic Act No. 7160, Presidential Decree No. 1586, Republic Act No. 10149",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 38 (Forest Protection and Management) sets illegal logging penalties without prejudice to those under RA No. 9175.",
+   "section": "HB-20-11487:s38",
+   "quote": "These penalties are without prejudice to penalties under Republic Act No. 9175 or the Illegal Logging Act.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 39 (Biodiversity Conservation) imposes wildlife penalties in addition to those under RA No. 9147.",
+   "section": "HB-20-11487:s39",
+   "quote": "These penalties are in addition to those under the Wildlife Act or RA 9147.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 35 (Resettlement and Relocation) requires resettlement under the measure to comply with RA No. 7279.",
+   "section": "HB-20-11487:s35",
+   "quote": "Comply with Republic Act No. 7279, otherwise known as the Urban Development and Housing Act of 1992, as amended",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T10:07:12+00:00"
+ }
+}
