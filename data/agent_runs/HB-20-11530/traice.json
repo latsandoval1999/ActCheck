@@ -1,0 +1,240 @@
+{
+ "output": {
+  "target": "HB-20-11530",
+  "entity_proposed": "National Cybersecurity Agency (NCSA); the title also refers to a National Cybersecurity College",
+  "proposal": "HB No. 11530, the proposed \"Cybersecurity Act of 2026,\" seeks to create the National Cybersecurity Agency (NCSA) as an agency attached to the Department of Information and Communications Technology (DICT), to which the DICT Cybersecurity Bureau and all cybersecurity functions are transferred, and to establish a regulatory framework for the protection of critical information infrastructure (CII) against cybersecurity threats and incidents.",
+  "alignment": "As a government organization measure, the review should examine how the NCSA's mandate and powers fit with those of the DICT and its Cybersecurity Bureau, which the bill transfers in full, and with the existing National Cybersecurity Inter-Agency Committee and the National Cybersecurity Plan 2023-2028 adopted by executive issuance, as well as whether the creation of a new attached agency and of a Chief Information Security Officer position in every national government agency, GOCC and LGU is consistent with the streamlining and reduction of overlapping functions under the Government Optimization Act (RA No. 12231). The measure aligns most closely with the Digitalization priority area of the FY 2027 Budget Priorities Framework, which covers digital infrastructure and platforms, rather than Infrastructure Development. It corresponds to item 28 of the LEDAC Common Legislative Agenda (Cybersecurity Act).",
+  "legislative_history": [
+   "HB No. 11530 was filed in the 20th Congress on September 29, 2026 by Representative Angelo Marcos Barba; it is pending at the filing stage, and later stages are not yet recorded.",
+   "HB No. 2826 (filed July 31, 2025), HB No. 3822 (filed August 18, 2025) and HB No. 4381 (filed September 8, 2025), all in the 20th Congress and pending in the committee, carry nearly identical titles on CII protection and the creation of the National Cybersecurity Agency; their texts were not reviewed.",
+   "SB No. 1163 (Cybersecurity Act), filed in the Senate on August 7, 2025 and pending in the committee, also seeks to establish the National Cybersecurity Agency and may be the counterpart measure; its text was not reviewed.",
+   "No substitute bill or committee report on HB No. 11530 is recorded."
+  ],
+  "related": [
+   {
+    "id": "HB-20-2826",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-2826",
+    "quote": "AN ACT AUTHORIZING THE PROTECTION OF CRITICAL INFORMATION INFRASTRUCTURE AGAINST CYBERSECURITY THREATS AND INCIDENTS, CREATING THE NATIONAL CYBERSECURITY AGENCY"
+   },
+   {
+    "id": "HB-20-3822",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-3822",
+    "quote": "AND CREATING THE NATIONAL CYBERSECURITY AGENCY, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-4381",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-4381",
+    "quote": "AN ACT AUTHORIZING THE PROTECTION OF CRITICAL INFORMATION INFRASTRUCTURE AGAINST CYBERSECURITY THREATS AND INCIDENTS, AND CREATING THE NATIONAL CYBERSECURITY AGENCY"
+   },
+   {
+    "id": "SB-20-1163",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed. The Senate measure carries the same short title and also establishes the National Cybersecurity Agency.",
+    "section": "meta:SB-20-1163",
+    "quote": "CYBERSECURITY ACT: AN ACT ESTABLISHING THE NATIONAL CYBERSECURITY AGENCY"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-6656",
+    "label": "Referenced in the bill",
+    "overlap": "Section 11 (Transfer of Agencies and Personnel to the NCSA) applies the reorganization law to the reorganization process of the NCSA.",
+    "section": "HB-20-11530:s11",
+    "quote": "The laws and rules on government reorganization as provided for in Republic Act No. 6656 (R.A. No. 6656), otherwise known as the Reorganization Law"
+   },
+   {
+    "law": "EO-366",
+    "label": "Referenced in the bill",
+    "overlap": "Section 9 (Separation and Retirement from Service) grants separation benefits under Executive Order No. 366, series of 2004, to employees affected by the reorganization.",
+    "section": "HB-20-11530:s9",
+    "quote": "shall receive separation benefits to which they may be entitled under Executive Order No. 366, (E.O. No. 366), series of 2004"
+   },
+   {
+    "law": "RA-11479",
+    "label": "Referenced in the bill",
+    "overlap": "Section 30 (Liabilities under the Anti-Terrorism Act of 2020) makes attacks on critical infrastructure and CII punishable under the Anti-Terrorism Act and cross-references its definition of critical infrastructure.",
+    "section": "HB-20-11530:s30",
+    "quote": "shall be liable under Sec. 4 (c) of the Anti-Terrorism Act of 2020"
+   },
+   {
+    "law": "RA-11659",
+    "label": "Referenced in the bill",
+    "overlap": "Section 30 (Liabilities under the Anti-Terrorism Act of 2020) cross-references the definition of critical infrastructure in the amended Public Service Act.",
+    "section": "HB-20-11530:s30",
+    "quote": "Section 2 (e) of Republic Act No. 11659"
+   },
+   {
+    "law": "RA-10175",
+    "label": "Referenced in the bill",
+    "overlap": "Section 30 (Liabilities under the Anti-Terrorism Act of 2020) cross-references the definition of critical infrastructure in the Cybercrime Prevention Act.",
+    "section": "HB-20-11530:s30",
+    "quote": "or Section 3 (j) of Republic Act No. 10175"
+   },
+   {
+    "law": "EO-95-2019",
+    "label": "Overlapping functions",
+    "overlap": "The NCSA's policy planning and coordination functions under Section 6 (Powers and Functions) may overlap with those of the National Cybersecurity Inter-Agency Committee.",
+    "section": "law:EO-95-2019",
+    "quote": "AMENDING EXECUTIVE ORDER NO. 189 (S. 2015) AND FOR OTHER PURPOSES"
+   },
+   {
+    "law": "EO-189-2015",
+    "label": "Overlapping functions",
+    "overlap": "The committee created by this issuance covers the cybersecurity coordination role that Section 5 (Mandate) and Section 6 (Powers and Functions) assign to the NCSA.",
+    "section": "law:EO-189-2015",
+    "quote": "CREATING THE NATIONAL CYBERSECURITY INTER-AGENCY COMMITTEE"
+   },
+   {
+    "law": "EO-58-2024",
+    "label": "Overlapping functions",
+    "overlap": "Section 6 (Powers and Functions) and Section 11 (Transfer of Agencies and Personnel to the NCSA) vest the formulation and implementation of the National Cybersecurity Plan in the NCSA.",
+    "section": "law:EO-58-2024",
+    "quote": "ADOPTING THE NATIONAL CYBERSECURITY PLAN 2023-2028, AND DIRECTING THE IMPLEMENTATION THEREOF"
+   }
+  ],
+  "salient_features": "HB No. 11530 seeks to create the National Cybersecurity Agency (NCSA) and to establish a framework for the protection of critical information infrastructure against cybersecurity threats and incidents. Its salient features are as follows:\na. Section 4 (Creation of the National Cybersecurity Agency) provides that the NCSA is created as an agency attached to the DICT.\nb. Section 5 (Mandate) provides that the NCSA shall be the primary policy, planning, coordinating, implementing and administrative entity for the national cybersecurity strategy of the government.\nc. Section 6 (Powers and Functions) provides that the NCSA shall, among others, formulate cybersecurity policies and the National Cybersecurity Plan, set national standards for cybersecurity products and protocols, coordinate all government cybersecurity activities, advise the three branches and constitutional bodies, create a National Vulnerability Disclosure Program, and exercise CII protection functions.\nd. Section 7 (Composition) provides that the NCSA shall be headed by a Director-General with the rank of Undersecretary, assisted by two Deputy Directors-General with the rank of Assistant Secretary; salary grades are not stated.\ne. Section 9 (Separation and Retirement from Service) provides that employees separated within six months as a result of the reorganization shall receive separation benefits under Executive Order No. 366, series of 2004, and that qualified employees may retire under existing laws.\nf. Section 10 (Structure and Staffing Pattern) provides that the NCSA shall determine its organizational structure and create new divisions or units, subject to DBM approval.\ng. Section 11 (Transfer of Agencies and Personnel to the NCSA) provides that the DICT Cybersecurity Bureau, with its functions, funds, records, property and personnel, and all cybersecurity-related functions shall be transferred to the NCSA within six months, under the rules of RA No. 6656.\nh. Sections 12 to 21 provide for the designation and regulation of CII and essential service providers, compliance requirements, cybersecurity audits and risk assessments, mandatory disclosure of incidents, government assistance to CII operators, confidentiality of CII documents, withdrawal of CII designation and reconsideration of certification.\ni. Section 22 (Creation of a Chief Information Security Officer) provides that each national government agency, GOCC and LGU shall create a Chief Information Security Officer position to lead its Government Computer Emergency Response Team.\nj. Sections 23 to 26 provide for a Cybersecurity Anchor of Trust System, a voluntary rating system and the certification of Internet of Things devices, including validity and appeal of certification.\nk. Sections 27 to 30 provide for sanctions for non-compliance of CII operators, unauthorized disclosure of confidential information and penalties, and make attacks on critical infrastructure and CII punishable under the Anti-Terrorism Act of 2020.\nl. Section 31 (Authority to Accept Assistance and/or Donations) provides that the NCSA may accept donations, grants and gifts from domestic or foreign sources, subject to existing laws.\nm. Section 32 (Appropriations) provides that initial implementation shall be charged against the current appropriations of concerned agencies, and that funding thereafter shall be included in the annual General Appropriations Act.\nn. Section 37 (Utilization of the collected fees, fines, and penalties) provides for the use of fees, fines and penalties collected under the Act.",
+  "related_measures_policy": "HB No. 11530 may be considered alongside HB Nos. 2826, 3822 and 4381, which carry nearly identical titles in the House, and SB No. 1163 in the Senate, all pending in the committee in the 20th Congress, and responds to item 28 of the LEDAC Common Legislative Agenda (Cybersecurity Act). The measure supports the Digitalization priority area of the FY 2027 Budget Priorities Framework. The review should assess the overlap between the NCSA's functions under Section 5 (Mandate) and Section 6 (Powers and Functions) and those of the DICT, the National Cybersecurity Inter-Agency Committee under EO No. 189 (s. 2015), as amended by EO No. 95 (s. 2019), and the National Cybersecurity Plan adopted under EO No. 58 (s. 2024); the reorganization and personnel arrangements under Section 9 (Separation and Retirement from Service) and Section 11 (Transfer of Agencies and Personnel to the NCSA) in relation to RA No. 6656; the cost of the mandatory Chief Information Security Officer positions under Section 22 (Creation of a Chief Information Security Officer); and consistency with the streamlining objectives of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged against current and available appropriations of concerned agencies; no amount stated",
+    "section": "Section 32 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act",
+    "section": "Section 32 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Director-General with the rank of Undersecretary; salary grade not stated",
+    "section": "Section 7 (Composition)"
+   },
+   {
+    "item": "Position",
+    "detail": "Two Deputy Directors-General with the rank of Assistant Secretary; salary grade not stated",
+    "section": "Section 7 (Composition)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Organizational structure and new divisions or units, subject to DBM approval",
+    "section": "Section 10 (Structure and Staffing Pattern)"
+   },
+   {
+    "item": "Transfer",
+    "detail": "DICT Cybersecurity Bureau with its funds, appropriations, property and personnel transferred to the NCSA within six months",
+    "section": "Section 11 (Transfer of Agencies and Personnel to the NCSA)"
+   },
+   {
+    "item": "Separation benefits",
+    "detail": "Separation and retirement benefits for employees affected by the reorganization",
+    "section": "Section 9 (Separation and Retirement from Service)"
+   },
+   {
+    "item": "Position",
+    "detail": "A Chief Information Security Officer position in each national government agency, GOCC and LGU",
+    "section": "Section 22 (Creation of a Chief Information Security Officer)"
+   },
+   {
+    "item": "Other sources",
+    "detail": "Donations, grants and gifts from domestic or foreign sources; use of collected fees, fines and penalties",
+    "section": "Section 31 (Authority to Accept Assistance and/or Donations); Section 37 (Utilization of the collected fees, fines, and penalties)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm whether the bill actually provides for the creation of the National Cybersecurity College named in its title, and where.",
+   "Section 4 (Creation of the National Cybersecurity Agency) and Section 11 (Transfer of Agencies and Personnel to the NCSA) both state the attachment to the DICT; verify consistency with the statement that the NCSA operates laterally.",
+   "Verify typographical errors, including the acronym for Critical Information Infrastructure in Section 3 (Definition of Terms) and the heading of Section 12.",
+   "Section 30 (Liabilities under the Anti-Terrorism Act of 2020) refers to Section 3 (f) for the definition of Critical Infrastructure; verify the cross-reference.",
+   "Confirm the salary grades of the Director-General and Deputy Directors-General, which are not stated.",
+   "Confirm the reference to Executive Order No. 366, series of 2004, as the basis of separation benefits.",
+   "Confirm the status and texts of HB Nos. 2826, 3822 and 4381 and SB No. 1163 with the House and Senate, including any consolidation."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-2826",
+   "quote": "AN ACT AUTHORIZING THE PROTECTION OF CRITICAL INFORMATION INFRASTRUCTURE AGAINST CYBERSECURITY THREATS AND INCIDENTS, CREATING THE NATIONAL CYBERSECURITY AGENCY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-3822",
+   "quote": "AND CREATING THE NATIONAL CYBERSECURITY AGENCY, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-4381",
+   "quote": "AN ACT AUTHORIZING THE PROTECTION OF CRITICAL INFORMATION INFRASTRUCTURE AGAINST CYBERSECURITY THREATS AND INCIDENTS, AND CREATING THE NATIONAL CYBERSECURITY AGENCY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The Senate measure carries the same short title and also establishes the National Cybersecurity Agency.",
+   "section": "meta:SB-20-1163",
+   "quote": "CYBERSECURITY ACT: AN ACT ESTABLISHING THE NATIONAL CYBERSECURITY AGENCY",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 11 (Transfer of Agencies and Personnel to the NCSA) applies the reorganization law to the reorganization process of the NCSA.",
+   "section": "HB-20-11530:s11",
+   "quote": "The laws and rules on government reorganization as provided for in Republic Act No. 6656 (R.A. No. 6656), otherwise known as the Reorganization Law",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Separation and Retirement from Service) grants separation benefits under Executive Order No. 366, series of 2004, to employees affected by the reorganization.",
+   "section": "HB-20-11530:s9",
+   "quote": "shall receive separation benefits to which they may be entitled under Executive Order No. 366, (E.O. No. 366), series of 2004",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 30 (Liabilities under the Anti-Terrorism Act of 2020) makes attacks on critical infrastructure and CII punishable under the Anti-Terrorism Act and cross-references its definition of critical infrastructure.",
+   "section": "HB-20-11530:s30",
+   "quote": "shall be liable under Sec. 4 (c) of the Anti-Terrorism Act of 2020",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 30 (Liabilities under the Anti-Terrorism Act of 2020) cross-references the definition of critical infrastructure in the amended Public Service Act.",
+   "section": "HB-20-11530:s30",
+   "quote": "Section 2 (e) of Republic Act No. 11659",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 30 (Liabilities under the Anti-Terrorism Act of 2020) cross-references the definition of critical infrastructure in the Cybercrime Prevention Act.",
+   "section": "HB-20-11530:s30",
+   "quote": "or Section 3 (j) of Republic Act No. 10175",
+   "check": "verified"
+  },
+  {
+   "claim": "The NCSA's policy planning and coordination functions under Section 6 (Powers and Functions) may overlap with those of the National Cybersecurity Inter-Agency Committee.",
+   "section": "law:EO-95-2019",
+   "quote": "AMENDING EXECUTIVE ORDER NO. 189 (S. 2015) AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "The committee created by this issuance covers the cybersecurity coordination role that Section 5 (Mandate) and Section 6 (Powers and Functions) assign to the NCSA.",
+   "section": "law:EO-189-2015",
+   "quote": "CREATING THE NATIONAL CYBERSECURITY INTER-AGENCY COMMITTEE",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 6 (Powers and Functions) and Section 11 (Transfer of Agencies and Personnel to the NCSA) vest the formulation and implementation of the National Cybersecurity Plan in the NCSA.",
+   "section": "law:EO-58-2024",
+   "quote": "ADOPTING THE NATIONAL CYBERSECURITY PLAN 2023-2028, AND DIRECTING THE IMPLEMENTATION THEREOF",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-18T04:06:49+00:00"
+ }
+}
