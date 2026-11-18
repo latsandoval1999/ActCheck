@@ -1,0 +1,164 @@
+{
+ "output": {
+  "target": "HB-20-11765",
+  "entity_proposed": "National Office of Commuter Affairs (National Office)",
+  "proposal": "HB No. 11765 seeks to provide a Magna Carta for commuters that sets out enforceable commuter rights to adequate, affordable, safe and accessible public transportation, and to create the National Office of Commuter Affairs under the Department of Transportation (DOTr), together with Local Offices of Commuter Affairs in cities and urbanized municipalities, to administer and implement these rights.",
+  "alignment": "As a government organization and mandates measure, the review should examine how the functions of the proposed National Office of Commuter Affairs under Section 4 (National Office of Commuter Affairs), including help desks, commuter assistance, information campaigns and road safety monitoring under Section 9 (Right to Road Safety), fit with those of the DOTr, the Land Transportation Franchising and Regulatory Board (LTFRB) and other bodies named in Section 19 (Implementing Rules and Regulations), and whether the creation of a new office headed by an Assistant Secretary is consistent with the government's intent to streamline agencies and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess the mandate imposed on cities and urbanized municipalities to establish Local Offices under Section 5 (Local Office of Commuter Affairs). No direct match with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 11765 was filed on October 28, 2026 by Representative Leila M. De Lima; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "HB No. 9924 (20th Congress), titled a Magna Carta of Commuters, was likewise filed in the House and proposes an Office of Commuter Affairs at the DOTr with a similar supervisory structure.",
+   "SB No. 290 (20th Congress), filed on July 9, 2025 and pending in the committee, bears the same long title and appears to be the Senate counterpart.",
+   "SB No. 775 (18th Congress), filed on July 24, 2019 and pending in the committee, bears the same long title.",
+   "Earlier House measures creating an Office of Commuter Affairs were filed as HB No. 7591 (19th Congress) and HB Nos. 752 and 4674 (18th Congress), all pending in the committee."
+  ],
+  "related": [
+   {
+    "id": "HB-20-9924",
+    "relationship": "Alternative proposal",
+    "basis": "Same-Congress House measure on commuter rights proposing an Office of Commuter Affairs at the DOTr under an Assistant Secretary; only part of its text is available for comparison.",
+    "section": "HB-20-9924:s12",
+    "quote": "An Office of Commuter Affairs shall be established at the DOTr at the national level, as well as in all city and municipal government units."
+   },
+   {
+    "id": "SB-20-290",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-20-290",
+    "quote": "AN ACT PROVIDING FOR A MAGNA CARTA FOR DIGNIFIED COMMUTING, CREATING THE NATIONAL OFFICE OF COMMUTER AFFAIRS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "SB-18-775",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-18-775",
+    "quote": "AN ACT PROVIDING FOR A MAGNA CARTA FOR DIGNIFIED COMMUTING, CREATING THE NATIONAL OFFICE OF COMMUTER AFFAIRS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "HB-19-7591",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title covers the creation of an Office of Commuter Affairs without a commuter rights charter.",
+    "section": "meta:HB-19-7591",
+    "quote": "AN ACT CREATING THE OFFICE OF COMMUTER AFFAIRS, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-18-4674",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title covers the creation of an Office of Commuter Affairs in the DOTr without a commuter rights charter.",
+    "section": "meta:HB-18-4674",
+    "quote": "AN ACT CREATING THE OFFICE OF COMMUTER AFFAIRS IN THE DEPARTMENT OF TRANSPORTATION, DEFINING ITS FUNCTIONS AND RESPONSIBILITIES, AND PROVIDING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-18-752",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title covers the creation of an Office of Commuter Affairs in the DOTr without a commuter rights charter.",
+    "section": "meta:HB-18-752",
+    "quote": "AN ACT CREATING THE OFFICE OF COMMUTER AFFAIRS IN THE DEPARTMENT OF TRANSPORTATION, DEFINING ITS FUNCTIONS AND RESPONSIBILITIES, AND PROVIDING FUNDS THEREFOR"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-8749",
+    "label": "Referenced in the bill",
+    "overlap": "Section 12 (Right to Breathe Clean Air During Travel) anchors emission enforcement and air quality monitoring along transport corridors on the Philippine Clean Air Act of 1999.",
+    "section": "HB-20-11765:s12",
+    "quote": "In line with the provisions of Republic Act No. 8749, otherwise known as the Philippine Clean Air Act of 1999"
+   }
+  ],
+  "salient_features": "HB No. 11765 seeks to establish a Magna Carta for commuters and to create the National Office of Commuter Affairs under the DOTr. Its salient features are as follows:\na. Section 2 (Declaration of Policy) provides that the State shall guarantee the right of every person to travel safely, conveniently, reliably, affordably and with dignity, and shall protect the welfare of commuters in decisions on mobility infrastructure and transportation services.\nb. Section 4 (National Office of Commuter Affairs) provides for the creation of the National Office under the DOTr, under the direct supervision of an Assistant Secretary, with functions that include coordination with transport agencies, operation of commuter help desks, assistance to commuters, information campaigns, legal assistance and commuter representation in public consultations.\nc. Section 5 (Local Office of Commuter Affairs) provides that each city and urbanized municipality shall establish a Local Office under the direct supervision of the city or municipal administrator.\nd. Sections 6 to 15 provide for commuter rights to adequate, affordable and alternative public transportation services, road safety, proper mobility infrastructure, a fair share of public road space, clean air during travel, travel information, compensation for service breakdowns, and participation in decision-making, with service standards such as maximum waiting times and minimum walkway and bike lane widths.\ne. Section 9 (Right to Road Safety) provides that the National Office, in coordination with the LTFRB, shall monitor public transportation vehicles and drivers in real time through required electronic tracking devices and CCTVs.\nf. Section 16 (Public Transportation Services and Infrastructure Plan) provides that the National and Local Offices shall publish a plan within 180 days from the effectivity of the implementing rules and update it annually.\ng. Section 17 (Penalties) provides for graduated fines on transport operators and drivers for specified violations, with franchise or license suspension for repeat offenses.\nh. Section 18 (Appropriations) provides that the initial funding shall be charged against the current appropriation of the DOTr, that fines collected shall be used exclusively for implementation, and that continuing funding shall be included in the annual GAA.\ni. Section 19 (Implementing Rules and Regulations) provides that the DOTr shall lead and coordinate implementation with the DPWH, DILG, MMDA and concerned local government units, and issue the implementing rules within 180 days from effectivity.",
+  "related_measures_policy": "HB No. 11765 may be considered alongside HB No. 9924, which likewise proposes a Magna Carta of Commuters and an Office of Commuter Affairs at the DOTr, SB No. 290, which bears the same title in the Senate, and earlier measures creating an Office of Commuter Affairs filed in the 18th and 19th Congresses. No direct alignment with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified. The review should assess whether the functions under Section 4 (National Office of Commuter Affairs) and Section 9 (Right to Road Safety) duplicate existing DOTr and LTFRB mandates in light of the Government Optimization Act (RA No. 12231), the fiscal implications for local government units of Section 5 (Local Office of Commuter Affairs) and of the service standards in Sections 6 and 10, the earmarking of fines under Section 18 (Appropriations), and the consistency of Section 12 (Right to Breathe Clean Air During Travel) with RA No. 8749.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary (no amount stated), charged against the current appropriation of the DOTr",
+    "section": "Section 18 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act",
+    "section": "Section 18 (Appropriations)"
+   },
+   {
+    "item": "Earmarked revenue",
+    "detail": "Fines collected used exclusively for implementation of the Act",
+    "section": "Section 18 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Assistant Secretary to directly supervise the National Office (salary grade not stated)",
+    "section": "Section 4 (National Office of Commuter Affairs)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Local Offices of Commuter Affairs in each city and urbanized municipality (funding source not stated)",
+    "section": "Section 5 (Local Office of Commuter Affairs)"
+   },
+   {
+    "item": "Equipment and monitoring",
+    "detail": "Real-time vehicle tracking devices and CCTVs required; cost-bearing party not stated",
+    "section": "Section 9 (Right to Road Safety)"
+   },
+   {
+    "item": "Alternative transport services",
+    "detail": "Use of government-owned vehicles, State charter, service contracting or lease of private vehicles when services are deficient (no amount stated)",
+    "section": "Section 8 (Right to Alternative Public Transportation Services)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the short title, as Section 1 (Short Title) refers to the Magna Carta for Commuters while the long title refers to a Magna Carta for Dignified Commuting.",
+   "Verify the cross-references in Section 17 (Penalties) to Sections 6, 7, 9, 12, 13 and 14.",
+   "Confirm whether the infrastructure standards in Section 10 (Right to Proper Mobility Infrastructure) are feasible and how they would be funded at the local level.",
+   "Confirm the status and text of SB No. 290 with the Senate and compare it with this bill.",
+   "Compare the full text of HB No. 9924 with this bill to determine whether they may be consolidated."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same-Congress House measure on commuter rights proposing an Office of Commuter Affairs at the DOTr under an Assistant Secretary; only part of its text is available for comparison.",
+   "section": "HB-20-9924:s12",
+   "quote": "An Office of Commuter Affairs shall be established at the DOTr at the national level, as well as in all city and municipal government units.",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-20-290",
+   "quote": "AN ACT PROVIDING FOR A MAGNA CARTA FOR DIGNIFIED COMMUTING, CREATING THE NATIONAL OFFICE OF COMMUTER AFFAIRS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-18-775",
+   "quote": "AN ACT PROVIDING FOR A MAGNA CARTA FOR DIGNIFIED COMMUTING, CREATING THE NATIONAL OFFICE OF COMMUTER AFFAIRS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the title covers the creation of an Office of Commuter Affairs without a commuter rights charter.",
+   "section": "meta:HB-19-7591",
+   "quote": "AN ACT CREATING THE OFFICE OF COMMUTER AFFAIRS, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the title covers the creation of an Office of Commuter Affairs in the DOTr without a commuter rights charter.",
+   "section": "meta:HB-18-4674",
+   "quote": "AN ACT CREATING THE OFFICE OF COMMUTER AFFAIRS IN THE DEPARTMENT OF TRANSPORTATION, DEFINING ITS FUNCTIONS AND RESPONSIBILITIES, AND PROVIDING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the title covers the creation of an Office of Commuter Affairs in the DOTr without a commuter rights charter.",
+   "section": "meta:HB-18-752",
+   "quote": "AN ACT CREATING THE OFFICE OF COMMUTER AFFAIRS IN THE DEPARTMENT OF TRANSPORTATION, DEFINING ITS FUNCTIONS AND RESPONSIBILITIES, AND PROVIDING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 12 (Right to Breathe Clean Air During Travel) anchors emission enforcement and air quality monitoring along transport corridors on the Philippine Clean Air Act of 1999.",
+   "section": "HB-20-11765:s12",
+   "quote": "In line with the provisions of Republic Act No. 8749, otherwise known as the Philippine Clean Air Act of 1999",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T00:03:01+00:00"
+ }
+}
