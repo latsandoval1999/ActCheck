@@ -1,0 +1,63 @@
+{
+ "output": {
+  "target": "HB-20-11795",
+  "entity_proposed": "Government Fleet Modernization Council (Council)",
+  "proposal": "HB No. 11795, the proposed Government Fleet Modernization Act, seeks to establish a National Government Fleet Modernization Program for the gradual transition of government-owned and government-operated vehicles from fuel-powered vehicles to electric vehicles. It aims to reduce dependence on imported petroleum, lower greenhouse gas emissions and long-term operating expenditures, and promote the domestic electric mobility industry.",
+  "alignment": "As a public program that also creates an inter-agency council, the review should examine the coverage and cost of the program across national agencies, state universities and colleges, local government units and GOCCs, the timeline of the ten-year transition, and whether the proposed Government Fleet Modernization Council duplicates existing coordination mechanisms or the functions assigned to the DOE, the DBM and the GPPB, consistent with streamlining under the Government Optimization Act (RA No. 12231). The review should also assess the budgetary impact of fleet replacement, charging infrastructure and training, which Section 15 (Funding) leaves to annual appropriations without a stated amount. No direct match with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 11795 was filed on November 9, 2026 by Representative Gerville \"Jinky Bitrics\" R. Luistro; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "No earlier version, counterpart, substitute or committee report was identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 11795 seeks to establish the National Government Fleet Modernization Program to transition government vehicle fleets from conventional fuel-powered vehicles to electric vehicles. Its salient features are as follows:\na. Section 3 (National Government Fleet Electrification and Modernization Program) provides for the establishment of the Program as the framework for the transition, anchored on principles including fuel savings, environmental sustainability, financial sustainability, charging infrastructure availability, protection of affected workers and continuity of public services.\nb. Section 4 (Coverage and Scope) provides that the Act covers all national government agencies, state universities and colleges, local government units and GOCCs, and their government-owned, leased or operated vehicles used for official functions.\nc. Section 5 (Government Fleet Inventory and Electrification Plan) provides that covered entities shall inventory their fleets within one year and prepare electrification plans for submission to the DOE and the DBM.\nd. Section 6 (Phased Electrification and Modernization) provides that new vehicle procurement shall prioritize battery electric vehicles, that existing vehicles shall be replaced based on age and condition subject to available funds, that entities shall endeavor to complete the transition within ten years, and that the DOE, with the DBM, shall set annual targets.\ne. Section 7 (Government Charging Infrastructure) provides that the DOE, with the DPWH and the DOTr, shall facilitate the installation of charging infrastructure in government facilities, including retrofitting and private partnerships.\nf. Section 8 (Financial and Institutional Support) provides that the DBP and the LBP, with the DBM and the DOE, shall develop financing mechanisms such as low-interest loans and lease-to-own schemes, and that the DBM shall issue budgetary guidelines for electrification requirements.\ng. Section 9 (Procurement of Electric Vehicles) provides that the GPPB shall issue procurement guidelines prioritizing electric vehicles on a total cost of ownership basis, with preference for locally assembled or manufactured vehicles where practicable.\nh. Section 10 (Capacity-Building and Technical Training Programs) provides that TESDA shall develop training and certification programs on electric vehicle operation and maintenance.\ni. Section 11 (Exemptions and Special Considerations) provides for exemptions for emergency, military, police, heavy-duty and specialized vehicles and vehicles in geographically isolated areas, subject to written justification and periodic review.\nj. Section 12 (Disposal and Management of Retired Government Vehicles) provides that replaced vehicles shall be disposed of under existing rules, and that the DOE and the DENR shall issue guidelines on battery and hazardous waste disposal.\nk. Section 13 (Inter-Agency Coordinating Council) provides for the creation of a Government Fleet Modernization Council chaired by the DOE, composed of the DOTr, DBM, DPWH, DENR, GPPB, DBP, LBP, GSIS, the leagues of local government units and industry representatives, to oversee the Program and report annually to the President and Congress.\nl. Section 14 (Monitoring and Evaluation) provides that the DOE, with the DBM, shall establish a monitoring and evaluation system, with annual reports from covered entities and a published consolidated report.\nm. Section 15 (Funding) provides that the initial and continuing funding shall be included in the appropriations of the DOE and other implementing agencies in the annual General Appropriations Act, and that covered entities shall include electrification expenditures in their budget proposals.\nn. Section 16 (Implementing Rules and Regulations) provides that the DOE, with concerned agencies, shall issue the implementing rules within ninety days of effectivity.",
+  "related_measures_policy": "No related bill or existing law with closely matching provisions was identified for HB No. 11795. The measure does not directly correspond to an FY 2027 Budget Priorities Framework priority area or an item in the LEDAC Common Legislative Agenda. The review should assess the total cost of the ten-year transition under Section 6 (Phased Electrification and Modernization) and Section 15 (Funding), the budgetary guidelines expected of the DBM under Section 8 (Financial and Institutional Support), the borrowing implications of GFI financing for local government units, and whether the Council under Section 13 (Inter-Agency Coordinating Council) overlaps with the functions already assigned to the DOE under Sections 6 and 14, in light of RA No. 12231.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary, no amount stated; included in DOE and other implementing agencies' appropriations in the GAA",
+    "section": "Section 15 (Funding)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary in the annual General Appropriations Act",
+    "section": "Section 15 (Funding)"
+   },
+   {
+    "item": "Agency budgets",
+    "detail": "Vehicle acquisition, charging infrastructure, maintenance and training to be included in each covered entity's budget proposal",
+    "section": "Section 15 (Funding)"
+   },
+   {
+    "item": "Charging infrastructure",
+    "detail": "Installation and retrofitting of charging stations in government facilities",
+    "section": "Section 7 (Government Charging Infrastructure)"
+   },
+   {
+    "item": "Financing mechanisms",
+    "detail": "GFI loans, lease-to-own schemes and credit facilities for LGUs",
+    "section": "Section 8 (Financial and Institutional Support)"
+   },
+   {
+    "item": "Members",
+    "detail": "Inter-agency council of government agencies, GFIs, LGU leagues and industry representatives; no secretariat or staffing specified",
+    "section": "Section 13 (Inter-Agency Coordinating Council)"
+   }
+  ],
+  "reviewer_checks": [
+   "The name of the Program differs between the heading of Section 3 (National Government Fleet Electrification and Modernization Program) and its text and the title of the bill.",
+   "Section 11 (Exemptions and Special Considerations) refers to mandatory transition requirements, while Section 6 (Phased Electrification and Modernization) frames the ten-year transition as an endeavor subject to available funds; the intended obligation should be clarified.",
+   "The target-setting roles of the DOE under Section 6 and of the Council under Section 13 overlap and should be delineated.",
+   "The heading of Section 13 (Inter-Agency Coordinating Council) does not match the name of the body it creates.",
+   "No secretariat or lead support agency for the Council is specified.",
+   "Stray line numbers appear in the text, including after the short title in Section 1 (Short Title)."
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-18T00:04:22+00:00"
+ }
+}
