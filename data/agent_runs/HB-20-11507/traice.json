@@ -1,0 +1,68 @@
+{
+ "output": {
+  "target": "HB-20-11507",
+  "entity_proposed": "National Healthcare Safety Authority (NHSA)",
+  "proposal": "HB No. 11507 seeks to establish a National Healthcare Safety and Reliability System by creating the National Healthcare Safety Authority (NHSA), attached to the Department of Health (DOH), and by mandating national patient safety standards for all healthcare facilities, in order to reduce preventable medical harm and strengthen accountability in the healthcare system.",
+  "alignment": "As a government organization measure, the review should examine whether the functions of the proposed NHSA under Section 9 (Powers and Functions), including safety audits, a national incident reporting system and a public safety rating system, can be performed by the DOH and PhilHealth under their existing mandates, and how the creation of a new attached agency relates to the government's intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also note that Section 5 (Creation of the National Healthcare Safety Authority (NHSA)) preserves the licensing, permitting, inspection and regulatory authority of the DOH, so that the NHSA would largely recommend rather than enforce, which bears on the need for a separate body. The measure aligns with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on the Universal Health Care system; no corresponding item in the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 11507 was filed in the 20th Congress on September 29, 2026 by Representative Philip Conrad \"Dok Bong\" M. Acop.",
+   "Its current status is filed and pending; later stages are not recorded.",
+   "No earlier version, counterpart Senate bill, substitute bill or committee report was identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 11507 seeks to establish a National Healthcare Safety and Reliability System and to create the National Healthcare Safety Authority (NHSA). Its salient features are as follows:\na. Section 4 (Mandatory National Patient Safety Standards) provides that all healthcare facilities shall implement minimum quality and patient safety standards, such as patient identification, medication safety, safe surgery, infection control and emergency protocols, with implementing standards to be issued by the DOH in coordination with the NHSA.\nb. Section 5 (Creation of the National Healthcare Safety Authority (NHSA)) provides that the NHSA is created and attached to the DOH for policy coordination, with technical and operational autonomy, without diminishing the existing regulatory authority of the DOH and other agencies.\nc. Section 6 (Governing Policy Board) provides that the NHSA shall be governed by a Policy Board chaired by the Secretary of Health, with the PhilHealth President and CEO as Vice-Chairperson, the NHSA Director-General, the PRC Chairperson, and representatives of healthcare professional organizations and patient advocacy groups, and that the Board may constitute Technical Advisory Committees.\nd. Section 7 (Director-General) provides that the NHSA shall be headed by a Director-General appointed by the President for a fixed term of five years; no salary grade is specified.\ne. Section 8 (Organizational Structure and Staffing) provides that the organizational structure and staffing pattern of the NHSA shall be determined by the DOH in consultation with the Director-General, subject to DBM evaluation and approval and CSC rules.\nf. Section 9 (Powers and Functions) provides that the NHSA shall develop and monitor national patient safety standards, conduct safety audits, establish a mandatory national incident reporting system, analyze safety data, publish annual safety reports, investigate major safety incidents and advise Congress and agencies on policy reforms.\ng. Section 10 (Mandatory Reporting and Protection of Reporters) provides for a Just Culture framework under which good-faith reporting of adverse events and near misses is confidential, non-punitive and protected from liability, except in cases of gross negligence, willful misconduct or criminal intent.\nh. Section 11 (Healthcare Safety Rating System) provides that the NHSA shall establish a public safety rating system for healthcare facilities.\ni. Section 12 (Integration with PhilHealth) provides that PhilHealth, in coordination with the NHSA and the DOH, shall integrate patient safety indicators into accreditation and reimbursement systems.\nj. Section 13 (Workforce Development) provides that healthcare facilities shall conduct regular patient safety training and that patient safety principles shall be integrated into health professional curricula.\nk. Section 14 (Funding) provides that the amount necessary for implementation shall be included in the annual General Appropriations Act, and that the NHSA may receive grants, donations and technical assistance.\nl. Section 15 (Implementing Rules and Regulations) provides that the DOH, in coordination with the NHSA, shall issue the implementing rules within 90 days from effectivity.",
+  "related_measures_policy": "No related bill or existing law was identified for consideration alongside HB No. 11507. The measure aligns with the Human Capital Development priority of the FY 2027 Budget Priorities Framework, particularly the Universal Health Care system. The review should assess whether the functions under Section 9 (Powers and Functions) and Section 11 (Healthcare Safety Rating System) duplicate the existing regulatory and quality functions of the DOH and the accreditation functions of PhilHealth, considering that Section 5 (Creation of the National Healthcare Safety Authority (NHSA)) leaves regulatory authority with the DOH and that Section 12 (Integration with PhilHealth) assigns the integration of safety indicators to PhilHealth, and whether these could instead be lodged in an existing office consistent with the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary; no amount stated",
+    "section": "Section 14 (Funding)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act; grants, donations and technical assistance may also be received",
+    "section": "Section 14 (Funding)"
+   },
+   {
+    "item": "Position",
+    "detail": "Director-General appointed by the President for a five-year term; salary grade not specified",
+    "section": "Section 7 (Director-General)"
+   },
+   {
+    "item": "Members",
+    "detail": "Policy Board of six members, including two sector representatives; compensation or allowances not specified",
+    "section": "Section 6 (Governing Policy Board)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Technical Advisory Committees that the Board may constitute",
+    "section": "Section 6 (Governing Policy Board)"
+   },
+   {
+    "item": "Staffing",
+    "detail": "Organizational structure and staffing pattern to be determined by the DOH, subject to DBM evaluation and approval",
+    "section": "Section 8 (Organizational Structure and Staffing)"
+   },
+   {
+    "item": "Systems",
+    "detail": "National incident reporting system and public safety rating system to be established",
+    "section": "Section 9 (Powers and Functions)"
+   }
+  ],
+  "reviewer_checks": [
+   "The short title in Section 1 refers to the National Healthcare Safety and Reliability Act, while the body created in Section 5 is the National Healthcare Safety Authority; confirm consistent naming.",
+   "Section 5 grants the NHSA technical and operational autonomy, while Section 8 assigns the determination of its structure and staffing to the DOH; verify consistency.",
+   "Section 7 does not specify the rank or salary grade of the Director-General, and Section 6 does not state how sector representatives are selected or their terms.",
+   "Check typographical and enumeration errors, including the list markers in Sections 2, 3 and 4, the blank in item (a) of Section 9, and 'prescribe guidelines' in Section 10.",
+   "Confirm with the House the current status of the bill and whether a Senate counterpart has been filed."
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-18T04:06:20+00:00"
+ }
+}
