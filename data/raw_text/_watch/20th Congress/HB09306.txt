@@ -1,0 +1,1144 @@
+                           Republic of the Philippines
+                                                                         May 19, 2026
+                         HOUSE OF REPRESENTATIVES
+                                                                           12:21 pm
+                           Quezon City, Metro Manila
+
+                              TWENTIETH CONGRESS
+                                First Regular Session
+
+                               HOUSE BILL NO. 9306
+
+—————————————————————————————————————————
+       Introduced by Representative ANTONINO B. ROMAN III
+—————————————————————————————————————————
+
+                               EXPLANATORY NOTE
+
+       The Philippines is among the most disaster-prone countries in the world.
+Typhoons, earthquakes, floods, storm surges, volcanic eruptions, landslides, public
+health emergencies, cyber incidents, armed conflict, and other crises regularly test
+the capacity of government to communicate timely, accurate, and life-saving
+information to the public.
+
+      In many emergencies, the first systems to fail or become unreliable are
+precisely the systems people now depend on most: commercial cellular networks,
+internet connectivity, cable systems, and television infrastructure. Towers may be
+damaged. Fiber lines may be cut. Power may be unavailable. Networks may be
+congested. Remote and geographically isolated communities may be left without
+reliable access to official information when they need it most.
+
+      Radio remains one of the most resilient, accessible, and practical means of
+public communication during disasters. It can reach communities with limited
+connectivity, can operate with modest receiving equipment, and can continue
+functioning even when other communications systems are impaired, provided that
+government broadcast facilities and public radio assets are hardened, powered,
+connected, and properly integrated into emergency response systems.
+
+      This bill strengthens the Presidential Broadcast Service – Bureau of Broadcast
+Services (PBS-BBS), including the Radyo Pilipinas network, as the Government Last-
+Mile Emergency Communications Lifeline. It designates its essential facilities as
+Critical Emergency Communications Infrastructure for purposes of this Act and
+establishes a National Emergency Broadcast Resilience Program to ensure that
+      government broadcast facilities and public radio assets can continue
+operating before, during, and after disasters, emergencies, crises, and widespread
+communications disruptions.
+
+      Legislation is necessary because this measure is not merely an internal
+administrative adjustment. It establishes a statutory policy, creates an inter-agency
+coordination framework, provides a basis for recurring appropriations,
+institutionalizes modernization and resilience planning, protects authorized
+emergency broadcast operations, and ensures congressional oversight. These
+objectives require continuity across administrations and coordinated implementation
+among the Presidential Communications Office, PBS-BBS, National Disaster Risk
+Reduction and Management Council, Office of Civil Defense, Department of
+Information and Communications Technology, National Telecommunications
+Commission, Department of Energy, Department of the Interior and Local
+Government, local government units, and other relevant agencies.
+
+      The bill is designed to be technically sound, fiscally disciplined, and
+implementable. It does not diminish the authority of existing agencies, including the
+spectrum management and regulatory powers of the National Telecommunications
+Commission. It preserves freedom of speech, expression, and of the press. It protects
+privacy and sensitive information. It allows flexible and technology-neutral
+implementation, including the use of leased, managed, shared, satellite, radio,
+digital, power, and other appropriate systems. It requires lifecycle asset
+management, maintenance, post-incident reviews, corrective action planning, and
+congressional review.
+
+      At its core, the bill treats emergency public communication as a life-saving
+public service. In a disaster, information is not merely an announcement; it can be
+the difference between evacuation and exposure, rescue and isolation, calm and
+panic, survival and loss. A resilient government emergency broadcast system is
+therefore an essential part of national preparedness, public safety, and continuity of
+government communications.
+
+      Immediate passage of this bill is earnestly sought.
+
+
+
+
+                                                ANTONINO B. ROMAN III
+                            Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES
+                            Quezon City, Metro Manila
+
+                               TWENTIETH CONGRESS
+                                 First Regular Session
+
+                                HOUSE BILL NO. 9306
+
+—————————————————————————————————————————
+       Introduced by Representative ANTONINO B. ROMAN III
+—————————————————————————————————————————
+
+ AN ACT STRENGTHENING THE PRESIDENTIAL BROADCAST SERVICE –
+ BUREAU OF BROADCAST SERVICES AS THE GOVERNMENT LAST-MILE
+    EMERGENCY COMMUNICATIONS LIFELINE, DESIGNATING ITS
+ ESSENTIAL FACILITIES AS CRITICAL EMERGENCY COMMUNICATIONS
+     INFRASTRUCTURE, ESTABLISHING A NATIONAL EMERGENCY
+  BROADCAST RESILIENCE PROGRAM, AND APPROPRIATING FUNDS
+                            THEREFOR
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+assembled:
+
+                                     TITLE I
+                               GENERAL PROVISIONS
+
+SECTION 1. Short Title. – This Act shall be known as the “Government Last-Mile
+Emergency Communications Act.”
+
+SEC. 2. Declaration of Policy. – It is the policy of the State to protect the life, safety,
+security, and welfare of the people by ensuring the continuous availability of reliable
+public information and emergency communications before, during, and after
+disasters, emergencies, crises, and widespread communications disruptions.
+
+      The State recognizes that, in an archipelagic country frequently exposed to
+typhoons, earthquakes, volcanic eruptions, flooding, storm surges, tsunamis,
+landslides, armed conflict, cyber incidents, public health emergencies, and other
+hazards, commercial cellular, internet, cable, satellite, and television systems may
+become unavailable, congested, damaged, or unreliable. In such circumstances,
+terrestrial radio remains a vital, accessible, and resilient means of reaching remote,
+geographically isolated, disaster-stricken, and underserved communities.
+
+                                                                                         1
+                The State further recognizes the unique public-service role of the Presidential
+          Broadcast Service – Bureau of Broadcast Services (PBS-BBS), including its Radyo
+          Pilipinas network, as a government broadcast platform capable of transmitting
+          timely, of cial, and life-saving information to the public. Accordingly, PBS-BBS and
+          its nationwide network of public radio stations shall be strengthened as part of the
+          country’s civil defense, emergency communications, public information, continuity
+          of government communications, and disaster risk reduction and management
+          framework.
+
+               Nothing in this Act shall be construed to restrict lawful private media
+          operations, independent journalism, or constitutionally protected freedom of speech,
+          expression, or of the press.
+
+          SEC. 3. De nition of Terms. – For purposes of this Act:
+
+               (a) Critical Emergency Communications Infrastructure refers, for purposes of this
+                   Act, to the essential broadcast, transmission, communications, operational,
+                   cybersecurity, energy, and support assets, systems, facilities, networks,
+                   services, and processes of PBS-BBS which are necessary for emergency
+                   broadcast operations and last-mile emergency communications, the
+                   incapacity, destruction, disruption, compromise, degradation, or
+                   unavailability of which would materially impair public safety, civil defense,
+                   emergency response, continuity of government communications, essential
+                   public services, or disaster risk reduction and management;
+
+               (b) Department of Information and Communications Technology or DICT refers to
+                   the primary policy, planning, coordinating, implementing, and
+                   administrative entity of the Executive Branch in the eld of information and
+                   communications technology;
+
+               (c) Emergency Special Broadcast Mode refers to the temporary emergency
+                   programming and operational mode of PBS-BBS under which regular
+                   programming may be suspended, modi ed, or subordinated to the
+                   immediate transmission of of cial public warnings, evacuation advisories,
+                   situational updates, disaster response information, public safety
+                   instructions, government announcements, and other veri ed life-saving or
+                   emergency information;
+
+               (d) Government Last-Mile Emergency Communications Lifeline refers to the of cial
+                   emergency broadcast and last-mile public information function of PBS-BBS
+                   under this Act, through which it transmits, relays, receives, or facilitates the
+
+
+                                                                                                  2
+
+
+
+                                                                      fi
+                                                        fi
+                                                  fi
+                                         fi
+                          fi
+     fi
+fi
+                     exchange of of cial public information and emergency communications to
+                     and from communities, local government units, evacuation centers,
+                     response clusters, and affected populations, especially in areas where
+                     ordinary commercial communications networks are unavailable, congested,
+                     damaged, or otherwise unreliable;
+
+               (e) Last-mile emergency communications refers to the capacity to transmit, relay,
+                     receive, or facilitate the exchange of of cial public information and
+                     emergency communications to and from communities, local government
+                     units, evacuation centers, response clusters, and affected populations,
+                     especially in areas where ordinary commercial communications networks
+                     are unavailable, congested, damaged, or otherwise unreliable;
+
+               (f) Local Government Unit or LGU refers to a province, city, municipality, or
+                     barangay;
+
+               (g) National Disaster Risk Reduction and Management Council or NDRRMC refers
+                     to the council created under Republic Act No. 10121, otherwise known as
+                     the “Philippine Disaster Risk Reduction and Management Act of 2010”;
+
+               (h) National Emergency Broadcast Resilience Program refers to the program
+                     established under this Act for the modernization, hardening, redundancy,
+                     continuity, interoperability, cybersecurity, maintenance, lifecycle asset
+                     management, and disaster-resilience of PBS-BBS broadcast facilities,
+                     systems, equipment, personnel capabilities, and operating protocols;
+
+               (i) National Telecommunications Commission or NTC refers to the government
+                     agency exercising regulatory and supervisory authority over
+                     telecommunications and broadcast spectrum use, subject to existing laws;
+
+               (j) Of ce of Civil Defense or OCD refers to the implementing arm and secretariat
+                     of the NDRRMC;
+
+               (k) Presidential Broadcast Service – Bureau of Broadcast Services or PBS-BBS refers
+                     to the government broadcast service under the Presidential
+                     Communications Of ce, including its national, regional, provincial, local,
+                     and af liated public radio broadcast facilities, platforms, and services,
+                     including the Radyo Pilipinas network; and
+
+               (l) Widespread communications disruption refers to the actual, imminent, or
+                     reasonably anticipated failure, degradation, congestion, interruption,
+                     disabling, or unavailability of communications services affecting one or
+
+                                                                                                 3
+
+
+
+                                          fi
+                fi
+          fi
+     fi
+fi
+                   more communities, localities, provinces, regions, critical facilities,
+                   evacuation areas, or government response operations, whether caused by
+                   natural hazard, human-induced hazard, cyber incident, power outage,
+                   infrastructure damage, technical failure, armed con ict, public disorder, or
+                   other emergency conditions.
+
+
+          SEC. 4. Designation as Critical Emergency Communications Infrastructure. – PBS-
+          BBS and its nationwide network of public radio stations, including the Radyo
+          Pilipinas network and their essential broadcast, transmission, studio, tower, antenna,
+          repeater, backhaul, energy, cybersecurity, data, operational, and support systems, are
+          hereby designated, for purposes of this Act, as Critical Emergency Communications
+          Infrastructure, particularly for disaster resilience, emergency communications, civil
+          defense, continuity of government communications, and public safety.
+
+                 As Critical Emergency Communications Infrastructure, PBS-BBS shall be
+          considered for appropriate priority treatment, protection, and support in accordance
+          with law, subject to availability of funds, operational feasibility, applicable
+          emergency response priorities, and existing budgeting, procurement, accounting,
+          auditing, energy, telecommunications, cybersecurity, and disaster risk reduction and
+          management laws, rules, and regulations. Such treatment, protection, and support
+          may include:
+
+               (a) inclusion in relevant national and agency plans for infrastructure
+                   protection, disaster resilience, cybersecurity, emergency preparedness,
+                   continuity of operations, and civil defense;
+
+               (b) prioritization, subject to applicable budgeting, procurement, accounting,
+                   and auditing laws, in the physical hardening, structural assessment, seismic
+                   retro tting,   ood protection,        re protection, cybersecurity protection, and
+                   operational continuity of essential broadcast facilities;
+
+               (c) provision, deployment, or upgrading of resilient backup energy systems,
+                   which may include generators, fuel systems, renewable energy systems,
+                   battery energy storage systems, uninterruptible power supply systems, and
+                   other appropriate technologies to support continuous or rapidly restorable
+                   broadcast operations during grid failure or prolonged power interruption;
+
+               (d) protection of authorized broadcast frequencies, subject to the spectrum
+                   management and regulatory authority of the NTC, against harmful
+                   interference, unauthorized use, encroachment, or other acts that impair
+
+
+
+
+                                                                                                    4
+
+
+
+                                                    fl
+                           fi
+     fl
+fi
+                        emergency broadcast operations, including malicious interference,
+                        spoo ng, cyber-enabled disruption, or unlawful signal manipulation;
+
+                    (e) appropriate coordination, subject to applicable emergency protocols,
+                        existing emergency response priorities, operational feasibility, operational
+                        constraints, and availability of resources, for fuel, power restoration, access,
+                        security, repair, transportation, satellite or alternative backhaul support,
+                        and other logistical requirements during disasters, emergencies, crises, and
+                        widespread communications disruptions; and
+
+                    (f) integration, where appropriate, into national, regional, and local disaster
+                        risk reduction and management, emergency response, public warning, and
+                        continuity of government communications protocols.
+
+
+               SEC. 5. Designation as Government Last-Mile Emergency Communications
+               Lifeline. – BS-BBS is hereby designated as the Government Last-Mile Emergency
+               Communications Lifeline for the transmission of of cial, timely, accessible, and
+               veri ed public information during disasters, emergencies, crises, and widespread
+               communications disruptions.
+
+                      This designation shall not diminish the mandates of the NDRRMC, OCD,
+               DICT, NTC, Philippine Atmospheric, Geophysical and Astronomical Services
+               Administration, Philippine Institute of Volcanology and Seismology, Department of
+               the Interior and Local Government, Department of Social Welfare and Development,
+               Department of Health, LGUs, or other competent agencies. PBS-BBS shall function as
+               an of cial emergency broadcast and public information platform in coordination
+               with such agencies and in accordance with protocols issued under this Act.
+
+                     PBS-BBS may coordinate, where appropriate and voluntary, with other public
+               and private broadcast entities, community broadcasters, communications service
+               providers, civil society organizations, academic institutions, and other
+               communications partners, consistent with law, for the wider dissemination of of cial
+               emergency information.
+
+                      Where operationally necessary and consistent with law, PBS-BBS may also
+               coordinate with the Armed Forces of the Philippines, the Philippine National Police,
+               the Philippine Coast Guard, the Bureau of Fire Protection, and other uniformed or
+               emergency response agencies for access, security, logistics, restoration, transport,
+               emergency relay, and continuity of emergency broadcast operations during severe
+               disasters, emergencies, crises, armed con ict, public safety incidents, or widespread
+               communications disruptions.
+
+
+
+
+                                                                                                       5
+
+
+
+                                                                                    fi
+                                                          fi
+                                           fl
+          fi
+     fi
+fi
+          SEC. 6. Activation, Modi cation, and Termination of Emergency Special Broadcast
+          Mode. – PBS-BBS shall activate Emergency Special Broadcast Mode during actual,
+          imminent, or reasonably anticipated disasters, emergencies, crises, or widespread
+          communications disruptions, including but not limited to destructive earthquakes,
+          landfalling tropical cyclones, storm surges, tsunamis, volcanic eruptions, widespread
+            ooding, landslides, major res, armed con ict, public health emergencies, cyber
+          incidents affecting communications systems, prolonged power outages, major
+          transport or industrial accidents, and other events requiring immediate of cial
+          public information.
+
+                Activation shall be undertaken by PBS-BBS, through authorized of cials
+          designated under approved protocols developed in coordination with the NDRRMC
+          and OCD.
+
+                Emergency Special Broadcast Mode may be activated upon:
+
+               (a) declaration of a state of calamity, state of national emergency, public health
+                   emergency, or other emergency declaration by competent authority;
+
+               (b) issuance of warnings, alerts, bulletins, or advisories by the NDRRMC,
+                   OCD, Philippine Atmospheric, Geophysical and Astronomical Services
+                   Administration, Philippine Institute of Volcanology and Seismology,
+                   Department of Health, Department of the Interior and Local Government,
+                   LGUs, or other competent agencies;
+
+               (c) veri ed reports of widespread communications disruption affecting
+                   disaster response, evacuation, public warning, or essential public services;
+
+               (d) request of the NDRRMC, OCD, concerned LGU, or other competent
+                   authority; or
+
+               (e) determination by PBS-BBS, in accordance with approved protocols, that
+                   emergency broadcast operations are necessary to protect life, safety, or
+                   public order.
+
+                During Emergency Special Broadcast Mode, PBS-BBS may suspend, interrupt,
+          modify, or override regular programming to broadcast of cial public warnings,
+          evacuation orders, emergency advisories, situational updates, relief and rescue
+          information, health and safety instructions, missing persons and family reuni cation
+          information, restoration updates, and other veri ed emergency information.
+
+                PBS-BBS shall establish protocols governing the modi cation, scaling down,
+          suspension, or termination of Emergency Special Broadcast Mode, taking into
+
+
+                                                                                                  6
+
+
+
+                     fi
+     fi
+fl                        fi              fl   fi         fi   fi          fi   fi   fi
+           account the status of the disaster, emergency, crisis, or communications disruption;
+           the continuing need for of cial emergency information; and coordination with the
+           NDRRMC, OCD, LGUs, and other competent authorities.
+
+
+           SEC. 7. Authoritative Emergency Information and Public Warning Function. –
+           During Emergency Special Broadcast Mode, PBS-BBS shall serve as an of cial public
+           emergency broadcast platform for the timely dissemination of veri ed information
+           from competent government authorities, including the NDRRMC, OCD, Philippine
+           Atmospheric, Geophysical and Astronomical Services Administration, Philippine
+           Institute of Volcanology and Seismology, Department of Health, Department of
+           Social Welfare and Development, Department of the Interior and Local Government,
+           Department of Energy, DICT, NTC, LGUs, and other agencies as may be necessary.
+
+                     The information broadcast under this Act shall, whenever practicable, be:
+
+                (a) accurate, veri ed, timely, and regularly updated;
+
+                (b) understandable to the general public;
+
+                (c) translated or delivered, where feasible, in Filipino, English, and appropriate
+                       local languages or dialects;
+
+                (d) accessible to persons with disabilities, older persons, children, indigenous
+                       cultural communities, geographically isolated and disadvantaged areas,
+                       and other vulnerable sectors through appropriate formats and coordination
+                       with relevant agencies; and
+
+                (e) consistent with of cial disaster risk reduction and management, public
+                       warning, emergency response, and public health protocols.
+
+                     No of cer, employee, contractor, partner, volunteer, or authorized person
+           acting under color of authority of PBS-BBS shall knowingly authorize, direct, or
+           materially cause the broadcast of false, fabricated, materially misleading, or
+           unveri ed emergency information that may endanger public safety, obstruct
+           emergency response, compromise rescue or relief operations, violate privacy rights,
+           or cause public panic. This paragraph shall be implemented in a manner consistent
+           with the constitutional guarantees of freedom of speech, expression, and of the press,
+           and shall not apply to good-faith reporting, good-faith reliance on of cial
+           information from competent authorities, or reasonable correction of emergency
+           information as facts develop during a disaster, emergency, crisis, or widespread
+           communications disruption.
+
+
+
+                                                                                                 7
+
+
+
+                                                                                fi
+                                                                         fi
+                                                                    fi
+                           fi
+                fi
+     fi   fi
+fi
+ SEC. 8. Local Government Unit Feedback and Emergency Relay Function. – PBS-
+ BBS, in coordination with the NDRRMC, OCD, Department of the Interior and Local
+ Government, DICT, NTC, and concerned LGUs, shall develop and maintain
+ mechanisms allowing LGUs and affected communities, especially those in
+ communications dead zones or geographically isolated and disadvantaged areas, to
+ relay urgent information, status reports, resource requirements, and public safety
+ concerns to appropriate national or regional authorities.
+
+         Such mechanisms may include radio call-in systems, high-frequency radio,
+ satellite communications, microwave links, mobile broadcast units, digital platforms,
+ community reporting protocols, emergency coordination desks, eld-deployable
+ radio kits, or other appropriate and secure communication modalities.
+
+        Nothing in this Act shall authorize the broadcast of unveri ed information
+ that may endanger public safety, compromise response operations, violate privacy
+ rights, or cause public panic. PBS-BBS shall adopt veri cation, clearance, and
+ editorial protocols for emergency communications consistent with the need for
+ speed, accuracy, public safety, and operational security.
+
+       Collection, transmission, storage, and dissemination of personal or sensitive
+ personal information under this Act shall comply with Republic Act No. 10173,
+ otherwise known as the “Data Privacy Act of 2012,” and other applicable laws.
+
+ SEC. 9. National Emergency Broadcast Resilience Program. – There is hereby
+ established a National Emergency Broadcast Resilience Program to ensure that PBS-
+ BBS can perform its role as Critical Emergency Communications Infrastructure and
+ as the Government Last-Mile Emergency Communications Lifeline.
+
+       The Program shall include:
+
+      (a) assessment, mapping, and prioritization of PBS-BBS national, regional,
+             provincial, and local broadcast facilities based on hazard exposure,
+             population reach, strategic importance, service to geographically isolated
+             and disadvantaged areas, disaster history, redundancy gaps, and
+             operational vulnerability;
+
+      (b) repair, rehabilitation, upgrading, or replacement of essential AM, FM,
+             shortwave, digital, studio, transmission, antenna, tower, repeater, backhaul,
+             switching, monitoring, control, cybersecurity, and support systems;
+
+      (c) structural assessment, physical hardening, wind-load strengthening,
+             seismic retro tting,   ood-proo ng,        re protection, lightning protection,
+             grounding, perimeter security, and other facility resilience measures;
+
+                                                                                           8
+
+
+
+                                                                   fi
+                                                              fi
+                                                   fi
+                            fi
+                      fi
+        fl
+fi
+(d) installation or upgrading of backup and redundant energy systems,
+   including, where technically and economically feasible, renewable energy
+   systems, generators, battery storage, uninterruptible power supply systems,
+   and fuel continuity arrangements;
+
+(e) deployment of resilient backhaul technologies, including satellite,
+   microwave, high-frequency radio, ber redundancy, mobile data, or other
+   appropriate technologies capable of bypassing damaged terrestrial
+   communications infrastructure;
+
+(f) acquisition, lease, service contracting, managed services arrangement,
+   sharing arrangement, or pre-positioning of mobile and         eld-deployable
+   emergency broadcast systems, including Radio-in-a-Box units, mobile
+   transmitters, portable antennas, emergency studio kits, satellite terminals,
+   emergency power kits, and other rapid deployment equipment for disaster-
+   stricken areas, subject to applicable procurement, budgeting, accounting,
+   auditing, and property laws, rules, and regulations;
+
+(g) development of emergency broadcast operations centers, continuity sites,
+   backup studios, remote broadcast capability, and shared or interoperable
+   facilities, where appropriate;
+
+(h) cybersecurity protection of critical broadcast and operational systems,
+   including access controls, incident response plans, backup systems,
+   redundancy, monitoring, and recovery protocols, consistent with applicable
+   national cybersecurity policies, standards, and frameworks;
+
+(i) preventive maintenance, lifecycle asset management, spare parts
+   management, technology refresh, retirement or disposal of obsolete assets
+   consistent with government property and auditing rules, and sustainability
+   planning for critical broadcast assets, systems, and equipment;
+
+(j) personnel training, drills, simulation exercises, emergency editorial
+   protocols, technical maintenance training, personnel resilience,
+   occupational safety, psychosocial preparedness, and safety procedures for
+   PBS-BBS personnel and partner agencies;
+
+(k) interoperability and coordination with national, regional, and local disaster
+   risk reduction and management systems, public warning platforms,
+   emergency operations centers, and LGU communications systems;
+
+
+
+
+                                                                                9
+
+
+
+                                         fi
+                fi
+          (l) coordination, where operationally necessary and consistent with law, with
+                the Armed Forces of the Philippines, the Philippine National Police, the
+                Philippine Coast Guard, the Bureau of Fire Protection, and other uniformed
+                or emergency response agencies for severe disasters, emergencies, crises,
+                armed con ict, public safety incidents, or widespread communications
+                disruptions;
+
+          (m)post-incident reviews, after-action reports, and corrective action planning
+                following major emergency activations, signi cant communications
+                disruptions, major drills, or events revealing operational vulnerabilities;
+                and
+
+          (n) public awareness measures informing communities, LGUs, schools,
+                evacuation centers, and households how to access PBS-BBS emergency
+                broadcasts before, during, and after disasters and emergencies.
+
+
+     SEC. 10. National Emergency Broadcast Resilience Plan. – Within one hundred
+     eighty (180) days from the effectivity of this Act, PBS-BBS, through the Presidential
+     Communications Of ce and in coordination with the NDRRMC, OCD, DICT, NTC,
+     Department of Energy, Department of the Interior and Local Government,
+     Department of Budget and Management, Philippine Atmospheric, Geophysical and
+     Astronomical Services Administration, Philippine Institute of Volcanology and
+     Seismology, Armed Forces of the Philippines, Philippine National Police, Philippine
+     Coast Guard, Bureau of Fire Protection, and other relevant agencies, shall prepare
+     and adopt a National Emergency Broadcast Resilience Plan.
+
+           The Plan shall include:
+
+          (a) a nationwide inventory and vulnerability assessment of PBS-BBS broadcast
+                assets and facilities;
+
+          (b) a prioritized modernization, hardening, redundancy, continuity,
+                maintenance, and lifecycle asset management roadmap;
+
+          (c) minimum operational resilience standards for PBS-BBS stations and
+                facilities;
+
+          (d) emergency activation, veri cation, clearance, coordination, scaling down,
+                termination, and broadcast protocols;
+
+          (e) guidelines for coordination with LGUs and emergency operations centers;
+
+
+
+
+                                                                                         10
+
+
+
+                                            fi
+                      fi
+           fi
+fl
+               (f) a phased implementation schedule, with priority given to high-risk,
+                   disaster-prone, geographically isolated, underserved, and communications-
+                   vulnerable areas;
+
+               (g) indicative funding requirements, cost estimates, procurement packages,
+                   staf ng needs, operating costs, maintenance costs, lifecycle replacement
+                   costs, and sustainability requirements;
+
+               (h) cybersecurity and physical security measures for critical broadcast assets,
+                   consistent with applicable national cybersecurity policies, standards, and
+                   frameworks;
+
+               (i) training, exercises, simulation, personnel safety, psychosocial preparedness,
+                   and public information plans;
+
+               (j) post-incident review, after-action reporting, corrective action, and lessons-
+                   learned protocols following major emergency activations, signi cant
+                   communications disruptions, major drills, or events revealing operational
+                   vulnerabilities;
+
+               (k) measurable performance indicators, including coverage, uptime, activation
+                   speed, redundancy, restoration time, public reach, implementation of
+                   corrective actions, technological relevance, and cost-effectiveness; and
+
+               (l) such other measures necessary to carry out the purposes of this Act.
+
+
+                 Implementation shall be phased and risk-prioritized, taking into account scal
+          sustainability, hazard exposure, service gaps, population reach, geographic isolation,
+          disaster history, communications vulnerability, operational feasibility, technological
+          relevance, cost-effectiveness, and national budget availability.
+
+                 The Plan shall be reviewed and updated at least once every three (3) years, or
+          earlier when required by major disasters, technological developments, security risks,
+          signi cant infrastructure changes, or     ndings from drills, post-incident reviews,
+          after-action reports, and actual emergency activations.
+
+
+          SEC. 11. Inter-Agency Coordination. – The Presidential Communications Of ce,
+          through PBS-BBS, shall serve as the lead implementing entity for the emergency
+          broadcast resilience and last-mile public information functions established under
+          this Act.
+
+
+
+
+                                                                                              11
+
+
+
+                                                                                   fi
+                                                                              fi
+                                                                     fi
+                                       fi
+     fi
+fi
+       The following agencies shall provide support within their respective
+mandates. Nothing in this Act shall be construed to transfer, diminish, expand, or
+supersede the statutory mandates, regulatory powers, or operational authorities of
+participating agencies except as expressly provided herein:
+
+     (a) The NDRRMC and OCD shall coordinate disaster risk reduction and
+        management protocols, emergency activation procedures, response cluster
+        integration, and linkage with national, regional, and local emergency
+        operations centers;
+
+     (b) The DICT shall provide technical support for resilient information and
+        communications technology systems, cybersecurity, digital continuity,
+        backup connectivity, data systems, and interoperability with government
+        emergency communications platforms, consistent with applicable national
+        cybersecurity policies, standards, and frameworks;
+
+     (c) The NTC shall provide support in spectrum management, interference
+        prevention, licensing or authorization requirements, emergency frequency
+        coordination, and measures to protect authorized PBS-BBS broadcast
+        operations, consistent with existing laws;
+
+     (d) The Department of Energy shall assist in energy resilience planning, backup
+        power strategies, fuel continuity coordination, renewable energy
+        integration where feasible, and appropriate restoration coordination for
+        critical broadcast facilities, subject to applicable emergency protocols,
+        existing emergency response priorities, operational feasibility, operational
+        constraints, and availability of resources;
+
+     (e) The Department of the Interior and Local Government shall assist in
+        coordinating LGU participation, integration of PBS-BBS emergency
+        broadcast protocols into local disaster risk reduction and management
+        plans, and dissemination of public information through local channels;
+
+     (f) The Department of Budget and Management shall assist in the appropriate
+        budgeting, phasing, and inclusion of funding requirements in the national
+        budget, subject to applicable laws,           scal policies, the annual budget
+        preparation process, and existing scal rules;
+
+     (g) The Philippine Atmospheric, Geophysical and Astronomical Services
+        Administration and the Philippine Institute of Volcanology and Seismology
+
+
+
+
+                                                                                    12
+
+
+
+                         fi
+                   fi
+          shall provide timely of cial warnings, advisories, bulletins, and technical
+          information for broadcast;
+
+       (h) The Armed Forces of the Philippines, Philippine National Police, Philippine
+          Coast Guard, Bureau of Fire Protection, and other uniformed or emergency
+          response agencies may provide support, where operationally necessary and
+          consistent with law, in access, security, logistics, restoration, transport,
+          emergency relay, and continuity of emergency broadcast operations during
+          severe disasters, emergencies, crises, armed con ict, public safety incidents,
+          or widespread communications disruptions;
+
+       (i) LGUs shall coordinate with PBS-BBS, local disaster risk reduction and
+          management of ces, and regional or local emergency operations centers to
+          facilitate the transmission and relay of of cial emergency information and
+          community status reports; and
+
+       (j) Other national government agencies, government-owned or -controlled
+          corporations, and instrumentalities shall extend support as may be
+          necessary and consistent with their respective mandates.
+
+
+SEC. 12. Spectrum Protection and Interference Response. – The authorized
+broadcast frequencies and emergency broadcast operations of PBS-BBS shall be
+protected from harmful interference, unauthorized transmission, frequency
+encroachment, jamming, spoo ng, cyber-enabled disruption, unlawful signal
+manipulation, signal disruption, or other acts that impair its public emergency
+broadcast function.
+
+       The NTC, consistent with its mandate and applicable laws, shall establish or
+strengthen procedures for:
+
+       (a) monitoring and identifying harmful interference affecting PBS-BBS
+          broadcast operations;
+
+       (b) issuing timely directives, notices, or enforcement actions against
+          unauthorized or harmful transmissions;
+
+       (c) coordinating emergency frequency use during disasters, emergencies,
+          crises, or widespread communications disruptions;
+
+       (d) facilitating temporary or emergency authorizations, where necessary and
+          lawful, to support emergency broadcast operations; and
+
+
+
+
+                                                                                      13
+
+
+
+                                   fl
+                              fi
+                    fi
+           fi
+  fi
+      (e) coordinating with law enforcement agencies, cybersecurity authorities, and
+         other competent agencies in appropriate cases.
+
+       Nothing in this Act shall be construed to diminish, transfer, or modify the
+statutory powers and regulatory authority of the NTC under existing laws.
+
+
+SEC. 13. Continuity of Operations and Redundancy. – PBS-BBS shall maintain
+continuity of operations plans for critical broadcast facilities, studios, transmission
+sites, and emergency broadcast functions.
+
+       Such plans shall include:
+
+      (a) backup studios and alternate broadcast sites;
+
+      (b) redundant transmission and backhaul arrangements;
+
+      (c) emergency staf ng and personnel safety protocols;
+
+      (d) priority repair and restoration procedures;
+
+      (e) backup power, fuel, and energy continuity arrangements;
+
+      (f) cybersecurity incident response and data recovery measures, consistent
+         with applicable national cybersecurity policies, standards, and frameworks;
+
+      (g) preventive maintenance, lifecycle asset management, spare parts
+         management, technology refresh, retirement or disposal of obsolete assets
+         consistent with government property and auditing rules, and sustainability
+         measures;
+
+      (h) emergency editorial and information veri cation protocols;
+
+      (i) coordination with national and local emergency operations centers;
+
+      (j) protocols for lawful leasing, service contracting, managed services, sharing
+         arrangements, or other exible arrangements necessary to ensure continuity
+         of emergency broadcast operations, subject to applicable laws, rules, and
+         regulations; and
+
+      (k) periodic drills, testing, post-incident reviews, after-action reporting,
+         corrective action planning, and lessons-learned evaluation.
+
+
+SEC. 14. Standards, Procurement, Technology Neutrality, and Asset Management.
+– The modernization, upgrading, and procurement of systems and equipment under
+this Act shall be guided by disaster-resilient, high-reliability, interoperable, secure,
+
+                                                                                      14
+
+
+
+                            fi
+          fl
+ fi
+          maintainable, scalable, technologically relevant, cost-effective, and future-ready
+          standards.
+
+                 Procurement speci cations shall avoid unnecessary technology lock-in and
+          shall, whenever appropriate, allow the use of AM, FM, shortwave, digital, satellite,
+          microwave, ber, high-frequency radio, mobile, renewable energy, battery, generator,
+          cloud-based, managed, leased, shared, or other technologies, facilities, and service
+          arrangements suitable to local conditions, hazard exposure, coverage requirements,
+          maintenance capacity, lifecycle cost, operational feasibility, technological relevance,
+          cost-effectiveness, and public safety needs.
+
+                 The modernization, upgrading, procurement, lease, service contracting,
+          managed services, sharing arrangement, maintenance, repair, replacement,
+          retirement, and disposal of assets under this Act shall comply with applicable
+          procurement, budgeting, accounting, auditing, cybersecurity, data protection,
+          environmental, building, energy, government property, and safety laws, rules, and
+          regulations.
+
+          SEC. 15. Post-Incident Review and Corrective Action. – Following major
+          emergency activations, signi cant communications disruptions, major drills, or
+          events revealing operational vulnerabilities, PBS-BBS shall conduct a post-incident
+          review in coordination with the NDRRMC, OCD, DICT, NTC, concerned LGUs, and
+          other relevant agencies, as appropriate.
+
+                  The post-incident review shall identify operational gaps, equipment or facility
+          failures, communications bottlenecks, coordination issues, public information
+          challenges, cybersecurity concerns, personnel safety issues, and other matters
+          affecting the performance of PBS-BBS as the Government Last-Mile Emergency
+          Communications Lifeline.
+
+                 PBS-BBS shall prepare an after-action report and corrective action plan based
+          on the post-incident review. The ndings and recommendations, subject to lawful
+          restrictions involving security, privacy, operational sensitivity, or protected
+          information, shall inform updates to the National Emergency Broadcast Resilience
+          Plan, continuity of operations plans, training programs, procurement priorities, and
+          annual reports required under this Act.
+
+          SEC. 16. Good-Faith Emergency Operations; No New Private Right of Action. – No
+          of cer, employee, contractor, volunteer, or authorized partner of PBS-BBS acting in
+          good faith under this Act shall incur civil, criminal, or administrative liability for
+          delays, interruptions, inaccuracies, corrections, or emergency operational decisions
+          made during disasters, emergencies, crises, or widespread communications
+
+
+
+                                                                                               15
+
+
+
+                                fi
+                           fi
+                      fi
+     fi
+fi
+          disruptions, absent willful misconduct, gross negligence, bad faith, or knowing
+          dissemination of false emergency information.
+
+                 Nothing in this section shall be construed to exempt any person from liability
+          for willful misconduct, gross negligence, bad faith, knowing dissemination of false
+          emergency information, violation of Republic Act No. 10173 or the “Data Privacy Act
+          of 2012,” violation of anti-graft and corruption laws, or any criminal law involving
+          intentional wrongdoing.
+
+                Nothing in this Act shall be construed to create an independent private right
+          of action against the government, participating agencies, of cers, employees,
+          contractors, volunteers, authorized partners, or other authorized actors beyond
+          remedies otherwise available under existing law.
+
+          SEC. 17. Protection of Security-Sensitive, Operationally Sensitive, and Protected
+          Information. – Nothing in this Act shall require the public disclosure of information
+          protected by law, classi ed national security information, cybersecurity-sensitive
+          information, operationally sensitive emergency response information, personal data,
+          con dential information, privileged information, or information exempt from
+          disclosure under applicable laws, rules, and regulations.
+
+          SEC. 18. Personnel Training and Capacity-Building. – PBS-BBS, in coordination
+          with the NDRRMC, OCD, DICT, NTC, Department of Energy, Department of the
+          Interior and Local Government, and other relevant agencies, shall establish
+          continuing training and capacity-building programs for personnel involved in
+          emergency broadcast operations.
+
+                    Such programs shall include:
+
+                   (a) disaster risk reduction and management orientation;
+
+                   (b) emergency broadcast activation, modi cation, scaling down, and
+                      termination protocols;
+
+                   (c) technical maintenance and rapid restoration;
+
+                   (d) use of mobile and eld-deployable emergency broadcast systems;
+
+                   (e) cybersecurity awareness and incident response;
+
+                   (f) public warning and risk communication;
+
+                   (g) veri cation and responsible handling of emergency information;
+
+                   (h) coordination with LGUs and emergency operations centers;
+
+
+                                                                                             16
+
+
+
+                                                                  fi
+                                           fi
+                        fi
+              fi
+     fi
+fi
+          (i) occupational safety, personnel resilience, and psychosocial preparedness
+                 during disasters; and
+
+          (j) simulation exercises and after-action evaluation.
+
+
+     SEC. 19. Public Access, Awareness, and Community Preparedness. – PBS-BBS, in
+     coordination with the NDRRMC, OCD, Department of the Interior and Local
+     Government, Department of Education, LGUs, and other relevant agencies, shall
+     conduct public awareness activities to inform communities of the role of PBS-BBS as
+     the Government Last-Mile Emergency Communications Lifeline.
+
+            Such activities may include dissemination of station frequencies, emergency
+     listening guidance, school and community disaster preparedness materials,
+     evacuation center information materials, local language advisories, public service
+     announcements, and coordination with community leaders, civil society
+     organizations, schools, and local disaster risk reduction and management of ces.
+
+     SEC. 20. Annual Report to Congress. – PBS-BBS, through the Presidential
+     Communications Of ce, shall submit an annual report to the President of the
+     Philippines, the Senate of the Philippines, and the House of Representatives not later
+     than March 31 of each year following the effectivity of this Act.
+
+           The report shall include:
+
+          (a) the status of implementation of the National Emergency Broadcast
+                 Resilience Program;
+
+          (b) progress in modernization, hardening, redundancy, continuity,
+                 cybersecurity, maintenance, and lifecycle asset management measures;
+
+          (c) facilities upgraded, repaired, hardened, leased, shared, retired, replaced, or
+                 prioritized;
+
+          (d) emergency activations conducted during the preceding year;
+
+          (e) results of drills, simulations, post-incident reviews, after-action reports, and
+                 corrective action plans;
+
+          (f) coverage gaps, operational vulnerabilities, and communications dead zones
+                 identi ed;
+
+          (g) coordination undertaken with national agencies, LGUs, and, where
+                 appropriate, public and private communications partners;
+
+          (h) funds appropriated, released, obligated, disbursed, and utilized;
+
+                                                                                            17
+
+
+
+                                                                     fi
+            fi
+fi
+          (i) procurement and implementation status of major projects;
+
+          (j) measurable performance indicators and outcomes, including
+                implementation of corrective actions, technological relevance, and cost-
+                effectiveness; and
+
+          (k) legislative, budgetary, regulatory, or administrative recommendations.
+
+
+     SEC. 21. Congressional Oversight Review. – Within ve (5) years from the
+     effectivity of this Act, the appropriate committees of the Senate of the Philippines
+     and the House of Representatives shall conduct, or cause to be conducted, a review
+     of the implementation, effectiveness, funding requirements, technological relevance,
+     cost-effectiveness, operational impact, and continuing necessity of the National
+     Emergency Broadcast Resilience Program.
+
+            For this purpose, PBS-BBS, through the Presidential Communications Of ce,
+     and in coordination with the NDRRMC, OCD, DICT, NTC, Department of Energy,
+     Department of the Interior and Local Government, Department of Budget and
+     Management, and other relevant agencies, shall submit such reports, data, and
+     recommendations as may be necessary, subject to lawful restrictions involving
+     security, privacy, operational sensitivity, or protected information.
+
+     SEC. 22. Appropriations. – The amount necessary for the initial implementation of
+     this Act shall be charged against available appropriations of the Presidential
+     Communications Of ce and PBS-BBS, subject to applicable budgeting, procurement,
+     accounting, and auditing laws, rules, and regulations.
+
+           Thereafter, the amount necessary for the continued implementation of this
+     Act, including the National Emergency Broadcast Resilience Program,
+     modernization projects, resilience upgrades, backup energy systems, mobile and
+      eld-deployable emergency broadcast equipment, training, maintenance, lifecycle
+     asset management, cybersecurity, operational continuity measures, post-incident
+     reviews, and corrective action planning, shall be included in the annual General
+     Appropriations Act, subject to congressional authorization, the annual budget
+     preparation process, and existing scal rules.
+
+           The Department of Budget and Management, in coordination with the
+     Presidential Communications Of ce, PBS-BBS, NDRRMC, OCD, DICT, NTC,
+     Department of Energy, and other relevant agencies, shall consider the phased
+     implementation requirements and priority areas identi ed in the National
+     Emergency Broadcast Resilience Plan in the preparation of the annual national
+     budget.
+
+
+
+                                                                                       18
+
+
+
+                                                                         fi
+                                                       fi
+                                                  fi
+                                fi
+                           fi
+           fi
+fi
+     SEC. 23. Implementing Rules and Regulations. – Within ninety (90) days from the
+     effectivity of this Act, the Presidential Communications Of ce, through PBS-BBS, in
+     coordination with the NDRRMC, OCD, DICT, NTC, Department of Energy,
+     Department of the Interior and Local Government, Department of Budget and
+     Management, Philippine Atmospheric, Geophysical and Astronomical Services
+     Administration, Philippine Institute of Volcanology and Seismology, Armed Forces
+     of the Philippines, Philippine National Police, Philippine Coast Guard, Bureau of
+     Fire Protection, and other relevant agencies, shall promulgate the implementing
+     rules and regulations necessary to carry out the provisions and purposes of this Act.
+
+             The implementing rules and regulations shall include, among others:
+
+            (a) procedures for designating and protecting PBS-BBS assets as Critical
+               Emergency Communications Infrastructure;
+
+            (b) emergency activation, modi cation, scaling down, suspension, and
+               termination protocols;
+
+            (c) inter-agency coordination mechanisms;
+
+            (d) information veri cation and clearance procedures;
+
+            (e) safeguards against the knowing authorization, direction, or material
+               causation of the broadcast of false, fabricated, materially misleading, or
+               unveri ed emergency information that may endanger public safety,
+               obstruct emergency response, compromise rescue or relief operations,
+               violate privacy rights, or cause public panic, while protecting
+               constitutionally guaranteed freedom of speech, expression, and of the press,
+               good-faith emergency reporting, good-faith reliance on of cial information
+               from competent authorities, and reasonable correction of emergency
+               information as facts develop;
+
+            (f) LGU feedback and emergency relay mechanisms;
+
+            (g) spectrum protection and interference response procedures, including
+               response to malicious interference, spoo ng, cyber-enabled disruption,
+               unlawful signal manipulation, and other acts impairing emergency
+               broadcast operations;
+
+            (h) minimum resilience, redundancy, cybersecurity, maintenance, lifecycle asset
+               management, continuity, and asset retirement standards;
+
+            (i) modernization planning and prioritization criteria;
+
+
+
+                                                                                         19
+
+
+
+                                                         fi
+                                                    fi
+                                    fi
+                        fi
+       fi
+fi
+          (j) privacy, data protection, and responsible information-handling safeguards;
+
+          (k) post-incident review, after-action reporting, corrective action, and lessons-
+              learned procedures;
+
+          (l) treatment of security-sensitive, operationally sensitive, cybersecurity-
+              sensitive, personal, con dential, privileged, protected, or otherwise
+              lawfully exempt information;
+
+          (m) good-faith emergency operations standards;
+
+          (n) reporting and accountability requirements; and
+
+          (o) other rules necessary for the effective implementation of this Act, consistent
+              with its provisions and purposes.
+
+     SEC. 24. Separability Clause. – If any provision or part of this Act is declared
+     invalid or unconstitutional, the remaining provisions not affected thereby shall
+     remain in full force and effect.
+
+     SEC. 25. Repealing Clause. – All laws, decrees, executive orders, rules and
+     regulations, issuances, or parts thereof inconsistent with this Act are hereby
+     repealed, amended, or modi ed accordingly.
+
+     SEC. 26. Effectivity. – This Act shall take effect fteen (15) days after its publication
+     in the Of cial Gazette or in a newspaper of general circulation in the Philippines.
+
+
+
+          Approved,
+
+
+
+
+                                                                                           20
+
+
+
+                                         fi
+                       fi
+                  fi
+fi
+
