@@ -1,0 +1,118 @@
+{
+ "output": {
+  "target": "HB-20-11424",
+  "entity_proposed": "Climate Advisory Council",
+  "proposal": "HB No. 11424, the proposed \"Philippine Climate Due Diligence and Transparency Act\", seeks to institutionalize the climate due diligence, transparency and accountability of the State by establishing the Philippine Greenhouse Gas Inventory and Accounting System and an independent Climate Advisory Council, and by providing for the preparation, publication and review of national climate commitments and plans.",
+  "alignment": "As a measure on government organization and mandates, the review should examine how the proposed Climate Advisory Council and the Inventory fit with existing bodies, in particular the Climate Change Commission created under RA No. 9729, which would maintain the Inventory and host the Council's secretariat, and the existing greenhouse gas inventory management and reporting system institutionalized under EO No. 174 (2014), so as to avoid duplicating functions and to remain consistent with the streamlining and reorganization of the Executive branch under the Government Optimization Act (RA No. 12231). The measure aligns with the Environment, Climate, and Disaster Resilience priority area of the FY 2027 Budget Priorities Framework, although its focus on emissions accounting, verification and climate governance relates only indirectly to that area's stated emphasis on nature-based solutions, coastal and marine conservation, and stronger forecasting and early warning. The measure is not among the priority measures of the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 11424 was filed in the House of Representatives of the 20th Congress on September 22, 2026 by Representative Ma. Cristina Talavera Lopez.",
+   "The measure is pending at the filing stage; later stages are not reflected in the available records.",
+   "No earlier version, counterpart measure in the Senate, substitute bill or committee report was identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-9729",
+    "label": "Overlapping functions",
+    "overlap": "Section 7 (Establishment of the Inventory) and Section 15 (Creation and Composition of the Climate Advisory Council) assign the Climate Change Commission, created under RA No. 9729, new duties to maintain the Inventory and host the Council's secretariat.",
+    "section": "HB-20-11424:s15",
+    "quote": "Its secretariat shall be lodged with the Climate Change Commission, which shall provide administrative and technical support"
+   },
+   {
+    "law": "EO-174-2014",
+    "label": "Overlapping functions",
+    "overlap": "Section 7 (Establishment of the Inventory) establishes a national greenhouse gas inventory that may overlap with the inventory management and reporting system institutionalized under EO No. 174 (2014).",
+    "section": "law:EO-174-2014",
+    "quote": "INSTITUTIONALIZING THE PHILIPPINE GREENHOUSE GAS INVENTORY MANAGEMENT AND REPORTING SYSTEM"
+   },
+   {
+    "law": "RA-11995",
+    "label": "Referenced in the bill",
+    "overlap": "Section 10 (Land Use, Land-Use Change, and Forestry Account) requires the agencies concerned to use the ecosystem and natural capital accounts established under RA No. 11995.",
+    "section": "HB-20-11424:s10",
+    "quote": "shall employ the ecosystem and natural capital accounts established under Republic Act No. 11995."
+   },
+   {
+    "law": "RA-8371",
+    "label": "Referenced in the bill",
+    "overlap": "Section 18 (Public Participation) requires consultation of indigenous cultural communities and indigenous peoples in accordance with RA No. 8371 for measures affecting their ancestral domains.",
+    "section": "HB-20-11424:s18",
+    "quote": "Indigenous cultural communities and indigenous peoples shall be consulted in accordance with Republic Act No. 8371 in respect of any measure affecting their ancestral domains."
+   }
+  ],
+  "salient_features": "HB No. 11424 seeks to establish the Philippine Greenhouse Gas Inventory and Accounting System and a seven-member Climate Advisory Council, and to set rules for the preparation, publication and review of national climate commitments and plans. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the Philippine Climate Due Diligence and Transparency Act.\nb. Section 7 (Establishment of the Inventory) provides that the Inventory, covering all greenhouse gas sources and sinks in the country, shall be maintained by the Climate Change Commission with the Philippine Statistics Authority and the Sectoral Agencies, and that any departure from accepted methodologies or recalculation shall be disclosed and explained.\nc. Section 9 (Reporting by Large Emitting Establishments) provides that large emitting establishments shall report their emissions annually to the Climate Change Commission, subject to independent accredited verification, with publication in aggregated form by sector and in disaggregated form for government-owned or -controlled establishments and those exploiting State natural resources.\nd. Section 10 (Land Use, Land-Use Change, and Forestry Account) provides for a separate forestry and land-use account stating its assumptions and uncertainty, to be independently verified where removals are relied upon in climate commitments, with the land representation maintained by NAMRIA, the Forest Management Bureau and the Philippine Statistics Authority.\ne. Section 15 (Creation and Composition of the Climate Advisory Council) provides for an independent Council of seven members appointed by the President from experts in specified fields, excluding officials of Sectoral Agencies and persons with financial interests in large emitting establishments, serving staggered six-year terms without reappointment, with its secretariat lodged with the Climate Change Commission and its budget as a separate line item of the Commission released in full and quarterly.\nf. Section 16 (Functions of the Council) sets out the functions of the Council, including assessments and advice on climate commitments and on means of implementation.\ng. Section 18 (Public Participation) provides that every climate commitment and plan shall be preceded by accessible public consultation in the most exposed regions, with a comment period of at least sixty days, consultation of indigenous peoples where ancestral domains are affected, and publication of a summary of comments and their disposition.\nh. Section 22 (Appropriations) provides that initial implementation shall be charged against the current appropriations of the agencies concerned, and that funding thereafter for the Inventory, independent verification, the Council and the portal shall be included in the annual General Appropriations Act.",
+  "related_measures_policy": "No related bills were identified for HB No. 11424. The measure may be considered alongside RA No. 9729, given that Section 7 (Establishment of the Inventory) and Section 15 (Creation and Composition of the Climate Advisory Council) add functions to the Climate Change Commission, and alongside EO No. 174 (2014) on the existing greenhouse gas inventory management and reporting system; it also relies on RA No. 11995 under Section 10 (Land Use, Land-Use Change, and Forestry Account) and on RA No. 8371 under Section 18 (Public Participation). The measure aligns with the Environment, Climate, and Disaster Resilience priority under the FY 2027 Budget Priorities Framework. The review should assess whether the proposed Inventory duplicates the existing system, whether the Council's functions overlap with those of the Climate Change Commission and other bodies in light of the Government Optimization Act (RA No. 12231), and the budgetary implications of a separate line item for the Council released in full and quarterly.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged against current appropriations of the agencies concerned; no amount stated",
+    "section": "Section 22 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Inventory maintenance, independent verification, Council operations and portal maintenance to be included in the annual GAA",
+    "section": "Section 22 (Appropriations)"
+   },
+   {
+    "item": "Members",
+    "detail": "Seven Council members with staggered six-year terms; compensation not stated",
+    "section": "Section 15 (Creation and Composition of the Climate Advisory Council)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Council secretariat lodged with the Climate Change Commission",
+    "section": "Section 15 (Creation and Composition of the Climate Advisory Council)"
+   },
+   {
+    "item": "Budget release",
+    "detail": "Council budget as a separate line item in the Climate Change Commission budget, released in full and quarterly",
+    "section": "Section 15 (Creation and Composition of the Climate Advisory Council)"
+   },
+   {
+    "item": "Verification",
+    "detail": "Independent verification of establishment reports and of the forestry and land-use account where relied upon",
+    "section": "Section 9 (Reporting by Large Emitting Establishments)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm whether the proposed Inventory supersedes or builds on the existing greenhouse gas inventory system under EO No. 174 (2014), and whether the Repealing Clause addresses it.",
+   "Verify the full text of Sections 12, 13 and 19, whose headings appear truncated.",
+   "Confirm how RA No. 10174 (People's Survival Fund) is referenced in the bill and whether it bears on the means of implementation.",
+   "Assess the consistency of a full, quarterly release of the Council's budget with existing budget execution rules.",
+   "Confirm that the Council members' compensation and the secretariat staffing are addressed elsewhere in the bill or in the implementing rules.",
+   "Check the status of the bill with the House of Representatives and whether a Senate counterpart has been filed."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 7 (Establishment of the Inventory) and Section 15 (Creation and Composition of the Climate Advisory Council) assign the Climate Change Commission, created under RA No. 9729, new duties to maintain the Inventory and host the Council's secretariat.",
+   "section": "HB-20-11424:s15",
+   "quote": "Its secretariat shall be lodged with the Climate Change Commission, which shall provide administrative and technical support",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 7 (Establishment of the Inventory) establishes a national greenhouse gas inventory that may overlap with the inventory management and reporting system institutionalized under EO No. 174 (2014).",
+   "section": "law:EO-174-2014",
+   "quote": "INSTITUTIONALIZING THE PHILIPPINE GREENHOUSE GAS INVENTORY MANAGEMENT AND REPORTING SYSTEM",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 10 (Land Use, Land-Use Change, and Forestry Account) requires the agencies concerned to use the ecosystem and natural capital accounts established under RA No. 11995.",
+   "section": "HB-20-11424:s10",
+   "quote": "shall employ the ecosystem and natural capital accounts established under Republic Act No. 11995.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 18 (Public Participation) requires consultation of indigenous cultural communities and indigenous peoples in accordance with RA No. 8371 for measures affecting their ancestral domains.",
+   "section": "HB-20-11424:s18",
+   "quote": "Indigenous cultural communities and indigenous peoples shall be consulted in accordance with Republic Act No. 8371 in respect of any measure affecting their ancestral domains.",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T10:08:48+00:00"
+ }
+}
