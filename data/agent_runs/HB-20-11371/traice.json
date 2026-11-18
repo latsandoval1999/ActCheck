@@ -1,0 +1,248 @@
+{
+ "output": {
+  "target": "HB-20-11371",
+  "entity_proposed": "Masterplan for Infrastructure and National Development (MIND) Council",
+  "proposal": "HB No. 11371 seeks to mandate the formulation of a 30-year Comprehensive Infrastructure Development Masterplan (CIDMP) and to establish the Masterplan for Infrastructure and National Development (MIND) Council to lead its preparation and revision, in order to institutionalize long-term infrastructure planning and ensure policy continuity and consistency.",
+  "alignment": "As a government organization measure, the review should examine how the MIND Council and the planning, coordination, monitoring and policy-review functions under Section 10 (Powers and Functions of the MIND Council) fit with those of existing bodies, particularly the Department of Economy, Planning and Development (DEPDev), which the bill designates as lead coordinator and Secretariat under Section 6 (Infrastructure Policies and Strategies) and Section 11 (Secretariat to the MIND Council), and whether the new council is consistent with the government's intent to streamline agencies and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The measure aligns with the Infrastructure Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on timely completion of flagship and high-impact infrastructure, climate-resilient design and public-private partnerships, and corresponds to item 34 (Masterplan for Infrastructure and National Development) of the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 11371 was filed in the 20th Congress on September 16, 2026 by Representative S Ralph Wendel P. Tulfo; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "HB No. 9425, filed in the same Congress, carries closely matching provisions on the composition, powers and functions of the MIND Council and on appropriations.",
+   "HB No. 3959 (filed August 26, 2025) and HB No. 4194 (filed September 1, 2025) in the 20th Congress bear the same or nearly the same title and are pending in committee; their texts have not been reviewed.",
+   "SB No. 2 (filed July 2, 2025) and SB No. 863 (filed August 4, 2025) in the 20th Congress carry the same title and are pending in committee.",
+   "In the 19th Congress, SB No. 2605 (filed March 13, 2024), bearing the same title, reached the stage of Pending Second Reading, Special Order.",
+   "Earlier measures on a Comprehensive Infrastructure Development Master Plan alone were filed in the 19th Congress (HB Nos. 6343, 8060 and 8106; SB Nos. 158 and 1987, the latter two consolidated or substituted in a committee report) and in the 20th Congress (HB Nos. 693 and 1132)."
+  ],
+  "related": [
+   {
+    "id": "HB-20-9425",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same chamber and Congress, with near-identical provisions on the MIND Council's powers and functions and on appropriations; it provides for four rather than five industry stakeholders.",
+    "section": "HB-20-9425:s10",
+    "quote": "Formulate the CIDMP that will serve as a blueprint for national and regional investment planning"
+   },
+   {
+    "id": "HB-20-3959",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-3959",
+    "quote": "ESTABLISHING THE MASTERPLAN FOR INFRASTRUCTURE AND NATIONAL DEVELOPMENT (MIND) COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-4194",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-4194",
+    "quote": "ESTABLISHING THE MASTERPLAN FOR INFRASTRUCTURE AND NATIONAL DEVELOPMENT COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "SB-20-2",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Senate measure in the same Congress with the same title; title match only; text not reviewed.",
+    "section": "meta:SB-20-2",
+    "quote": "MASTERPLAN FOR INFRASTRUCTURE AND NATIONAL DEVELOPMENT (MIND) ACT"
+   },
+   {
+    "id": "SB-20-863",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Senate measure in the same Congress with the same title; title match only; text not reviewed.",
+    "section": "meta:SB-20-863",
+    "quote": "MASTERPLAN FOR INFRASTRUCTURE AND NATIONAL DEVELOPMENT (MIND) ACT"
+   },
+   {
+    "id": "SB-19-2605",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-19-2605",
+    "quote": "MASTERPLAN FOR INFRASTRUCTURE AND NATIONAL DEVELOPMENT (MIND) ACT"
+   },
+   {
+    "id": "HB-20-693",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-693",
+    "quote": "AN ACT MANDATING THE FORMULATION AND INSTITUTIONALIZATION OF A COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN"
+   },
+   {
+    "id": "HB-20-1132",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-1132",
+    "quote": "AN ACT MANDATING THE FORMULATION AND INSTITUTIONALIZATION OF A COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN"
+   },
+   {
+    "id": "HB-19-8060",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-8060",
+    "quote": "AN ACT MANDATING THE FORMULATION AND INSTITUTIONALIZATION OF A COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN"
+   },
+   {
+    "id": "HB-19-8106",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-8106",
+    "quote": "AN ACT MANDATING THE FORMULATION AND INSTITUTIONALIZATION OF A COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN"
+   },
+   {
+    "id": "HB-19-6343",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-6343",
+    "quote": "AN ACT MANDATING THE FORMULATION AND INSTITUTIONALIZATION OF A COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN"
+   },
+   {
+    "id": "SB-19-158",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-19-158",
+    "quote": "COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN: AN ACT MANDATING THE FORMULATION AND INSTITUTIONALIZATION"
+   },
+   {
+    "id": "SB-19-1987",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-19-1987",
+    "quote": "AN ACT PROVIDING FOR THE FORMULATION AND INSTITUTIONALIZATION OF A COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-11285",
+    "label": "Referenced in the bill",
+    "overlap": "The bill cites RA No. 11285 once; the provision citing it is not identifiable in the available text and should be confirmed against the energy infrastructure provisions.",
+    "section": "law:RA-11285",
+    "quote": "An Act Institutionalizing Energy Efficiency and Conservation, Enhancing the Efficient Use of Energy"
+   }
+  ],
+  "salient_features": "HB No. 11371 seeks to mandate the formulation of a Comprehensive Infrastructure Development Masterplan (CIDMP) and to establish the Masterplan for Infrastructure and National Development (MIND) Council to lead its preparation and revision. Its salient features are as follows:\na. Section 5 (Formulation of a Comprehensive Infrastructure Development Master Plan) provides for a 30-year CIDMP setting the country's long-term infrastructure vision, goals and strategy, to be reviewed and updated every 10 years or earlier as needed, through a whole-of-government approach.\nb. Section 6 (Infrastructure Policies and Strategies) provides the policies the CIDMP shall pursue, including a whole-of-government coordination strategy led by the DEPDev, prioritization of projects of national significance based on ten principles, and maximization of private sector participation.\nc. Section 7 (Contents of the CIDMP) provides that the CIDMP shall contain a long-term vision, growth and demographic analysis, sub-sector strategies for seven infrastructure sub-sectors, and indicative projects, timelines, estimated funding requirements and financing modalities.\nd. Section 8 (Masterplan for Infrastructure and National Development (MIND) Council) provides for the establishment of the MIND Council to lead the preparation and revision of the CIDMP, and requires the DEPDev to mainstream the CIDMP into the planning-programming-budgeting process, including the PDP, PIP, TRIP, NEP, BESF and GAA.\ne. Section 9 (Composition of the MIND Council) provides that the Council shall be chaired by the President of the Philippines, with the DEPDev Secretary as Vice Chairperson, and shall include twelve other department secretaries (including the DBM Secretary), the presidents of the LGU leagues, and five industry stakeholder representatives.\nf. Section 10 (Powers and Functions of the MIND Council) provides that the Council shall formulate the CIDMP, coordinate infrastructure investments, monitor project implementation, review and streamline existing policies, consult stakeholders, submit reports and recommend legislation to Congress, and may form a consultative and advisory committee.\ng. Section 11 (Secretariat to the MIND Council) provides that the DEPDev shall serve as Secretariat, prepare the detailed CIDMP, and be responsible for its update and its monitoring and evaluation.\nh. Section 12 (Role of Implementing Agencies) provides that implementing agencies shall prioritize and fast-track infrastructure projects in accordance with the CIDMP and carry out sector-specific responsibilities.\ni. Section 13 (Consideration of Approved National Infrastructure Projects) provides that projects approved by the DEPDev before the Act takes effect shall be given due consideration in the CIDMP.\nj. Section 14 (Joint Congressional Oversight Committee (JCOC)) provides for a congressional oversight committee of six members from each chamber to monitor the implementation of the Act.\nk. Section 15 (Appropriations) provides that initial implementation shall be charged against the current year's appropriations of the departments or agencies concerned, and continuing requirements shall be included in the annual General Appropriations Act.\nl. Section 16 (Implementing Rules and Regulations) provides that the Council, in consultation with stakeholders, shall issue the implementing rules within ninety days of the approval of the Act.",
+  "related_measures_policy": "HB No. 11371 may be considered alongside HB No. 9425, which carries closely matching provisions, as well as HB Nos. 3959 and 4194 and the Senate measures SB Nos. 2 and 863, which bear the same or nearly the same title, and SB No. 2605 of the 19th Congress. The measure aligns with the Infrastructure Development priority area of the FY 2027 Budget Priorities Framework and corresponds to item 34 of the LEDAC Common Legislative Agenda. The review should assess whether the MIND Council under Section 8 (Masterplan for Infrastructure and National Development (MIND) Council) and Section 10 (Powers and Functions of the MIND Council) duplicates the planning and coordination mandate of the DEPDev, which the bill also designates as Secretariat under Section 11 (Secretariat to the MIND Council), in light of the streamlining objectives of the Government Optimization Act (RA No. 12231), and the implications of mainstreaming the CIDMP into the NEP, BESF and GAA under Section 8.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged against the current year's appropriations of the departments or agencies concerned; no amount stated.",
+    "section": "Section 15 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary, to be included in the annual General Appropriations Act.",
+    "section": "Section 15 (Appropriations)"
+   },
+   {
+    "item": "Members",
+    "detail": "Council chaired by the President, with thirteen department secretaries (including the DEPDev Secretary as Vice Chairperson), the presidents of the LGU leagues and five industry stakeholder representatives; no compensation provisions stated.",
+    "section": "Section 9 (Composition of the MIND Council)"
+   },
+   {
+    "item": "Support body",
+    "detail": "DEPDev as Secretariat providing administrative, operational and technical support; an optional consultative and advisory committee.",
+    "section": "Section 11 (Secretariat to the MIND Council)"
+   },
+   {
+    "item": "Oversight body",
+    "detail": "Congressional oversight committee of six members from each chamber.",
+    "section": "Section 14 (Joint Congressional Oversight Committee (JCOC))"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 5 heading contains a typographical error ('o/a' for 'of a') and its title is truncated in the section heading list.",
+   "Section 9 (Composition of the MIND Council) omits the designation 'as Member' for the Secretary of the Department of Energy and does not specify the number of LGU league presidents.",
+   "Section 9 provides for five industry stakeholders, while HB No. 9425 provides for four; confirm the intended composition.",
+   "Section 14 creates a 'Congressional Oversight Committee' while the heading refers to a Joint Congressional Oversight Committee, and it names multiple committee chairpersons as heads; confirm the intended leadership.",
+   "Confirm where and in what context the bill cites RA No. 11285.",
+   "Confirm with the House and the Senate the current status of HB Nos. 3959, 4194 and 9425 and SB Nos. 2 and 863, and whether any have been consolidated.",
+   "Confirm whether compensation or honoraria for industry stakeholder members and the advisory committee are intended, as none is stated."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same chamber and Congress, with near-identical provisions on the MIND Council's powers and functions and on appropriations; it provides for four rather than five industry stakeholders.",
+   "section": "HB-20-9425:s10",
+   "quote": "Formulate the CIDMP that will serve as a blueprint for national and regional investment planning",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-3959",
+   "quote": "ESTABLISHING THE MASTERPLAN FOR INFRASTRUCTURE AND NATIONAL DEVELOPMENT (MIND) COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-4194",
+   "quote": "ESTABLISHING THE MASTERPLAN FOR INFRASTRUCTURE AND NATIONAL DEVELOPMENT COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Senate measure in the same Congress with the same title; title match only; text not reviewed.",
+   "section": "meta:SB-20-2",
+   "quote": "MASTERPLAN FOR INFRASTRUCTURE AND NATIONAL DEVELOPMENT (MIND) ACT",
+   "check": "verified"
+  },
+  {
+   "claim": "Senate measure in the same Congress with the same title; title match only; text not reviewed.",
+   "section": "meta:SB-20-863",
+   "quote": "MASTERPLAN FOR INFRASTRUCTURE AND NATIONAL DEVELOPMENT (MIND) ACT",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-19-2605",
+   "quote": "MASTERPLAN FOR INFRASTRUCTURE AND NATIONAL DEVELOPMENT (MIND) ACT",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-693",
+   "quote": "AN ACT MANDATING THE FORMULATION AND INSTITUTIONALIZATION OF A COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-1132",
+   "quote": "AN ACT MANDATING THE FORMULATION AND INSTITUTIONALIZATION OF A COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-8060",
+   "quote": "AN ACT MANDATING THE FORMULATION AND INSTITUTIONALIZATION OF A COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-8106",
+   "quote": "AN ACT MANDATING THE FORMULATION AND INSTITUTIONALIZATION OF A COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-6343",
+   "quote": "AN ACT MANDATING THE FORMULATION AND INSTITUTIONALIZATION OF A COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-19-158",
+   "quote": "COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN: AN ACT MANDATING THE FORMULATION AND INSTITUTIONALIZATION",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-19-1987",
+   "quote": "AN ACT PROVIDING FOR THE FORMULATION AND INSTITUTIONALIZATION OF A COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN",
+   "check": "verified"
+  },
+  {
+   "claim": "The bill cites RA No. 11285 once; the provision citing it is not identifiable in the available text and should be confirmed against the energy infrastructure provisions.",
+   "section": "law:RA-11285",
+   "quote": "An Act Institutionalizing Energy Efficiency and Conservation, Enhancing the Efficient Use of Energy",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-18T10:09:15+00:00"
+ }
+}
