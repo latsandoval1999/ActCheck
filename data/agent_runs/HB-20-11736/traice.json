@@ -1,0 +1,240 @@
+{
+ "output": {
+  "target": "HB-20-11736",
+  "entity_proposed": "Refugees and Stateless Persons Protection Board (Protection Board)",
+  "proposal": "HB No. 11736 seeks to protect the rights of refugees and stateless persons by setting out their rights and obligations and the procedures for determining their status, and to create the Refugees and Stateless Persons Protection Board as the central authority on status determination and eligibility for protection, absorbing the related functions of the Bureau of Immigration and the Refugees and Stateless Persons Protection Unit (RSPPU) of the Department of Justice (DOJ).",
+  "alignment": "As a government organization and mandates measure, the review should examine how the Protection Board created under Section 9 (Refugees and Stateless Persons Protection Board) fits with existing bodies, given that the measure transfers the status determination function of the Bureau of Immigration to the Board and abolishes the RSPPU in the DOJ Legal Staff, and whether the creation of a collegial board with four presidential appointees under Section 10 (Composition of the Protection Board) is consistent with the government's intent to streamline agencies and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also examine the Board's relationship with the DOJ, the Department of Foreign Affairs (DFA) and the Task Force on Refugee Assistance and Administration. No direct match with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 11736 was filed on October 14, 2026 by Representative Patrick Michael \"PM\" D. Vargas; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "SB No. 616 (20th Congress), filed on July 15, 2025 and pending in the committee, bears the same long title and appears to be the Senate counterpart.",
+   "Measures bearing the same or nearly the same title were filed in earlier Congresses: HB No. 3425 and SB No. 379 (18th Congress), and HB No. 4561 and SB No. 2548 (19th Congress), all pending in the committee.",
+   "House measures proposing a Refugees and Stateless Persons Protection Office instead of a Board were filed as HB Nos. 10799 and 11265 (19th Congress) and HB Nos. 2339 and 4246 (20th Congress), all pending in the committee."
+  ],
+  "related": [
+   {
+    "id": "SB-20-616",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-20-616",
+    "quote": "AN ACT PROTECTING THE RIGHTS OF REFUGEES AND STATELESS PERSONS, ESTABLISHING THE REFUGEES AND STATELESS PERSONS PROTECTION BOARD, AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "HB-19-4561",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-4561",
+    "quote": "AN ACT PROTECTING THE RIGHTS OF REFUGEES AND STATELESS PERSONS, ESTABLISHING THE REGFUGEES AND STATELESS PERSONS PROTECTION BOARD, AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "SB-19-2548",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-19-2548",
+    "quote": "REFUGEES AND STATELESS PERSONS PROTECTION ACT: AN ACT PROTECTING THE RIGHTS OF REFUGEES AND STATELESS PERSONS, ESTABLISHING THE REFUGEES AND STATELESS PERSONS PROTECTION BOARD"
+   },
+   {
+    "id": "HB-18-3425",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-3425",
+    "quote": "AN ACT PROTECTING THE RIGHTS OF REFUGEES AND STATELESS PERSONS, ESTABLISHING THE REFUGEES AND STATELESS PERSONS PROTECTION BOARD, AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "SB-18-379",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-18-379",
+    "quote": "REFUGEES AND STATELESS PERSONS PROTECTION ACT OF 2019: AN ACT PROTECTING THE RIGHTS OF REFUGEES AND STATELESS PERSONS"
+   },
+   {
+    "id": "HB-20-2339",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title proposes a Protection Office rather than a collegial Board.",
+    "section": "meta:HB-20-2339",
+    "quote": "AN ACT ESTABLISHING THE REFUGEES AND STATELESS PERSONS PROTECTION OFFICE, PROVIDING FOR THE REFUGEE AND STATELESS PERSON STATUS DETERMINATION PROCEDURE"
+   },
+   {
+    "id": "HB-20-4246",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title proposes a Protection Office rather than a collegial Board.",
+    "section": "meta:HB-20-4246",
+    "quote": "AN ACT ESTABLISHING THE REFUGEES AND STATELESS PERSONS PROTECTION OFFICE, PROVIDING FOR THE REFUGEE AND STATELESS PERSON STATUS DETERMINATION PROCEDURE"
+   },
+   {
+    "id": "HB-19-10799",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title proposes a Protection Office rather than a collegial Board.",
+    "section": "meta:HB-19-10799",
+    "quote": "AN ACT ESTABLISHING THE REFUGEES AND STATELESS PERSONS PROTECTION OFFICE, PROVIDING FOR THE REFUGEE AND STATELESS PERSON STATUS DETERMINATION PROCEDURE"
+   },
+   {
+    "id": "HB-19-11265",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title proposes a Protection Office rather than a collegial Board.",
+    "section": "meta:HB-19-11265",
+    "quote": "AN ACT ESTABLISHING THE REFUGEES AND STATELESS PERSONS PROTECTION OFFICE, PROVIDING FOR THE REFUGEE AND STATELESS PERSON STATUS DETERMINATION PROCEDURE"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "CA-613",
+    "label": "Amends or repeals",
+    "overlap": "Section 9 (Refugees and Stateless Persons Protection Board) modifies the Bureau of Immigration's responsibility under the Philippine Immigration Act of 1940 and transfers refugee and stateless status determination to the Board.",
+    "section": "HB-20-11736:s9",
+    "quote": "the Philippine Immigration Act of 1940 (Commonwealth Act No. 613, as amended)"
+   },
+   {
+    "law": "EO-292",
+    "label": "Amends or repeals",
+    "overlap": "Section 9 (Refugees and Stateless Persons Protection Board) modifies the Bureau of Immigration's mandate under the Administrative Code of 1987 insofar as it covers refugee and stateless status determination.",
+    "section": "HB-20-11736:s9",
+    "quote": "the Administrative Code of the Philippines of 1987 (Executive Order No. 292)"
+   },
+   {
+    "law": "EO-304",
+    "label": "Referenced in the bill",
+    "overlap": "Section 29 (Provisional Measures) preserves the authority of the Task Force on Refugee Assistance and Administration and the DFA to issue identity papers and travel documents.",
+    "section": "HB-20-11736:s29",
+    "quote": "Executive Order No. 304 dated 31 august 1987 authorizing the Task Force on Refugee Assistance and Administration"
+   },
+   {
+    "law": "RA-9372",
+    "label": "Referenced in the bill",
+    "overlap": "Section 32 (Persons Excluded from the 1951 Refugee Convention and the 1954 UN Convention) relies on the law's definition of acts of terrorism as a ground for exclusion.",
+    "section": "HB-20-11736:s32",
+    "quote": "Philippine laws, including Republic Act No. 9372 or the"
+   },
+   {
+    "law": "EO-163-2022",
+    "label": "Overlapping functions",
+    "overlap": "The executive order's title indicates that it institutionalizes access to protection services for refugees and stateless persons, which may overlap with the Board's functions under Section 11 (Powers and Functions of the Protection Board); its text was not reviewed.",
+    "section": "law:EO-163-2022",
+    "quote": "INSTITUTIONALIZING ACCESS TO PROTECTION SERVICES FOR REFUGEES, STATELESS PERSONS AND ASYLUM SEEKERS"
+   }
+  ],
+  "salient_features": "HB No. 11736 seeks to establish a legal framework for the protection of refugees and stateless persons and to create the Refugees and Stateless Persons Protection Board. Its salient features are as follows:\na. Section 9 (Refugees and Stateless Persons Protection Board) provides for the creation of the Protection Board as the central authority on the determination of refugee and stateless status and eligibility for protection, transfers the related responsibility of the Bureau of Immigration to the Board, and abolishes the RSPPU in the DOJ Legal Staff, whose duties the Board shall assume.\nb. Section 10 (Composition of the Protection Board) provides that the Board shall be chaired ex officio by the DOJ Secretary, with the DFA Secretary as ex officio Vice Chair, the Commissioner of Immigration and the National Security Adviser as ex officio members, and four members appointed by the President for a non-renewable five-year term, including a civil society representative and three lawyers with at least the qualifications of a regional trial court judge.\nc. Section 11 (Powers and Functions of the Protection Board) provides that the Board shall issue rules, decide applications for refugee or stateless status and requests for provisional measures, supervise its Secretariat, promote protection programs, coordinate with the UNHCR and report to competent UN organs.\nd. Section 13 (Secretariat) provides that the Board shall be assisted by a Secretariat, which may be drawn from the existing personnel of the RSPPU.\ne. Section 29 (Provisional Measures) provides that applicants may be granted provisional measures to protect their personal security, liberty and property pending decision, without prejudice to the issuance of identity papers and travel documents under existing executive issuances.\nf. Section 32 (Persons Excluded from the 1951 Refugee Convention and the 1954 UN Convention) provides that the benefits of the Act shall not apply to persons excluded under the two conventions, including those with serious reasons to be considered to have committed war crimes, crimes against humanity or acts of terrorism.\ng. The measure further provides for the rights and obligations of refugees and stateless persons, the procedures for applications, interviews, decisions, reconsideration and judicial review, the cancellation, revocation and cessation of status, and an operating budget under Section 14 (Operating Budget).",
+  "related_measures_policy": "HB No. 11736 may be considered alongside SB No. 616, which bears the same title in the Senate, the measures of the same title filed in the 18th and 19th Congresses, and HB Nos. 2339 and 4246, which propose a Refugees and Stateless Persons Protection Office instead of a collegial board. No direct alignment with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified. The review should assess the transfer of functions from the Bureau of Immigration under Section 9 (Refugees and Stateless Persons Protection Board) in relation to CA No. 613 and EO No. 292, the abolition of the RSPPU and the staffing of the Secretariat under Section 13 (Secretariat), the cost of the four appointive members under Section 10 (Composition of the Protection Board), the source and level of funding under Section 14 (Operating Budget), and the possible overlap with the protection services institutionalized under EO No. 163 (2022).",
+  "fiscal_requirements": [
+   {
+    "item": "Members",
+    "detail": "Four presidential appointees with a non-renewable five-year term (compensation not stated)",
+    "section": "Section 10 (Composition of the Protection Board)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Secretariat, which may be drawn from existing RSPPU personnel",
+    "section": "Section 13 (Secretariat)"
+   },
+   {
+    "item": "Operating budget",
+    "detail": "Provided for in a separate section; amount and source to be verified",
+    "section": "Section 14 (Operating Budget)"
+   },
+   {
+    "item": "Transfer of functions",
+    "detail": "RSPPU abolished and its duties, together with the Bureau of Immigration's status determination function, transferred to the Board",
+    "section": "Section 9 (Refugees and Stateless Persons Protection Board)"
+   }
+  ],
+  "reviewer_checks": [
+   "Verify the amount and funding source under Section 14 (Operating Budget), and whether the appointive members are full-time and compensated.",
+   "Clarify in Section 10 (Composition of the Protection Board) whether the civil society representative may also be one of the three lawyer appointees, and whether the terms of the appointees should be staggered.",
+   "Correct the typographical errors in Section 11 (Powers and Functions of the Protection Board) and Section 29 (Provisional Measures).",
+   "Confirm that the reference to RA No. 9372 in Section 32 remains current.",
+   "Confirm the disposition of RSPPU personnel and the transfer of records and appropriations, given its abolition under Section 9 (Refugees and Stateless Persons Protection Board).",
+   "Confirm the status and text of SB No. 616 with the Senate and compare it with this bill."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-20-616",
+   "quote": "AN ACT PROTECTING THE RIGHTS OF REFUGEES AND STATELESS PERSONS, ESTABLISHING THE REFUGEES AND STATELESS PERSONS PROTECTION BOARD, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-4561",
+   "quote": "AN ACT PROTECTING THE RIGHTS OF REFUGEES AND STATELESS PERSONS, ESTABLISHING THE REGFUGEES AND STATELESS PERSONS PROTECTION BOARD, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-19-2548",
+   "quote": "REFUGEES AND STATELESS PERSONS PROTECTION ACT: AN ACT PROTECTING THE RIGHTS OF REFUGEES AND STATELESS PERSONS, ESTABLISHING THE REFUGEES AND STATELESS PERSONS PROTECTION BOARD",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-3425",
+   "quote": "AN ACT PROTECTING THE RIGHTS OF REFUGEES AND STATELESS PERSONS, ESTABLISHING THE REFUGEES AND STATELESS PERSONS PROTECTION BOARD, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-18-379",
+   "quote": "REFUGEES AND STATELESS PERSONS PROTECTION ACT OF 2019: AN ACT PROTECTING THE RIGHTS OF REFUGEES AND STATELESS PERSONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the title proposes a Protection Office rather than a collegial Board.",
+   "section": "meta:HB-20-2339",
+   "quote": "AN ACT ESTABLISHING THE REFUGEES AND STATELESS PERSONS PROTECTION OFFICE, PROVIDING FOR THE REFUGEE AND STATELESS PERSON STATUS DETERMINATION PROCEDURE",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the title proposes a Protection Office rather than a collegial Board.",
+   "section": "meta:HB-20-4246",
+   "quote": "AN ACT ESTABLISHING THE REFUGEES AND STATELESS PERSONS PROTECTION OFFICE, PROVIDING FOR THE REFUGEE AND STATELESS PERSON STATUS DETERMINATION PROCEDURE",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the title proposes a Protection Office rather than a collegial Board.",
+   "section": "meta:HB-19-10799",
+   "quote": "AN ACT ESTABLISHING THE REFUGEES AND STATELESS PERSONS PROTECTION OFFICE, PROVIDING FOR THE REFUGEE AND STATELESS PERSON STATUS DETERMINATION PROCEDURE",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the title proposes a Protection Office rather than a collegial Board.",
+   "section": "meta:HB-19-11265",
+   "quote": "AN ACT ESTABLISHING THE REFUGEES AND STATELESS PERSONS PROTECTION OFFICE, PROVIDING FOR THE REFUGEE AND STATELESS PERSON STATUS DETERMINATION PROCEDURE",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Refugees and Stateless Persons Protection Board) modifies the Bureau of Immigration's responsibility under the Philippine Immigration Act of 1940 and transfers refugee and stateless status determination to the Board.",
+   "section": "HB-20-11736:s9",
+   "quote": "the Philippine Immigration Act of 1940 (Commonwealth Act No. 613, as amended)",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Refugees and Stateless Persons Protection Board) modifies the Bureau of Immigration's mandate under the Administrative Code of 1987 insofar as it covers refugee and stateless status determination.",
+   "section": "HB-20-11736:s9",
+   "quote": "the Administrative Code of the Philippines of 1987 (Executive Order No. 292)",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 29 (Provisional Measures) preserves the authority of the Task Force on Refugee Assistance and Administration and the DFA to issue identity papers and travel documents.",
+   "section": "HB-20-11736:s29",
+   "quote": "Executive Order No. 304 dated 31 august 1987 authorizing the Task Force on Refugee Assistance and Administration",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 32 (Persons Excluded from the 1951 Refugee Convention and the 1954 UN Convention) relies on the law's definition of acts of terrorism as a ground for exclusion.",
+   "section": "HB-20-11736:s32",
+   "quote": "Philippine laws, including Republic Act No. 9372 or the",
+   "check": "verified"
+  },
+  {
+   "claim": "The executive order's title indicates that it institutionalizes access to protection services for refugees and stateless persons, which may overlap with the Board's functions under Section 11 (Powers and Functions of the Protection Board); its text was not reviewed.",
+   "section": "law:EO-163-2022",
+   "quote": "INSTITUTIONALIZING ACCESS TO PROTECTION SERVICES FOR REFUGEES, STATELESS PERSONS AND ASYLUM SEEKERS",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-18T00:06:29+00:00"
+ }
+}
