@@ -1,0 +1,81 @@
+{
+ "output": {
+  "target": "HB-20-11427",
+  "entity_proposed": "National Fuel Price Vigilance and Rapid Subsidy Council, otherwise known as the Ahensya ng Gabay at Alerto sa Petrolyo (AGAP)",
+  "proposal": "HB No. 11427 seeks to institutionalize a real-time mechanism for monitoring fuel price movements and to provide for the automatic grant of emergency fuel subsidies to vulnerable sectors whenever a defined price hike threshold is breached. For this purpose, it seeks to create the National Fuel Price Vigilance and Rapid Subsidy Council (AGAP) under the Office of the President, supported by a continuing Fuel Subsidy and Contingency Fund.",
+  "alignment": "As a government organization measure, the review should examine how the proposed Council fits with the existing mandates of the Department of Energy (DOE), which the bill designates as its Secretariat and as administrator of the Fund, and of the implementing agencies tasked to disburse subsidies, and whether the creation of a new inter-agency body under the Office of the President is consistent with the streamlining and reduction of overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess the fiscal design, particularly the automatic activation of subsidies without a new appropriation measure under Section 2 (Declaration of Policy) and Section 8 (Price Hike Trigger Mechanism), and the continuing, non-reverting character of the Fund under Section 10 (Fuel Subsidy and Contingency Fund). The FY 2027 Budget Priorities Framework priority area identified for this bill type is Environment, Climate, and Disaster Resilience, whose stated focus (nature-based solutions, coastal and marine conservation, and stronger forecasting and early warning) does not directly address fuel price monitoring or consumer subsidies; the alignment should therefore be treated as limited and confirmed by the reviewer. The measure is not among the LEDAC Common Legislative Agenda items.",
+  "legislative_history": [
+   "HB No. 11427 was filed in the House of Representatives of the 20th Congress on September 22, 2026 by Representative Omar Vincent S. Duterte.",
+   "The bill is at the filing stage; later stages are not yet recorded.",
+   "No earlier version, counterpart measure in the Senate, substitute bill or committee report is identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-8479",
+    "label": "Referenced in the bill",
+    "overlap": "Section 3 (Definition of Terms) defines fuel by reference to products monitored by the DOE under RA No. 8479, and Section 7 subjects oil company data submissions to its confidentiality safeguards.",
+    "section": "HB-20-11427:s3",
+    "quote": "such other petroleum products as are regularly monitored by the DOE pursuant to Republic Act No. 8479, otherwise known as the Downstream Oil Industry Deregulation Act of 1998"
+   }
+  ],
+  "salient_features": "HB No. 11427 seeks to create the National Fuel Price Vigilance and Rapid Subsidy Council, otherwise known as the Ahensya ng Gabay at Alerto sa Petrolyo (AGAP), under the Office of the President, to monitor fuel prices in real time and to activate emergency fuel subsidies automatically. Its salient features are as follows:\na. Section 2 (Declaration of Policy) provides for a permanent mechanism for real-time monitoring of domestic and international fuel prices and for the automatic extension of targeted subsidies to vulnerable sectors upon a significant price hike, without need of a new law, appropriation measure or executive issuance for each occurrence.\nb. Section 4 (Creation of the National Fuel Price Vigilance and Rapid Subsidy Council) provides that the Council is created under the Office of the President with general supervision over, and primary responsibility for, fuel price monitoring and the immediate release of subsidies.\nc. Section 5 (Composition of the Council) provides that the Council is chaired by the Executive Secretary or a designated Presidential adviser, with the Secretary of Energy as Vice-Chairperson, eight other department and agency heads as members, and three sectoral representatives (public transport, farmers or fisherfolk, and consumer advocacy) appointed by the President for a three-year term without reappointment; no salary grades or compensation are specified.\nd. Section 6 (Powers and Functions of the Council) provides that the Council shall monitor pump prices and international benchmarks through the DOE, operate the Real-Time Fuel Price Monitoring System, determine at least weekly whether the trigger is breached, activate and set the parameters of the subsidy program, direct implementing agencies, recommend fiscal and regulatory measures, require data from government entities, and publish a weekly bulletin.\ne. Section 7 provides for the Real-Time Fuel Price Monitoring System and requires all oil companies operating in the Philippines to submit price and volume data to the DOE, subject to existing confidentiality safeguards.\nf. Section 8 (Price Hike Trigger Mechanism) provides that the trigger is automatically activated upon a cumulative pump price increase of at least PHP 5.00 per liter for diesel or gasoline (or the LPG equivalent) within 30 calendar days, or a cumulative increase of at least 10 percent in the MOPS-based landed cost within 15 calendar days, after which the Council convenes within five working days; the thresholds may be adjusted by the Council not more than once every two years, subject to review by the Office of the President.\ng. Section 9 (Immediate Fuel Subsidy Program) provides that subsidies shall prioritize public utility vehicle and tricycle drivers and operators, farmers, fisherfolk and low-income households in existing government registries, may take the form of fuel discount cards, vouchers, cash transfers or subsidized LPG, and shall be disbursed by the DOE, DOTr, DA and DSWD within 15 working days from activation.\nh. Section 10 (Fuel Subsidy and Contingency Fund) provides for a continuing, revolving and non-reverting Fund held in trust with the National Treasury and administered by the DOE, sourced from an initial seed fund in the GAA, annual appropriations, releases from the contingent or calamity funds of the National Government when the Fund is insufficient, and donations and grants.\ni. Section 11 (Secretariat of the AGAP Council) provides that the DOE shall serve as Secretariat, with existing DOE personnel detailed to it and no additional permanent positions unless the DOE determines these to be strictly necessary.\nj. Section 12 (Reportorial Requirements of the AGAP Council) provides for quarterly reports to the President and Congress on price trends, trigger activations, beneficiaries, disbursements and Fund utilization, to be published online.\nk. Section 13 (Implementing Rules and Regulations (IRR)) provides that the Council, through the DOE and in consultation with the DOF, the DBM and other stakeholders, shall issue the IRR within 90 days from effectivity.\nl. Section 14 (Appropriations) provides that initial implementation, including the Fund's seed amount and the initial operating expenses of the Council and its Secretariat, shall be charged against the current year's appropriations of the Office of the President and the DOE or available savings, and thereafter included in the annual GAA.",
+  "related_measures_policy": "HB No. 11427 may be considered alongside RA No. 8479 (Downstream Oil Industry Deregulation Act of 1998), which the bill invokes in Section 3 (Definition of Terms) for the scope of fuel products monitored by the DOE and in Section 7 for the confidentiality of oil company data. No related bill is identified for consideration. The measure's link to the Environment, Climate, and Disaster Resilience priority area of the FY 2027 Budget Priorities Framework appears limited, and it is not part of the LEDAC Common Legislative Agenda. The review should assess whether the Council's monitoring functions duplicate existing DOE price monitoring under RA No. 8479, whether a new body under the Office of the President is warranted in light of the Government Optimization Act (RA No. 12231), and the fiscal implications of an automatically triggered subsidy and a non-reverting Fund under Section 8 (Price Hike Trigger Mechanism), Section 10 (Fuel Subsidy and Contingency Fund) and Section 14 (Appropriations).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for initial implementation, including the Fund seed amount and initial operating expenses of the Council and Secretariat, charged to current-year appropriations of the Office of the President and the DOE or available savings; no amount stated",
+    "section": "Section 14 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary, included in the annual General Appropriations Act",
+    "section": "Section 14 (Appropriations)"
+   },
+   {
+    "item": "Special fund",
+    "detail": "Continuing, revolving, non-reverting Fuel Subsidy and Contingency Fund held in trust with the National Treasury; sourced from a GAA seed fund, annual appropriations, releases from contingent or calamity funds, and donations; no amount stated",
+    "section": "Section 10 (Fuel Subsidy and Contingency Fund)"
+   },
+   {
+    "item": "Subsidy outlays",
+    "detail": "Automatic subsidies to vulnerable sectors upon breach of the price trigger; amount per beneficiary determined by the Council based on the price increase and available funds",
+    "section": "Section 9 (Immediate Fuel Subsidy Program)"
+   },
+   {
+    "item": "Members",
+    "detail": "Ten ex officio heads of agencies and three sectoral representatives; no compensation or allowances specified",
+    "section": "Section 5 (Composition of the Council)"
+   },
+   {
+    "item": "Support body",
+    "detail": "DOE as Secretariat using detailed personnel; additional permanent positions possible upon DOE determination",
+    "section": "Section 11 (Secretariat of the AGAP Council)"
+   }
+  ],
+  "reviewer_checks": [
+   "Verify the short title: Section 1 reads \"Alertos\" while Section 3 and Section 4 use \"Alerto\".",
+   "Confirm the heading and full text of Section 7, which appears to be run into the text of Section 6 and Section 8.",
+   "Reconcile Section 10(a), which provides for a seed fund under the GAA following effectivity, with Section 14, which charges the seed amount to current-year appropriations or savings of the Office of the President and the DOE.",
+   "Assess the automatic subsidy activation and the authority to draw on contingent or calamity funds against existing budget execution rules.",
+   "Review the non-reverting, revolving character of the Fund under Section 10 and its administration by the DOE.",
+   "Review the authority under Section 11 for the DOE to create additional permanent positions for the Secretariat.",
+   "Check the current official designation of the agency head listed in Section 5(j).",
+   "Confirm the current status of the bill with the House of Representatives."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 3 (Definition of Terms) defines fuel by reference to products monitored by the DOE under RA No. 8479, and Section 7 subjects oil company data submissions to its confidentiality safeguards.",
+   "section": "HB-20-11427:s3",
+   "quote": "such other petroleum products as are regularly monitored by the DOE pursuant to Republic Act No. 8479, otherwise known as the Downstream Oil Industry Deregulation Act of 1998",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T10:05:40+00:00"
+ }
+}
