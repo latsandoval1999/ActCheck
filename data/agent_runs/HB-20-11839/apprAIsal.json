@@ -1,0 +1,185 @@
+{
+ "output": {
+  "target": "HB-20-11839",
+  "fiscal_rows": [
+   {
+    "item": "Initial funding",
+    "provision": "Section 11 (Appropriations)",
+    "existing": "An initial and minimum fund of Php 20,000,000,000.00 for the NDRIF in the first year of implementation.",
+    "consideration": "The bill fixes the amount at Php 20,000,000,000.00; the COST ENGINE does not estimate fund capitalization, and the basis of the amount (risk assessment, expected losses, NDRRMF levels) is not stated in the bill.",
+    "recommendation": "In lieu of a fixed statutory minimum, the initial requirement may be charged against the available appropriations of the concerned agencies, including the NDRRMF, in the year of effectivity, and succeeding requirements included in the GAA based on the risk assessment under the DRFI Framework, subject to fiscal space.",
+    "risks": "A fixed minimum reduces flexibility in budget preparation and may crowd out other priorities within the expenditure ceilings."
+   },
+   {
+    "item": "Continuing funding",
+    "provision": "Section 11 (Appropriations)",
+    "existing": "Regular NDRIF appropriations in the annual General Appropriations Act.",
+    "consideration": "No amount is stated; the requirement depends on the risk layering under the DRFI Framework and on how the NDRIF relates to the NDRRMF.",
+    "recommendation": "Requirements may be included in the annual budget proposal under the budget call for the succeeding GAA, subject to fiscal space and the DBM's evaluation, without creating a second fund for the same purpose.",
+    "risks": "Two parallel appropriations for post-disaster infrastructure repair may lead to double budgeting or fragmented releases."
+   },
+   {
+    "item": "Insurance premiums and premium subsidies",
+    "provision": "Section 11 (Appropriations)",
+    "existing": "Premium payments as determined by the DRFIC-approved insurance policy, with GOCC and LGU premiums included in the annual General Appropriations as national government subsidies.",
+    "consideration": "No amount is stated; premiums depend on the insured asset base, valuation and policy terms yet to be set.",
+    "recommendation": "Premiums of national government assets may be included in the GAA subject to fiscal space; GOCCs may fund their own premiums, and assistance to LGUs may be targeted and risk-based with counterpart funding.",
+    "risks": "An open-ended recurring subsidy for all GOCCs and LGUs creates a mandatory obligation regardless of their fiscal capacity."
+   },
+   {
+    "item": "Fund transfer",
+    "provision": "Section 9 (National Disaster Response for Infrastructure Fund)",
+    "existing": "Infrastructure financing functions of the NDRRMF transferred to the NDRIF, managed by the DBM, with financing requests subject to DRFIC approval.",
+    "consideration": "No amount is stated for the share of the NDRRMF to be transferred.",
+    "recommendation": "Infrastructure financing may remain within the NDRRMF under RA No. 10121, with insurance recoveries supplementing that fund.",
+    "risks": "An additional approval layer may slow post-disaster releases."
+   },
+   {
+    "item": "Tax expenditure",
+    "provision": "Section 10 (Tax Incentive for Members of the Consortium)",
+    "existing": "Five percent reduction of corporate income tax for Consortium members for the first five years.",
+    "consideration": "Forgone revenue is not estimated in the bill or by the COST ENGINE.",
+    "recommendation": "Deletion of the provision may be considered, deferring to the DOF on its revenue implications.",
+    "risks": "Revenue loss reduces the fiscal space available for the fund and premiums."
+   },
+   {
+    "item": "Support body (DRFIC secretariat)",
+    "provision": "Section 11 (Appropriations)",
+    "existing": "DRFIC secretariat and operating requirements not specified; other requirements to be determined by the DBM.",
+    "consideration": "If a new office is created, the COST ENGINE estimates P46.1 million to P231.8 million in the first year for 30 to 150 positions (PS P28.2 million to P154.7 million; MOOE P13.0 million to P55.8 million; CO P4.9 million to P21.4 million, one-time), and P41.2 million to P210.5 million a year thereafter.",
+    "recommendation": "Secretariat support may be provided by existing DOF or BTr units, charged against their available appropriations; any new structure and staffing pattern should be submitted to the DBM for review, subject to fiscal space.",
+    "risks": "A new council with operational functions adds recurring personnel costs not provided in the bill."
+   }
+  ],
+  "duplications": [
+   {
+    "function": "Section 6 (Powers and Functions of the DRFIC)",
+    "existing": "Government Service Insurance System, Republic Act No. 656, as amended by PD No. 245",
+    "note": "Managing the insurance of government public assets may overlap with the GSIS's administration of government property insurance.",
+    "section": "HB-20-11839:s6",
+    "quote": "Manage and ensure the insurance of Government public assets",
+    "intent_to_abolish": false,
+    "assessment": "The bill does not change, merge, transfer or abolish the GSIS function; the overlap may be avoided by confining the DRFIC to policy, standards and monitoring, consistent with RA No. 12231."
+   },
+   {
+    "function": "Section 6 (Powers and Functions of the DRFIC)",
+    "existing": "Bureau of the Treasury, which administers the existing National Asset Registry System (as stated in HB No. 10763)",
+    "note": "Assigning the council the data integrity of the NARS may overlap with the BTr's administration of the registry.",
+    "section": "HB-20-11839:s6",
+    "quote": "Ensure the data integrity of the NARS",
+    "intent_to_abolish": false,
+    "assessment": "The bill does not transfer the registry from the BTr; the function may be deleted or limited to coordination to avoid duplicating responsibilities under RA No. 12231."
+   },
+   {
+    "function": "Section 9 (National Disaster Response for Infrastructure Fund)",
+    "existing": "National Disaster Risk Reduction and Management Fund, Republic Act No. 10121",
+    "note": "The new fund takes over a financing purpose already served by the NDRRMF, creating two funds for disaster-related infrastructure repair and rehabilitation.",
+    "section": "HB-20-11839:s9",
+    "quote": "The NDRIF shall be managed by the DBM, and its use shall be guided by the principles of the DRFI Framework.",
+    "intent_to_abolish": true,
+    "assessment": "The bill transfers the infrastructure financing functions of the NDRRMF but keeps the fund itself; the delineation between the two funds should be clarified, as a separate fund is contrary to the consolidation thrust of RA No. 12231."
+   }
+  ],
+  "intent_to_abolish": false,
+  "recommendation": {
+   "option": "b",
+   "label": "This Department interposes no objection to the proposed measure, subject to the incorporation of the recommendations.",
+   "issues": [
+    "Replace the fixed Php 20,000,000,000.00 minimum with risk-based GAA funding",
+    "Keep infrastructure financing within the NDRRMF",
+    "Lodge the framework with the DOF and BTr instead of a new council; confine roles to policy and monitoring",
+    "Pursue risk sharing through GSIS reinsurance and clear claims standards",
+    "Delete the tax incentive",
+    "Target LGU premium assistance; GOCCs fund own premiums",
+    "Safeguard for risks allocated to private proponents",
+    "Annual report content; 180-day IRR period"
+   ]
+  },
+  "referrals": [
+   {
+    "bureau": "BTB",
+    "why": "Appropriations language of the fixed initial fund, the creation of a new special fund and its relation to the NDRRMF",
+    "parts": "Part V (Initial and continuing funding; Fund transfer), Part VI"
+   },
+   {
+    "bureau": "BMB-C",
+    "why": "The bill places the NDRIF under the DBM and assigns the GSIS the lead of the Consortium; GOCC premium subsidies concern GOCCs with budgetary support",
+    "parts": "Part V (Insurance premiums; Fund transfer)"
+   },
+   {
+    "bureau": "FPRB",
+    "why": "Large fiscal impact of the Php 20,000,000,000.00 minimum, recurring premium subsidies and the tax expenditure",
+    "parts": "Part V (Initial funding; Insurance premiums; Tax expenditure)"
+   },
+   {
+    "bureau": "LGRCB",
+    "why": "National government subsidies for LGU insurance premiums and counterpart conditions",
+    "parts": "Part V (Insurance premiums)"
+   },
+   {
+    "bureau": "OPCCB",
+    "why": "Any organizational structure and staffing pattern of a DRFIC secretariat",
+    "parts": "Part V (Support body)"
+   },
+   {
+    "bureau": "SPIB",
+    "why": "Overlap of the DRFIC with GSIS and BTr functions and of the NDRIF with the NDRRMF under RA No. 12231",
+    "parts": "Part VI"
+   },
+   {
+    "bureau": "LS",
+    "why": "Amendments to RA No. 656, as amended by PD No. 245, and RA No. 10121 under Section 17 (Repealing Clause), and the transfer of fund functions",
+    "parts": "Parts IV and VI"
+   }
+  ],
+  "memo": {
+   "V": [
+    "5.1 As regards the initial funding under Section 11 (Appropriations), it may be noted that the bill fixes an initial and minimum fund of Php 20,000,000,000.00 for the NDRIF without stating its basis. Consistent with the recommendation in Part IV, the initial requirement may be charged against the available appropriations of the concerned agencies, including the NDRRMF, in the year of effectivity, and succeeding requirements may be included in the GAA based on the risk assessment under the DRFI Framework, subject to fiscal space.",
+    "5.2 As regards the insurance premiums and premium subsidies under Section 11 (Appropriations), no amount is stated. Premiums for national government assets may be included in the annual budget proposal, subject to fiscal space and the DBM's evaluation, while GOCC and LGU premiums may be addressed as discussed in Part IV, to avoid an open-ended recurring obligation.",
+    "5.3 As regards the support body, the bill does not provide for a DRFIC secretariat. Should a new office be created, the creation would require about P46.1 million to P231.8 million in its first year, consisting of Personnel Services of P28.2 million to P154.7 million, Maintenance and Other Operating Expenses of P13.0 million to P55.8 million, and Capital Outlay of P4.9 million to P21.4 million (one-time), for 30 to 150 positions, and about P41.2 million to P210.5 million every year thereafter. In this regard, secretariat support by existing DOF or BTr units, charged against their available appropriations, may be considered, and any proposed structure and staffing pattern should be submitted to the DBM for review.",
+    "5.4 As regards Section 10 (Tax Incentive for Members of the Consortium), the forgone revenue is not estimated and would reduce the fiscal space available for the fund and premiums; we defer to the DOF, as stated in Part IV."
+   ],
+   "VI": [
+    "6.1 Section 6 (Powers and Functions of the DRFIC) overlaps with the administration of government property insurance by the GSIS under RA No. 656, as amended by PD No. 245, and with the administration of the NARS by the BTr. The bill does not intend to change, merge, transfer or abolish these functions. In light of the Government Optimization Act (RA No. 12231), signed on August 4, 2025, which authorizes the merger or consolidation of agencies whose functions are unnecessarily overlapping or duplicating (Section 6), the creation of a new body with these operational functions may not be supported; the role of the council or lead agency may be confined to policy, standards, and monitoring and evaluation, as discussed in Part IV.",
+    "6.2 Section 9 (National Disaster Response for Infrastructure Fund) transfers the infrastructure financing functions of the NDRRMF under RA No. 10121 to a new fund while the NDRRMF continues to exist. It may be noted that this results in two funds and two approval processes for disaster-related infrastructure repair and rehabilitation. Consistent with the streamlining thrust of RA No. 12231, infrastructure financing may remain within the NDRRMF, with insurance recoveries supplementing that fund."
+   ],
+   "VII": [
+    "7.1 This Department interposes no objection to the proposed measure, subject to the incorporation of the recommendations.",
+    "7.2 In particular: (a) the fixed Php 20,000,000,000.00 minimum under Section 11 (Appropriations) may be replaced with risk-based funding in the GAA, subject to fiscal space; (b) infrastructure financing may remain within the NDRRMF; (c) the framework may be lodged with the DOF and BTr in lieu of a new council, with roles confined to policy and monitoring; (d) risk sharing may be pursued through GSIS reinsurance, with clear claims standards; (e) Section 10 (Tax Incentive for Members of the Consortium) may be deleted; (f) LGU premium assistance may be targeted, with GOCCs funding their own premiums; and (g) the safeguards on privately allocated risks, report content and the IRR period discussed in Part IV may be incorporated."
+   ]
+  },
+  "reviewer_checks": [
+   "Confirm that the COST ENGINE estimate (new office) applies, since the bill creates a council but no secretariat.",
+   "Verify the basis and fiscal space for the Php 20,000,000,000.00 minimum and its relation to current NDRRMF levels.",
+   "Confirm whether the Section 9 transfer of NDRRMF functions should be treated as a transfer of functions (row flag true; overall flag false).",
+   "Obtain DOF views on the revenue impact of Section 10.",
+   "Check consistency with HB No. 10851 and HB No. 10763."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Managing the insurance of government public assets may overlap with the GSIS's administration of government property insurance.",
+   "section": "HB-20-11839:s6",
+   "quote": "Manage and ensure the insurance of Government public assets",
+   "check": "verified"
+  },
+  {
+   "claim": "Assigning the council the data integrity of the NARS may overlap with the BTr's administration of the registry.",
+   "section": "HB-20-11839:s6",
+   "quote": "Ensure the data integrity of the NARS",
+   "check": "verified"
+  },
+  {
+   "claim": "The new fund takes over a financing purpose already served by the NDRRMF, creating two funds for disaster-related infrastructure repair and rehabilitation.",
+   "section": "HB-20-11839:s9",
+   "quote": "The NDRIF shall be managed by the DBM, and its use shall be guided by the principles of the DRFI Framework.",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (ApprAIsal run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-18T00:18:28+00:00"
+ }
+}
