@@ -1,0 +1,64 @@
+{
+ "output": {
+  "target": "HB-20-11440",
+  "entity_proposed": "People's Council (in every city and municipality)",
+  "proposal": "HB No. 11440 seeks to mandate and institutionalize a People's Council in every city and municipality as the umbrella organization and primary mechanism for the direct participation of civil society organizations, non-governmental organizations, people's organizations and sectoral groups in local governance. It seeks to give effect to the State policy of promoting the people's right to effective and reasonable participation at all levels of decision-making.",
+  "alignment": "As a measure on government organization and mandates, the review should examine how the proposed People's Council, with its seats in Local Special Bodies and its participation in local legislative, budget and monitoring processes under Section 6 (Powers, Rights, and Functions), fits with existing local bodies and mechanisms for civil society participation under the Local Government Code of 1991 (RA No. 7160), and whether it would create overlapping or parallel structures, consistent with the intent to reduce overlapping functions under the Government Optimization Act (RA No. 12231). Since the Council is to be created and funded at the city and municipal level under Section 8 (Support and Funding), the review should also assess the implications for local fiscal autonomy and the mandatory character of the required local appropriation. No direct match with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 11440 was filed in the 20th Congress on September 23, 2026 by Representative Salvador A. Pleyto, Sr.",
+   "Its current status is filed (pending); later stages are not reflected in the available information.",
+   "No earlier version, counterpart measure in the Senate, substitute bill or committee report was identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-7160",
+    "label": "Referenced in the bill",
+    "overlap": "Section 9 (Sanctions and Penalties) applies the administrative liability provisions of Section 60 of RA No. 7160 to local officials who obstruct the People's Council.",
+    "section": "HB-20-11440:s9",
+    "quote": "shall be subject to administrative liability under Section 60 of Republic Act No. 7160 (Local Government Code of 1991)"
+   }
+  ],
+  "salient_features": "HB No. 11440 seeks to institutionalize a People's Council in every city and municipality as the primary mechanism for civil society participation in local governance. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the Institutionalized People's Council Act.\nb. Section 2 (Declaration of Policy) provides that the State shall promote the right of the people to participate in decision-making and recognizes non-governmental, community-based and sectoral organizations as partners in local development and governance.\nc. Section 3 (Scope and Coverage) provides that the measure applies to all cities and municipalities nationwide.\nd. Section 4 (Establishment of a People's Council) provides for a People's Council in every city and municipality to serve as the umbrella organization for CSOs, NGOs, POs and sectoral groups in local governance.\ne. Section 5 (Composition and Accreditation) provides that the Council shall be composed of representatives of accredited organizations and sectors operating in the locality, requires the local sanggunian to set an accreditation process within sixty (60) days from effectivity, and allows the Council to elect its own officers and adopt its own rules.\nf. Section 6 (Powers, Rights, and Functions) provides that the Council shall elect voting civil society representatives to all Local Special Bodies, participate as non-voting participants in sanggunian hearings and sessions, take part in local budget preparation and planning, conduct monitoring and citizen audits, and access public records.\ng. Section 7 (Independence of the People's Council) provides that the Council shall be independent and non-partisan and bars local officials and their relatives within the fourth civil degree from serving as officers or voting members.\nh. Section 8 (Support and Funding) provides that LGUs shall provide office space and appropriate an annual operational budget for the Council from the general fund or local development fund, and prohibits the use of funds to exert control over the Council.\ni. Section 9 (Sanctions and Penalties) provides that local officials who obstruct the establishment, accreditation or operations of the Council shall be administratively liable under RA No. 7160 and applicable civil service laws.\nj. Section 10 (Implementing Rules and Regulations (IRR)) provides that the DILG, in consultation with civil society organizations and the national leagues of LGUs, shall issue the implementing rules within ninety (90) days from approval.",
+  "related_measures_policy": "HB No. 11440 may be considered alongside the Local Government Code of 1991 (RA No. 7160), which Section 9 (Sanctions and Penalties) references for the administrative liability of local officials. No related bill from the current or earlier Congresses was identified, and no direct alignment with the FY 2027 Budget Priorities Framework or the LEDAC Common Legislative Agenda was found. The review should assess whether the Council's representation in Local Special Bodies and its participation in local budgeting under Section 6 (Powers, Rights, and Functions) duplicate existing civil society participation mechanisms in local governance, and whether the mandatory annual appropriation under Section 8 (Support and Funding) is consistent with local fiscal autonomy and with the intent to reduce overlapping functions under the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Continuing funding",
+    "detail": "Annual operational budget to be appropriated by each LGU from its general fund or local development fund; no amount stated; no national appropriation provided.",
+    "section": "Section 8 (Support and Funding)"
+   },
+   {
+    "item": "Support facilities",
+    "detail": "LGUs to provide reasonable office space or facilities within or adjacent to the city or municipal hall.",
+    "section": "Section 8 (Support and Funding)"
+   },
+   {
+    "item": "Implementation",
+    "detail": "DILG to promulgate implementing rules within ninety (90) days from approval, in consultation with CSOs and the leagues of LGUs; no separate funding stated.",
+    "section": "Section 10 (Implementing Rules and Regulations (IRR))"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 1 (Short Title) lacks a section heading; verify the formatting of the short title provision.",
+   "Section 5 (Composition and Accreditation) sets the accreditation period from effectivity while Section 10 (Implementing Rules and Regulations (IRR)) sets the IRR period from approval; verify the sequencing of these deadlines.",
+   "Verify whether voting seats for the Council in all Local Special Bodies under Section 6 (Powers, Rights, and Functions) are consistent with the composition of those bodies under existing law.",
+   "Section 6 (Powers, Rights, and Functions) refers to the Local Pre-qualification, Bids and Awards Committee (PBAC); verify the correct name of the procurement body under current procurement law.",
+   "Verify whether a national law may require LGUs to appropriate an annual budget for the Council without a specified amount or national funding source.",
+   "Confirm the current status of the bill with the House of Representatives."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 9 (Sanctions and Penalties) applies the administrative liability provisions of Section 60 of RA No. 7160 to local officials who obstruct the People's Council.",
+   "section": "HB-20-11440:s9",
+   "quote": "shall be subject to administrative liability under Section 60 of Republic Act No. 7160 (Local Government Code of 1991)",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T10:05:18+00:00"
+ }
+}
