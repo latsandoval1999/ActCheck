@@ -1,0 +1,73 @@
+{
+ "output": {
+  "target": "HB-20-11625",
+  "entity_proposed": "Health Outreach for Seniors and Indigents Program (the Program), under the Department of Health (DOH)",
+  "proposal": "HB No. 11625, the proposed Health Outreach for Seniors and Indigents Act, seeks to establish a DOH-led health outreach program, implemented with LGUs and other agencies, that brings home, community-based and mobile health services to senior citizens and indigent persons with functional disabilities who have difficulty reaching health facilities. The measure aims to bring appropriate health care closer to persons whose age, disability, mobility limitation or financial circumstances hinder their access to health services.",
+  "alignment": "Although classified under government organization and mandates, the measure does not create a new office or agency; it establishes a program under the DOH that is to be integrated into primary care provider networks under the Universal Health Care system. The review should therefore examine whether its functions under Section 3 (Health Outreach for Seniors and Indigents Program), Section 6 (Home and Community-Based Health Services) and Section 10 (Mobile Health Services) duplicate existing DOH, PhilHealth, DSWD, NCSC, NCDA and LGU programs, consistent with the intent of the Government Optimization Act (RA No. 12231) to reduce overlapping functions, and how Section 11 (Coordination with Existing Health and Social Protection Programs) would prevent duplication. The measure aligns with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on the Universal Health Care system and better targeting of social protection, and, given the role assigned to LGUs under Section 7 (Role of Local Government Units) and Section 18 (Appropriations), with the priority area on the Implementation of Full Devolution to LGUs. The measure is not among the priority measures of the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 11625 was filed in the House of Representatives of the 20th Congress on October 6, 2026 by Representative Edgar R. Erice; its current status is filed (pending).",
+   "No earlier version filed in a past Congress, counterpart measure in the Senate, substitute bill or committee report was identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-10173",
+    "label": "Referenced in the bill",
+    "overlap": "Section 12 (Health Information and Patient Privacy) requires that personal and health information collected under the Program be handled in accordance with the Data Privacy Act of 2012.",
+    "section": "HB-20-11625:s12",
+    "quote": "handled in accordance with Republic Act No. 10173"
+   }
+  ],
+  "salient_features": "HB No. 11625 seeks to establish the Health Outreach for Seniors and Indigents Program under the DOH, in coordination with LGUs and other concerned agencies. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the Health Outreach for Seniors and Indigents Act.\nb. Section 2 (Declaration of Policy) provides that the State shall protect and promote the right to health of senior citizens, indigent persons and persons with disabilities, and strengthen community and home-based health services.\nc. Section 3 (Health Outreach for Seniors and Indigents Program) provides that the DOH, with LGUs and other agencies, shall establish and implement the Program, integrate it as far as practicable into primary care provider networks under the Universal Health Care system, and set up a system for identifying, profiling and registering beneficiaries.\nd. Section 4 (Qualified Beneficiaries) provides that the Program shall primarily cover senior citizens and indigent persons with functional disabilities or mobility limitations who have substantial difficulty accessing health facilities, with priority for those who are bedridden, homebound, living alone or financially incapacitated.\ne. Section 5 (Health Outreach Services) provides that services may include health assessment, consultation, chronic illness monitoring, assistance in obtaining medicines, basic diagnostics, referrals, health education, follow-up care, assistive devices, and hygiene and oral-care supplies.\nf. Section 6 (Home and Community-Based Health Services) provides that services may be delivered at the beneficiary's residence or an accessible community location, with the DOH prescribing minimum standards on the frequency of visits.\ng. Section 7 (Role of Local Government Units) provides that LGUs shall coordinate with the DOH and endeavor to profile beneficiaries, coordinate outreach schedules, facilitate referrals, maintain records and assist beneficiaries in accessing existing programs.\nh. Section 8 (Participation of Barangay Health Workers and Frontline Health Personnel) provides that barangay health workers, nutrition scholars, nurses, midwives, social workers and other frontline personnel may assist in Program activities, with training to be provided or facilitated by the DOH.\ni. Section 9 (Referral and Continuity of Care) provides for a referral mechanism through health care provider networks, including referral of discharged hospital patients to the Program.\nj. Section 10 (Mobile Health Services) provides that the DOH and LGUs may use and strengthen existing mobile health clinics to deliver Program services.\nk. Section 11 (Coordination with Existing Health and Social Protection Programs) provides that the DOH shall coordinate with PhilHealth, DSWD, NCDA, NCSC and LGUs so that implementation complements rather than duplicates existing programs.\nl. Section 12 (Health Information and Patient Privacy) provides that personal and health information shall be kept confidential in accordance with the Data Privacy Act of 2012.\nm. Section 13 (Public Information) and Section 14 (Monitoring and Evaluation) provide for information dissemination by concerned agencies and for DOH monitoring and evaluation of Program coverage and results.\nn. Section 15 (Implementing Rules and Regulations) provides that the DOH, with concerned agencies, shall issue the implementing rules within ninety days from effectivity.\no. Section 18 (Appropriations) provides that initial implementation shall be charged against the current appropriations of the DOH and other concerned agencies, that continuing requirements shall be included in the annual General Appropriations Act, and that LGUs may appropriate funds for the Program.",
+  "related_measures_policy": "No closely related bill was identified for consideration alongside HB No. 11625. The measure references RA No. 10173 (Data Privacy Act of 2012) in Section 12 (Health Information and Patient Privacy) and invokes the Universal Health Care Act and the Local Government Code in Section 3 (Health Outreach for Seniors and Indigents Program) and Section 7 (Role of Local Government Units). It aligns with the Human Capital Development and Full Devolution priority areas of the FY 2027 Budget Priorities Framework. The review should assess whether the Program adds services beyond existing primary care, PhilHealth, social protection, senior citizen and disability programs, how Section 11 (Coordination with Existing Health and Social Protection Programs) would avoid duplication, and whether the funding arrangement in Section 18 (Appropriations), which relies on existing DOH appropriations without a stated amount, is adequate for the services listed in Section 5 (Health Outreach Services).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary (no amount stated), charged against current appropriations of the DOH and other concerned agencies",
+    "section": "Section 18 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary, to be included in the annual General Appropriations Act",
+    "section": "Section 18 (Appropriations)"
+   },
+   {
+    "item": "LGU funding",
+    "detail": "LGUs may appropriate funds for the Program within their jurisdictions",
+    "section": "Section 18 (Appropriations)"
+   },
+   {
+    "item": "Goods and supplies",
+    "detail": "Medicines assistance, assistive devices, and hygiene and oral-care supplies; no cost estimate stated",
+    "section": "Section 5 (Health Outreach Services)"
+   },
+   {
+    "item": "Personnel and training",
+    "detail": "Use of existing frontline health personnel; DOH to provide or facilitate training; no new positions created",
+    "section": "Section 8 (Participation of Barangay Health Workers and Frontline Health Personnel)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section numbering skips from Section 15 to Section 18; confirm whether Sections 16 and 17 were omitted.",
+   "The last sentence of Section 5 (Health Outreach Services) appears incomplete; verify the full text.",
+   "Section 2 (Declaration of Policy) and Section 20 (Repealing Clause) contain typographical errors to verify against the official copy.",
+   "Section 5 (Health Outreach Services) uses 'and' after both items h) and i); check the enumeration.",
+   "Confirm with the House of Representatives the current status and committee referral of the bill.",
+   "Verify with the DOH whether existing primary care, mobile clinic and home visit programs already provide similar services."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 12 (Health Information and Patient Privacy) requires that personal and health information collected under the Program be handled in accordance with the Data Privacy Act of 2012.",
+   "section": "HB-20-11625:s12",
+   "quote": "handled in accordance with Republic Act No. 10173",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T04:06:23+00:00"
+ }
+}
