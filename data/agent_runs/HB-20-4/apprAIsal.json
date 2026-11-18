@@ -1,0 +1,158 @@
+{
+ "output": {
+  "target": "HB-20-4",
+  "fiscal_rows": [
+   {
+    "item": "Initial funding",
+    "provision": "Section 13 (Appropriations)",
+    "existing": "Amount necessary, no amount stated; charged against the current year's DepEd appropriation",
+    "consideration": "For the creation of the Bureau of Private Education, an estimated first-year requirement of P46.1 million to P231.8 million for 30 to 150 positions (PS P28.2 million to P154.7 million; MOOE P13.0 million to P55.8 million; CO P4.9 million to P21.4 million, one-time). The estimate does not cover the vouchers, the Teachers' Salary Subsidy Fund or the other forms of assistance.",
+    "recommendation": "The initial requirement may be charged against the available appropriations of the DepEd in the year of effectivity; otherwise it may be included in the succeeding GAA, subject to fiscal space.",
+    "risks": "Charging an unstated amount to the current DepEd appropriation may crowd out existing programs or delay the organization of the bureau."
+   },
+   {
+    "item": "Continuing funding",
+    "provision": "Section 13 (Appropriations)",
+    "existing": "Included in the annual General Appropriations Act",
+    "consideration": "Recurring requirement of P41.2 million to P210.5 million a year thereafter for the bureau (PS and MOOE), excluding program funds for assistance and subsidies.",
+    "recommendation": "The requirements may be included in the DepEd's annual budget proposal under the budget call for the succeeding GAA, subject to fiscal space and the DBM's evaluation.",
+    "risks": "The recurring requirement competes with other priorities within the expenditure ceilings of the Budget Priorities Framework."
+   },
+   {
+    "item": "Vouchers",
+    "provision": "Section 8 (Basic Education Voucher Program)",
+    "existing": "Vouchers for kindergarten, elementary and secondary students, not less than the amount currently provided by the DepEd; BARMM share charged to its block grant",
+    "consideration": "Not estimated by the COST ENGINE; the cost depends on the number of beneficiaries per level, the voucher amounts set by the DepEd and the phasing under Section 15 (Transitory Provision).",
+    "recommendation": "The extension to the kindergarten and elementary levels may be phased in and included in the succeeding GAA, subject to fiscal space, with the minimum voucher floor reconsidered to allow adjustment based on available appropriations.",
+    "risks": "A statutory floor and a broadened coverage create a recurring, open-ended obligation that may exceed available appropriations."
+   },
+   {
+    "item": "Teacher subsidy",
+    "provision": "Section 10 (Teachers' Salary Subsidy Fund)",
+    "existing": "Teachers' Salary Subsidy Fund for private school teachers, amount to be determined by the DepEd; subsidy excluded from taxable income",
+    "consideration": "Not estimated by the COST ENGINE; the bill states no amount, eligibility ceiling or number of covered teachers.",
+    "recommendation": "The fund may be included in the succeeding GAA, subject to fiscal space, with the subsidy rate and coverage defined in the implementing rules in consultation with the DBM.",
+    "risks": "A recurring subsidy without a stated ceiling, together with the tax exclusion, may result in growing expenditures and foregone revenue."
+   },
+   {
+    "item": "Teacher and school assistance",
+    "provision": "Section 7 (Other Forms of Assistance)",
+    "existing": "In-service training fund, graduate scholarships and school development assistance",
+    "consideration": "Not estimated by the COST ENGINE; to be programmed in line with the recommendation in Part IV.",
+    "recommendation": "The requirements may be included in the succeeding GAA, subject to fiscal space, once the purpose and ceiling of the assistance are specified as discussed in Part IV.",
+    "risks": "Assistance without a stated ceiling may be difficult to program and prioritize."
+   },
+   {
+    "item": "Position",
+    "provision": "Section 11 (Creation of the Bureau of Private Education)",
+    "existing": "Bureau Director heading the new BPE; salary grade and staffing not specified",
+    "consideration": "No salary grade stated; to be determined in the staffing pattern.",
+    "recommendation": "The position title and salary grade are subject to evaluation under the Compensation and Position Classification System and the organization and staffing standards.",
+    "risks": "A grade above comparable bureau positions may create pay distortions within the DepEd."
+   },
+   {
+    "item": "Support body",
+    "provision": "Section 12 (Program Administration and Implementation)",
+    "existing": "Government Assistance and Subsidies Service under the BPE as permanent secretariat; optional third-party co-implementor",
+    "consideration": "Staffing within the 30 to 150 positions assumed in the estimate; the cost of any third-party co-implementor is not estimated.",
+    "recommendation": "The organizational structure and staffing pattern of the bureau and its service should be submitted to the DBM for review before positions are filled, and any co-implementor arrangement charged against the program funds.",
+    "risks": "Staffing and administrative fees may grow beyond what the program requires if not defined."
+   }
+  ],
+  "duplications": [
+   {
+    "function": "Section 11 (Creation of the Bureau of Private Education)",
+    "existing": "Existing DepEd offices that administer private education assistance (not named in the material)",
+    "note": "The bureau's function of administering assistance programs may overlap with offices already administering the RA No. 8545 programs, which should be confirmed before a new bureau is created.",
+    "intent_to_abolish": false,
+    "assessment": "The bill creates a new bureau without changing, merging, transferring or abolishing the existing DepEd offices performing similar functions, which may be assessed under Section 6 of RA No. 12231."
+   }
+  ],
+  "intent_to_abolish": false,
+  "recommendation": {
+   "option": "b",
+   "label": "This Department interposes no objection to the proposed measure, subject to the incorporation of the recommendations.",
+   "issues": [
+    "Purpose and ceiling of the in-service training fund (Part IV)",
+    "Phasing of voucher coverage and reconsideration of the minimum voucher floor (Part V)",
+    "Definition of the Teachers' Salary Subsidy Fund rate and coverage (Part V)",
+    "Delineation of the Bureau of Private Education from existing DepEd offices under RA No. 12231 (Part VI)"
+   ]
+  },
+  "referrals": [
+   {
+    "bureau": "OPCCB",
+    "why": "Organizational structure, Bureau Director position, salary grade and staffing pattern of the Bureau of Private Education and its Government Assistance and Subsidies Service",
+    "parts": "Part V (Position; Support body)"
+   },
+   {
+    "bureau": "BTB",
+    "why": "Appropriations language and inclusion of the voucher, subsidy and assistance programs in the General Appropriations Act",
+    "parts": "Part V (Initial and continuing funding; Vouchers; Teacher subsidy)"
+   },
+   {
+    "bureau": "BMB-A",
+    "why": "The bill assigns a role to the Department of Economy, Planning, and Development in the Basic Education Assistance Council and the implementing rules",
+    "parts": "Part V"
+   },
+   {
+    "bureau": "BMB-C",
+    "why": "The bill assigns a role to the Department of Budget and Management in the Basic Education Assistance Council and the implementing rules",
+    "parts": "Part V"
+   },
+   {
+    "bureau": "SPIB",
+    "why": "Possible duplication of the Bureau of Private Education with existing DepEd offices and rationalization under RA No. 12231",
+    "parts": "Part VI"
+   },
+   {
+    "bureau": "LS",
+    "why": "Repeal of specified sections of RA No. 8545, the tax exclusion of the salary subsidy and the penalty provision",
+    "parts": "Parts V and VI"
+   },
+   {
+    "bureau": "FPRB",
+    "why": "Recurring and unquantified fiscal impact of the expanded voucher program, the salary subsidy and its tax exclusion",
+    "parts": "Part V (Vouchers; Teacher subsidy)"
+   }
+  ],
+  "memo": {
+   "V": [
+    "5.1 Based on the DBM costing parameters for the creation of a new office, the Bureau of Private Education under Section 11 (Creation of the Bureau of Private Education) would require about P46.1 million to P231.8 million in its first year for 30 to 150 positions, consisting of Personnel Services of P28.2 million to P154.7 million, Maintenance and Other Operating Expenses of P13.0 million to P55.8 million, and Capital Outlay of P4.9 million to P21.4 million (one-time). Thereafter, about P41.2 million to P210.5 million would be needed every year. It may be noted that these figures cover the bureau only and exclude the program funds for vouchers, salary subsidies and other assistance.",
+    "5.2 As regards Section 13 (Appropriations), the initial requirement may be charged against the available appropriations of the DepEd in the year of effectivity; otherwise it may be included in the succeeding GAA, subject to fiscal space. The continuing requirements may be included in the DepEd's annual budget proposal under the budget call, subject to fiscal space and the DBM's evaluation.",
+    "5.3 As regards Section 8 (Basic Education Voucher Program) and Section 15 (Transitory Provision), the extension of vouchers to the kindergarten and elementary levels and the floor of not less than the current voucher amounts would create a recurring obligation whose cost has not been estimated. In this regard, the extension may be phased in subject to available appropriations, and the floor may be reconsidered to allow the voucher amounts to be adjusted based on fiscal space.",
+    "5.4 As regards Section 10 (Teachers' Salary Subsidy Fund), the bill states no subsidy rate, ceiling or coverage. It may be considered to provide that the subsidy shall be subject to the availability of funds, with its rate and coverage defined in the implementing rules in consultation with the DBM. The requirements of Section 7 (Other Forms of Assistance) may likewise be programmed once revised as discussed in Part IV.",
+    "5.5 As regards Section 11 (Creation of the Bureau of Private Education) and Section 12 (Program Administration and Implementation), the position title and salary grade of the Bureau Director, and the organizational structure and staffing pattern of the bureau and its Government Assistance and Subsidies Service, are subject to evaluation by the DBM under the Compensation and Position Classification System and the organization and staffing standards before positions are filled."
+   ],
+   "VI": [
+    "6.1 It may be noted that the Bureau of Private Education under Section 11 (Creation of the Bureau of Private Education) would administer assistance and subsidies for private education, which may overlap with existing DepEd offices already administering the RA No. 8545 programs. The bill does not provide for the change, merger, transfer or abolition of these offices or their functions.",
+    "6.2 In this regard, in view of the Government Optimization Act (RA No. 12231), signed on August 4, 2025, which authorizes the merger or consolidation of agencies whose functions are unnecessarily overlapping or duplicating (Section 6), the bill may be revisited to delineate the functions of the new bureau from those of the existing DepEd offices, or to assign the function to, or reorganize, the existing offices instead of creating a new bureau."
+   ],
+   "VII": [
+    "7.1 This Department interposes no objection to the proposed measure, subject to the incorporation of the recommendations.",
+    "7.2 In particular, the following should be addressed: (a) the purpose and ceiling of the in-service training fund, as discussed in Part IV; (b) the phasing of voucher coverage, the reconsideration of the minimum voucher floor and the definition of the Teachers' Salary Subsidy Fund, as discussed in Part V; and (c) the delineation of the Bureau of Private Education from existing DepEd offices in line with RA No. 12231, as discussed in Part VI."
+   ]
+  },
+  "reviewer_checks": [
+   "Confirm which existing DepEd offices administer the RA No. 8545 programs and whether they overlap with the proposed bureau.",
+   "Obtain DepEd data on beneficiaries and current voucher amounts to estimate the cost of Section 8 and Section 15.",
+   "Verify the fiscal impact of the salary subsidy and its tax exclusion under Section 10.",
+   "Confirm the BMB covering the DepEd, since the coverage list matched only the DEPDev and the DBM.",
+   "Confirm that the COST ENGINE staffing range is appropriate for a bureau of this scope."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "figures and lists",
+   "section": "",
+   "quote": "",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (ApprAIsal run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T00:18:03+00:00"
+ }
+}
