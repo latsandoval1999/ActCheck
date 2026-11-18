@@ -1,0 +1,228 @@
+{
+ "output": {
+  "target": "HB-20-11384",
+  "entity_proposed": "Tripartite Council",
+  "proposal": "HB No. 11384 seeks to establish a Tripartite Council of government, academe and industry representatives to formulate policies and programs addressing unemployment, underemployment and the job-skills mismatch. The Council would monitor labor market trends, review higher education and technical-vocational programs against industry requirements, and recommend policy measures to the President and Congress.",
+  "alignment": "As a government organization measure, the review should examine how the proposed Council's functions under Section 2 (Creation of a Tripartite Council) and Section 3 (Powers and Functions of the Council) fit with the existing mandates of CHED, TESDA, DepEd, DOLE and DTI on labor market monitoring, curriculum review and skills benchmarking, and whether a separate coordinating body is consistent with the streamlining and reduction of overlapping functions under the Government Optimization Act (RA No. 12231). The review should also note that the bill does not specify a secretariat, a lead agency for the Council's operations or its chairperson. The measure is primarily aligned with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on equitable access to quality education. No corresponding item in the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 11384 was filed in the 20th Congress on September 18, 2026; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "In the 20th Congress, HB No. 2397, HB No. 4700 and HB No. 3723 carry the same or a closely similar title; their texts were not reviewed.",
+   "In the Senate, SB No. 1295 of the 20th Congress carries the same title and is pending in the committee; its text was not reviewed.",
+   "In the 19th Congress, HB No. 7370 and SB No. 2333, both with the same title, were consolidated or substituted in a committee report, and SB No. 2569 reached the stage of pending second reading (special order); HB No. 979, HB No. 6264 and HB No. 5526 carried closely similar titles.",
+   "In the 18th Congress, HB No. 10676 carried a closely similar title.",
+   "HB No. 11025 and HB No. 11212 of the 20th Congress propose a National Industry-Academe Council with a similar composition and functions as part of a broader School-to-Employment Program."
+  ],
+  "related": [
+   {
+    "id": "HB-20-2397",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-2397",
+    "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT, AND THE JOB-SKILLS MISMATCH PROBLEM IN THE COUNTRY"
+   },
+   {
+    "id": "HB-20-4700",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-4700",
+    "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT, AND THE JOB-SKILLS MISMATCH PROBLEM IN THE COUNTRY"
+   },
+   {
+    "id": "HB-20-3723",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-3723",
+    "quote": "AN ACT ESTABLISHING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT AND JOB-SKILLS MISMATCH, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "SB-20-1295",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-20-1295",
+    "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT, AND THE JOB-SKILLS MISMATCH PROBLEM IN THE COUNTRY, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-7370",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-7370",
+    "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT, AND THE JOB-SKILLS MISMATCH PROBLEM IN THE COUNTRY"
+   },
+   {
+    "id": "SB-19-2333",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-19-2333",
+    "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT, AND THE JOB-SKILLS MISMATCH PROBLEM IN THE COUNTRY"
+   },
+   {
+    "id": "SB-19-2569",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-19-2569",
+    "quote": "AN ACT ESTABLISHING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT AND JOB-SKILLS MISMATCH, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-979",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-979",
+    "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS THE JOB-SKILLS MISMATCH, UNEMPLOYMENT, AND UNDEREMPLOYMENT IN THE COUNTRY"
+   },
+   {
+    "id": "HB-19-6264",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-6264",
+    "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS THE JOB-SKILLS MISMATCH, UNEMPLOYMENT, AND UNDEREMPLOYMENT IN THE COUNTRY"
+   },
+   {
+    "id": "HB-19-5526",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-5526",
+    "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS THE JOB-SKILLS MISMATCH, UNEMPLOYMENT, AND UNDEREMPLOYMENT IN THE COUNTRY"
+   },
+   {
+    "id": "HB-18-10676",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-10676",
+    "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS THE JOB-SKILLS MISMATCH, UNEMPLOYMENT, AND UNDEREMPLOYMENT IN THE COUNTRY"
+   },
+   {
+    "id": "HB-20-11025",
+    "relationship": "Alternative proposal",
+    "basis": "The bill creates a National Industry-Academe Council with a similar tripartite composition and near-identical monitoring, review and benchmarking functions, but within a broader design that adds school job placement offices, local councils and a labor market information system.",
+    "section": "HB-20-11025:s15",
+    "quote": "Monitor labor market trends and the incidence of unemployment, underemployment, and jobs-skills mismatch"
+   },
+   {
+    "id": "HB-20-11212",
+    "relationship": "Alternative proposal",
+    "basis": "The bill likewise institutionalizes a National Industry-Academe Council with functions closely matching those of the proposed Council, together with job placement offices, local councils and a labor market information system.",
+    "section": "HB-20-11212:s16",
+    "quote": "Monitor labor market trends and the incidence of unemployment, underemployment, and jobs-skills mismatch"
+   }
+  ],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 11384 seeks to establish a Tripartite Council as a coordinating body among the government, academe and industry sectors to address unemployment, underemployment and the job-skills mismatch. Its salient features are as follows:\na. Section 1 (Declaration of Policy) provides that the State shall promote the development of a skilled citizenry and ensure that higher education and technical-vocational programs are relevant to the needs of business and industry and to national human resource requirements.\nb. Section 2 (Creation of a Tripartite Council) provides for the creation of the Council to formulate policies and programs on the job-skills mismatch and to monitor domestic and global economic and labor market trends, with government members consisting of a CHED Commissioner, a TESDA Deputy Director-General and Undersecretaries of DepEd, DOLE and DTI, together with presidents of federations and accreditation bodies of higher education and technical-vocational institutions and representatives of industry.\nc. Section 3 (Powers and Functions of the Council) provides that the Council shall monitor labor market trends, formulate short-term and long-term policies and programs, review courses, curricula and training programs, assess and benchmark graduates' qualifications against national and international frameworks, inventory industry job and skills requirements, recommend policy measures to the President and Congress, and hold regular quarterly meetings.\nd. Section 4 (Annual Report and Assessment) provides that the Council shall submit an annual report to Congress on the employment status of college students and new graduates and on labor market and industry skills trends.\ne. Section 5 (Appropriations) provides that the amount necessary for implementation shall be included in the annual General Appropriations Act.\nf. Section 6 (Implementing Rules and Regulations) provides that CHED, in coordination with TESDA, DepEd, DTI, DOLE and other education stakeholders, shall issue the implementing rules within ninety (90) days after effectivity.\ng. Section 7 (Separability Clause), Section 8 (Repealing Clause) and Section 9 (Effectivity) contain the standard separability, repealing and effectivity provisions, with the Act taking effect fifteen (15) days after publication.",
+  "related_measures_policy": "HB No. 11384 may be considered alongside HB No. 2397, HB No. 4700 and HB No. 3723 in the House and SB No. 1295 in the Senate, which carry the same or a closely similar title in the 20th Congress, as well as the 19th Congress measures, HB No. 7370 and SB No. 2333, that were consolidated or substituted in a committee report. It may also be considered alongside HB No. 11025 and HB No. 11212, whose provisions on the National Industry-Academe Council (Section 15 (Powers and Functions of the NIAC) and Section 16 (Powers and Functions of the NIAC), respectively) closely parallel Section 3 (Powers and Functions of the Council) of this bill. The measure aligns with the Human Capital Development priority of the FY 2027 Budget Priorities Framework. The review should assess whether the Council's monitoring, curriculum review and benchmarking functions duplicate those of CHED, TESDA, DepEd, DOLE and DTI, and whether a single consolidated body would be preferable in light of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for implementation; no amount stated and no source of initial funding identified.",
+    "section": "Section 5 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "To be included in the annual General Appropriations Act.",
+    "section": "Section 5 (Appropriations)"
+   },
+   {
+    "item": "Members",
+    "detail": "Ex officio government members (CHED, TESDA, DepEd, DOLE, DTI) plus academe and industry representatives; no compensation, allowances or honoraria specified.",
+    "section": "Section 2 (Creation of a Tripartite Council)"
+   },
+   {
+    "item": "Support body",
+    "detail": "No secretariat or lead implementing agency specified; costs of quarterly meetings, inventories, assessments and annual reports would need to be identified.",
+    "section": "Section 3 (Powers and Functions of the Council)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm with the House the filing date and status of HB No. 11384 and of HB No. 4700, which carries the same title and the same month and day of filing in an earlier year.",
+   "Confirm the status of HB No. 2397, HB No. 3723 and SB No. 1295 and whether they are being considered or consolidated with this bill.",
+   "Verify the complete list of academe and industry representatives in Section 2 (Creation of a Tripartite Council), as well as who chairs the Council.",
+   "Check whether the Council has a secretariat or a lead agency, since none is specified, while CHED is tasked to issue the implementing rules under Section 6 (Implementing Rules and Regulations).",
+   "Clarify the reporting period in Section 4 (Annual Report and Assessment), which refers to the employment status of graduates for the last five years in each annual report.",
+   "Assess the overlap of the Council's functions with the National Industry-Academe Council proposed in HB No. 11025 and HB No. 11212."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-2397",
+   "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT, AND THE JOB-SKILLS MISMATCH PROBLEM IN THE COUNTRY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-4700",
+   "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT, AND THE JOB-SKILLS MISMATCH PROBLEM IN THE COUNTRY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-3723",
+   "quote": "AN ACT ESTABLISHING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT AND JOB-SKILLS MISMATCH, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-20-1295",
+   "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT, AND THE JOB-SKILLS MISMATCH PROBLEM IN THE COUNTRY, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-7370",
+   "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT, AND THE JOB-SKILLS MISMATCH PROBLEM IN THE COUNTRY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-19-2333",
+   "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT, AND THE JOB-SKILLS MISMATCH PROBLEM IN THE COUNTRY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-19-2569",
+   "quote": "AN ACT ESTABLISHING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT AND JOB-SKILLS MISMATCH, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-979",
+   "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS THE JOB-SKILLS MISMATCH, UNEMPLOYMENT, AND UNDEREMPLOYMENT IN THE COUNTRY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-6264",
+   "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS THE JOB-SKILLS MISMATCH, UNEMPLOYMENT, AND UNDEREMPLOYMENT IN THE COUNTRY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-5526",
+   "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS THE JOB-SKILLS MISMATCH, UNEMPLOYMENT, AND UNDEREMPLOYMENT IN THE COUNTRY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-10676",
+   "quote": "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS THE JOB-SKILLS MISMATCH, UNEMPLOYMENT, AND UNDEREMPLOYMENT IN THE COUNTRY",
+   "check": "verified"
+  },
+  {
+   "claim": "The bill creates a National Industry-Academe Council with a similar tripartite composition and near-identical monitoring, review and benchmarking functions, but within a broader design that adds school job placement offices, local councils and a labor market information system.",
+   "section": "HB-20-11025:s15",
+   "quote": "Monitor labor market trends and the incidence of unemployment, underemployment, and jobs-skills mismatch",
+   "check": "verified"
+  },
+  {
+   "claim": "The bill likewise institutionalizes a National Industry-Academe Council with functions closely matching those of the proposed Council, together with job placement offices, local councils and a labor market information system.",
+   "section": "HB-20-11212:s16",
+   "quote": "Monitor labor market trends and the incidence of unemployment, underemployment, and jobs-skills mismatch",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-18T10:09:05+00:00"
+ }
+}
