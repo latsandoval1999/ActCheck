@@ -1,0 +1,210 @@
+{
+ "output": {
+  "target": "HB-20-11482",
+  "entity_proposed": "Bureau of Agricultural Cooperatives (the \"Bureau\"); the bill also creates the Agricultural Cooperatives Council (the \"Council\")",
+  "proposal": "HB No. 11482 seeks to ensure the development, promotion and protection of agricultural cooperatives by directing the Department of Agriculture (DA) to establish a Bureau of Agricultural Cooperatives as the primary coordinating, implementing and administrative body for the sector. It also creates an Agricultural Cooperatives Council as the policy and planning body, a National Federation of Agricultural Cooperatives (NFAC), provincial Wholesale Markets and a Cooperative Climate Resilience Fund, and grants tax and other privileges to agricultural cooperatives.",
+  "alignment": "As a government organization and mandates measure, the review should examine how the proposed Bureau and Council fit with existing bodies that already register, supervise and develop cooperatives, notably the Cooperative Development Authority (CDA) and the units of the DA, and whether the new structures are consistent with the streamlining and reduction of overlapping functions authorized under the Government Optimization Act (RA No. 12231). The review should also assess the fiscal exposure arising from the government share of the Cooperative Climate Resilience Fund, the provincial Wholesale Markets, the tax and duty exemptions, and the per diem of Council members. The measure aligns with the Food Security priority area of the FY 2027 Budget Priorities Framework, particularly its focus on climate-resilient and smart agriculture and Farm and Fisheries Clustering and Consolidation (F2C2), given the bill's provisions on Section 23 (Creation of the Cooperative Climate Resilience Fund) and Section 27 (Clustering and Consolidation). The measure is not among the items of the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 11482 was filed on September 25, 2026 by Representative Bernadette \"Dette\" G. Escudero in the 20th Congress; its status is filed, and later stages are not yet recorded.",
+   "HB No. 5130, HB No. 5295 and HB No. 9339, filed in the same Congress, carry near-identical provisions on the Bureau, the Council, the Wholesale Markets, the Cooperative Climate Resilience Fund and appropriations.",
+   "HB No. 2417 (20th Congress, filed July 28, 2025, pending in the Committee) carries a closely matching title; title match only, text not reviewed.",
+   "SB No. 1183 is the near-identical counterpart measure in the Senate; SB No. 389 (filed July 10, 2025, pending in the Committee) bears the same short title, Agricultural Cooperatives Act of 2025 (title match only; text not reviewed).",
+   "HB No. 10479 (19th Congress, filed May 21, 2024, pending in the Committee) carried a closely matching title in the previous Congress; title match only, text not reviewed.",
+   "HB No. 3249 (20th Congress, filed August 6, 2025, pending in the Committee) proposes a Bureau of Agricultural Cooperative Development as an attached agency of the DA, a different organizational design."
+  ],
+  "related": [
+   {
+    "id": "SB-20-1183",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "The Senate bill carries the same title and near-identical provisions, including the creation of the Bureau under the DA.",
+    "section": "SB-20-1183:s24",
+    "quote": "The DA shall establish a Bureau of Agricultural Cooperatives (hereafter, the \"Bureau\"), which shall be the primary coordinating, implementing, and administrative body"
+   },
+   {
+    "id": "HB-20-5295",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "The House bill in the same Congress has the same title and near-identical provisions on the Bureau, Council, Fund and appropriations.",
+    "section": "HB-20-5295:s24",
+    "quote": "The DA shall establish a Bureau of Agricultural Cooperatives (hereafter, the \"Bureau\"), which shall be the primary coordinating, implementing, and administrative body"
+   },
+   {
+    "id": "HB-20-9339",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "The House bill in the same Congress has near-identical provisions, differing mainly in the composition of the Council.",
+    "section": "HB-20-9339:s24",
+    "quote": "The DA shall establish a Bureau of Agricultural Cooperatives (hereafter, the \"Bureau\"), which shall be the primary coordinating, implementing, and administrative body"
+   },
+   {
+    "id": "HB-20-5130",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "The House bill in the same Congress has the same title and near-identical provisions, including the same appropriation language.",
+    "section": "HB-20-5130:s41",
+    "quote": "The amount necessary for the initial implementation of this Act shall be taken from the current fiscal year's appropriation of the DA and DTI."
+   },
+   {
+    "id": "HB-20-2417",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-2417",
+    "quote": "AN ACT ENSURING THE DEVELOPMENT, PROMOTION, AND PROTECTION OF AGRICULTURAL COOPERATIVES"
+   },
+   {
+    "id": "SB-20-389",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-20-389",
+    "quote": "AGRICULTURAL COOPERATIVES ACT OF 2025: AN ACT ENSURING THE DEVELOPMENT, PROMOTION, AND PROTECTION OF AGRICULTURAL COOPERATIVES"
+   },
+   {
+    "id": "HB-19-10479",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-10479",
+    "quote": "AN ACT ENSURING THE DEVELOPMENT, PROMOTION, AND PROTECTION OF AGRICULTURAL COOPERATIVES"
+   },
+   {
+    "id": "HB-20-3249",
+    "relationship": "Alternative proposal",
+    "basis": "The title proposes a Bureau of Agricultural Cooperative Development as an attached agency of the DA, covering both agricultural and agrarian reform cooperatives.",
+    "section": "meta:HB-20-3249",
+    "quote": "AN ACT ESTABLISHING BUREAU OF AGRICULTURAL COOPERATIVE DEVELOPMENT (BACD), AS AN ATTACHED AGENCY UNDER THE DEPARTMENT OF AGRICULTURE"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-9520",
+    "label": "Referenced in the bill",
+    "overlap": "Section 10 (Other Benefits and Privileges of Agricultural Cooperatives) extends the benefits and tax treatment of cooperatives under the Philippine Cooperative Code of 2008 to agricultural cooperatives.",
+    "section": "HB-20-11482:s10",
+    "quote": "All benefits, privileges, and tax treatments of cooperatives as defined and enumerated under RA 9520 and other relevant laws shall apply to agricultural cooperatives"
+   },
+   {
+    "law": "RA-11535",
+    "label": "Referenced in the bill",
+    "overlap": "Section 40 (Role of Local Government Units) requires LGUs to appoint Cooperative Development Officers in compliance with RA No. 11535.",
+    "section": "HB-20-11482:s40",
+    "quote": "Ensure the appointment of CDOs in compliance with Republic Act No. 11535"
+   }
+  ],
+  "salient_features": "HB No. 11482 seeks to establish the Bureau of Agricultural Cooperatives under the DA and to create a framework for the development, promotion and protection of agricultural cooperatives. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the Agricultural Cooperatives Act of 2026.\nb. Section 10 (Other Benefits and Privileges of Agricultural Cooperatives) extends to agricultural cooperatives the benefits and tax treatment of cooperatives under RA No. 9520, exempts them from customs duties and related taxes on machinery and equipment and from real property taxes on properties used in their operations, and provides free government training and conferences.\nc. Section 13 (Organization of the National Federation of Agricultural Cooperatives) and Section 15 (Mandatory Membership of Primary Agricultural Cooperatives) provide for a national federation of agricultural cooperatives to which primary agricultural cooperatives shall belong.\nd. Section 22 (Establishment of Wholesale Markets) establishes at least one Wholesale Market in every province, owned by the LGUs and operated by the NFAC or its subsidiaries, under rules to be issued by the DA, DILG and CDA.\ne. Section 23 (Creation of the Cooperative Climate Resilience Fund) establishes a fund managed by the NFAC and pooled from government, cooperatives and private entities, with at least half coming from the government.\nf. Section 24 (Creation of the Bureau of Agricultural Cooperatives) directs the DA to establish the Bureau as the primary coordinating, implementing and administrative body for agricultural cooperatives, headed by a Director, with its organizational and staffing pattern determined by the DA under DBM rules; no salary grade is specified.\ng. Section 25 (Powers and Functions of the Bureau of Agricultural Cooperatives) tasks the Bureau with inter-agency coordination, promotion of digital technologies, data consolidation, capacity-building, technical assistance, establishment of Local Development Hubs with the NFAC, promotion of cooperative clusters, and performance monitoring under an assessment and ratings system.\nh. Section 34 (Creation of the Agricultural Cooperatives Council) creates the Council as the primary policy and planning body for agricultural cooperatives.\ni. Section 35 (Composition of the Council) provides that the Council shall be chaired by the Secretary of Agriculture, with the CDA Chairperson as Vice-Chairperson, and include officials of several departments and agencies, a representative of private donors to the Fund, a representative of the NFAC, and representatives of primary agricultural cooperatives from Luzon, Visayas and Mindanao.\nj. Section 36 (Powers and Functions of the Council) empowers the Council to formulate sector policies and the Food Security Master Plan, issue guidelines on cooperative assets and welfare, and formulate policies on financial reform, including the creation of a government financial institution for the sector.\nk. Section 38 (Secretariat) designates the Bureau as the Secretariat of the Council, and Section 39 (Per Diem) provides for the per diem of Council members.\nl. Section 40 (Role of Local Government Units) requires LGUs to appoint Cooperative Development Officers, create local legislative committees on agricultural cooperatives, facilitate permits and provide training and technical assistance.\nm. Section 41 (Appropriation) charges initial implementation to the current-year appropriations of the DA and DTI, and subsequent requirements to the General Appropriations Act.\nn. Section 43 (Joint Congressional Oversight Committee on Agricultural Cooperatives) and Section 45 (Sunset Review) provide for congressional oversight and a sunset review within five years of effectivity or as the need arises.",
+  "related_measures_policy": "HB No. 11482 may be considered alongside SB No. 1183, its near-identical Senate counterpart, and HB No. 5130, HB No. 5295 and HB No. 9339, which carry near-identical provisions in the same Congress, as well as HB No. 3249, which proposes a Bureau of Agricultural Cooperative Development as an attached agency of the DA. The measure aligns with the Food Security priority area of the FY 2027 Budget Priorities Framework, particularly climate-resilient agriculture and Farm and Fisheries Clustering and Consolidation. The review should assess whether the functions of the proposed Bureau and Council under Section 24 (Creation of the Bureau of Agricultural Cooperatives), Section 25 (Powers and Functions of the Bureau of Agricultural Cooperatives) and Section 36 (Powers and Functions of the Council) duplicate those of the CDA and existing DA units, consistent with the Government Optimization Act (RA No. 12231), and the revenue effect of extending the privileges under RA No. 9520 through Section 10 (Other Benefits and Privileges of Agricultural Cooperatives).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount not stated; to be charged against the current fiscal year's appropriations of the DA and DTI",
+    "section": "Section 41 (Appropriation)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "To be included in the General Appropriations Act of the year following enactment",
+    "section": "Section 41 (Appropriation)"
+   },
+   {
+    "item": "Position",
+    "detail": "Director heading the Bureau; organizational and staffing pattern to be determined by the DA under DBM rules; salary grade not specified",
+    "section": "Section 24 (Creation of the Bureau of Agricultural Cooperatives)"
+   },
+   {
+    "item": "Fund",
+    "detail": "Cooperative Climate Resilience Fund, at least 50% from the government; amount not stated",
+    "section": "Section 23 (Creation of the Cooperative Climate Resilience Fund)"
+   },
+   {
+    "item": "Infrastructure",
+    "detail": "At least one LGU-owned Wholesale Market in every province; cost and funding source not stated",
+    "section": "Section 22 (Establishment of Wholesale Markets)"
+   },
+   {
+    "item": "Members",
+    "detail": "Per diem for members of the Agricultural Cooperatives Council; rate not stated in the text reviewed",
+    "section": "Section 39 (Per Diem)"
+   },
+   {
+    "item": "Support body",
+    "detail": "The Bureau serves as Secretariat of the Council",
+    "section": "Section 38 (Secretariat)"
+   },
+   {
+    "item": "Tax expenditure",
+    "detail": "Exemptions from customs duties and related taxes on machinery and equipment, and from real property taxes; free government training and conferences",
+    "section": "Section 10 (Other Benefits and Privileges of Agricultural Cooperatives)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm whether the Bureau is intended as a regular DA bureau or an attached agency, and why Section 41 (Appropriation) charges initial funding to the DTI as well as the DA.",
+   "Check drafting errors: Section 34 (Creation of the Agricultural Cooperatives Council) repeats the name of the Council; Section 25 uses \"dusters\" for clusters; Section 36 contains \"empowerment it of\"; Section 10 uses \"solidarity liable\".",
+   "Verify the inclusion of private donor representatives in the Council under Section 35 (Composition of the Council) and the government share of the Fund under Section 23.",
+   "Assess whether the Council's mandate to formulate a Food Security Master Plan and to propose a new government financial institution under Section 36 overlaps with existing plans and institutions.",
+   "Confirm the per diem rate and Council member count under Section 35 and Section 39 (Per Diem).",
+   "Confirm with the House and Senate the status of SB No. 1183, SB No. 389 and the near-identical House bills, including any consolidation."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "The Senate bill carries the same title and near-identical provisions, including the creation of the Bureau under the DA.",
+   "section": "SB-20-1183:s24",
+   "quote": "The DA shall establish a Bureau of Agricultural Cooperatives (hereafter, the \"Bureau\"), which shall be the primary coordinating, implementing, and administrative body",
+   "check": "verified"
+  },
+  {
+   "claim": "The House bill in the same Congress has the same title and near-identical provisions on the Bureau, Council, Fund and appropriations.",
+   "section": "HB-20-5295:s24",
+   "quote": "The DA shall establish a Bureau of Agricultural Cooperatives (hereafter, the \"Bureau\"), which shall be the primary coordinating, implementing, and administrative body",
+   "check": "verified"
+  },
+  {
+   "claim": "The House bill in the same Congress has near-identical provisions, differing mainly in the composition of the Council.",
+   "section": "HB-20-9339:s24",
+   "quote": "The DA shall establish a Bureau of Agricultural Cooperatives (hereafter, the \"Bureau\"), which shall be the primary coordinating, implementing, and administrative body",
+   "check": "verified"
+  },
+  {
+   "claim": "The House bill in the same Congress has the same title and near-identical provisions, including the same appropriation language.",
+   "section": "HB-20-5130:s41",
+   "quote": "The amount necessary for the initial implementation of this Act shall be taken from the current fiscal year's appropriation of the DA and DTI.",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-2417",
+   "quote": "AN ACT ENSURING THE DEVELOPMENT, PROMOTION, AND PROTECTION OF AGRICULTURAL COOPERATIVES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-20-389",
+   "quote": "AGRICULTURAL COOPERATIVES ACT OF 2025: AN ACT ENSURING THE DEVELOPMENT, PROMOTION, AND PROTECTION OF AGRICULTURAL COOPERATIVES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-10479",
+   "quote": "AN ACT ENSURING THE DEVELOPMENT, PROMOTION, AND PROTECTION OF AGRICULTURAL COOPERATIVES",
+   "check": "verified"
+  },
+  {
+   "claim": "The title proposes a Bureau of Agricultural Cooperative Development as an attached agency of the DA, covering both agricultural and agrarian reform cooperatives.",
+   "section": "meta:HB-20-3249",
+   "quote": "AN ACT ESTABLISHING BUREAU OF AGRICULTURAL COOPERATIVE DEVELOPMENT (BACD), AS AN ATTACHED AGENCY UNDER THE DEPARTMENT OF AGRICULTURE",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 10 (Other Benefits and Privileges of Agricultural Cooperatives) extends the benefits and tax treatment of cooperatives under the Philippine Cooperative Code of 2008 to agricultural cooperatives.",
+   "section": "HB-20-11482:s10",
+   "quote": "All benefits, privileges, and tax treatments of cooperatives as defined and enumerated under RA 9520 and other relevant laws shall apply to agricultural cooperatives",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 40 (Role of Local Government Units) requires LGUs to appoint Cooperative Development Officers in compliance with RA No. 11535.",
+   "section": "HB-20-11482:s40",
+   "quote": "Ensure the appointment of CDOs in compliance with Republic Act No. 11535",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T10:05:51+00:00"
+ }
+}
