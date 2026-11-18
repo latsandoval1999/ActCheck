@@ -1,0 +1,192 @@
+{
+ "output": {
+  "target": "HB-20-11370",
+  "entity_proposed": "Philippine Cybersecurity Council",
+  "proposal": "HB No. 11370, the proposed National Cybersecurity Enhancement Act, seeks to establish the Philippine Cybersecurity Council and enhance the national cybersecurity framework in order to protect the Filipino people and the nation's institutions from cyber threats and attacks that endanger public safety, privacy and national security.",
+  "alignment": "As a government organization measure, the review should examine how the proposed Philippine Cybersecurity Council would fit with existing cybersecurity bodies and plans, including the National Cybersecurity Inter-Agency Committee created and reorganized by executive issuances and the National Cybersecurity Plan 2023-2028, and whether its creation is consistent with the streamlining of the Executive branch and the reduction of overlapping functions under the Government Optimization Act (RA No. 12231). The available text contains only Section 1 (Short Title) and Section 2 (Declaration of Policy), so the Council's composition, powers and funding cannot yet be assessed. The measure aligns with the Digitalization priority area of the FY 2027 Budget Priorities Framework, which focuses on interoperable digital platforms, the eGovPH system and digital infrastructure for unserved areas, and relates by subject to item 28 (Cybersecurity Act) of the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 11370 was filed in the House of Representatives of the 20th Congress on September 16, 2026 by Representative S Ralph Wendel P. Tulfo; its status is filed, with later stages not yet reflected in the available data.",
+   "HB No. 9, HB No. 1922 and HB No. 3193, filed in the 20th Congress in 2025 and pending in committee, carry titles that likewise propose to strengthen the national cybersecurity framework and establish the Philippine Cybersecurity Council; their texts were not reviewed.",
+   "HB No. 660 (20th Congress) and HB No. 10383 (19th Congress) propose to establish a Philippine Cybersecurity Council as part of broader cybersecurity governance measures; their texts were not reviewed.",
+   "SB No. 1163 (20th Congress) proposes a National Cybersecurity Agency, and earlier measures in the 18th and 19th Congresses (SB No. 1388, SB No. 1365 and HB No. 10355) proposed to institutionalize the National Cybersecurity Inter-Agency Committee and rename it the National Cybersecurity Council; all are pending in committee per their titles."
+  ],
+  "related": [
+   {
+    "id": "HB-20-1922",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Its title proposes to strengthen the national cybersecurity framework and establish the Philippine Cybersecurity Council, as does the target bill.",
+    "section": "meta:HB-20-1922",
+    "quote": "AN ACT INSTITUTIONALIZING AND STRENGTHENING THE NATIONAL CYBERSECURITY FRAMEWORK, AND ESTABLISHING THE PHILIPPINE CYBERSECURITY COUNCIL AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-9",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Its title proposes to strengthen the national cybersecurity framework and establish a Philippines Cybersecurity Council, matching the target bill's subject.",
+    "section": "meta:HB-20-9",
+    "quote": "AN ACT INSTITUTIONALIZING AND STRENGTHENING THE NATIONAL CYBERSECURITY FRAMEWORK, AND ESTABLISHING THE PHILIPPINES CYBERSECURITY COUNCIL AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-3193",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Its title proposes to strengthen the national cybersecurity framework and establish a Philippines Cybersecurity Council, matching the target bill's subject.",
+    "section": "meta:HB-20-3193",
+    "quote": "AN ACT INSTITUTIONALIZING AND STRENGTHENING THE NATIONAL CYBERSECURITY FRAMEWORK, AND ESTABLISHING THE PHILIPPINES CYBERSECURITY COUNCIL AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-660",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Its title proposes to strengthen cybersecurity governance and establish the Philippine Cybersecurity Council.",
+    "section": "meta:HB-20-660",
+    "quote": "STRENGTHENING THE GOVERNANCE OF CYBERSECURITY, ESTABLISHING FOR THE PURPOSE THE PHILIPPINE CYBERSECURITY COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-10383",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "This 19th Congress bill's title proposes to establish the Philippine Cybersecurity Council within a cybersecurity governance framework.",
+    "section": "meta:HB-19-10383",
+    "quote": "STRENGTHENING THE GOVERNANCE OF CYBERSECURITY, ESTABLISHING FOR THE PURPOSE THE PHILIPPINE CYBERSECURITY COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "SB-20-1163",
+    "relationship": "Alternative proposal",
+    "basis": "Its title addresses national cybersecurity through a National Cybersecurity Agency rather than a council, a materially different institutional design.",
+    "section": "meta:SB-20-1163",
+    "quote": "AN ACT ESTABLISHING THE NATIONAL CYBERSECURITY AGENCY, DEFINING THEIR POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "SB-19-1365",
+    "relationship": "Alternative proposal",
+    "basis": "Its title proposes to institutionalize the existing inter-agency committee and rename it the National Cybersecurity Council rather than create a new council.",
+    "section": "meta:SB-19-1365",
+    "quote": "RENAMING IT TO NATIONAL CYBERSECURITY COUNCIL, AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "HB-19-10355",
+    "relationship": "Alternative proposal",
+    "basis": "Its title proposes to institutionalize the existing inter-agency committee and rename it the National Cybersecurity Council rather than create a new council.",
+    "section": "meta:HB-19-10355",
+    "quote": "AN ACT INSTITUTIONALIZING AND STRENGTHENING THE NATIONAL CYBERSECURITY INTER-AGENCY COMMITTEE CREATED UNDER EXECUTIVE ORDER NO. 95 (S.2019), RENAMING IT TO NATIONAL CYBERSECURITY COUNCIL"
+   },
+   {
+    "id": "SB-18-1388",
+    "relationship": "Alternative proposal",
+    "basis": "This 18th Congress bill's title proposes to institutionalize the existing inter-agency committee and rename it the National Cybersecurity Council.",
+    "section": "meta:SB-18-1388",
+    "quote": "RENAMING IT TO NATIONAL CYBERSECURITY COUNCIL, AND FOR OTHER PURPOSES"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "EO-95-2019",
+    "label": "Overlapping functions",
+    "overlap": "The reorganized National Cybersecurity Inter-Agency Committee may overlap with the Council the bill proposes to establish; the bill's Section 1 (Short Title) and Section 2 (Declaration of Policy) do not yet address it.",
+    "section": "law:EO-95-2019",
+    "quote": "REORGANIZING THE NATIONAL CYBERSECURITY INTER- AGENCY COMMITTEE, AMENDING EXECUTIVE ORDER NO. 189 (S. 2015) AND FOR OTHER PURPOSES"
+   },
+   {
+    "law": "EO-189-2015",
+    "label": "Overlapping functions",
+    "overlap": "The National Cybersecurity Inter-Agency Committee created under this order covers the same subject as the proposed Council in the bill's Section 2 (Declaration of Policy).",
+    "section": "law:EO-189-2015",
+    "quote": "CREATING THE NATIONAL CYBERSECURITY INTER-AGENCY COMMITTEE"
+   },
+   {
+    "law": "EO-58-2024",
+    "label": "Overlapping functions",
+    "overlap": "The National Cybersecurity Plan 2023-2028 adopted by this order relates to the national cybersecurity framework that the bill seeks to enhance under Section 2 (Declaration of Policy).",
+    "section": "law:EO-58-2024",
+    "quote": "ADOPTING THE NATIONAL CYBERSECURITY PLAN 2023-2028, AND DIRECTING THE IMPLEMENTATION THEREOF"
+   }
+  ],
+  "salient_features": "HB No. 11370 seeks to establish the Philippine Cybersecurity Council and enhance the national cybersecurity framework; the available text contains two sections. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the National Cybersecurity Enhancement Act.\nb. Section 2 (Declaration of Policy) provides that the State shall protect the people and national institutions from cyber threats endangering public safety, privacy and national security, recognizes access to safe and reliable cyberspace as a basic public right, and commits the State to strengthen national capability to prevent, detect and respond to cyber incidents while protecting personal data and defending users, workers and businesses from online abuse, fraud, exploitation and misinformation.",
+  "related_measures_policy": "HB No. 11370 may be considered alongside HB No. 9, HB No. 1922, HB No. 3193 and HB No. 660 of the 20th Congress, which by title likewise propose a Philippine Cybersecurity Council, and SB No. 1163, which proposes a National Cybersecurity Agency instead; earlier proposals to institutionalize the National Cybersecurity Inter-Agency Committee (SB No. 1388, SB No. 1365 and HB No. 10355) may also inform the review. The measure aligns with the Digitalization priority of the FY 2027 Budget Priorities Framework and relates to item 28 (Cybersecurity Act) of the LEDAC Common Legislative Agenda. Once the full text is available, the review should assess whether the proposed Council duplicates the National Cybersecurity Inter-Agency Committee under EO No. 189 (s. 2015) as reorganized by EO No. 95 (s. 2019), how it relates to the National Cybersecurity Plan 2023-2028 adopted under EO No. 58 (s. 2024), and whether its creation is consistent with the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [],
+  "reviewer_checks": [
+   "Obtain the complete text of the bill: the available version contains only Section 1 (Short Title) and Section 2 (Declaration of Policy), with no provisions on the Council's creation, composition, powers or appropriations.",
+   "Confirm whether the bill carries an appropriations provision and its funding source, since the title refers to establishing a council but no fiscal provision appears in the available text.",
+   "Check stray numerals in Section 1 (Short Title) and Section 2 (Declaration of Policy), which appear to be page or line numbers carried over from the document.",
+   "Confirm with the House whether HB No. 9, HB No. 1922, HB No. 3193 and HB No. 660 have been consolidated or are under committee consideration, and whether this bill will be referred with them.",
+   "Verify the current status and mandate of the National Cybersecurity Inter-Agency Committee and its relationship to the proposed Council."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Its title proposes to strengthen the national cybersecurity framework and establish the Philippine Cybersecurity Council, as does the target bill.",
+   "section": "meta:HB-20-1922",
+   "quote": "AN ACT INSTITUTIONALIZING AND STRENGTHENING THE NATIONAL CYBERSECURITY FRAMEWORK, AND ESTABLISHING THE PHILIPPINE CYBERSECURITY COUNCIL AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title proposes to strengthen the national cybersecurity framework and establish a Philippines Cybersecurity Council, matching the target bill's subject.",
+   "section": "meta:HB-20-9",
+   "quote": "AN ACT INSTITUTIONALIZING AND STRENGTHENING THE NATIONAL CYBERSECURITY FRAMEWORK, AND ESTABLISHING THE PHILIPPINES CYBERSECURITY COUNCIL AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title proposes to strengthen the national cybersecurity framework and establish a Philippines Cybersecurity Council, matching the target bill's subject.",
+   "section": "meta:HB-20-3193",
+   "quote": "AN ACT INSTITUTIONALIZING AND STRENGTHENING THE NATIONAL CYBERSECURITY FRAMEWORK, AND ESTABLISHING THE PHILIPPINES CYBERSECURITY COUNCIL AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title proposes to strengthen cybersecurity governance and establish the Philippine Cybersecurity Council.",
+   "section": "meta:HB-20-660",
+   "quote": "STRENGTHENING THE GOVERNANCE OF CYBERSECURITY, ESTABLISHING FOR THE PURPOSE THE PHILIPPINE CYBERSECURITY COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "This 19th Congress bill's title proposes to establish the Philippine Cybersecurity Council within a cybersecurity governance framework.",
+   "section": "meta:HB-19-10383",
+   "quote": "STRENGTHENING THE GOVERNANCE OF CYBERSECURITY, ESTABLISHING FOR THE PURPOSE THE PHILIPPINE CYBERSECURITY COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title addresses national cybersecurity through a National Cybersecurity Agency rather than a council, a materially different institutional design.",
+   "section": "meta:SB-20-1163",
+   "quote": "AN ACT ESTABLISHING THE NATIONAL CYBERSECURITY AGENCY, DEFINING THEIR POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title proposes to institutionalize the existing inter-agency committee and rename it the National Cybersecurity Council rather than create a new council.",
+   "section": "meta:SB-19-1365",
+   "quote": "RENAMING IT TO NATIONAL CYBERSECURITY COUNCIL, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title proposes to institutionalize the existing inter-agency committee and rename it the National Cybersecurity Council rather than create a new council.",
+   "section": "meta:HB-19-10355",
+   "quote": "AN ACT INSTITUTIONALIZING AND STRENGTHENING THE NATIONAL CYBERSECURITY INTER-AGENCY COMMITTEE CREATED UNDER EXECUTIVE ORDER NO. 95 (S.2019), RENAMING IT TO NATIONAL CYBERSECURITY COUNCIL",
+   "check": "verified"
+  },
+  {
+   "claim": "This 18th Congress bill's title proposes to institutionalize the existing inter-agency committee and rename it the National Cybersecurity Council.",
+   "section": "meta:SB-18-1388",
+   "quote": "RENAMING IT TO NATIONAL CYBERSECURITY COUNCIL, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "The reorganized National Cybersecurity Inter-Agency Committee may overlap with the Council the bill proposes to establish; the bill's Section 1 (Short Title) and Section 2 (Declaration of Policy) do not yet address it.",
+   "section": "law:EO-95-2019",
+   "quote": "REORGANIZING THE NATIONAL CYBERSECURITY INTER- AGENCY COMMITTEE, AMENDING EXECUTIVE ORDER NO. 189 (S. 2015) AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "The National Cybersecurity Inter-Agency Committee created under this order covers the same subject as the proposed Council in the bill's Section 2 (Declaration of Policy).",
+   "section": "law:EO-189-2015",
+   "quote": "CREATING THE NATIONAL CYBERSECURITY INTER-AGENCY COMMITTEE",
+   "check": "verified"
+  },
+  {
+   "claim": "The National Cybersecurity Plan 2023-2028 adopted by this order relates to the national cybersecurity framework that the bill seeks to enhance under Section 2 (Declaration of Policy).",
+   "section": "law:EO-58-2024",
+   "quote": "ADOPTING THE NATIONAL CYBERSECURITY PLAN 2023-2028, AND DIRECTING THE IMPLEMENTATION THEREOF",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T10:08:47+00:00"
+ }
+}
