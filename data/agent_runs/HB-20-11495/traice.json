@@ -1,0 +1,210 @@
+{
+ "output": {
+  "target": "HB-20-11495",
+  "entity_proposed": "National Commission on Animal Welfare (NCAW)",
+  "proposal": "HB No. 11495, the proposed Animal Life Advocacy and Guardianship Act (ALAGA), seeks to strengthen the protection and welfare of animals by amending RA No. 8485, as amended, to create the National Commission on Animal Welfare (NCAW) as a quasi-judicial agency attached to the Department of Agriculture, impose animal welfare duties on local government units and schools, introduce specific prohibitions, and increase penalties.",
+  "alignment": "As a government organization measure, the review should examine how the proposed NCAW, vested with enforcement, licensing, facility regulation and adjudication functions, would fit with the existing Committee on Animal Welfare under Section 5 of RA No. 8485 and the registration and permitting functions of the Bureau of Animal Industry, and whether the creation of a new quasi-judicial body with fiscal and administrative autonomy is consistent with the government's intent to streamline agencies and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess the new mandates on local government units and on the Department of Education and the Commission on Higher Education. No direct match was identified with the FY 2027 Budget Priorities Framework priority areas, and the measure is not among the LEDAC Common Legislative Agenda measures.",
+  "legislative_history": [
+   "HB No. 11495 was filed in the 20th Congress on September 29, 2026 by Representative Kaka Bag-Ao; its status is filed and pending, with later stages to be confirmed with the House.",
+   "HB No. 9437, also filed in the 20th Congress, carries the same short title (ALAGA) and proposes a National Commission on Animal Welfare with the same composition, but repeals rather than amends RA No. 8485.",
+   "Other 20th Congress measures on animal welfare, namely HB No. 1602, HB No. 2248, SB No. 847 and SB No. 1276, are pending in committee and, by their titles, propose to repeal RA No. 8485 through a revised animal welfare act or an Animal Welfare Bureau; their texts were not reviewed.",
+   "Similar measures were filed in the 19th Congress (HB No. 10232, HB No. 10435, HB No. 10790, HB No. 11028, SB No. 2458 and SB No. 2975) and the 18th Congress (HB No. 1203); none was enacted based on available information."
+  ],
+  "related": [
+   {
+    "id": "HB-20-9437",
+    "relationship": "Alternative proposal",
+    "basis": "Same short title and a near-identical National Commission on Animal Welfare and composition, but the measure repeals RA No. 8485 instead of amending it and expressly transfers the Committee on Animal Welfare's policy functions.",
+    "section": "HB-20-9437:s4",
+    "quote": "The National Commission on Animal Welfare (NCAW) is hereby created as a quasi-judicial agency attached to the Department of Agriculture."
+   },
+   {
+    "id": "HB-20-1602",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title proposes an Animal Welfare Bureau under the Department of Agriculture instead of a commission.",
+    "section": "meta:HB-20-1602",
+    "quote": "CREATING FOR THE PURPOSE THE ANIMAL WELFARE BUREAU UNDER THE DEPARTMENT OF AGRICULTURE"
+   },
+   {
+    "id": "HB-20-2248",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title proposes a revised animal welfare act repealing RA No. 8485.",
+    "section": "meta:HB-20-2248",
+    "quote": "ENACTING A REVISED ANIMAL WELFARE ACT, THEREBY REPEALING REPUBLIC ACT NO. 8485"
+   },
+   {
+    "id": "SB-20-847",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the Senate measure proposes a revised animal welfare act repealing RA No. 8485.",
+    "section": "meta:SB-20-847",
+    "quote": "THE REVISED ANIMAL WELFARE ACT: AN ACT STRENGTHENING ANIMAL WELFARE STANDARDS"
+   },
+   {
+    "id": "SB-20-1276",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the Senate measure proposes a revised animal welfare act repealing RA No. 8485.",
+    "section": "meta:SB-20-1276",
+    "quote": "THE REVISED ANIMAL WELFARE ACT: AN ACT STRENGTHENING ANIMAL WELFARE STANDARDS"
+   },
+   {
+    "id": "HB-19-10232",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; a 19th Congress measure proposing an Animal Welfare Bureau.",
+    "section": "meta:HB-19-10232",
+    "quote": "CREATING FOR THE PURPOSE THE ANIMAL WELFARE BUREAU UNDER THE DEPARTMENT OF AGRICULTURE"
+   },
+   {
+    "id": "SB-19-2975",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; a 19th Congress Senate measure on a revised animal welfare act.",
+    "section": "meta:SB-19-2975",
+    "quote": "ENACTING A REVISED ANIMAL WELFARE ACT, THEREBY REPEALING REPUBLIC ACT NO. 8485"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-8485",
+    "label": "Amends or repeals",
+    "overlap": "The bill amends Sections 1, 2, 4, 5 and 8 of RA No. 8485 and inserts new Sections 4-A, 5-A to 5-D and 9-A to 9-D.",
+    "section": "HB-20-11495:s6",
+    "quote": "Section 5 of Republic Act No. 8485, as amended, is hereby amended to read as follows"
+   },
+   {
+    "law": "RA-10631",
+    "label": "Referenced in the bill",
+    "overlap": "RA No. 10631 earlier amended RA No. 8485, whose amended sections the bill revises again.",
+    "section": "law:RA-10631",
+    "quote": "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 8485"
+   },
+   {
+    "law": "RA-7160",
+    "label": "Overlapping functions",
+    "overlap": "Section 8 (Localization of Animal Welfare Efforts) assigns the municipal or city animal welfare office to the local government veterinarian under Section 489 of the Local Government Code.",
+    "section": "HB-20-11495:s8",
+    "quote": "IN ACCORDANCE WITH SECTION 489 OF REPUBLIC ACT NO. 7160 OR THE LOCAL GOVERNMENT CODE"
+   }
+  ],
+  "salient_features": "HB No. 11495 seeks to amend RA No. 8485, as amended, and to establish the National Commission on Animal Welfare (NCAW). Its salient features are as follows:\na. Section 1 (Short Title) provides that the Act shall be known as the Animal Life Advocacy and Guardianship Act (ALAGA).\nb. Section 2 (Declaration of Policy) provides that the State shall protect animals from cruelty, neglect and abuse, recognize them as sentient beings, promote their humane treatment based on the five domains of animal welfare, and align domestic law with international animal welfare standards and conventions.\nc. Section 4 (National Commission on Animal Welfare) provides for the creation of the NCAW as a quasi-judicial agency attached to the Department of Agriculture, serving as the national authority on animal welfare enforcement, licensing, facility regulation and adjudication, with fiscal and administrative autonomy and its own budget line item.\nd. Section 5 (Composition) provides that the Secretary of Agriculture shall be the ex officio Chairperson, and the President shall appoint six other members: two scientists, one animal welfare lawyer, and three animal welfare advocates or NGO representatives; no salary grades or terms are specified.\ne. Section 7 (Funding) provides that the NCAW shall receive an annual budget initially sourced from the appropriations of the Department of Agriculture and later included as a separate line item in the General Appropriations Act, shall maintain an Animal Welfare Fund from fines, fees, grants, donations and appropriations, and may create internal offices and hire personnel.\nf. Section 8 (Localization of Animal Welfare Efforts) provides that each local government unit shall establish a municipal or city animal welfare office headed by the local government veterinarian, deploy accredited personnel, implement trap-neuter-vaccinate-return programs, operate animal control facilities, and integrate animal welfare into barangay disaster preparedness and public health programs.\ng. Section 9 (Regulation of Animal Control Facilities) provides that each local government unit shall maintain an animal control facility and budget for the feeding, care, treatment and humane euthanasia of impounded animals, with public notice before euthanasia and spay or neuter requirements before adoption or release.\nh. Section 10 (Regulation of Animal Experimentation) provides that elementary schools are prohibited from animal experimentation or dissection, and that research in secondary and tertiary institutions shall be reviewed by an institutional animal care and use committee under guidelines issued by CHED and DepEd with the NCAW.\ni. Section 11 (Penalties) provides a graduated scale of imprisonment and fines for cruelty, maltreatment or neglect, depending on whether the animal dies or is gravely or otherwise injured.\nj. Section 12 (Specific Prohibitions) provides that the dog-meat trade, animal cruelty content, animal fighting including cockfighting, and animal poisoning in public or commercial areas without a special permit are prohibited.\nk. Section 13 (Mandatory Animal Welfare Education) provides that DepEd, with the NCAW, shall integrate animal welfare education into the basic education curriculum of public and private elementary and secondary schools.\nl. Section 14 (Presumption of Neglect and Right of Rescue) provides for a presumption of neglect against the owner or occupant, a duty of barangay officials, landlords, neighbors and relatives to report and provide emergency care, and protection from criminal liability for persons who enter premises to rescue a neglected animal.\nm. Section 15 (Animal Welfare Partners) provides that the NCAW shall maintain a registry of animal welfare partners who may be deputized for rescue, rehabilitation, enforcement and shelter operations under memoranda of agreement.\nn. Section 17 (Implementing Rules and Regulations) provides that the Department of Agriculture, the Bureau of Animal Industry, at least two accredited animal welfare NGOs and other relevant agencies shall issue the implementing rules within ninety days after effectivity.",
+  "related_measures_policy": "HB No. 11495 may be considered alongside HB No. 9437, which carries the same short title and proposes the same National Commission on Animal Welfare but repeals RA No. 8485, and alongside HB No. 1602, HB No. 2248, SB No. 847 and SB No. 1276 of the 20th Congress, which by their titles propose a revised animal welfare act or an Animal Welfare Bureau under the Department of Agriculture. The measure is not linked to a FY 2027 Budget Priorities Framework priority area or to the LEDAC Common Legislative Agenda. The review should assess whether a new quasi-judicial commission is warranted relative to the existing Committee on Animal Welfare under Section 5 of RA No. 8485 and the registration and permit functions of the Bureau of Animal Industry under Sections 2 and 4 of RA No. 8485, in light of the Government Optimization Act (RA No. 12231); the budgetary implications of the NCAW's separate line item and Animal Welfare Fund; and the unfunded mandates on local government units under Section 8 (Localization of Animal Welfare Efforts) and Section 9 (Regulation of Animal Control Facilities), with reference to Section 489 of RA No. 7160.",
+  "fiscal_requirements": [
+   {
+    "item": "New agency",
+    "detail": "Creation of the NCAW as a quasi-judicial agency attached to the Department of Agriculture with fiscal and administrative autonomy and its own budget line item.",
+    "section": "Section 4 (National Commission on Animal Welfare)"
+   },
+   {
+    "item": "Members",
+    "detail": "Six presidential appointees in addition to the Secretary of Agriculture as ex officio Chairperson; compensation and salary grades are not specified.",
+    "section": "Section 5 (Composition)"
+   },
+   {
+    "item": "Initial funding",
+    "detail": "Annual budget for operations, enforcement, staffing, training and public education sourced from Department of Agriculture appropriations.",
+    "section": "Section 7 (Funding)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Separate line item in the General Appropriations Act thereafter.",
+    "section": "Section 7 (Funding)"
+   },
+   {
+    "item": "Special fund",
+    "detail": "Animal Welfare Fund composed of fines, damages, permit and registration fees, grants, donations and appropriations, for exclusive use on animal welfare initiatives.",
+    "section": "Section 7 (Funding)"
+   },
+   {
+    "item": "Positions",
+    "detail": "Authority to create internal offices and hire personnel as needed; no staffing pattern or salary grades are specified.",
+    "section": "Section 7 (Funding)"
+   },
+   {
+    "item": "Local government units",
+    "detail": "Municipal or city animal welfare offices with accredited personnel, TNVR programs and animal control facilities.",
+    "section": "Section 8 (Localization of Animal Welfare Efforts)"
+   },
+   {
+    "item": "Local government units",
+    "detail": "Regular budget for food, care, treatment and euthanasia of impounded animals in animal control facilities.",
+    "section": "Section 9 (Regulation of Animal Control Facilities)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm whether the existing Committee on Animal Welfare under Section 5 of RA No. 8485 is abolished, retained or merged into the NCAW, as the amended text of Section 6 of the bill should be verified.",
+   "Verify whether the replacement of Section 4 of RA No. 8485 (on transport of animals) with the NCAW provision unintentionally removes the existing transport permit and duties.",
+   "Check the consistency of Section 17 (Implementing Rules and Regulations), which assigns rule-making to the Department of Agriculture, the Bureau of Animal Industry and NGOs but not to the NCAW.",
+   "Verify the complete text of Section 3 and Section 4, which appear truncated, including the department under which the NCAW budget line item is placed.",
+   "Check the enumeration in Section 12 (Specific Prohibitions), where the conjunction appears before item (C) although an item (D) follows.",
+   "Review the last sentence of Section 14 (Presumption of Neglect and Right of Rescue) on the ownership status of a rescued animal for consistency with the rest of the section.",
+   "Assess whether the Animal Welfare Fund and the retention of fines and fees are consistent with existing rules on special accounts and the remittance of collections to the National Treasury.",
+   "Confirm with the House the status of HB No. 9437 and whether it will be consolidated with HB No. 11495."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same short title and a near-identical National Commission on Animal Welfare and composition, but the measure repeals RA No. 8485 instead of amending it and expressly transfers the Committee on Animal Welfare's policy functions.",
+   "section": "HB-20-9437:s4",
+   "quote": "The National Commission on Animal Welfare (NCAW) is hereby created as a quasi-judicial agency attached to the Department of Agriculture.",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the title proposes an Animal Welfare Bureau under the Department of Agriculture instead of a commission.",
+   "section": "meta:HB-20-1602",
+   "quote": "CREATING FOR THE PURPOSE THE ANIMAL WELFARE BUREAU UNDER THE DEPARTMENT OF AGRICULTURE",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the title proposes a revised animal welfare act repealing RA No. 8485.",
+   "section": "meta:HB-20-2248",
+   "quote": "ENACTING A REVISED ANIMAL WELFARE ACT, THEREBY REPEALING REPUBLIC ACT NO. 8485",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the Senate measure proposes a revised animal welfare act repealing RA No. 8485.",
+   "section": "meta:SB-20-847",
+   "quote": "THE REVISED ANIMAL WELFARE ACT: AN ACT STRENGTHENING ANIMAL WELFARE STANDARDS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the Senate measure proposes a revised animal welfare act repealing RA No. 8485.",
+   "section": "meta:SB-20-1276",
+   "quote": "THE REVISED ANIMAL WELFARE ACT: AN ACT STRENGTHENING ANIMAL WELFARE STANDARDS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress measure proposing an Animal Welfare Bureau.",
+   "section": "meta:HB-19-10232",
+   "quote": "CREATING FOR THE PURPOSE THE ANIMAL WELFARE BUREAU UNDER THE DEPARTMENT OF AGRICULTURE",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress Senate measure on a revised animal welfare act.",
+   "section": "meta:SB-19-2975",
+   "quote": "ENACTING A REVISED ANIMAL WELFARE ACT, THEREBY REPEALING REPUBLIC ACT NO. 8485",
+   "check": "verified"
+  },
+  {
+   "claim": "The bill amends Sections 1, 2, 4, 5 and 8 of RA No. 8485 and inserts new Sections 4-A, 5-A to 5-D and 9-A to 9-D.",
+   "section": "HB-20-11495:s6",
+   "quote": "Section 5 of Republic Act No. 8485, as amended, is hereby amended to read as follows",
+   "check": "verified"
+  },
+  {
+   "claim": "RA No. 10631 earlier amended RA No. 8485, whose amended sections the bill revises again.",
+   "section": "law:RA-10631",
+   "quote": "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 8485",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 8 (Localization of Animal Welfare Efforts) assigns the municipal or city animal welfare office to the local government veterinarian under Section 489 of the Local Government Code.",
+   "section": "HB-20-11495:s8",
+   "quote": "IN ACCORDANCE WITH SECTION 489 OF REPUBLIC ACT NO. 7160 OR THE LOCAL GOVERNMENT CODE",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-18T10:04:08+00:00"
+ }
+}
