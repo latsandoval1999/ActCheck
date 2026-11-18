@@ -1,0 +1,114 @@
+{
+ "output": {
+  "target": "HB-20-11759",
+  "entity_proposed": "Davao Central State Polytechnic Institute (the Institute)",
+  "proposal": "HB No. 11759 seeks to establish the Davao Central State Polytechnic Institute under the administration of the Technical Education and Skills Development Authority (TESDA) by integrating nine TESDA Technology Institutions in the Davao Region into a single polytechnic system, in order to strengthen higher-level, industry-responsive technical education, technology transfer and workforce development in the region.",
+  "alignment": "As a government organization and mandates measure, the review should examine how the proposed Institute, which consolidates existing TESDA regional, provincial and city training centers under Section 3 (Establishment of Polytechnic Institute), would fit with TESDA's existing structure and with state universities and colleges and other higher education institutions offering technical and degree programs in the region, and whether the integration and the plantilla rationalization under Section 7 (Human Resources and Personnel) support the government's intent to streamline agencies and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess the new senior positions under Section 6 (Governance and Administration) and the retention of income in a Special Trust Fund under Section 9 (Finance, Procurement, and Special Trust Fund). No direct match with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 11759 was filed on October 26, 2026 by Representative Cheeno Miguel D. Almario; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "No earlier version, counterpart measure, substitute bill or committee report was identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-10968",
+    "label": "Referenced in the bill",
+    "overlap": "Section 4 (Mandate) and Section 10 (Ladderized Diploma-to-Degree Programs) tie the Institute's learning pathways and credit articulation to the Philippine Qualifications Framework.",
+    "section": "HB-20-11759:s10",
+    "quote": "Pursuant to Republic Act No. 10968 (PQF Act) and Republic Act No. 10647 (Ladderized Education Act), the Institute is mandated to establish ladderized pathways"
+   },
+   {
+    "law": "RA-10647",
+    "label": "Referenced in the bill",
+    "overlap": "Section 10 (Ladderized Diploma-to-Degree Programs) invokes the Ladderized Education Act to integrate technical-vocational diplomas with baccalaureate degree offerings.",
+    "section": "HB-20-11759:s10",
+    "quote": "integrating TESDA-registered technical-vocational diploma programs with baccalaureate degree offerings"
+   },
+   {
+    "law": "RA-8292",
+    "label": "Referenced in the bill",
+    "overlap": "Section 6 (Governance and Administration) cites the law governing chartered state universities and colleges as authority for the Executive Director's disposition of the Special Trust Fund.",
+    "section": "HB-20-11759:s6",
+    "quote": "rather than being remitted to the National Treasury, as authorized by Republic Act No. 8292."
+   }
+  ],
+  "salient_features": "HB No. 11759 seeks to establish the Davao Central State Polytechnic Institute under the administration of TESDA. Its salient features are as follows:\na. Section 3 (Establishment of Polytechnic Institute) provides for the establishment of the Institute as a unified inter-province technical and vocational education and training system integrating nine TESDA Technology Institutions, with the RTC-KPVTC Davao as the Main Campus and Cluster Convenor and the other centers as constituent campuses and specialized extension sites.\nb. Section 4 (Mandate) provides that the Institute shall offer competency-based technical and vocational education, diploma-level and higher national certificate programs, micro-credentials, applied research, innovation and extension services, and shall serve as a Regional Technology Innovation Center.\nc. Section 5 (Campus Specialization) provides that each constituent campus shall specialize in identified priority sectors, such as advanced manufacturing, agriculture, fisheries, tourism and construction.\nd. Section 6 (Governance and Administration) provides that the Institute shall be headed by an Executive Director with Salary Grade 27, appointed by the TESDA Director-General, assisted by Directors with Salary Grade 25 for five functional areas, with a Campus Director with Salary Grade 25, and grants the Executive Director authority to sign contracts and to dispose of the Special Trust Fund.\ne. Section 7 (Human Resources and Personnel) provides that all existing personnel of the integrated institutions shall be absorbed without diminution of rank, salary, benefits or tenure, and that TESDA shall undertake organizational restructuring and plantilla rationalization.\nf. Section 8 (Assets, Properties, and Liabilities) provides for the transfer of all lands, buildings, equipment, records, assets, liabilities and appropriations of the integrated campuses to the Institute.\ng. Section 9 (Finance, Procurement, and Special Trust Fund) provides that income from fees, consultancy, commercialization, auxiliary services, grants and donations shall accrue to a Special Trust Fund retained for instruction, research, modernization and extension.\nh. Section 10 (Ladderized Diploma-to-Degree Programs) provides that the Institute shall establish ladderized pathways linking technical-vocational diploma programs with baccalaureate degree offerings.\ni. Section 11 (Transition and Integration) provides that TESDA shall constitute a Transition Committee, including the DBM and the CSC, within 90 days to prepare a Transition Plan.\nj. Section 12 (Appropriations) provides that initial funding shall be charged against the current appropriations of the integrated institutions, and that continuing operations and capital outlay shall be included in the annual GAA.\nk. Section 13 (Implementing Rules and Regulations) provides that TESDA, in consultation with concerned agencies including the DBM, shall issue the implementing rules within 120 days from effectivity.",
+  "related_measures_policy": "No related bill in the current or earlier Congresses was identified for HB No. 11759. No direct alignment with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified. The review should assess the organizational and fiscal implications of consolidating nine TESDA Technology Institutions under Section 3 (Establishment of Polytechnic Institute) in light of the Government Optimization Act (RA No. 12231), the creation of senior positions under Section 6 (Governance and Administration), the retention of income in a Special Trust Fund under Section 9 (Finance, Procurement, and Special Trust Fund) and the reliance on RA No. 8292 as authority for it, and the offering of baccalaureate degree pathways under Section 10 (Ladderized Diploma-to-Degree Programs) in relation to RA No. 10968 and RA No. 10647.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary (no amount stated), charged against the current appropriations of the integrated TTIs and PTCs",
+    "section": "Section 12 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Continued operation and capital outlay included in the annual General Appropriations Act",
+    "section": "Section 12 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Executive Director (Salary Grade 27)",
+    "section": "Section 6 (Governance and Administration)"
+   },
+   {
+    "item": "Position",
+    "detail": "Directors for five functional areas (Salary Grade 25)",
+    "section": "Section 6 (Governance and Administration)"
+   },
+   {
+    "item": "Position",
+    "detail": "Campus Director (Salary Grade 25)",
+    "section": "Section 6 (Governance and Administration)"
+   },
+   {
+    "item": "Personnel",
+    "detail": "Absorption of all existing personnel of the integrated TTIs without diminution of rank, salary or benefits",
+    "section": "Section 7 (Human Resources and Personnel)"
+   },
+   {
+    "item": "Special Trust Fund",
+    "detail": "Income from fees, consultancy, commercialization, grants and donations retained by the Institute",
+    "section": "Section 9 (Finance, Procurement, and Special Trust Fund)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Transition Committee composed of TESDA, DBM, CSC and stakeholder representatives",
+    "section": "Section 11 (Transition and Integration)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm whether RA No. 8292, which governs chartered state universities and colleges, can serve as authority for the retention of income by a TESDA-administered institute under Section 6 (Governance and Administration).",
+   "Clarify whether the Institute is intended to have a charter and degree-granting authority, given the offering of baccalaureate degree pathways under Section 10 (Ladderized Diploma-to-Degree Programs) while remaining under TESDA.",
+   "Clarify the number of Campus Director positions, as Section 6 (Governance and Administration) refers to a single Campus Director for nine campuses.",
+   "Correct the typographical error in the list of Directors under Section 6 (Governance and Administration).",
+   "Verify the complete text of Section 5 (Campus Specialization) and Section 6 (Governance and Administration), which appear to continue beyond the provisions reviewed.",
+   "Confirm with the House whether any similar or counterpart measure has been filed."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 4 (Mandate) and Section 10 (Ladderized Diploma-to-Degree Programs) tie the Institute's learning pathways and credit articulation to the Philippine Qualifications Framework.",
+   "section": "HB-20-11759:s10",
+   "quote": "Pursuant to Republic Act No. 10968 (PQF Act) and Republic Act No. 10647 (Ladderized Education Act), the Institute is mandated to establish ladderized pathways",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 10 (Ladderized Diploma-to-Degree Programs) invokes the Ladderized Education Act to integrate technical-vocational diplomas with baccalaureate degree offerings.",
+   "section": "HB-20-11759:s10",
+   "quote": "integrating TESDA-registered technical-vocational diploma programs with baccalaureate degree offerings",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 6 (Governance and Administration) cites the law governing chartered state universities and colleges as authority for the Executive Director's disposition of the Special Trust Fund.",
+   "section": "HB-20-11759:s6",
+   "quote": "rather than being remitted to the National Treasury, as authorized by Republic Act No. 8292.",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T00:04:47+00:00"
+ }
+}
