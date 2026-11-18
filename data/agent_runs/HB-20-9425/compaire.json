@@ -1,0 +1,400 @@
+{
+ "output": {
+  "target": "HB-20-9425",
+  "problem": "The bill responds to the absence of a binding long-term framework for infrastructure planning, which the explanatory note links to the need for strategic and continuous infrastructure development that is sustained across administrations. It seeks to institutionalize a thirty-year Comprehensive Infrastructure Development Masterplan (CIDMP) and a whole-of-government council to lead it, so that public resources are used wisely and no region is left behind.",
+  "problem_quote": "Establishing a clear, long-term national blueprint is essential to ensure that public resources are used wisely, that development gains are sustained across administrations",
+  "rows": [
+   {
+    "area": "Plan horizon and updating",
+    "section_ref": "Section 5 (Formulation of a Comprehensive Infrastructure Development Master Plan)",
+    "target_section": "HB-20-9425:s5",
+    "target_quote": "The CIDMP shall be reviewed and updated every ten (10) years or earlier as the need arises",
+    "comparator": {
+     "id": "HB-20-6293",
+     "section": "HB-20-6293:s8",
+     "quote": "submit the NWRMP to the Department of Economy, Planning and Development (DEPDev) for approval and eventual adoption, and regularly update, every five years",
+     "title": "AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION, DEFINING THEIR MANDATES, POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+    },
+    "differences": "The comparator has its sector master plan prepared by the lead department, approved by DEPDev and updated every five years, while this bill sets a thirty-year plan reviewed every ten years or earlier as the need arises.",
+    "recommendation": "Retain provision",
+    "why": "Section 5 already allows earlier review when needed and Section 11 (Secretariat to the MIND Council) adds medium-term strategic plans, so a shorter fixed cycle adds little.",
+    "tradeoffs": "A longer review cycle supports continuity but risks the plan drifting from medium-term priorities between reviews.",
+    "gap": "How the ten-year cycle will be synchronized with the medium-term Philippine Development Plan is not stated and should be checked."
+   },
+   {
+    "area": "Council mandate and functions",
+    "section_ref": "Section 10 (Powers and Functions of the MIND Council)",
+    "target_section": "HB-20-9425:s10",
+    "target_quote": "Formulate the CIDMP that will serve as a blueprint for national and regional investment planning",
+    "comparator": {
+     "id": "HB-20-6293",
+     "section": "HB-20-6293:s8",
+     "quote": "submit the NWRMP to the Department of Economy, Planning and Development (DEPDev) for approval and eventual adoption, and regularly update, every five years",
+     "title": "AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION, DEFINING THEIR MANDATES, POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+    },
+    "differences": "The comparator vests preparation and updating of a long-term master plan in an existing lead agency, with approval by DEPDev and no separate council, whereas this bill gives a new Council the power to formulate, coordinate and monitor the CIDMP while Section 11 also makes DEPDev responsible for formulating, updating and monitoring it.",
+    "recommendation": "Adapt alternative with revisions",
+    "why": "Formulation and monitoring of the CIDMP are assigned both to the Council under Section 10 and to DEPDev under Section 11 (Secretariat to the MIND Council), so, as in the comparator, preparation, updating and monitoring should rest with DEPDev and the Council, if retained, should be limited to approval and policy direction.",
+    "tradeoffs": "Concentrating technical work in DEPDev avoids overlapping functions but relies on the Council's approval role to secure buy-in from the implementing departments.",
+    "gap": "Whether an existing high-level body already approves national infrastructure plans and programs is not in the material and must be checked against the Government Optimization Act (RA No. 12231)."
+   },
+   {
+    "area": "Composition",
+    "section_ref": "Section 9 (Composition of the MIND Council)",
+    "target_section": "HB-20-9425:s9",
+    "target_quote": "Four (4) Industry Stakeholders, as Members",
+    "comparator": {
+     "id": "HB-20-6293",
+     "section": "HB-20-6293:s18",
+     "quote": "The Board shall be composed of the Secretary of Water Resources as the Chair, with the Secretary of Environment and Natural Resources as the Vice-Chairperson",
+     "title": "AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION, DEFINING THEIR MANDATES, POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+    },
+    "differences": "The comparator uses a compact board of a few department and agency heads, while this bill seats the President, thirteen department secretaries, the presidents of the LGU Leagues and four industry stakeholders as voting members of a body that sets project priorities.",
+    "recommendation": "Adapt alternative with revisions",
+    "why": "A leaner core membership, with the LGU Leagues and the four industry stakeholders moved to the consultative and advisory committee already allowed under Section 10 (Powers and Functions of the MIND Council), would ease decision-making and avoid giving industry voting seats on project prioritization, while presidential chairmanship may be kept.",
+    "tradeoffs": "A smaller voting body decides faster and limits conflicts of interest but gives LGUs and industry an advisory rather than a decision-making voice.",
+    "gap": "The selection criteria, terms and conflict-of-interest safeguards for industry stakeholders are left to the Council and are not set out in the bill."
+   },
+   {
+    "area": "Budget mainstreaming",
+    "section_ref": "Section 8 (Masterplan for Infrastructure and National Development (MIND) Council)",
+    "target_section": "HB-20-9425:s8",
+    "target_quote": "The DEPDev shall ensure that the CIDMP shall be mainstreamed into all phases of the Planning-Programming-Budgeting process and operationalized in all of the major documents involved",
+    "comparator": {
+     "id": "HB-20-6293",
+     "section": "HB-20-6293:s43",
+     "quote": "Submit to the DBM the Department’s and the Commission’s budget for fiscal year following the promulgation of its implementing rules and regulations",
+     "title": "AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION, DEFINING THEIR MANDATES, POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+    },
+    "differences": "The comparator routes budget requirements through submission to the budget department under the regular process and involves both the planning and budget agencies in its implementing rules, whereas this bill makes DEPDev alone responsible for ensuring that the CIDMP is operationalized in the National Expenditure Program, the Budget of Expenditure and Sources of Financing and the General Appropriations Act.",
+    "recommendation": "Adapt alternative with revisions",
+    "why": "The budget documents listed in Section 8 are not prepared or enacted by DEPDev alone, so the provision should require that the CIDMP be used as the reference for infrastructure priorities in the regular budget preparation process, in coordination with the agencies responsible for it.",
+    "tradeoffs": "Clarifying roles respects the existing budget process but may soften the link between the plan and actual spending that the bill relies on.",
+    "gap": "The existing laws governing preparation of the National Expenditure Program and the Budget of Expenditure and Sources of Financing are not in the material and should be checked."
+   },
+   {
+    "area": "Secretariat and staffing",
+    "section_ref": "Section 11 (Secretariat to the MIND Council)",
+    "target_section": "HB-20-9425:s11",
+    "target_quote": "The DEPDev shall serve as the Secretariat and shall provide administrative, operational, and technical support to the Council.",
+    "comparator": {
+     "id": "HB-20-6293",
+     "section": "HB-20-6293:s20",
+     "quote": "There is hereby created a Resource Allocation Office which shall be attached to the Department. It shall serve as Secretariat to the Board",
+     "title": "AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION, DEFINING THEIR MANDATES, POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+    },
+    "differences": "The comparator creates a new attached office to serve as secretariat to its board, while this bill uses an existing department, DEPDev, as Secretariat without creating a new office.",
+    "recommendation": "Retain provision",
+    "why": "Using DEPDev, already designated lead coordinator under Section 6 (Infrastructure Policies and Strategies), avoids creating new positions and offices.",
+    "tradeoffs": "An existing-agency secretariat costs less but competes with DEPDev's other work, while a dedicated office would add positions.",
+    "gap": "Whether DEPDev can absorb the Secretariat, formulation, updating and monitoring workload within its existing staffing is not established."
+   },
+   {
+    "area": "Legislative oversight",
+    "section_ref": "Section 14 (Joint Congressional Oversight Committee (JCOC))",
+    "target_section": "HB-20-9425:s14",
+    "target_quote": "The JCOC shall conduct a hearing at least once every quarter to review the implementation of this Act",
+    "comparator": {
+     "id": "HB-20-6293",
+     "section": "HB-20-6293:s44",
+     "quote": "The Department and the Commission shall conduct a review of the implementation of this Act at the end of the fifth (5th) year from the date of its effectivity",
+     "title": "AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION, DEFINING THEIR MANDATES, POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+    },
+    "differences": "The comparator relies on a fixed-period implementation review by the implementing bodies with a report to Congress, while this bill creates a joint committee of six members from each chamber holding hearings at least quarterly.",
+    "recommendation": "Retain provision",
+    "why": "Oversight arrangements are within the prerogative of Congress and the JCOC uses existing Senate and House secretariat personnel.",
+    "tradeoffs": "Frequent hearings strengthen accountability but may demand frequent reporting from the Council and implementing agencies.",
+    "gap": ""
+   },
+   {
+    "area": "Funding",
+    "section_ref": "Section 15 (Appropriations)",
+    "target_section": "HB-20-9425:s15",
+    "target_quote": "The amount needed for the initial implementation of this Act shall be charged against the current year's appropriations of the departments/agencies concerned.",
+    "comparator": {
+     "id": "HB-20-6293",
+     "section": "HB-20-6293:s41",
+     "quote": "shall be charged against the currents year’s appropriations of the agencies, entities, divisions, sections or units subsumed or transferred to the Department",
+     "title": "AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION, DEFINING THEIR MANDATES, POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+    },
+    "differences": "The comparator identifies whose appropriations bear the initial cost (the units subsumed or transferred), while this bill charges the departments and agencies concerned without naming them.",
+    "recommendation": "Retain provision",
+    "why": "Charging initial costs to existing appropriations and later to the annual General Appropriations Act creates no new fund or earmark.",
+    "tradeoffs": "An open charging clause gives flexibility but leaves unclear which agency budgets the Council's operations.",
+    "gap": "Which department or agency will carry the Council and Secretariat costs in the first year is not stated."
+   },
+   {
+    "area": "Implementing rules",
+    "section_ref": "Section 16 (Implementing Rules and Regulations)",
+    "target_section": "HB-20-9425:s16",
+    "target_quote": "Within ninety (90) days of the approval of this Act, the MIND Council, in consultation with stakeholders from the public and private sector",
+    "comparator": {
+     "id": "HB-20-6293",
+     "section": "HB-20-6293:s43",
+     "quote": "within one hundred twenty (120) days after its effectivity",
+     "title": "AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION, DEFINING THEIR MANDATES, POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+    },
+    "differences": "The comparator names the lead and oversight agencies that jointly issue the rules and gives a longer period counted from effectivity, while this bill assigns the full Council to issue the rules within a shorter period counted from approval.",
+    "recommendation": "Adapt alternative with revisions",
+    "why": "Having DEPDev, as Secretariat, draft the rules with the member agencies for Council approval, with the period counted from effectivity as in the comparator, is more workable for a large Council chaired by the President.",
+    "tradeoffs": "Naming a drafting agency makes the deadline achievable but shifts initial control of the rules from the full Council to DEPDev.",
+    "gap": ""
+   }
+  ],
+  "duplications": [
+   {
+    "function": "Section 10 (Powers and Functions of the MIND Council)",
+    "existing": "Department of Economy, Planning and Development (DEPDev), designated by Section 11 of the same bill to formulate the detailed CIDMP, and whose existing planning, programming and monitoring roles are noted in the Step 1 review; its enabling law is not in the material, and overlap should be weighed against the Government Optimization Act (RA No. 12231).",
+    "note": "The Council's power to formulate the CIDMP overlaps with DEPDev's responsibility for formulating the detailed CIDMP under Section 11.",
+    "section": "HB-20-9425:s10",
+    "quote": "Formulate the CIDMP that will serve as a blueprint for national and regional investment planning"
+   },
+   {
+    "function": "Section 10 (Powers and Functions of the MIND Council)",
+    "existing": "Department of Economy, Planning and Development (DEPDev), assigned monitoring and evaluation of the CIDMP under Section 11 of the same bill; existing monitoring roles are noted in the Step 1 review, enabling law not in the material.",
+    "note": "The Council's mandate to establish mechanisms to monitor CIDMP projects overlaps with DEPDev's regular monitoring and evaluation of the CIDMP and of implementing agencies' performance.",
+    "section": "HB-20-9425:s11",
+    "quote": "shall be responsible for the update of the CIDMP as well as its regular monitoring and evaluation"
+   }
+  ],
+  "cost_notes": [
+   {
+    "item": "Section 8 (Masterplan for Infrastructure and National Development (MIND) Council)",
+    "direction": "likely raises cost",
+    "why": "A new inter-agency council requires meetings and operating support even without its own office."
+   },
+   {
+    "item": "Section 10 (Powers and Functions of the MIND Council)",
+    "direction": "likely raises cost",
+    "why": "The optional consultative and advisory committee of experts would add engagement costs whose terms are not specified."
+   },
+   {
+    "item": "Section 11 (Secretariat to the MIND Council)",
+    "direction": "likely raises cost",
+    "why": "DEPDev takes on Secretariat, formulation, updating and monitoring work that may require additional staff or studies."
+   },
+   {
+    "item": "Section 14 (Joint Congressional Oversight Committee (JCOC))",
+    "direction": "no cost effect",
+    "why": "The Committee's secretariat comes from existing Senate and House committee personnel, so no new executive cost arises."
+   },
+   {
+    "item": "Section 15 (Appropriations)",
+    "direction": "unclear",
+    "why": "Costs are charged to the departments and agencies concerned without naming them or stating amounts."
+   }
+  ],
+  "memo_part": [
+   {
+    "heading": "On the Powers and Functions of the MIND Council",
+    "paragraphs": [
+     "4.1 Section 10 of the bill empowers the MIND Council to formulate the CIDMP, coordinate infrastructure investments, planning and implementation, and establish mechanisms to monitor the progress of CIDMP projects. It may be noted, however, that Section 11 likewise makes the DEPDev, as Secretariat, responsible for the formulation of the detailed CIDMP, its updating, and its regular monitoring and evaluation, while Section 6 already designates the DEPDev as lead coordinator of the whole-of-government strategy. The formulation and monitoring functions are thus assigned to two bodies under the same measure, which may result in overlapping functions.",
+     "4.2 In this regard, and consistent with the streamlining of overlapping functions under the Government Optimization Act (RA No. 12231), may we recommend that the preparation, updating and monitoring of the CIDMP be vested in the DEPDev in coordination with the implementing agencies, similar to the arrangement in Section 8 of HB No. 6293 where a long-term master plan is prepared by the lead agency and submitted to the DEPDev for approval, and that the functions of the Council, should its creation be retained, be limited to the approval of the CIDMP and the provision of policy direction. We defer to the proponents on whether an existing inter-agency body may instead perform the approval function."
+    ]
+   },
+   {
+    "heading": "On the Composition of the MIND Council",
+    "paragraphs": [
+     "4.3 Section 9 of the bill provides for a Council chaired by the President, with the DEPDev Secretary as Vice Chairperson and twelve other department secretaries, the presidents of the LGU Leagues and four industry stakeholders as members. Given the size of the body and its role in determining infrastructure priorities, the composition may be revisited to keep a leaner core membership of the departments directly concerned, with reference to the compact board in Section 18 of HB No. 6293. In this regard, may we recommend that the LGU Leagues and the industry stakeholders participate through the consultative and advisory committee that Section 10 already allows the Council to form, which would preserve their voice while avoiding potential conflicts of interest in project prioritization. The presidential chairmanship may be retained in view of the bill's objective of policy continuity."
+    ]
+   },
+   {
+    "heading": "On the Mainstreaming of the CIDMP in Budget Documents",
+    "paragraphs": [
+     "4.4 Section 8 of the bill provides that the DEPDev shall ensure that the CIDMP is mainstreamed into all phases of the Planning-Programming-Budgeting process and operationalized in the National Expenditure Program, the Budget of Expenditure and Sources of Financing, the annual General Appropriations Act and their supporting documents. It may be noted that these documents are not prepared or enacted by the DEPDev alone. In this regard, may we recommend that the provision be revised to require that the CIDMP serve as the reference for infrastructure priorities in the regular budget preparation process, in coordination with the agencies responsible for that process, similar to Section 43 of HB No. 6293 which involves both the planning and budget agencies and routes budget requirements through the regular submission process."
+    ]
+   },
+   {
+    "heading": "On the Implementing Rules and Regulations",
+    "paragraphs": [
+     "4.5 Section 16 of the bill requires the MIND Council to formulate the implementing rules and regulations within ninety (90) days of the approval of the Act. Considering that the Council is chaired by the President and composed of numerous members, may we recommend that the DEPDev, as Secretariat, be tasked to draft the implementing rules in consultation with the member agencies and stakeholders for the approval of the Council, and that the period be counted from the effectivity rather than the approval of the Act, similar to Section 43 of HB No. 6293."
+    ]
+   }
+  ],
+  "self_critique": [
+   {
+    "area": "Plan horizon and updating",
+    "objection": "A fixed five-year update, as in Section 8 of HB No. 6293, would keep the CIDMP aligned with the medium-term Philippine Development Plan that Section 5 itself says the plan must take into consideration.",
+    "verdict": "stands",
+    "condition": ""
+   },
+   {
+    "area": "Council mandate and functions",
+    "objection": "The bill's continuity aim depends on a body with authority across thirteen departments, and the comparator is a single-sector plan approved by DEPDev, which may lack the authority to bind other departments to a national infrastructure plan.",
+    "verdict": "weakened",
+    "condition": "The recommendation holds only if an approving body with authority over the implementing departments is kept, either the Council limited to approval and policy direction or an existing body confirmed to have that role."
+   },
+   {
+    "area": "Composition",
+    "objection": "Presidential chairmanship and broad membership are what give the Council its cross-administration weight, and the comparator board is a single-sector regulatory allocation body, so it is a weak analogue for a national planning council.",
+    "verdict": "weakened",
+    "condition": "The recommendation is limited to moving the LGU Leagues and industry stakeholders to the advisory committee and narrowing the departmental roster; presidential chairmanship is kept."
+   },
+   {
+    "area": "Budget mainstreaming",
+    "objection": "Section 8's firm instruction to operationalize the CIDMP in the budget documents is the bill's main lever for turning the plan into spending, and recasting it as a reference in a coordinated process may dilute that lever.",
+    "verdict": "weakened",
+    "condition": "The revision must keep the CIDMP as a mandatory reference for infrastructure budget priorities while leaving the preparation of budget documents to the roles set by existing law."
+   },
+   {
+    "area": "Secretariat and staffing",
+    "objection": "A dedicated secretariat office, as in Section 20 of HB No. 6293, would give the thirty-year plan staff continuity that a department with other priorities may not sustain.",
+    "verdict": "stands",
+    "condition": ""
+   },
+   {
+    "area": "Legislative oversight",
+    "objection": "Quarterly hearings on a thirty-year plan reviewed every ten years may be disproportionate, and a structured periodic review report by the implementers, as in Section 44 of HB No. 6293, would give Congress a fuller evaluation at lower burden.",
+    "verdict": "weakened",
+    "condition": "Retention holds if the reports the Council submits to Congress under Section 10 are given a fixed periodic schedule to support the JCOC's review."
+   },
+   {
+    "area": "Funding",
+    "objection": "Section 41 of HB No. 6293 names whose appropriations bear the initial cost, whereas this bill's reference to the departments and agencies concerned leaves first-year funding of the Council and Secretariat without a clear owner.",
+    "verdict": "weakened",
+    "condition": "Retention holds if the implementing rules or the bill specify which agency's appropriations, such as those of the DEPDev as Secretariat, carry the initial Council and Secretariat costs."
+   },
+   {
+    "area": "Implementing rules",
+    "objection": "The shorter period in the bill speeds operationalization, and the Council already includes all relevant secretaries, so adding a drafting agency and a longer clock could delay the rules.",
+    "verdict": "stands",
+    "condition": ""
+   }
+  ],
+  "theory_of_change": {
+   "problem": "Infrastructure planning lacks a long-term binding framework, so priorities shift across administrations and resources are not used strategically.",
+   "mechanism": "A thirty-year CIDMP led by a presidential-level MIND Council and mainstreamed by DEPDev into planning and budget documents, with implementing agencies required to prioritize CIDMP projects.",
+   "outcome": "Strategic, continuous and regionally balanced infrastructure investment sustained across administrations.",
+   "weakest_assumption": "That a large council and a long-horizon plan will actually steer annual budget allocations and agency priorities, given that formulation and monitoring are split between the Council and DEPDev."
+  },
+  "reviewer_checks": [
+   "Confirm whether an existing inter-agency body already approves national infrastructure plans and programs, and assess the Council against RA No. 12231.",
+   "Check the existing legal basis for preparation of the National Expenditure Program and the Budget of Expenditure and Sources of Financing before finalizing the comment on Section 8.",
+   "Verify the truncated text of Section 9 on designation of alternates by department secretaries.",
+   "Confirm the texts of SB Nos. 2 and 863 and HB No. 11371, which were not available for comparison, for alternative designs.",
+   "Confirm DEPDev's capacity to absorb Secretariat, formulation and monitoring functions."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 5 (Formulation of a Comprehensive Infrastructure Development Master Plan)",
+   "section": "HB-20-9425:s5",
+   "quote": "The CIDMP shall be reviewed and updated every ten (10) years or earlier as the need arises",
+   "check": "verified"
+  },
+  {
+   "claim": "The comparator has its sector master plan prepared by the lead department, approved by DEPDev and updated every five years, while this bill sets a thirty-year plan reviewed every ten years or earlier as the need arises.",
+   "section": "HB-20-6293:s8",
+   "quote": "submit the NWRMP to the Department of Economy, Planning and Development (DEPDev) for approval and eventual adoption, and regularly update, every five years",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 10 (Powers and Functions of the MIND Council)",
+   "section": "HB-20-9425:s10",
+   "quote": "Formulate the CIDMP that will serve as a blueprint for national and regional investment planning",
+   "check": "verified"
+  },
+  {
+   "claim": "The comparator vests preparation and updating of a long-term master plan in an existing lead agency, with approval by DEPDev and no separate council, whereas this bill gives a new Council the power to formulate, coordinate and monitor the CIDMP while Section 11 also makes DEPDev responsible for formulating, updating and monitoring it.",
+   "section": "HB-20-6293:s8",
+   "quote": "submit the NWRMP to the Department of Economy, Planning and Development (DEPDev) for approval and eventual adoption, and regularly update, every five years",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Composition of the MIND Council)",
+   "section": "HB-20-9425:s9",
+   "quote": "Four (4) Industry Stakeholders, as Members",
+   "check": "verified"
+  },
+  {
+   "claim": "The comparator uses a compact board of a few department and agency heads, while this bill seats the President, thirteen department secretaries, the presidents of the LGU Leagues and four industry stakeholders as voting members of a body that sets project priorities.",
+   "section": "HB-20-6293:s18",
+   "quote": "The Board shall be composed of the Secretary of Water Resources as the Chair, with the Secretary of Environment and Natural Resources as the Vice-Chairperson",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 8 (Masterplan for Infrastructure and National Development (MIND) Council)",
+   "section": "HB-20-9425:s8",
+   "quote": "The DEPDev shall ensure that the CIDMP shall be mainstreamed into all phases of the Planning-Programming-Budgeting process and operationalized in all of the major documents involved",
+   "check": "verified"
+  },
+  {
+   "claim": "The comparator routes budget requirements through submission to the budget department under the regular process and involves both the planning and budget agencies in its implementing rules, whereas this bill makes DEPDev alone responsible for ensuring that the CIDMP is operationalized in the National Expenditure Program, the Budget of Expenditure and Sources of Financing and the General Appropriations Act.",
+   "section": "HB-20-6293:s43",
+   "quote": "Submit to the DBM the Department’s and the Commission’s budget for fiscal year following the promulgation of its implementing rules and regulations",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 11 (Secretariat to the MIND Council)",
+   "section": "HB-20-9425:s11",
+   "quote": "The DEPDev shall serve as the Secretariat and shall provide administrative, operational, and technical support to the Council.",
+   "check": "verified"
+  },
+  {
+   "claim": "The comparator creates a new attached office to serve as secretariat to its board, while this bill uses an existing department, DEPDev, as Secretariat without creating a new office.",
+   "section": "HB-20-6293:s20",
+   "quote": "There is hereby created a Resource Allocation Office which shall be attached to the Department. It shall serve as Secretariat to the Board",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 14 (Joint Congressional Oversight Committee (JCOC))",
+   "section": "HB-20-9425:s14",
+   "quote": "The JCOC shall conduct a hearing at least once every quarter to review the implementation of this Act",
+   "check": "verified"
+  },
+  {
+   "claim": "The comparator relies on a fixed-period implementation review by the implementing bodies with a report to Congress, while this bill creates a joint committee of six members from each chamber holding hearings at least quarterly.",
+   "section": "HB-20-6293:s44",
+   "quote": "The Department and the Commission shall conduct a review of the implementation of this Act at the end of the fifth (5th) year from the date of its effectivity",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 15 (Appropriations)",
+   "section": "HB-20-9425:s15",
+   "quote": "The amount needed for the initial implementation of this Act shall be charged against the current year's appropriations of the departments/agencies concerned.",
+   "check": "verified"
+  },
+  {
+   "claim": "The comparator identifies whose appropriations bear the initial cost (the units subsumed or transferred), while this bill charges the departments and agencies concerned without naming them.",
+   "section": "HB-20-6293:s41",
+   "quote": "shall be charged against the currents year’s appropriations of the agencies, entities, divisions, sections or units subsumed or transferred to the Department",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 16 (Implementing Rules and Regulations)",
+   "section": "HB-20-9425:s16",
+   "quote": "Within ninety (90) days of the approval of this Act, the MIND Council, in consultation with stakeholders from the public and private sector",
+   "check": "verified"
+  },
+  {
+   "claim": "The comparator names the lead and oversight agencies that jointly issue the rules and gives a longer period counted from effectivity, while this bill assigns the full Council to issue the rules within a shorter period counted from approval.",
+   "section": "HB-20-6293:s43",
+   "quote": "within one hundred twenty (120) days after its effectivity",
+   "check": "verified"
+  },
+  {
+   "claim": "The Council's power to formulate the CIDMP overlaps with DEPDev's responsibility for formulating the detailed CIDMP under Section 11.",
+   "section": "HB-20-9425:s10",
+   "quote": "Formulate the CIDMP that will serve as a blueprint for national and regional investment planning",
+   "check": "verified"
+  },
+  {
+   "claim": "The Council's mandate to establish mechanisms to monitor CIDMP projects overlaps with DEPDev's regular monitoring and evaluation of the CIDMP and of implementing agencies' performance.",
+   "section": "HB-20-9425:s11",
+   "quote": "shall be responsible for the update of the CIDMP as well as its regular monitoring and evaluation",
+   "check": "verified"
+  },
+  {
+   "claim": "problem",
+   "section": "HB-20-9425:note",
+   "quote": "Establishing a clear, long-term national blueprint is essential to ensure that public resources are used wisely, that development gains are sustained across administrations",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled CompAIre run under the owner's Claude subscription)",
+  "prompt_version": "v3.1",
+  "grade": "B",
+  "time": "2026-11-18T10:12:43+00:00"
+ }
+}
