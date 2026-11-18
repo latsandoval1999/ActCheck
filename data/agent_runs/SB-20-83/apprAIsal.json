@@ -1,0 +1,205 @@
+{
+ "output": {
+  "target": "SB-20-83",
+  "fiscal_rows": [
+   {
+    "item": "Initial funding",
+    "provision": "Section 50 (Appropriations)",
+    "existing": "Charged against the current year's appropriations of the agencies and units subsumed or transferred to the Department; no amount stated",
+    "consideration": "Estimated requirement of about P854.8 million to P3.28 billion in the first year for 552 to 1,896 positions (PS P492.6 million to P2.08 billion; MOOE P218.0 million to P736.1 million; CO P144.2 million to P461.3 million, one-time). It may be noted that this is a gross estimate for a new office; the funds and appropriations of the abolished and transferred offices under Section 7 and Section 8 would offset part of it, in an amount not estimated.",
+    "recommendation": "The initial requirement may be charged against the available appropriations of the subsumed or transferred agencies in the year of effectivity; any shortfall may be included in the succeeding GAA, subject to fiscal space.",
+    "risks": "The transferred appropriations may not be sufficient for the new organizational units, which could delay operations or crowd out existing water programs."
+   },
+   {
+    "item": "Continuing funding",
+    "provision": "Section 50 (Appropriations)",
+    "existing": "Included in the annual General Appropriations Act",
+    "consideration": "Recurring requirement of P710.6 million to P2.81 billion a year thereafter (PS and MOOE), gross of the existing budgets of the absorbed offices.",
+    "recommendation": "The requirements may be included in the Department's annual budget proposal under the budget call for the succeeding GAA, subject to fiscal space and the DBM's evaluation, net of the budgets of the absorbed offices.",
+    "risks": "The net additional requirement competes with other priorities within the expenditure ceilings of the Budget Priorities Framework."
+   },
+   {
+    "item": "Position",
+    "provision": "Section 12 (The Offices of the Secretary and Undersecretaries)",
+    "existing": "One Secretary, not more than three Undersecretaries and three Assistant Secretaries; salary grades not stated",
+    "consideration": "No salary grades stated; included within the positions assumed in the estimate and to be set in the staffing pattern.",
+    "recommendation": "The positions and their salary grades are subject to evaluation under the Compensation and Position Classification System and the organization and staffing standards.",
+    "risks": "Filling the maximum number of senior positions may increase PS beyond what the Department's functions require."
+   },
+   {
+    "item": "Members",
+    "provision": "Section 32 (Composition of the Water Regulatory Commission)",
+    "existing": "Five full-time Commission members (Chairperson and four members); compensation under Section 36 (Compensation and Other Emoluments)",
+    "consideration": "Included within the PS of the estimate; the level of compensation is addressed in Part IV.",
+    "recommendation": "The compensation of the members may be programmed in the succeeding GAA, subject to fiscal space and in line with the recommendation in Part IV.",
+    "risks": "Compensation outside the Salary Standardization Law may raise PS and create distortions with comparable positions."
+   },
+   {
+    "item": "Members",
+    "provision": "Section 15 (Composition)",
+    "existing": "Water Resources Adjudication Board of an Undersecretary as Chairperson and three stakeholder representatives",
+    "consideration": "Meeting and related expenses of the stakeholder representatives form part of MOOE in the estimate.",
+    "recommendation": "The stakeholder representatives may be entitled only to honoraria or actual expenses for meetings, subject to existing budgeting, accounting and auditing rules.",
+    "risks": "Open-ended allowances for Board members may increase MOOE."
+   },
+   {
+    "item": "Support body",
+    "provision": "Section 15 (Composition)",
+    "existing": "Resource Allocation Office serving as secretariat to the Board",
+    "consideration": "Staffing within the 552 to 1,896 positions assumed in the estimate.",
+    "recommendation": "The office may be staffed primarily from the resource allocation units of the National Water Resources Board absorbed under Section 7, with its structure and staffing pattern submitted to the DBM for review.",
+    "risks": "Creating new positions instead of absorbing existing units may add to PS."
+   },
+   {
+    "item": "Support body",
+    "provision": "Section 33 (Secretariat of the Commission)",
+    "existing": "Commission Secretariat headed by an Executive Director",
+    "consideration": "Staffing within the 552 to 1,896 positions assumed in the estimate.",
+    "recommendation": "The Secretariat may be staffed primarily from the regulatory units absorbed from the National Water Resources Board, the Local Water Utilities Administration and the MWSS Regulatory Office, subject to DBM review of its structure and staffing pattern.",
+    "risks": "Duplicating the absorbed regulatory units may raise the Commission's operating costs."
+   },
+   {
+    "item": "Organizational units",
+    "provision": "Section 22 (Structure and Staffing Pattern)",
+    "existing": "Bureaus, services and regional offices; structure and staffing subject to DBM approval and RA No. 11466",
+    "consideration": "Covered by the 552 to 1,896 positions assumed in the estimate.",
+    "recommendation": "The organizational structure and staffing pattern may be submitted to the DBM for review before positions are filled, maximizing the absorption of personnel of the abolished and transferred offices.",
+    "risks": "Regional offices per water resources region may expand staffing beyond the estimate."
+   },
+   {
+    "item": "Credit program",
+    "provision": "Section 23 (Socialized Credit Program)",
+    "existing": "Socialized credit program for local water service providers; funding source and amount to be verified",
+    "consideration": "Not estimated by the COST ENGINE; no amount or funding source stated.",
+    "recommendation": "The funding source of the credit program, including the use of existing lending resources of the absorbed offices, may be specified before any appropriation is considered.",
+    "risks": "An unfunded credit program may create pressure for new budgetary support."
+   },
+   {
+    "item": "Personnel benefits",
+    "provision": "Section 48 (Absorption or Separation from Service of Employees of the Subrogated Agencies)",
+    "existing": "Separation and retirement benefits for employees of abolished or transferred agencies who opt to leave the service",
+    "consideration": "Not estimated by the COST ENGINE; depends on the number of personnel who opt out.",
+    "recommendation": "The benefits may be charged against the available appropriations of the abolished or transferred agencies, or the applicable fund in the GAA, subject to existing rules.",
+    "risks": "A large number of personnel opting out may result in an unprogrammed one-time requirement."
+   }
+  ],
+  "duplications": [
+   {
+    "function": "Section 20 (Bureaus and Services)",
+    "existing": "DPWH; Section 8 of the bill transfers only its sewerage and septage program",
+    "note": "The Bureau of Flood Control and Drainage would plan and design flood control structures, a function the DPWH may continue to perform since it is not transferred.",
+    "intent_to_abolish": false,
+    "assessment": "The bill does not transfer the DPWH's flood control function to the Department, which may result in duplication to be assessed under Section 6 of RA No. 12231."
+   },
+   {
+    "function": "Section 26 (Creation of the National Water Sector Policy Council)",
+    "existing": "DENR, whose primary authority over the environment and watersheds is preserved under Section 28 of the bill",
+    "note": "The Council's policymaking and supervision functions extend to land, air and other natural resources, which may overlap with the DENR's retained authority.",
+    "intent_to_abolish": false,
+    "assessment": "The bill does not change the DENR's authority, so the Council's scope may be limited to water to avoid overlapping functions under Section 6 of RA No. 12231."
+   }
+  ],
+  "intent_to_abolish": true,
+  "recommendation": {
+   "option": "b",
+   "label": "This Department interposes no objection to the proposed measure, subject to the incorporation of the recommendations.",
+   "issues": [
+    "Compensation of the Water Regulatory Commission under the Salary Standardization Law (Part IV)",
+    "Funding net of the absorbed offices, the credit program and separation benefits (Part V)",
+    "Delineation of flood control functions with the DPWH (Part VI)",
+    "Scope of the National Water Sector Policy Council vis-a-vis the DENR (Part VI)"
+   ]
+  },
+  "referrals": [
+   {
+    "bureau": "OPCCB",
+    "why": "Organizational structure, senior positions, salary grades, staffing pattern, and the compensation of the Commission under Section 36",
+    "parts": "Part V (Position; Members; Support body; Organizational units)"
+   },
+   {
+    "bureau": "BTB",
+    "why": "Appropriations language, transfer of appropriations of the absorbed offices and inclusion in the General Appropriations Act",
+    "parts": "Part V (Initial and continuing funding)"
+   },
+   {
+    "bureau": "BMB-C",
+    "why": "The Local Water Utilities Administration is abolished and the MWSS and the LLDA are attached to the Department",
+    "parts": "Part V"
+   },
+   {
+    "bureau": "BMB-E",
+    "why": "The MWSS and the LLDA are transferred from the DENR, and the Council's functions may overlap with the DENR's retained authority",
+    "parts": "Parts V and VI"
+   },
+   {
+    "bureau": "BMB-A",
+    "why": "The DPWH's sewerage and septage program is transferred, and its flood control function may overlap with the new bureau",
+    "parts": "Parts V and VI"
+   },
+   {
+    "bureau": "BMB-D",
+    "why": "The bill repeals the LGU rate-fixing power and concerns the DILG",
+    "parts": "Part V"
+   },
+   {
+    "bureau": "BMB-B",
+    "why": "The bill assigns a role to the Department of Health in sanitation matters",
+    "parts": "Part V"
+   },
+   {
+    "bureau": "SPIB",
+    "why": "Rationalization of the absorbed offices and possible duplication with the DPWH and the DENR under RA No. 12231",
+    "parts": "Part VI"
+   },
+   {
+    "bureau": "LS",
+    "why": "Abolition of offices, repeal of provisions of RA No. 6234, PD No. 198, Executive Order No. 22, series of 2023, and the Local Government Code, and the exemption from the Salary Standardization Law",
+    "parts": "Parts V and VI"
+   },
+   {
+    "bureau": "FPRB",
+    "why": "Large fiscal impact of creating a new Department and Commission",
+    "parts": "Part V (Initial and continuing funding)"
+   }
+  ],
+  "memo": {
+   "V": [
+    "5.1 Based on the DBM costing parameters for the creation of a new office, the Department of Water Resources and the Water Regulatory Commission would require about P854.8 million to P3.28 billion in the first year for 552 to 1,896 positions, consisting of Personnel Services of P492.6 million to P2.08 billion, Maintenance and Other Operating Expenses of P218.0 million to P736.1 million, and Capital Outlay of P144.2 million to P461.3 million (one-time). Thereafter, about P710.6 million to P2.81 billion would be needed every year. It may be noted that these are gross figures, part of which would be offset by the funds and appropriations of the offices abolished or transferred under Section 7 (Offices, Functions, and Personnel to be Completely Absorbed by the Department) and Section 8 (Powers and Functions to be Transferred to the Department).",
+    "5.2 As regards Section 50 (Appropriations), the initial requirement may be charged against the available appropriations of the subsumed or transferred agencies in the year of effectivity, with any shortfall included in the succeeding GAA, subject to fiscal space. The continuing requirements may be included in the Department's annual budget proposal under the budget call, subject to fiscal space and the DBM's evaluation.",
+    "5.3 As regards Section 12 (The Offices of the Secretary and Undersecretaries), Section 15 (Composition), Section 22 (Structure and Staffing Pattern) and Section 33 (Secretariat of the Commission), the positions, salary grades, organizational structure and staffing pattern are subject to DBM evaluation under the Compensation and Position Classification System and the organization and staffing standards. In this regard, the Resource Allocation Office and the Commission Secretariat may be staffed primarily from the absorbed units of the National Water Resources Board, the Local Water Utilities Administration and the MWSS Regulatory Office. The compensation of the Commission members may be programmed in line with the recommendation in Part IV.",
+    "5.4 As regards Section 23 (Socialized Credit Program), the bill states no amount or funding source; it may be considered to specify the source, including the existing lending resources of the absorbed offices. As regards Section 48 (Absorption or Separation from Service of Employees of the Subrogated Agencies), the separation and retirement benefits may be charged against the available appropriations of the abolished or transferred agencies or the applicable fund in the GAA, subject to existing rules."
+   ],
+   "VI": [
+    "6.1 It may be noted that the bill abolishes the National Water Resources Board and the Local Water Utilities Administration and transfers the sewerage and septage program of the DPWH, which is consistent with the objectives of the Government Optimization Act (RA No. 12231). However, it does not transfer the flood control function of the DPWH, while Section 20 (Bureaus and Services) creates a Bureau of Flood Control and Drainage that would plan and design flood control structures.",
+    "6.2 Likewise, Section 26 (Creation of the National Water Sector Policy Council) extends the Council's functions to land, air and other natural resources, while the bill preserves the DENR's primary authority over the environment and watersheds.",
+    "6.3 In this regard, in view of RA No. 12231, signed on August 4, 2025, which authorizes the merger or consolidation of agencies whose functions are unnecessarily overlapping or duplicating (Section 6), the bill may be revisited to delineate the flood control functions of the Department and the DPWH, or to transfer the function, and to limit the Council's scope to water resources."
+   ],
+   "VII": [
+    "7.1 This Department interposes no objection to the proposed measure, subject to the incorporation of the recommendations.",
+    "7.2 In particular, the following should be addressed: (a) the compensation of the Water Regulatory Commission, as discussed in Part IV; (b) the funding of the Department net of the absorbed offices, the funding source of the socialized credit program and the separation benefits, as discussed in Part V; and (c) the delineation of flood control functions with the DPWH and of the Council's scope vis-a-vis the DENR, as discussed in Part VI."
+   ]
+  },
+  "reviewer_checks": [
+   "Obtain the current appropriations of the National Water Resources Board, the Local Water Utilities Administration and the transferred units to determine the net additional requirement.",
+   "Confirm whether the COST ENGINE staffing range is appropriate given the personnel to be absorbed.",
+   "Verify the funding source and amount of the socialized credit program under Section 23.",
+   "Estimate the number of personnel who may opt for separation under Section 48.",
+   "Confirm with the DPWH the extent of its flood control functions not transferred by the bill.",
+   "Verify the role assigned to the Department of Health in the bill."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "figures and lists",
+   "section": "",
+   "quote": "",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (ApprAIsal run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T00:21:24+00:00"
+ }
+}
