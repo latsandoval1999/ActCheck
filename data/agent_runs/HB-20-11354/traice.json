@@ -1,0 +1,245 @@
+{
+ "output": {
+  "target": "HB-20-11354",
+  "entity_proposed": "",
+  "proposal": "HB No. 11354 seeks to amend Section 58 of RA No. 8551 to require the Philippine National Police (PNP) to reserve not less than 15 percent of its annual recruitment, training and education quota for women during the first five years of the law's effectivity, and not less than 20 percent from the sixth year onward, in order to increase the participation and representation of women in the police service. It also provides for compliance measures, monitoring and reporting by the PNP and the National Police Commission (NAPOLCOM), and gender-responsive recruitment and career development programs.",
+  "alignment": "Although classified under government organization and mandates, the measure does not create a new body; it amends the women's recruitment provision of RA No. 8551 and assigns implementing, monitoring and reporting functions to the existing PNP and NAPOLCOM. The review should therefore examine whether the monitoring system under Section 3 (Monitoring and Reporting) and the programs under Section 5 (Gender-Responsive Recruitment and Career) duplicate existing PNP and NAPOLCOM functions, including the gender sensitivity program already provided under RA No. 8551, consistent with the intent to reduce overlapping functions under the Government Optimization Act (RA No. 12231). The measure may be considered under the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, although its link to that area's focus on education, the Universal Health Care system and social protection is indirect and should be assessed. No LEDAC Common Legislative Agenda priority has been identified for the measure.",
+  "legislative_history": [
+   "HB No. 11354 was filed on September 16, 2026 by Representative Eric L. Olivarez in the 20th Congress; its status is filed, and later stages are not yet reflected in the available records.",
+   "Measures with titles on increasing the recruitment quota for women in the PNP by amending Section 58 of RA No. 8551 were filed in the 18th Congress (HB Nos. 3290, 3851, 4747 and 6358; SB Nos. 1148 and 1562) and in the 19th Congress (HB Nos. 1005, 8149 and 8369; SB No. 1466); their texts have not been reviewed.",
+   "In the 18th Congress, SB No. 1148 was consolidated or substituted in a committee report, and SB No. 1562 reached the stage of pending second reading (special order); the 19th Congress measures remained pending in committee.",
+   "HB No. 5740 (19th Congress) and HB No. 2982 (20th Congress) propose an increase in the PNP female recruitment quota together with minimum quotas for the Bureau of Fire Protection and the Bureau of Jail Management and Penology; HB No. 2982 is pending in committee in the current Congress.",
+   "No counterpart Senate bill in the 20th Congress has been identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-2982",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; a 20th Congress House bill on the same subject that also sets female recruitment quotas for the BFP and BJMP.",
+    "section": "meta:HB-20-2982",
+    "quote": "AN ACT INCREASING THE ANNUAL FEMALE RECRUITMENT QUOTA FOR THE PHILIPPINE NATIONAL POLICE AMENDING SECTION 58 OF REPUBLIC ACT 8551"
+   },
+   {
+    "id": "HB-19-1005",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; 19th Congress bill increasing the female PNP recruitment quota under Section 58 of RA No. 8551.",
+    "section": "meta:HB-19-1005",
+    "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS, AMENDING SECTION 58 OF REPUBLIC ACT 8551"
+   },
+   {
+    "id": "HB-19-8149",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; 19th Congress bill increasing the female PNP recruitment quota under Section 58 of RA No. 8551.",
+    "section": "meta:HB-19-8149",
+    "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS, AMENDING SECTION 58 OF REPUBLIC ACT NO. 8551"
+   },
+   {
+    "id": "HB-19-8369",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; 19th Congress bill increasing the female PNP recruitment quota with an appropriation.",
+    "section": "meta:HB-19-8369",
+    "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS, AMENDING SECTION 58 OF REPUBLIC ACT NO. 8551, APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "SB-19-1466",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; 19th Congress Senate bill increasing the female PNP recruitment quota with an appropriation.",
+    "section": "meta:SB-19-1466",
+    "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS, AMENDING SECTION 58 OF REPUBLIC ACT NO. 8551"
+   },
+   {
+    "id": "HB-19-5740",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; 19th Congress bill that also sets female recruitment quotas for the BFP and BJMP.",
+    "section": "meta:HB-19-5740",
+    "quote": "SETTING A MINIMUM QUOTA FOR ANNUAL FEMALE RECRUITMENT IN THE BUREAU OF FIRE PROTECTION AND THE BUREAU OF JAIL MANAGEMENT AND PENOLOGY"
+   },
+   {
+    "id": "SB-18-1562",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; 18th Congress Senate bill increasing the female PNP recruitment quota with an appropriation.",
+    "section": "meta:SB-18-1562",
+    "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS, AMENDING SECTION 58 OF REPUBLIC ACT NO. 8551"
+   },
+   {
+    "id": "SB-18-1148",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; 18th Congress Senate bill amending Section 58 of RA No. 8551 with an appropriation.",
+    "section": "meta:SB-18-1148",
+    "quote": "AN ACT AMENDING SECTION 58 OF REPUBLIC ACT NO. 8551"
+   },
+   {
+    "id": "HB-18-3290",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; 18th Congress House bill amending Section 58 of RA No. 8551 with an appropriation.",
+    "section": "meta:HB-18-3290",
+    "quote": "AN ACT AMENDING SECTION 58 OF REPUBLIC ACT NO. 8551"
+   },
+   {
+    "id": "HB-18-3851",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; 18th Congress bill increasing the female PNP recruitment quota under Section 58 of RA No. 8551.",
+    "section": "meta:HB-18-3851",
+    "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS, AMENDING SECTION 58 OF REPUBLIC ACT 8551"
+   },
+   {
+    "id": "HB-18-4747",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; 18th Congress bill increasing the female PNP recruitment quota with an appropriation.",
+    "section": "meta:HB-18-4747",
+    "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PNP OFFICERS, AMENDING SECTION 58 OF REPUBLIC ACT 8551"
+   },
+   {
+    "id": "HB-18-6358",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; 18th Congress bill increasing the female PNP recruitment quota under Section 58 of RA No. 8551.",
+    "section": "meta:HB-18-6358",
+    "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS, AMENDING FOR THE PURPOSE SECTION 58 OF REPUBLIC ACT 8551"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-8551",
+    "label": "Amends or repeals",
+    "overlap": "Section 1 (Amendment of Section 58 of Republic Act No. 8551) replaces Section 58 of RA No. 8551 on the prioritization of women for recruitment.",
+    "section": "HB-20-11354:s1",
+    "quote": "Section 58 of Republic Act No. 8551, otherwise known as the “Philippine National Police Reform and Reorganization Act of 1998,” is hereby amended to read as follows"
+   },
+   {
+    "law": "RA-8551",
+    "label": "Overlapping functions",
+    "overlap": "Section 5 (Gender-Responsive Recruitment and Career) adds women's career programs alongside the gender sensitivity program already provided under RA No. 8551.",
+    "section": "HB-20-11354:s5",
+    "quote": "without prejudice to the gender sensitivity program and other protections provided under Republic Act No. 8551, as amended."
+   }
+  ],
+  "salient_features": "HB No. 11354 seeks to increase the share of the PNP's annual recruitment, training and education quota reserved for women by amending Section 58 of RA No. 8551, and to provide for compliance, monitoring and reporting on that quota. Its salient features are as follows:\na. Section 1 (Amendment of Section 58 of Republic Act No. 8551) provides that the PNP shall prioritize the recruitment and training of qualified women, reserve not less than 15 percent of its annual recruitment, training and education quota for women during the first five years from effectivity and not less than 20 percent from the sixth year onward, consider qualified women within the reserved quota subject to existing qualification and merit requirements, and give women recruits appropriate assignment opportunities, including women's desks, without prejudice to their career advancement.\nb. Section 2 (Compliance with the Women's Quota) provides that the PNP shall ensure the effective utilization of the reserved quota, computed on the total annual quota authorized for the applicable cycle as prescribed by NAPOLCOM, incorporate it in recruitment and manpower planning, and that qualification and merit requirements shall not be lowered.\nc. Section 3 (Monitoring and Reporting) provides that NAPOLCOM, in coordination with the PNP, shall establish a compliance monitoring system, and that the PNP shall submit an annual report to NAPOLCOM and Congress on applicants, appointees and trainees, the filled and unfilled portions of the reserved quota, and recruitment measures undertaken.\nd. Section 4 (Implementing Rules and Regulations) provides that NAPOLCOM, in coordination with the PNP, shall issue the implementing rules within 90 days from effectivity, covering, among others, quota computation, recruitment and training procedures, monitoring, and measures for addressing unfilled quota.\ne. Section 5 (Gender-Responsive Recruitment and Career) provides that the PNP and NAPOLCOM shall strengthen programs for the recruitment, training, professional development and career advancement of women, promoting equal opportunity and a safe and non-discriminatory workplace, without prejudice to the existing gender sensitivity program under RA No. 8551.\nf. Section 6 (Appropriations) provides that the amount needed for implementation shall be included in the appropriations of the PNP and NAPOLCOM in the annual General Appropriations Act, and that funds for continued implementation shall likewise be included in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 11354 may be considered alongside HB No. 2982 in the 20th Congress, which likewise proposes to increase the PNP female recruitment quota while also setting quotas for the Bureau of Fire Protection and the Bureau of Jail Management and Penology, and alongside similar measures filed in the 18th and 19th Congresses, including SB No. 1562 (18th Congress), which was pending second reading as a special order. The measure may be considered under the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, while no LEDAC Common Legislative Agenda priority has been identified for it. The review should assess the change from the existing quota under Section 58 of RA No. 8551 to the proposed rates under Section 1 (Amendment of Section 58 of Republic Act No. 8551), whether the reserved quota implies additional positions or training slots beyond the PNP's authorized annual recruitment, the cost of the monitoring and reporting system under Section 3 (Monitoring and Reporting) and the programs under Section 5 (Gender-Responsive Recruitment and Career), and possible overlap with the gender sensitivity program already provided under RA No. 8551.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "No amount stated; to be included in the appropriations of the PNP and NAPOLCOM in the annual General Appropriations Act",
+    "section": "Section 6 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Funds for continued implementation to be included in the annual General Appropriations Act",
+    "section": "Section 6 (Appropriations)"
+   },
+   {
+    "item": "Recruitment and training",
+    "detail": "Reserved quota of not less than 15 percent (first five years) and not less than 20 percent (sixth year onward) of the annual recruitment, training and education quota; computed within the authorized total quota, with no new positions specified",
+    "section": "Section 1 (Amendment of Section 58 of Republic Act No. 8551)"
+   },
+   {
+    "item": "Monitoring system",
+    "detail": "Compliance monitoring system by NAPOLCOM and annual PNP reporting to NAPOLCOM and Congress",
+    "section": "Section 3 (Monitoring and Reporting)"
+   },
+   {
+    "item": "Programs",
+    "detail": "Strengthened recruitment, training and career development programs for women in the PNP",
+    "section": "Section 5 (Gender-Responsive Recruitment and Career)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the current women's recruitment quota under Section 58 of RA No. 8551 to establish the size of the proposed increase.",
+   "Verify whether the reserved quota is to be met within the PNP's existing authorized recruitment and training slots or would require additional positions and training capacity.",
+   "Check the full text of the amended Section 58 in Section 1, as the closing portion of the amended provision should be confirmed against the official copy of the bill.",
+   "Note the stray closing quotation mark at the end of the bill title and the difference between the heading of Section 5 and the title used in its text (\"Career Development\").",
+   "Confirm with the House the status of HB No. 2982 and whether a Senate counterpart has been filed in the 20th Congress."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed; a 20th Congress House bill on the same subject that also sets female recruitment quotas for the BFP and BJMP.",
+   "section": "meta:HB-20-2982",
+   "quote": "AN ACT INCREASING THE ANNUAL FEMALE RECRUITMENT QUOTA FOR THE PHILIPPINE NATIONAL POLICE AMENDING SECTION 58 OF REPUBLIC ACT 8551",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; 19th Congress bill increasing the female PNP recruitment quota under Section 58 of RA No. 8551.",
+   "section": "meta:HB-19-1005",
+   "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS, AMENDING SECTION 58 OF REPUBLIC ACT 8551",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; 19th Congress bill increasing the female PNP recruitment quota under Section 58 of RA No. 8551.",
+   "section": "meta:HB-19-8149",
+   "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS, AMENDING SECTION 58 OF REPUBLIC ACT NO. 8551",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; 19th Congress bill increasing the female PNP recruitment quota with an appropriation.",
+   "section": "meta:HB-19-8369",
+   "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS, AMENDING SECTION 58 OF REPUBLIC ACT NO. 8551, APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; 19th Congress Senate bill increasing the female PNP recruitment quota with an appropriation.",
+   "section": "meta:SB-19-1466",
+   "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS, AMENDING SECTION 58 OF REPUBLIC ACT NO. 8551",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; 19th Congress bill that also sets female recruitment quotas for the BFP and BJMP.",
+   "section": "meta:HB-19-5740",
+   "quote": "SETTING A MINIMUM QUOTA FOR ANNUAL FEMALE RECRUITMENT IN THE BUREAU OF FIRE PROTECTION AND THE BUREAU OF JAIL MANAGEMENT AND PENOLOGY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; 18th Congress Senate bill increasing the female PNP recruitment quota with an appropriation.",
+   "section": "meta:SB-18-1562",
+   "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS, AMENDING SECTION 58 OF REPUBLIC ACT NO. 8551",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; 18th Congress Senate bill amending Section 58 of RA No. 8551 with an appropriation.",
+   "section": "meta:SB-18-1148",
+   "quote": "AN ACT AMENDING SECTION 58 OF REPUBLIC ACT NO. 8551",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; 18th Congress House bill amending Section 58 of RA No. 8551 with an appropriation.",
+   "section": "meta:HB-18-3290",
+   "quote": "AN ACT AMENDING SECTION 58 OF REPUBLIC ACT NO. 8551",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; 18th Congress bill increasing the female PNP recruitment quota under Section 58 of RA No. 8551.",
+   "section": "meta:HB-18-3851",
+   "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS, AMENDING SECTION 58 OF REPUBLIC ACT 8551",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; 18th Congress bill increasing the female PNP recruitment quota with an appropriation.",
+   "section": "meta:HB-18-4747",
+   "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PNP OFFICERS, AMENDING SECTION 58 OF REPUBLIC ACT 8551",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; 18th Congress bill increasing the female PNP recruitment quota under Section 58 of RA No. 8551.",
+   "section": "meta:HB-18-6358",
+   "quote": "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS, AMENDING FOR THE PURPOSE SECTION 58 OF REPUBLIC ACT 8551",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 1 (Amendment of Section 58 of Republic Act No. 8551) replaces Section 58 of RA No. 8551 on the prioritization of women for recruitment.",
+   "section": "HB-20-11354:s1",
+   "quote": "Section 58 of Republic Act No. 8551, otherwise known as the “Philippine National Police Reform and Reorganization Act of 1998,” is hereby amended to read as follows",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 5 (Gender-Responsive Recruitment and Career) adds women's career programs alongside the gender sensitivity program already provided under RA No. 8551.",
+   "section": "HB-20-11354:s5",
+   "quote": "without prejudice to the gender sensitivity program and other protections provided under Republic Act No. 8551, as amended.",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T10:09:23+00:00"
+ }
+}
