@@ -1,0 +1,142 @@
+{
+ "output": {
+  "target": "HB-20-9425",
+  "fiscal_rows": [
+   {
+    "item": "Initial funding",
+    "provision": "Section 15 (Appropriations)",
+    "existing": "Charged against the current year's appropriations of the departments/agencies concerned; no amount stated",
+    "consideration": "No amount is stated in the bill. The MIND Council is an inter-agency body without its own office or positions, so the cost engine's new-office estimate (P29.3 million to P95.4 million in the first year) is not applied; the initial requirement would mainly consist of meeting and Secretariat support costs of the member agencies, chiefly DEPDev.",
+    "recommendation": "The initial requirement may be charged against the available appropriations of the member agencies, chiefly DEPDev as Secretariat, in the year of effectivity; any shortfall may be considered for inclusion in the succeeding GAA, subject to fiscal space.",
+    "risks": "Charging an unquantified requirement to unnamed agencies may delay the Council's operations or crowd out existing programs."
+   },
+   {
+    "item": "Continuing funding",
+    "provision": "Section 15 (Appropriations)",
+    "existing": "Such sums as may be necessary, included in the annual General Appropriations Act",
+    "consideration": "Continuing requirements may be included in the regular budget proposal of DEPDev as Secretariat and of the member agencies; the engine's recurring new-office figure (P25.3 million to P85.7 million a year) does not apply as no office or positions are created.",
+    "recommendation": "Continuing requirements may be included in the annual budget proposals of the agencies concerned through the regular budget preparation process, subject to fiscal space and evaluation.",
+    "risks": "The open-ended amount competes with other priorities within the expenditure ceilings of the Budget Priorities Framework."
+   },
+   {
+    "item": "Members",
+    "provision": "Section 9 (Composition of the MIND Council)",
+    "existing": "Council chaired by the President with the DEPDev Secretary, twelve other department secretaries, LGU League presidents and four industry stakeholders; no compensation or allowances stated",
+    "consideration": "No compensation or allowances are provided; expenses for meetings and travel may be borne by the respective member agencies.",
+    "recommendation": "The bill may provide that members serve without additional compensation and that allowable expenses be limited to actual meeting and travel costs, subject to existing rules.",
+    "risks": "Unspecified allowances for non-government members may add to MOOE requirements."
+   },
+   {
+    "item": "Support body",
+    "provision": "Section 11 (Secretariat to the MIND Council)",
+    "existing": "DEPDev as Secretariat providing administrative, operational and technical support; no new positions stated",
+    "consideration": "No new positions are created; Secretariat, formulation, updating and monitoring work may be absorbed by existing DEPDev personnel. Should additional positions be proposed, the engine's new-office estimate for 15 to 60 positions may serve only as a gross reference, subject to review.",
+    "recommendation": "Any additional staffing requirement of DEPDev should be supported by a proposed organizational structure and staffing pattern submitted for review, subject to existing rules.",
+    "risks": "The added Secretariat and monitoring workload may lead to requests for new positions not provided for in the bill."
+   },
+   {
+    "item": "Support body",
+    "provision": "Section 10 (Powers and Functions of the MIND Council)",
+    "existing": "Optional consultative and advisory committee of experts",
+    "consideration": "No amount or terms of engagement are stated; meeting and honoraria expenses, if any, may be charged to the Secretariat's MOOE.",
+    "recommendation": "Members of the committee may serve without additional positions, with honoraria, if any, subject to existing rules.",
+    "risks": "Unspecified terms of engagement of experts may add consultancy costs."
+   },
+   {
+    "item": "Support body",
+    "provision": "Section 14 (Joint Congressional Oversight Committee (JCOC))",
+    "existing": "JCOC Secretariat drawn from existing Senate and House committee personnel",
+    "consideration": "No executive cost arises, as the JCOC Secretariat is drawn from existing personnel of Congress.",
+    "recommendation": "Requirements of the JCOC may be covered by the existing appropriations of the Senate and the House of Representatives.",
+    "risks": "None significant for the Executive budget."
+   }
+  ],
+  "duplications": [
+   {
+    "function": "Section 10 (Powers and Functions of the MIND Council): formulation of the CIDMP",
+    "existing": "DEPDev, responsible for the formulation of the detailed CIDMP under Section 11 (Secretariat to the MIND Council)",
+    "note": "The Council's power to formulate the CIDMP overlaps with DEPDev's responsibility for formulating the detailed CIDMP.",
+    "intent_to_abolish": false,
+    "assessment": "The bill does not change, merge, transfer or abolish any existing function; the overlap may be resolved by delineating the Council's role, consistent with Section 6 of RA No. 12231."
+   },
+   {
+    "function": "Section 10 (Powers and Functions of the MIND Council): monitoring of CIDMP projects",
+    "existing": "DEPDev, responsible for the update and regular monitoring and evaluation of the CIDMP under Section 11 (Secretariat to the MIND Council)",
+    "note": "The Council's mandate to establish monitoring mechanisms overlaps with DEPDev's regular monitoring and evaluation of the CIDMP.",
+    "intent_to_abolish": false,
+    "assessment": "The bill does not provide for the transfer or abolition of the overlapping function; monitoring may be vested in DEPDev alone, consistent with Section 6 of RA No. 12231."
+   }
+  ],
+  "intent_to_abolish": false,
+  "recommendation": {
+   "option": "b",
+   "label": "This Department interposes no objection to the proposed measure, subject to the incorporation of the recommendations.",
+   "issues": [
+    "Limit the MIND Council to approval and policy direction; vest formulation, updating and monitoring in DEPDev",
+    "Leaner Council membership, with LGU Leagues and industry stakeholders in the advisory committee",
+    "Revise Section 8 on mainstreaming the CIDMP in budget documents",
+    "DEPDev to draft the IRR; count the period from effectivity",
+    "Clarify funding sources and amounts under Section 15"
+   ]
+  },
+  "referrals": [
+   {
+    "bureau": "BTB",
+    "why": "Appropriations language of Section 15 and the mainstreaming of the CIDMP in the National Expenditure Program and the General Appropriations Act under Section 8",
+    "parts": "Part IV (4.4) and Part V (5.2, 5.3)"
+   },
+   {
+    "bureau": "BMB-C",
+    "why": "Coverage agency matched in the bill (Government-owned or -controlled corporations with budgetary support); to verify the budgetary implications for the agencies concerned",
+    "parts": "Part V"
+   },
+   {
+    "bureau": "OPCCB",
+    "why": "Any additional staffing proposed for DEPDev as Secretariat",
+    "parts": "Part V (5.4)"
+   },
+   {
+    "bureau": "SPIB",
+    "why": "Overlap between the MIND Council and DEPDev functions, to be assessed under RA No. 12231",
+    "parts": "Part VI"
+   }
+  ],
+  "memo": {
+   "V": [
+    "5.1 It may be noted that the MIND Council under Section 8 (Masterplan for Infrastructure and National Development (MIND) Council) is an inter-agency body without its own office or positions, with DEPDev serving as Secretariat under Section 11 (Secretariat to the MIND Council). In this regard, the costing parameters for the creation of a new office, which would yield about P29.3 million to P95.4 million in the first year, do not apply to the bill as filed, and the requirements would mainly consist of meeting and Secretariat support costs of the member agencies.",
+    "5.2 As regards initial funding under Section 15 (Appropriations), which charges the requirement to the current year's appropriations of the departments/agencies concerned without naming them or stating an amount, the bill may specify DEPDev and the member agencies as the agencies concerned. The initial requirement may be charged against their available appropriations in the year of effectivity; any shortfall may be considered for inclusion in the succeeding GAA, subject to fiscal space.",
+    "5.3 As regards continuing funding, the requirements may be included in the annual budget proposals of the agencies concerned through the regular budget preparation process, subject to fiscal space and evaluation.",
+    "5.4 As regards the Secretariat, the bill does not create new positions. Should DEPDev require additional personnel for the formulation, updating and monitoring of the CIDMP, the proposed organizational structure and staffing pattern should be submitted for review, subject to existing rules; the new-office estimate for 15 to 60 positions may serve only as a gross reference in that case.",
+    "5.5 As regards the members of the Council under Section 9 (Composition of the MIND Council) and the consultative and advisory committee under Section 10 (Powers and Functions of the MIND Council), the bill may provide that members serve without additional compensation and that honoraria and meeting expenses, if any, be subject to existing rules. The JCOC under Section 14 (Joint Congressional Oversight Committee (JCOC)) draws on existing personnel of Congress and has no Executive budget implication."
+   ],
+   "VI": [
+    "6.1 As discussed in Part IV, the formulation and monitoring functions assigned to the MIND Council under Section 10 (Powers and Functions of the MIND Council) overlap with those assigned to DEPDev under Section 11 (Secretariat to the MIND Council). The bill does not provide for the change, merger, transfer or abolition of either function.",
+    "6.2 In view of the Government Optimization Act (RA No. 12231), signed on August 4, 2025, which authorizes the merger or consolidation of agencies whose functions are unnecessarily overlapping or duplicating (Section 6), the functions of the two bodies may be delineated by vesting formulation, updating and monitoring in DEPDev and limiting the Council to approval and policy direction, consistent with the recommendation in Part IV."
+   ],
+   "VII": [
+    "7.1 This Department interposes no objection to the proposed measure, subject to the incorporation of the recommendations.",
+    "7.2 In particular, the following may be addressed: (a) delineation of the functions of the MIND Council and DEPDev, in line with RA No. 12231; (b) a leaner Council membership; (c) revision of the provision on mainstreaming the CIDMP in budget documents; (d) drafting of the implementing rules by DEPDev, counted from effectivity; and (e) specification of the agencies concerned and the funding arrangements under Section 15 (Appropriations)."
+   ]
+  },
+  "reviewer_checks": [
+   "Confirm that the bill creates no office or positions, so the new-office estimate is properly excluded",
+   "Verify the basis of the BMB-C coverage match, as no GOCC role is evident in the funding sections",
+   "Confirm whether DEPDev can absorb the Secretariat workload with existing personnel",
+   "Check the full text for any allowances for non-government members"
+  ]
+ },
+ "checks": [
+  {
+   "claim": "figures and lists",
+   "section": "",
+   "quote": "",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (ApprAIsal run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-18T10:15:23+00:00"
+ }
+}
