@@ -1,0 +1,166 @@
+{
+ "output": {
+  "target": "HB-20-11795",
+  "fiscal_rows": [
+   {
+    "item": "Initial funding",
+    "provision": "Section 15 (Funding)",
+    "existing": "The initial amount necessary, with no amount stated, to be included in the appropriations of the DOE and other implementing agencies in the annual GAA.",
+    "consideration": "No amount is stated in the bill, and the COST ENGINE does not estimate fleet replacement or charging infrastructure; the requirement depends on the fleet inventory and electrification plans under Section 5 (Government Fleet Inventory and Electrification Plan).",
+    "recommendation": "The initial requirement, including a pilot phase, may be charged against the available appropriations of the DOE and the concerned agencies in the year of effectivity; otherwise it may be included in the succeeding GAA, subject to fiscal space.",
+    "risks": "An unstated amount for a ten-year transition may lead to unfunded targets or crowd out other priorities."
+   },
+   {
+    "item": "Continuing funding and agency budgets",
+    "provision": "Section 15 (Funding)",
+    "existing": "Such sums as may be necessary in the annual GAA; covered entities to include vehicle acquisition, charging infrastructure, maintenance and training in their budget proposals.",
+    "consideration": "No amount is stated; costs would be borne by each covered entity based on its electrification plan.",
+    "recommendation": "Vehicle replacement may be undertaken within the regular vehicle budgets of covered entities, consistent with the budgetary guidelines under Section 8 (Financial and Institutional Support), subject to fiscal space and the DBM's evaluation.",
+    "risks": "Higher upfront acquisition costs may exceed regular vehicle budgets before fuel savings are realized."
+   },
+   {
+    "item": "Charging infrastructure",
+    "provision": "Section 7 (Government Charging Infrastructure)",
+    "existing": "Installation and retrofitting of charging stations in government facilities, including through private partnerships.",
+    "consideration": "No amount is stated.",
+    "recommendation": "Requirements may be included in the capital outlay proposals of the facility owners and sourced, where feasible, from PPPs, grants and climate financing.",
+    "risks": "Charging capacity may lag vehicle acquisition and leave units underused."
+   },
+   {
+    "item": "Financing mechanisms",
+    "provision": "Section 8 (Financial and Institutional Support)",
+    "existing": "DBP and LBP loans, lease-to-own schemes and credit facilities for government entities.",
+    "consideration": "No amount is stated; any repayment or interest support is not specified.",
+    "recommendation": "GFI financing may be limited to LGUs and GOCCs and made subject to applicable banking, credit and government financial regulations, with national government agencies relying on the GAA.",
+    "risks": "Loans or lease obligations of agencies may create future budget commitments outside the regular appropriations process."
+   },
+   {
+    "item": "Support body (Council)",
+    "provision": "Section 13 (Inter-Agency Coordinating Council)",
+    "existing": "Inter-agency council of government agencies, GFIs, LGU leagues and industry representatives; no secretariat or staffing specified.",
+    "consideration": "If a new office is created, the COST ENGINE estimates P46.1 million to P231.8 million in the first year for 30 to 150 positions (PS P28.2 million to P154.7 million; MOOE P13.0 million to P55.8 million; CO P4.9 million to P21.4 million, one-time), and P41.2 million to P210.5 million a year thereafter.",
+    "recommendation": "Coordination may be lodged in existing interagency mechanisms with secretariat support from the DOE, charged against its available appropriations; any new structure and staffing pattern should be submitted to the DBM for review.",
+    "risks": "A new council duplicating DOE functions adds recurring costs not provided in the bill."
+   }
+  ],
+  "duplications": [
+   {
+    "function": "Section 13 (Inter-Agency Coordinating Council)",
+    "existing": "Interagency mechanisms established under RA No. 11697 (Electric Vehicle Industry Development Act), as referenced in HB No. 11568",
+    "note": "A new council to coordinate electric vehicle policy for government fleets may overlap with existing EVIDA interagency mechanisms.",
+    "section": "HB-20-11795:s13",
+    "quote": "There is hereby created a Government Fleet Modernization Council, hereinafter referred to as the Council, which shall be chaired by the DOE.",
+    "intent_to_abolish": false,
+    "assessment": "The bill adds a council without changing, merging or abolishing the existing mechanisms; under RA No. 12231, government fleet matters may instead be lodged with the existing mechanisms."
+   },
+   {
+    "function": "Section 13 (Inter-Agency Coordinating Council)",
+    "existing": "DOE and DBM, which the bill itself tasks under Sections 5, 6 and 14 with consolidating plans, setting annual targets and monitoring",
+    "note": "The council's target-setting function repeats the DOE's duty to set annual electrification targets and performance indicators in Section 6.",
+    "section": "HB-20-11795:s13",
+    "quote": "Establish national targets and performance indicators",
+    "intent_to_abolish": false,
+    "assessment": "The bill assigns the same functions to the council and to the DOE and DBM; the functions may be assigned to one body only, consistent with RA No. 12231."
+   }
+  ],
+  "intent_to_abolish": false,
+  "recommendation": {
+   "option": "b",
+   "label": "This Department interposes no objection to the proposed measure, subject to the incorporation of the recommendations.",
+   "issues": [
+    "Pilot phase before binding annual targets",
+    "Vehicle replacement within regular budgets; allow grants, climate financing and PPPs",
+    "Limit GFI financing to LGUs and GOCCs under applicable regulations",
+    "Lodge coordination in existing mechanisms instead of a new council",
+    "Differentiated LGU coverage with technical assistance",
+    "Technology-neutral procurement within existing procurement laws",
+    "Priority retraining of affected drivers and mechanics",
+    "Mid-term and final evaluations"
+   ]
+  },
+  "referrals": [
+   {
+    "bureau": "BMB-E",
+    "why": "The bill charges the initial funding to the DOE budget and assigns battery and waste disposal guidelines to the DENR",
+    "parts": "Part V (Initial funding; Support body)"
+   },
+   {
+    "bureau": "BMB-A",
+    "why": "The DPWH and DOTr share responsibility for charging infrastructure in government facilities",
+    "parts": "Part V (Charging infrastructure)"
+   },
+   {
+    "bureau": "BMB-C",
+    "why": "Financing mechanisms of the DBP and LBP and the budgetary guidelines the DBM must issue",
+    "parts": "Part V (Financing mechanisms; Continuing funding)"
+   },
+   {
+    "bureau": "BTB",
+    "why": "Budgetary guidelines for electrification requirements under Section 8 and appropriations language under Section 15",
+    "parts": "Part V (Initial and continuing funding)"
+   },
+   {
+    "bureau": "LGRCB",
+    "why": "LGU coverage, budget proposals and GFI credit facilities for LGUs",
+    "parts": "Part V (Financing mechanisms)"
+   },
+   {
+    "bureau": "FPRB",
+    "why": "Potentially large multi-year cost of fleet replacement and borrowing implications of GFI financing",
+    "parts": "Part V"
+   },
+   {
+    "bureau": "OPCCB",
+    "why": "Any organizational structure and staffing of a Council secretariat",
+    "parts": "Part V (Support body)"
+   },
+   {
+    "bureau": "SPIB",
+    "why": "Overlap of the Council with existing interagency mechanisms and with DOE and DBM functions under RA No. 12231",
+    "parts": "Part VI"
+   }
+  ],
+  "memo": {
+   "V": [
+    "5.1 As regards the initial and continuing funding under Section 15 (Funding), it may be noted that no amount is stated and that the total cost of the ten-year transition cannot be determined until the fleet inventories and electrification plans under Section 5 (Government Fleet Inventory and Electrification Plan) are completed. In this regard, the initial requirement, including the pilot phase discussed in Part IV, may be charged against the available appropriations of the DOE and the concerned agencies in the year of effectivity, and succeeding requirements may be included in the annual budget proposals of covered entities, within their regular vehicle budgets, subject to fiscal space and the DBM's evaluation.",
+    "5.2 As regards Section 7 (Government Charging Infrastructure), the requirements may be included in the capital outlay proposals of the agencies owning the facilities and sourced, where feasible, from the alternative sources discussed in Part IV.",
+    "5.3 As regards Section 8 (Financial and Institutional Support), it may be noted that loans and lease-to-own schemes would create future budget commitments for repayment. Such financing may be focused on LGUs and GOCCs, as discussed in Part IV, while national government agencies rely on the GAA. The budgetary guidelines to be issued by the DBM may cover the treatment of such obligations.",
+    "5.4 As regards the support body under Section 13 (Inter-Agency Coordinating Council), the bill does not provide for a secretariat. Should a new office be created, the creation would require about P46.1 million to P231.8 million in its first year, consisting of Personnel Services of P28.2 million to P154.7 million, Maintenance and Other Operating Expenses of P13.0 million to P55.8 million, and Capital Outlay of P4.9 million to P21.4 million (one-time), for 30 to 150 positions, and about P41.2 million to P210.5 million every year thereafter. In this regard, secretariat support by the DOE, charged against its available appropriations, may be considered."
+   ],
+   "VI": [
+    "6.1 Section 13 (Inter-Agency Coordinating Council) creates a council whose coordination function may overlap with the interagency mechanisms under RA No. 11697, and whose functions of consolidating plans, setting targets and monitoring are already assigned by the bill to the DOE and DBM under Sections 5, 6 and 14. The bill does not intend to change, merge, transfer or abolish any existing body. In light of the Government Optimization Act (RA No. 12231), signed on August 4, 2025, which authorizes the merger or consolidation of agencies whose functions are unnecessarily overlapping or duplicating (Section 6), the creation of the council may be reconsidered, and coordination on government fleet matters lodged in the existing mechanisms, as discussed in Part IV."
+   ],
+   "VII": [
+    "7.1 This Department interposes no objection to the proposed measure, subject to the incorporation of the recommendations.",
+    "7.2 In particular: (a) a pilot phase may precede binding annual targets under Section 6 (Phased Electrification and Modernization); (b) vehicle replacement may be undertaken within the regular budgets of covered entities, with grants, climate financing and PPPs expressly allowed under Section 15 (Funding); (c) GFI financing may be limited to LGUs and GOCCs under applicable regulations; (d) coordination may be lodged in existing interagency mechanisms in lieu of a new council; and (e) the recommendations in Part IV on LGU coverage, procurement safeguards, retraining of affected personnel and mid-term and final evaluations may be incorporated."
+   ]
+  },
+  "reviewer_checks": [
+   "Confirm that the COST ENGINE estimate (new office) applies, since the bill creates a council but no secretariat.",
+   "Assess the potential multi-year cost of fleet replacement and charging infrastructure once inventory data are available.",
+   "Verify the existing interagency mechanisms under RA No. 11697 cited from HB No. 11568.",
+   "Check the borrowing and debt implications of GFI financing for LGUs and GOCCs.",
+   "Confirm the BMB coverage of the DOE, DENR, DPWH, DOTr, DBP and LBP."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "A new council to coordinate electric vehicle policy for government fleets may overlap with existing EVIDA interagency mechanisms.",
+   "section": "HB-20-11795:s13",
+   "quote": "There is hereby created a Government Fleet Modernization Council, hereinafter referred to as the Council, which shall be chaired by the DOE.",
+   "check": "verified"
+  },
+  {
+   "claim": "The council's target-setting function repeats the DOE's duty to set annual electrification targets and performance indicators in Section 6.",
+   "section": "HB-20-11795:s13",
+   "quote": "Establish national targets and performance indicators",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (ApprAIsal run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-18T00:20:33+00:00"
+ }
+}
