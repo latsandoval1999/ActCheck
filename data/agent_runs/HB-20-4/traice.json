@@ -1,0 +1,295 @@
+{
+ "output": {
+  "target": "HB-20-4",
+  "entity_proposed": "Bureau of Private Education (BPE)",
+  "proposal": "HB No. 4 seeks to establish a private basic education voucher program covering all years of basic education, create a Bureau of Private Education under the DepEd, and repeal specified sections of RA No. 8545. It aims to augment the resources and enhance the quality of private basic education in recognition of the complementary roles of public and private schools, prioritizing underprivileged students and areas with congested public schools.",
+  "alignment": "As a government organization measure creating a new bureau within the DepEd, the review should examine the fit of the proposed Bureau of Private Education and its Government Assistance and Subsidies Service with existing DepEd offices that administer private education assistance, the necessity of a separate bureau, and its staffing and organizational requirements, consistent with streamlining and the reduction of overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess the expanded coverage of vouchers to all years of basic education, the minimum voucher amount and the sixty-day payment requirement, and the Teachers' Salary Subsidy Fund. No direct match with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 4 was filed on June 30, 2025 by Representative Ferdinand Martin G. Romualdez and is pending in the committee.",
+   "Near-identical bills filed in the House in the same Congress include HB Nos. 198, 1932, 2560, 2862, 3161, 3417, 3971, 5149, 5178 and 5974.",
+   "SB Nos. 128 and 1073 are counterpart measures in the Senate with near-identical provisions.",
+   "In the 19th Congress, substantially similar provisions appeared in HB No. 11214, a substitute bill, and in Committee Report No. 1313."
+  ],
+  "related": [
+   {
+    "id": "HB-20-3971",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same title and short title, with identical provisions in Section 11 (Creation of the Bureau of Private Education) and Section 13 (Appropriations).",
+    "section": "HB-20-3971:s11",
+    "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions"
+   },
+   {
+    "id": "HB-20-1932",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same title and short title, with identical provisions in Section 11 (Creation of the Bureau of Private Education).",
+    "section": "HB-20-1932:s11",
+    "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions"
+   },
+   {
+    "id": "HB-20-5149",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same title and short title, with identical provisions in Section 11 (Creation of the Bureau of Private Education).",
+    "section": "HB-20-5149:s11",
+    "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions"
+   },
+   {
+    "id": "HB-20-2862",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same title and short title, with identical provisions in Section 11 (Creation of the Bureau of Private Education).",
+    "section": "HB-20-2862:s11",
+    "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions"
+   },
+   {
+    "id": "HB-20-5974",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same title and near-identical text in Section 11 (Creation of the Bureau of Private Education), although filed under a different short title.",
+    "section": "HB-20-5974:s11",
+    "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions"
+   },
+   {
+    "id": "HB-20-198",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same short title and identical provisions in Section 11 (Creation of the Bureau of Private Education).",
+    "section": "HB-20-198:s11",
+    "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions"
+   },
+   {
+    "id": "HB-20-5178",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same short title and identical provisions in Section 11 (Creation of the Bureau of Private Education).",
+    "section": "HB-20-5178:s11",
+    "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions"
+   },
+   {
+    "id": "HB-20-3161",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same title and short title, with an identical Section 2 (Declaration of Policy).",
+    "section": "HB-20-3161:s2",
+    "quote": "The State shall provide the mechanisms to augment the resources and enhance the quality of private basic education"
+   },
+   {
+    "id": "HB-20-3417",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same title and short title, with an identical Section 2 (Declaration of Policy).",
+    "section": "HB-20-3417:s2",
+    "quote": "The State shall provide the mechanisms to augment the resources and enhance the quality of private basic education"
+   },
+   {
+    "id": "HB-20-2560",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same title and short title, with a near-identical Section 2 (Declaration of Policy).",
+    "section": "HB-20-2560:s2",
+    "quote": "The State shall provide the mechanisms to augment the resources and enhance the quality of private basic education"
+   },
+   {
+    "id": "SB-20-128",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Senate bill with the same title and identical provisions in Section 11 (Creation of the Bureau of Private Education) and Section 13 (Appropriations).",
+    "section": "SB-20-128:s11",
+    "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions"
+   },
+   {
+    "id": "SB-20-1073",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Senate bill with the same title and short title and a near-identical Section 2 (Declaration of Policy).",
+    "section": "SB-20-1073:s2",
+    "quote": "The State shall provide the mechanisms to augment the resources and enhance the quality of private basic education"
+   },
+   {
+    "id": "HB-19-11214",
+    "relationship": "Filed in a past Congress",
+    "basis": "A 19th Congress substitute bill with the same title and short title and a near-identical Section 2 (Declaration of Policy).",
+    "section": "HB-19-11214:s2",
+    "quote": "The State shall provide the mechanisms to augment the resources and enhance the quality of private basic education"
+   },
+   {
+    "id": "DOC-19-CR01313",
+    "relationship": "Filed in a past Congress",
+    "basis": "A 19th Congress committee report measure with the same title and short title and a near-identical Section 2 (Declaration of Policy).",
+    "section": "DOC-19-CR01313:s2",
+    "quote": "The State shall provide the mechanisms to augment the resources and enhance the quality of private basic education"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-8545",
+    "label": "Amends or repeals",
+    "overlap": "Section 18 (Repealing Clause) repeals Sections 2, 3, 4(2), 4(3), 5, 6, 7, 12, 14 and 15 of RA No. 8545, whose assistance programs Sections 8 and 10 replace.",
+    "section": "HB-20-4:s18",
+    "quote": "Sections 2, 3, 4(2), 4(3), 5, 6, 7, 12, 14, and 15 of Republic Act No. 8545"
+   },
+   {
+    "law": "RA-6728",
+    "label": "Amends or repeals",
+    "overlap": "Section 18 (Repealing Clause) repeals provisions of RA No. 8545 that amended RA No. 6728, affecting its government assistance programs for private education.",
+    "section": "HB-20-4:s18",
+    "quote": "which amended Republic Act No. 6728"
+   },
+   {
+    "law": "RA-10533",
+    "label": "Referenced in the bill",
+    "overlap": "Section 7 (Other Forms of Assistance) invokes Section 10 of RA No. 10533 for other financial arrangements with private basic education schools.",
+    "section": "HB-20-4:s7",
+    "quote": "Consistent with Section 10 of Republic Act No. 10533"
+   }
+  ],
+  "salient_features": "HB No. 4 seeks to establish the private basic education voucher program and create the Bureau of Private Education under the DepEd. Its salient features are as follows:\na. Section 3 (Coverage) provides that the Act covers all private basic education institutions receiving government voucher assistance, across all years of basic education, for Filipino citizens.\nb. Section 4 (Criteria for Voucher Assistance) provides that vouchers shall go to students from middle-income families from congested public schools or areas without nearby public schools, with higher amounts for the most vulnerable, and that participating schools shall be assessed on quality assurance, geographic spread and enrollment as determined by the BEAC.\nc. Section 5 (Empowering Student Choice) provides that the DepEd shall create a registry and system allowing students and parents to select participating recognized schools.\nd. Section 6 (Quality Assurance) provides that the DepEd shall maintain a system for monitoring student performance, graduate outcomes, school performance and the equitable distribution of assistance.\ne. Section 7 (Other Forms of Assistance) provides for in-service training funds, graduate scholarships and training for private school teachers, and a program of institutional development assistance for participating schools.\nf. Section 8 (Basic Education Voucher Program) provides that kindergarten, elementary and secondary students in recognized private schools shall receive vouchers in amounts determined by the DepEd but not less than current levels, payable within sixty days, equitably allocated across regions, with the BARMM implementing the program from its block grant.\ng. Section 10 (Teachers' Salary Subsidy Fund) provides for the creation of a fund in the DepEd for salary subsidies to teachers in participating private schools, payable within sixty days after the close of the school year and excluded from taxable gross income.\nh. Section 11 (Creation of the Bureau of Private Education) provides for the creation of the BPE under the DepEd, headed by a Bureau Director, as the focal office for the administration, supervision and regulation of private basic education institutions, including standard-setting and compliance monitoring.\ni. Section 12 (Program Administration and Implementation) provides that the Basic Education Assistance Council, composed of the Secretaries of the DepEd as Chairperson and of the NEDA and the DBM as members, shall provide policy guidance, while the Government Assistance and Subsidies Service under the BPE shall handle day-to-day administration and serve as permanent secretariat.\nj. Section 13 (Appropriations) provides that initial funding shall be charged against the current appropriation of the DepEd and thereafter included in the annual General Appropriations Act.\nk. Section 14 (Penalties) provides that the DepEd may bar violating schools from its programs after due process, without prejudice to other charges.\nl. Section 15 (Transitory Provision) provides that implementation for the kindergarten and elementary levels shall gradually commence in school year 2026-2027, subject to available funds.\nm. Section 16 (Implementing Rules and Regulations) provides that the DepEd, in consultation with the NEDA, the DBM and private school associations, shall issue the implementing rules within ninety days.\nn. Section 18 (Repealing Clause) provides for the repeal of specified sections of RA No. 8545.",
+  "related_measures_policy": "HB No. 4 may be considered alongside HB Nos. 198, 1932, 2560, 2862, 3161, 3417, 3971, 5149, 5178 and 5974 and its Senate counterparts, SB Nos. 128 and 1073, all of which carry near-identical provisions, as well as HB No. 11214 and Committee Report No. 1313 of the 19th Congress. It relates directly to RA No. 8545 and RA No. 6728, whose assistance provisions Section 18 (Repealing Clause) repeals, and to Section 10 of RA No. 10533, which Section 7 (Other Forms of Assistance) invokes. No direct alignment with an FY 2027 Budget Priorities Framework priority area or a LEDAC Common Legislative Agenda item was identified. The review should assess the need for a separate Bureau of Private Education vis-a-vis existing DepEd offices under RA No. 12231, the cost of extending vouchers to kindergarten and elementary levels under Section 8 (Basic Education Voucher Program) and Section 15 (Transitory Provision), the minimum voucher floor, and the recurring cost of the Teachers' Salary Subsidy Fund under Section 10.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary, no amount stated; charged against the current year's DepEd appropriation",
+    "section": "Section 13 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act",
+    "section": "Section 13 (Appropriations)"
+   },
+   {
+    "item": "Vouchers",
+    "detail": "Vouchers for kindergarten, elementary and secondary students, not less than the amount currently provided by the DepEd; BARMM share charged to its block grant",
+    "section": "Section 8 (Basic Education Voucher Program)"
+   },
+   {
+    "item": "Teacher subsidy",
+    "detail": "Teachers' Salary Subsidy Fund for private school teachers, amount to be determined by the DepEd; subsidy excluded from taxable income",
+    "section": "Section 10 (Teachers' Salary Subsidy Fund)"
+   },
+   {
+    "item": "Teacher and school assistance",
+    "detail": "In-service training fund, graduate scholarships and school development assistance",
+    "section": "Section 7 (Other Forms of Assistance)"
+   },
+   {
+    "item": "Position",
+    "detail": "Bureau Director heading the new BPE; salary grade and staffing not specified",
+    "section": "Section 11 (Creation of the Bureau of Private Education)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Government Assistance and Subsidies Service under the BPE as permanent secretariat; optional third-party co-implementor",
+    "section": "Section 12 (Program Administration and Implementation)"
+   }
+  ],
+  "reviewer_checks": [
+   "The available text of the bill lacks its full title and Sections 1 and 9, and Section 17 (Separability Clause) appears within Section 16; the complete text should be confirmed with the House.",
+   "Section 8 (Basic Education Voucher Program) is cut off in the provision on the use of tuition increases; the full wording should be verified.",
+   "The exception for GIDCA schools in Section 4 (Criteria for Voucher Assistance) is ambiguous as to which criteria do not apply.",
+   "The school year stated in Section 15 (Transitory Provision) should be confirmed as still feasible given the bill's status.",
+   "The salary grade of the Bureau Director and the staffing of the Government Assistance and Subsidies Service are not specified.",
+   "Confirm the status of the Senate counterparts and whether the House bills have been or will be consolidated.",
+   "Typographical and scanning errors appear throughout, including in Section 11 (Creation of the Bureau of Private Education)."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same title and short title, with identical provisions in Section 11 (Creation of the Bureau of Private Education) and Section 13 (Appropriations).",
+   "section": "HB-20-3971:s11",
+   "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions",
+   "check": "verified"
+  },
+  {
+   "claim": "Same title and short title, with identical provisions in Section 11 (Creation of the Bureau of Private Education).",
+   "section": "HB-20-1932:s11",
+   "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions",
+   "check": "verified"
+  },
+  {
+   "claim": "Same title and short title, with identical provisions in Section 11 (Creation of the Bureau of Private Education).",
+   "section": "HB-20-5149:s11",
+   "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions",
+   "check": "verified"
+  },
+  {
+   "claim": "Same title and short title, with identical provisions in Section 11 (Creation of the Bureau of Private Education).",
+   "section": "HB-20-2862:s11",
+   "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions",
+   "check": "verified"
+  },
+  {
+   "claim": "Same title and near-identical text in Section 11 (Creation of the Bureau of Private Education), although filed under a different short title.",
+   "section": "HB-20-5974:s11",
+   "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions",
+   "check": "verified"
+  },
+  {
+   "claim": "Same short title and identical provisions in Section 11 (Creation of the Bureau of Private Education).",
+   "section": "HB-20-198:s11",
+   "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions",
+   "check": "verified"
+  },
+  {
+   "claim": "Same short title and identical provisions in Section 11 (Creation of the Bureau of Private Education).",
+   "section": "HB-20-5178:s11",
+   "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions",
+   "check": "verified"
+  },
+  {
+   "claim": "Same title and short title, with an identical Section 2 (Declaration of Policy).",
+   "section": "HB-20-3161:s2",
+   "quote": "The State shall provide the mechanisms to augment the resources and enhance the quality of private basic education",
+   "check": "verified"
+  },
+  {
+   "claim": "Same title and short title, with an identical Section 2 (Declaration of Policy).",
+   "section": "HB-20-3417:s2",
+   "quote": "The State shall provide the mechanisms to augment the resources and enhance the quality of private basic education",
+   "check": "verified"
+  },
+  {
+   "claim": "Same title and short title, with a near-identical Section 2 (Declaration of Policy).",
+   "section": "HB-20-2560:s2",
+   "quote": "The State shall provide the mechanisms to augment the resources and enhance the quality of private basic education",
+   "check": "verified"
+  },
+  {
+   "claim": "Senate bill with the same title and identical provisions in Section 11 (Creation of the Bureau of Private Education) and Section 13 (Appropriations).",
+   "section": "SB-20-128:s11",
+   "quote": "serve as the focal office for the administration, supervision, and regulation of all matters relating to private basic education institutions",
+   "check": "verified"
+  },
+  {
+   "claim": "Senate bill with the same title and short title and a near-identical Section 2 (Declaration of Policy).",
+   "section": "SB-20-1073:s2",
+   "quote": "The State shall provide the mechanisms to augment the resources and enhance the quality of private basic education",
+   "check": "verified"
+  },
+  {
+   "claim": "A 19th Congress substitute bill with the same title and short title and a near-identical Section 2 (Declaration of Policy).",
+   "section": "HB-19-11214:s2",
+   "quote": "The State shall provide the mechanisms to augment the resources and enhance the quality of private basic education",
+   "check": "verified"
+  },
+  {
+   "claim": "A 19th Congress committee report measure with the same title and short title and a near-identical Section 2 (Declaration of Policy).",
+   "section": "DOC-19-CR01313:s2",
+   "quote": "The State shall provide the mechanisms to augment the resources and enhance the quality of private basic education",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 18 (Repealing Clause) repeals Sections 2, 3, 4(2), 4(3), 5, 6, 7, 12, 14 and 15 of RA No. 8545, whose assistance programs Sections 8 and 10 replace.",
+   "section": "HB-20-4:s18",
+   "quote": "Sections 2, 3, 4(2), 4(3), 5, 6, 7, 12, 14, and 15 of Republic Act No. 8545",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 18 (Repealing Clause) repeals provisions of RA No. 8545 that amended RA No. 6728, affecting its government assistance programs for private education.",
+   "section": "HB-20-4:s18",
+   "quote": "which amended Republic Act No. 6728",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 7 (Other Forms of Assistance) invokes Section 10 of RA No. 10533 for other financial arrangements with private basic education schools.",
+   "section": "HB-20-4:s7",
+   "quote": "Consistent with Section 10 of Republic Act No. 10533",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T00:06:04+00:00"
+ }
+}
