@@ -1,0 +1,152 @@
+{
+ "output": {
+  "target": "HB-20-11839",
+  "verdict": "revise first",
+  "findings": [
+   {
+    "sub": "Duplication",
+    "part": "VI",
+    "issue": "The NDRRMF entry is tagged intent_to_abolish: true, but the bill only transfers the infrastructure financing function and its own assessment says the fund is kept; the flag misstates the bill and should be false (transfer of function, not abolition).",
+    "severity": "revise first",
+    "section": "HB-20-11839:s9",
+    "quote": "The existing financing functions for infrastructure for repair, reconstruction, rehabilitation, or disaster mitigation under the National Disaster Risk Reduction Management Fund is hereby transferred"
+   },
+   {
+    "sub": "Costing",
+    "part": "V",
+    "issue": "Paragraph 5.3 and the support-body row present the new-office estimate in full although the bill creates an inter-agency council with no secretariat, office or positions; applying the estimate to a body the bill does not create risks misleading the reviewer, more so when Parts IV and VII recommend against the council.",
+    "severity": "revise first",
+    "section": "HB-20-11839:s6",
+    "quote": "The DRFIC shall be empowered with policy-making, coordination, and monitoring and evaluation functions"
+   },
+   {
+    "sub": "Costing",
+    "part": "V",
+    "issue": "Part V has no paragraph on the Section 9 fund transfer, and the funding analysis does not consider that the infrastructure share of the NDRRMF moves to the NDRIF, so the fixed initial fund is treated as wholly new money without accounting for funds transferred from the existing fund.",
+    "severity": "check",
+    "section": "HB-20-11839:s9",
+    "quote": ""
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "Paragraph 5.1 proposes charging the NDRIF's initial requirement against available appropriations including the NDRRMF, which presumes the new fund exists, while Parts VI and VII recommend keeping infrastructure financing within the NDRRMF and not creating a second fund.",
+    "severity": "check",
+    "section": "HB-20-11839:s11",
+    "quote": ""
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "Not raised: premium appropriations are driven by whatever insurance policy the DRFIC approves, so a council outside the budget process would set a mandatory recurring budget requirement.",
+    "severity": "check",
+    "section": "HB-20-11839:s11",
+    "quote": "the initial fund for the payment of insurance premiums shall be included in the annual appropriations of the Government as determined by the insurance policy approved by the DRFIC"
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "Not raised: the proviso that the NDRIF shall not be the sole funding source implies counterpart financing from implementing agencies or LGUs, but who bears that cost and whether poorer LGUs are effectively excluded is not analysed.",
+    "severity": "check",
+    "section": "HB-20-11839:s9",
+    "quote": "the DRFIC shall, to the greatest extent necessary, ensure that the NDRif shall not be the sole funding source"
+   },
+   {
+    "sub": "Lead",
+    "part": "VI",
+    "issue": "Not raised: the Consortium of insurers that pays the claims also evaluates and approves them, a conflict of interest with no appeal or dispute mechanism for the Government; Part IV's claims-standards comment does not address who decides.",
+    "severity": "check",
+    "section": "HB-20-11839:s8",
+    "quote": "Evaluate and approve insurance claims made by the Government in a timely manner"
+   },
+   {
+    "sub": "Lead",
+    "part": "VI",
+    "issue": "Paragraph 6.1 says the creation of a new body 'may not be supported', which reads as a stand-alone DBM position in Part VI rather than an observation feeding the Part VII option; the added signing-date detail of RA No. 12231 is also unnecessary.",
+    "severity": "check",
+    "section": "",
+    "quote": ""
+   },
+   {
+    "sub": "Duplication",
+    "part": "VI",
+    "issue": "The BTr's administration of the NARS is sourced from another bill (HB No. 10763), not from the target bill or an existing law, so the overlap finding rests on a secondary source.",
+    "severity": "check",
+    "section": "HB-20-11839:s6",
+    "quote": "Ensure the data integrity of the NARS"
+   },
+   {
+    "sub": "Recommendation",
+    "part": "VII",
+    "issue": "Paragraph 7.2 drops the Part IV correction to Section 8(e), under which the Consortium submits claims data to itself; the drafting defect should carry into the enumerated recommendations.",
+    "severity": "check",
+    "section": "HB-20-11839:s8",
+    "quote": "Submit data regarding insurance claims and payments to the Consortium."
+   },
+   {
+    "sub": "Referral",
+    "part": "referrals",
+    "issue": "No budget and management bureau covering the DOF/BTr or the NDRRMC and its fund is referred, although Parts IV and VII lodge the framework with the DOF and BTr and the bill reallocates NDRRMF functions.",
+    "severity": "check",
+    "section": "",
+    "quote": ""
+   },
+   {
+    "sub": "Referral",
+    "part": "referrals",
+    "issue": "The LS referral cites amendments under a Section 17 (Repealing Clause) that is not in the bill sections provided; verify the citation before relying on it.",
+    "severity": "check",
+    "section": "",
+    "quote": ""
+   }
+  ]
+ },
+ "checks": [
+  {
+   "claim": "The NDRRMF entry is tagged intent_to_abolish: true, but the bill only transfers the infrastructure financing function and its own assessment says the fund is kept; the flag misstates the bill and should be false (transfer of function, not abolition).",
+   "section": "HB-20-11839:s9",
+   "quote": "The existing financing functions for infrastructure for repair, reconstruction, rehabilitation, or disaster mitigation under the National Disaster Risk Reduction Management Fund is hereby transferred",
+   "check": "verified"
+  },
+  {
+   "claim": "Paragraph 5.3 and the support-body row present the new-office estimate in full although the bill creates an inter-agency council with no secretariat, office or positions; applying the estimate to a body the bill does not create risks misleading the reviewer, more so when Parts IV and VII recommend against the council.",
+   "section": "HB-20-11839:s6",
+   "quote": "The DRFIC shall be empowered with policy-making, coordination, and monitoring and evaluation functions",
+   "check": "verified"
+  },
+  {
+   "claim": "Not raised: premium appropriations are driven by whatever insurance policy the DRFIC approves, so a council outside the budget process would set a mandatory recurring budget requirement.",
+   "section": "HB-20-11839:s11",
+   "quote": "the initial fund for the payment of insurance premiums shall be included in the annual appropriations of the Government as determined by the insurance policy approved by the DRFIC",
+   "check": "verified"
+  },
+  {
+   "claim": "Not raised: the proviso that the NDRIF shall not be the sole funding source implies counterpart financing from implementing agencies or LGUs, but who bears that cost and whether poorer LGUs are effectively excluded is not analysed.",
+   "section": "HB-20-11839:s9",
+   "quote": "the DRFIC shall, to the greatest extent necessary, ensure that the NDRif shall not be the sole funding source",
+   "check": "verified"
+  },
+  {
+   "claim": "Not raised: the Consortium of insurers that pays the claims also evaluates and approves them, a conflict of interest with no appeal or dispute mechanism for the Government; Part IV's claims-standards comment does not address who decides.",
+   "section": "HB-20-11839:s8",
+   "quote": "Evaluate and approve insurance claims made by the Government in a timely manner",
+   "check": "verified"
+  },
+  {
+   "claim": "The BTr's administration of the NARS is sourced from another bill (HB No. 10763), not from the target bill or an existing law, so the overlap finding rests on a secondary source.",
+   "section": "HB-20-11839:s6",
+   "quote": "Ensure the data integrity of the NARS",
+   "check": "verified"
+  },
+  {
+   "claim": "Paragraph 7.2 drops the Part IV correction to Section 8(e), under which the Consortium submits claims data to itself; the drafting defect should carry into the enumerated recommendations.",
+   "section": "HB-20-11839:s8",
+   "quote": "Submit data regarding insurance claims and payments to the Consortium.",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (Red-teamer run, separate session, under the owner's Claude subscription)",
+  "time": "2026-11-18T00:24:08+00:00"
+ }
+}
