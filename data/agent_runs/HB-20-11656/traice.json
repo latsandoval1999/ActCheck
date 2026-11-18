@@ -1,0 +1,210 @@
+{
+ "output": {
+  "target": "HB-20-11656",
+  "entity_proposed": "Traditional, Complementary, Integrative Medicine Administration (TRACIMA)",
+  "proposal": "HB No. 11656 seeks to rename and reorganize the Philippine Institute of Traditional and Alternative Health Care (PITAHC) as the Traditional, Complementary, Integrative Medicine Administration (TRACIMA), the lead policy, regulatory and research body for traditional and complementary health care, by amending RA No. 8423. It aims to integrate evidence-informed traditional and complementary medicine into the national health care system under the Universal Health Care framework while protecting the public from unsafe or fraudulent practices and products.",
+  "alignment": "As a government organization measure, the review should examine whether converting PITAHC into a regulatory administration attached to the Department of Health fits with existing bodies, in particular the product registration and post-market surveillance role of the Food and Drug Administration, the benefit package role of PhilHealth and the mandate of the National Commission on Indigenous Peoples, and how the expanded structure (a Director General with the rank of Undersecretary, three Deputy Directors General and a new staffing pattern) relates to the streamlining and reduction of overlapping functions under the Government Optimization Act (RA No. 12231). The measure aligns with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on the Universal Health Care system. It is not among the measures in the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 11656 was filed on October 8, 2026 by Representative S Lani Mercado-Revilla; its status is Filed, and later stages are not available.",
+   "In the 20th Congress, HB No. 4060 (filed August 27, 2025) and HB No. 2742 (filed July 30, 2025), both amending RA No. 8423 and both pending in the Committee, address the same subject; their texts were not reviewed.",
+   "Measures with similar titles amending RA No. 8423 were filed in earlier Congresses: HB Nos. 5032, 3111 and 5694 and SB Nos. 696 and 656 (19th Congress); HB Nos. 9160 and 10059 and SB Nos. 2127, 1308 and 556 (18th Congress). Their texts were not reviewed.",
+   "No counterpart measure in the Senate, substitute bill or committee report for HB No. 11656 is recorded."
+  ],
+  "related": [
+   {
+    "id": "HB-20-4060",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title proposes vesting regulatory powers in PITAHC by amending RA No. 8423 rather than reorganizing it.",
+    "section": "meta:HB-20-4060",
+    "quote": "AN ACT VESTING REGULATORY POWERS TO THE PHILIPPINE INSTITUTE OF TRADITIONAL AND ALTERNATIVE HEALTH CARE (PITAHC)"
+   },
+   {
+    "id": "HB-20-2742",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title proposes strengthening the traditional and complementary medicine system by amending RA No. 8423.",
+    "section": "meta:HB-20-2742",
+    "quote": "AN ACT STRENGTHENING THE TRADITIONAL AND COMPLEMENTARY MEDICINE SYSTEM, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8423"
+   },
+   {
+    "id": "HB-19-5032",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; a 19th Congress measure vesting regulatory powers in PITAHC.",
+    "section": "meta:HB-19-5032",
+    "quote": "AN ACT VESTING REGULATORY POWERS TO THE PHILIPPINE INSTITUTE OF TRADITIONAL AND ALTERNATIVE HEALTH CARE (PITAHC)"
+   },
+   {
+    "id": "HB-19-5694",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; a 19th Congress measure on modernization funding and reorganization of PITAHC.",
+    "section": "meta:HB-19-5694",
+    "quote": "INCREASING AND REORGANIZING ITS ADMINISTRATION, TO LEAD IN THE RESEARCH AND DEVELOPMENT"
+   },
+   {
+    "id": "HB-19-3111",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; a 19th Congress measure strengthening the traditional and complementary medicine system.",
+    "section": "meta:HB-19-3111",
+    "quote": "AN ACT STRENGTHENING THE TRADITIONAL AND COMPLEMENTARY MEDICINE SYSTEM, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8423"
+   },
+   {
+    "id": "SB-19-696",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; a 19th Congress Senate measure strengthening the traditional and complementary medicine system.",
+    "section": "meta:SB-19-696",
+    "quote": "AN ACT STRENGTHENING THE TRADITIONAL AND COMPLEMENTARY MEDICINE SYSTEM, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8423"
+   },
+   {
+    "id": "SB-19-656",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; a 19th Congress Senate measure strengthening traditional and complementary medicine.",
+    "section": "meta:SB-19-656",
+    "quote": "AN ACT STRENGTHENING TRADITIONAL AND COMPLEMENTARY MEDICINE IN THE PHILIPPINES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8423"
+   },
+   {
+    "id": "HB-18-9160",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; an 18th Congress measure strengthening the traditional and complementary medicine system.",
+    "section": "meta:HB-18-9160",
+    "quote": "AN ACT STRENGTHENING THE TRADITIONAL AND COMPLEMENTARY MEDICINE SYSTEM, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8423"
+   },
+   {
+    "id": "SB-18-556",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; an 18th Congress Senate measure vesting regulatory powers in the institute and adding personnel, laboratories and field offices.",
+    "section": "meta:SB-18-556",
+    "quote": "AN ACT EMPOWERING THE PHILIPPINE INSTITUTE OF TRADITIONAL AND COMPLEMENTARY HEALTH CARE BY VESTING UPON IT REGULATORY POWERS"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-8423",
+    "label": "Amends or repeals",
+    "overlap": "The bill amends Sections 4 to 10 of RA No. 8423 and inserts a new Article IV-A on prohibited acts and penalties, renaming PITAHC as TRACIMA.",
+    "section": "HB-20-11656:s1",
+    "quote": "The Philippine Institute of Traditional and Alternative Health Care (PITAHC) is hereby renamed as the Traditional, Complementary, Integrative Medicine Administration (TRACIMA)."
+   },
+   {
+    "law": "RA-11223",
+    "label": "Referenced in the bill",
+    "overlap": "Section 3 (Declaration of Policy) and Section 4 (Objectives) anchor the integration of traditional and complementary medicine in the Universal Health Care framework, and Section 11 provides for endorsement of services to PhilHealth benefit packages.",
+    "section": "HB-20-11656:s3",
+    "quote": "consistent with the Universal Health Care (UHC) Act framework of automatic population coverage, comprehensive service coverage, and equitable financial coverage"
+   }
+  ],
+  "salient_features": "HB No. 11656 seeks to rename and reorganize PITAHC as the Traditional, Complementary, Integrative Medicine Administration (TRACIMA), the lead policy, regulatory and research body for traditional and complementary health care, by amending RA No. 8423. Its salient features are as follows:\na. Section 1 (Renaming of PITAHC) provides that PITAHC is renamed as TRACIMA.\nb. Section 2 (Short Title) provides that the measure shall be known as the TRACIMA Act.\nc. Section 3 (Declaration of Policy) provides for the development, regulation and integration of evidence-informed traditional, complementary and integrative medicine into the national health care delivery system consistent with the Universal Health Care framework, and for the protection of indigenous peoples' rights over traditional knowledge.\nd. Section 4 (Objectives) sets objectives on research and clinical validation, licensing and accreditation, integration into primary health care, consumer protection standards and inter-agency coordination.\ne. Section 5 (Definition of Terms) amends Section 4 of RA No. 8423, replacing alternative with complementary health care and adding terms such as accredited practitioner, adverse event, evidence-based traditional medicine and health technology assessment.\nf. Section 6 (TRACIMA) amends Section 5 of RA No. 8423 to establish TRACIMA as the lead policy, regulatory and research body, attached to the Department of Health for administrative supervision and policy and program coordination, with its principal office in Metro Manila and authority to establish branches elsewhere.\ng. Section 7 (Powers and Functions) amends Section 6 of RA No. 8423 to extend the existing research, technology transfer, training, network coordination and code of ethics functions to complementary health care, including competency requirements.\nh. Section 8 (TRACIMA Board) amends Section 7 of RA No. 8423 to create the TRACIMA Board in place of the Board of Trustees and to add the Technical Education and Skills Development Authority to its composition.\ni. Section 9 (Powers and Functions of the Board) amends Section 8 of RA No. 8423 to empower the Board to establish a licensing and accreditation system for practitioners, facilities and training institutions, prescribe qualifications and grounds for suspension or revocation, and set a framework for clinical validation and health technology assessment.\nj. Section 10 (Director General and Other Officers) amends Section 9 of RA No. 8423 to provide that TRACIMA is headed by a Director General with the rank of Undersecretary, appointed by the President upon recommendation of the Board for a term of six years, assisted by three Deputy Directors General, with the Board determining the organizational structure and staffing pattern subject to civil service rules.\nk. Section 11 (Powers, Functions and Duties of the Director General) amends Section 10 of RA No. 8423 to add the implementation of licensing and accreditation, a registry of accredited practitioners and facilities, assistance to the FDA in product regulation, consumer protection and complaints mechanisms, endorsement of validated services to PhilHealth, coordination with the NCIP on free, prior and informed consent, and appointment of personnel.\nl. Section 12 (Prohibited Acts and Penalties) inserts a new Article IV-A in RA No. 8423.\nm. Section 15 (Prohibited Acts and Penalties) declares unlawful, among others, unlicensed practice for a fee, false or misleading claims, the distribution of contaminated or unsafe products, grossly unsafe treatments, exploitative practices and the unauthorized commercial use of protected indigenous knowledge, and provides penalties.\nn. Section 16 (Implementing Rules and Regulations) requires the Board, in consultation with other agencies and stakeholders, to issue the implementing rules within ninety days from effectivity.\no. Sections 17 to 19 (Separability Clause, Repealing Clause and Effectivity) contain the standard final provisions.",
+  "related_measures_policy": "HB No. 11656 may be considered alongside HB No. 4060 and HB No. 2742 of the 20th Congress, which likewise propose amendments to RA No. 8423, as well as similar measures filed in the 18th and 19th Congresses. The measure aligns with the Human Capital Development priority of the FY 2027 Budget Priorities Framework, particularly the Universal Health Care system. The review should assess the proposed amendments to Sections 4 to 10 of RA No. 8423, the delineation of TRACIMA's regulatory functions from those of the Food and Drug Administration, PhilHealth and the National Commission on Indigenous Peoples, consistency with the Universal Health Care Act (RA No. 11223), and whether the expanded organization is consistent with the streamlining objectives of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "The title provides for appropriating funds, but no appropriations section appears in the text; the amount and source of funding are not stated.",
+    "section": "Section 19 (Effectivity)"
+   },
+   {
+    "item": "Position",
+    "detail": "Director General with the rank of Undersecretary, six-year term; salary grade not stated.",
+    "section": "Section 10 (Director General and Other Officers)"
+   },
+   {
+    "item": "Position",
+    "detail": "Three Deputy Directors General for administration and finance, regulatory operations, and research, development and integration; salary grades not stated.",
+    "section": "Section 10 (Director General and Other Officers)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Organizational structure and staffing pattern to be determined by the Board, subject to civil service rules.",
+    "section": "Section 10 (Director General and Other Officers)"
+   },
+   {
+    "item": "Members",
+    "detail": "TRACIMA Board, with the Technical Education and Skills Development Authority added to its composition; compensation of members not stated.",
+    "section": "Section 8 (TRACIMA Board)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "New regulatory operations (licensing and accreditation, registry, consumer complaints and redress) and possible branches or offices outside Metro Manila.",
+    "section": "Section 11 (Powers, Functions and Duties of the Director General)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm whether the bill contains an appropriations section, since the title provides for appropriating funds but none appears in the text.",
+   "Check the section numbering, which moves from Section 12 to Section 15, and whether Sections 13 and 14 were omitted.",
+   "Check typographical errors, such as 'ADMINISTRATIONA' in the amended Section 5 of RA No. 8423 and inconsistent use of 'Traditional, Complementary, Integrative' and 'Traditional, Complementary, and Integrative'.",
+   "Verify the delineation of TRACIMA's product regulation role with the Food and Drug Administration.",
+   "Confirm the status of HB No. 4060 and HB No. 2742 with the House of Representatives."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed; the title proposes vesting regulatory powers in PITAHC by amending RA No. 8423 rather than reorganizing it.",
+   "section": "meta:HB-20-4060",
+   "quote": "AN ACT VESTING REGULATORY POWERS TO THE PHILIPPINE INSTITUTE OF TRADITIONAL AND ALTERNATIVE HEALTH CARE (PITAHC)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the title proposes strengthening the traditional and complementary medicine system by amending RA No. 8423.",
+   "section": "meta:HB-20-2742",
+   "quote": "AN ACT STRENGTHENING THE TRADITIONAL AND COMPLEMENTARY MEDICINE SYSTEM, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8423",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress measure vesting regulatory powers in PITAHC.",
+   "section": "meta:HB-19-5032",
+   "quote": "AN ACT VESTING REGULATORY POWERS TO THE PHILIPPINE INSTITUTE OF TRADITIONAL AND ALTERNATIVE HEALTH CARE (PITAHC)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress measure on modernization funding and reorganization of PITAHC.",
+   "section": "meta:HB-19-5694",
+   "quote": "INCREASING AND REORGANIZING ITS ADMINISTRATION, TO LEAD IN THE RESEARCH AND DEVELOPMENT",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress measure strengthening the traditional and complementary medicine system.",
+   "section": "meta:HB-19-3111",
+   "quote": "AN ACT STRENGTHENING THE TRADITIONAL AND COMPLEMENTARY MEDICINE SYSTEM, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8423",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress Senate measure strengthening the traditional and complementary medicine system.",
+   "section": "meta:SB-19-696",
+   "quote": "AN ACT STRENGTHENING THE TRADITIONAL AND COMPLEMENTARY MEDICINE SYSTEM, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8423",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress Senate measure strengthening traditional and complementary medicine.",
+   "section": "meta:SB-19-656",
+   "quote": "AN ACT STRENGTHENING TRADITIONAL AND COMPLEMENTARY MEDICINE IN THE PHILIPPINES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8423",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; an 18th Congress measure strengthening the traditional and complementary medicine system.",
+   "section": "meta:HB-18-9160",
+   "quote": "AN ACT STRENGTHENING THE TRADITIONAL AND COMPLEMENTARY MEDICINE SYSTEM, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8423",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; an 18th Congress Senate measure vesting regulatory powers in the institute and adding personnel, laboratories and field offices.",
+   "section": "meta:SB-18-556",
+   "quote": "AN ACT EMPOWERING THE PHILIPPINE INSTITUTE OF TRADITIONAL AND COMPLEMENTARY HEALTH CARE BY VESTING UPON IT REGULATORY POWERS",
+   "check": "verified"
+  },
+  {
+   "claim": "The bill amends Sections 4 to 10 of RA No. 8423 and inserts a new Article IV-A on prohibited acts and penalties, renaming PITAHC as TRACIMA.",
+   "section": "HB-20-11656:s1",
+   "quote": "The Philippine Institute of Traditional and Alternative Health Care (PITAHC) is hereby renamed as the Traditional, Complementary, Integrative Medicine Administration (TRACIMA).",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 3 (Declaration of Policy) and Section 4 (Objectives) anchor the integration of traditional and complementary medicine in the Universal Health Care framework, and Section 11 provides for endorsement of services to PhilHealth benefit packages.",
+   "section": "HB-20-11656:s3",
+   "quote": "consistent with the Universal Health Care (UHC) Act framework of automatic population coverage, comprehensive service coverage, and equitable financial coverage",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T00:03:08+00:00"
+ }
+}
