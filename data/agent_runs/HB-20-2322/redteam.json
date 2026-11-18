@@ -1,0 +1,114 @@
+{
+ "output": {
+  "target": "HB-20-2322",
+  "verdict": "revise first",
+  "findings": [
+   {
+    "sub": "Costing",
+    "part": "V",
+    "issue": "The fiscal row on the Executive Director states a yearly cost (SG 29, Step 1, 2026 schedule) that is in neither the COST ENGINE nor the bill; it is an unsourced peso figure and should be removed or tied to the engine output.",
+    "severity": "revise first",
+    "section": "",
+    "quote": ""
+   },
+   {
+    "sub": "Costing",
+    "part": "V",
+    "issue": "The new-office estimate of 76 to 124 positions ignores that the Executive Director may hire temporary, contractual or consultancy staff and that PIDS serves as research arm, so the core range may overstate a co-terminous congressional secretariat; Part V presents the range without flagging this beyond a note on detailed personnel.",
+    "severity": "check",
+    "section": "HB-20-2322:s7",
+    "quote": "hire and appoint such employees and personnel, whether temporary, contractual, or on consultancy, and determine their compensation"
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "Part V (5.3) and the continuing-funding row say succeeding requirements go into the budgets of the Senate and the House, but Section 13 only says they are included in the annual GAA without naming the chambers; the output reads its own assumption into the bill.",
+    "severity": "check",
+    "section": "HB-20-2322:s13",
+    "quote": "shall be included in the annual General Appropriations Act subject to existing budgeting, accounting and auditing rules and regulations"
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "The output repeatedly ties funding to a three-year term, but none of the bill sections supplied states a term, and Section 7 only says the Secretariat co-exists with the Commission; the reviewer should confirm the term from the bill text before recommending a sunset on funding.",
+    "severity": "check",
+    "section": "HB-20-2322:s7",
+    "quote": "The Technical Secretariat shall co-exist with the Commission."
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "Section 11(b) lets the Commission approve its own budget, all disbursements and compensation of all personnel; Part V addresses compensation only under Section 7 and does not raise this self-approval authority or the need to keep it within budgeting and auditing rules.",
+    "severity": "check",
+    "section": "HB-20-2322:s11",
+    "quote": "the budget for the programs of the Commission and all disbursements therefrom, including compensation of all personnel"
+   },
+   {
+    "sub": "Lead",
+    "part": "V",
+    "issue": "Section 11(e) lets the Commission require any government office to prepare reports and plans, a cost borne by executive agencies' existing budgets that the output does not mention.",
+    "severity": "check",
+    "section": "HB-20-2322:s11",
+    "quote": "Secure from any department, bureau, office or instrumentality of the government technical information, preparation and production of reports"
+   },
+   {
+    "sub": "Lead",
+    "part": "VI",
+    "issue": "Section 11(d) subpoena power over private persons raises due process and privacy questions for testimony and documents obtained, which no part of the output notes.",
+    "severity": "check",
+    "section": "HB-20-2322:s11",
+    "quote": "Summon by subpoena any public official or private person to testify before it"
+   },
+   {
+    "sub": "Duplication",
+    "part": "VI",
+    "issue": "Part VI asserts the signing date of RA No. 12231 and the content of its Section 21 on other branches; neither is in the material supplied, so these specifics should be verified before they reach the reviewer.",
+    "severity": "check",
+    "section": "",
+    "quote": ""
+   }
+  ]
+ },
+ "checks": [
+  {
+   "claim": "The new-office estimate of 76 to 124 positions ignores that the Executive Director may hire temporary, contractual or consultancy staff and that PIDS serves as research arm, so the core range may overstate a co-terminous congressional secretariat; Part V presents the range without flagging this beyond a note on detailed personnel.",
+   "section": "HB-20-2322:s7",
+   "quote": "hire and appoint such employees and personnel, whether temporary, contractual, or on consultancy, and determine their compensation",
+   "check": "verified"
+  },
+  {
+   "claim": "Part V (5.3) and the continuing-funding row say succeeding requirements go into the budgets of the Senate and the House, but Section 13 only says they are included in the annual GAA without naming the chambers; the output reads its own assumption into the bill.",
+   "section": "HB-20-2322:s13",
+   "quote": "shall be included in the annual General Appropriations Act subject to existing budgeting, accounting and auditing rules and regulations",
+   "check": "verified"
+  },
+  {
+   "claim": "The output repeatedly ties funding to a three-year term, but none of the bill sections supplied states a term, and Section 7 only says the Secretariat co-exists with the Commission; the reviewer should confirm the term from the bill text before recommending a sunset on funding.",
+   "section": "HB-20-2322:s7",
+   "quote": "The Technical Secretariat shall co-exist with the Commission.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 11(b) lets the Commission approve its own budget, all disbursements and compensation of all personnel; Part V addresses compensation only under Section 7 and does not raise this self-approval authority or the need to keep it within budgeting and auditing rules.",
+   "section": "HB-20-2322:s11",
+   "quote": "the budget for the programs of the Commission and all disbursements therefrom, including compensation of all personnel",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 11(e) lets the Commission require any government office to prepare reports and plans, a cost borne by executive agencies' existing budgets that the output does not mention.",
+   "section": "HB-20-2322:s11",
+   "quote": "Secure from any department, bureau, office or instrumentality of the government technical information, preparation and production of reports",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 11(d) subpoena power over private persons raises due process and privacy questions for testimony and documents obtained, which no part of the output notes.",
+   "section": "HB-20-2322:s11",
+   "quote": "Summon by subpoena any public official or private person to testify before it",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (Red-teamer run, separate session, under the owner's Claude subscription)",
+  "time": "2026-11-18T00:03:17+00:00"
+ }
+}
