@@ -1,0 +1,243 @@
+{
+ "output": {
+  "target": "HB-20-11620",
+  "entity_proposed": "People's Council in every local government unit, with a Provincial People's Council (PPC)",
+  "proposal": "HB No. 11620, the proposed \"People Empowerment Act,\" seeks to institutionalize partnership between local governments and civil society organizations (CSOs) by creating a People's Council of accredited CSOs in each local government unit (LGU) and a Provincial People's Council (PPC), with representation in local special bodies and the Sangguniang Panlalawigan. It aims to ensure citizen participation in all avenues of local governance.",
+  "alignment": "As the measure creates participatory bodies within LGUs rather than a new national agency, the review should examine how the People's Councils and the PPC fit with existing local special bodies and CSO accreditation arrangements, whether they duplicate existing participation mechanisms, and how the measure relates to the policy of reducing overlapping functions under the Government Optimization Act (RA No. 12231), noting that the Act covers the Executive branch. The bill aligns most closely with the Implementation of Full Devolution to LGUs priority area of the FY 2027 Budget Priorities Framework, particularly capacity building of LGUs, given its focus on local governance and the role assigned to the Department of the Interior and Local Government (DILG) under Section 15 (Right to Self-Organization) and Section 18 (Implementing Rules and Regulations). No LEDAC Common Legislative Agenda item was identified for this measure.",
+  "legislative_history": [
+   "HB No. 11620 was filed on October 6, 2026; its current status is filed, with later stages not yet reflected in the available records.",
+   "HB No. 11394 (20th Congress) proposes a closely similar People's Council framework under the short title \"People's Partnership in Governance Act.\"",
+   "HB No. 2707 (20th Congress, filed July 30, 2025) carries an identical title and is pending in the committee; title match only, text not reviewed.",
+   "SB No. 726 (20th Congress, filed July 21, 2025), titled \"The People Empowerment Act,\" is pending in the committee and may be the Senate counterpart; title match only, text not reviewed.",
+   "Bills with the same or closely matching titles were filed in the 19th Congress (HB Nos. 385, 2727, 4141 and 11363) and the 18th Congress (HB Nos. 832, 4244, 6151 and 7950; SB Nos. 561 and 692); title match only, text not reviewed."
+  ],
+  "related": [
+   {
+    "id": "HB-20-11394",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Section 8 (Creation of Local People's Councils), Section 12 (Powers and Responsibilities) and Section 13 (Creation of a Provincial People's Council) closely mirror the target's provisions, so the baseline 'competing design' label is upgraded, though HB No. 11394 grants council representatives voting rights.",
+    "section": "HB-20-11394:s8",
+    "quote": "the Committee on Registration of each Local Sanggunian shall, not later than ninety (90) days from the effectivity of this Act, call for a convention of all accredited CSOs"
+   },
+   {
+    "id": "HB-20-2707",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-2707",
+    "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES, TASK FORCES OR SIMILAR WORK GROUPS"
+   },
+   {
+    "id": "SB-20-726",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-20-726",
+    "quote": "THE PEOPLE EMPOWERMENT ACT"
+   },
+   {
+    "id": "HB-19-11363",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-11363",
+    "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES, TASK FORCES OR SIMILAR WORK GROUPS"
+   },
+   {
+    "id": "HB-19-4141",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-4141",
+    "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES, TASK FORCES OR SIMILAR WORK GROUPS"
+   },
+   {
+    "id": "HB-19-2727",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-2727",
+    "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS"
+   },
+   {
+    "id": "HB-19-385",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-385",
+    "quote": "THROUGH THE ESTABLISHMENT OF A PEOPLE'S COUNCIL IN EVERY LOCAL GOVERNMENT UNIT, PRESCRIBING ITS POWERS AND FUNCTIONS"
+   },
+   {
+    "id": "HB-18-7950",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-7950",
+    "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES, TASK FORCES OR SIMILAR WORK GROUPS"
+   },
+   {
+    "id": "HB-18-832",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-832",
+    "quote": "THROUGH THE ESTABLISHMENT OF A PEOPLE'S COUNCIL IN EVERY LOCAL GOVERNMENT UNIT, PRESCRIBING ITS POWERS AND FUNCTIONS"
+   },
+   {
+    "id": "HB-18-4244",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-4244",
+    "quote": "THROUGH THE ESTABLISHMENT OF A PEOPLE'S COUNCIL IN EVERY LOCAL GOVERNMENT UNIT, PRESCRIBING ITS POWERS AND FUNCTIONS"
+   },
+   {
+    "id": "HB-18-6151",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-6151",
+    "quote": "PRESCRIBING ITS POWERS AND FUNCTIONS AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "SB-18-561",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-18-561",
+    "quote": "THE PEOPLE EMPOWERMENT ACT"
+   },
+   {
+    "id": "SB-18-692",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-18-692",
+    "quote": "THE PEOPLE EMPOWERMENT ACT"
+   }
+  ],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 11620 seeks to establish a People's Council of accredited CSOs in every LGU and a Provincial People's Council, with representation in local special bodies and the Sangguniang Panlalawigan. Its salient features are as follows:\na. Section 4 (Accreditation of CSOs) provides that a CSO operating for at least one year in the city or municipality may apply for accreditation with the local sanggunian upon submission of documentary requirements, and Section 5 (Accreditation Deemed Inactive) renders accreditation inactive after two consecutive years of non-submission of annual reports.\nb. Section 6 (Committee for the Accreditation of CSOs) provides for a committee in all provincial, city and municipal sanggunians to process and monitor accreditation, with two seats for the People's Council, while Section 7 (Rights and Privileges of Accredited CSOs) allows accredited CSOs to enter into joint ventures with and receive assistance from the LGU.\nc. Section 8 (Creation of People's Councils) provides that a People's Council composed of accredited CSOs shall be created in each LGU, with the convention for its organization to be called within 90 days from effectivity.\nd. Section 9 (Structure and Rules of the People's Council) provides that each council shall determine its own structure and internal rules, subject to consultation mechanisms and restrictions on nominating political parties and non-registered CSOs.\ne. Section 10 (Recognition of the People's Council by the Local Sanggunian) and Section 11 (Withdrawal of Recognition of the People's Council) provide for recognition of only one council per local sanggunian within 30 days of petition, and for withdrawal of recognition on grounds such as partisan political activity.\nf. Section 12 (Powers and Responsibilities of the People's Council) provides that the council may appoint representatives to local bodies, up to 25 percent of their membership, and participate in LGU programs and legislation without compensation, with the LGU providing office space, facilities and equipment.\ng. Section 13 (Creation of a Provincial People's Council (PPC)) provides for a PPC composed of representatives of municipal and city councils, which shall elect a representative to sit in the Sangguniang Panlalawigan with the duties and powers of a Provincial Board member.\nh. Section 14 (Non-Partisan Nature of the People's Council) and Section 15 (Right to Self-Organization) require councils to remain non-partisan and mandate the DILG and all LGUs to support people's self-organization.\ni. Section 16 (Information Boards and Suggestion Boxes) provides that barangays shall maintain information boards and suggestion boxes, and that LGUs shall respond to suggestions within 15 working days.\nj. Section 17 (Appropriations) provides that the amount necessary for implementation shall be included in the annual General Appropriations Act.\nk. Section 18 (Implementing Rules and Regulations) provides that the DILG and LGUs, in consultation with accredited CSOs, shall issue the implementing rules within 120 days from effectivity, and Section 19 (Sunset Review) provides for congressional review five years from effectivity.",
+  "related_measures_policy": "HB No. 11620 may be considered alongside HB No. 11394 and HB No. 2707 in the House and SB No. 726 in the Senate, all in the 20th Congress, which propose People's Council frameworks under the same or similar titles, as well as similar measures filed in the 18th and 19th Congresses. The measure aligns with the Implementation of Full Devolution to LGUs priority area of the FY 2027 Budget Priorities Framework. The review should assess the cost to LGUs of office spaces, facilities and equipment under Section 12 (Powers and Responsibilities of the People's Council), any compensation or allowance implications of the PPC representative exercising the powers of a Provincial Board member under Section 13 (Creation of a Provincial People's Council (PPC)), the costs of information boards and suggestion boxes under Section 16 (Information Boards and Suggestion Boxes), and whether the funding arrangement under Section 17 (Appropriations), which charges the national General Appropriations Act, is appropriate for bodies created and supported by LGUs.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary; no amount stated",
+    "section": "Section 17 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act",
+    "section": "Section 17 (Appropriations)"
+   },
+   {
+    "item": "Support facilities",
+    "detail": "LGUs to provide office spaces, facilities and equipment for the People's Council",
+    "section": "Section 12 (Powers and Responsibilities of the People's Council)"
+   },
+   {
+    "item": "Members",
+    "detail": "Council participation is without compensation or remuneration",
+    "section": "Section 12 (Powers and Responsibilities of the People's Council)"
+   },
+   {
+    "item": "Position",
+    "detail": "PPC representative sits in the Sangguniang Panlalawigan with the duties and powers of a Provincial Board member; compensation not specified",
+    "section": "Section 13 (Creation of a Provincial People's Council (PPC))"
+   },
+   {
+    "item": "Support body",
+    "detail": "Committee for the Accreditation of CSOs in all provincial, city and municipal sanggunians",
+    "section": "Section 6 (Committee for the Accreditation of CSOs)"
+   },
+   {
+    "item": "Other operating costs",
+    "detail": "Barangay information boards and suggestion boxes",
+    "section": "Section 16 (Information Boards and Suggestion Boxes)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm that the Section 19 (Sunset Review) clause is a review requirement and not a five-year term for the People's Councils.",
+   "Check the definition of local sanggunian in Section 3 (Definition of Terms), which covers only city and municipal councils, against provisions referring to provincial sanggunians and to councils in each LGU.",
+   "Verify whether the People's Council is intended at the barangay level, given that Section 8 refers to each LGU while Section 3 refers to city, municipal and provincial levels.",
+   "Clarify whether the PPC representative under Section 13 would receive the salary and benefits of a Provincial Board member and whether this is consistent with the composition of the Sangguniang Panlalawigan under existing law.",
+   "Review the wording of Section 16 (Information Boards and Suggestion Boxes), which appears to contain a drafting error on the use of the boards and boxes.",
+   "Check the cross-reference in Section 5 (Accreditation Deemed Inactive) to Section 7 and the section breaks between Sections 5 to 7.",
+   "Confirm the status and text of HB No. 2707 and SB No. 726 with the House and Senate, and whether HB No. 11620 and HB No. 11394 may be consolidated."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 8 (Creation of Local People's Councils), Section 12 (Powers and Responsibilities) and Section 13 (Creation of a Provincial People's Council) closely mirror the target's provisions, so the baseline 'competing design' label is upgraded, though HB No. 11394 grants council representatives voting rights.",
+   "section": "HB-20-11394:s8",
+   "quote": "the Committee on Registration of each Local Sanggunian shall, not later than ninety (90) days from the effectivity of this Act, call for a convention of all accredited CSOs",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-2707",
+   "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES, TASK FORCES OR SIMILAR WORK GROUPS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-20-726",
+   "quote": "THE PEOPLE EMPOWERMENT ACT",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-11363",
+   "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES, TASK FORCES OR SIMILAR WORK GROUPS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-4141",
+   "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES, TASK FORCES OR SIMILAR WORK GROUPS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-2727",
+   "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-385",
+   "quote": "THROUGH THE ESTABLISHMENT OF A PEOPLE'S COUNCIL IN EVERY LOCAL GOVERNMENT UNIT, PRESCRIBING ITS POWERS AND FUNCTIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-7950",
+   "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES, TASK FORCES OR SIMILAR WORK GROUPS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-832",
+   "quote": "THROUGH THE ESTABLISHMENT OF A PEOPLE'S COUNCIL IN EVERY LOCAL GOVERNMENT UNIT, PRESCRIBING ITS POWERS AND FUNCTIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-4244",
+   "quote": "THROUGH THE ESTABLISHMENT OF A PEOPLE'S COUNCIL IN EVERY LOCAL GOVERNMENT UNIT, PRESCRIBING ITS POWERS AND FUNCTIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-6151",
+   "quote": "PRESCRIBING ITS POWERS AND FUNCTIONS AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-18-561",
+   "quote": "THE PEOPLE EMPOWERMENT ACT",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-18-692",
+   "quote": "THE PEOPLE EMPOWERMENT ACT",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-18T04:06:47+00:00"
+ }
+}
