@@ -1,0 +1,418 @@
+{
+ "output": {
+  "target": "SB-20-83",
+  "entity_proposed": "Department of Water Resources (DWR) and the Water Regulatory Commission",
+  "proposal": "SB No. 83 seeks to establish a national framework for water resource management by creating the Department of Water Resources as the primary policy, planning, coordinating and implementing agency for the water sector, and an independent, quasi-judicial Water Regulatory Commission to license and regulate water supply, sanitation and sewerage service providers. It consolidates water-related offices and functions now spread across several agencies, including the National Water Resources Board and the Local Water Utilities Administration.",
+  "alignment": "As a government organization measure, the review should examine how the proposed Department and Commission fit with existing bodies, given that the bill abolishes the National Water Resources Board and the Local Water Utilities Administration (Section 7), transfers functions of the DPWH and the former Pasig River Rehabilitation Commission (Section 8), attaches the MWSS and the LLDA (Section 9), and repeals Executive Order No. 22, series of 2023, which created the Water Resources Management Office in the DENR (Section 53). The review should assess whether the consolidation reduces overlapping mandates consistent with the streamlining and reorganization intent of the Government Optimization Act (RA No. 12231), and whether the new positions, bureaus, regional offices, the Water Resources Adjudication Board, the National Water Sector Policy Council and the Commission Secretariat are justified. The measure aligns with the Environment, Climate, and Disaster Resilience priority area of the FY 2027 Budget Priorities Framework, particularly through its flood control, drought risk management and climate-resilient water planning functions (Section 6). It corresponds to item 3 of the LEDAC Common Legislative Agenda, the Department of Water Resources (DWR) Bill.",
+  "legislative_history": [
+   "SB No. 83 was filed on July 3, 2025 by Senator Raffy T. Tulfo and is pending in the Committee on Public Services.",
+   "SB No. 2771 of the 19th Congress carries closely matching provisions; SB No. 102 of the 19th Congress shares the same title and declaration of policy.",
+   "SB No. 1080, SB No. 240, SB No. 225 and SB No. 145 of the 20th Congress carry near-identical text; SB No. 310 (filed July 9, 2025) has a matching title, but its text was not reviewed.",
+   "SB No. 1475 of the 20th Congress proposes a similar framework under the name Department of Water Resources Management.",
+   "Counterpart measures in the House of Representatives include HB No. 4123, HB No. 679, HB No. 1060, HB No. 4162, HB No. 722 and HB No. 3424; HB No. 1189 (filed July 3, 2025) and HB No. 3479 (filed August 11, 2025) have matching titles, but their texts were not reviewed.",
+   "Bills with similar titles were filed in earlier Congresses: HB No. 4944 and HB No. 9948 (18th Congress); HB No. 3226, HB No. 3302, HB No. 3435 and HB No. 4865 (19th Congress); their texts were not reviewed.",
+   "No substitute bill or committee report on the measure is on record."
+  ],
+  "related": [
+   {
+    "id": "SB-19-2771",
+    "relationship": "Filed in a past Congress",
+    "basis": "The 19th Congress bill carries the same title and matching provisions on the Department, the Board and the Commission.",
+    "section": "SB-19-2771:s15",
+    "quote": "The Board shall be composed of a Department Undersecretary as Chairperson and three (3) representatives from stakeholders as members"
+   },
+   {
+    "id": "SB-19-102",
+    "relationship": "Filed in a past Congress",
+    "basis": "The 19th Congress bill carries the same title and a matching declaration of policy; the rest of its text was not shown.",
+    "section": "SB-19-102:s2",
+    "quote": "every person has a right to access safe and clean water for personal and domestic use"
+   },
+   {
+    "id": "SB-20-1080",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "A Senate bill of the same Congress with near-identical text on the creation, organization and appropriations of the Department.",
+    "section": "SB-20-1080:s4",
+    "quote": "There is hereby established the Department of Water Resources, hereafter referred to as the Department."
+   },
+   {
+    "id": "SB-20-240",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "A Senate bill of the same Congress with near-identical text, including the transfer of DPWH sewerage functions.",
+    "section": "SB-20-240:s8",
+    "quote": "The powers and functions of the DPWH with regard to the planning, programming, administration, monitoring, and management of the National Sewerage and Septage Management Program (NSSMP)"
+   },
+   {
+    "id": "SB-20-225",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "A Senate bill of the same Congress with near-identical text, including the creation of the Water Regulatory Commission.",
+    "section": "SB-20-225:s29",
+    "quote": "There is hereby created and established an independent, quasi-judicial regulatory body to be known as the Water Regulatory Commission"
+   },
+   {
+    "id": "SB-20-145",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "A Senate bill of the same Congress with near-identical text, including the five-member composition of the Commission.",
+    "section": "SB-20-145:s32",
+    "quote": "The Commission shall be a collegial body composed of five (5) full-time members consisting of a Chairperson and four (4) members"
+   },
+   {
+    "id": "SB-20-1475",
+    "relationship": "Alternative proposal",
+    "basis": "A Senate bill of the same Congress with the same policy declaration but naming the body the Department of Water Resources Management; its remaining design should be compared.",
+    "section": "SB-20-1475:s2",
+    "quote": "The State further maintains that water resources are interconnected with climate, soil condition, land use and land cover, forest cover, and other natural resources."
+   },
+   {
+    "id": "HB-20-4123",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "The House bill carries the same title and near-identical provisions, including the Water Resources Adjudication Board.",
+    "section": "HB-20-4123:s14",
+    "quote": "There is hereby created a Water Resources Adjudication Board, hereafter referred to as the Board, under the Office of the Secretary."
+   },
+   {
+    "id": "HB-20-679",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "The House bill carries the same title and near-identical provisions, including the Water Regulatory Commission.",
+    "section": "HB-20-679:s29",
+    "quote": "There is hereby created and established an independent, quasi-judicial regulatory body to be known as the Water Regulatory Commission"
+   },
+   {
+    "id": "HB-20-1060",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "The House bill carries the same title and near-identical provisions, including the Office of the Secretary.",
+    "section": "HB-20-1060:s12",
+    "quote": "The Secretary shall be assisted by not more than three (3) Undersecretaries and three (3) Assistant Secretaries"
+   },
+   {
+    "id": "HB-20-4162",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "The House bill carries the same title and declaration of policy; the rest of its text was not shown.",
+    "section": "HB-20-4162:s2",
+    "quote": "The State recognizes that water is fundamental to individual life, health, and dignity"
+   },
+   {
+    "id": "HB-20-722",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "The House bill carries the same title and declaration of policy; the rest of its text was not shown.",
+    "section": "HB-20-722:s2",
+    "quote": "The State emphasizes that water is a public good subject to diverse use in economic, agricultural, and industrial activities"
+   },
+   {
+    "id": "HB-20-3424",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "The House bill carries the same title and declaration of policy; the rest of its text was not shown.",
+    "section": "HB-20-3424:s2",
+    "quote": "The State emphasizes that water is a public good subject to diverse use in economic, agricultural, and industrial activities"
+   },
+   {
+    "id": "HB-20-1189",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-1189",
+    "quote": "AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION"
+   },
+   {
+    "id": "HB-20-3479",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-3479",
+    "quote": "AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION"
+   },
+   {
+    "id": "HB-19-3610",
+    "relationship": "Alternative proposal",
+    "basis": "A 19th Congress bill on the same subject, titled the National Water Act, with a materially different declaration of policy focused on universal access and private sector participation.",
+    "section": "HB-19-3610:s2",
+    "quote": "this Act shall have the principal objective of ensuring and accelerating universal access to water supply and sanitation services"
+   },
+   {
+    "id": "HB-19-3727",
+    "relationship": "Alternative proposal",
+    "basis": "A 19th Congress bill on the same subject, titled the National Water Act, with a materially different declaration of policy.",
+    "section": "HB-19-3727:s2",
+    "quote": "Access to water is a basic human right. All water belongs to the State which shall govern its development and utilization for the people."
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-6234",
+    "label": "Amends or repeals",
+    "overlap": "Section 53 (Repealing Clause) repeals the rate-fixing and regulatory provisions of RA No. 6234, including Section 3 (h) and Section 12, and Section 9 (Attached Agencies) transfers the MWSS to the Department.",
+    "section": "RA-6234:s3",
+    "quote": "To fix periodically water rates and sewerage service fees as the System may deem just and equitable"
+   },
+   {
+    "law": "PD-198",
+    "label": "Amends or repeals",
+    "overlap": "Section 7 (Offices, Functions, and Personnel to be Completely Absorbed by the Department) abolishes the LWUA chartered under PD No. 198, and Section 53 (Repealing Clause) repeals its Sections 62 and 63 on regulation and rate review.",
+    "section": "PD-198:s2",
+    "quote": "the formulation and operation of independent, locally controlled public water districts is found and declared to be the most feasible and favored institutional structure"
+   },
+   {
+    "law": "EO-22-2023",
+    "label": "Amends or repeals",
+    "overlap": "Section 53 (Repealing Clause) repeals Executive Order No. 22, series of 2023, whose Water Resources Management Office performs integration functions that the Department would assume.",
+    "section": "EO-22-2023:s1",
+    "quote": "The Water Resources Management Office (WRMO) is hereby created in the Department of Environment and Natural Resources (DENR)."
+   },
+   {
+    "law": "PD-424",
+    "label": "Overlapping functions",
+    "overlap": "Section 7 (Offices, Functions, and Personnel to be Completely Absorbed by the Department) abolishes the National Water Resources Board created under PD No. 424, and Section 14 (Water Resources Adjudication Board) transfers its water rights functions to the new Board.",
+    "section": "PD-424:s2",
+    "quote": "Determine, adjudicate, and grant water rights"
+   },
+   {
+    "law": "RA-4850",
+    "label": "Referenced in the bill",
+    "overlap": "Section 9 (Attached Agencies) transfers the LLDA created under RA No. 4850 from the DENR and attaches it to the Department.",
+    "section": "RA-4850:s2",
+    "quote": "there is hereby created a body corporate to be known as the Laguna Lake Development Authority"
+   },
+   {
+    "law": "PD-1067",
+    "label": "Referenced in the bill",
+    "overlap": "Sections 14, 16 and 17 vest water permit and allocation functions under the Water Code in the Board and the Resource Allocation Office.",
+    "section": "law:PD-1067",
+    "quote": "A DECREE INSTITUTING A WATER CODE"
+   },
+   {
+    "law": "RA-9275",
+    "label": "Referenced in the bill",
+    "overlap": "Section 28 (Interface and Institutional Arrangements) preserves the Pollution Adjudication Board's jurisdiction over acts prohibited under RA No. 9275.",
+    "section": "law:RA-9275",
+    "quote": "AN ACT PROVIDING FOR A COMPREHENSIVE WATER QUALITY MANAGEMENT AND FOR OTHER PURPOSES"
+   },
+   {
+    "law": "RA-11032",
+    "label": "Referenced in the bill",
+    "overlap": "Section 37 (Registration and Licensing) and Section 49 (Applicability of Ease of Doing Business Law) apply the processing times of RA No. 11032 to licensing and services.",
+    "section": "law:RA-11032",
+    "quote": "AN ACT PROMOTING EASE OF DOING BUSINESS AND EFFICIENT DELIVERY OF GOVERNMENT SERVICES"
+   }
+  ],
+  "salient_features": "SB No. 83 seeks to establish the Department of Water Resources and the Water Regulatory Commission as the lead policy agency and independent regulator of the water sector. Its salient features are as follows:\na. Section 6 (Powers and Functions) provides that the Department shall adopt Integrated Water Resources Management as the strategic framework and formulate policies and river basin plans covering water supply, sanitation, sewerage, irrigation, hydropower, flood control and drainage.\nb. Section 7 (Offices, Functions, and Personnel to be Completely Absorbed by the Department) provides that the National Water Resources Board and the Local Water Utilities Administration are abolished and their functions, personnel, funds and property absorbed by the Department or the Commission.\nc. Section 8 (Powers and Functions to be Transferred to the Department) provides that the DPWH functions on the National Sewerage and Septage Management Program and certain Pasig River rehabilitation functions are transferred to the Department.\nd. Section 9 (Attached Agencies) provides that the MWSS and the LLDA, among others, are transferred from the DENR and attached to the Department, with the MWSS Regulatory Office absorbed by the Commission.\ne. Section 11 (Secretary of the Department of Water Resources) and Section 12 (The Offices of the Secretary and Undersecretaries) provide that the Department shall be headed by a Secretary appointed by the President, subject to confirmation, assisted by not more than three Undersecretaries and three Assistant Secretaries; no salary grades are stated.\nf. Section 14 (The Water Resources Adjudication Board) and Section 15 (Composition) provide for a quasi-judicial Board under the Office of the Secretary, chaired by an Undersecretary with three stakeholder representatives, supported by a Resource Allocation Office as secretariat.\ng. Section 20 (Bureaus and Services) and Section 21 (The Water Resources Regional Offices) provide for bureaus, including a Local Water Service Providers Bureau and a Bureau of Flood Control and Drainage, services and regional offices.\nh. Section 22 (Structure and Staffing Pattern) provides that the Secretary shall determine the organizational structure and staffing subject to DBM approval and the Salary Standardization Law of 2019.\ni. Section 23 (Socialized Credit Program) and Section 24 (Committee on the Socialized Credit Program) provide for socialized credit for local water service providers.\nj. Section 26 (Creation of the National Water Sector Policy Council) provides for an inter-agency Council chaired by the Secretary, with Department staff serving as its secretariat.\nk. Section 29 (Establishment) and Section 32 (Composition of the Water Regulatory Commission) provide for an independent, quasi-judicial Commission of five full-time members appointed by the President for seven-year terms.\nl. Section 31 (Powers and Functions of the Commission) and Section 40 (Setting Tariffs, Rates and Other Charges) provide that the Commission shall license and regulate all public and private water supply, sanitation and sewerage service providers, including tariff setting.\nm. Section 33 (Secretariat of the Commission) and Section 34 (The Commission Secretariat) provide for a Commission Secretariat headed by an Executive Director.\nn. Section 48 (Absorption or Separation from Service of Employees of the Subrogated Agencies) provides that affected employees enjoy security of tenure, with separation and retirement benefits for those who opt out.\no. Section 50 (Appropriations) provides that initial funding shall be charged against the current appropriations of the subsumed or transferred agencies and thereafter included in the annual General Appropriations Act.\np. Section 53 (Repealing Clause) provides for the repeal of rate-fixing and regulatory provisions of RA No. 6234 and PD No. 198, Executive Order No. 22, series of 2023, and the LGU rate-fixing power under the Local Government Code.",
+  "related_measures_policy": "SB No. 83 may be considered alongside SB No. 1080, SB No. 240, SB No. 225 and SB No. 145, which carry near-identical text in the Senate, its House counterparts HB No. 4123, HB No. 679 and HB No. 1060, and SB No. 1475, which proposes a Department of Water Resources Management. The measure is item 3 of the LEDAC Common Legislative Agenda and aligns with the Environment, Climate, and Disaster Resilience priority under the FY 2027 Budget Priorities Framework. The review should assess the fiscal and organizational effect of abolishing the National Water Resources Board created under PD No. 424 and the Local Water Utilities Administration under PD No. 198, the attachment of the MWSS and the LLDA under RA No. 6234 and RA No. 4850, the repeal of Section 3 (h) and Section 12 of RA No. 6234 and of Executive Order No. 22, series of 2023, and whether the new Department, Board, Council and Commission together reduce rather than add to overlapping functions, consistent with the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged against the current year's appropriations of the agencies and units subsumed or transferred to the Department; no amount stated",
+    "section": "Section 50 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act",
+    "section": "Section 50 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "One Secretary, not more than three Undersecretaries and three Assistant Secretaries; salary grades not stated",
+    "section": "Section 12 (The Offices of the Secretary and Undersecretaries)"
+   },
+   {
+    "item": "Members",
+    "detail": "Five full-time Commission members (Chairperson and four members); compensation under Section 36 (Compensation and Other Emoluments) to be verified",
+    "section": "Section 32 (Composition of the Water Regulatory Commission)"
+   },
+   {
+    "item": "Members",
+    "detail": "Water Resources Adjudication Board of an Undersecretary as Chairperson and three stakeholder representatives",
+    "section": "Section 15 (Composition)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Resource Allocation Office serving as secretariat to the Board",
+    "section": "Section 15 (Composition)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Commission Secretariat headed by an Executive Director",
+    "section": "Section 33 (Secretariat of the Commission)"
+   },
+   {
+    "item": "Organizational units",
+    "detail": "Bureaus, services and regional offices; structure and staffing subject to DBM approval and RA No. 11466",
+    "section": "Section 22 (Structure and Staffing Pattern)"
+   },
+   {
+    "item": "Credit program",
+    "detail": "Socialized credit program for local water service providers; funding source and amount to be verified",
+    "section": "Section 23 (Socialized Credit Program)"
+   },
+   {
+    "item": "Personnel benefits",
+    "detail": "Separation and retirement benefits for employees of abolished or transferred agencies who opt to leave the service",
+    "section": "Section 48 (Absorption or Separation from Service of Employees of the Subrogated Agencies)"
+   }
+  ],
+  "reviewer_checks": [
+   "Verify the short title in Section 1, as the heading text appears garbled in the available copy.",
+   "Check Section 16 (Functions of the Board), item (b), which refers to recommendations of the \"Research All\", apparently a typographical error for the Resource Allocation Office.",
+   "Check Section 49 (Applicability of Ease of Doing Business Law), which refers to \"LCDs\", apparently a typographical error for LGUs.",
+   "Confirm whether the Resource Allocation Office is created in Section 15 (Composition) or Section 17 (Resource Allocation Office), to avoid duplicate creation clauses.",
+   "Confirm the compensation of Commission members and the Executive Director under Section 36 (Compensation and Other Emoluments) and whether salary grades are specified.",
+   "Confirm the funding source and size of the socialized credit program under Section 23 (Socialized Credit Program).",
+   "Assess the fiscal effect on LGUs of repealing their rate-fixing power under Section 154 of the Local Government Code in Section 53 (Repealing Clause).",
+   "Confirm the status of the counterpart and same-Congress bills with the Senate and the House of Representatives, including any consolidation or substitute bill."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "The 19th Congress bill carries the same title and matching provisions on the Department, the Board and the Commission.",
+   "section": "SB-19-2771:s15",
+   "quote": "The Board shall be composed of a Department Undersecretary as Chairperson and three (3) representatives from stakeholders as members",
+   "check": "verified"
+  },
+  {
+   "claim": "The 19th Congress bill carries the same title and a matching declaration of policy; the rest of its text was not shown.",
+   "section": "SB-19-102:s2",
+   "quote": "every person has a right to access safe and clean water for personal and domestic use",
+   "check": "verified"
+  },
+  {
+   "claim": "A Senate bill of the same Congress with near-identical text on the creation, organization and appropriations of the Department.",
+   "section": "SB-20-1080:s4",
+   "quote": "There is hereby established the Department of Water Resources, hereafter referred to as the Department.",
+   "check": "verified"
+  },
+  {
+   "claim": "A Senate bill of the same Congress with near-identical text, including the transfer of DPWH sewerage functions.",
+   "section": "SB-20-240:s8",
+   "quote": "The powers and functions of the DPWH with regard to the planning, programming, administration, monitoring, and management of the National Sewerage and Septage Management Program (NSSMP)",
+   "check": "verified"
+  },
+  {
+   "claim": "A Senate bill of the same Congress with near-identical text, including the creation of the Water Regulatory Commission.",
+   "section": "SB-20-225:s29",
+   "quote": "There is hereby created and established an independent, quasi-judicial regulatory body to be known as the Water Regulatory Commission",
+   "check": "verified"
+  },
+  {
+   "claim": "A Senate bill of the same Congress with near-identical text, including the five-member composition of the Commission.",
+   "section": "SB-20-145:s32",
+   "quote": "The Commission shall be a collegial body composed of five (5) full-time members consisting of a Chairperson and four (4) members",
+   "check": "verified"
+  },
+  {
+   "claim": "A Senate bill of the same Congress with the same policy declaration but naming the body the Department of Water Resources Management; its remaining design should be compared.",
+   "section": "SB-20-1475:s2",
+   "quote": "The State further maintains that water resources are interconnected with climate, soil condition, land use and land cover, forest cover, and other natural resources.",
+   "check": "verified"
+  },
+  {
+   "claim": "The House bill carries the same title and near-identical provisions, including the Water Resources Adjudication Board.",
+   "section": "HB-20-4123:s14",
+   "quote": "There is hereby created a Water Resources Adjudication Board, hereafter referred to as the Board, under the Office of the Secretary.",
+   "check": "verified"
+  },
+  {
+   "claim": "The House bill carries the same title and near-identical provisions, including the Water Regulatory Commission.",
+   "section": "HB-20-679:s29",
+   "quote": "There is hereby created and established an independent, quasi-judicial regulatory body to be known as the Water Regulatory Commission",
+   "check": "verified"
+  },
+  {
+   "claim": "The House bill carries the same title and near-identical provisions, including the Office of the Secretary.",
+   "section": "HB-20-1060:s12",
+   "quote": "The Secretary shall be assisted by not more than three (3) Undersecretaries and three (3) Assistant Secretaries",
+   "check": "verified"
+  },
+  {
+   "claim": "The House bill carries the same title and declaration of policy; the rest of its text was not shown.",
+   "section": "HB-20-4162:s2",
+   "quote": "The State recognizes that water is fundamental to individual life, health, and dignity",
+   "check": "verified"
+  },
+  {
+   "claim": "The House bill carries the same title and declaration of policy; the rest of its text was not shown.",
+   "section": "HB-20-722:s2",
+   "quote": "The State emphasizes that water is a public good subject to diverse use in economic, agricultural, and industrial activities",
+   "check": "verified"
+  },
+  {
+   "claim": "The House bill carries the same title and declaration of policy; the rest of its text was not shown.",
+   "section": "HB-20-3424:s2",
+   "quote": "The State emphasizes that water is a public good subject to diverse use in economic, agricultural, and industrial activities",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-1189",
+   "quote": "AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-3479",
+   "quote": "AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION",
+   "check": "verified"
+  },
+  {
+   "claim": "A 19th Congress bill on the same subject, titled the National Water Act, with a materially different declaration of policy focused on universal access and private sector participation.",
+   "section": "HB-19-3610:s2",
+   "quote": "this Act shall have the principal objective of ensuring and accelerating universal access to water supply and sanitation services",
+   "check": "verified"
+  },
+  {
+   "claim": "A 19th Congress bill on the same subject, titled the National Water Act, with a materially different declaration of policy.",
+   "section": "HB-19-3727:s2",
+   "quote": "Access to water is a basic human right. All water belongs to the State which shall govern its development and utilization for the people.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 53 (Repealing Clause) repeals the rate-fixing and regulatory provisions of RA No. 6234, including Section 3 (h) and Section 12, and Section 9 (Attached Agencies) transfers the MWSS to the Department.",
+   "section": "RA-6234:s3",
+   "quote": "To fix periodically water rates and sewerage service fees as the System may deem just and equitable",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 7 (Offices, Functions, and Personnel to be Completely Absorbed by the Department) abolishes the LWUA chartered under PD No. 198, and Section 53 (Repealing Clause) repeals its Sections 62 and 63 on regulation and rate review.",
+   "section": "PD-198:s2",
+   "quote": "the formulation and operation of independent, locally controlled public water districts is found and declared to be the most feasible and favored institutional structure",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 53 (Repealing Clause) repeals Executive Order No. 22, series of 2023, whose Water Resources Management Office performs integration functions that the Department would assume.",
+   "section": "EO-22-2023:s1",
+   "quote": "The Water Resources Management Office (WRMO) is hereby created in the Department of Environment and Natural Resources (DENR).",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 7 (Offices, Functions, and Personnel to be Completely Absorbed by the Department) abolishes the National Water Resources Board created under PD No. 424, and Section 14 (Water Resources Adjudication Board) transfers its water rights functions to the new Board.",
+   "section": "PD-424:s2",
+   "quote": "Determine, adjudicate, and grant water rights",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Attached Agencies) transfers the LLDA created under RA No. 4850 from the DENR and attaches it to the Department.",
+   "section": "RA-4850:s2",
+   "quote": "there is hereby created a body corporate to be known as the Laguna Lake Development Authority",
+   "check": "verified"
+  },
+  {
+   "claim": "Sections 14, 16 and 17 vest water permit and allocation functions under the Water Code in the Board and the Resource Allocation Office.",
+   "section": "law:PD-1067",
+   "quote": "A DECREE INSTITUTING A WATER CODE",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 28 (Interface and Institutional Arrangements) preserves the Pollution Adjudication Board's jurisdiction over acts prohibited under RA No. 9275.",
+   "section": "law:RA-9275",
+   "quote": "AN ACT PROVIDING FOR A COMPREHENSIVE WATER QUALITY MANAGEMENT AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 37 (Registration and Licensing) and Section 49 (Applicability of Ease of Doing Business Law) apply the processing times of RA No. 11032 to licensing and services.",
+   "section": "law:RA-11032",
+   "quote": "AN ACT PROMOTING EASE OF DOING BUSINESS AND EFFICIENT DELIVERY OF GOVERNMENT SERVICES",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-18T00:03:58+00:00"
+ }
+}
