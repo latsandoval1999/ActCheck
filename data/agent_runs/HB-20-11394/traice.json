@@ -1,0 +1,240 @@
+{
+ "output": {
+  "target": "HB-20-11394",
+  "entity_proposed": "Local People’s Council (with a Provincial People’s Council in each province)",
+  "proposal": "HB No. 11394, the proposed “People’s Partnership in Governance Act,” seeks to institutionalize partnership between local government units (LGUs) and civil society organizations (CSOs) by providing for the registration of CSOs and the creation of a Local People’s Council in every city and municipality, and a Provincial People’s Council in every province, with representation in LGU bodies and the local sanggunian. It aims to extend people’s participation beyond consultation to the conception, implementation, monitoring and evaluation of local programs, projects and policies.",
+  "alignment": "As a measure on government organization and mandates, the review should examine how the proposed Local and Provincial People’s Councils and the Committee on Registration of CSOs would fit with existing local special bodies and CSO accreditation and participation mechanisms in LGUs, whether Section 14 (Amendment of the Composition of LGUs) would create overlapping or duplicative representation, and how the measure relates to the government's intent to streamline and reduce overlapping functions under the Government Optimization Act (RA No. 12231), noting that Section 19 (Repeal) states the Act shall not supplant other streamlining initiatives. The measure aligns with the Implementation of Full Devolution to LGUs priority area of the FY 2027 Budget Priorities Framework, particularly its focus on capacity building, although the review should assess the additional obligations it places on LGU budgets. No corresponding measure is identified in the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 11394 was filed in the 20th Congress on September 21, 2026 by Representative Patrick Michael \"PM\" D. Vargas; its status is filed, and later stages are not yet reflected in the available records.",
+   "HB No. 11620 (20th Congress), the proposed “People Empowerment Act,” carries closely similar provisions on the creation, powers and provincial counterpart of a People's Council, but differs in its funding provision.",
+   "HB No. 2707 (20th Congress, filed July 30, 2025, pending in the Committee) carries a title matching HB No. 11620; its text was not reviewed.",
+   "Measures with matching titles were filed in earlier Congresses: HB Nos. 832, 4244, 6151 and 7950 and SB Nos. 561 and 692 (18th Congress), and HB Nos. 385, 2727, 4141 and 11363 (19th Congress); their texts were not reviewed.",
+   "SB No. 726 (20th Congress, filed July 21, 2025, pending in the Committee), the proposed “People Empowerment Act,” is the apparent counterpart measure in the Senate; title match only."
+  ],
+  "related": [
+   {
+    "id": "HB-20-11620",
+    "relationship": "Alternative proposal",
+    "basis": "Same-Congress House bill with near-matching council creation, powers and provincial council provisions, but funded through the General Appropriations Act rather than DILG and LGU budgets and based on accreditation rather than registration of CSOs.",
+    "section": "HB-20-11620:s8",
+    "quote": "A People's Council composed of accredited CSOs shall be created in each local government unit (LGU)."
+   },
+   {
+    "id": "SB-20-726",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-20-726",
+    "quote": "THE PEOPLE EMPOWERMENT ACT: AN ACT CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS"
+   },
+   {
+    "id": "HB-20-2707",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-2707",
+    "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES"
+   },
+   {
+    "id": "HB-19-385",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-385",
+    "quote": "CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS"
+   },
+   {
+    "id": "HB-19-11363",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-11363",
+    "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES"
+   },
+   {
+    "id": "HB-19-2727",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-2727",
+    "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES"
+   },
+   {
+    "id": "HB-19-4141",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-4141",
+    "quote": "LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS THROUGH THE ESTABLISHMENT OF A"
+   },
+   {
+    "id": "HB-18-832",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-832",
+    "quote": "CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS"
+   },
+   {
+    "id": "HB-18-4244",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-4244",
+    "quote": "CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS"
+   },
+   {
+    "id": "HB-18-6151",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-6151",
+    "quote": "CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS"
+   },
+   {
+    "id": "HB-18-7950",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-7950",
+    "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES"
+   },
+   {
+    "id": "SB-18-561",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-18-561",
+    "quote": "THE PEOPLE EMPOWERMENT ACT: AN ACT CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS"
+   },
+   {
+    "id": "SB-18-692",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-18-692",
+    "quote": "THE PEOPLE EMPOWERMENT ACT: AN ACT CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS"
+   }
+  ],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 11394 seeks to establish a system of partnership between LGUs and CSOs through the registration of CSOs and the creation of a Local People’s Council in every city and municipality and a Provincial People’s Council in every province. Its salient features are as follows:\na. Section 2 (Declaration of Policy) provides that the State shall recognize CSOs and people’s organizations as partners in local governance and institutionalize their participation in local decision-making, from conception to evaluation of programs, projects and policies.\nb. Section 4 (Registration of CSOs) provides that CSOs in active operation for at least one year may register with the Local Sanggunian of their city or municipality upon submission of documentary requirements, while CSOs already accredited by the LGU need not register.\nc. Section 5 (Registration Deemed Inactive) provides that registered CSOs shall submit annual accomplishment reports and plans, failing which for two consecutive years their registration shall be deemed inactive until the lacking documents are submitted.\nd. Section 6 (Committee on Registration of CSOs) provides for a Committee on Registration of CSOs in each city and municipal Local Sanggunian to process applications and monitor compliance, with two seats for the Local People’s Council.\ne. Section 7 (Rights and Privileges of Registered CSOs) provides that registered CSOs may enter into joint ventures with the Local Sanggunian, develop local enterprises, receive assistance for local projects, and join the Local People’s Council.\nf. Section 8 (Creation of Local People’s Councils) provides that a Local People’s Council composed of accredited CSOs shall be organized through a convention called within ninety days from effectivity and formally created upon approval of its petition for recognition by the Local Sanggunian.\ng. Section 9 (Structure and Rules of the Local People’s Council) provides that each council shall determine its own structure and internal rules, with consultation mechanisms for non-member groups, and bars political parties, government employees’ organizations and non-registered CSOs from nomination to LGU special bodies.\nh. Section 10 (Recognition of the Local People’s Council by the Local Sanggunian) and Section 11 (Withdrawing Recognition of the Local People’s Council) provide that only one council shall be recognized per Local Sanggunian, within thirty days of petition, and that recognition may be withdrawn only on a verified petition on grounds such as partisan political activity.\ni. Section 12 (Powers and Responsibilities of the Local People’s Council) provides that the council may elect or appoint representatives to all LGU bodies, not exceeding twenty-five percent of their membership, and participate without compensation in local deliberations and programs, with the LGU providing office spaces, facilities and equipment.\nj. Section 13 (Creation of a Provincial People’s Council) provides that a Provincial People’s Council composed of representatives of the Local People’s Councils shall be recognized by the Sangguniang Panlalawigan and shall elect a representative who will sit in the Sangguniang Panlalawigan with the duties and powers of a Provincial Board member.\nk. Section 14 (Amendment of the Composition of LGUs) provides that the composition of all LGU committees, boards, councils, task forces and special bodies is amended to accommodate council representatives.\nl. Section 15 (Right to Self-Organization) provides that the DILG and LGUs shall assist and support efforts of the people towards self-organization.\nm. Section 16 (Funding) provides that funds for the capacity building of CSOs shall be included in the annual budget of the DILG, and funds for the maintenance and operating expenses of Local People’s Councils shall be included in the annual budgets of the respective LGUs.\nn. Section 17 (Information Boards and Suggestion Boxes) provides that LGUs shall provide and maintain information boards and suggestion boxes in public places and respond to citizens’ suggestions within fifteen working days.\no. Section 18 (Implementing Rules and Regulations) provides that the DILG and LGUs, in consultation with CSOs, shall issue the implementing rules and regulations within one hundred twenty days from effectivity.",
+  "related_measures_policy": "HB No. 11394 may be considered alongside HB No. 11620 and HB No. 2707 in the 20th Congress and SB No. 726, the proposed “People Empowerment Act,” in the Senate, which share its objective of creating People’s Councils in every LGU; HB No. 11620 contains near-matching provisions in its Section 8 (Creation of People's Councils), Section 12 (Powers and Responsibilities of the People's Council) and Section 13 (Creation of a Provincial People's Council (PPC)), but provides in its Section 17 (Appropriations) for funding through the General Appropriations Act, whereas HB No. 11394 charges costs to the DILG and LGU budgets under Section 16 (Funding). The measure is broadly aligned with the Implementation of Full Devolution to LGUs priority of the FY 2027 Budget Priorities Framework. The review should assess the fiscal impact on LGUs of maintaining the councils, providing facilities under Section 12 (Powers and Responsibilities of the Local People’s Council) and information boards under Section 17 (Information Boards and Suggestion Boxes), the cost implications of the Provincial People’s Council seat in the Sangguniang Panlalawigan under Section 13 (Creation of a Provincial People’s Council), the DILG's capacity-building requirement, and possible overlap with existing local special bodies and CSO accreditation mechanisms in light of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Continuing funding (national)",
+    "detail": "Capacity building of CSOs to be included in the annual budget of the DILG; no amount stated.",
+    "section": "Section 16 (Funding)"
+   },
+   {
+    "item": "Continuing funding (local)",
+    "detail": "Maintenance and operating expenses of Local People’s Councils to be included in the annual budgets of the respective LGUs; no amount stated.",
+    "section": "Section 16 (Funding)"
+   },
+   {
+    "item": "Facilities",
+    "detail": "LGUs to provide office spaces, facilities and/or equipment for council participation; council participation itself is without compensation.",
+    "section": "Section 12 (Powers and Responsibilities of the Local People’s Council)"
+   },
+   {
+    "item": "Position",
+    "detail": "A Provincial People’s Council representative sits in the Sangguniang Panlalawigan with the duties and powers of a Provincial Board member; compensation is not addressed.",
+    "section": "Section 13 (Creation of a Provincial People’s Council)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Committee on Registration of CSOs in each city and municipal Local Sanggunian.",
+    "section": "Section 6 (Committee on Registration of CSOs)"
+   },
+   {
+    "item": "Other LGU expenses",
+    "detail": "Information boards and suggestion boxes in barangays and public places, provided, maintained and controlled by the LGU.",
+    "section": "Section 17 (Information Boards and Suggestion Boxes)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 16 (Funding) repeats the sentence on DILG funding for CSO capacity building; confirm the intended text.",
+   "The bill uses both \"registered\" and \"accredited\" CSOs (e.g., Sections 4, 8 and 9); confirm whether the terms are intended to be the same.",
+   "Section 15 (Right to Self-Organization) refers to the \"Department of Local and Interior Governance (DILG)\"; confirm the correct agency name.",
+   "Typographical errors: \"political part\" in Section 9 and \"Sangguniang Panglungsod\" in Section 3; the heading of Section 10 is incomplete.",
+   "The final sentences of Section 4 (Registration of CSOs) and Section 12 (Powers and Responsibilities of the Local People’s Council) appear incomplete; verify against the official copy.",
+   "Section 3 defines the Local Sanggunian as city and municipal bodies only, while Section 13 involves the Sangguniang Panlalawigan; confirm consistency.",
+   "Confirm whether the Provincial People’s Council representative under Section 13 would receive the compensation of a Provincial Board member.",
+   "Confirm with the House and Senate the current status of HB No. 11620, HB No. 2707 and SB No. 726, and whether the House measures may be consolidated.",
+   "Verify the relationship of the measure with existing provisions on local special bodies and CSO accreditation under the Local Government Code."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same-Congress House bill with near-matching council creation, powers and provincial council provisions, but funded through the General Appropriations Act rather than DILG and LGU budgets and based on accreditation rather than registration of CSOs.",
+   "section": "HB-20-11620:s8",
+   "quote": "A People's Council composed of accredited CSOs shall be created in each local government unit (LGU).",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-20-726",
+   "quote": "THE PEOPLE EMPOWERMENT ACT: AN ACT CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-2707",
+   "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-385",
+   "quote": "CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-11363",
+   "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-2727",
+   "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-4141",
+   "quote": "LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS THROUGH THE ESTABLISHMENT OF A",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-832",
+   "quote": "CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-4244",
+   "quote": "CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-6151",
+   "quote": "CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-7950",
+   "quote": "PROVIDING FOR ITS PARTICIPATION IN THE LOCAL SANGGUNIAN AND LOCAL BOARDS, COUNCILS, COMMITTEES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-18-561",
+   "quote": "THE PEOPLE EMPOWERMENT ACT: AN ACT CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-18-692",
+   "quote": "THE PEOPLE EMPOWERMENT ACT: AN ACT CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-18T10:09:16+00:00"
+ }
+}
