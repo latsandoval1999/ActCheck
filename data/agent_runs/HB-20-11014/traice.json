@@ -1,0 +1,58 @@
+{
+ "output": {
+  "target": "HB-20-11014",
+  "entity_proposed": "",
+  "proposal": "HB No. 11014, the proposed \"AI Agent Transactions and Accountability Act,\" seeks to provide a legal framework for transactions and other legally relevant acts performed through artificial intelligence (AI) agents, attributing such acts to the principal, and to establish a voluntary digital authority credential framework, while preserving accountability and good-faith reliance and protecting lawful digital asset ownership, self-custody, peer-to-peer and open-source technologies.",
+  "alignment": "Although catalogued as a government organization and mandates measure, the bill as titled establishes a credential framework rather than a new agency; the review should therefore examine which existing office would administer the voluntary registration and digital authority credentials under Section 7 (Voluntary AI Agent Registration and Digital Authority Credentials), Section 8 (Limited Mandatory Registration for High-Risk Autonomous Transactions) and Section 16 (Suspension and Revocation of Digital Authority Credentials), and whether any new unit or function would duplicate existing mandates, consistent with the intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The measure may be considered aligned with the Digitalization priority area of the FY 2027 Budget Priorities Framework, particularly its focus on interoperable digital platforms and digital infrastructure. The bill is not identified as part of the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 11014 was filed in the House of Representatives of the 20th Congress on August 27, 2026 by Representative Terry L. Ridon.",
+   "The bill is pending at the filing stage; later stages are not yet reflected in the available records.",
+   "No earlier version, counterpart measure in the Senate, substitute bill or committee report has been identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-8792",
+    "label": "Referenced in the bill",
+    "overlap": "Section 4 (Legal Recognition and Attribution of Acts Performed Through AI Agents) provides that the use of an AI agent does not by itself invalidate electronic acts otherwise valid under RA No. 8792 (Electronic Commerce Act of 2000).",
+    "section": "HB-20-11014:s4",
+    "quote": "otherwise valid under Republic Act No. 8792, otherwise known as the Electronic Commerce Act of 2000"
+   }
+  ],
+  "salient_features": "HB No. 11014 seeks to provide a legal framework for acts performed through AI agents and to establish a voluntary digital authority credential framework. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the \"AI Agent Transactions and Accountability Act.\"\nb. Section 4 (Legal Recognition and Attribution of Acts Performed Through AI Agents) provides that acts performed through an AI agent are attributable to the principal where performed under the principal's actual authority, where the principal configured, instructed or knowingly permitted such acts, or where applicable law otherwise justifies attribution; such acts are treated as acts of the principal, the use of an AI agent does not by itself invalidate an otherwise valid electronic act, and no independent contractual capacity or legal personality is conferred on an AI agent.\nc. Section 22 (Appropriations) provides that the initial implementation shall be charged against the current appropriations of the DICT, and that funding thereafter shall be included in the annual General Appropriations Act.\nd. The bill also contains provisions on transactions through AI agents, principal accountability, voluntary registration and digital authority credentials, limited mandatory registration for high-risk autonomous transactions, good-faith reliance, transaction records, protection of digital asset ownership, cryptographic secrets, developers and open-source software, financial security, suspension and revocation of credentials, prohibited acts and penalties, relationship with existing regulation, a regulatory sandbox, mandatory congressional review, and implementing rules (Sections 5 to 21 and 23), whose details should be reviewed against the full text.",
+  "related_measures_policy": "HB No. 11014 may be considered alongside RA No. 8792 (Electronic Commerce Act of 2000), which Section 4 (Legal Recognition and Attribution of Acts Performed Through AI Agents) expressly references as the basis for the validity of electronic acts. The measure aligns with the Digitalization priority under the FY 2027 Budget Priorities Framework. The review should assess the office that would administer the digital authority credential framework and its registration, suspension and revocation functions, whether these functions overlap with existing mandates in light of the Government Optimization Act (RA No. 12231), and the fiscal implications of charging initial implementation against the current appropriations of the DICT under Section 22 (Appropriations).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for initial implementation, charged against the current appropriations of the DICT; no amount stated",
+    "section": "Section 22 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary, to be included in the annual General Appropriations Act",
+    "section": "Section 22 (Appropriations)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm which agency or office would administer the voluntary registration and digital authority credentials, as the administering body should be clearly designated.",
+   "Verify whether the bill creates any new office, unit or positions, given that it is classified as a government organization measure but appears to establish a framework rather than a body.",
+   "Check the consistency of the bill title, which reads \"PEER-TO- PEER\" with a stray space.",
+   "Confirm with the House whether a Senate counterpart or earlier version of the measure exists.",
+   "Review the scope of the limited mandatory registration for high-risk autonomous transactions and its cost implications for the administering agency."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 4 (Legal Recognition and Attribution of Acts Performed Through AI Agents) provides that the use of an AI agent does not by itself invalidate electronic acts otherwise valid under RA No. 8792 (Electronic Commerce Act of 2000).",
+   "section": "HB-20-11014:s4",
+   "quote": "otherwise valid under Republic Act No. 8792, otherwise known as the Electronic Commerce Act of 2000",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-19T04:09:37+00:00"
+ }
+}
