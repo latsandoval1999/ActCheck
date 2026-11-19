@@ -1,0 +1,241 @@
+{
+ "output": {
+  "target": "HB-20-11320",
+  "entity_proposed": "Bureau of Agricultural Extension (BAE)",
+  "proposal": "HB No. 11320 seeks to strengthen the national agriculture and fisheries extension system by transforming the Agricultural Training Institute (ATI) into the Bureau of Agricultural Extension (BAE), a line bureau of the Department of Agriculture, with offices down to the municipal level and a nationwide plantilla of extension workers. It aims to support food security by equipping small farmers and fisherfolk with knowledge and capabilities, and provides dedicated funding, compensation and professionalization measures for extension personnel.",
+  "alignment": "As a government organization measure, the review should examine how the BAE's powers and functions under Section 5 (Powers and Functions) fit with those of existing extension providers, notably the local government units that currently employ agricultural extension workers, the CHED and agricultural and fisheries SUCs tasked under Section 8 (CHED and the Agricultural and Fisheries SUCs), and other offices of the Department, and whether the conversion of the ATI into a bureau with national, regional, provincial and municipal offices is consistent with the streamlining and reduction of overlapping functions under the Government Optimization Act (RA No. 12231), which Section 7 (Authority of the Secretary) expressly invokes. The measure aligns with the Food Security priority area of the FY 2027 Budget Priorities Framework, particularly its focus on climate-resilient and smart agriculture, as Section 5 (Powers and Functions) covers training in digital farming and climate change resilience. The measure is not among the LEDAC Common Legislative Agenda priorities in the material provided.",
+  "legislative_history": [
+   "HB No. 11320 was filed on September 15, 2026 by Representative Charisse Anne C. Hernandez; it is pending at the filing stage, and later stages are not reflected in the available data.",
+   "Measures with similar titles were filed in earlier Congresses: SB No. 835 (18th Congress, filed July 30, 2019), HB No. 3788 (18th Congress, filed August 8, 2019), HB No. 10508 (18th Congress, filed November 17, 2021) and HB No. 7654 (19th Congress, filed March 16, 2023), all pending in committee; only their titles were available.",
+   "SB No. 1182 (Agriculture and Fisheries Extension Act of 2025), filed on August 13, 2025 and pending in committee, appears to be the Senate counterpart, based on its title.",
+   "HB No. 1938 (filed July 15, 2025) and HB No. 959 (filed July 1, 2025) in the 20th Congress carry titles on the same subject and are pending in committee; unlike HB No. 11320, their titles do not refer to the creation of a bureau."
+  ],
+  "related": [
+   {
+    "id": "SB-20-1182",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed; the Senate bill in the same Congress bears the same short title and subject.",
+    "section": "meta:SB-20-1182",
+    "quote": "AN ACT STRENGTHENING THE NATIONAL AGRICULTURE AND FISHERIES EXTENSION SYSTEM TO ACCELERATE AGRICULTURE AND FISHERIES DEVELOPMENT, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "HB-19-7654",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-7654",
+    "quote": "AN ACT PRESCRIBING THE STRENGTHENING OF THE NATIONAL AGRICULTURE & FISHERIES EXTENSION SYSTEM TO ACCELERATE AGRICULTURE AND FISHERIES DEVELOPMENT"
+   },
+   {
+    "id": "HB-18-3788",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-3788",
+    "quote": "AN ACT PRESCRIBING THE STRENGTHENING OF THE NATIONAL AGRICULTURE AND FISHERIES EXTENSION SYSTEM TO ACCELERATE AGRICULTURE AND FISHERIES DEVELOPMENT"
+   },
+   {
+    "id": "HB-18-10508",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-10508",
+    "quote": "AN ACT PRESCRIBING THE STRENGTHENING OF THE NATIONAL AGRICULTURE & FISHERIES EXTENSION SYSTEM"
+   },
+   {
+    "id": "SB-18-835",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; Senate bill of the 18th Congress with the same short title.",
+    "section": "meta:SB-18-835",
+    "quote": "AGRICULTURE AND FISHERIES EXTENSION ACT: AN ACT STRENGTHENING THE NATIONAL AGRICULTURE AND FISHERIES EXTENSION SYSTEM TO ACCELERATE AGRICULTURE AND FISHERIES DEVELOPMENT"
+   },
+   {
+    "id": "HB-20-1938",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; a House bill on the same subject in this Congress whose title does not mention creating a bureau.",
+    "section": "meta:HB-20-1938",
+    "quote": "AN ACT PRESCRIBING THE STRENGTHENING OF THE NATIONAL AGRICULTURE & FISHERIES EXTENSION SYSTEM TO ACCELERATE AGRICULTURE AND FISHERIES DEVELOPMENT"
+   },
+   {
+    "id": "HB-20-959",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; a House bill on the national extension system in this Congress whose title does not mention creating a bureau.",
+    "section": "meta:HB-20-959",
+    "quote": "AN ACT PRESCRIBING THE STRENGTHENING OF THE NATIONAL EXTENSION SYSTEM TO ACCELERATE AGRICULTURE AND FISHERIES DEVELOPMENT"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-8435",
+    "label": "Referenced in the bill",
+    "overlap": "Section 18 (Oversight Committee) assigns oversight of the Act to the Congressional Oversight Committee on Agricultural and Fisheries Modernization created under Section 114 of RA No. 8435, and Section 3 (Definition of Terms) adopts the AFMA's core extension services.",
+    "section": "RA-8435:s114",
+    "quote": "A Congressional Oversight Committee on Agricultural and Fisheries Modernization is hereby created to be composed of the Chairs of the Committee on Agriculture of both Houses"
+   },
+   {
+    "law": "RA-12231",
+    "label": "Referenced in the bill",
+    "overlap": "Section 7 (Authority of the Secretary) subjects the reorganization of the Department's internal offices into the BAE to the Government Optimization Act.",
+    "section": "law:RA-12231",
+    "quote": "AN ACT OPTIMIZING THE NATIONAL GOVERNMENT FOR EFFICIENT PUBLIC SERVICE DELIVERY"
+   },
+   {
+    "law": "RA-12215",
+    "label": "Referenced in the bill",
+    "overlap": "Section 9 (Plantilla of BAE Personnel) sets the basic salary grade of Agriculturist I at Salary Grade 13 consistent with the Philippine Agriculturist Act.",
+    "section": "law:RA-12215",
+    "quote": "AN ACT REGULATING THE PRACTICE OF THE AGRICULTURE PROFESSION IN THE PHILIPPINES"
+   },
+   {
+    "law": "EO-127-1999",
+    "label": "Overlapping functions",
+    "overlap": "Title only: the council on extension, research and development may overlap with the BAE's role as apex extension organization under Section 5 (Powers and Functions); text not reviewed.",
+    "section": "law:EO-127-1999",
+    "quote": "CONSTITUTING THE COUNCIL FOR EXTENSION, RESEARCH AND DEVELOPMENT IN AGRICULTURE AND FISHERIES"
+   },
+   {
+    "law": "PD-547",
+    "label": "Overlapping functions",
+    "overlap": "Title only: the integration of agricultural extension services in the Department's regional offices may overlap with the BAE's regional, provincial and municipal offices under Section 4 (Creation of the Bureau of Agricultural Extension); text not reviewed.",
+    "section": "law:PD-547",
+    "quote": "TO CREATE DEPARTMENT-WIDE REGIONAL OFFICES IN THE DEPARTMENT OF AGRICULTURE, TO INTEGRATE AGRICULTURAL EXTENSION SERVICES"
+   }
+  ],
+  "salient_features": "HB No. 11320, the proposed Agriculture and Fisheries Extension Act, seeks to transform the Agricultural Training Institute into the Bureau of Agricultural Extension (BAE) to strengthen the national agriculture and fisheries extension system. Its salient features are as follows:\na. Section 4 (Creation of the Bureau of Agricultural Extension) provides that the ATI is converted into the BAE, a line bureau of the Department under the Undersecretary for Operations, with offices at the national, regional, provincial and municipal levels, headed by a Bureau Director assisted by two Assistant Directors for the Technical Service and the Administration and Finance Service, all appointed by the President upon the Secretary's recommendation and subject to minimum experience requirements.\nb. Section 5 (Powers and Functions) provides that the BAE serves as the national apex organization for a unified extension system, trains its personnel, conducts education and training for farmers and fisherfolk on topics ranging from organizing and agri-entrepreneurship to digital farming and climate resilience, and builds partnerships with SUCs, LGUs, business groups and NGOs.\nc. Section 6 (Agricultural Extension Development Roadmap) provides that the BAE, with the CHED and the agricultural and fisheries SUCs, finalizes a ten-year extension roadmap with performance indicators and projected budgetary requirements within 120 days of effectivity, funded by the Department.\nd. Section 7 (Authority of the Secretary) provides that the Secretary may create advisory or coordinative bodies and fund them, and may reorganize the Department's internal offices into the BAE subject to RA No. 12231, without diminishing the rights of affected personnel.\ne. Section 8 (CHED and the Agricultural and Fisheries SUCs) provides that the CHED and the SUCs collaborate with the BAE in delivering extension services, integrate their internship programs into the BAE's system, and fund their part of this mandate.\nf. Section 9 (Plantilla of BAE Personnel) provides for positions of Bureau Director, two Assistant Directors, Regional Director, Provincial Agricultural Extension Officer, Assistant PAEO and extension workers, with at least three extension workers in every municipality, preference for LGU extension workers who opt to join without diminution of benefits, and Salary Grade 13 for Agriculturist I.\ng. Sections 10 (Training and Scholarship Programs) and 11 (Other Compensation and Benefits) provide for training and scholarships for extension workers with TESDA assistance, and for representation and transportation, hazard, subsistence and longevity allowances, among others.\nh. Sections 12 (Professionalization of Extension Services) to 15 (The Farmer-to-Farmer Approach) provide for higher qualification standards and a career path set with the CSC, an incentives and rewards system, a code of conduct, and the institutionalization of the farmer-to-farmer approach, to be piloted and integrated nationally within ten years.\ni. Section 16 (Appropriations) provides a first-year appropriation for the BAE sourced from the Department's budget, a continuing annual allocation not lower than a fixed amount or a share of agriculture and fisheries gross value added, the transfer of all ATI assets, personnel and funds to the BAE, and the retention of its service revenues.\nj. Sections 17 (Phased Implementation) and 18 (Oversight Committee) provide for implementation over five years and oversight by the Congressional Oversight Committee on Agricultural and Fisheries Modernization, to which the BAE submits annual reports.\nk. Section 19 (Implementing Rules and Regulations) provides that the Department, with the CHED and other stakeholders, issues the IRR within 90 days, covering the ATI-to-BAE transition, with administrative penalties for failure to do so.",
+  "related_measures_policy": "HB No. 11320 may be considered alongside SB No. 1182 in the Senate and HB Nos. 1938 and 959 in the House, which bear titles on the same subject, as well as similarly titled measures filed in the 18th and 19th Congresses. The measure supports the Food Security priority of the FY 2027 Budget Priorities Framework, particularly climate-resilient and smart agriculture. In view of the policy to streamline functions and reduce duplication under the Government Optimization Act (RA No. 12231), the review should assess whether converting the ATI into a line bureau with offices down to the municipal level under Section 4 (Creation of the Bureau of Agricultural Extension) and absorbing LGU extension workers under Section 9 (Plantilla of BAE Personnel) duplicates or displaces extension functions of local government units and of existing coordinating bodies, and how the oversight arrangement in Section 18 (Oversight Committee) relates to the mandate of the Congressional Oversight Committee under Sections 114 to 116 of RA No. 8435. The review should also assess the fiscal impact of the funding floor and the mandated inclusion in the President's budget under Section 16 (Appropriations).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "₱10 billion for the first year for personnel services, operations and capital outlay of the BAE, sourced from the total budget of the Department",
+    "section": "Section 16 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Annual inclusion in the President's expenditure program of not less than ₱10 billion or 1% of agriculture and fisheries gross value added, whichever is higher; ₱5 billion of this for salaries of extension personnel and BAE operations",
+    "section": "Section 16 (Appropriations)"
+   },
+   {
+    "item": "Transfer and retained income",
+    "detail": "All ATI assets, resources, personnel and funds transferred to the BAE; revenues from its services, facilities and equipment used to augment its MOOE",
+    "section": "Section 16 (Appropriations)"
+   },
+   {
+    "item": "Program funding",
+    "detail": "₱20 million appropriated for the first year of the farmer-to-farmer approach, adjusted thereafter",
+    "section": "Section 15 (The Farmer-to-Farmer Approach)"
+   },
+   {
+    "item": "Position",
+    "detail": "Bureau Director, two Assistant Directors, Regional Directors, PAEOs, Assistant PAEOs and extension workers (at least three per municipality); salary grades of officials not stated; Agriculturist I at Salary Grade 13",
+    "section": "Section 9 (Plantilla of BAE Personnel)"
+   },
+   {
+    "item": "Compensation and benefits",
+    "detail": "RATA, hazard allowance of at least 20% of monthly basic salary, full daily subsistence allowance, longevity pay of 5%, among others",
+    "section": "Section 11 (Other Compensation and Benefits)"
+   },
+   {
+    "item": "Training and scholarships",
+    "detail": "Adequate budgetary support from the National Government for training and scholarship programs for extension workers",
+    "section": "Section 10 (Training and Scholarship Programs)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Advisory or coordinative bodies created by the Secretary, funded by the Department and other participating agencies",
+    "section": "Section 7 (Authority of the Secretary)"
+   },
+   {
+    "item": "Other Department costs",
+    "detail": "Formulation and updating of the ten-year roadmap and the incentives and rewards system funded by the Department; CHED and SUCs fund their collaboration",
+    "section": "Section 6 (Agricultural Extension Development Roadmap)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 16 (Appropriations) sources the first-year ₱10 billion from the Department's existing budget while also mandating a separate annual floor of ₱10 billion or 1% of gross value added; confirm whether these are additive and reconcile the wording.",
+   "Section 15 (The Farmer-to-Farmer Approach) states that funds are 'hereby appropriated' while Section 16 (Appropriations) states that funds 'shall be appropriated'; confirm the intended funding mechanism.",
+   "Salary grades for the Bureau Director, Assistant Directors, Regional Directors and PAEOs are not specified; Salary Grade 13 in Section 9 applies only to Agriculturist I.",
+   "Confirm the legal basis of the ATI and whether its conversion into a line bureau requires amendment of the issuance that created it, as the Repealing Clause is general.",
+   "Section 19 (Implementing Rules and Regulations) states that the IRR 'shall be implemented' within 90 days; confirm whether promulgation was intended.",
+   "Clarify how the absorption of LGU-employed extension workers under Section 9 affects devolved extension functions and LGU personnel budgets.",
+   "Confirm with the House and Senate the current status and text of SB No. 1182, HB No. 1938 and HB No. 959, and whether they are to be consolidated with this bill.",
+   "Several sections (Sections 3, 5 and 11) appear incomplete in the available text; verify against the official copy of the bill."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed; the Senate bill in the same Congress bears the same short title and subject.",
+   "section": "meta:SB-20-1182",
+   "quote": "AN ACT STRENGTHENING THE NATIONAL AGRICULTURE AND FISHERIES EXTENSION SYSTEM TO ACCELERATE AGRICULTURE AND FISHERIES DEVELOPMENT, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-7654",
+   "quote": "AN ACT PRESCRIBING THE STRENGTHENING OF THE NATIONAL AGRICULTURE & FISHERIES EXTENSION SYSTEM TO ACCELERATE AGRICULTURE AND FISHERIES DEVELOPMENT",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-3788",
+   "quote": "AN ACT PRESCRIBING THE STRENGTHENING OF THE NATIONAL AGRICULTURE AND FISHERIES EXTENSION SYSTEM TO ACCELERATE AGRICULTURE AND FISHERIES DEVELOPMENT",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-10508",
+   "quote": "AN ACT PRESCRIBING THE STRENGTHENING OF THE NATIONAL AGRICULTURE & FISHERIES EXTENSION SYSTEM",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; Senate bill of the 18th Congress with the same short title.",
+   "section": "meta:SB-18-835",
+   "quote": "AGRICULTURE AND FISHERIES EXTENSION ACT: AN ACT STRENGTHENING THE NATIONAL AGRICULTURE AND FISHERIES EXTENSION SYSTEM TO ACCELERATE AGRICULTURE AND FISHERIES DEVELOPMENT",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a House bill on the same subject in this Congress whose title does not mention creating a bureau.",
+   "section": "meta:HB-20-1938",
+   "quote": "AN ACT PRESCRIBING THE STRENGTHENING OF THE NATIONAL AGRICULTURE & FISHERIES EXTENSION SYSTEM TO ACCELERATE AGRICULTURE AND FISHERIES DEVELOPMENT",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a House bill on the national extension system in this Congress whose title does not mention creating a bureau.",
+   "section": "meta:HB-20-959",
+   "quote": "AN ACT PRESCRIBING THE STRENGTHENING OF THE NATIONAL EXTENSION SYSTEM TO ACCELERATE AGRICULTURE AND FISHERIES DEVELOPMENT",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 18 (Oversight Committee) assigns oversight of the Act to the Congressional Oversight Committee on Agricultural and Fisheries Modernization created under Section 114 of RA No. 8435, and Section 3 (Definition of Terms) adopts the AFMA's core extension services.",
+   "section": "RA-8435:s114",
+   "quote": "A Congressional Oversight Committee on Agricultural and Fisheries Modernization is hereby created to be composed of the Chairs of the Committee on Agriculture of both Houses",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 7 (Authority of the Secretary) subjects the reorganization of the Department's internal offices into the BAE to the Government Optimization Act.",
+   "section": "law:RA-12231",
+   "quote": "AN ACT OPTIMIZING THE NATIONAL GOVERNMENT FOR EFFICIENT PUBLIC SERVICE DELIVERY",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Plantilla of BAE Personnel) sets the basic salary grade of Agriculturist I at Salary Grade 13 consistent with the Philippine Agriculturist Act.",
+   "section": "law:RA-12215",
+   "quote": "AN ACT REGULATING THE PRACTICE OF THE AGRICULTURE PROFESSION IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title only: the council on extension, research and development may overlap with the BAE's role as apex extension organization under Section 5 (Powers and Functions); text not reviewed.",
+   "section": "law:EO-127-1999",
+   "quote": "CONSTITUTING THE COUNCIL FOR EXTENSION, RESEARCH AND DEVELOPMENT IN AGRICULTURE AND FISHERIES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title only: the integration of agricultural extension services in the Department's regional offices may overlap with the BAE's regional, provincial and municipal offices under Section 4 (Creation of the Bureau of Agricultural Extension); text not reviewed.",
+   "section": "law:PD-547",
+   "quote": "TO CREATE DEPARTMENT-WIDE REGIONAL OFFICES IN THE DEPARTMENT OF AGRICULTURE, TO INTEGRATE AGRICULTURAL EXTENSION SERVICES",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-19T00:05:04+00:00"
+ }
+}
