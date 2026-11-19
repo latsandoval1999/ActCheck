@@ -1,0 +1,116 @@
+{
+ "output": {
+  "target": "HB-20-11115",
+  "entity_proposed": "National Dam Safety Authority (NDSA)",
+  "proposal": "HB No. 11115 seeks to institute a national dam safety program and create the National Dam Safety Authority (NDSA) to control, manage and coordinate the operations of all dams in the country. It aims to protect lives, property, livelihoods and the environment of communities affected by dam-related hazards through safety standards, monitoring, early warning and mandatory consultation and disclosure during emergencies.",
+  "alignment": "As a government organization measure, the review should examine how the NDSA's proposed exclusive power to control, manage and operate all dams under Section 6 (Power and Functions of the NDSA) and the turnover of dams from present operating agencies under Section 13 (Transitory Provision) fit with the mandates of agencies that currently manage dams and of the disaster risk reduction and management system under RA No. 10121, and whether creating a new authority is consistent with the government's intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). No matching FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified for this measure.",
+  "legislative_history": [
+   "HB No. 11115 was filed in the 20th Congress on September 3, 2026 by Representative Patrick Michael \"PM\" D. Vargas; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "Two bills bearing the same title were filed in the 18th Congress, HB No. 1077 (filed July 2, 2019) and HB No. 6238 (filed February 10, 2020), both pending in committee; their texts were not reviewed.",
+   "SB No. 731, the Dam Safety Act, bearing the same title, was filed in the Senate in the 20th Congress on July 21, 2025 and is pending in committee; its text was not reviewed."
+  ],
+  "related": [
+   {
+    "id": "SB-20-731",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed. SB No. 731 in the 20th Congress carries the same short title and long title.",
+    "section": "meta:SB-20-731",
+    "quote": "DAM SAFETY ACT: AN ACT INSTITUTING A NATIONAL DAM SAFETY PROGRAM, ESTABLISHING THE NATIONAL DAM SAFETY AUTHORITY"
+   },
+   {
+    "id": "HB-18-1077",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed. The 18th Congress bill carries an identical title.",
+    "section": "meta:HB-18-1077",
+    "quote": "AN ACT INSTITUTING A NATIONAL DAM SAFETY PROGRAM, ESTABLISHING THE NATIONAL DAM SAFETY AUTHORITY, PENALIZING VIOLATIONS THEREFOR AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "HB-18-6238",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed. The 18th Congress bill carries an identical title.",
+    "section": "meta:HB-18-6238",
+    "quote": "AN ACT INSTITUTING A NATIONAL DAM SAFETY PROGRAM, ESTABLISHING THE NATIONAL DAM SAFETY AUTHORITY, PENALIZING VIOLATIONS THEREFOR AND FOR OTHER PURPOSES"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-10121",
+    "label": "Referenced in the bill",
+    "overlap": "The bill cites RA No. 10121, whose disaster risk reduction and management system may overlap with the emergency management, early warning and consultation functions in Section 6 (Power and Functions of the NDSA) and Section 14 (Penalties).",
+    "section": "law:RA-10121",
+    "quote": "AN ACT STRENGTHENING THE PHILIPPINE DISASTER RISK REDUCTION AND MANAGEMENT SYSTEM"
+   }
+  ],
+  "salient_features": "HB No. 11115 seeks to institute a national dam safety program and establish the National Dam Safety Authority (NDSA) to control, manage and coordinate the operations of all dams in the country. Its salient features are as follows:\na. Section 4 (The National Dam Safety Authority) provides for the creation of the NDSA, tasked to control, manage and coordinate operations of all dams in the country.\nb. Section 5 (Principal Office and Term) provides that the Authority shall hold office in Metro Manila, may set up area offices, and shall have a term of twenty-five (25) years, renewable for the same period.\nc. Section 6 (Power and Functions of the NDSA) grants the Authority exclusive power to control, manage and operate all dams, with authority to delegate management to agencies currently managing dams, which shall come under its direct control during emergencies; it also tasks the Authority to formulate a national dam safety plan, explore financing, and be responsible for the safe construction, maintenance and repair of dams.\nd. Section 7 (Chairperson) provides that the Chairperson, appointed by the President with the rank of undersecretary, shall head the Authority for a six (6)-year term, subject to educational and experience qualifications; no salary grade is stated.\ne. Section 8 (Board of Directors) provides for a Board that sets the Authority's overall direction, composed of the Secretaries of eight departments, a Senator, the chairpersons of three House committees as ex officio members, local government representatives, the MWSS Administrator and other members.\nf. Section 9 (Functions of the Board of Directors) and Section 10 (Executive Committee) provide for the Board's functions and an Executive Committee composed of the Chairperson, the Executive Director and the private sector representative to act on urgent matters.\ng. Section 11 (Organizational Structure) and Section 12 (Merit System) provide that the Chairperson, with Board approval, shall determine the organizational structure, staffing pattern and pay scales subject to civil service and compensation laws, and that personnel shall be appointed on merit and fitness.\nh. Section 13 (Transitory Provision) requires present dam-operating agencies to turn over management of dams to the Authority one year after effectivity, unless delegated back, and requires submission of the National Dam Safety Plan to the President and Congress within one year.\ni. Section 14 (Penalties) makes consultation with stakeholders and public disclosure of dam status mandatory during emergencies and penalizes failure to do so with imprisonment and a fine.\nj. Section 15 (Appropriations) provides that initial implementation shall be charged against the current year's appropriations of the Department of Public Works and Highways, with subsequent funding included in the annual General Appropriations Act.\nk. Section 16 (Implementing Rules and Regulations) requires the Authority to adopt implementing rules within sixty (60) days from approval.",
+  "related_measures_policy": "HB No. 11115 may be considered alongside SB No. 731 in the Senate and HB Nos. 1077 and 6238 of the 18th Congress, which bear the same title, subject to confirmation of their texts. No matching FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified. The review should assess whether the exclusive control over all dams under Section 6 (Power and Functions of the NDSA) and the turnover under Section 13 (Transitory Provision) duplicate the functions of agencies currently operating dams and of the disaster risk reduction and management system under RA No. 10121, and whether a new authority with a 25-year term is warranted under the streamlining policy of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for initial implementation, charged against the current year's appropriations of DPWH; no amount stated",
+    "section": "Section 15 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Budget to be increased by one hundred percent (100%) thereafter and included in the annual GAA; base amount not specified",
+    "section": "Section 15 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Chairperson with undersecretary rank, six-year term; salary grade not stated",
+    "section": "Section 7 (Chairperson)"
+   },
+   {
+    "item": "Members",
+    "detail": "Board of Directors of department secretaries, legislators, local government and other representatives; compensation not stated in the available text",
+    "section": "Section 8 (Board of Directors)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Organizational structure, staffing pattern and pay scales to be set by the Chairperson with Board approval; area offices may be established",
+    "section": "Section 11 (Organizational Structure)"
+   }
+  ],
+  "reviewer_checks": [
+   "Clarify Section 15 (Appropriations), which provides that the budget shall be increased by one hundred percent without identifying the base amount.",
+   "Section 14 (Penalties) contains substantive consultation and disclosure duties, and the penalty range of three months to six years imprisonment and the fine should be reviewed for clarity and proportionality.",
+   "Review the inclusion of a Senator and House committee chairpersons as ex officio Board members in Section 8 (Board of Directors) for consistency with the separation of powers.",
+   "The Executive Director named in Section 10 (Executive Committee) is not otherwise provided for in the organizational provisions; confirm the position and its salary grade.",
+   "Reconcile the exclusive power over all dams in Section 6 (Power and Functions of the NDSA) with delegation to existing operators and with the mandates of agencies now managing dams.",
+   "Correct typographical errors, such as 'affectivity' in Section 13 (Transitory Provision) and 'early systems' in Section 6 (Power and Functions of the NDSA).",
+   "Confirm where the bill cites RA No. 10121, as the provisions referencing it could not be fully verified.",
+   "Confirm with the Senate the status and text of SB No. 731."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed. SB No. 731 in the 20th Congress carries the same short title and long title.",
+   "section": "meta:SB-20-731",
+   "quote": "DAM SAFETY ACT: AN ACT INSTITUTING A NATIONAL DAM SAFETY PROGRAM, ESTABLISHING THE NATIONAL DAM SAFETY AUTHORITY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The 18th Congress bill carries an identical title.",
+   "section": "meta:HB-18-1077",
+   "quote": "AN ACT INSTITUTING A NATIONAL DAM SAFETY PROGRAM, ESTABLISHING THE NATIONAL DAM SAFETY AUTHORITY, PENALIZING VIOLATIONS THEREFOR AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The 18th Congress bill carries an identical title.",
+   "section": "meta:HB-18-6238",
+   "quote": "AN ACT INSTITUTING A NATIONAL DAM SAFETY PROGRAM, ESTABLISHING THE NATIONAL DAM SAFETY AUTHORITY, PENALIZING VIOLATIONS THEREFOR AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "The bill cites RA No. 10121, whose disaster risk reduction and management system may overlap with the emergency management, early warning and consultation functions in Section 6 (Power and Functions of the NDSA) and Section 14 (Penalties).",
+   "section": "law:RA-10121",
+   "quote": "AN ACT STRENGTHENING THE PHILIPPINE DISASTER RISK REDUCTION AND MANAGEMENT SYSTEM",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-19T04:04:03+00:00"
+ }
+}
