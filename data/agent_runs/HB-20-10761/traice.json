@@ -1,0 +1,157 @@
+{
+ "output": {
+  "target": "HB-20-10761",
+  "entity_proposed": "National Coordinating Council for Education (NCCE)",
+  "proposal": "HB No. 10761 seeks to create the National Coordinating Council for Education (NCCE) under the Office of the President as the primary whole-of-government mechanism for coordinating, aligning and monitoring education and workforce development reforms, in line with the National Education and Workforce Development Plan (NEWDP). It also seeks to institutionalize the coordinating functions of the existing Education and Workforce Development Group (EWDG) created under Administrative Order No. 36, series of 2025, which the Council would succeed.",
+  "alignment": "As a government organization measure, the review should examine whether a statutory council is needed in place of the existing EWDG, how the NCCE's functions fit with the mandates of DepEd, CHED, TESDA, DOLE, DEPDev and other member agencies, and how the measure relates to the streamlining of the Executive Branch under the Government Optimization Act (RA No. 12231), which Section 9 (Rationalization and Convergence of Inter-Agency Bodies) expressly invokes through the Committee on Optimizing the Executive Branch. The bill aligns with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on equitable access to quality education. No LEDAC Common Legislative Agenda item is identified for the measure.",
+  "legislative_history": [
+   "HB No. 10761 was filed on August 12, 2026 by Representative Agatha \"Agay\" Cruz; it is pending at the filing stage, and later stages are not recorded.",
+   "Several other House bills in the 20th Congress also seek to create a National Coordinating Council for Education, namely HB Nos. 9132, 9573, 10697, 11217 and 11275.",
+   "No earlier-Congress version, Senate counterpart, substitute bill or committee report was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-10697",
+    "relationship": "Alternative proposal",
+    "basis": "It creates the same Council under the Office of the President with a similar membership, but assigns it directing and budget-endorsement functions and lacks the EWDG transition and rationalization provisions.",
+    "section": "HB-20-10697:s5",
+    "quote": "Review and endorse major education sector budget proposals prior to submission to DBM"
+   },
+   {
+    "id": "HB-20-11217",
+    "relationship": "Alternative proposal",
+    "basis": "It creates the same Council with a design closely matching HB No. 10697, including a budget-endorsement function not found in HB No. 10761.",
+    "section": "HB-20-11217:s5",
+    "quote": "Review and endorse major education sector budget proposals prior to submission to DBM"
+   },
+   {
+    "id": "HB-20-9132",
+    "relationship": "Alternative proposal",
+    "basis": "It creates the same Council but adds the culture and sports commissions as members and gives the Council directing and funding-assurance functions.",
+    "section": "HB-20-9132:s5",
+    "quote": "Ensure that programs and activities implementing priority education policies are properly and sufficiently funded"
+   },
+   {
+    "id": "HB-20-9573",
+    "relationship": "Alternative proposal",
+    "basis": "It establishes the same Council with a broader membership that includes private sector, private school and student representatives.",
+    "section": "HB-20-9573:s4",
+    "quote": "One (1) representative from an association of private educational institutions."
+   },
+   {
+    "id": "HB-20-11275",
+    "relationship": "Alternative proposal",
+    "basis": "It establishes the same Council with a broader membership that includes private sector, private school and student representatives.",
+    "section": "HB-20-11275:s4",
+    "quote": "One (1) representative from a recognized national student organization."
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-12231",
+    "label": "Referenced in the bill",
+    "overlap": "Section 9 (Rationalization and Convergence of Inter-Agency Bodies) allows the Council to recommend the rationalization of inter-agency mechanisms to the Committee on Optimizing the Executive Branch created under RA No. 12231.",
+    "section": "HB-20-10761:s9",
+    "quote": "the Committee on Optimizing the Executive Branch (COEB) established pursuant to Republic Act No. 12231, otherwise known as the"
+   },
+   {
+    "law": "RA-10173",
+    "label": "Referenced in the bill",
+    "overlap": "Section 7 (Education and Workforce Data Governance and Interoperability) requires the processing and sharing of personal data under the Council's data architecture to comply with RA No. 10173.",
+    "section": "HB-20-10761:s7",
+    "quote": "shall comply with Republic Act No. 10173, otherwise known as the"
+   }
+  ],
+  "salient_features": "HB No. 10761 seeks to create the National Coordinating Council for Education (NCCE) under the Office of the President as the primary mechanism for coordinating education and workforce development reforms. Its salient features are as follows:\na. Section 3 (Creation of the National Coordinating Council for Education) provides that the Council is created under the Office of the President as a high-level inter-agency body for strategic coordination, policy alignment, convergence planning and monitoring of education and workforce development reforms, consistent with the NEWDP.\nb. Section 4 (Composition of the Council) provides that the President shall chair the Council, may designate the Executive Secretary or a Cabinet member as Vice Chairperson, and that the members are the heads of DepEd, CHED, TESDA, DOST, DOLE, DEPDev, DMW and DBM.\nc. Section 5 (Powers and Functions) provides that the Council shall harmonize policies, plans, programs and performance targets, monitor NEWDP implementation, identify gaps in learner progression, recommend government-wide priorities to the President, coordinate a human resource strategy for the education sector, and strengthen the labor market and skills information system, among others.\nd. Section 6 (National Education and Workforce Development Plan) provides that the NEWDP 2026-2035 shall serve as the initial strategic framework, and that the Council shall monitor, periodically review and coordinate the preparation of a successor plan in consultation with stakeholders.\ne. Section 7 (Education and Workforce Data Governance and Interoperability) provides that the Council shall coordinate an interoperable education and workforce data architecture, preferring interoperability over new centralized databases and complying with the Data Privacy Act of 2012.\nf. Section 8 (Technical and Inter-agency Mechanisms) provides that the Council may create technical working groups and similar bodies, while using existing inter-agency mechanisms where practicable.\ng. Section 9 (Rationalization and Convergence of Inter-Agency Bodies) provides that the Council, with DBM, shall review existing education and workforce inter-agency bodies and may recommend their rationalization, without itself having power to abolish or reorganize any body.\nh. Section 10 (Council Secretariat) provides for a Secretariat under the Office of the President, headed by an Executive Director with the rank of Undersecretary appointed by the President.\ni. Section 11 (Transition from the Education and Workforce Development Group) provides that the Council shall succeed to the coordinating functions of the EWDG under Administrative Order No. 36, series of 2025, which shall cease to operate separately, with its records and resources transferred.\nj. Section 12 (Appropriations) provides that initial funding shall be charged against the current appropriations of the Office of the President and funds available for the EWDG, and that continuing requirements, including Secretariat staffing, shall be included in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 10761 may be considered alongside HB Nos. 9132, 9573, 10697, 11217 and 11275, which also seek to create a National Coordinating Council for Education but differ in membership, in the Council's authority over agency budgets, and in the treatment of existing inter-agency mechanisms. The measure aligns with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework. The review should assess the need to convert the EWDG into a statutory council under Section 11 (Transition from the Education and Workforce Development Group), the consistency of Section 9 (Rationalization and Convergence of Inter-Agency Bodies) with the streamlining mandate under RA No. 12231, the role assigned to DBM as a member and as a partner in the rationalization review, and the staffing and cost implications of the Council Secretariat under Section 10 (Council Secretariat).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "No amount stated; charged against current appropriations of the Office of the President and other legally available funds for the coordinating functions of the existing EWDG",
+    "section": "Section 12 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act, covering the authorized staffing and operational requirements of the Council Secretariat",
+    "section": "Section 12 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Executive Director with the rank of Undersecretary, appointed by the President; no salary grade stated",
+    "section": "Section 10 (Council Secretariat)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Council Secretariat under the Office of the President; staffing complement not specified",
+    "section": "Section 10 (Council Secretariat)"
+   },
+   {
+    "item": "Members",
+    "detail": "Eight ex officio agency heads, with the President as Chairperson; no honoraria or allowances stated",
+    "section": "Section 4 (Composition of the Council)"
+   },
+   {
+    "item": "Transfer",
+    "detail": "Records, data and resources of the EWDG necessary for implementation to be transferred to the Council",
+    "section": "Section 11 (Transition from the Education and Workforce Development Group)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the full text of Section 5 (Powers and Functions) and Section 10 (Council Secretariat), including any staffing or organizational structure provisions.",
+   "Verify the reference in Section 6 (National Education and Workforce Development Plan) to the NEWDP 2026-2035 as adopted by Congress, and the instrument through which it was adopted.",
+   "Confirm the current status of Administrative Order No. 36, series of 2025, and the existing resources of the EWDG that would be transferred.",
+   "Confirm with the House the status of the other bills seeking to create a National Coordinating Council for Education and whether they are to be consolidated.",
+   "Check whether the Council's functions overlap with existing education coordinating bodies, such as the Literacy Coordinating Council under RA No. 7165, as amended."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "It creates the same Council under the Office of the President with a similar membership, but assigns it directing and budget-endorsement functions and lacks the EWDG transition and rationalization provisions.",
+   "section": "HB-20-10697:s5",
+   "quote": "Review and endorse major education sector budget proposals prior to submission to DBM",
+   "check": "verified"
+  },
+  {
+   "claim": "It creates the same Council with a design closely matching HB No. 10697, including a budget-endorsement function not found in HB No. 10761.",
+   "section": "HB-20-11217:s5",
+   "quote": "Review and endorse major education sector budget proposals prior to submission to DBM",
+   "check": "verified"
+  },
+  {
+   "claim": "It creates the same Council but adds the culture and sports commissions as members and gives the Council directing and funding-assurance functions.",
+   "section": "HB-20-9132:s5",
+   "quote": "Ensure that programs and activities implementing priority education policies are properly and sufficiently funded",
+   "check": "verified"
+  },
+  {
+   "claim": "It establishes the same Council with a broader membership that includes private sector, private school and student representatives.",
+   "section": "HB-20-9573:s4",
+   "quote": "One (1) representative from an association of private educational institutions.",
+   "check": "verified"
+  },
+  {
+   "claim": "It establishes the same Council with a broader membership that includes private sector, private school and student representatives.",
+   "section": "HB-20-11275:s4",
+   "quote": "One (1) representative from a recognized national student organization.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Rationalization and Convergence of Inter-Agency Bodies) allows the Council to recommend the rationalization of inter-agency mechanisms to the Committee on Optimizing the Executive Branch created under RA No. 12231.",
+   "section": "HB-20-10761:s9",
+   "quote": "the Committee on Optimizing the Executive Branch (COEB) established pursuant to Republic Act No. 12231, otherwise known as the",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 7 (Education and Workforce Data Governance and Interoperability) requires the processing and sharing of personal data under the Council's data architecture to comply with RA No. 10173.",
+   "section": "HB-20-10761:s7",
+   "quote": "shall comply with Republic Act No. 10173, otherwise known as the",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-19T10:07:35+00:00"
+ }
+}
