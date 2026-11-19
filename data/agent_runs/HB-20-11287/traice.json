@@ -1,0 +1,122 @@
+{
+ "output": {
+  "target": "HB-20-11287",
+  "entity_proposed": "Flight Standards Inspectorate Centers (FSIC)",
+  "proposal": "HB No. 11287 seeks to amend RA No. 9497 (Civil Aviation Authority Act of 2008) by inserting a new section authorizing the Civil Aviation Authority of the Philippines to establish, operate and maintain at least one Flight Standards Inspectorate Center each in Visayas and in Mindanao. The centers would carry out regional civil aviation safety surveillance, certification and licensing functions.",
+  "alignment": "As a government organization measure, the review should examine whether the proposed FSIC duplicate or overlap with the existing flight standards and regional units of the Civil Aviation Authority of the Philippines under RA No. 9497, whether the same regional coverage may be achieved through existing structures, and how the creation of new centers and positions relates to the streamlining and reduction of overlapping functions under the Government Optimization Act (RA No. 12231). No matching FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda measure was identified for this bill.",
+  "legislative_history": [
+   "HB No. 11287 was filed on September 14, 2026 by Representative Eric G. Yap; it is pending at the filing stage, and later stages are not recorded.",
+   "Bills with closely matching titles on CAAP Flight Standards Inspectorate Centers in Visayas and Mindanao were filed in the 18th Congress (HB No. 7347, filed 2020-08-11; HB No. 10854, filed 2022-05-30) and in the 19th Congress (HB No. 1552, filed 2022-07-07; HB No. 4928, filed 2022-09-19), the 19th Congress bills pending in the Committee; their texts were not reviewed.",
+   "No Senate counterpart, substitute bill or committee report on the same subject was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-19-4928",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-4928",
+    "quote": "AN ACT CREATING CIVIL AVIATION AUTHORITY OF THE PHILIPPINES (CAAP) FLIGHT STANDARDS INSPECTORATE CENTERS IN VISAYAS AND IN MINDANAO"
+   },
+   {
+    "id": "HB-19-1552",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-1552",
+    "quote": "AN ACT PROVIDING FOR THE ESTABLISHMENT OF CIVIL AVIATION AUTHORITY OF THE PHILIPPINES (CAAP) FLIGHT STANDARDS INSPECTORATE CENTERS IN VISAYAS AND MINDANAO"
+   },
+   {
+    "id": "HB-18-7347",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-7347",
+    "quote": "AN ACT CREATING CIVIL AVIATION AUTHORITY OF THE PHILIPPINES (CAAP) FLIGHT STANDARDS INSPECTORATE CENTERS IN VISAYAS AND IN MINDANAO"
+   },
+   {
+    "id": "HB-18-10854",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-10854",
+    "quote": "AN ACT PROVIDING FOR THE ESTABLISHMENT OF CIVIL AVIATION AUTHORITY OF THE PHILIPPINES (CAAP) FLIGHT STANDARDS INSPECTORATE CENTERS IN VISAYAS AND MINDANAO"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-9497",
+    "label": "Amends or repeals",
+    "overlap": "Section 1 (New Section 41 of RA No. 9497) inserts a new section after Section 40 of RA No. 9497 creating the FSIC under the Authority.",
+    "section": "law:RA-9497",
+    "quote": "AN ACT CREATING THE CIVIL AVIATION AUTHORITY OF THE PHILIPPINES, AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+   }
+  ],
+  "salient_features": "HB No. 11287 seeks to establish Flight Standards Inspectorate Centers under the Civil Aviation Authority of the Philippines in Visayas and in Mindanao by amending RA No. 9497. Its salient features are as follows:\na. Section 1 (New Section 41 of RA No. 9497) provides that the Authority may establish, operate and maintain at least one FSIC each in Visayas and in Mindanao, each headed by a Center Director who may be assisted by an Assistant Center Director, with no salary grades specified.\nb. Section 1 (New Section 41 of RA No. 9497) further provides that each FSIC shall, within its region, manage its activities and personnel; promote civil aviation safety through regulation and surveillance in accordance with ICAO standards and recommended practices; certify commercial air transport and general aviation operators and approve training and maintenance organizations; issue airmen licenses; harmonize operating regulations and coordination among departments; and perform other functions prescribed by law or assigned by the Director General.\nc. Section 2 (Renumbering) provides that the succeeding sections shall be renumbered accordingly.\nd. Section 3 (Implementing Rules and Regulations) provides that the listed departments and other concerned agencies shall issue the implementing rules within ninety days from effectivity.\ne. Sections 4 to 6 (Separability Clause, Repealing Clause and Effectivity) contain the standard final provisions, with effectivity fifteen days after publication.",
+  "related_measures_policy": "HB No. 11287 may be considered alongside HB Nos. 7347 and 10854 of the 18th Congress and HB Nos. 1552 and 4928 of the 19th Congress, which bear closely matching titles on CAAP Flight Standards Inspectorate Centers in Visayas and Mindanao. No matching FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda measure was identified. The review should assess the fit of the proposed centers with the existing organization and functions of the Civil Aviation Authority of the Philippines under RA No. 9497, the source of funding for the centers and their personnel in the absence of an appropriations provision in the bill, and consistency with the streamlining objectives of the Government Optimization Act (RA No. 12231), with particular reference to Section 1 (New Section 41 of RA No. 9497).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Establishment, operation and maintenance of at least one FSIC each in Visayas and in Mindanao; the bill has no appropriations provision identifying the funding source.",
+    "section": "Section 1 (New Section 41 of RA No. 9497)"
+   },
+   {
+    "item": "Position",
+    "detail": "One Center Director per FSIC; salary grade not specified.",
+    "section": "Section 1 (New Section 41 of RA No. 9497)"
+   },
+   {
+    "item": "Position",
+    "detail": "Up to one Assistant Center Director per FSIC; salary grade not specified.",
+    "section": "Section 1 (New Section 41 of RA No. 9497)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Personnel and operating costs of the centers' regional certification, licensing and surveillance functions; amount and source not stated.",
+    "section": "Section 1 (New Section 41 of RA No. 9497)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 3 (Implementing Rules and Regulations) assigns the rules to the Departments of Foreign Affairs, Tourism, Finance, Labor and Employment and Interior and Local Government but does not name the Civil Aviation Authority of the Philippines; confirm whether this is a drafting error.",
+   "Section 1 refers to RA No. 9497 as the \"Civil Aviation Authority of 2008\", omitting the word \"Act\"; confirm the correct short title.",
+   "Section 2 (Renumbering) does not clarify that the renumbering applies to the sections of RA No. 9497 after the new Section 41; confirm the intended wording.",
+   "Section 6 (Effectivity) refers to a newspaper of \"general application\" instead of \"general circulation\"; check for a typographical error.",
+   "The bill has no appropriations section and does not specify salary grades or staffing for the centers; confirm the intended funding source and positions.",
+   "Confirm with the House the status and texts of the earlier CAAP Flight Standards Inspectorate Center bills, and whether the CAAP strengthening bills of the 18th and 19th Congresses contain similar provisions."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-4928",
+   "quote": "AN ACT CREATING CIVIL AVIATION AUTHORITY OF THE PHILIPPINES (CAAP) FLIGHT STANDARDS INSPECTORATE CENTERS IN VISAYAS AND IN MINDANAO",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-1552",
+   "quote": "AN ACT PROVIDING FOR THE ESTABLISHMENT OF CIVIL AVIATION AUTHORITY OF THE PHILIPPINES (CAAP) FLIGHT STANDARDS INSPECTORATE CENTERS IN VISAYAS AND MINDANAO",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-7347",
+   "quote": "AN ACT CREATING CIVIL AVIATION AUTHORITY OF THE PHILIPPINES (CAAP) FLIGHT STANDARDS INSPECTORATE CENTERS IN VISAYAS AND IN MINDANAO",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-10854",
+   "quote": "AN ACT PROVIDING FOR THE ESTABLISHMENT OF CIVIL AVIATION AUTHORITY OF THE PHILIPPINES (CAAP) FLIGHT STANDARDS INSPECTORATE CENTERS IN VISAYAS AND MINDANAO",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 1 (New Section 41 of RA No. 9497) inserts a new section after Section 40 of RA No. 9497 creating the FSIC under the Authority.",
+   "section": "law:RA-9497",
+   "quote": "AN ACT CREATING THE CIVIL AVIATION AUTHORITY OF THE PHILIPPINES, AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-19T00:08:06+00:00"
+ }
+}
