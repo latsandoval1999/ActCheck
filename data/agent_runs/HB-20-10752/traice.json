@@ -1,0 +1,232 @@
+{
+ "output": {
+  "target": "HB-20-10752",
+  "entity_proposed": "Sub-Committee on Autism (Sub-Committee), under the National Council on Disability Affairs (NCDA)",
+  "proposal": "HB No. 10752 seeks to institute a National Autism Care Plan (NACP) and to create a Sub-Committee on Autism under the NCDA as an inter-agency and multi-sectoral policy-making and coordinative mechanism to develop and implement the NACP. It aims to ensure non-discrimination, accessibility, reasonable accommodation and support for persons with autism across the lifespan.",
+  "alignment": "As a government organization and mandates measure, the review should examine whether the proposed Sub-Committee, attached to the existing NCDA and composed largely of heads of existing agencies, duplicates coordinative functions already exercised by the NCDA and its member agencies, and how it relates to the government's intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess the program mandates assigned to the DOH, DepEd, DSWD, NCDA, PhilHealth and the DOF under Section 7 (The National Autism Care Plan), Section 11 (PhilHealth Coverage) and Section 12 (Protection Against Discrimination in Insurance and Other Financial Instruments). No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda measure was matched to the bill.",
+  "legislative_history": [
+   "HB No. 10752 was filed on August 12, 2026 in the 20th Congress; its status is filed, and later stages are not reflected in the available records.",
+   "HB No. 618, HB No. 876, HB No. 2991 and HB No. 3198 of the 20th Congress carry the same title and are pending in committee; only their titles were available, so text identity has not been verified.",
+   "SB No. 687 of the 20th Congress (National Autism Care Plan Act), pending in committee, carries a closely matching title and appears to be the Senate counterpart; its text was not reviewed.",
+   "Measures on a Philippine National Autism Care Plan with a different design were filed in earlier Congresses (e.g., SB No. 791 and HB No. 5235 in the 18th Congress; SB No. 1319, HB No. 229 and HB No. 8977 in the 19th Congress), and similar measures are pending in the 20th Congress (e.g., HB No. 9340, HB No. 9393 and HB No. 11786)."
+  ],
+  "related": [
+   {
+    "id": "SB-20-687",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed; the Senate title likewise establishes a subcommittee on autism under the NCDA.",
+    "section": "meta:SB-20-687",
+    "quote": "ESTABLISHING A SUBCOMMITTEE ON AUTISM UNDER THE NATIONAL COUNCIL ON DISABILITY AFFAIRS, AND PROVIDING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-618",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-618",
+    "quote": "AN ACT INSTITUTING A NATIONAL AUTISM CARE PLAN, ESTABLISHING A SUB-COMMITTEE ON AUTISM UNDER THE NATIONAL COUNCIL ON DISABILITY AFFAIRS"
+   },
+   {
+    "id": "HB-20-876",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-876",
+    "quote": "AN ACT INSTITUTING A NATIONAL AUTISM CARE PLAN, ESTABLISHING A SUB-COMMITTEE ON AUTISM UNDER THE NATIONAL COUNCIL ON DISABILITY AFFAIRS"
+   },
+   {
+    "id": "HB-20-2991",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-2991",
+    "quote": "AN ACT INSTITUTING A NATIONAL AUTISM CARE PLAN, ESTABLISHING A SUB-COMMITTEE ON AUTISM UNDER THE NATIONAL COUNCIL ON DISABILITY AFFAIRS"
+   },
+   {
+    "id": "HB-20-3198",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-3198",
+    "quote": "AN ACT INSTITUTING A NATIONAL AUTISM CARE PLAN, ESTABLISHING A SUB-COMMITTEE ON AUTISM UNDER THE NATIONAL COUNCIL ON DISABILITY AFFAIRS"
+   },
+   {
+    "id": "HB-20-9340",
+    "relationship": "Alternative proposal",
+    "basis": "It addresses the same subject through a separate Autism Council chaired by the DOH Secretary under Section 17 (Composition of the Autism Council of the Philippines), rather than an NCDA sub-committee.",
+    "section": "HB-20-9340:s17",
+    "quote": "The Council shall be composed of the following: a. The DOH Secretary as Chairperson; b. The DSWD Secretary as Vice-Chairperson;"
+   },
+   {
+    "id": "HB-20-9393",
+    "relationship": "Alternative proposal",
+    "basis": "It creates a DOH-headed Inter-Agency ASD Coordinating Committee under Section 6 (Creation of an Inter-Agency ASD Coordinating Committee) with similar coordinative functions.",
+    "section": "HB-20-9393:s6",
+    "quote": "There is hereby established an Inter-Agency ASD Coordinating Committee (IACC) which shall serve as an inter-agency and multi-sectoral mechanism tasked to promote the implementation of the National ASD Program"
+   },
+   {
+    "id": "HB-20-11786",
+    "relationship": "Alternative proposal",
+    "basis": "It proposes comprehensive national care for persons with autism, funded through the DOH budget under Section 18 (Appropriations).",
+    "section": "HB-20-11786:s18",
+    "quote": "The amount necessary to carry out the provisions of this Act shall be included and incorporated in the annual general appropriations of the DOH."
+   },
+   {
+    "id": "SB-19-1319",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title follows the Philippine National Autism Care Plan design rather than an NCDA sub-committee.",
+    "section": "meta:SB-19-1319",
+    "quote": "AN ACT INSTITUTING A PHILIPPINE NATIONAL AUTISM CARE PLAN FOR THE SUPPORT OF PERSONS WITH AUTISM AND FOR OTHER PURPOSES"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-7277",
+    "label": "Referenced in the bill",
+    "overlap": "Section 2 (Declaration of Policy) anchors the measure on the Magna Carta for Persons with Disability, whose disability-coordination functions the Sub-Committee would complement.",
+    "section": "HB-20-10752:s2",
+    "quote": "the Magna Carta for Persons with Disability (RA 7277, as amended)"
+   },
+   {
+    "law": "RA-11223",
+    "label": "Overlapping functions",
+    "overlap": "Section 2 (Declaration of Policy) and Section 11 (PhilHealth Coverage) draw on the Universal Health Care Act, which already governs PhilHealth benefit coverage.",
+    "section": "HB-20-10752:s2",
+    "quote": "the Philippines’ Universal Health Care Act (RA 11223) similarly guarantees access to care for all Filipinos"
+   },
+   {
+    "law": "RA-11036",
+    "label": "Referenced in the bill",
+    "overlap": "Section 2 (Declaration of Policy) cites the Mental Health Act, and Section 6 (Composition of the Sub-Committee on Autism) includes the Philippine Council for Mental Health.",
+    "section": "HB-20-10752:s2",
+    "quote": "the Universal Health Care Act (RA 11223), and the Mental Health Act (RA 11036)"
+   },
+   {
+    "law": "RA-11650",
+    "label": "Overlapping functions",
+    "overlap": "The education and learner-support components of Section 7 (The National Autism Care Plan) may overlap with the inclusive education services for learners with disabilities under this law.",
+    "section": "law:RA-11650",
+    "quote": "AN ACT INSTITUTING A POLICY OF INCLUSION AND SERVICES FOR LEARNERS WITH DISABILITIES IN SUPPORT OF INCLUSIVE EDUCATION"
+   }
+  ],
+  "salient_features": "HB No. 10752 seeks to institute a National Autism Care Plan and to create a Sub-Committee on Autism under the National Council on Disability Affairs to develop and implement it. Its salient features are as follows:\na. Section 4 (Inter-Agency and Multi-Sectoral Mechanism) provides that the Sub-Committee is created under the NCDA as an inter-agency and multi-sectoral policy-making and coordinative mechanism to develop and implement a sustainable NACP.\nb. Section 5 (Powers and Functions of the Sub-Committee) provides that the Sub-Committee shall develop the NACP as a roadmap for the needs of persons with autism and their families, coordinate, monitor and evaluate its implementation, design awareness campaigns, undertake research, enhance government services such as screening, diagnosis, early intervention, education and livelihood, and develop capacity-building programs, incentives and awards.\nc. Section 6 (Composition of the Sub-Committee on Autism) provides that the NCDA shall chair and the DOH shall vice-chair, with the heads of DSWD, DepEd, DILG, DOLE, DOST-PCHRD, CHED, CSC, TESDA, CWC, PCMH and NIH as members, together with seven non-government representatives appointed by the Chairperson; government members may designate permanent representatives not lower than Assistant Secretary.\nd. Section 7 (The National Autism Care Plan) provides that the NACP shall cover information campaigns by concerned agencies, a central database of professionals and institutions to be developed by the NCDA, and DOH epidemiological surveillance and an information and monitoring system, among other programs.\ne. Section 8 (Panel of Technical Experts) provides that the Sub-Committee shall constitute a national panel of technical experts from nine professional organizations to give technical advice, with qualifications and per diems set by the Sub-Committee.\nf. Section 9 (Local Government Support) provides that LGUs shall promote the NACP and may enter into joint ventures, with the Sub-Committee and the DILG coordinating its mainstreaming at the local level.\ng. Section 10 (Consultation with Stakeholders) provides that the Sub-Committee shall hold broad consultations and information campaigns with government and non-government stakeholders.\nh. Section 11 (PhilHealth Coverage) provides that the Sub-Committee shall facilitate PhilHealth coverage for persons with autism, including early screening and detection, immediately upon effectivity.\ni. Section 12 (Protection Against Discrimination in Insurance and Other Financial Instruments) provides that the DOF shall, within a set period, formulate policies to ensure equitable access of persons with autism to the services of banks, insurers and HMOs.\nj. Section 13 (Implementing Rules and Regulations) provides that the Sub-Committee shall issue the implementing rules within a set period after effectivity, in consultation with agencies and stakeholders.\nk. Section 14 (Appropriations) provides that the amount necessary for implementation shall be included in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 10752 may be considered alongside HB Nos. 618, 876, 2991 and 3198 and SB No. 687, which carry the same or a closely matching title, and alongside HB Nos. 9340, 9393 and 11786, which address the same subject through a DOH-led council or inter-agency committee. The review should assess whether a new NCDA sub-committee is warranted given the existing coordinative mandate of the NCDA and the DOH-centred alternatives, consistent with streamlining under the Government Optimization Act (RA No. 12231). It should also assess the interface of Section 11 (PhilHealth Coverage) with benefit coverage under RA No. 11223, of the education components of Section 7 (The National Autism Care Plan) with inclusive education services under RA No. 11650, and of Section 2 (Declaration of Policy) with RA No. 7277 and RA No. 11036.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial and continuing funding",
+    "detail": "Amount necessary, to be included in the annual GAA; no amount or implementing agency budget specified.",
+    "section": "Section 14 (Appropriations)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Sub-Committee operations under the NCDA, including seven non-government members appointed by the Chairperson.",
+    "section": "Section 6 (Composition of the Sub-Committee on Autism)"
+   },
+   {
+    "item": "Per diems",
+    "detail": "National panel of technical experts from nine professional organizations; per diems set by the Sub-Committee.",
+    "section": "Section 8 (Panel of Technical Experts)"
+   },
+   {
+    "item": "Programs",
+    "detail": "Information campaigns, NCDA central database, and DOH surveillance and information and monitoring system.",
+    "section": "Section 7 (The National Autism Care Plan)"
+   },
+   {
+    "item": "Health insurance benefits",
+    "detail": "PhilHealth coverage for persons with autism, including early screening and detection, from effectivity.",
+    "section": "Section 11 (PhilHealth Coverage)"
+   }
+  ],
+  "reviewer_checks": [
+   "Verify agency names in Section 6 (Composition of the Sub-Committee on Autism), e.g. 'Commission on Civil Service' and 'Technical Skills and Development Authority', against the official names.",
+   "Check the repeated wording in Section 3 (Definition of Terms), item b, on occupational therapists.",
+   "Confirm whether the per diems for technical experts and non-government members are to be charged to the NCDA budget.",
+   "Confirm whether the same-titled House bills and SB No. 687 have identical text and whether any have been consolidated or referred to the same committee.",
+   "Assess whether the immediate PhilHealth coverage in Section 11 (PhilHealth Coverage) is consistent with PhilHealth's benefit development process under RA No. 11223.",
+   "Verify the complete text of Sections 2, 3, 5, 6, 7 and 8 against the official copy of the bill, including stray page and line numbers."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed; the Senate title likewise establishes a subcommittee on autism under the NCDA.",
+   "section": "meta:SB-20-687",
+   "quote": "ESTABLISHING A SUBCOMMITTEE ON AUTISM UNDER THE NATIONAL COUNCIL ON DISABILITY AFFAIRS, AND PROVIDING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-618",
+   "quote": "AN ACT INSTITUTING A NATIONAL AUTISM CARE PLAN, ESTABLISHING A SUB-COMMITTEE ON AUTISM UNDER THE NATIONAL COUNCIL ON DISABILITY AFFAIRS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-876",
+   "quote": "AN ACT INSTITUTING A NATIONAL AUTISM CARE PLAN, ESTABLISHING A SUB-COMMITTEE ON AUTISM UNDER THE NATIONAL COUNCIL ON DISABILITY AFFAIRS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-2991",
+   "quote": "AN ACT INSTITUTING A NATIONAL AUTISM CARE PLAN, ESTABLISHING A SUB-COMMITTEE ON AUTISM UNDER THE NATIONAL COUNCIL ON DISABILITY AFFAIRS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-3198",
+   "quote": "AN ACT INSTITUTING A NATIONAL AUTISM CARE PLAN, ESTABLISHING A SUB-COMMITTEE ON AUTISM UNDER THE NATIONAL COUNCIL ON DISABILITY AFFAIRS",
+   "check": "verified"
+  },
+  {
+   "claim": "It addresses the same subject through a separate Autism Council chaired by the DOH Secretary under Section 17 (Composition of the Autism Council of the Philippines), rather than an NCDA sub-committee.",
+   "section": "HB-20-9340:s17",
+   "quote": "The Council shall be composed of the following: a. The DOH Secretary as Chairperson; b. The DSWD Secretary as Vice-Chairperson;",
+   "check": "verified"
+  },
+  {
+   "claim": "It creates a DOH-headed Inter-Agency ASD Coordinating Committee under Section 6 (Creation of an Inter-Agency ASD Coordinating Committee) with similar coordinative functions.",
+   "section": "HB-20-9393:s6",
+   "quote": "There is hereby established an Inter-Agency ASD Coordinating Committee (IACC) which shall serve as an inter-agency and multi-sectoral mechanism tasked to promote the implementation of the National ASD Program",
+   "check": "verified"
+  },
+  {
+   "claim": "It proposes comprehensive national care for persons with autism, funded through the DOH budget under Section 18 (Appropriations).",
+   "section": "HB-20-11786:s18",
+   "quote": "The amount necessary to carry out the provisions of this Act shall be included and incorporated in the annual general appropriations of the DOH.",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the title follows the Philippine National Autism Care Plan design rather than an NCDA sub-committee.",
+   "section": "meta:SB-19-1319",
+   "quote": "AN ACT INSTITUTING A PHILIPPINE NATIONAL AUTISM CARE PLAN FOR THE SUPPORT OF PERSONS WITH AUTISM AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 2 (Declaration of Policy) anchors the measure on the Magna Carta for Persons with Disability, whose disability-coordination functions the Sub-Committee would complement.",
+   "section": "HB-20-10752:s2",
+   "quote": "the Magna Carta for Persons with Disability (RA 7277, as amended)",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 2 (Declaration of Policy) and Section 11 (PhilHealth Coverage) draw on the Universal Health Care Act, which already governs PhilHealth benefit coverage.",
+   "section": "HB-20-10752:s2",
+   "quote": "the Philippines’ Universal Health Care Act (RA 11223) similarly guarantees access to care for all Filipinos",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 2 (Declaration of Policy) cites the Mental Health Act, and Section 6 (Composition of the Sub-Committee on Autism) includes the Philippine Council for Mental Health.",
+   "section": "HB-20-10752:s2",
+   "quote": "the Universal Health Care Act (RA 11223), and the Mental Health Act (RA 11036)",
+   "check": "verified"
+  },
+  {
+   "claim": "The education and learner-support components of Section 7 (The National Autism Care Plan) may overlap with the inclusive education services for learners with disabilities under this law.",
+   "section": "law:RA-11650",
+   "quote": "AN ACT INSTITUTING A POLICY OF INCLUSION AND SERVICES FOR LEARNERS WITH DISABILITIES IN SUPPORT OF INCLUSIVE EDUCATION",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-19T10:08:07+00:00"
+ }
+}
