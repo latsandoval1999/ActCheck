@@ -1,0 +1,528 @@
+                            Republic of the Philippines
+                     House of Representatives
+                           Quezon City, Metro Manila                         May 6, 2026
+                                                                              5:24 pm
+                               Twentieth Congress
+                               First Regular Session
+
+                                            9149
+                            HOUSE BILL NO. ______
+
+
+ Introduced by Representatives Ferdinand Martin G. Romualdez, Yedda
+ Marie K. Romualdez, Andrew Julian K. Romuladez and Jude A. Acidre
+
+
+    AN ACT ESTABLISHING THE PHILIPPINE OPEN FINANCE
+FRAMEWORK, ENSURING CONSUMER FINANCIAL DATA
+PORTABILITY, ENHANCING COMPETITION AND INNOVATION IN
+THE FINANCIAL SECTOR, STRENGTHENING DATA PRIVACY AND
+SECURITY, AND FOR OTHER PURPOSES
+
+                            EXPLANATORY NOTE
+
+      The continued digital transformation of the Philippine economy has
+reshaped how Filipinos save, borrow, pay, invest, remit, and access financial
+services. Financial data has become a key economic asset. Yet, for many
+consumers, this data remains locked within individual financial institutions,
+limiting their ability to use their own information to obtain better, cheaper, faster,
+and more inclusive financial products.
+
+
+      The Bangko Sentral ng Pilipinas has already laid the regulatory
+groundwork through BSP Circular No. 1122, which established the Open Finance
+Framework in 2021. This framework recognizes open finance as a mechanism for
+secure, permission-based data sharing among financial institutions and accredited
+third-party providers. The proposed measure builds on this existing regulatory
+initiative by providing a clear statutory basis for consumer-directed financial data
+portability, interoperable data sharing, consumer protection, and regulatory
+oversight. The bill expressly seeks to establish a Philippine Open Finance
+Framework, ensure consumer financial data portability, enhance competition and
+innovation in the financial sector, and strengthen data privacy and security.
+
+
+The need for this measure is urgent. While financial inclusion has improved,
+significant gaps remain. Based on the BSP’s 2021 Financial Inclusion Survey, the
+share of Filipino adults with formal accounts rose from 29% in 2019 to 56% in
+2021, equivalent to around 22 million additional Filipinos opening an account
+during that period. However, this also means that roughly 44% of Filipino adults
+remained without a formal financial account.1
+
+
+      Digital finance is also expanding rapidly. The BSP reported that in 2024,
+digital retail payments accounted for 57.4% of total retail payment transaction
+volume, surpassing the Philippine Development Plan target of 52% to 54%. This
+demonstrates that Filipinos are increasingly relying on digital channels for
+everyday financial transactions. 2 However, greater digital adoption must be
+matched by stronger consumer rights, clearer consent rules, secure data-sharing
+infrastructure, and accountability among financial service providers.
+
+
+      Open finance can help close persistent financial inclusion gaps. By
+allowing consumers to securely share their financial data with accredited
+providers, Filipinos may gain access to alternative credit scoring, lower-cost
+loans, better savings and insurance products, improved digital onboarding, and
+
+
+      1
+          2021 Financial Inclusion Survey Report – Bangko Sentral ng Pilipinas
+      2
+          2024 Status of Digital Payments in the Philippines – Bangko Sentral ng Pilipinas
+                                                                                             2
+more personalized financial management tools. This is especially relevant for
+micro, small, and medium enterprises (MSMEs), overseas Filipinos, workers in
+the informal economy, farmers, fisherfolk, and rural communities that often lack
+traditional credit histories.
+       The measure is also critical for MSME development. MSMEs remain the
+backbone of the Philippine economy. In 2023, government MSME statistics
+showed that the Philippines had more than one million business establishments,
+with MSMEs comprising the overwhelming majority of enterprises. 3 Many of
+these businesses face difficulty accessing formal credit because they cannot
+present sufficient collateral, audited financial statements, or traditional banking
+records. Open finance can help bridge this gap by allowing lenders and fintech
+providers to assess creditworthiness using verified transaction histories, payment
+behavior, cash flow data, and other consented financial information.
+
+
+       At the same time, open finance must be implemented with strong
+safeguards. Consumer trust is central to any digital financial ecosystem. The right
+to financial data portability must not become a license for unauthorized profiling,
+predatory lending, discriminatory pricing, intrusive surveillance, or the misuse of
+personal and sensitive personal information. The bill therefore anchors open
+finance on explicit and informed consent, data minimization, cybersecurity
+standards, accreditation of data recipients, consumer protection, and coordination
+among regulators, including the BSP, the National Privacy Commission, the
+Philippine Competition Commission, the Securities and Exchange Commission,
+the Department of Information and Communications Technology, and the
+Insurance Commission.
+
+
+
+
+       3
+           MSME Statistics – Department of Trade and Industry
+                                                                                  3
+      This proposed Act also strengthens competition. At present, established
+financial institutions often have structural advantages because they exclusively
+hold consumer financial data. By empowering consumers to direct the secure
+sharing of their own data, open finance allows responsible fintech innovators,
+digital banks, insurers, investment platforms, and other accredited providers to
+compete on the basis of better products, lower costs, and improved service. This
+promotes a more dynamic, inclusive, and consumer-centered financial sector.
+Global experience shows that open finance is becoming an essential component
+of modern financial regulation. Jurisdictions such as the United Kingdom, the
+European Union, and the United States have moved toward frameworks that
+recognize consumer data rights, secure data access, and standardized financial
+data sharing. The Philippines must not fall behind. A statutory open finance
+framework will help ensure that the country’s financial sector remains
+competitive, innovative, and aligned with international developments while
+remaining firmly grounded in Filipino consumer protection and data privacy
+principles.
+
+
+      Ultimately, this measure recognizes a simple but powerful principle:
+Filipinos should have meaningful control over their own financial data. When
+properly protected and responsibly shared, such data can become a tool for
+inclusion, competition, innovation, and economic empowerment.
+
+
+In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+
+                                                                                    4
+FERDINAND MARTIN G. ROMUALDEZ   YEDDA MARIE K. ROMUALDEZ
+
+
+
+
+ ANDREW JULIAN K. ROMUALDEZ          JUDE A. ACIDRE
+
+
+
+
+                                                      5
+                           Republic of the Philippines
+                    House of Representatives
+                           Quezon City, Metro Manila
+
+
+                              Twentieth Congress
+                              First Regular Session
+
+                                           9149
+                           HOUSE BILL NO. ______
+
+
+ Introduced by Representatives Ferdinand Martin G. Romualdez, Yedda
+ Marie K. Romualdez, Andrew Julian K. Romuladez and Jude A. Acidre
+
+
+    AN ACT ESTABLISHING THE PHILIPPINE OPEN FINANCE
+FRAMEWORK, ENSURING CONSUMER FINANCIAL DATA
+PORTABILITY, ENHANCING COMPETITION AND INNOVATION IN
+THE FINANCIAL SECTOR, STRENGTHENING DATA PRIVACY AND
+SECURITY, AND FOR OTHER PURPOSES
+
+      Be it enacted by the Senate and House of Representatives of the Philippines
+in Congress assembled:
+
+                                      CHAPTER I
+                              GENERAL PROVISIONS
+
+SECTION 1. Short Title. – This Act shall be known as the “Philippine Open
+Finance Act.”
+
+SEC. 2. Declaration of Policy. – It is hereby declared the policy of the State to:
+
+   a. Affirm the consumer's proprietary right over their own financial data and
+      their right to control its use and sharing;
+   b. Establish a secure, efficient, and interoperable national open finance
+      ecosystem that empowers consumers and fosters trust in the digital
+      financial system;
+   c. Promote a competitive and level playing field in the financial sector,
+      enabling innovation and the development of inclusive financial products
+      and services;
+   d. Accelerate financial inclusion by enabling data-driven solutions for
+      unbanked and underserved segments of the population, including MSMEs,
+      rural communities, and overseas Filipinos;
+   e. Ensure the highest standards of data privacy and security, in full adherence
+      to the constitutional right to privacy and the provisions of the Data Privacy
+      Act of 2012 (Republic Act No. 10173);
+   f. Strengthen the regulatory authority of the Bangko Sentral ng Pilipinas
+      (BSP) to effectively oversee, develop, and enforce the open finance
+      framework.
+
+SEC. 3. Definition of Terms. – As used in this Act, the following terms shall
+have the respective meanings hereafter set forth:
+
+   (a) API (Application Programming Interface) – A set of protocols, routines,
+      and standards for building and integrating application software, which
+      serves as a secure digital interface for the automated exchange of data.
+   (b) Consent of the Data Subject – Refers to any freely given, specific,
+      informed indication of will, whereby the Data Subject agrees to the
+      collection and processing of their personal information. Consent shall be
+      evidenced by written, electronic, or recorded means. It may also be given
+      on behalf of a Data Subject by a lawful representative or an agent
+      specifically authorized by the Data Subject to do so.
+
+
+                                                                                 2
+(c) Consumer – Refers to a Data Subject who is a client, customer, or user of
+   financial products or services offered by a Personal Information Controller.
+(d) Data Sharing – Refers to the disclosure or transfer to a third party of
+   personal data under the custody of a Personal Information Controller or
+   Personal Information Processor. In the case of the latter, such disclosure or
+   transfer must have been upon the instructions of the Personal Information
+   Controller concerned. The term excludes outsourcing, or the disclosure or
+   transfer of personal data by a Personal Information Controller to a Personal
+   Information Processor.
+(e) Data Subject – Refers to an individual whose personal information is
+   processed.
+(f) Informed Consent – See definition of "Consent of the Data Subject." For
+   the purposes of this Act, Informed Consent must be granular, meaning
+   separate consents for distinct purposes (e.g., data access, data sharing for
+   specific products, cross-border transfer), and must be as easy to withdraw
+   as it is to give.
+(g) Open Finance – A framework that enables the secure, standardized, and
+   interoperable sharing of Consumer Financial Data between Personal
+   Information Controllers and Accredited Data Recipients, at the Consumer's
+   direction, through the use of APIs and other technologies.
+(h) Personal Data – Refers to all types of personal information and sensitive
+   personal information.
+(i) Personal Data Breach – Refers to a breach of security leading to the
+   accidental or unlawful destruction, loss, alteration, unauthorized disclosure
+   of, or access to, personal data transmitted, stored, or otherwise processed.
+(j) Personal Information – Refers to any information, whether recorded in a
+   material form or not, from which the identity of an individual is apparent
+   or can be reasonably and directly ascertained by the entity holding the
+
+                                                                              3
+   information, or when put together with other information would directly
+   and certainly identify an individual.
+(k) Personal Information Controller (PIC) – Refers to a natural or juridical
+   person, or any other body who controls the processing of personal data, or
+   instructs another to process personal data on its behalf. This term excludes:
+         (1) a natural or juridical person, or any other body, who performs
+   such functions as instructed by another person or organization; or
+         (2) a natural person who processes personal data in connection with
+   his or her personal, family, or household affairs. For the purposes of this
+   Act, this includes Data Holders and Accredited Data Recipients.
+(l) Personal Information Processor (PIP) – Refers to any natural or juridical
+   person or any other body to whom a Personal Information Controller may
+   outsource or instruct the processing of personal data pertaining to a Data
+   Subject.
+(m)Processing – Refers to any operation or any set of operations performed
+   upon personal data including, but not limited to, the collection, recording,
+   organization, storage, updating or modification, retrieval, consultation, use,
+   consolidation, blocking, erasure or destruction of data. Processing may be
+   performed through automated means, or manual processing, if the personal
+   data are contained or are intended to be contained in a filing system.
+(n) Profiling – Refers to any form of automated processing of personal data
+   consisting of the use of personal data to evaluate certain personal aspects
+   relating to a natural person, in particular to analyze or predict aspects
+   concerning that natural person's performance at work, economic situation,
+   health, personal preferences, interests, reliability, behavior, location or
+   movements.
+(o) Sensitive Personal Information – Refers to personal information: 1.
+   About an individual's race, ethnic origin, marital status, age, color, and
+
+                                                                               4
+      religious, philosophical or political affiliations; 2. About an individual's
+      health, education, genetic or sexual life of a person, or to any proceeding
+      for any offense committed or alleged to have been committed by such
+      individual, the disposal of such proceedings, or the sentence of any court
+      in such proceedings; 3. Issued by government agencies peculiar to an
+      individual which includes, but is not limited to, social security numbers,
+      previous or current health records, licenses or its denials, suspension or
+      revocation, and tax returns; and 4. Specifically established by an executive
+      order or an act of Congress to be kept classified.
+   (p) Technical Standards – The rules, specifications, and protocols issued by
+      the Bangko Sentral ng Pilipinas (BSP) or the Philippine Open Finance
+      Council governing the technical aspects of data sharing, including API
+      design, security requirements, and data formats
+
+
+                                   CHAPTER II
+   CONSUMER RIGHTS AND OBLIGATIONS OF DATA HOLDERS
+
+SEC. 4. Consumer Financial Data Rights. – Every Consumer shall have the
+following inviolable rights:
+
+   a. Right to Access and Obtain: The right to electronically access and obtain
+      a copy of their Consumer Financial Data held by a Data Holder in a
+      portable, machine-readable, and structured format, free of charge, at least
+      once per calendar quarter.
+   b. Right to Portability (Data Sharing): The right to instruct a Data Holder
+      to securely transfer a copy of their Consumer Financial Data to a verified
+      and Accredited Data Recipient of their choice.
+   c. Right to Revoke Consent: The right to revoke consent for data sharing
+      with an Accredited Data Recipient at any time, triggering the cessation of
+
+                                                                                5
+      future data flows, without prejudice to the lawfulness of processing based
+      on consent before its revocation.
+   d. Right to Deletion/Correction: The right to request the correction of
+      inaccurate data and, where applicable, the deletion of data, subject to
+      mandatory legal and regulatory retention periods.    No Data Holder shall
+      impose unreasonable barriers, delays, or additional charges that obstruct
+      the exercise of these rights. The use of "screen scraping" or other insecure
+      methods by a Data Recipient to access Consumer Financial Data shall be
+      prohibited upon the full implementation of this Act's API-based
+      framework.
+
+SEC. 5. Obligations of Data Holders. – All Data Holders shall:
+
+   a. Develop and Maintain Secure APIs: Implement and maintain secure,
+      robust, and publicly available APIs that comply with the Technical
+      Standards set forth by the BSP to facilitate real-time, authenticated data
+      access and sharing.
+   b. Establish a Consent Management System: Provide Consumers with a clear,
+      accessible, and user-friendly digital dashboard to manage their consents,
+      track data sharing permissions, and view a log of data access by Accredited
+      Data Recipients.
+   c. Ensure Data Quality and Timeliness: Provide accurate, complete, and up-
+      to-date Consumer Financial Data in response to a valid access or portability
+      request.
+   d. Uphold     Data    Security: Implement    and   maintain    state-of-the-art
+      cybersecurity measures, including encryption, access controls, and regular
+      security audits, to protect Consumer Financial Data from unauthorized
+      access, use, or disclosure.
+
+
+                                                                                 6
+   e. Prohibit Anti-Competitive Practices: Refrain from imposing contractual or
+          technical restrictions that prevent Consumers from sharing their data with
+          Accredited Data Recipients, including competitors.
+
+
+                                    CHAPTER III
+             GOVERNANCE AND ECOSYSTEM DEVELOPMENT
+
+SEC. 6. Accreditation of Data Recipients. – The BSP shall establish a
+transparent and risk-based accreditation process for entities seeking to become
+Data Recipients. Accreditation shall be granted based on compliance with
+requirements pertaining to:
+
+   (a) Technical capability, cybersecurity infrastructure, and data protection
+          protocols;
+   (b) Compliance with the Data Privacy Act and BSP data security regulations;
+   (c) Financial soundness and operational resilience;
+   (d) A robust consumer protection and complaint-handling mechanism; and
+   (e) The fit-and-proper status of its directors and officers. The BSP shall
+          maintain a public registry of all Accredited Data Recipients.
+
+SEC. 7. The Philippine Open Finance Council. – To ensure coordinated
+development and multi-sectoral oversight, there is hereby created the Philippine
+Open Finance Council (POFC).
+
+   a. Composition: The POFC shall be chaired by the BSP and composed of the
+          following members or their designated permanent representatives:
+     i.      National Privacy Commission (NPC)
+    ii.      Philippine Competition Commission (PCC)
+   iii.      Securities and Exchange Commission (SEC)
+   iv.       Department of Information and Communications Technology (DICT)
+
+                                                                                   7
+    v.    Insurance Commission (IC)
+
+
+   b. Powers and Functions: The POFC shall:
+     i.   Recommend and approve binding Technical Standards for the open
+          finance ecosystem for promulgation by the BSP;
+    ii.   Coordinate on matters of data privacy, competition, and consumer
+          protection arising from open finance;
+   iii.   Formulate and implement a national strategy for consumer education
+          and awareness on open finance rights and risks;
+    iv.   Advise the BSP on the development of the ecosystem, including
+          addressing emerging risks and opportunities; and
+    v.    Submit an annual report to Congress on the state of open finance in the
+          Philippines.
+
+SEC. 8. National Open Finance Infrastructure. – The BSP, in consultation with
+the POFC, shall oversee the development and maintenance of the core
+infrastructure for open finance, which may be facilitated through public-private
+partnerships. This infrastructure shall include:
+
+ a. A central registry of technical standards and API specifications;
+ b. secure directory of all Data Holders and Accredited Data Recipients;
+ c. A unified consent and identity management framework, interoperable with
+     the Philippine National ID System (PhilSys) where applicable and
+     appropriate;
+ d. A centralized mechanism for reporting and resolving disputes and fraudulent
+     transactions; and
+ e. A framework ensuring seamless interoperability with the National Retail
+     Payment System (NRPS) and other digital identity initiatives.
+
+
+                                                                                8
+                                   CHAPTER IV
+            SAFEGUARDS AND REGULATORY OVERSIGHT
+
+SEC. 9. Data Privacy and Security. – All data sharing under this Act shall be
+governed by the principles of transparency, legitimate purpose, and
+proportionality, in strict compliance with the Data Privacy Act of 2012. Data
+Holders and Accredited Data Recipients shall:
+
+   a. Obtain explicit and informed Consumer consent for each specific data-
+       sharing purpose;
+   b. Limit data collection and processing to what is necessary for the stated
+       purpose (data minimization);
+   c. Implement robust data security measures, including end-to-end encryption
+       for data in transit and at rest;
+   d. Refrain from using Consumer Financial Data for purposes of unlawful
+       surveillance, discriminatory pricing or exclusion, or any form of
+       prohibited profiling.
+
+SEC. 10. Competition and Non-Discrimination. – The BSP and the PCC shall
+jointly enforce provisions against anti-competitive conduct. Data Holders are
+prohibited from:
+
+   a. Denying or obstructing Consumer-authorized data access to any
+      Accredited Data Recipient, including competitors;
+   b. Imposing unfair, discriminatory, or anti-competitive conditions on data
+      access; or
+   c. Engaging in data hoarding or other practices that create artificial barriers
+      to market entry.
+
+SEC. 11. Financial Inclusion Mandate. – All open finance initiatives shall be
+designed and implemented to actively promote financial inclusion. The BSP shall
+                                                                                 9
+encourage and incentivize the development of use cases that benefit the unbanked
+and underserved, such as:
+
+   a. Microfinance and MSME lending using alternative credit scoring;
+   b. Affordable agricultural and rural banking products;
+   c. Streamlined digital onboarding and payments for government social
+      support programs; and
+   d. Low-cost investment and micro-insurance products.
+
+SEC. 12. Consumer Protection and Liability. –
+
+   a. A Consumer shall not be held liable for losses arising from unauthorized
+      data access or fraudulent transactions resulting from a security breach or
+      system failure on the part of a Data Holder or Accredited Data Recipient,
+      unless such loss is directly caused by the Consumer's fraud or gross
+      negligence.
+   b. Data Holders and Accredited Data Recipients shall be jointly and severally
+      liable for damages arising from their respective failure to comply with data
+      security and privacy obligations under this Act and its implementing rules.
+   c. Any security incident or data breach involving Consumer Financial Data
+      shall be reported to the BSP and the NPC within seventy-two (72) hours of
+      discovery, following the protocols set by the NPC.
+
+SEC. 13. Cross-Border Data Transfers. – The transfer of Consumer Financial
+Data outside the Philippines shall be permitted only under the following
+conditions:
+
+   a. The Consumer provides explicit and informed consent to the cross-border
+      transfer;
+
+
+
+                                                                               10
+   b. The recipient jurisdiction or international organization ensures a level of
+      data protection comparable to the standards under Philippine law, as
+      certified by the NPC; and
+   c. All applicable BSP and NPC rules and regulations are satisfied.
+
+
+
+                                      ARTICLE V
+                          PENAL AND FINAL PROVISIONS
+
+SEC. 14. Supervisory and Enforcement Authority of the BSP. – The BSP shall
+have the power to issue rules and regulations, circulars, and orders to implement
+the provisions of this Act. This includes the authority to:
+
+   (a) Conduct periodic audits and examinations of Data Holders and Accredited
+       Data Recipients;
+   (b) Impose monetary penalties and other administrative sanctions for
+       violations of this Act, its IRR, or BSP issuances;
+   (c) Suspend or revoke the accreditation of a Data Recipient; and
+   (d) Issue cease-and-desist orders to prevent imminent or ongoing harm to
+       consumers or the financial system.
+
+SEC. 15. Penalties. – Any person, natural or juridical, who willfully violates or
+causes the violation of any provision of this Act, or who aids or abets such
+violation, shall, upon conviction, be penalized with imprisonment of not less than
+two (2) years but not more than seven (7) years, or a fine of not less than One
+hundred thousand pesos (₱100,000) but not more than Five million pesos
+(₱5,000,000), or both, at the discretion of the court. If the offender is a
+corporation, partnership, or association, the penalty shall be imposed upon the
+responsible officers and directors. This is without prejudice to any applicable
+criminal or civil liability under the Data Privacy Act and other relevant laws. The
+
+                                                                                11
+BSP may also impose administrative fines of up to One million pesos
+(₱1,000,000) per day for continuing violations.
+
+SEC. 16. Implementing Rules and Regulations (IRR). – Within one hundred
+eighty (180) days from the effectivity of this Act, the BSP, in consultation with
+the POFC, NPC, PCC, and other relevant agencies, shall promulgate the
+necessary IRR to effectively implement the provisions of this Act.
+
+SEC. 17. Appropriations. – The amount necessary for the initial implementation
+of this Act shall be charged against the current year's appropriations of the BSP.
+Thereafter, such sums as may be necessary for the continued implementation of
+this Act shall be included in the annual General Appropriations Act.
+
+SEC. 18. Separability Clause. – If any provision of this Act is declared
+unconstitutional or invalid by a competent court, the remaining provisions not
+affected thereby shall continue to be in full force and effect.
+
+SEC. 19. Repealing Clause. – All laws, decrees, orders, rules and regulations, or
+parts thereof inconsistent with the provisions of this Act are hereby repealed or
+modified accordingly.
+
+SEC. 20. Effectivity. – This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in a newspaper of general circulation.
+
+Approved,
+
+
+
+
+                                                                                12
+
