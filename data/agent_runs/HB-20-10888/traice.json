@@ -1,0 +1,161 @@
+{
+ "output": {
+  "target": "HB-20-10888",
+  "entity_proposed": "",
+  "proposal": "HB No. 10888 seeks to establish a Unified Criminal Records Clearance System, led by the NBI in coordination with the PNP and the DICT, that issues a single clearance satisfying requirements for both an NBI clearance and a National Police Clearance. It aims to eliminate duplication in documentary requirements and promote interoperability of government information systems while preserving each agency's mandate and custody of records.",
+  "alignment": "Although classified under government organization and mandates, the measure creates no new office or body; it assigns a shared clearance function to the NBI, the PNP and the DICT through an interoperable system without a separate central repository. The review should therefore examine whether the arrangement in Section 4 (Unified Criminal Records Clearance System) clearly delineates the roles of the three agencies and avoids overlapping functions, consistent with the streamlining intent of the Government Optimization Act (RA No. 12231). The review should also assess the fee arrangements under Section 10 (Fees and Statutory Exemptions), which involve consultation with the Department of Budget and Management, and the funding sources under Section 12 (Appropriations). No match with a FY 2027 Budget Priorities Framework priority area or with the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 10888 was filed on August 24, 2026 by Representative Agatha \"Agay\" Cruz in the 20th Congress; its status is filed, with later stages not reflected in the available data.",
+   "Several HB and SB Nos. titled as establishing a National Police Clearance System were filed in the 18th, 19th and 20th Congresses, including HB Nos. 3267, 1182 and 1412 in the 20th Congress; these are known by title only and their texts were not reviewed.",
+   "HB No. 3579 (19th Congress), titled as creating a centralized data system for PNP and NBI criminal records and streamlining criminal records clearance, was pending in committee; its text was not reviewed.",
+   "No substitute bill, committee report or Senate counterpart of HB No. 10888 was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-19-3579",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed. Its title addresses integrating PNP and NBI criminal records and streamlining clearance issuance.",
+    "section": "meta:HB-19-3579",
+    "quote": "AN ACT CREATING A CENTRALIZED DATA SYSTEM FOR CRIMINAL RECORDS FROM THE PHILIPPINE NATIONAL POLICE (PNP) AND NATIONAL BUREAU OF INVESTIGATION (NBI)"
+   },
+   {
+    "id": "HB-20-3267",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. It addresses the police clearance system alone rather than a unified NBI-PNP clearance.",
+    "section": "meta:HB-20-3267",
+    "quote": "AN ACT ESTABLISHING THE NATIONAL POLICE CLEARANCE SYSTEM, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "HB-20-1182",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. It addresses the police clearance system alone rather than a unified NBI-PNP clearance.",
+    "section": "meta:HB-20-1182",
+    "quote": "AN ACT ESTABLISHING THE NATIONAL POLICE CLEARANCE SYSTEM, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "HB-20-1412",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. It addresses the police clearance system alone rather than a unified NBI-PNP clearance.",
+    "section": "meta:HB-20-1412",
+    "quote": "AN ACT ESTABLISHING THE NATIONAL POLICE CLEARANCE SYSTEM, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "SB-19-725",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. It is a Senate measure on the police clearance system from the 19th Congress.",
+    "section": "meta:SB-19-725",
+    "quote": "NATIONAL POLICE CLEARANCE SYSTEM ACT: AN ACT ESTABLISHING THE NATIONAL POLICE CLEARANCE SYSTEM"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-10173",
+    "label": "Referenced in the bill",
+    "overlap": "Section 8 (Data Privacy and Security) subjects the processing of sensitive personal information under the System to RA No. 10173.",
+    "section": "HB-20-10888:s8",
+    "quote": "shall be subject to Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012,”"
+   },
+   {
+    "law": "RA-12254",
+    "label": "Referenced in the bill",
+    "overlap": "Section 8 (Data Privacy and Security) subjects the System to RA No. 12254, and Section 12 (Appropriations) allows use of the E-Government Interoperability Fund.",
+    "section": "HB-20-10888:s8",
+    "quote": "Republic Act No. 12254, otherwise known as the “E-Governance Act,” and other applicable laws, rules, and regulations."
+   },
+   {
+    "law": "RA-11261",
+    "label": "Referenced in the bill",
+    "overlap": "Section 10 (Fees and Statutory Exemptions) extends the fee exemption for qualified first-time jobseekers under RA No. 11261 to the Unified Clearance.",
+    "section": "HB-20-10888:s10",
+    "quote": "A qualified first-time jobseeker under Republic Act No. 11261, otherwise known as the “First Time Jobseekers Assistance Act,” shall be entitled to obtain the Unified Clearance without payment of fees or charges"
+   }
+  ],
+  "salient_features": "HB No. 10888, to be known as the Unified Criminal Records Clearance Act, seeks to establish an interoperable system through which a single clearance satisfies requirements for both an NBI clearance and a National Police Clearance. Its salient features are as follows:\na. Section 2 (Declaration of Policy) provides that the State shall eliminate duplicative documentary requirements and establish a unified clearance while preserving the mandates and custody of records of the concerned agencies and protecting privacy and due process.\nb. Section 4 (Unified Criminal Records Clearance System) provides that the NBI, as lead operational agency, shall establish and maintain the System in coordination with the PNP, which ensures availability of its records, and the DICT, which sets technical, interoperability and cybersecurity standards; no separate central repository shall be created.\nc. Section 5 (Application and Issuance of the Unified Clearance) provides for application through NBI or PNP clearance centers or digital platforms, and prohibits any entity from requiring a separate NBI or police clearance from a holder of a valid Unified Clearance for the same purpose.\nd. Section 6 (Relevant Records) provides the records that may be queried and bars the disclosure of blotter entries, raw intelligence or unsupported arrest records as criminal findings.\ne. Section 7 (Records Matches; Correction and Review) provides that unverified matches shall not be reflected in the clearance and grants applicants the right to contest, correct and seek administrative review, without additional fees for errors attributable to government.\nf. Section 8 (Data Privacy and Security) provides that processing is limited to what is necessary and proportionate, requires safeguards by the NBI, PNP and DICT, and prohibits a publicly searchable database.\ng. Section 9 (Form, Validity, and Authentication of the Unified Clearance) provides that the NBI and the PNP shall prescribe a uniform format and validity period, with digital or physical issuance and secure verification.\nh. Section 10 (Fees and Statutory Exemptions) provides for a single cost-based fee prescribed by the NBI and the PNP in consultation with the DBM, and preserves existing exemptions, including for first-time jobseekers.\ni. Section 11 (Transition and Implementation) provides for phased implementation, continued issuance of separate clearances during transition, and nationwide implementation within two years from the effectivity of the implementing rules.\nj. Section 12 (Appropriations) provides that initial implementation shall be charged against the current appropriations of the NBI, PNP, DICT and other concerned agencies, with eligible components fundable from the E-Government Interoperability Fund, and continuing funds included in the annual General Appropriations Act.\nk. Section 13 (Implementing Rules and Regulations) provides that the NBI and the PNP, in coordination with other agencies and after consultation with the DBM and others, shall issue the implementing rules within 120 days from effectivity.",
+  "related_measures_policy": "HB No. 10888 may be considered alongside the National Police Clearance System bills filed in the 20th Congress, such as HB Nos. 3267, 1182 and 1412, and HB No. 3579 of the 19th Congress on a centralized PNP-NBI criminal records system, noting that these are known by title only. The measure is not linked to a FY 2027 Budget Priorities Framework priority area or the LEDAC Common Legislative Agenda. The review should assess whether the shared arrangement among the NBI, PNP and DICT under Section 4 (Unified Criminal Records Clearance System) avoids overlapping functions consistent with RA No. 12231; the consistency of data processing with RA No. 10173 and RA No. 12254 under Section 8 (Data Privacy and Security); the revenue effect of replacing two clearance fees with a single fee and extending RA No. 11261 exemptions under Section 10 (Fees and Statutory Exemptions); and the adequacy of current agency appropriations and the E-Government Interoperability Fund under Section 12 (Appropriations).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary (no amount stated), charged against current appropriations of the NBI, PNP, DICT and other concerned agencies",
+    "section": "Section 12 (Appropriations)"
+   },
+   {
+    "item": "Other funding source",
+    "detail": "Eligible System components may be funded from the E-Government Interoperability Fund and other lawful sources",
+    "section": "Section 12 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary, included in the annual General Appropriations Act",
+    "section": "Section 12 (Appropriations)"
+   },
+   {
+    "item": "Fee revenue",
+    "detail": "Single fee replaces separate NBI and police clearance fees; exemptions under existing laws, including RA No. 11261, apply",
+    "section": "Section 10 (Fees and Statutory Exemptions)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm whether the bill creates any new office or positions, given its classification as a government organization measure.",
+   "Verify the existence, current status and governing rules of the E-Government Interoperability Fund cited in Section 12 (Appropriations).",
+   "Assess the revenue impact on the NBI and the PNP of consolidating two clearance fees into a single fee.",
+   "Confirm with the House the status of the related National Police Clearance System bills filed in the 20th Congress.",
+   "Check for leftover page and line numbers in the bill text that may affect citation of provisions."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed. Its title addresses integrating PNP and NBI criminal records and streamlining clearance issuance.",
+   "section": "meta:HB-19-3579",
+   "quote": "AN ACT CREATING A CENTRALIZED DATA SYSTEM FOR CRIMINAL RECORDS FROM THE PHILIPPINE NATIONAL POLICE (PNP) AND NATIONAL BUREAU OF INVESTIGATION (NBI)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. It addresses the police clearance system alone rather than a unified NBI-PNP clearance.",
+   "section": "meta:HB-20-3267",
+   "quote": "AN ACT ESTABLISHING THE NATIONAL POLICE CLEARANCE SYSTEM, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. It addresses the police clearance system alone rather than a unified NBI-PNP clearance.",
+   "section": "meta:HB-20-1182",
+   "quote": "AN ACT ESTABLISHING THE NATIONAL POLICE CLEARANCE SYSTEM, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. It addresses the police clearance system alone rather than a unified NBI-PNP clearance.",
+   "section": "meta:HB-20-1412",
+   "quote": "AN ACT ESTABLISHING THE NATIONAL POLICE CLEARANCE SYSTEM, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. It is a Senate measure on the police clearance system from the 19th Congress.",
+   "section": "meta:SB-19-725",
+   "quote": "NATIONAL POLICE CLEARANCE SYSTEM ACT: AN ACT ESTABLISHING THE NATIONAL POLICE CLEARANCE SYSTEM",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 8 (Data Privacy and Security) subjects the processing of sensitive personal information under the System to RA No. 10173.",
+   "section": "HB-20-10888:s8",
+   "quote": "shall be subject to Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012,”",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 8 (Data Privacy and Security) subjects the System to RA No. 12254, and Section 12 (Appropriations) allows use of the E-Government Interoperability Fund.",
+   "section": "HB-20-10888:s8",
+   "quote": "Republic Act No. 12254, otherwise known as the “E-Governance Act,” and other applicable laws, rules, and regulations.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 10 (Fees and Statutory Exemptions) extends the fee exemption for qualified first-time jobseekers under RA No. 11261 to the Unified Clearance.",
+   "section": "HB-20-10888:s10",
+   "quote": "A qualified first-time jobseeker under Republic Act No. 11261, otherwise known as the “First Time Jobseekers Assistance Act,” shall be entitled to obtain the Unified Clearance without payment of fees or charges",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-19T10:03:54+00:00"
+ }
+}
