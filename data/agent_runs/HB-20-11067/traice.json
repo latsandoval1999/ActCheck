@@ -1,0 +1,86 @@
+{
+ "output": {
+  "target": "HB-20-11067",
+  "entity_proposed": "",
+  "proposal": "HB No. 11067, the proposed S.A.F.E. (Secure and Firearm-Free Education) Schools Act, seeks to establish a comprehensive school safety and weapon prevention program under which the DepEd, school administrations, LGUs and barangays jointly implement measures to prevent the entry of weapons into schools. It aims to ensure that educational institutions are safe, secure and conducive to learning while protecting the rights of learners.",
+  "alignment": "Although catalogued as a government organization and mandates measure, the bill creates no new agency; it assigns new mandates to the DepEd, LGUs and barangays and requires Behavioral Threat Assessment Teams in all school divisions and School Safety Committees in every school. The review should therefore examine whether these new teams and committees duplicate existing school-level and local child protection structures, such as the Barangay Council for the Protection of Children, consistent with the intent of the Government Optimization Act (RA No. 12231) to reduce overlapping functions. The measure aligns primarily with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, given its focus on safe learning environments as a condition for equitable access to quality education, and secondarily with the Implementation of Full Devolution to LGUs priority area, given the role assigned to LGUs and barangays and the proposed use of the Special Education Fund. The bill is not among the measures in the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 11067 was filed on September 2, 2026 by Representative Eric L. Olivarez in the 20th Congress.",
+   "Its status is filed and pending; later stages are not reflected in the available records.",
+   "No earlier version, counterpart measure, substitute bill or committee report is identified in the available records."
+  ],
+  "related": [],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-9344",
+    "label": "Referenced in the bill",
+    "overlap": "Section 8 (Interventions for Minors) requires interventions for students found with weapons to comply with RA No. 9344, which Section 12 (Repealing Clause) also expressly preserves.",
+    "section": "HB-20-11067:s8",
+    "quote": "Interventions shall strictly comply with Republic Act No. 9344, otherwise known as the Juvenile Justice and Welfare Act of 2006, and other applicable child protection laws."
+   },
+   {
+    "law": "RA-7610",
+    "label": "Referenced in the bill",
+    "overlap": "Section 12 (Repealing Clause) provides that nothing in the bill shall diminish the protections accorded to children under RA No. 7610.",
+    "section": "HB-20-11067:s12",
+    "quote": "nothing in this Act shall be construed to diminish or impair the rights and protections accorded to children under Republic Act No. 9344, as amended, Republic Act No. 7610, as amended"
+   }
+  ],
+  "salient_features": "HB No. 11067 seeks to establish a comprehensive school safety and weapon prevention program, to be known as the S.A.F.E. (Secure and Firearm-Free Education) Schools Act, implemented jointly by the DepEd, school administrations, LGUs and barangays. Its salient features are as follows:\na. Section 2 (Declaration of Policy) provides that school safety requires a whole-of-community approach and that security measures shall be child-sensitive, non-discriminatory, proportionate and respectful of learners' rights.\nb. Section 3 (Definition of Terms) defines weapons, school zones covering a 50-meter radius from the school boundary or principal entrances, Crime Prevention through Environmental Design, Behavioral Threat Assessment and the Anonymous Digital Tip Line.\nc. Section 4 (Mandates of the Department of Education (DepEd)) provides that the DepEd shall be the lead agency and shall formulate a National School Access Control Policy, establish a national framework for an Anonymous Digital Tip Line, mandate Behavioral Threat Assessment Teams in all school divisions, and set minimum standards for a School Safety Committee in every school.\nd. Section 5 (Responsibilities of School Administrations) provides that all public and private basic education institutions shall implement access control with a single point of entry, reasonable bag inspections, parental involvement agreements, and the confiscation and reporting of weapons to the PNP.\ne. Section 6 (Role of Local Government Units (LGUs)) provides that city and municipal LGUs shall allocate a portion of the Special Education Fund for security infrastructure such as perimeter hardening, access-control systems and AI-enhanced CCTV, enact local ordinances on weapons in school zones, and coordinate with the PNP on patrols.\nf. Section 7 (Duties of the Barangay) provides that barangays shall deploy tanods for perimeter patrols, use the Barangay Council for the Protection of Children for early intervention, and establish a community watch system.\ng. Section 8 (Interventions for Minors) provides that students found with weapons shall not be placed in adult penal facilities and that the LSWDO shall provide assessment and intervention consistent with RA No. 9344.\nh. Section 9 (Appropriations) provides that initial implementation shall be charged against the DepEd's current year appropriations, with continued funding included in the annual General Appropriations Act.\ni. Section 10 (Implementing Rules and Regulations (IRR)) provides that the DepEd, in consultation with the DILG, the PNP and the DSWD, shall issue the IRR within 60 days, prescribing minimum safety standards, and shall submit an annual report to Congress.",
+  "related_measures_policy": "No related bill in the current or past Congresses is identified for HB No. 11067. The measure may be considered alongside RA No. 9344 (Juvenile Justice and Welfare Act of 2006), which governs the interventions under Section 8 (Interventions for Minors), and RA No. 7610, whose protections are preserved under Section 12 (Repealing Clause). The measure aligns with the Human Capital Development priority of the FY 2027 Budget Priorities Framework and relates to the Implementation of Full Devolution to LGUs priority. The review should assess whether the Behavioral Threat Assessment Teams and School Safety Committees under Section 4 (Mandates of the Department of Education (DepEd)) overlap with existing child protection and local bodies, consistent with the Government Optimization Act (RA No. 12231), and whether the use of the Special Education Fund under Section 6 (Role of Local Government Units (LGUs)) is feasible for LGUs with limited fiscal capacity.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for initial implementation, charged against the DepEd's current year appropriations; no amount stated",
+    "section": "Section 9 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary, to be included in the annual General Appropriations Act",
+    "section": "Section 9 (Appropriations)"
+   },
+   {
+    "item": "LGU funding",
+    "detail": "City and municipal LGUs to allocate an unspecified portion of the Special Education Fund for security infrastructure, including AI-enhanced CCTV and access-control systems",
+    "section": "Section 6 (Role of Local Government Units (LGUs))"
+   },
+   {
+    "item": "Support body",
+    "detail": "Behavioral Threat Assessment Teams in all school divisions and a School Safety Committee in every school; staffing and cost implications not stated",
+    "section": "Section 4 (Mandates of the Department of Education (DepEd))"
+   },
+   {
+    "item": "Operating cost",
+    "detail": "National Anonymous Digital Tip Line to be established by the DepEd; cost not stated",
+    "section": "Section 4 (Mandates of the Department of Education (DepEd))"
+   }
+  ],
+  "reviewer_checks": [
+   "The long title refers to a Comprehensive School Safety and Weapon Prevention Program, while the short title names the S.A.F.E. Schools Act and no section formally constitutes the program; confirm the intended name and scope.",
+   "The texts of Section 3 (Definition of Terms), Section 4 (Mandates of the Department of Education (DepEd)) and Section 5 (Responsibilities of School Administrations) appear incomplete; obtain the full bill text to review all provisions.",
+   "The bill text contains stray page numbers and a stray closing quotation mark in the title; check for typographical errors.",
+   "Confirm whether the use of the Special Education Fund for security infrastructure under Section 6 is consistent with the permitted uses of the fund under existing law.",
+   "Confirm the bill's current status and whether a counterpart measure has been filed in the Senate."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 8 (Interventions for Minors) requires interventions for students found with weapons to comply with RA No. 9344, which Section 12 (Repealing Clause) also expressly preserves.",
+   "section": "HB-20-11067:s8",
+   "quote": "Interventions shall strictly comply with Republic Act No. 9344, otherwise known as the Juvenile Justice and Welfare Act of 2006, and other applicable child protection laws.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 12 (Repealing Clause) provides that nothing in the bill shall diminish the protections accorded to children under RA No. 7610.",
+   "section": "HB-20-11067:s12",
+   "quote": "nothing in this Act shall be construed to diminish or impair the rights and protections accorded to children under Republic Act No. 9344, as amended, Republic Act No. 7610, as amended",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-19T04:09:49+00:00"
+ }
+}
