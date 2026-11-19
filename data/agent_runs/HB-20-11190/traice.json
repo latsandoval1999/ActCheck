@@ -1,0 +1,83 @@
+{
+ "output": {
+  "target": "HB-20-11190",
+  "entity_proposed": "Congressional Commission on Mobility (MOBICOMM)",
+  "proposal": "HB No. 11190 seeks to create a Congressional Commission on Mobility (MOBICOMM), composed of members of the Senate and the House of Representatives, to undertake a comprehensive national review of road-based transport, road infrastructure and related built environment policies and to recommend targeted reforms toward safe, accessible, inclusive, affordable and sustainable mobility.",
+  "alignment": "As a measure on government organization and mandates, the review should examine how the proposed Commission, a temporary congressional body with a Technical Secretariat and an Advisory Council, relates to the mandates of the agencies whose policies it would review under Section 8 (Powers and Functions of the Commission) and Section 9 (National Evaluation and Scope), including the DOTr, DPWH, LTO, LTFRB and MMDA, and whether its recommendations on roles and coordination mechanisms are consistent with the government's intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess the assignment of the Philippine Institute for Development Studies as the Commission's primary research arm under Section 13 (Research partnerships and grants). No matching priority area under the FY 2027 Budget Priorities Framework and no LEDAC Common Legislative Agenda item were identified for this measure.",
+  "legislative_history": [
+   "HB No. 11190 was filed on September 8, 2026 by Representative Leila M. De Lima; its current status is filed (pending), with later stages not reflected in the available data.",
+   "HB No. 9862, filed in the same Congress, carries near-identical provisions on the creation, composition, powers, Executive Director and appropriations of the Commission, although its long title refers to a Congressional Commission on Road Mobility.",
+   "No earlier-Congress version, Senate counterpart, substitute bill or committee report was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-9862",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "HB No. 9862 is a House bill in the 20th Congress with near-identical text on the Commission's creation, composition, powers, Executive Director and appropriations.",
+    "section": "HB-20-9862:s5",
+    "quote": "to undertake a comprehensive national review and evaluation of the performance of the Philippine road-based transport, road infrastructure and related built environment policies and practices"
+   }
+  ],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 11190 seeks to establish a ten-member Congressional Commission on Mobility (MOBICOMM) drawn equally from the Senate and the House of Representatives. Its salient features are as follows:\na. Section 2 (Declaration of Policy) and Section 4 (State Principles on Mobility) provide that the State shall promote safe, accessible, inclusive, affordable, sustainable and reliable mobility, guided by people-centered, multimodal and integrated, and accessible and inclusive principles.\nb. Section 5 (Creation of the Commission) provides that the Commission shall be created to conduct a comprehensive national review of road-based transport, road infrastructure and related built environment policies and practices and recommend reforms in governance, standards, planning, regulation, investment and implementation.\nc. Section 6 (Composition of the Commission) provides that the Commission shall have ten Members, five from each chamber, co-chaired by the Chairpersons of the Senate Committee on Public Services and the House Committee on Transportation, with at least one Member from each chamber representing the Minority; Members shall receive no compensation but may be allowed travel, communications and other necessary expenses.\nd. Section 7 (Duration of the Commission) provides that the Commission shall operate until the end of the 21st Congress in 2031, submit a mid-term report by 2028 and a Final Report in 2031, and may have its term extended as may be provided by law.\ne. Section 8 (Powers and Functions of the Commission) provides that the Commission shall review the state of mobility and the relevant policies of the DOTr, DPWH, LTO, LTFRB, MMDA, DOH, DILG, LGUs and other concerned agencies, and recommend improvements in the harmonization and coordination of their policies.\nf. Section 9 (National Evaluation and Scope) provides that the national evaluation shall cover priority areas including mobility data and performance indicators, the roles and coordination mechanisms of transport agencies, capacity building, land transportation regulation and franchising, and fare-setting and subsidy mechanisms.\ng. Section 10 (Standing Committees) provides that the Commission shall form standing committees on focus areas such as active mobility, motorcycles, public transport, road safety, green infrastructure, and inclusion and universal accessibility.\nh. Section 11 (Technical Secretariat) provides that a Technical Secretariat headed by an Executive Director shall provide technical, policy, research and administrative support for the duration of the Commission.\ni. Section 12 (Executive Director) provides that the Executive Director shall be appointed by the Commission, work full-time and hold the rank and emoluments of an Executive Director IV (Salary Grade 29).\nj. Section 13 (Research partnerships and grants) provides that the Philippine Institute for Development Studies shall serve as the Commission's primary research arm, and that the Commission and PIDS may enter into research partnerships and provide grants or commission research.\nk. Section 14 (Mobility, Legislation and Policy Advisory Council) provides that an Advisory Council of ten experts appointed by the Senate President and the Speaker shall advise the Commission, and that no final report shall be adopted without its written inputs.\nl. Section 15 (Appropriations) provides that initial implementation shall be charged against the available appropriations of the Senate and the House of Representatives, and that continuing requirements shall be included in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 11190 may be considered alongside HB No. 9862, which proposes a near-identical Congressional Commission on Mobility in the same Congress. As a measure creating a temporary congressional body, the review should assess the scope of the Commission's review of executive agencies under Section 8 (Powers and Functions of the Commission) and Section 9 (National Evaluation and Scope) in relation to the streamlining objectives of the Government Optimization Act (RA No. 12231), the role assigned to PIDS under Section 13 (Research partnerships and grants), and the funding arrangements under Section 15 (Appropriations), including the research grants program for which no amount is specified.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for initial implementation (no amount stated), charged against the available appropriations of the Senate and the House of Representatives; the first year, including the research grants program, to be granted in appropriations",
+    "section": "Section 15 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Amounts for continuous implementation, including any current-year deficiency, to be included in the annual General Appropriations Act",
+    "section": "Section 15 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Executive Director, full-time, with the rank and emoluments of Executive Director IV (Salary Grade 29)",
+    "section": "Section 12 (Executive Director)"
+   },
+   {
+    "item": "Members",
+    "detail": "Ten legislator-Members with no compensation; travel, communications and other necessary expenses allowed",
+    "section": "Section 6 (Composition of the Commission)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Technical Secretariat for the duration of the Commission (staffing complement not specified)",
+    "section": "Section 11 (Technical Secretariat)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Mobility, Legislation and Policy Advisory Council of ten appointed experts (compensation or allowances not specified)",
+    "section": "Section 14 (Mobility, Legislation and Policy Advisory Council)"
+   },
+   {
+    "item": "Research grants",
+    "detail": "Research partnerships, grants and commissioned research by the Commission and PIDS (amount not specified)",
+    "section": "Section 13 (Research partnerships and grants)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the relationship with HB No. 9862, whose long title refers to a Commission on Road Mobility while its short title and provisions match this bill.",
+   "Clarify the second sentence of Section 15 (Appropriations) on first-year funding, which is unclear as drafted and does not state an amount.",
+   "Verify the wording of Section 6 (Composition of the Commission) on the five Members from each chamber, and the consistency of the acronym (MOBICOMM and MobiComm).",
+   "Confirm whether PIDS, as primary research arm under Section 13 (Research partnerships and grants), would require additional appropriations.",
+   "Confirm the current status of HB No. 11190 and HB No. 9862 with the House of Representatives."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "HB No. 9862 is a House bill in the 20th Congress with near-identical text on the Commission's creation, composition, powers, Executive Director and appropriations.",
+   "section": "HB-20-9862:s5",
+   "quote": "to undertake a comprehensive national review and evaluation of the performance of the Philippine road-based transport, road infrastructure and related built environment policies and practices",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-19T04:04:08+00:00"
+ }
+}
