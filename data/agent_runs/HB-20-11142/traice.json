@@ -1,0 +1,370 @@
+{
+ "output": {
+  "target": "HB-20-11142",
+  "entity_proposed": "Health Emergency Auxiliary Reinforcement Team (HEART)",
+  "proposal": "HB No. 11142 seeks to establish the Health Emergency Auxiliary Reinforcement Team (HEART) under the Department of Health (DOH), a registered pool of volunteer health professionals, graduates and health support workers who may be mobilized to augment the health workforce during disasters, public health emergencies and health threats. It also creates a HEART Board to govern mobilization and a HEART Unit in the DOH as its secretariat.",
+  "alignment": "As a government organization and mandates measure, the review should examine how the proposed HEART, HEART Board and HEART Unit fit with existing health emergency and disaster response structures, including the disaster volunteer mechanisms under RA No. 10121 and the Local Disaster Risk Reduction and Management Offices, and whether the new Board and Unit are consistent with the streamlining and reduction of overlapping functions under the Government Optimization Act (RA No. 12231). The measure aligns primarily with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on the Universal Health Care system, and secondarily with the Environment, Climate, and Disaster Resilience priority area given its disaster response role. No LEDAC Common Legislative Agenda item was identified for the measure.",
+  "legislative_history": [
+   "HB No. 11142 was filed in the 20th Congress on September 7, 2026 by Representative Patrick Michael \"PM\" D. Vargas; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "Fourteen House bills bearing the same or nearly the same title were filed earlier in the 20th Congress between June 30 and September 10, 2025, namely HB Nos. 10, 1199, 1238, 1367, 1547, 1686, 1926, 2821, 2993, 3225, 3512, 4387, 4499 and 4506, all pending in committee; their texts were not reviewed.",
+   "In the 19th Congress, HB No. 6518 (filed December 6, 2022) carried the same title and is recorded as pending in committee; HB No. 6209 (filed November 17, 2022) and HB No. 6110 (filed November 14, 2022) carried similar titles with no status recorded; their texts were not reviewed.",
+   "SB No. 1915, the HEART Act, bearing the same long title, was filed in the Senate in the 19th Congress on February 21, 2023 and is recorded as pending in committee; its text was not reviewed."
+  ],
+  "related": [
+   {
+    "id": "HB-20-10",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed. HB No. 10 in the 20th Congress carries an identical title.",
+    "section": "meta:HB-20-10",
+    "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-1199",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed. HB No. 1199 in the 20th Congress carries an identical title.",
+    "section": "meta:HB-20-1199",
+    "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-1238",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed. HB No. 1238 in the 20th Congress carries an identical title.",
+    "section": "meta:HB-20-1238",
+    "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-1367",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed. HB No. 1367 in the 20th Congress carries a nearly identical title.",
+    "section": "meta:HB-20-1367",
+    "quote": "AN ACT CREATING HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-1547",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed. HB No. 1547 in the 20th Congress carries an identical title.",
+    "section": "meta:HB-20-1547",
+    "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-1686",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed. HB No. 1686 in the 20th Congress carries an identical title.",
+    "section": "meta:HB-20-1686",
+    "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-1926",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed. HB No. 1926 in the 20th Congress carries a nearly identical title.",
+    "section": "meta:HB-20-1926",
+    "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFORE"
+   },
+   {
+    "id": "HB-20-2821",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed. HB No. 2821 in the 20th Congress carries an identical title.",
+    "section": "meta:HB-20-2821",
+    "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-2993",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed. HB No. 2993 in the 20th Congress carries an identical title.",
+    "section": "meta:HB-20-2993",
+    "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-3225",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed. HB No. 3225 in the 20th Congress carries a nearly identical title.",
+    "section": "meta:HB-20-3225",
+    "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFORE"
+   },
+   {
+    "id": "HB-20-3512",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed. HB No. 3512 in the 20th Congress carries an identical title.",
+    "section": "meta:HB-20-3512",
+    "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-4387",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed. HB No. 4387 in the 20th Congress carries an identical title.",
+    "section": "meta:HB-20-4387",
+    "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-4499",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed. HB No. 4499 in the 20th Congress carries an identical title.",
+    "section": "meta:HB-20-4499",
+    "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-4506",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed. HB No. 4506 in the 20th Congress carries an identical title.",
+    "section": "meta:HB-20-4506",
+    "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-6518",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed. The 19th Congress bill carries an identical title.",
+    "section": "meta:HB-19-6518",
+    "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-6209",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed. The 19th Congress bill carries a similar title using 'establishing' in place of 'creating'.",
+    "section": "meta:HB-19-6209",
+    "quote": "AN ACT ESTABLISHING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH"
+   },
+   {
+    "id": "HB-19-6110",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed. The 19th Congress bill carries a similar title without an appropriations reference.",
+    "section": "meta:HB-19-6110",
+    "quote": "AN ACT INSTITUTING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT (HEART) TEAM UNDER THE DEPARTMENT OF HEALTH"
+   },
+   {
+    "id": "SB-19-1915",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed. The 19th Congress Senate bill carries the same short title and long title.",
+    "section": "meta:SB-19-1915",
+    "quote": "HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM (HEART) ACT"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-10121",
+    "label": "Overlapping functions",
+    "overlap": "Section 11 (Mobilization) and Section 8 (Creation of a HEART Unit) rely on the disaster volunteer mobilization framework and the Local Disaster Risk Reduction and Management Offices under RA No. 10121.",
+    "section": "HB-20-11142:s11",
+    "quote": "Section 13 on “Accreditation, Mobilization, and Protection of Disaster Volunteers and National Service Reserve Corps, CSOs, and the Private Sector” of Republic Act No. 10121"
+   },
+   {
+    "law": "RA-11223",
+    "label": "Referenced in the bill",
+    "overlap": "Section 10 (Registry and Accounting of Members) links the HEART registry to the National Health Workforce Registry under Section 25 (c) of RA No. 11223.",
+    "section": "HB-20-11142:s10",
+    "quote": "integrated or linked to existing registries such as the National Health Workforce Registry pursuant to Republic Act No. 11223"
+   },
+   {
+    "law": "RA-2382",
+    "label": "Referenced in the bill",
+    "overlap": "Section 4 (Health Emergency Auxiliary Reinforcement Team) allows unlicensed medical graduates to render services under a limited and special authorization pursuant to RA No. 2382.",
+    "section": "HB-20-11142:s4",
+    "quote": "may be issued a limited and special authorization to render medical services during public health emergencies or health threats pursuant to Republic Act No. 2382"
+   },
+   {
+    "law": "RA-10173",
+    "label": "Referenced in the bill",
+    "overlap": "Section 10 (Registry and Accounting of Members) requires the volunteer registry to be maintained in accordance with RA No. 10173.",
+    "section": "HB-20-11142:s10",
+    "quote": "shall be maintained and regularly updated in accordance with Republic Act No. 10173, otherwise known as the Data Privacy Act"
+   }
+  ],
+  "salient_features": "HB No. 11142 seeks to establish the Health Emergency Auxiliary Reinforcement Team (HEART) under the DOH as a volunteer reserve to augment the health workforce during disasters, public health emergencies and health threats. Its salient features are as follows:\na. Section 4 (Health Emergency Auxiliary Reinforcement Team) provides that the HEART is established under the DOH and is composed of voluntarily registered licensed health and allied health professionals, including retired and non-practicing ones, medical and allied health graduates and students who have completed internship under a limited and special authorization, and other health support workers such as barangay health workers.\nb. Section 5 (The Health Emergency Auxiliary Reinforcement Team Promotion Program) provides for a program to promote, recruit and select a reserve force of health professionals and volunteers, use a medical reserves pool, and build partnerships for the sustainability of the HEART.\nc. Section 6 (Creation of the HEART Board) provides for a HEART Board chaired by the DOH, with representatives of the DILG, DND, CHED, PRC, AFP, OCD and one non-governmental health professional organization serving a two-year term, with agency representatives of at least Assistant Secretary rank and the AFP representative of at least Colonel rank from the Office of the Surgeon General.\nd. Section 7 (Powers and Functions of the Board) provides that the Board shall set the organization, mobilization, demobilization and reporting policies of the HEART, oversee its functioning, coordinate with agencies and stakeholders, and meet at least quarterly.\ne. Section 8 (Creation of a HEART Unit) provides that the DOH shall create a HEART Unit as the Board's secretariat and keeper of the HEART database, with its organizational structure and staffing pattern subject to DBM evaluation and approval, additional staff for regional counterparts, and HEART Units operationalized under each LGU's Local Disaster Risk Reduction and Management Office.\nf. Section 9 (Registration and Training) and Section 10 (Registry and Accounting of Members) provide for recruitment guidelines, mandatory basic training and skill enhancement, individual registration numbers, and a registry maintained under the Data Privacy Act and linked to the National Health Workforce Registry.\ng. Section 11 (Mobilization), Section 12 (Deployment Order) and Section 13 (Mobilization Centers) provide that the Board approves mobilization upon request of local chief executives, that the President may order nationwide mobilization upon Board recommendation, and that mobilization centers shall be established in each province as needed.\nh. Section 14 (Essential Emergency Commodities) provides that the Board shall ensure the procurement, storage and management of minimum essential commodities, medical equipment and supplies for deployment.\ni. Section 15 (Incentives) provides that implementing agencies may grant volunteers an allowance during actual mobilization, as determined by the DOH in coordination with the DBM and subject to availability of funds, without creating an employer-employee relationship.\nj. Section 16 (Legal Liability) and Section 17 (Public Health Emergency Insurance) provide immunity for volunteers except for gross negligence, recklessness or willful misconduct, and mandate the DOH to secure insurance covering volunteers.\nk. Section 18 (Termination of Deployment or Demobilization) and Section 19 (Annual Report) provide for the discharge of deployed volunteers to inactive status and for an annual report by the HEART Unit to the Office of the President through the DOH Secretary.\nl. Section 20 (Appropriations) provides that initial funding shall be charged against the available funds of the implementing agencies comprising the HEART Board, and thereafter included in the DOH budget under the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 11142 may be considered alongside HB Nos. 10, 1199, 1238, 1367, 1547, 1686, 1926, 2821, 2993, 3225, 3512, 4387, 4499 and 4506 of the 20th Congress, which bear the same or nearly the same title, and alongside the 19th Congress measures HB Nos. 6518, 6209 and 6110 and SB No. 1915; the texts of these measures should be compared to confirm the extent of similarity. The measure aligns with the Human Capital Development priority, particularly the Universal Health Care system, under the FY 2027 Budget Priorities Framework, and with the Environment, Climate, and Disaster Resilience priority. The review should assess whether the HEART, the HEART Board and the HEART Unit duplicate existing disaster volunteer and health emergency response mechanisms, taking into account Section 13 of RA No. 10121 and the National Health Workforce Registry under Section 25 (c) of RA No. 11223, and how the new bodies relate to the streamlining objectives of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged against the available funds of the implementing agencies comprising the HEART Board; no amount stated",
+    "section": "Section 20 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the DOH budget under the annual General Appropriations Act",
+    "section": "Section 20 (Appropriations)"
+   },
+   {
+    "item": "Support body",
+    "detail": "HEART Unit in the DOH as Board secretariat, with staffing pattern subject to DBM evaluation and approval, plus additional staff for regional counterparts",
+    "section": "Section 8 (Creation of a HEART Unit)"
+   },
+   {
+    "item": "Support body",
+    "detail": "HEART Units operationalized under each LGU's Local Disaster Risk Reduction and Management Office as mobilization centers",
+    "section": "Section 8 (Creation of a HEART Unit)"
+   },
+   {
+    "item": "Members",
+    "detail": "HEART Board of seven member agencies or organizations chaired by the DOH; no compensation or per diem stated",
+    "section": "Section 6 (Creation of the HEART Board)"
+   },
+   {
+    "item": "Volunteer allowance",
+    "detail": "Allowance during actual mobilization as determined by the DOH in coordination with the DBM, subject to availability of funds; no rate stated",
+    "section": "Section 15 (Incentives)"
+   },
+   {
+    "item": "Insurance",
+    "detail": "DOH insurance policy covering volunteers for injury, death, property loss and legal liability; no amount stated",
+    "section": "Section 17 (Public Health Emergency Insurance)"
+   },
+   {
+    "item": "Equipment and supplies",
+    "detail": "Procurement, storage and management of essential emergency commodities, medical equipment and supplies; no amount stated",
+    "section": "Section 14 (Essential Emergency Commodities)"
+   },
+   {
+    "item": "Facilities",
+    "detail": "Mobilization centers in each province as needed, which may use existing halls or gymnasiums",
+    "section": "Section 13 (Mobilization Centers)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 21 is used twice (Separability and Repeal); the sections should be renumbered.",
+   "The heading of Section 5 in the section list differs from its title in the text (The Health Emergency Auxiliary Reinforcement Team Promotion Program).",
+   "Section 22 (Effectivity) refers to the non-issuance of the IRR, but the bill contains no provision mandating implementing rules and regulations.",
+   "The Repeal clause states that the Act is consistent with other streamlining initiatives covered by executive orders, which appears to be template wording that should be confirmed as intended.",
+   "Section 8 assigns HEART Units to LGU disaster risk reduction offices and Section 20 charges initial funding to Board member agencies; the funding source for LGU-level and member-agency costs should be clarified.",
+   "The Definition of Terms and the coordination clause in Section 6 should be checked against the full bill text, including any references to RA No. 11332.",
+   "The texts and current status of the 20th Congress bills with the same title and of SB No. 1915 should be confirmed with the House and Senate before any consolidation is assumed."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed. HB No. 10 in the 20th Congress carries an identical title.",
+   "section": "meta:HB-20-10",
+   "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. HB No. 1199 in the 20th Congress carries an identical title.",
+   "section": "meta:HB-20-1199",
+   "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. HB No. 1238 in the 20th Congress carries an identical title.",
+   "section": "meta:HB-20-1238",
+   "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. HB No. 1367 in the 20th Congress carries a nearly identical title.",
+   "section": "meta:HB-20-1367",
+   "quote": "AN ACT CREATING HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. HB No. 1547 in the 20th Congress carries an identical title.",
+   "section": "meta:HB-20-1547",
+   "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. HB No. 1686 in the 20th Congress carries an identical title.",
+   "section": "meta:HB-20-1686",
+   "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. HB No. 1926 in the 20th Congress carries a nearly identical title.",
+   "section": "meta:HB-20-1926",
+   "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFORE",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. HB No. 2821 in the 20th Congress carries an identical title.",
+   "section": "meta:HB-20-2821",
+   "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. HB No. 2993 in the 20th Congress carries an identical title.",
+   "section": "meta:HB-20-2993",
+   "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. HB No. 3225 in the 20th Congress carries a nearly identical title.",
+   "section": "meta:HB-20-3225",
+   "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFORE",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. HB No. 3512 in the 20th Congress carries an identical title.",
+   "section": "meta:HB-20-3512",
+   "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. HB No. 4387 in the 20th Congress carries an identical title.",
+   "section": "meta:HB-20-4387",
+   "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. HB No. 4499 in the 20th Congress carries an identical title.",
+   "section": "meta:HB-20-4499",
+   "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. HB No. 4506 in the 20th Congress carries an identical title.",
+   "section": "meta:HB-20-4506",
+   "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The 19th Congress bill carries an identical title.",
+   "section": "meta:HB-19-6518",
+   "quote": "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The 19th Congress bill carries a similar title using 'establishing' in place of 'creating'.",
+   "section": "meta:HB-19-6209",
+   "quote": "AN ACT ESTABLISHING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The 19th Congress bill carries a similar title without an appropriations reference.",
+   "section": "meta:HB-19-6110",
+   "quote": "AN ACT INSTITUTING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT (HEART) TEAM UNDER THE DEPARTMENT OF HEALTH",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The 19th Congress Senate bill carries the same short title and long title.",
+   "section": "meta:SB-19-1915",
+   "quote": "HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM (HEART) ACT",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 11 (Mobilization) and Section 8 (Creation of a HEART Unit) rely on the disaster volunteer mobilization framework and the Local Disaster Risk Reduction and Management Offices under RA No. 10121.",
+   "section": "HB-20-11142:s11",
+   "quote": "Section 13 on “Accreditation, Mobilization, and Protection of Disaster Volunteers and National Service Reserve Corps, CSOs, and the Private Sector” of Republic Act No. 10121",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 10 (Registry and Accounting of Members) links the HEART registry to the National Health Workforce Registry under Section 25 (c) of RA No. 11223.",
+   "section": "HB-20-11142:s10",
+   "quote": "integrated or linked to existing registries such as the National Health Workforce Registry pursuant to Republic Act No. 11223",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 4 (Health Emergency Auxiliary Reinforcement Team) allows unlicensed medical graduates to render services under a limited and special authorization pursuant to RA No. 2382.",
+   "section": "HB-20-11142:s4",
+   "quote": "may be issued a limited and special authorization to render medical services during public health emergencies or health threats pursuant to Republic Act No. 2382",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 10 (Registry and Accounting of Members) requires the volunteer registry to be maintained in accordance with RA No. 10173.",
+   "section": "HB-20-11142:s10",
+   "quote": "shall be maintained and regularly updated in accordance with Republic Act No. 10173, otherwise known as the Data Privacy Act",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-19T04:06:12+00:00"
+ }
+}
