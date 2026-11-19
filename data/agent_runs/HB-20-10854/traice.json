@@ -1,0 +1,142 @@
+{
+ "output": {
+  "target": "HB-20-10854",
+  "entity_proposed": "Metropolitan Cebu Integrated Water Resources Management Board (MCIWRMB)",
+  "proposal": "HB No. 10854 seeks to create the Metropolitan Cebu Integrated Water Resources Management Board (MCIWRMB), a body corporate responsible for the strategic oversight, policy coordination and integrated planning, development and management of water resources and related infrastructure in Cebu, Mandaue, Lapu-Lapu and Talisay. The measure aims to attain water security, develop new and alternative water sources, and reduce institutional fragmentation in water governance in Metropolitan Cebu.",
+  "alignment": "As a government organization measure, the review should examine how the proposed Board, described in Section 6 (Powers and Functions of the Board) as the primary, centralized and authoritative inter-LGU body for water governance, fits with existing national water bodies, namely the Water Resources Management Office under the DENR created by EO No. 22 (2023), which is mandated to formulate an Integrated Water Resources Master Plan, and the National Water Resources Council under PD No. 424, as well as with the Metropolitan Cebu Water District, which sits on the Board under Section 7 (Composition of the Board). The review should also assess whether creating a new body corporate with a national appropriation is consistent with the intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231), and whether an inter-LGU arrangement funded by member LGUs may be a more appropriate design. The measure is aligned with the Environment, Climate, and Disaster Resilience priority area of the FY 2027 Budget Priorities Framework, given its floodwater management and water security functions. No LEDAC Common Legislative Agenda item is identified for this measure.",
+  "legislative_history": [
+   "HB No. 10854 was filed in the House of Representatives in the 20th Congress on August 20, 2026; later stages are not reflected in the available data.",
+   "No earlier version, counterpart, substitute bill or committee report with matching text was identified.",
+   "Bills creating national water bodies, such as SB No. 426 (Water Resources and Management Authority, 20th Congress, pending in the committee) and HB No. 4545 (20th Congress), and HB No. 961 (Metropolitan Cebu Development Authority, 19th Congress) address related subjects with different designs."
+  ],
+  "related": [
+   {
+    "id": "HB-20-4545",
+    "relationship": "Alternative proposal",
+    "basis": "Title indicates a national framework for integrated water resource management with a new department and regulatory commission, a different design addressing the same problem; text not reviewed.",
+    "section": "meta:HB-20-4545",
+    "quote": "AN ACT CREATING A NATIONAL FRAMEWORK FOR INTEGRATED WATER RESOURCE MANAGEMENT, CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION"
+   },
+   {
+    "id": "SB-20-426",
+    "relationship": "Alternative proposal",
+    "basis": "Title indicates a national water resources authority in the same Congress, a different design addressing water governance; text not reviewed.",
+    "section": "meta:SB-20-426",
+    "quote": "AN ACT CREATING THE WATER RESOURCES AND MANAGEMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "HB-19-961",
+    "relationship": "Alternative proposal",
+    "basis": "Title indicates a metropolitan development authority for the same area, whose functions may cover water and infrastructure coordination; text not reviewed.",
+    "section": "meta:HB-19-961",
+    "quote": "AN ACT CREATING THE METROPOLITAN CEBU DEVELOPMENT AUTHORITY"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "EO-22-2023",
+    "label": "Overlapping functions",
+    "overlap": "Section 1 (Water Resources Management Office) and Section 2 (Functions) task the WRMO with integrated water resources management and a master plan, overlapping with the Board's planning function under Section 6 (Powers and Functions of the Board).",
+    "section": "EO-22-2023:s1",
+    "quote": "shall ensure the immediate implementation of the Integrated Water Resources Management in line with the United Nations Sustainable Development Goals, and formulate a corresponding Integrated Water Resources Master Plan (IWMP)."
+   },
+   {
+    "law": "EO-22-2023",
+    "label": "Overlapping functions",
+    "overlap": "Section 3 (Attachment of all Water-Related Agencies to the DENR) attaches local water districts to the DENR, which bears on the Board's coordination role over the Metropolitan Cebu Water District.",
+    "section": "EO-22-2023:s3",
+    "quote": "Local Water Utilities Administration and the network of local water districts"
+   },
+   {
+    "law": "PD-424",
+    "label": "Overlapping functions",
+    "overlap": "Section 2 of PD No. 424 vests the National Water Resources Council with coordination of water resources development and rule-making on water use, overlapping with the Board's policy and allocation functions.",
+    "section": "PD-424:s2",
+    "quote": "Coordinate and integrate, on a sound and logical basis, water resources development activities of the country within the context of national plans and policies for social and economic development"
+   }
+  ],
+  "salient_features": "HB No. 10854 seeks to create the Metropolitan Cebu Integrated Water Resources Management Board (MCIWRMB) as a body corporate for integrated water resources management in Metropolitan Cebu. Its salient features are as follows:\na. Section 2 (Declaration of Policy) provides that the State shall ensure the sustainable management, protection, development and equitable distribution of water resources in Metropolitan Cebu through an integrated, coordinated and participatory framework.\nb. Section 4 (Creation of the Metropolitan Cebu Integrated Water Resources Management Board) provides that the Board is created as a body corporate primarily responsible for strategic oversight, policy coordination and integrated planning, development and management of water resources and related infrastructure.\nc. Section 5 (Scope and Coverage) provides that the Board shall have jurisdiction over the cities of Cebu, Mandaue, Lapu-Lapu and Talisay, and that other cities or municipalities in Cebu Province may join through a Sanggunian resolution and Board concurrence.\nd. Section 6 (Powers and Functions of the Board) provides that the Board shall be the primary inter-LGU body for water governance, with functions including formulating a Metropolitan Cebu Integrated Water Resources Master Plan, setting water allocation policies and service standards, developing new and alternative water sources and metro-wide infrastructure, and floodwater management.\ne. Section 7 (Composition of the Board) provides that the Board shall be composed of a rotating Chairperson from among the city mayors, the mayors of the principal and member LGUs, the regional directors of the DENR, DPWH, DEPDev and DILG, the head of the Metropolitan Cebu Water District as ex-officio member, and two independent experts appointed by the Board; no salary grades are specified.\nf. Section 8 (Secretariat) provides that the Board shall establish a Secretariat headed by an Executive Director appointed by the Board to provide technical and administrative support.\ng. Section 9 (Voting and Quorum) provides that each city or municipality has one vote and that decisions require a majority of members present, with a quorum of two-thirds of voting members.\nh. Section 10 (Provisions for Expansion and LGU Membership) provides for the admission of other LGUs in Cebu Province by a two-thirds vote of the Board, subject to their acceptance of proportionate funding and regulatory obligations.\ni. Section 11 (Funding and Resource Mobilization) provides that initial and annual operating requirements shall be appropriated by the National Government through the General Appropriations Act, supplemented by contributions from member LGUs, national agencies, GOCCs, the private sector and other organizations, with foreign grants and donations subject to prior clearance.\nj. Section 12 (Implementing Rules and Regulations) provides that the Board shall promulgate the implementing rules within a fixed period from the effectivity of the Act.",
+  "related_measures_policy": "HB No. 10854 may be considered alongside proposals to create national water bodies, such as SB No. 426 and HB No. 4545 in the 20th Congress, and HB No. 961 (Metropolitan Cebu Development Authority) of the 19th Congress. The measure is aligned with the Environment, Climate, and Disaster Resilience priority area of the FY 2027 Budget Priorities Framework. The review should assess the overlap of the Board's planning and coordination functions under Section 6 (Powers and Functions of the Board) with Section 1 (Water Resources Management Office) and Section 2 (Functions) of EO No. 22 (2023) and Section 2 of PD No. 424, the relationship of the Board to the Metropolitan Cebu Water District, and whether national funding of an inter-LGU body under Section 11 (Funding and Resource Mobilization) is warranted in light of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for initial operations, to be appropriated by the National Government through the GAA; no amount stated",
+    "section": "Section 11 (Funding and Resource Mobilization)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Annual capital, maintenance, organizational, operating and personnel expenses to be provided in the GAA",
+    "section": "Section 11 (Funding and Resource Mobilization)"
+   },
+   {
+    "item": "Other sources",
+    "detail": "Contributions and technical assistance from member LGUs, NGAs, GOCCs, the private sector and other organizations; grants, donations, fees and charges",
+    "section": "Section 11 (Funding and Resource Mobilization)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Secretariat headed by an Executive Director appointed by the Board; no positions or salary grades specified",
+    "section": "Section 8 (Secretariat)"
+   },
+   {
+    "item": "Members",
+    "detail": "Two independent experts appointed by the Board; no compensation or per diem specified",
+    "section": "Section 7 (Composition of the Board)"
+   }
+  ],
+  "reviewer_checks": [
+   "The heading of Section 4 appears truncated in the text and should be confirmed against the official copy.",
+   "Section 11 (Funding and Resource Mobilization) refers to clearance by 'the Council', a body not defined or created in the bill.",
+   "Section 3 (Definition of Terms) uses 'Metro Cebu Integrated Water Resources Management Board' while Section 1 (Short Title) and Section 4 use 'Metropolitan Cebu'; the name should be made consistent.",
+   "Section 7 (Composition of the Board) draws the Chairperson from the mayors of 'component cities', while Section 3 identifies only Talisay as a component city; the intended pool should be clarified.",
+   "Section 7 misnames certain departments (e.g., 'Department of Internal and Local Government', 'Department of Environment and Natural Resource'); names should be corrected.",
+   "Section 9 (Voting and Quorum) gives one vote per city or municipality but does not state whether national agency, water district and expert members vote.",
+   "Sections 6 and 11 appear truncated in the available text; the full provisions should be reviewed.",
+   "The bill does not specify the Board's attachment to any department or the organizational and staffing structure of the Secretariat."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title indicates a national framework for integrated water resource management with a new department and regulatory commission, a different design addressing the same problem; text not reviewed.",
+   "section": "meta:HB-20-4545",
+   "quote": "AN ACT CREATING A NATIONAL FRAMEWORK FOR INTEGRATED WATER RESOURCE MANAGEMENT, CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION",
+   "check": "verified"
+  },
+  {
+   "claim": "Title indicates a national water resources authority in the same Congress, a different design addressing water governance; text not reviewed.",
+   "section": "meta:SB-20-426",
+   "quote": "AN ACT CREATING THE WATER RESOURCES AND MANAGEMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title indicates a metropolitan development authority for the same area, whose functions may cover water and infrastructure coordination; text not reviewed.",
+   "section": "meta:HB-19-961",
+   "quote": "AN ACT CREATING THE METROPOLITAN CEBU DEVELOPMENT AUTHORITY",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 1 (Water Resources Management Office) and Section 2 (Functions) task the WRMO with integrated water resources management and a master plan, overlapping with the Board's planning function under Section 6 (Powers and Functions of the Board).",
+   "section": "EO-22-2023:s1",
+   "quote": "shall ensure the immediate implementation of the Integrated Water Resources Management in line with the United Nations Sustainable Development Goals, and formulate a corresponding Integrated Water Resources Master Plan (IWMP).",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 3 (Attachment of all Water-Related Agencies to the DENR) attaches local water districts to the DENR, which bears on the Board's coordination role over the Metropolitan Cebu Water District.",
+   "section": "EO-22-2023:s3",
+   "quote": "Local Water Utilities Administration and the network of local water districts",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 2 of PD No. 424 vests the National Water Resources Council with coordination of water resources development and rule-making on water use, overlapping with the Board's policy and allocation functions.",
+   "section": "PD-424:s2",
+   "quote": "Coordinate and integrate, on a sound and logical basis, water resources development activities of the country within the context of national plans and policies for social and economic development",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-19T10:03:54+00:00"
+ }
+}
