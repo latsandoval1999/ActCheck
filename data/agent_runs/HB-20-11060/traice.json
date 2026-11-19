@@ -1,0 +1,207 @@
+{
+ "output": {
+  "target": "HB-20-11060",
+  "entity_proposed": "Congressional Commission on Agriculture, Fisheries and Food Security (AGRICOM)",
+  "proposal": "HB No. 11060 seeks to establish the Congressional Commission on Agriculture, Fisheries and Food Security (AGRICOM), a temporary 12-member body of the Senate and the House of Representatives with a three-year mandate, to review, assess and evaluate the state of Philippine agriculture and fisheries and recommend targeted policy, legislative and institutional reforms to ensure food security, improve the welfare of farmers and fisherfolk, and strengthen the sector's competitiveness and resilience.",
+  "alignment": "As a measure on government organization and mandates, the review should examine how the AGRICOM, as a congressional body, relates to the functions of existing agriculture and fisheries agencies and research institutions, including the Philippine Institute for Development Studies (PIDS) designated as its research arm under Section 8 (Philippine Institute for Development Studies as Research Arm), and whether its recommendations on overlapping mandates and fragmented programs under Section 3 (Objectives of AGRICOM) may complement the streamlining of the Executive branch under the Government Optimization Act (RA No. 12231). The measure aligns with the Food Security priority area of the FY 2027 Budget Priorities Framework, particularly its focus on climate-resilient and smart agriculture, targeted infrastructure and mechanization, and Farm and Fisheries Clustering and Consolidation (F2C2). No corresponding measure in the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 11060 was filed in the House of Representatives on September 1, 2026, during the 20th Congress; its status is filed and pending, with later stages not yet recorded.",
+   "Several House bills of the 20th Congress propose a similarly named Congressional Commission on Agriculture, including HB Nos. 2322, 5129 and 5296, which share the core design of HB No. 11060, and HB Nos. 5106, 5308 and 6689, which propose variants of the commission.",
+   "In the Senate, SB No. 1624 was filed in substitution of SB Nos. 1199 and 1345, upon the recommendation of a committee report jointly prepared by the Committees on Agriculture, Food and Agrarian Reform; and Finance.",
+   "No earlier-Congress version with closely matching provisions was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-5296",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "HB No. 5296 has a nearly identical title and the same 12-member composition, Executive Director position and funding source, which HB No. 11060 expands with additional support bodies.",
+    "section": "HB-20-5296:s5",
+    "quote": "The Commission shall be composed of twelve (12) members: six (6) from the Senate and six (6) from the House of Representatives"
+   },
+   {
+    "id": "HB-20-5129",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "HB No. 5129 carries the same title, composition and Executive Director provisions as the core of HB No. 11060.",
+    "section": "HB-20-5129:s5",
+    "quote": "The Commission shall be composed of twelve (12) members, with six (6) members from the Senate and six (6) members from the House of Representatives"
+   },
+   {
+    "id": "HB-20-2322",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "HB No. 2322 proposes the same commission design, including the 12-member composition and an Executive Director IV (Salary Grade 29), under a shorter name without food security.",
+    "section": "HB-20-2322:s6",
+    "quote": "shall have the rank, privileges, and emoluments of an Executive Director IV (Salary Grade 29)."
+   },
+   {
+    "id": "HB-20-5308",
+    "relationship": "Alternative proposal",
+    "basis": "HB No. 5308 proposes a commission focused on food self-sufficiency with a stated initial appropriation, whereas HB No. 11060 states no amount.",
+    "section": "HB-20-5308:s12",
+    "quote": "An initial amount of Two Hundred Million Pesos (P200,000,000.00) shall be appropriated for the implementation of this Act, chargeable against the current appropriations of Congress."
+   },
+   {
+    "id": "HB-20-5106",
+    "relationship": "Alternative proposal",
+    "basis": "HB No. 5106 proposes a Congressional Commission on Agriculture centered on institutional reform of the agriculture bureaucracy.",
+    "section": "HB-20-5106:s2",
+    "quote": "the State shall pursue a whole-of-government and whole-of- society approach to reforming the agriculture bureaucracy."
+   },
+   {
+    "id": "HB-20-6689",
+    "relationship": "Alternative proposal",
+    "basis": "HB No. 6689 proposes a Congressional Commission on Agriculture covering agri-food systems and agricultural transformation.",
+    "section": "HB-20-6689:s2",
+    "quote": "create an independent, multisectoral, and evidence-informed Congressional Commission"
+   },
+   {
+    "id": "SB-20-1624",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "SB No. 1624 is the Senate substitute creating the AGRICOM, with a 10-member composition and a stated initial appropriation.",
+    "section": "SB-20-1624:s7",
+    "quote": "The AGRICOM shall be composed of ten (10) members, with five (5) members each from the Senate and the House of Representatives."
+   },
+   {
+    "id": "CR-20-AGRICOM",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "The Senate committee report recommends approval of SB No. 1624 in substitution of SB Nos. 1199 and 1345.",
+    "section": "CR-20-AGRICOM:note",
+    "quote": "Recommending its approval in substitution of Senate Bill Nos. 1199 and 1345"
+   },
+   {
+    "id": "SB-20-1199",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "SB No. 1199 carries the same title and 12-member composition as the House bills and was substituted by SB No. 1624.",
+    "section": "SB-20-1199:s5",
+    "quote": "The Commission shall be composed of twelve (12) members, with six (6) members from the Senate and six (6) members from the House of Representatives"
+   },
+   {
+    "id": "SB-20-1345",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "SB No. 1345 proposes a Congressional Commission on Agriculture with a stated initial appropriation and was substituted by SB No. 1624.",
+    "section": "SB-20-1345:s16",
+    "quote": "The amount of two hundred million pesos (Php 200,000,000.00) shall be appropriated for the initial implementation of this Act"
+   }
+  ],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 11060 seeks to establish the Congressional Commission on Agriculture, Fisheries and Food Security (AGRICOM), a temporary 12-member congressional body with a three-year mandate. Its salient features are as follows:\na. Section 3 (Objectives of AGRICOM) provides that the Commission shall review agriculture and fisheries policies, programs, institutions and expenditures, including reforms to address overlapping mandates, fragmented programs and coordination gaps, and a review of the entire value chain.\nb. Section 4 (Creation of AGRICOM) provides for the creation of the AGRICOM as an independent, temporary, multisectoral and evidence-based congressional body to undertake a comprehensive national assessment of the agriculture and fisheries sector and recommend reforms.\nc. Section 5 (Composition of AGRICOM) provides that the Commission shall have twelve members, six each from the Senate and the House of Representatives, including the chairpersons of specified committees and one Minority member per chamber, with the chairpersons of the two agriculture committees as Co-Chairpersons.\nd. Section 6 (Executive Director) provides for a full-time Executive Director appointed by the Commission, with the rank and emoluments of an Executive Director IV, Salary Grade 29, responsible for day-to-day administration.\ne. Section 7 (Technical Secretariat) provides for a Technical Secretariat headed by the Executive Director, which may engage technical experts, consultants and temporary personnel and shall exist for the duration of the Commission's mandate.\nf. Section 8 (Philippine Institute for Development Studies as Research Arm) designates the PIDS as the principal research arm of the Commission.\ng. Section 9 (Agriculture and Fisheries Legislation and Policy Advisory Council) creates an Advisory Council of eleven sectoral experts chosen by the Senate President and the Speaker upon recommendation of the Commission.\nh. Section 10 (Duration of AGRICOM) provides that the Commission shall complete its mandate within three years from its organization, with any extension requiring an Act of Congress.\ni. Section 11 (Powers and Functions of AGRICOM) provides that the Commission shall formulate short-, medium- and long-term recommendations, approve its work plan and research agenda, hold hearings and consultations, and issue subpoenas, among others.\nj. Section 12 (Standing Committees) provides that the Commission may establish standing committees or technical working groups on specified thematic areas.\nk. Section 13 (Periodic and Final Reports) requires semi-annual reports and a final report to the Senate President and the Speaker, including proposed legislation, institutional reforms, budgetary priorities and an implementation roadmap.\nl. Section 14 (Cooperation of Government Agencies and Other Institutions) requires all government instrumentalities to extend full cooperation to the Commission.\nm. Section 15 (Congressional Oversight) provides that, upon expiration of the mandate, the agriculture committees of both chambers shall jointly monitor implementation of the adopted recommendations.\nn. Section 16 (Appropriations) provides that initial funding shall be charged against the current appropriations of the Senate and the House of Representatives, and continuing funding shall be included in the annual General Appropriations Act.\no. Section 17 (Implementing Guidelines) requires the Commission to issue implementing rules within sixty days from its organization.",
+  "related_measures_policy": "HB No. 11060 may be considered alongside HB Nos. 2322, 5129 and 5296, which share its core design, and HB Nos. 5106, 5308 and 6689, which propose variants of the commission, as well as SB No. 1624, the Senate substitute for SB Nos. 1199 and 1345. The measure aligns with the Food Security priority area of the FY 2027 Budget Priorities Framework. The review should assess the differences between the House and Senate versions, notably the composition of twelve members under Section 5 (Composition of AGRICOM) against ten members in SB No. 1624, and the absence of a stated amount under Section 16 (Appropriations) against the initial appropriation of PHP 200 million in SB No. 1624. The review should also assess the cost of the Technical Secretariat, the Advisory Council and the Executive Director position, and the fit of the Commission's recommendations with the streamlining of the Executive branch under the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount not stated; charged against the current appropriations of the Senate and the House of Representatives",
+    "section": "Section 16 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Sums necessary for the Commission and its Technical Secretariat to be included in the annual General Appropriations Act",
+    "section": "Section 16 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Executive Director IV (Salary Grade 29), full-time",
+    "section": "Section 6 (Executive Director)"
+   },
+   {
+    "item": "Members",
+    "detail": "Twelve legislators; compensation provisions to be confirmed in the full text",
+    "section": "Section 5 (Composition of AGRICOM)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Technical Secretariat with technical experts, consultants and temporary personnel for the duration of the mandate",
+    "section": "Section 7 (Technical Secretariat)"
+   },
+   {
+    "item": "Support body",
+    "detail": "PIDS as principal research arm",
+    "section": "Section 8 (Philippine Institute for Development Studies as Research Arm)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Advisory Council of eleven sectoral experts; compensation or honoraria not stated",
+    "section": "Section 9 (Agriculture and Fisheries Legislation and Policy Advisory Council)"
+   },
+   {
+    "item": "Duration",
+    "detail": "Three years from organization; extension requires an Act of Congress",
+    "section": "Section 10 (Duration of AGRICOM)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the full text of Section 5 (Composition of AGRICOM) on the compensation and allowances of members.",
+   "Confirm the complete enumerations under Section 3 (Objectives of AGRICOM) and Section 11 (Powers and Functions of AGRICOM).",
+   "Section 16 (Appropriations) states no amount for initial funding, while SB No. 1624 provides PHP 200 million; the funding requirement should be estimated.",
+   "Section 9 (Agriculture and Fisheries Legislation and Policy Advisory Council) does not state whether council members receive honoraria or allowances.",
+   "Confirm the current status of SB No. 1624 with the Senate and whether HB No. 11060 is being consolidated with other House bills on the AGRICOM.",
+   "Reconcile the composition of twelve members in HB No. 11060 with the ten members in SB No. 1624."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "HB No. 5296 has a nearly identical title and the same 12-member composition, Executive Director position and funding source, which HB No. 11060 expands with additional support bodies.",
+   "section": "HB-20-5296:s5",
+   "quote": "The Commission shall be composed of twelve (12) members: six (6) from the Senate and six (6) from the House of Representatives",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 5129 carries the same title, composition and Executive Director provisions as the core of HB No. 11060.",
+   "section": "HB-20-5129:s5",
+   "quote": "The Commission shall be composed of twelve (12) members, with six (6) members from the Senate and six (6) members from the House of Representatives",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 2322 proposes the same commission design, including the 12-member composition and an Executive Director IV (Salary Grade 29), under a shorter name without food security.",
+   "section": "HB-20-2322:s6",
+   "quote": "shall have the rank, privileges, and emoluments of an Executive Director IV (Salary Grade 29).",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 5308 proposes a commission focused on food self-sufficiency with a stated initial appropriation, whereas HB No. 11060 states no amount.",
+   "section": "HB-20-5308:s12",
+   "quote": "An initial amount of Two Hundred Million Pesos (P200,000,000.00) shall be appropriated for the implementation of this Act, chargeable against the current appropriations of Congress.",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 5106 proposes a Congressional Commission on Agriculture centered on institutional reform of the agriculture bureaucracy.",
+   "section": "HB-20-5106:s2",
+   "quote": "the State shall pursue a whole-of-government and whole-of- society approach to reforming the agriculture bureaucracy.",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 6689 proposes a Congressional Commission on Agriculture covering agri-food systems and agricultural transformation.",
+   "section": "HB-20-6689:s2",
+   "quote": "create an independent, multisectoral, and evidence-informed Congressional Commission",
+   "check": "verified"
+  },
+  {
+   "claim": "SB No. 1624 is the Senate substitute creating the AGRICOM, with a 10-member composition and a stated initial appropriation.",
+   "section": "SB-20-1624:s7",
+   "quote": "The AGRICOM shall be composed of ten (10) members, with five (5) members each from the Senate and the House of Representatives.",
+   "check": "verified"
+  },
+  {
+   "claim": "The Senate committee report recommends approval of SB No. 1624 in substitution of SB Nos. 1199 and 1345.",
+   "section": "CR-20-AGRICOM:note",
+   "quote": "Recommending its approval in substitution of Senate Bill Nos. 1199 and 1345",
+   "check": "verified"
+  },
+  {
+   "claim": "SB No. 1199 carries the same title and 12-member composition as the House bills and was substituted by SB No. 1624.",
+   "section": "SB-20-1199:s5",
+   "quote": "The Commission shall be composed of twelve (12) members, with six (6) members from the Senate and six (6) members from the House of Representatives",
+   "check": "verified"
+  },
+  {
+   "claim": "SB No. 1345 proposes a Congressional Commission on Agriculture with a stated initial appropriation and was substituted by SB No. 1624.",
+   "section": "SB-20-1345:s16",
+   "quote": "The amount of two hundred million pesos (Php 200,000,000.00) shall be appropriated for the initial implementation of this Act",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-19T04:10:16+00:00"
+ }
+}
