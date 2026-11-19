@@ -1,0 +1,76 @@
+{
+ "output": {
+  "target": "HB-20-10937",
+  "entity_proposed": "BPI-DA Southern Leyte Seedling Bank",
+  "proposal": "HB No. 10937 seeks to establish a seedling bank and field office of the Bureau of Plant Industry (BPI) of the Department of Agriculture (DA) in Southern Leyte, to be known as the BPI-DA Southern Leyte Seedling Bank, to serve as a training and technical advisory center and to ensure a continuous supply of quality seeds and planting materials for food security and farmer livelihood in the province.",
+  "alignment": "As a government organization measure, the review should examine whether the proposed seedling bank and field office duplicates the existing functions, regional offices and facilities of the BPI and the DA in Southern Leyte, whether these services can be delivered through existing BPI and DA structures, and how the measure relates to the government's intent to streamline agencies and reduce overlapping functions under the Government Optimization Act (RA No. 12231). No priority area of the FY 2027 Budget Priorities Framework and no item of the LEDAC Common Legislative Agenda was identified for this measure.",
+  "legislative_history": [
+   "HB No. 10937 was filed in the 20th Congress on August 25, 2026 by Representative Christopherson \"Coco\" M. Yap; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "HB No. 4634 of the 19th Congress, filed on September 9, 2022 and pending in the committee, bears an identical title; its text was not reviewed.",
+   "No counterpart Senate measure, substitute bill or committee report was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-19-4634",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "The 19th Congress bill carries the same title as HB No. 10937, suggesting an earlier version, but its provisions were not available for comparison.",
+    "section": "meta:HB-19-4634",
+    "quote": "AN ACT ESTABLISHING A SEEDLING BANK OF THE BUREAU OF PLANT INDUSTRY IN THE MUNICIPALITY OF HINUNANGAN, PROVINCE OF SOUTHERN LEYTE"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "ACT-3639-1929",
+    "label": "Overlapping functions",
+    "overlap": "The law that named the Bureau of Plant Industry underlies the BPI mandate within which the field office under Section 1 (Establishment) would operate; only its title was available.",
+    "section": "law:ACT-3639-1929",
+    "quote": "CHANGING THE NAME OF THE BUREAU OF AGRICULTURE TO BUREAU OF PLANT INDUSTRY"
+   }
+  ],
+  "salient_features": "HB No. 10937 seeks to establish the BPI-DA Southern Leyte Seedling Bank as a seedling bank and field office of the Bureau of Plant Industry of the Department of Agriculture. Its salient features are as follows:\na. Section 1 (Establishment) provides that a seedling bank and field office of the BPI shall be established in Southern Leyte (the section names the Municipality of Hinundayan, while the title names Hinunangan) to serve as a center for training, technical advice and services on crop culture and management, and to ensure the continuous production and distribution of quality seeds and planting materials of staple and high-value crops.\nb. Section 2 (Coordination and Partnerships) provides that the BPI-DA may enter into agreements with the Southern Leyte State University and other institutions for research and extension programs on high-yielding crop varieties, food security, support to small farmers and the local plant industry.\nc. Section 3 (Appropriations) provides that initial funding shall be charged against the savings of the DA, and that continuing funding shall be included in the DA allocation in the annual General Appropriations Act.\nd. Section 4 (Implementing Rules and Regulations) provides that the Secretary of Agriculture, upon recommendation of the BPI Director and in consultation with the university, local government units, farmers' organizations and other stakeholders, shall issue the implementing rules within six months of effectivity.\ne. Sections 5 to 7 contain the standard separability, repealing and effectivity clauses.",
+  "related_measures_policy": "HB No. 10937 may be considered alongside HB No. 4634 of the 19th Congress, which bears an identical title. The measure has no identified alignment with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda. The review should assess whether Section 1 (Establishment) creates a field office whose functions overlap with the existing mandate of the Bureau of Plant Industry and the regional operations of the Department of Agriculture, whether Section 3 (Appropriations) imposes a continuing personnel and maintenance burden on the DA budget, and whether the proposal is consistent with the streamlining objectives of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for establishment and operations, from DA savings; no amount stated",
+    "section": "Section 3 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Operation and maintenance included in the DA allocation in the annual General Appropriations Act",
+    "section": "Section 3 (Appropriations)"
+   },
+   {
+    "item": "Positions",
+    "detail": "No plantilla positions or salary grades specified; staffing of the field office is implied",
+    "section": "Section 1 (Establishment)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 1 (Establishment) locates the seedling bank in the Municipality of Hinundayan, while the title and Section 4 (Implementing Rules and Regulations) refer to the Municipality of Hinunangan; the intended site should be confirmed.",
+   "Confirm whether the BPI or the DA already operates a seedling bank, nursery or field office in Southern Leyte that performs the proposed functions.",
+   "The bill does not specify the organizational structure, positions or staffing of the field office; the personnel cost implications should be clarified.",
+   "Confirm the text and status of HB No. 4634 of the 19th Congress with the House of Representatives."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "The 19th Congress bill carries the same title as HB No. 10937, suggesting an earlier version, but its provisions were not available for comparison.",
+   "section": "meta:HB-19-4634",
+   "quote": "AN ACT ESTABLISHING A SEEDLING BANK OF THE BUREAU OF PLANT INDUSTRY IN THE MUNICIPALITY OF HINUNANGAN, PROVINCE OF SOUTHERN LEYTE",
+   "check": "verified"
+  },
+  {
+   "claim": "The law that named the Bureau of Plant Industry underlies the BPI mandate within which the field office under Section 1 (Establishment) would operate; only its title was available.",
+   "section": "law:ACT-3639-1929",
+   "quote": "CHANGING THE NAME OF THE BUREAU OF AGRICULTURE TO BUREAU OF PLANT INDUSTRY",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-19T10:03:41+00:00"
+ }
+}
