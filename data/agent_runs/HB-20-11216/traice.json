@@ -1,0 +1,137 @@
+{
+ "output": {
+  "target": "HB-20-11216",
+  "entity_proposed": "",
+  "proposal": "By its title, HB No. 11216 seeks to create an Independent People's Commission to investigate anomalies in all government infrastructure projects; however, the text available for review is a higher education measure, the proposed \"Higher Education Development and Innovation Act of 2025,\" which continues the Commission on Higher Education (CHED), restates its powers and funds, and repeals RA No. 7722. The title-text discrepancy should be resolved before the substantive review proceeds.",
+  "alignment": "Under Government Organization and Mandates, the review should first establish which text is the measure actually filed, since the title proposes a new investigative commission on infrastructure anomalies while the available text reorganizes CHED. If the title governs, the review should examine how the proposed commission would fit with existing bodies, including the Independent Commission for Infrastructure created under EO No. 94 (2025), and whether it adds an overlapping investigative mandate contrary to the streamlining intent of the Government Optimization Act (RA No. 12231). If the text governs, the review should examine whether the restated CHED mandate, including Section 4 (Commission on Higher Education) and Section 13 (Quasi-Judicial Powers of the Commission), duplicates or reallocates functions held by TESDA and other bodies. The Infrastructure Development priority area of the FY 2027 Budget Priorities Framework is relevant only to the measure as titled; the available text does not relate to infrastructure. No LEDAC Common Legislative Agenda item was identified.",
+  "legislative_history": [
+   "HB No. 11216 was filed on September 8, 2026 by Representative Antolin \"Lenlen\" A. Oreta III; its status is filed, with later stages not yet reported.",
+   "The bill's title refers to an Independent People's Commission on infrastructure anomalies, while its text, under Section 1 (Short Title), is cited as the \"Higher Education Development and Innovation Act of 2025.\"",
+   "SB No. 1215 (Infrastructure Anomalies Investigation Act of 2025), filed on August 19, 2025 in the 20th Congress and pending in the committee, carries an identical title; title match only; text not reviewed."
+  ],
+  "related": [
+   {
+    "id": "SB-20-1215",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed; the Senate bill bears the same long title as HB No. 11216, but the House text available concerns higher education.",
+    "section": "meta:SB-20-1215",
+    "quote": "AN ACT CREATING AN INDEPENDENT PEOPLE'S COMMISSION TO INVESTIGATE ANOMALIES IN ALL GOVERNMENT INFRASTRUCTURE PROJECTS"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-7722",
+    "label": "Amends or repeals",
+    "overlap": "Section 27 (Repealing Clause) repeals RA No. 7722, while Section 4 (Commission on Higher Education) and Section 14 (Higher Education Development Fund) continue the Commission and Fund created under it.",
+    "section": "HB-20-11216:s27",
+    "quote": "Republic Act No. 7722, otherwise known as the \"Higher Education Act of 1994,\" is hereby repealed."
+   },
+   {
+    "law": "RA-7796",
+    "label": "Overlapping functions",
+    "overlap": "Section 4 (Commission on Higher Education) delineates CHED coverage from TESDA authority over associate degree, diploma and non-degree programs under RA No. 7796.",
+    "section": "HB-20-11216:s4",
+    "quote": "TESDA shall maintain authority, oversight and jurisdiction pursuant to Republic Act No. 7796 and other applicable laws"
+   },
+   {
+    "law": "RA-9593",
+    "label": "Referenced in the bill",
+    "overlap": "Section 14 (Higher Education Development Fund) continues the travel tax share earmarked for the Fund under Section 73 of RA No. 9593.",
+    "section": "HB-20-11216:s14",
+    "quote": "The equivalent of forty percent (40%) annual share on the total gross collections of the travel tax, pursuant to the provisions of Section 73 of Republic Act No. 9593"
+   },
+   {
+    "law": "EO-94-2025",
+    "label": "Overlapping functions",
+    "overlap": "Judging by titles only, the commission proposed in the bill's title may overlap with the Independent Commission for Infrastructure; no section of the available bill text addresses it.",
+    "section": "law:EO-94-2025",
+    "quote": "CREATING THE INDEPENDENT COMMISSION FOR INFRASTRUCTURE"
+   }
+  ],
+  "salient_features": "HB No. 11216, as titled, seeks to create an Independent People's Commission to investigate anomalies in government infrastructure projects; the available text, however, seeks to continue and restructure the Commission on Higher Education. Its salient features, as stated in the text, are as follows:\na. Section 1 (Short Title) provides that the Act shall be known as the Higher Education Development and Innovation Act of 2025.\nb. Section 4 (Commission on Higher Education) provides that CHED, created under RA No. 7722, continues as an independent body attached to the Office of the President for administrative purposes, covering public and private HEIs, while TESDA retains authority over associate degree, diploma and non-degree programs and National Universities keep their legislated autonomy.\nc. Section 5 (Composition of the Commission) provides that the Commission is composed of five full-time members, a Chairperson and four Commissioners appointed by the President, who must hold earned doctorates, have at least ten years in higher education and not have been candidates in the immediately preceding election.\nd. Section 7 (Rank and Emoluments) provides that the Chairperson shall have the rank and emoluments of a Department Secretary and the Commissioners the equivalent rank of an Undersecretary.\ne. Section 9 (Powers and Functions of the Commission) provides developmental powers, among them formulating higher education plans, coordinating with DepEd, TESDA and the PRC, and broadening access for disadvantaged students.\nf. Section 10 (Secretariat and the Executive Director) provides that a Secretariat headed by an Executive Director, assisted by two Deputy Executive Directors, shall be organized, with the Commission fixing its staffing pattern and compensation scheme.\ng. Section 13 (Quasi-Judicial Powers of the Commission) provides that the Commission shall have exclusive original jurisdiction over the opening, closure and maintenance of HEIs, including SUCs and LUCs, with rules to be published within sixty days of effectivity.\nh. Section 14 (Higher Education Development Fund) provides that the Fund continues to receive shares of travel tax, professional registration fee and PCSO lotto collections, may receive contributions from government financing institutions, and may have a private portion from tax-exempt donations.\ni. Section 25 (Appropriations) provides that initial implementation shall be charged to CHED's current-year appropriations and thereafter included in the annual General Appropriations Act.\nj. Section 27 (Repealing Clause) provides for the repeal of RA No. 7722 and of inconsistent laws and issuances.",
+  "related_measures_policy": "As titled, HB No. 11216 may be considered alongside SB No. 1215, which bears the same title, and alongside EO No. 94 (2025) creating the Independent Commission for Infrastructure; on that reading, the measure relates to the Infrastructure Development priority of the FY 2027 Budget Priorities Framework, and the review should assess whether a new investigative commission would duplicate existing bodies, consistent with the Government Optimization Act (RA No. 12231). As written, however, the text concerns higher education and should be read against RA No. 7722, which Section 27 (Repealing Clause) repeals, RA No. 7796 as referenced in Section 4 (Commission on Higher Education), and RA No. 9593 as referenced in Section 14 (Higher Education Development Fund). The review should first confirm the correct text of the bill with the House of Representatives before assessing its fiscal and organizational implications.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged to the current year's appropriations of CHED; no amount stated",
+    "section": "Section 25 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act",
+    "section": "Section 25 (Appropriations)"
+   },
+   {
+    "item": "Earmarked revenues",
+    "detail": "Higher Education Development Fund receives 40% of travel tax collections, 30% of Professional Registration Fee collections and 1% of PCSO lotto gross sales",
+    "section": "Section 14 (Higher Education Development Fund)"
+   },
+   {
+    "item": "GFI contributions",
+    "detail": "Government financing institutions may contribute 3% to 5% of their unimpaired surplus of the preceding year",
+    "section": "Section 14 (Higher Education Development Fund)"
+   },
+   {
+    "item": "Tax expenditure",
+    "detail": "Donations to the Fund are exempt from donor's tax and deductible for income tax purposes",
+    "section": "Section 14 (Higher Education Development Fund)"
+   },
+   {
+    "item": "Members",
+    "detail": "Chairperson with the rank of Department Secretary and four Commissioners with the rank of Undersecretary, all full-time",
+    "section": "Section 7 (Rank and Emoluments)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Secretariat headed by an Executive Director with two Deputy Executive Directors; staffing pattern and compensation scheme fixed by the Commission",
+    "section": "Section 10 (Secretariat and the Executive Director)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm with the House of Representatives the correct text of HB No. 11216: the long title refers to an Independent People's Commission on infrastructure anomalies, while the text is a higher education measure.",
+   "Section 1 (Short Title) cites the Act as being of 2025, although the bill was filed in 2026.",
+   "Section 10 (Secretariat and the Executive Director) designates an Executive Director IV yet grants the rank and emoluments of an Assistant Secretary, and contains the stray phrase \"an responsibilities,\".",
+   "Section 10 (Secretariat and the Executive Director) lets the Commission fix its own compensation scheme, which should be checked against the national compensation and position classification plan.",
+   "Section 5 (Composition of the Commission) mixes the overall composition and the qualifications in one numbered list, and Section 9 (Powers and Functions of the Commission) repeats \"the the\".",
+   "Confirm the status and text of SB No. 1215, whose title matches HB No. 11216."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed; the Senate bill bears the same long title as HB No. 11216, but the House text available concerns higher education.",
+   "section": "meta:SB-20-1215",
+   "quote": "AN ACT CREATING AN INDEPENDENT PEOPLE'S COMMISSION TO INVESTIGATE ANOMALIES IN ALL GOVERNMENT INFRASTRUCTURE PROJECTS",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 27 (Repealing Clause) repeals RA No. 7722, while Section 4 (Commission on Higher Education) and Section 14 (Higher Education Development Fund) continue the Commission and Fund created under it.",
+   "section": "HB-20-11216:s27",
+   "quote": "Republic Act No. 7722, otherwise known as the \"Higher Education Act of 1994,\" is hereby repealed.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 4 (Commission on Higher Education) delineates CHED coverage from TESDA authority over associate degree, diploma and non-degree programs under RA No. 7796.",
+   "section": "HB-20-11216:s4",
+   "quote": "TESDA shall maintain authority, oversight and jurisdiction pursuant to Republic Act No. 7796 and other applicable laws",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 14 (Higher Education Development Fund) continues the travel tax share earmarked for the Fund under Section 73 of RA No. 9593.",
+   "section": "HB-20-11216:s14",
+   "quote": "The equivalent of forty percent (40%) annual share on the total gross collections of the travel tax, pursuant to the provisions of Section 73 of Republic Act No. 9593",
+   "check": "verified"
+  },
+  {
+   "claim": "Judging by titles only, the commission proposed in the bill's title may overlap with the Independent Commission for Infrastructure; no section of the available bill text addresses it.",
+   "section": "law:EO-94-2025",
+   "quote": "CREATING THE INDEPENDENT COMMISSION FOR INFRASTRUCTURE",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-19T00:08:32+00:00"
+ }
+}
