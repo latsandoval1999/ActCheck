@@ -1,0 +1,271 @@
+{
+ "output": {
+  "target": "HB-20-11288",
+  "entity_proposed": "",
+  "proposal": "HB No. 11288 seeks to create additional divisions in the Court of Appeals, increasing them from seventeen (17) to twenty-six (26) and the number of Court of Appeals Justices from sixty-nine (69) to seventy-eight (78), and to set permanent stations for the divisions in the Cities of Manila, Cebu, Cagayan de Oro, Vigan and Davao, by amending Batas Pambansa Blg. 129 (Judiciary Reorganization Act of 1980), as amended.",
+  "alignment": "The measure does not create a new body but expands an existing court of the Judiciary; the Government Optimization Act (RA No. 12231), which covers the streamlining of the Executive branch, is therefore of limited direct application, and the review should instead assess the justification for nine (9) additional Justices and divisions (e.g., case load and regional distribution of cases), the consistency of the amended Sections 3, 4 and 10 of BP Blg. 129, and the personnel, facilities and operating requirements of the new divisions and stations. No matching FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified.",
+  "legislative_history": [
+   "HB No. 11288 was filed on September 14, 2026 by Representative Eric G. Yap; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "A bill with the same title, HB No. 1449, was filed earlier in the 20th Congress on July 7, 2025 and is pending in the Committee (title match only; text not reviewed).",
+   "Bills with matching titles were filed in the 19th Congress (HB Nos. 4033, 4302, 4702, 4959 and 5219, and SB No. 1186) and in the 18th Congress (HB Nos. 4323, 6819 and 7001, and SB No. 1253), all recorded as pending in the Committee (title match only; text not reviewed).",
+   "Narrower proposals on the Court of Appeals were also filed: HB No. 5868 (18th Congress) on two additional divisions in Davao City, and HB No. 7513 (19th Congress) on an additional division in the City of Baguio."
+  ],
+  "related": [
+   {
+    "id": "HB-20-1449",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-1449",
+    "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)"
+   },
+   {
+    "id": "HB-19-4033",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-4033",
+    "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)"
+   },
+   {
+    "id": "HB-19-4302",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-4302",
+    "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)"
+   },
+   {
+    "id": "HB-19-4702",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-4702",
+    "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS"
+   },
+   {
+    "id": "HB-19-4959",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-4959",
+    "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)"
+   },
+   {
+    "id": "HB-19-5219",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-5219",
+    "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)"
+   },
+   {
+    "id": "SB-19-1186",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed (Senate measure).",
+    "section": "meta:SB-19-1186",
+    "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)"
+   },
+   {
+    "id": "HB-18-4323",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-4323",
+    "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)"
+   },
+   {
+    "id": "HB-18-6819",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-6819",
+    "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)"
+   },
+   {
+    "id": "HB-18-7001",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-7001",
+    "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)"
+   },
+   {
+    "id": "SB-18-1253",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed (Senate measure).",
+    "section": "meta:SB-18-1253",
+    "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)"
+   },
+   {
+    "id": "HB-18-5868",
+    "relationship": "Alternative proposal",
+    "basis": "Its title proposes only two additional divisions in Davao City for the Eleventh and Twelfth Judicial Regions, which HB No. 11288 covers within a wider expansion.",
+    "section": "meta:HB-18-5868",
+    "quote": "AN ACT CREATING TWO (2) ADDITIONAL DIVISIONS OF THE COURT OF APPEALS IN DAVAO CITY WHICH WILL HANDLE CASES COMING FROM THE ELEVENTH AND TWELFTH JUDICIAL REGIONS"
+   },
+   {
+    "id": "HB-19-7513",
+    "relationship": "Alternative proposal",
+    "basis": "Its title proposes a single additional division stationed in the City of Baguio, a station not provided for in HB No. 11288.",
+    "section": "meta:HB-19-7513",
+    "quote": "AN ACT CREATING AN ADDITIONAL DIVISION IN THE COURT OF APPEALS TO BE STATIONED IN THE CITY OF BAGUIO"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "BP-129",
+    "label": "Amends or repeals",
+    "overlap": "Sections 1 to 3 of the bill amend Sections 3 (Organization), 4 (Exercise of Powers and Functions) and 10 (Place of Holding Sessions) of BP Blg. 129.",
+    "section": "HB-20-11288:s1",
+    "quote": "Section 3 of Batas Pambansa (BP) Blg. 129"
+   },
+   {
+    "law": "EO-33-1986",
+    "label": "Referenced in the bill",
+    "overlap": "Section 1 of the bill cites Executive Order No. 33, s. 1986 as an earlier amendment of Section 3 of BP Blg. 129.",
+    "section": "HB-20-11288:s1",
+    "quote": "as amended by Executive Order No. 33, s. 1986, is hereby further amended to read as follows"
+   },
+   {
+    "law": "RA-8246",
+    "label": "Overlapping functions",
+    "overlap": "Its title shows it last increased the Court of Appeals from fifty-one (51) to sixty-nine (69) Justices, the composition Sections 1 and 2 of the bill would further expand.",
+    "section": "law:RA-8246",
+    "quote": "INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM FIFTY-ONE (51) TO SIXTY-NINE (69)"
+   }
+  ],
+  "salient_features": "HB No. 11288 seeks to expand the Court of Appeals by creating additional divisions and increasing the number of its Justices from sixty-nine (69) to seventy-eight (78). Its salient features are as follows:\na. Section 1 (Amendment of Section 3 of BP Blg. 129) provides that the Court of Appeals shall consist of a Presiding Justice and seventy-seven (77) Associate Justices appointed by the President, with precedence based on the dates of appointment.\nb. Section 2 (Amendment of Section 4 of BP Blg. 129) provides that the Court shall exercise its powers through twenty-six (26) divisions of three (3) members each, up from seventeen (17), and may sit en banc for non-adjudicatory functions.\nc. Section 3 (Amendment of Section 10 of BP Blg. 129) provides permanent stations for the divisions: the first seventeen (17) in the City of Manila; the 18th to 20th in the City of Cebu; the 21st to 23rd in the City of Cagayan de Oro; the 24th in the City of Vigan; and the 25th and 26th in the City of Davao, each for cases from specified judicial regions, and allows the Supreme Court to authorize any division to hold sessions elsewhere when justified by public interest or case load.\nd. Section 4 (Referral of Pending Cases) provides that, upon effectivity, pending cases not yet submitted for resolution shall be referred to the proper division.\ne. Section 5 (Transfer of Assignment) provides that no member may be transferred to another station without written consent, except for temporary assignment, and that the Act shall not affect security of tenure or seniority.\nf. Section 6 (Funding) provides that the amounts needed shall be included in the General Appropriations Act of the year following enactment and thereafter.\ng. Sections 7 (Separability Clause), 8 (Repealing Clause) and 9 (Effectivity) provide the standard final clauses, with effectivity fifteen (15) days after publication in two (2) newspapers of general circulation.",
+  "related_measures_policy": "HB No. 11288 may be considered alongside HB No. 1449 of the 20th Congress, which bears the same title, and the identically titled measures of the 18th and 19th Congresses, as well as the narrower proposals for additional divisions in Davao City (HB No. 5868, 18th Congress) and in the City of Baguio (HB No. 7513, 19th Congress). It amends Sections 3, 4 and 10 of BP Blg. 129, as amended by Executive Order No. 33, s. 1986, and builds on the composition set by RA No. 8246. No matching FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified. The review should assess the case-load justification for the nine (9) additional Justices and divisions, the cost of the associated personnel, chambers and stations, and whether the Judiciary's existing appropriations can absorb the initial requirement before the General Appropriations Act provides for it under Section 6 (Funding).",
+  "fiscal_requirements": [
+   {
+    "item": "Positions",
+    "detail": "Nine (9) additional Justices (from 69 to 78; one Presiding Justice and 77 Associate Justices); salary grade and support staff not stated",
+    "section": "Section 1 (Amendment of Section 3 of BP Blg. 129)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Nine (9) additional divisions of three (3) members each (from 17 to 26)",
+    "section": "Section 2 (Amendment of Section 4 of BP Blg. 129)"
+   },
+   {
+    "item": "Facilities",
+    "detail": "Division stations in the Cities of Manila, Cebu, Cagayan de Oro, Vigan and Davao; costs not stated",
+    "section": "Section 3 (Amendment of Section 10 of BP Blg. 129)"
+   },
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary, no amount stated; to be included in the General Appropriations Act of the year following enactment",
+    "section": "Section 6 (Funding)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act thereafter",
+    "section": "Section 6 (Funding)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 1 shows the deleted figure as fifty, which does not match the existing sixty-nine (69) Justices stated in the title; confirm the intended amendatory text.",
+   "Confirm that seventy-seven (77) Associate Justices plus the Presiding Justice (78) matches the twenty-six (26) divisions of three (3) members in Section 2.",
+   "The text of Section 3 (Place of Holding Sessions) appears cut off at the end; obtain the complete provision.",
+   "Correct typographical errors (a stray numeral in Section 2 and the capitalization of 'aNY' in Section 3).",
+   "Confirm with the House the status of HB No. 1449, which bears the same title in the 20th Congress, and whether the two bills may be consolidated.",
+   "Confirm whether the cities named in Section 3 already host Court of Appeals stations, to establish the incremental facility cost."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-1449",
+   "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-4033",
+   "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-4302",
+   "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-4702",
+   "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-4959",
+   "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-5219",
+   "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed (Senate measure).",
+   "section": "meta:SB-19-1186",
+   "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-4323",
+   "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-6819",
+   "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-7001",
+   "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed (Senate measure).",
+   "section": "meta:SB-18-1253",
+   "quote": "AN ACT CREATING ADDITIONAL DIVISIONS IN THE COURT OF APPEALS, INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM SIXTY-NINE (69) TO SEVENTY-EIGHT (78)",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title proposes only two additional divisions in Davao City for the Eleventh and Twelfth Judicial Regions, which HB No. 11288 covers within a wider expansion.",
+   "section": "meta:HB-18-5868",
+   "quote": "AN ACT CREATING TWO (2) ADDITIONAL DIVISIONS OF THE COURT OF APPEALS IN DAVAO CITY WHICH WILL HANDLE CASES COMING FROM THE ELEVENTH AND TWELFTH JUDICIAL REGIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title proposes a single additional division stationed in the City of Baguio, a station not provided for in HB No. 11288.",
+   "section": "meta:HB-19-7513",
+   "quote": "AN ACT CREATING AN ADDITIONAL DIVISION IN THE COURT OF APPEALS TO BE STATIONED IN THE CITY OF BAGUIO",
+   "check": "verified"
+  },
+  {
+   "claim": "Sections 1 to 3 of the bill amend Sections 3 (Organization), 4 (Exercise of Powers and Functions) and 10 (Place of Holding Sessions) of BP Blg. 129.",
+   "section": "HB-20-11288:s1",
+   "quote": "Section 3 of Batas Pambansa (BP) Blg. 129",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 1 of the bill cites Executive Order No. 33, s. 1986 as an earlier amendment of Section 3 of BP Blg. 129.",
+   "section": "HB-20-11288:s1",
+   "quote": "as amended by Executive Order No. 33, s. 1986, is hereby further amended to read as follows",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title shows it last increased the Court of Appeals from fifty-one (51) to sixty-nine (69) Justices, the composition Sections 1 and 2 of the bill would further expand.",
+   "section": "law:RA-8246",
+   "quote": "INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES FROM FIFTY-ONE (51) TO SIXTY-NINE (69)",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-19T00:08:52+00:00"
+ }
+}
