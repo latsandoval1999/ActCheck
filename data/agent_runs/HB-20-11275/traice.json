@@ -1,0 +1,166 @@
+{
+ "output": {
+  "target": "HB-20-11275",
+  "entity_proposed": "National Coordinating Council for Education (NCCE)",
+  "proposal": "HB No. 11275 seeks to establish the National Coordinating Council for Education (NCCE) under the Office of the President as the primary inter-agency mechanism for directing, harmonizing and monitoring education and workforce development reforms across the Executive Branch, in order to integrate the programs and policies of the formal and non-formal educational systems.",
+  "alignment": "As a government organization measure, the review should examine how the NCCE's functions under Section 5 (Duties and Functions) relate to the existing mandates of DepEd, CHED and TESDA and to other existing coordinating bodies, whether a new council and an Undersecretary-level Secretariat under Section 8 (The Council Secretariat) are warranted, and how the measure relates to the streamlining of the Executive branch and the reduction of overlapping functions under the Government Optimization Act (RA No. 12231). The measure may be aligned with the Human capital development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on equitable access to quality education. No corresponding item in the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 11275 was filed in the 20th Congress on September 14, 2026 by Representative Eric G. Yap; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "HB No. 9573, filed in the same Congress, bears the same short title and near-identical provisions on composition and appropriations.",
+   "HB Nos. 11217, 10697 and 10761, also filed in the 20th Congress, propose a council of the same name under the Office of the President with a different composition and set of powers and functions.",
+   "Bills establishing a National Education Coordinating Council were filed in the 18th, 19th and 20th Congresses (e.g., HB No. 5347 in the 19th Congress and HB No. 2173 in the 20th Congress), and National Education Council bills were filed in both chambers (e.g., SB No. 2017 in the 19th Congress); only their titles were available, all shown as pending in committee."
+  ],
+  "related": [
+   {
+    "id": "HB-20-9573",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same chamber and Congress, same short title, and near-identical Composition and Appropriations provisions.",
+    "section": "HB-20-9573:s10",
+    "quote": "Thereafter, such amount as may be necessary to implement shall be included in the budget proposal of the Office of the President in the annual General Appropriations Act"
+   },
+   {
+    "id": "HB-20-11217",
+    "relationship": "Alternative proposal",
+    "basis": "Creates a council of the same name under the Office of the President but with a seven-member composition and different powers, including review of education budget proposals before submission to DBM.",
+    "section": "HB-20-11217:s5",
+    "quote": "(f) Review and endorse major education sector budget proposals prior to submission to DBM;"
+   },
+   {
+    "id": "HB-20-10697",
+    "relationship": "Alternative proposal",
+    "basis": "Same design as HB No. 11217, with a narrower composition and a mandate to converge with existing inter-agency mechanisms.",
+    "section": "HB-20-10697:s5",
+    "quote": "Ensure alignment and convergence with existing inter-agency mechanisms, including those established under Administrative Order No. 36, s. 2025"
+   },
+   {
+    "id": "HB-20-10761",
+    "relationship": "Alternative proposal",
+    "basis": "Creates a council of the same name with a different membership (including DMW) and funding that also draws on the existing Education and Workforce Development Group.",
+    "section": "HB-20-10761:s12",
+    "quote": "such other funds as may be legally available for the coordinating functions of the existing Education and Workforce Development Group"
+   },
+   {
+    "id": "HB-20-2173",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-2173",
+    "quote": "AN ACT ESTABLISHING THE NATIONAL EDUCATION COORDINATING COUNCIL, DEFINING ITS POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-5347",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-5347",
+    "quote": "AN ACT ESTABLISHING THE NATIONAL EDUCATION COORDINATING COUNCIL, DEFINING ITS POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "SB-19-2017",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-19-2017",
+    "quote": "NATIONAL EDUCATION COUNCIL ACT: AN ACT CREATING THE NATIONAL EDUCATION COUNCIL"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-7165",
+    "label": "Overlapping functions",
+    "overlap": "The Literacy Coordinating Council may overlap with the NCCE's coordination of formal and non-formal education under Section 2 (Declaration of Policy) and Section 5 (Duties and Functions); title only, text not reviewed.",
+    "section": "law:RA-7165",
+    "quote": "AN ACT CREATING THE LITERACY COORDINATING COUNCIL"
+   }
+  ],
+  "salient_features": "HB No. 11275 seeks to establish the National Coordinating Council for Education (NCCE) under the Office of the President. Its salient features are as follows:\na. Section 3 (National Coordinating Council for Education) provides that the Council is created under the Office of the President as the primary inter-agency mechanism for directing, harmonizing and monitoring education and workforce development reforms across the Executive Branch.\nb. Section 4 (Composition) provides that the President chairs the Council and may designate a Cabinet Secretary as Vice Chairperson, with the heads of DepEd, CHED, TESDA, DBM, DEPDev, DOST, DOLE, the National Commission for Culture and the Arts and the Philippine Sports Commission, and one representative each from the private sector, an association of private educational institutions and a recognized national student organization, as members.\nc. Section 5 (Duties and Functions) provides that the Council shall, among others, align the policies, plans and budgets of DepEd, CHED and TESDA, monitor priority reforms including the EDCOM II recommendations, formulate a multi-year National Education and Workforce Development Plan and a human resource plan for the education sector, mandate alignment with the Philippine Qualifications Framework and a Unified National Education Database, and strengthen labor market information.\nd. Section 6 (Meetings) provides for monthly regular meetings and a quorum of four members, provided the Chairperson or Vice Chairperson is present.\ne. Section 7 (Compensation) provides that members receive only the per diems and honoraria approved by the Council.\nf. Section 8 (The Council Secretariat) provides for a Secretariat serving as the Council's technical, analytical and program management arm, headed by an Executive Director with the rank of Undersecretary appointed by the President; no salary grade is stated.\ng. Section 9 (Appropriations) provides that initial funding is charged against the current appropriations of the Office of the President and thereafter included in the Office of the President's budget proposal in the annual General Appropriations Act.\nh. Section 10 (Annual Report) provides that the Council reports annually to the President and both Houses of Congress on the progress of the National Education and Workforce Development Plan.\ni. Section 11 (Implementing Rules and Regulations) provides that the Council shall convene within thirty days from effectivity to formulate the implementing rules.",
+  "related_measures_policy": "HB No. 11275 may be considered alongside HB No. 9573, which is substantially the same measure, and HB Nos. 11217, 10697 and 10761, which propose a council of the same name with a different composition, powers and funding arrangements, as well as earlier National Education Coordinating Council and National Education Council bills known only by title. The measure may be aligned with the Human capital development priority area of the FY 2027 Budget Priorities Framework. The review should assess whether the functions under Section 5 (Duties and Functions) duplicate the mandates of DepEd, CHED and TESDA and of existing coordinating bodies such as the Literacy Coordinating Council under RA No. 7165, whether the Undersecretary-level Secretariat under Section 8 (The Council Secretariat) requires new positions, and how the measure relates to the streamlining objectives of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary (no amount stated), charged against the current appropriations of the Office of the President",
+    "section": "Section 9 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the budget proposal of the Office of the President in the annual General Appropriations Act",
+    "section": "Section 9 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Executive Director with the rank of Undersecretary, appointed by the President; salary grade not stated",
+    "section": "Section 8 (The Council Secretariat)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Council Secretariat; staffing and organizational structure not specified",
+    "section": "Section 8 (The Council Secretariat)"
+   },
+   {
+    "item": "Members",
+    "detail": "Per diems and honoraria as approved by the Council; no amounts stated",
+    "section": "Section 7 (Compensation)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 4 (Composition) refers to the head of TESDA as Secretary, while related bills use Director General; confirm the correct title.",
+   "Confirm whether a quorum of four members under Section 6 (Meetings) is appropriate for a council of up to thirteen members.",
+   "Section 7 (Compensation) lets the Council approve its own members' per diems and honoraria; confirm consistency with existing compensation rules.",
+   "Section 8 (The Council Secretariat) does not state the Secretariat's staffing, organizational structure or salary grades.",
+   "Confirm with the House the status of HB No. 9573 and the related NCCE bills and any plan to consolidate them."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same chamber and Congress, same short title, and near-identical Composition and Appropriations provisions.",
+   "section": "HB-20-9573:s10",
+   "quote": "Thereafter, such amount as may be necessary to implement shall be included in the budget proposal of the Office of the President in the annual General Appropriations Act",
+   "check": "verified"
+  },
+  {
+   "claim": "Creates a council of the same name under the Office of the President but with a seven-member composition and different powers, including review of education budget proposals before submission to DBM.",
+   "section": "HB-20-11217:s5",
+   "quote": "(f) Review and endorse major education sector budget proposals prior to submission to DBM;",
+   "check": "verified"
+  },
+  {
+   "claim": "Same design as HB No. 11217, with a narrower composition and a mandate to converge with existing inter-agency mechanisms.",
+   "section": "HB-20-10697:s5",
+   "quote": "Ensure alignment and convergence with existing inter-agency mechanisms, including those established under Administrative Order No. 36, s. 2025",
+   "check": "verified"
+  },
+  {
+   "claim": "Creates a council of the same name with a different membership (including DMW) and funding that also draws on the existing Education and Workforce Development Group.",
+   "section": "HB-20-10761:s12",
+   "quote": "such other funds as may be legally available for the coordinating functions of the existing Education and Workforce Development Group",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-2173",
+   "quote": "AN ACT ESTABLISHING THE NATIONAL EDUCATION COORDINATING COUNCIL, DEFINING ITS POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-5347",
+   "quote": "AN ACT ESTABLISHING THE NATIONAL EDUCATION COORDINATING COUNCIL, DEFINING ITS POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-19-2017",
+   "quote": "NATIONAL EDUCATION COUNCIL ACT: AN ACT CREATING THE NATIONAL EDUCATION COUNCIL",
+   "check": "verified"
+  },
+  {
+   "claim": "The Literacy Coordinating Council may overlap with the NCCE's coordination of formal and non-formal education under Section 2 (Declaration of Policy) and Section 5 (Duties and Functions); title only, text not reviewed.",
+   "section": "law:RA-7165",
+   "quote": "AN ACT CREATING THE LITERACY COORDINATING COUNCIL",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-19T00:08:26+00:00"
+ }
+}
