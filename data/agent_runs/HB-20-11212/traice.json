@@ -1,0 +1,170 @@
+{
+ "output": {
+  "target": "HB-20-11212",
+  "entity_proposed": "Job Placement Offices (JPOs) in public senior high schools, SUCs and LUCs; National Industry-Academe Council (NIAC); Local Industry-Academe Councils (LIACs)",
+  "proposal": "HB No. 11212, the proposed School-to-Employment Program (STEP) Act, seeks to require all public senior high schools, SUCs and LUCs to establish Job Placement Offices, and to institutionalize a National Industry-Academe Council and Local Industry-Academe Councils, in order to address job-skills mismatch and promote decent employment. It also proposes a Philippine Labor Market Information System (PhilLMIS) housed within DOLE and a Philippine Skills Framework (PSF) maintained by TESDA.",
+  "alignment": "As a government organization and mandates measure, the review should examine how the proposed JPOs, NIAC, LIACs and PhilLMIS fit with existing bodies and arrangements, notably the operation of job placement offices in educational institutions under RA No. 10691 and the PQF National Coordinating Council referred to in Section 28 (Reinforcement and Promotion of the Philippine Qualifications Framework), and whether the new councils and systems duplicate existing functions, consistent with the streamlining objectives of the Government Optimization Act (RA No. 12231). The measure aligns with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on equitable access to quality education. No LEDAC Common Legislative Agenda item was identified for this measure.",
+  "legislative_history": [
+   "HB No. 11212 was filed on September 8, 2026 by Representative Antolin \"Lenlen\" A. Oreta III; it is pending at the filing stage, and later stages are not reflected in the source data.",
+   "HB No. 11025, filed in the 20th Congress, carries the same title and short title and near-identical provisions, with differences in section numbering and in the composition of the LIACs.",
+   "HB No. 2638 (filed July 30, 2025) and HB No. 4541 (filed September 11, 2025) of the 20th Congress carry the same title and are pending in the Committee; their texts were not reviewed.",
+   "SB No. 125 (School-to-Employment Program (STEP) Act), filed on July 3, 2025, is the apparent counterpart in the Senate and is pending in the Committee; its text was not reviewed.",
+   "No earlier-Congress version of the measure was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-11025",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "HB No. 11025 has the same title and short title and near-identical provisions on JPOs, the NIAC, the LIACs, PhilLMIS and appropriations.",
+    "section": "HB-20-11025:s3",
+    "quote": "All public senior high schools, state universities and colleges (SUCs), and local universities and colleges (LUCs) shall establish and maintain a Job Placement Office (JPO)"
+   },
+   {
+    "id": "HB-20-2638",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-2638",
+    "quote": "AN ACT ESTABLISHING JOB PLACEMENT OFFICES IN ALL PUBLIC SENIOR HIGH SCHOOLS, STATE UNIVERSITIES AND COLLEGES, AND LOCAL UNIVERSITIES AND COLLEGES"
+   },
+   {
+    "id": "HB-20-4541",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-4541",
+    "quote": "AN ACT ESTABLISHING JOB PLACEMENT OFFICES IN ALL PUBLIC SENIOR HIGH SCHOOLS, STATE UNIVERSITIES AND COLLEGES, AND LOCAL UNIVERSITIES AND COLLEGES"
+   },
+   {
+    "id": "SB-20-125",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed. The Senate bill carries the same short title and substantially the same long title.",
+    "section": "meta:SB-20-125",
+    "quote": "SCHOOL-TO-EMPLOYMENT PROGRAM (STEP) ACT"
+   },
+   {
+    "id": "HB-20-11384",
+    "relationship": "Alternative proposal",
+    "basis": "HB No. 11384 addresses job-skills mismatch through a single Tripartite Council with functions similar to the NIAC, without JPOs, local councils or a labor market information system.",
+    "section": "HB-20-11384:s2",
+    "quote": "There is hereby established a Tripartite Council, hereinafter referred to as the Council, that shall formulate policies and programs to address the job-skills mismatch in the country."
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-10691",
+    "label": "Overlapping functions",
+    "overlap": "RA No. 10691 already addresses the operation of job placement offices in educational institutions, which overlaps with Section 3 (Establishment of School-Based Job Placement Offices) and Section 5 (Core Functions of the Job Placement Office).",
+    "section": "law:RA-10691",
+    "quote": "THE OPERATION OF JOB PLACEMENT OFFICES IN EDUCATIONAL INSTITUTIONS (Els)"
+   },
+   {
+    "law": "RA-10173",
+    "label": "Referenced in the bill",
+    "overlap": "Section 27 (Data Privacy and Security) requires PhilLMIS data collection, processing and sharing to comply with the Data Privacy Act of 2012.",
+    "section": "HB-20-11212:s27",
+    "quote": "All data collection, processing, and sharing under PhilLMIS shall comply with the Data Privacy Act of 2012 (RA No. 10173)"
+   }
+  ],
+  "salient_features": "HB No. 11212 seeks to establish Job Placement Offices in all public senior high schools, SUCs and LUCs, institutionalize a National Industry-Academe Council and Local Industry-Academe Councils, and set up national labor market and skills frameworks to address job-skills mismatch. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the School-to-Employment Program (STEP) Act.\nb. Section 3 (Establishment of School-Based Job Placement Offices) provides that all public senior high schools, SUCs and LUCs shall establish and maintain a JPO offering employment facilitation, career guidance and industry linkage services to students and graduates.\nc. Section 4 (Composition) provides that each JPO shall have career services staff sized according to student population, programs offered and partnerships maintained; that schools with large enrollments or complex needs may set up a Job Placement and Career Services Unit, subject to available funding and DepEd and CHED guidelines; and that each region shall have a JPO Regional Coordinator designated by the DepEd Regional Offices. No salary grades are specified.\nd. Section 14 (Creation of the National Industry-Academe Council (NIAC)) provides that the NIAC is institutionalized as the national coordinating body for industry-academe linkage, education-employment alignment and workforce development.\ne. Section 15 (Composition of the NIAC) provides that the NIAC shall comprise government representatives at Commissioner, Deputy Director-General or Undersecretary level from CHED, TESDA, DepEd, DOLE, DOST, DTI, CSC and PRC, together with presidents of academe federations and accreditation bodies and of business and industry federations.\nf. Section 16 (Powers and Functions of the NIAC) provides that the NIAC shall monitor labor market trends and jobs-skills mismatch, formulate national policies, review curricula and standards, benchmark competencies, maintain an inventory of job specifications, recommend policy measures and hold quarterly meetings.\ng. Section 17 (Establishment of Local Industry-Academe Councils (LIACs)) provides that a LIAC shall be established in every province and highly urbanized city as the local counterpart of the NIAC.\nh. Section 18 (Composition of the LIACs) provides that each LIAC shall comprise local government, academe, industry, and labor and civil society representatives, chaired by the DepEd Schools Division Superintendent, with the DepEd Schools Division providing secretariat support.\ni. Section 19 (Powers and Functions of the LIACs) provides that the LIACs shall localize NIAC policies, monitor local labor markets, align curricula, facilitate partnerships, guide institutional JPOs and report regularly to the NIAC.\nj. Section 21 (Establishment of the Philippine Labor Market Information System (PhilLMIS)) provides for an integrated labor market information system housed within DOLE in coordination with PSA, DepEd, CHED, TESDA, DTI and other agencies.\nk. Section 27 (Data Privacy and Security) provides that PhilLMIS data handling shall comply with the Data Privacy Act of 2012 and other applicable laws.\nl. Section 28 (Reinforcement and Promotion of the Philippine Qualifications Framework) provides that the PQF is reinforced as the national qualifications system, that institutions shall align programs with PQF levels, that the PQF National Coordinating Council shall be strengthened with enhanced mandates and resources, and that recognition of prior learning shall be standardized.\nm. Section 29 (Establishment and Institutionalization of the Philippine Skills Framework (PSF)) provides that a PSF shall be developed, maintained and updated by TESDA with other agencies and industry, to guide curriculum development, assessment and certification, career guidance, job matching, talent development and international benchmarking.\nn. Section 34 (Appropriations) provides that the amount necessary for implementation shall be included in the annual General Appropriations Act, and that agencies and institutions may mobilize public-private partnerships and donor support for JPO, NIAC and LIAC functions.",
+  "related_measures_policy": "HB No. 11212 may be considered alongside HB No. 11025, which contains near-identical provisions, HB No. 2638 and HB No. 4541, which carry the same title, and SB No. 125, the apparent Senate counterpart; HB No. 11384 offers an alternative design through a single Tripartite Council. The measure aligns with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework. The review should assess the overlap of Section 3 (Establishment of School-Based Job Placement Offices) and Section 5 (Core Functions of the Job Placement Office) with the existing job placement office arrangements under RA No. 10691; whether the NIAC under Section 14 (Creation of the National Industry-Academe Council (NIAC)) and the PSF under Section 29 (Establishment and Institutionalization of the Philippine Skills Framework (PSF)) duplicate the PQF National Coordinating Council and related frameworks referenced in Section 28 (Reinforcement and Promotion of the Philippine Qualifications Framework); and the cost of staffing JPOs in all public senior high schools, SUCs and LUCs and of operating LIACs in every province and highly urbanized city, in light of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "No amount stated; the amount necessary shall be included in the annual General Appropriations Act",
+    "section": "Section 34 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Annual General Appropriations Act; agencies may also mobilize public-private partnerships and donor support",
+    "section": "Section 34 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Career services staff for each JPO in all public senior high schools, SUCs and LUCs; no salary grades specified",
+    "section": "Section 4 (Composition)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Optional Job Placement and Career Services Units, subject to available funding; JPO Regional Coordinator designated per region",
+    "section": "Section 4 (Composition)"
+   },
+   {
+    "item": "Members",
+    "detail": "NIAC composed of government, academe and industry representatives; quarterly meetings",
+    "section": "Section 15 (Composition of the NIAC)"
+   },
+   {
+    "item": "Support body",
+    "detail": "LIAC in every province and highly urbanized city, with DepEd Schools Division secretariat support",
+    "section": "Section 18 (Composition of the LIACs)"
+   },
+   {
+    "item": "Support body",
+    "detail": "PhilLMIS housed within DOLE",
+    "section": "Section 21 (Establishment of the Philippine Labor Market Information System (PhilLMIS))"
+   },
+   {
+    "item": "Support body",
+    "detail": "Enhanced mandates and resources for the PQF National Coordinating Council",
+    "section": "Section 28 (Reinforcement and Promotion of the Philippine Qualifications Framework)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm whether the NIAC already exists, since Section 14 (Creation of the National Industry-Academe Council (NIAC)) states that it is institutionalized rather than created.",
+   "Confirm whether HB No. 11212 is a refiling of HB No. 11025 and note the differences, including the LIAC composition in Section 18 (Composition of the LIACs) and the section numbering.",
+   "Verify the texts of HB No. 2638, HB No. 4541 and SB No. 125 against HB No. 11212 and confirm their status with the House and Senate.",
+   "Verify the complete text of Section 15 (Composition of the NIAC) and Section 18 (Composition of the LIACs), including the list of industry federations and the secretariat provision.",
+   "Check that Section 4 (Composition) assigns JPO Regional Coordinators to DepEd Regional Offices only, although JPOs also cover SUCs and LUCs under CHED.",
+   "Assess the relationship of the proposed JPOs with job placement offices in educational institutions under RA No. 10691."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "HB No. 11025 has the same title and short title and near-identical provisions on JPOs, the NIAC, the LIACs, PhilLMIS and appropriations.",
+   "section": "HB-20-11025:s3",
+   "quote": "All public senior high schools, state universities and colleges (SUCs), and local universities and colleges (LUCs) shall establish and maintain a Job Placement Office (JPO)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-2638",
+   "quote": "AN ACT ESTABLISHING JOB PLACEMENT OFFICES IN ALL PUBLIC SENIOR HIGH SCHOOLS, STATE UNIVERSITIES AND COLLEGES, AND LOCAL UNIVERSITIES AND COLLEGES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-4541",
+   "quote": "AN ACT ESTABLISHING JOB PLACEMENT OFFICES IN ALL PUBLIC SENIOR HIGH SCHOOLS, STATE UNIVERSITIES AND COLLEGES, AND LOCAL UNIVERSITIES AND COLLEGES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The Senate bill carries the same short title and substantially the same long title.",
+   "section": "meta:SB-20-125",
+   "quote": "SCHOOL-TO-EMPLOYMENT PROGRAM (STEP) ACT",
+   "check": "verified"
+  },
+  {
+   "claim": "HB No. 11384 addresses job-skills mismatch through a single Tripartite Council with functions similar to the NIAC, without JPOs, local councils or a labor market information system.",
+   "section": "HB-20-11384:s2",
+   "quote": "There is hereby established a Tripartite Council, hereinafter referred to as the Council, that shall formulate policies and programs to address the job-skills mismatch in the country.",
+   "check": "verified"
+  },
+  {
+   "claim": "RA No. 10691 already addresses the operation of job placement offices in educational institutions, which overlaps with Section 3 (Establishment of School-Based Job Placement Offices) and Section 5 (Core Functions of the Job Placement Office).",
+   "section": "law:RA-10691",
+   "quote": "THE OPERATION OF JOB PLACEMENT OFFICES IN EDUCATIONAL INSTITUTIONS (Els)",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 27 (Data Privacy and Security) requires PhilLMIS data collection, processing and sharing to comply with the Data Privacy Act of 2012.",
+   "section": "HB-20-11212:s27",
+   "quote": "All data collection, processing, and sharing under PhilLMIS shall comply with the Data Privacy Act of 2012 (RA No. 10173)",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-19T00:08:33+00:00"
+ }
+}
