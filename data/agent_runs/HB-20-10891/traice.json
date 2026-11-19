@@ -1,0 +1,76 @@
+{
+ "output": {
+  "target": "HB-20-10891",
+  "entity_proposed": "Professional Regulation Commission (PRC) Offsite Service Center in the Municipality of Guiguinto, Province of Bulacan",
+  "proposal": "HB No. 10891 seeks to establish a Professional Regulation Commission (PRC) Offsite Service Center in the Municipality of Guiguinto, Province of Bulacan, under the supervision of the PRC, to deliver frontline and regulatory services such as licensure examination applications, initial registration, and issuance and renewal of professional identification cards closer to clients in the area.",
+  "alignment": "As a government organization measure, the review should examine whether the proposed service center is necessary as a separate statutory office or whether the same services may be delivered through the PRC's existing regional and service center network under its current mandate, and how the measure relates to the government's intent to streamline agencies and avoid overlapping offices under the Government Optimization Act (RA No. 12231). The review should also consider that similar measures establishing PRC service centers in other localities are pending, which may have cumulative fiscal implications for the PRC budget. No direct match with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 10891 was filed on August 24, 2026 by Representative Agatha \"Agay\" Cruz in the 20th Congress; its status is filed (pending), and later stages are not reflected in the available records.",
+   "No earlier version of the measure for the Municipality of Guiguinto was identified in the 18th or 19th Congress, and no counterpart Senate bill, substitute bill or committee report was identified.",
+   "Similar measures establishing PRC service centers in other localities have been filed, including HB No. 9648 (Municipality of Irosin, Province of Sorsogon) in the 20th Congress."
+  ],
+  "related": [
+   {
+    "id": "HB-20-9648",
+    "relationship": "Alternative proposal",
+    "basis": "HB No. 9648 likewise proposes a PRC service center under PRC supervision, but for the Municipality of Irosin, Province of Sorsogon, rather than Guiguinto.",
+    "section": "HB-20-9648:s1",
+    "quote": "There shall be established a Professional Regulation Commission (PRC) Service Center in the Municipality of Irosin, in the Province of Sorsogon, which shall be under the supervision of the PRC."
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-8981",
+    "label": "Overlapping functions",
+    "overlap": "RA No. 8981 governs the PRC, whose licensure, registration and identification card services Section 2 of the bill would deliver through the proposed service center.",
+    "section": "law:RA-8981",
+    "quote": "AN ACT MODERNIZING THE PROFESSIONAL REGULATION COMMISSION"
+   }
+  ],
+  "salient_features": "HB No. 10891 seeks to establish a PRC Offsite Service Center in the Municipality of Guiguinto, Province of Bulacan. Its salient features are as follows:\na. Section 1 provides that a PRC Offsite Service Center shall be established in the Municipality of Guiguinto, Province of Bulacan, under the supervision of the PRC.\nb. Section 2 provides that the service center shall deliver frontline and regulatory services as authorized by the PRC, including licensure examination applications, initial registration, issuance and renewal of professional identification cards, and certification and authentication of documents; that the PRC shall determine its staffing, equipment, facilities and operating schedule; and that the PRC may enter into agreements with the Provincial Government of Bulacan, the Municipal Government of Guiguinto, other local government units, national government agencies, state universities and colleges, and other public or private entities for premises or other support.\nc. Section 3 provides that the PRC shall issue the implementing rules and regulations within sixty (60) days from the effectivity of the Act.\nd. Section 4 provides that the amount necessary for implementation shall be included in the annual General Appropriations Act.\ne. Section 5 provides for the repeal or amendment of inconsistent laws, issuances and regulations.\nf. Section 6 provides that the Act shall take effect fifteen (15) days after publication in the Official Gazette or a newspaper of general circulation.",
+  "related_measures_policy": "HB No. 10891 may be considered alongside HB No. 9648, which proposes a PRC service center in the Municipality of Irosin, Province of Sorsogon, and other measures seeking PRC service centers in specific localities. The measure does not fall under a specific FY 2027 Budget Priorities Framework priority area or the LEDAC Common Legislative Agenda. The review should assess whether a statutory mandate is needed for a service center that the PRC may already establish administratively under RA No. 8981, the expected staffing and operating costs given that Section 2 leaves staffing and facilities to PRC determination, the availability of local government or other partner support for premises, and consistency with the streamlining objectives of RA No. 12231.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial and continuing funding",
+    "detail": "Amount necessary for implementation to be included in the annual General Appropriations Act; no amount specified.",
+    "section": "Section 4 (Appropriations)"
+   },
+   {
+    "item": "Positions and operating requirements",
+    "detail": "Staffing, equipment, facilities and operating schedule to be determined by the PRC; no positions or salary grades specified.",
+    "section": "Section 2 (Services and Operations)"
+   },
+   {
+    "item": "Premises and support",
+    "detail": "PRC may enter into agreements with LGUs, national government agencies, SUCs and other entities for premises or other support, which may offset costs.",
+    "section": "Section 2 (Services and Operations)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm with the PRC whether an existing regional office or service center already serves the Guiguinto and Bulacan area.",
+   "Note the inconsistent naming of the body: Section 1 refers to an Offsite Service Center while Sections 2 and 3 refer to the PRC Service Center.",
+   "Verify the bill text, as the available copy contains stray line numbers and page headers within the provisions.",
+   "Confirm the current status of the bill and of similar PRC service center bills with the House of Representatives."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "HB No. 9648 likewise proposes a PRC service center under PRC supervision, but for the Municipality of Irosin, Province of Sorsogon, rather than Guiguinto.",
+   "section": "HB-20-9648:s1",
+   "quote": "There shall be established a Professional Regulation Commission (PRC) Service Center in the Municipality of Irosin, in the Province of Sorsogon, which shall be under the supervision of the PRC.",
+   "check": "verified"
+  },
+  {
+   "claim": "RA No. 8981 governs the PRC, whose licensure, registration and identification card services Section 2 of the bill would deliver through the proposed service center.",
+   "section": "law:RA-8981",
+   "quote": "AN ACT MODERNIZING THE PROFESSIONAL REGULATION COMMISSION",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-19T10:03:44+00:00"
+ }
+}
