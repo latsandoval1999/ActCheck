@@ -1,0 +1,109 @@
+{
+ "output": {
+  "target": "HB-20-11181",
+  "entity_proposed": "",
+  "proposal": "HB No. 11181 seeks to strengthen the internationalization capacity of Philippine higher education institutions by requiring CHED to adopt a National Internationalization Framework for Higher Education, creating an Internationalization Support Fund within the Higher Education Fund, and providing for inter-agency coordination on education export. It does not create a new agency; it designates the CHED International Affairs Service as the lead office.",
+  "alignment": "Under Government Organization and Mandates, the review should examine whether designating the CHED International Affairs Service as the primary office for internationalization and education export (Section 8 (Strengthening the CHED International Affairs Service)) fits within CHED's existing mandate and structure, and whether the coordination roles assigned to DTI and DFA under Section 12 (Inter-Agency Coordination on Education Export) duplicate existing functions, consistent with the intent to reduce overlapping functions under the Government Optimization Act (RA No. 12231). Although the title refers to \"establishing a Higher Education\", the bill text creates no new body. The measure aligns with Human Capital Development in the FY 2027 Budget Priorities Framework, particularly its focus on equitable access to quality education. No LEDAC Common Legislative Agenda item was identified for this measure.",
+  "legislative_history": [
+   "HB No. 11181 was filed on September 7, 2026 by Representative Antolin \"Lenlen\" A. Oreta III; its status is filed, with later stages not reflected in the source data.",
+   "HB No. 9848, filed in the same Congress, carries a closely similar title and a near-identical Section 14 (Appropriations); the full extent of the similarity should be confirmed.",
+   "No earlier-Congress version or Senate counterpart was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-9848",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "HB No. 9848 in the same chamber and Congress has a closely similar title and its Section 14 (Appropriations) is near-identical to Section 15 (Appropriations) of this bill.",
+    "section": "HB-20-9848:s14",
+    "quote": "shall be sourced from the Higher Education Fund (HEF) and included in the annual General Appropriations Act"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-7722",
+    "label": "Referenced in the bill",
+    "overlap": "Section 9 (Internationalization Support Fund) earmarks at least ten percent of the Higher Education Fund established under RA No. 7722 for the new Fund.",
+    "section": "HB-20-11181:s9",
+    "quote": "Higher Education Fund established under Republic Act No. 7722, otherwise known as the Higher Education Act of 1994"
+   },
+   {
+    "law": "RA-10931",
+    "label": "Referenced in the bill",
+    "overlap": "Section 14 (Sunset Review and Impact Assessment) requires the sunset review to assess consistency with the objectives and safeguards of RA No. 10931.",
+    "section": "HB-20-11181:s14",
+    "quote": "Republic Act No. 10931, otherwise known as the Universal Access to Quality Tertiary Education Act"
+   },
+   {
+    "law": "RA-11448",
+    "label": "Referenced in the bill",
+    "overlap": "RA No. 11448 governs transnational higher education, which overlaps with the standards for transnational programs in Section 7 (Quality Assurance and Local Professional Protection) and Section 10 (Use of the Fund).",
+    "section": "law:RA-11448",
+    "quote": "Establishment and Administration of Transnational Higher Education"
+   }
+  ],
+  "salient_features": "HB No. 11181, to be known as the \"Philippine Higher Education Internationalization Act\", seeks to institutionalize the internationalization of Philippine higher education under CHED and to create a dedicated fund for it. Its salient features are as follows:\na. Section 4 (National Internationalization Framework for Higher Education) provides that CHED shall establish and maintain a national framework to guide internationalization and education export, including strategic objectives, priority markets and fields, and performance indicators.\nb. Section 5 (Internationalization at Home) provides that CHED shall promote domestic international learning, including curriculum internationalization, a Collaborative Online International Learning system, and joint or dual degree programs offered within the country.\nc. Section 6 (Institutional Internationalization Plans) provides that each HEI shall adopt an Institutional Internationalization Plan, with CHED issuing minimum standards and giving technical assistance, particularly to SUCs and LUCs.\nd. Section 7 (Quality Assurance and Local Professional Protection) provides that CHED shall include internationalization in quality assurance and prescribe standards for joint, dual and transnational programs, in coordination with the PRC.\ne. Section 8 (Strengthening the CHED International Affairs Service) provides that the CHED International Affairs Service is designated as the primary office for internationalization and education export, without prejudice to the authority of the Commission en banc.\nf. Section 9 (Internationalization Support Fund) provides for a Fund forming part of the Higher Education Fund, administered by CHED and sourced from at least ten percent of the Higher Education Fund, earmarked and automatically allocated.\ng. Section 10 (Use of the Fund) provides that the Fund shall finance grants-in-aid, institutional support, technical assistance and capacity-building, including academic mobility, joint degree programs and research collaboration.\nh. Section 11 (Fund Allocation Framework) provides that CHED shall adopt and publicly disclose a prioritization and scoring framework for Fund allocation, with priority for emerging or resource-constrained institutions.\ni. Section 12 (Inter-Agency Coordination on Education Export) provides that CHED shall coordinate with DTI and DFA on policy alignment, export promotion, diplomatic engagement and academic mobility.\nj. Section 13 (Monitoring, Evaluation, and Annual Reporting) provides that CHED shall set up a monitoring and evaluation framework and submit an annual report to Congress and the President within sixty days after each calendar year.\nk. Section 14 (Sunset Review and Impact Assessment) provides that CHED shall conduct a sunset review and impact assessment five years after the Act takes effect and report its findings to Congress.\nl. Section 15 (Appropriations) provides that initial implementation shall be charged to CHED's current appropriations, and continued implementation, including the Fund, shall be sourced from the Higher Education Fund and included in the annual General Appropriations Act.\nm. Section 16 (Implementing Rules and Regulations) provides that CHED shall issue the implementing rules within ninety days from effectivity, in consultation with stakeholders.",
+  "related_measures_policy": "HB No. 11181 may be considered alongside HB No. 9848, a closely similar measure in the same Congress, and in relation to RA No. 7722, whose Higher Education Fund would be partly earmarked under Section 9 (Internationalization Support Fund), RA No. 11448 on transnational higher education, and RA No. 10931, referenced in Section 14 (Sunset Review and Impact Assessment). The measure aligns with the Human Capital Development priority of the FY 2027 Budget Priorities Framework. The review should assess the fiscal implications of earmarking and automatically allocating at least ten percent of the Higher Education Fund, the effect on other programs funded from it, whether the functions assigned to the CHED International Affairs Service require additional positions, and whether the DTI and DFA roles under Section 12 (Inter-Agency Coordination on Education Export) duplicate existing mandates.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged against CHED's current appropriations; no amount stated",
+    "section": "Section 15 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Sourced from the Higher Education Fund and included in the annual General Appropriations Act",
+    "section": "Section 15 (Appropriations)"
+   },
+   {
+    "item": "Earmarked fund",
+    "detail": "Internationalization Support Fund sourced from at least ten percent (10%) of the Higher Education Fund, earmarked and automatically allocated; no peso amount stated",
+    "section": "Section 9 (Internationalization Support Fund)"
+   },
+   {
+    "item": "Support body",
+    "detail": "CHED International Affairs Service designated as primary office; no new positions or salary grades stated",
+    "section": "Section 8 (Strengthening the CHED International Affairs Service)"
+   }
+  ],
+  "reviewer_checks": [
+   "The title refers to \"establishing a Higher Education\", but the text creates no new body; confirm the intended title wording.",
+   "Section 16 (Implementing Rules and Regulations) appears twice verbatim in the text; confirm and correct.",
+   "Typographical errors appear in Section 7 (Quality Assurance and Local Professional Protection), such as \"transnationalarrang\" and a stray \"I and\", and in Section 11 (Fund Allocation Framework) (\"froM\").",
+   "Confirm whether the automatic allocation of at least ten percent of the Higher Education Fund under Section 9 is consistent with Section 15 (Appropriations), which subjects continuing funding to the annual General Appropriations Act.",
+   "Confirm the status of HB No. 9848 and the extent to which its text matches this bill.",
+   "Confirm where RA No. 11448 is cited in the bill and whether the transnational program standards in Section 7 duplicate those under that law."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "HB No. 9848 in the same chamber and Congress has a closely similar title and its Section 14 (Appropriations) is near-identical to Section 15 (Appropriations) of this bill.",
+   "section": "HB-20-9848:s14",
+   "quote": "shall be sourced from the Higher Education Fund (HEF) and included in the annual General Appropriations Act",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Internationalization Support Fund) earmarks at least ten percent of the Higher Education Fund established under RA No. 7722 for the new Fund.",
+   "section": "HB-20-11181:s9",
+   "quote": "Higher Education Fund established under Republic Act No. 7722, otherwise known as the Higher Education Act of 1994",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 14 (Sunset Review and Impact Assessment) requires the sunset review to assess consistency with the objectives and safeguards of RA No. 10931.",
+   "section": "HB-20-11181:s14",
+   "quote": "Republic Act No. 10931, otherwise known as the Universal Access to Quality Tertiary Education Act",
+   "check": "verified"
+  },
+  {
+   "claim": "RA No. 11448 governs transnational higher education, which overlaps with the standards for transnational programs in Section 7 (Quality Assurance and Local Professional Protection) and Section 10 (Use of the Fund).",
+   "section": "law:RA-11448",
+   "quote": "Establishment and Administration of Transnational Higher Education",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-19T04:05:31+00:00"
+ }
+}
