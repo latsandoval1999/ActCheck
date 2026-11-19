@@ -1,0 +1,60 @@
+{
+ "output": {
+  "target": "HB-20-10955",
+  "entity_proposed": "MARISARO Growth Area Development Authority (the Authority)",
+  "proposal": "HB No. 10955 seeks to establish the Marikina-San Mateo-Rodriguez (MARISARO) Growth Area covering the City of Marikina and the Municipalities of San Mateo and Rodriguez, Rizal, and to create the MARISARO Growth Area Development Authority, attached to the Department of Economy, Planning and Development (DEPDev), to plan and coordinate the area's development and administer incentives for enterprises in priority sectors. It aims to promote balanced, sustainable and inclusive regional development through inter-local government coordination, ecotourism, green industry, resilient infrastructure and watershed protection.",
+  "alignment": "As a measure on government organization and mandates, the review should examine whether the functions of the proposed Authority under Section 5 (Powers and Functions of the Authority), particularly master planning, infrastructure coordination, environmental protection and incentive administration, overlap with those of DEPDev, the Department of Environment and Natural Resources (DENR), the constituent local government units and existing investment promotion and incentive-granting bodies, and whether creating a new body corporate is consistent with the government's intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess the revenue implications of the national tax incentives under Section 9 (Applicable Incentives). No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified for this measure.",
+  "legislative_history": [
+   "HB No. 10955 was filed in the 20th Congress on August 25, 2026 by Representative Marcelino ‘Marcy’ R. Teodoro.",
+   "Its current status is filed (pending); later stages are not reflected in the available records.",
+   "No earlier version, counterpart measure in the Senate, substitute bill or committee report was identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 10955 seeks to establish the MARISARO Growth Area and create the MARISARO Growth Area Development Authority to steer its development. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the MARISARO Growth Area Act.\nb. Section 2 (Declaration of Policy) declares the State policy of balanced, sustainable and inclusive regional development through inter-local coordination, ecotourism, green industry, resilient infrastructure, watershed protection and targeted incentives.\nc. Section 3 (Coverage of the Growth Area) provides that the Growth Area covers the entire territories of the City of Marikina and the Municipalities of San Mateo and Rodriguez, Province of Rizal.\nd. Section 4 (Creation of the MARISARO Growth Area Development Authority) provides for the creation of the Authority as a body corporate attached to DEPDev for policy coordination.\ne. Section 5 (Powers and Functions of the Authority) provides that the Authority shall formulate and implement an integrated master development plan, develop ecotourism and eco-industrial zones, coordinate inter-jurisdictional infrastructure, enforce environmental guidelines for the Upper Marikina River Basin in coordination with DENR, and evaluate applications for local and national incentives.\nf. Section 6 (Board of Directors) provides that corporate powers shall be vested in a Board chaired by the DEPDev Secretary, with the three local chief executives, the Rizal Governor, the DENR Secretary and two private sector or civil society representatives appointed by the President as members.\ng. Section 7 (Executive Director) provides that the Authority shall be headed by an Executive Director with the rank of Assistant Secretary, appointed by the President upon the Board's recommendation; no salary grade is stated.\nh. Section 8 (Priority Sectors for Growth Area Incentives) provides that registered enterprises in ecotourism and heritage, green and eco-industrial enterprises, sustainable infrastructure and utilities, and watershed and environmental services may qualify for incentives.\ni. Section 9 (Applicable Incentives) provides that registered enterprises meeting Strategic Investment Priority Plan criteria under Title XIII of the National Internal Revenue Code may apply for national tax incentives, and that the constituent LGUs, subject to Sanggunian approval, may grant local business tax and real property tax relief, with an added rebate on local permit fees for green infrastructure.\nj. Section 10 (Inter-LGU Cooperation and Local Autonomy) provides that LGU autonomy is preserved and that the Authority shall consult the Sanggunians to align local land use plans and incentive codes with the master plan.\nk. Section 11 (Appropriations) provides that initial funding shall be charged against the current year's unallocated funds of the National Government and, thereafter, included in the annual General Appropriations Act.\nl. Section 12 (Implementing Rules and Regulations (IRR)) provides that DEPDev, in consultation with DOF, DTI, DENR, DOT and the constituent LGUs, shall issue the IRR within ninety days from effectivity.",
+  "related_measures_policy": "No related bill in the current or past Congresses was identified for consideration alongside HB No. 10955, and the existing laws found relate to the covered municipalities only by title and not by content. The measure is not linked to a FY 2027 Budget Priorities Framework priority area or the LEDAC Common Legislative Agenda. The review should assess whether a new body corporate is warranted under the streamlining policy of the Government Optimization Act (RA No. 12231), how Section 5 (Powers and Functions of the Authority) relates to the existing mandates of DEPDev, DENR and the constituent LGUs, and how the national tax incentives in Section 9 (Applicable Incentives), which rely on Title XIII of the National Internal Revenue Code, would interact with the existing investment incentive framework and its fiscal cost.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for initial implementation, charged against the current year's unallocated funds of the National Government; no amount stated",
+    "section": "Section 11 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary, to be included in the annual General Appropriations Act",
+    "section": "Section 11 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Executive Director with the rank of Assistant Secretary; salary grade not stated",
+    "section": "Section 7 (Executive Director)"
+   },
+   {
+    "item": "Members",
+    "detail": "Board of Directors of eight members (six ex officio, two private sector or civil society representatives); compensation or per diem not stated",
+    "section": "Section 6 (Board of Directors)"
+   },
+   {
+    "item": "Tax expenditure",
+    "detail": "Income tax holidays, enhanced deductions or special corporate income tax rates, duty exemptions and VAT zero-rating for qualified registered enterprises; revenue impact not estimated",
+    "section": "Section 9 (Applicable Incentives)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 9 (Applicable Incentives) appears to end mid-sentence in the green infrastructure incentive; confirm the complete text with the House.",
+   "Section 3 (Coverage of the Growth Area) contains a stray numeral in the description of the covered territories, likely a page number; verify against the official copy.",
+   "The bill does not provide for the Authority's organizational structure, staffing complement, or the salary grade of the Executive Director; confirm the intended personnel requirements.",
+   "Confirm whether the Board members are entitled to honoraria or per diem, as Section 6 (Board of Directors) is silent.",
+   "Verify whether the Authority would duplicate the incentive-granting functions of existing investment promotion agencies, and whether the referenced incentives under Title XIII of the National Internal Revenue Code require registration with another body.",
+   "Confirm why DEPDev, rather than the Authority or its Board, is tasked to issue the IRR under Section 12 (Implementing Rules and Regulations (IRR)).",
+   "Confirm the bill's current status with the House of Representatives."
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-19T10:03:44+00:00"
+ }
+}
