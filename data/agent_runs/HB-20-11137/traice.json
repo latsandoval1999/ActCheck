@@ -1,0 +1,131 @@
+{
+ "output": {
+  "target": "HB-20-11137",
+  "entity_proposed": "National Artificial Intelligence Regulatory Authority (NAIRA); National AI Multi-Stakeholder Advisory Council",
+  "proposal": "HB No. 11137 seeks to establish a national, risk-based regulatory framework for the development, deployment, and use of artificial intelligence (AI) systems, creating for the purpose the National Artificial Intelligence Regulatory Authority (NAIRA), attached to the DICT, and the National AI Multi-Stakeholder Advisory Council. It aims to protect rights affected by AI, classify and oversee AI systems by level of risk, and penalize violations.",
+  "alignment": "As a government organization measure, the review should examine how NAIRA's regulatory, quasi-judicial, and administrative functions under Section 6 (Creation of the National Artificial Intelligence Regulatory Authority) and Section 7 (Powers and Functions) fit with those of the DICT and the sectoral regulators it is required to coordinate with, notably the National Privacy Commission, which retains jurisdiction under Section 22 (Alignment with the Data Privacy Act of 2012), and whether the creation of a new attached authority and a separate advisory council is consistent with the streamlining of the Executive branch and the reduction of overlapping functions under the Government Optimization Act (RA No. 12231). No matching priority area in the FY 2027 Budget Priorities Framework and no corresponding measure in the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 11137 was filed on September 7, 2026 by Representative Alexander T. Pimentel in the 20th Congress; its status is filed, with later stages not yet recorded.",
+   "No earlier version from a past Congress, substitute bill or committee report was identified.",
+   "Other 20th Congress House bills propose national AI regulatory frameworks, including HB No. 9304, HB No. 1196 and HB No. 57; no Senate counterpart was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-9304",
+    "relationship": "Alternative proposal",
+    "basis": "HB No. 9304 also sets a risk-based AI regulatory framework with a near-identical advisory panel, but vests regulation in a bureau under DICT supervision and control rather than an attached authority.",
+    "section": "HB-20-9304:s6",
+    "quote": "There is hereby created a Bureau of Artificial Intelligence Systems (BAIS) under the Department of Information and Communications Technology (DICT)."
+   },
+   {
+    "id": "HB-20-1196",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-1196",
+    "quote": "CREATING THE ARTIFICIAL INTELLIGENCE DEVELOPMENT AUTHORITY (AIDA)"
+   },
+   {
+    "id": "HB-20-57",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-57",
+    "quote": "CREATING THE BUREAU OF ARTIFICIAL INTELLIGENCE SYSTEMS UNDER THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-10173",
+    "label": "Overlapping functions",
+    "overlap": "Section 22 (Alignment with the Data Privacy Act of 2012) keeps National Privacy Commission jurisdiction over AI personal data complaints and requires joint NAIRA-NPC guidelines on automated decision-making.",
+    "section": "HB-20-11137:s22",
+    "quote": "The National Privacy Commission shall retain jurisdiction over complaints involving the unlawful processing of personal data by an AI system."
+   },
+   {
+    "law": "RA-10175",
+    "label": "Referenced in the bill",
+    "overlap": "Section 36 (Criminal Liability) and Section 42 (Suppletory Application) preserve prosecution and suppletory application under the Cybercrime Prevention Act.",
+    "section": "HB-20-11137:s36",
+    "quote": "without prejudice to prosecution under the Revised Penal Code, Republic Act No. 10175, or other applicable law."
+   }
+  ],
+  "salient_features": "HB No. 11137 seeks to establish a national regulatory framework for AI systems and to create the National Artificial Intelligence Regulatory Authority (NAIRA) and the National AI Multi-Stakeholder Advisory Council. Its salient features are as follows:\na. Section 5 (AI Bill of Rights) provides that every person has rights in relation to AI systems, including notice, explanation of automated decisions, human review of decisions materially affecting employment, credit, insurance, government benefits or education, control over personal data, and protection against algorithmic discrimination.\nb. Section 6 (Creation of the National Artificial Intelligence Regulatory Authority) provides that NAIRA is created and attached to the DICT for policy and program coordination, with regulatory, quasi-judicial and administrative functions, including rule-making, investigation and the imposition of administrative sanctions.\nc. Section 7 (Powers and Functions) provides that NAIRA shall issue and enforce rules and standards, classify AI systems by risk, maintain the National AI Registry, review, audit and monitor high-risk AI systems, investigate complaints and impose fines, coordinate with sectoral regulators, and administer the regulatory sandbox program.\nd. Section 8 (Organizational Structure) provides that NAIRA shall be headed by a Director-General appointed by the President, assisted by Deputy Directors-General; salary grades are not specified in the provisions reviewed.\ne. Section 12 (Funding) provides that the initial funding of NAIRA shall be charged against the current appropriations of the DICT, with subsequent funding provided in the annual General Appropriations Act.\nf. Section 13 (Creation of the Council) provides that the Council shall be an independent advisory body to NAIRA of eleven members appointed by the President upon recommendation of the DICT Secretary, drawn from research, ethics, labor, human rights, youth, MSME, consumer, media and regional sectors.\ng. Section 15 (Term and Secretariat Support) provides that Council members shall serve three-year terms, renewable once, and receive honoraria as determined by the DBM.\nh. Section 22 (Alignment with the Data Privacy Act of 2012) provides that the Data Privacy Act applies suppletorily, the National Privacy Commission retains jurisdiction over unlawful processing of personal data by AI systems, and NAIRA and the Commission shall jointly issue guidelines within one year.\ni. Section 36 (Criminal Liability) provides penalties of imprisonment of six months to six years, a fine of up to P2,000,000.00, or both, for willful prohibited AI practices and the malicious use of AI for fraud, identity theft or deceptive synthetic content.\nj. Section 42 (Suppletory Application) provides that the Data Privacy Act, the Cybercrime Prevention Act, the Labor Code and other applicable laws apply suppletorily.",
+  "related_measures_policy": "HB No. 11137 may be considered alongside HB No. 9304, which proposes a similar risk-based framework through a Bureau of Artificial Intelligence Systems under the DICT and an advisory panel of near-identical composition, as well as HB No. 1196 and HB No. 57, which also propose AI regulatory bodies. The measure is not linked to an FY 2027 Budget Priorities Framework priority area or the LEDAC Common Legislative Agenda. The review should assess whether a separate attached authority and advisory council are warranted relative to existing DICT structures under the Government Optimization Act (RA No. 12231), and how NAIRA's mandate under Section 7 (Powers and Functions) and Section 22 (Alignment with the Data Privacy Act of 2012) delineates jurisdiction with the National Privacy Commission under RA No. 10173 and with the sectoral regulators named in the bill.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged against current DICT appropriations; no amount stated",
+    "section": "Section 12 (Funding)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act",
+    "section": "Section 12 (Funding)"
+   },
+   {
+    "item": "Position",
+    "detail": "Director-General and Deputy Directors-General; salary grades not stated",
+    "section": "Section 8 (Organizational Structure)"
+   },
+   {
+    "item": "Members",
+    "detail": "Eleven-member advisory council",
+    "section": "Section 13 (Creation of the Council)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Council honoraria as determined by the DBM; secretariat support",
+    "section": "Section 15 (Term and Secretariat Support)"
+   },
+   {
+    "item": "Special fund",
+    "detail": "AI Safety and Research Fund; source and amount to be verified",
+    "section": "Section 34 (AI Safety and Research Fund)"
+   }
+  ],
+  "reviewer_checks": [
+   "Verify the salary grades, staffing complement and secretariat arrangements for NAIRA and the Council under Section 8 (Organizational Structure) and Section 15 (Term and Secretariat Support).",
+   "Confirm the source and amount of the AI Safety and Research Fund under Section 34 (AI Safety and Research Fund) and its relation to Section 12 (Funding).",
+   "Correct the plural \"Deputy Director-Generals\" in Section 8 (Organizational Structure) to \"Deputy Directors-General\".",
+   "Check whether the jurisdiction of NAIRA overlaps with the National Privacy Commission and other sectoral regulators named in Section 7 (Powers and Functions).",
+   "Confirm the status of HB No. 9304, HB No. 1196 and HB No. 57 with the House, and whether a Senate counterpart has been filed."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "HB No. 9304 also sets a risk-based AI regulatory framework with a near-identical advisory panel, but vests regulation in a bureau under DICT supervision and control rather than an attached authority.",
+   "section": "HB-20-9304:s6",
+   "quote": "There is hereby created a Bureau of Artificial Intelligence Systems (BAIS) under the Department of Information and Communications Technology (DICT).",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-1196",
+   "quote": "CREATING THE ARTIFICIAL INTELLIGENCE DEVELOPMENT AUTHORITY (AIDA)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-57",
+   "quote": "CREATING THE BUREAU OF ARTIFICIAL INTELLIGENCE SYSTEMS UNDER THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 22 (Alignment with the Data Privacy Act of 2012) keeps National Privacy Commission jurisdiction over AI personal data complaints and requires joint NAIRA-NPC guidelines on automated decision-making.",
+   "section": "HB-20-11137:s22",
+   "quote": "The National Privacy Commission shall retain jurisdiction over complaints involving the unlawful processing of personal data by an AI system.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 36 (Criminal Liability) and Section 42 (Suppletory Application) preserve prosecution and suppletory application under the Cybercrime Prevention Act.",
+   "section": "HB-20-11137:s36",
+   "quote": "without prejudice to prosecution under the Revised Penal Code, Republic Act No. 10175, or other applicable law.",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-19T04:05:27+00:00"
+ }
+}
