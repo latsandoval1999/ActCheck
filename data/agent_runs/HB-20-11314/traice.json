@@ -1,0 +1,217 @@
+{
+ "output": {
+  "target": "HB-20-11314",
+  "entity_proposed": "Philippine Rise Resource Development Authority (the Authority)",
+  "proposal": "HB No. 11314 seeks to create the Philippine Rise Resource Development Authority, an agency attached to the Department of Economy, Planning, and Development (DEPDev), to promote, coordinate and facilitate the exploration, study, utilization and development of the Philippine Rise and to serve as lead agency in enforcing the rights of the State over the area.",
+  "alignment": "As a government organization measure, the review should examine how the Authority's proposed functions under Section 3 (Creation of the Philippine Rise Resource Development Authority) and Section 5 (Powers and Functions of the Philippine Rise Resource Development Authority), including its role as lead agency for research, exploration and enforcement of State rights over the area, fit with the existing mandates of the DENR, DOE, DA, DOST, DOF, PCG and DEPDev represented on its Board under Section 6 (Board of Directors), and whether a new attached agency is consistent with the government's intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). No matching FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified for the measure.",
+  "legislative_history": [
+   "HB No. 11314 was filed in the House of Representatives on September 15, 2026 by Representative Eric G. Yap; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "SB No. 1103 (Philippine Rise Development Authority (PRDA) Act), filed in the Senate on August 7, 2025 and pending in the committee, appears to be the counterpart measure in the 20th Congress (title match only).",
+   "Measures bearing the same or a similar title were filed in the 19th Congress (HB No. 5549; SB Nos. 901, 1055 and 1330) and in the 18th Congress (HB Nos. 1214 and 2179; SB Nos. 707, 917 and 2039), all recorded as pending in the committee.",
+   "SB No. 2039 (18th Congress) bears the same short title and full title as HB No. 11314."
+  ],
+  "related": [
+   {
+    "id": "SB-20-1103",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed; a 20th Congress Senate bill creating a Philippine Rise Development Authority.",
+    "section": "meta:SB-20-1103",
+    "quote": "AN ACT CREATING THE PHILIPPINE RISE DEVELOPMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "SB-18-2039",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; an 18th Congress Senate bill with the identical short and full title.",
+    "section": "meta:SB-18-2039",
+    "quote": "PHILIPPINE RISE RESOURCE DEVELOPMENT AUTHORITY ACT: AN ACT CREATING THE PHILIPPINE RISE RESOURCE DEVELOPMENT AUTHORITY"
+   },
+   {
+    "id": "SB-19-1330",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; a 19th Congress Senate bill with the same short title.",
+    "section": "meta:SB-19-1330",
+    "quote": "PHILIPPINE RISE RESOURCE DEVELOPMENT AUTHORITY ACT: AN ACT CREATING THE PHILIPPINE RISE DEVELOPMENT AUTHORITY"
+   },
+   {
+    "id": "HB-19-5549",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; a 19th Congress House bill creating a Philippine Rise Development Authority.",
+    "section": "meta:HB-19-5549",
+    "quote": "AN ACT CREATING THE PHILIPPINE RISE DEVELOPMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS"
+   },
+   {
+    "id": "SB-19-1055",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; a 19th Congress Senate bill creating a Philippine Rise Development Authority.",
+    "section": "meta:SB-19-1055",
+    "quote": "PHILIPPINE RISE DEVELOPMENT AUTHORITY ACT OR 'PRDA ACT'"
+   },
+   {
+    "id": "SB-19-901",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; a 19th Congress Senate bill creating a Philippine Rise Development Authority.",
+    "section": "meta:SB-19-901",
+    "quote": "PHILIPPINE RISE DEVELOPMENT AUTHORITY ACT OR PRDA ACT"
+   },
+   {
+    "id": "SB-18-917",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; an 18th Congress Senate bill creating a Philippine Rise Development Authority.",
+    "section": "meta:SB-18-917",
+    "quote": "PHILIPPINE RISE DEVELOPMENT AUTHORITY ACT OR PRDA ACT"
+   },
+   {
+    "id": "SB-18-707",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; an 18th Congress Senate bill creating a Philippine Rise Development Authority.",
+    "section": "meta:SB-18-707",
+    "quote": "AN ACT CREATING THE PHILIPPINE RISE DEVELOPMENT AUTHORITY (PRDA), DEFINING ITS POWERS AND FUNCTIONS"
+   },
+   {
+    "id": "HB-18-1214",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed; an 18th Congress House bill creating a Philippine Rise Development Authority.",
+    "section": "meta:HB-18-1214",
+    "quote": "AN ACT CREATING THE PHILIPPINE RISE DEVELOPMENT AUTHORITY (PRDA)"
+   },
+   {
+    "id": "HB-18-2179",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; an 18th Congress House bill proposing a differently named exploration and development authority for the same area.",
+    "section": "meta:HB-18-2179",
+    "quote": "AN ACT CREATING THE PHILIPPINE RISE EXPLORATION AND DEVELOPMENT AUTHORITY (PREDA)"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "EO-25-2017",
+    "label": "Referenced in the bill",
+    "overlap": "Section 2 (Declaration of Policy) cites EO No. 25, s. 2017 for the renaming of the Benham Rise as the Philippine Rise.",
+    "section": "HB-20-11314:s2",
+    "quote": "The “Philippine Rise“, formerly known as the “Benham Rise”, as per Executive Order No. 25, series of 2017"
+   }
+  ],
+  "salient_features": "HB No. 11314 seeks to create the Philippine Rise Resource Development Authority, an agency attached to the DEPDev, to lead the exploration, study, utilization and development of the Philippine Rise. Its salient features are as follows:\na. Section 3 (Creation of the Philippine Rise Resource Development Authority) provides that the Authority is created to promote and coordinate multi-sector participation in the development of the Philippine Rise, serves as lead agency in enforcing State rights over the area including research and exploration, is attached to the DEPDev, and holds its principal office in the Aurora Pacific Economic Zone and Freeport Authority (APECO), with branches as necessary.\nb. Section 4 (Coverage) provides that the Authority covers all natural resources in the Philippine Rise, described as an underwater plateau of about thirteen million hectares within stated coordinates.\nc. Section 5 (Powers and Functions of the Philippine Rise Resource Development Authority) provides that the Authority shall formulate an integrated development framework, program and implement programs and projects including ODA-funded projects, call upon agencies for technical support, advocate national policies, promote public and private investment, and explore other sources of financing.\nd. Section 6 (Board of Directors) provides that the powers of the Authority are vested in a Board chaired by the DEPDev Secretary, with the Administrator as Vice-Chairman and nine other members comprising the Secretaries of the DENR, DOE, DA, DOST and DOF, the PCG Commandant, and three private sector representatives appointed by the President for six-year terms.\ne. Section 7 (Administrator) provides that the Authority is headed by an Administrator appointed by the President upon the recommendation of the DEPDev Secretary for a six-year term, subject to educational, experience and residency qualifications; no salary grade is stated.\nf. Section 8 (Powers and Duties of the Administrator) provides that the Administrator directs and manages the Authority under Board policies, presides over Board meetings, supervises programs and projects, and accepts donations and grants on behalf of the Authority.\ng. Section 9 (Secretariat) provides that a Secretariat headed by the Administrator, assisted by four Deputy Administrators holding third level career service eligibility and appointed by the Board, shall support the Board; no salary grade is stated.\nh. Section 10 (Organizational Structure) provides that the Administrator, with Board approval, determines the organizational structure, staffing pattern and pay scales of the Authority subject to civil service and compensation laws, and may reorganize its units.\ni. Section 11 (Merit System) provides that personnel shall be appointed on merit and fitness under civil service rules.\nj. Section 12 (Appropriations) provides that the amount needed to implement the Act shall be included in the General Appropriations Act.\nk. Section 13 (Implementing Rules and Regulations) provides that the Administrator, in coordination with the member agencies, shall issue the implementing rules within ninety days from effectivity.",
+  "related_measures_policy": "HB No. 11314 may be considered alongside SB No. 1103 in the 20th Congress, which likewise seeks to create a Philippine Rise Development Authority, and with similar measures filed in the 18th and 19th Congresses that did not advance beyond the committee level. No matching FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified. The review should assess whether the powers in Section 3 (Creation of the Philippine Rise Resource Development Authority) and Section 5 (Powers and Functions of the Philippine Rise Resource Development Authority) duplicate functions already lodged with the DENR, DOE, DA, DOST, PCG and DEPDev, whose heads sit on the Board under Section 6 (Board of Directors), and whether the creation of a new attached agency with an open-ended staffing and pay scale authority under Section 10 (Organizational Structure) is consistent with the streamlining objectives of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary to implement the Act; no amount or initial source stated",
+    "section": "Section 12 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the General Appropriations Act",
+    "section": "Section 12 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Administrator, appointed by the President for a six-year term; salary grade not stated",
+    "section": "Section 7 (Administrator)"
+   },
+   {
+    "item": "Position",
+    "detail": "Four (4) Deputy Administrators, third level career service positions; salary grade not stated",
+    "section": "Section 9 (Secretariat)"
+   },
+   {
+    "item": "Members",
+    "detail": "Board of eleven members, including three private sector representatives with six-year terms; compensation or allowances not stated",
+    "section": "Section 6 (Board of Directors)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Secretariat headed by the Administrator; staffing pattern and pay scales to be set by the Administrator with Board approval",
+    "section": "Section 9 (Secretariat); Section 10 (Organizational Structure)"
+   },
+   {
+    "item": "Office",
+    "detail": "Principal office in the APECO, with branches as may be necessary",
+    "section": "Section 3 (Creation of the Philippine Rise Resource Development Authority)"
+   }
+  ],
+  "reviewer_checks": [
+   "Reconcile the area of the Philippine Rise: Section 2 (Declaration of Policy) states twenty-four million hectares while Section 4 (Coverage) states about thirteen million hectares.",
+   "Verify the coordinates in Section 4 (Coverage), which appear garbled, and the attribution there to a decision under UNCLOS, as against the reference to the CLCS recommendations in Section 2 (Declaration of Policy).",
+   "Correct the heading of Section 5, which omits the word 'Authority' in the table of headings, and the missing parenthesis in 'DOF Secretary' in Section 6 (Board of Directors).",
+   "Check the incomplete phrase 'effective and implementation' in Section 13 (Implementing Rules and Regulations).",
+   "Confirm the full text of Sections 5, 6 and 8, which appear truncated, including the staggered terms of private sector Board members.",
+   "Clarify whether Board members are entitled to per diems or allowances and the salary grades of the Administrator and Deputy Administrators.",
+   "Confirm with the Senate the status of SB No. 1103 and whether its provisions match this bill."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed; a 20th Congress Senate bill creating a Philippine Rise Development Authority.",
+   "section": "meta:SB-20-1103",
+   "quote": "AN ACT CREATING THE PHILIPPINE RISE DEVELOPMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; an 18th Congress Senate bill with the identical short and full title.",
+   "section": "meta:SB-18-2039",
+   "quote": "PHILIPPINE RISE RESOURCE DEVELOPMENT AUTHORITY ACT: AN ACT CREATING THE PHILIPPINE RISE RESOURCE DEVELOPMENT AUTHORITY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress Senate bill with the same short title.",
+   "section": "meta:SB-19-1330",
+   "quote": "PHILIPPINE RISE RESOURCE DEVELOPMENT AUTHORITY ACT: AN ACT CREATING THE PHILIPPINE RISE DEVELOPMENT AUTHORITY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress House bill creating a Philippine Rise Development Authority.",
+   "section": "meta:HB-19-5549",
+   "quote": "AN ACT CREATING THE PHILIPPINE RISE DEVELOPMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress Senate bill creating a Philippine Rise Development Authority.",
+   "section": "meta:SB-19-1055",
+   "quote": "PHILIPPINE RISE DEVELOPMENT AUTHORITY ACT OR 'PRDA ACT'",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; a 19th Congress Senate bill creating a Philippine Rise Development Authority.",
+   "section": "meta:SB-19-901",
+   "quote": "PHILIPPINE RISE DEVELOPMENT AUTHORITY ACT OR PRDA ACT",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; an 18th Congress Senate bill creating a Philippine Rise Development Authority.",
+   "section": "meta:SB-18-917",
+   "quote": "PHILIPPINE RISE DEVELOPMENT AUTHORITY ACT OR PRDA ACT",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; an 18th Congress Senate bill creating a Philippine Rise Development Authority.",
+   "section": "meta:SB-18-707",
+   "quote": "AN ACT CREATING THE PHILIPPINE RISE DEVELOPMENT AUTHORITY (PRDA), DEFINING ITS POWERS AND FUNCTIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; an 18th Congress House bill creating a Philippine Rise Development Authority.",
+   "section": "meta:HB-18-1214",
+   "quote": "AN ACT CREATING THE PHILIPPINE RISE DEVELOPMENT AUTHORITY (PRDA)",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; an 18th Congress House bill proposing a differently named exploration and development authority for the same area.",
+   "section": "meta:HB-18-2179",
+   "quote": "AN ACT CREATING THE PHILIPPINE RISE EXPLORATION AND DEVELOPMENT AUTHORITY (PREDA)",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 2 (Declaration of Policy) cites EO No. 25, s. 2017 for the renaming of the Benham Rise as the Philippine Rise.",
+   "section": "HB-20-11314:s2",
+   "quote": "The “Philippine Rise“, formerly known as the “Benham Rise”, as per Executive Order No. 25, series of 2017",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-19T00:08:38+00:00"
+ }
+}
