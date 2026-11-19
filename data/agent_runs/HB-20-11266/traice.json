@@ -1,0 +1,158 @@
+{
+ "output": {
+  "target": "HB-20-11266",
+  "entity_proposed": "Philippine Coast Guard Commission (Commission)",
+  "proposal": "HB No. 11266 seeks to create the Philippine Coast Guard Commission, a collegial body attached to the Department of Transportation, to exercise independent personnel governance, oversight, validation and appellate authority over specified personnel matters of the Philippine Coast Guard (PCG), amending RA No. 9993 for the purpose. It aims to make career progression in the PCG merit-based, transparent and insulated from undue influence, without placing the Commission in the PCG chain of command.",
+  "alignment": "As a government organization measure, the review should examine whether a new attached commission is warranted given the existing personnel, promotion and disciplinary functions of the PCG and the Department of Transportation, and how it squares with the intent to streamline agencies and reduce overlapping mandates under the Government Optimization Act (RA No. 12231); Section 22 (Transfer of Functions and Records) limits transfers to functions expressly vested in the Commission and bars duplication of PCG functions, which the review should verify against Section 10 (Powers and Functions). The review should also assess the interplay with the pending measures revising RA No. 9993, given Section 24 (Harmonization with the Revised Philippine Coast Guard Law). No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was matched to the measure.",
+  "legislative_history": [
+   "HB No. 11266 was filed on September 14, 2026 by Representative Karl Fernandez Legazpi; later stages are not reflected in the source data (status: filed, pending).",
+   "No earlier bill proposing a Philippine Coast Guard Commission was identified in the 18th or 19th Congress.",
+   "In the 20th Congress, SB Nos. 359, 438, 910 and 1142 and HB No. 1120 propose the administrative reform and reorganization of the PCG revising or repealing RA No. 9993 (title match only; text not reviewed); these are related measures rather than counterparts of HB No. 11266.",
+   "Similar PCG reorganization measures were filed in the 19th Congress (e.g. SB Nos. 2540, 2561, 2648 and 2650, reported as consolidated or substituted in a committee report, and SB No. 2903, reported as pending in the House of Representatives) and in the 18th Congress (SB No. 2322)."
+  ],
+  "related": [
+   {
+    "id": "SB-20-910",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. The title indicates a revised PCG law repealing RA No. 9993, with which the bill provides for harmonization.",
+    "section": "meta:SB-20-910",
+    "quote": "AN ACT PROVIDING FOR THE ADMINISTRATIVE REFORM AND REORGANIZATION OF THE PHILIPPINE COAST GUARD, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 9993"
+   },
+   {
+    "id": "SB-20-359",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. The title indicates a revised PCG law repealing RA No. 9993.",
+    "section": "meta:SB-20-359",
+    "quote": "AN ACT PROVIDING FOR THE ADMINISTRATIVE REFORM AND REORGANIZATION OF THE PHILIPPINE COAST GUARD, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 9993"
+   },
+   {
+    "id": "SB-20-1142",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. The title indicates a revised PCG law repealing RA No. 9993.",
+    "section": "meta:SB-20-1142",
+    "quote": "AN ACT PROVIDING FOR THE ADMINISTRATIVE REFORM AND REORGANIZATION OF THE PHILIPPINE COAST GUARD, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 9993"
+   },
+   {
+    "id": "SB-20-438",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. The title indicates a revised PCG law repealing RA No. 9993.",
+    "section": "meta:SB-20-438",
+    "quote": "AN ACT PROVIDING FOR THE ADMINISTRATIVE REFORM AND REORGANIZATION OF THE PHILIPPINE COAST GUARD, REPEALING FOR THE PURPOSES REPUBLIC ACT NO. 9993"
+   },
+   {
+    "id": "HB-20-1120",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. The title indicates a House measure in the same Congress revising RA No. 9993.",
+    "section": "meta:HB-20-1120",
+    "quote": "AN ACT PROVIDING FOR THE ADMINISTRATIVE REFORM AND REORGANIZATION OF THE PHILIPPINE COAST GUARD, REVISING FOR THE PURPOSE REPUBLIC ACT NO. 9993"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-9993",
+    "label": "Amends or repeals",
+    "overlap": "Section 27 (Amendatory Clause) amends the provisions of RA No. 9993 on the appointment of the Commandant, promotion of officers, assignment of flag officers and administrative discipline.",
+    "section": "HB-20-11266:s27",
+    "quote": "relating to the appointment of the Commandant, the promotion of officers, the assignment of flag officers, and the administrative discipline of PCG personnel are hereby amended"
+   },
+   {
+    "law": "RA-12122",
+    "label": "Overlapping functions",
+    "overlap": "The law fixing the Commandant's term of office may bear on Section 17 (Selection of the Commandant) and Section 10 (Powers and Functions); title only, text not reviewed.",
+    "section": "law:RA-12122",
+    "quote": "AN ACT FIXING THE TERM OF OFFICE OF THE PHILIPPINE COAST GUARD COMMANDANT"
+   }
+  ],
+  "salient_features": "HB No. 11266 seeks to create the Philippine Coast Guard Commission as an independent personnel governance and oversight body for the PCG. Its salient features are as follows:\na. Section 4 (Creation and Nature of the Commission) provides that the Commission shall exercise independent personnel governance, oversight, review, validation and appellate authority over personnel matters expressly provided in the Act, shall be attached to the Department of Transportation for policy and program coordination, and shall not form part of the PCG chain of command or be superior to the Commandant.\nb. Section 5 (Composition) provides that the Commission shall be a collegial body of a full-time Chairperson acting as chief executive officer and four Commissioners: a retired PCG flag officer, a lawyer with at least ten years of practice, a member from the academe or private sector, and the Department Undersecretary in charge of maritime affairs as ex officio Commissioner; the Commandant sits as a non-voting ex officio member, inhibited on specified personnel matters.\nc. Section 10 (Powers and Functions) provides that the Commission shall promulgate and review compliance with personnel governance standards, oversee career progression criteria, validate promotions of senior officers and assignments of flag officers to major unit commands, screen flag officers for appointment as Commandant, exercise appellate and original jurisdiction in specified administrative disciplinary cases, and conduct periodic governance reviews.\nd. Section 22 (Transfer of Functions and Records) provides that only PCG functions and records pertaining to matters expressly vested in the Commission shall be transferred within six months of its organization under a transition plan, without duplication of PCG functions or diminution in the rank, salary or benefits of personnel.\ne. Section 26 (Appropriations) provides that initial implementation shall be charged against the current year's appropriations of the Department, and continuing operations shall be funded as a separate line item in the annual General Appropriations Act, not charged against PCG appropriations.\nf. Section 27 (Amendatory Clause) provides that the provisions of RA No. 9993 on the appointment of the Commandant, promotion of officers, assignment of flag officers and administrative discipline are amended insofar as inconsistent with the Act.",
+  "related_measures_policy": "HB No. 11266 may be considered alongside SB Nos. 359, 438, 910 and 1142 and HB No. 1120, which propose the administrative reform and reorganization of the PCG through a revision or repeal of RA No. 9993, and with which the bill provides for harmonization under Section 24 (Harmonization with the Revised Philippine Coast Guard Law). No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was matched. The review should assess whether the personnel functions in Section 10 (Powers and Functions) overlap with those retained by the PCG and the Department under RA No. 9993, as amended by Section 27 (Amendatory Clause), and with the Commandant's term under RA No. 12122, consistent with the streamlining objectives of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary, no amount stated; charged against the current year's appropriations of the Department of Transportation",
+    "section": "Section 26 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Separate line item in the annual General Appropriations Act; not charged against PCG appropriations",
+    "section": "Section 26 (Appropriations)"
+   },
+   {
+    "item": "Members",
+    "detail": "Full-time Chairperson and four Commissioners (one ex officio); rank and compensation to be confirmed in Section 9",
+    "section": "Section 5 (Composition)"
+   },
+   {
+    "item": "Position",
+    "detail": "Rank, compensation and privileges of the Chairperson and Commissioners; salary grades to be confirmed",
+    "section": "Section 9 (Rank, Compensation, and Privileges)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Secretariat and staff of the Commission; staffing to be confirmed",
+    "section": "Section 12 (Meetings, Quorum, Secretariat, and Staff)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Interim Personnel and Professionalization Board; cost and duration to be confirmed",
+    "section": "Section 20 (Interim Personnel and Professionalization Board)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the salary grades and privileges of the Chairperson and Commissioners under Section 9 (Rank, Compensation, and Privileges).",
+   "Verify the secretariat staffing and the composition and duration of the interim board under Sections 12 and 20.",
+   "Check the heading of Section 24, which appears truncated, and how harmonization operates if the revised PCG law is not enacted.",
+   "Confirm the status of the pending Senate and House bills revising RA No. 9993 and whether they already provide for a similar personnel oversight body.",
+   "Assess whether charging initial costs to the Department's current-year appropriations is feasible without a stated amount."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed. The title indicates a revised PCG law repealing RA No. 9993, with which the bill provides for harmonization.",
+   "section": "meta:SB-20-910",
+   "quote": "AN ACT PROVIDING FOR THE ADMINISTRATIVE REFORM AND REORGANIZATION OF THE PHILIPPINE COAST GUARD, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 9993",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The title indicates a revised PCG law repealing RA No. 9993.",
+   "section": "meta:SB-20-359",
+   "quote": "AN ACT PROVIDING FOR THE ADMINISTRATIVE REFORM AND REORGANIZATION OF THE PHILIPPINE COAST GUARD, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 9993",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The title indicates a revised PCG law repealing RA No. 9993.",
+   "section": "meta:SB-20-1142",
+   "quote": "AN ACT PROVIDING FOR THE ADMINISTRATIVE REFORM AND REORGANIZATION OF THE PHILIPPINE COAST GUARD, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 9993",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The title indicates a revised PCG law repealing RA No. 9993.",
+   "section": "meta:SB-20-438",
+   "quote": "AN ACT PROVIDING FOR THE ADMINISTRATIVE REFORM AND REORGANIZATION OF THE PHILIPPINE COAST GUARD, REPEALING FOR THE PURPOSES REPUBLIC ACT NO. 9993",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The title indicates a House measure in the same Congress revising RA No. 9993.",
+   "section": "meta:HB-20-1120",
+   "quote": "AN ACT PROVIDING FOR THE ADMINISTRATIVE REFORM AND REORGANIZATION OF THE PHILIPPINE COAST GUARD, REVISING FOR THE PURPOSE REPUBLIC ACT NO. 9993",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 27 (Amendatory Clause) amends the provisions of RA No. 9993 on the appointment of the Commandant, promotion of officers, assignment of flag officers and administrative discipline.",
+   "section": "HB-20-11266:s27",
+   "quote": "relating to the appointment of the Commandant, the promotion of officers, the assignment of flag officers, and the administrative discipline of PCG personnel are hereby amended",
+   "check": "verified"
+  },
+  {
+   "claim": "The law fixing the Commandant's term of office may bear on Section 17 (Selection of the Commandant) and Section 10 (Powers and Functions); title only, text not reviewed.",
+   "section": "law:RA-12122",
+   "quote": "AN ACT FIXING THE TERM OF OFFICE OF THE PHILIPPINE COAST GUARD COMMANDANT",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-19T00:08:32+00:00"
+ }
+}
