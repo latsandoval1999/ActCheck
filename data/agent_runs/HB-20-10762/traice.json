@@ -1,0 +1,198 @@
+{
+ "output": {
+  "target": "HB-20-10762",
+  "entity_proposed": "Sierra Madre Conservation and Management Authority (SMCMA)",
+  "proposal": "HB No. 10762 seeks to institutionalize a landscape-level framework for the conservation, protection, restoration, climate resilience and sustainable development of the Sierra Madre mountain range, and to create the Sierra Madre Conservation and Management Authority (SMCMA) under the Office of the President as the principal body for integrated planning and inter-agency coordination over the Sierra Madre Management Area (SMMA).",
+  "alignment": "As a government organization measure, the review should examine whether a new authority under the Office of the President is necessary given the existing mandates of the DENR, NAMRIA, Protected Area Management Boards, the NCIP and LGUs, noting that Section 5 (Creation of the Sierra Madre Conservation and Management Authority) and Section 8 (Limitations on the Powers of the SMCMA) confine the body to coordination, planning and monitoring without regulatory, permitting or proprietary powers; the review should assess whether these coordination functions could instead be lodged in an existing agency, consistent with the streamlining and reduction of overlapping functions under the Government Optimization Act (RA No. 12231). The measure aligns with the Environment, Climate, and Disaster Resilience priority area of the FY 2027 Budget Priorities Framework, particularly its focus on nature-based solutions; it is not among the measures in the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 10762 was filed on August 12, 2026 by Representative Agatha \"Agay\" Cruz; it is pending at the filing stage, and later stages are not recorded.",
+   "HB No. 3538 (20th Congress, filed August 12, 2025, pending in the Committee) proposes a Sierra Madre Conservation and Development Authority; title match only, text not reviewed.",
+   "Earlier House bills proposing a Sierra Madre conservation or development authority were filed in the 18th Congress (HB No. 5634 and HB No. 8305) and the 19th Congress (HB No. 1214 and HB No. 1972), all pending in the Committee; titles only, texts not reviewed.",
+   "No Senate counterpart, substitute bill or committee report was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-3538",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Same-Congress House bill whose title also creates a Sierra Madre authority for protection and development of the range.",
+    "section": "meta:HB-20-3538",
+    "quote": "CREATING FOR THE PURPOSE THE SIERRA MADRE CONSERVATION AND DEVELOPMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, AND PROVIDING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-1214",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "19th Congress House bill whose title creates a Sierra Madre Conservation and Development Authority.",
+    "section": "meta:HB-19-1214",
+    "quote": "AN ACT ENHANCING THE PROTECTION AND DEVELOPMENT OF THE SIERRA MADRE RANGE IN THE ISLAND OF LUZON"
+   },
+   {
+    "id": "HB-19-1972",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "19th Congress House bill whose title creates a Sierra Madre Development Authority.",
+    "section": "meta:HB-19-1972",
+    "quote": "CREATING THE SIERRA MADRE DEVELOPMENT AUTHORITY FOR THE PURPOSE, DEFINING ITS POWERS AND FUNCTIONS"
+   },
+   {
+    "id": "HB-18-8305",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "18th Congress House bill whose title creates a Sierra Madre Conservation and Development Authority.",
+    "section": "meta:HB-18-8305",
+    "quote": "CREATING THE SIERRA MADRE CONSERVATION AND DEVELOPMENT AUTHORITY FOR THE PURPOSE, DEFINING ITS POWERS AND FUNCTIONS"
+   },
+   {
+    "id": "HB-18-5634",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "18th Congress House bill whose title creates a Sierra Madre Development Authority.",
+    "section": "meta:HB-18-5634",
+    "quote": "CREATING THE SIERRA MADRE DEVELOPMENT AUTHORITY FOR THE PURPOSE, DEFINING ITS POWERS AND FUNCTIONS"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-7586",
+    "label": "Overlapping functions",
+    "overlap": "Section 11 (Ecological Management Zones) excludes NIPAS protected areas from the zoning, while Section 8 (Limitations on the Powers of the SMCMA) bars the SMCMA from superseding PAMB powers.",
+    "section": "HB-20-10762:s11",
+    "quote": "other than protected areas governed by Republic Act No. 7586"
+   },
+   {
+    "law": "RA-11038",
+    "label": "Referenced in the bill",
+    "overlap": "Section 11 (Ecological Management Zones) refers to the Expanded NIPAS Act in excluding protected areas from the ecological management zones.",
+    "section": "HB-20-10762:s11",
+    "quote": "as amended by Republic Act No. 11038, otherwise known as the “Expanded National Integrated Protected Areas System Act of 2018,”"
+   },
+   {
+    "law": "RA-8371",
+    "label": "Referenced in the bill",
+    "overlap": "Section 21 (Penalties) exempts ICCs/IPs from criminal liability for customary practices exercised under the Indigenous Peoples' Rights Act.",
+    "section": "HB-20-10762:s21",
+    "quote": "undertaken in the exercise of rights recognized under Republic Act No. 8371 and other applicable laws"
+   },
+   {
+    "law": "RA-11995",
+    "label": "Referenced in the bill",
+    "overlap": "Section 22 (Ecological Monitoring and Transparency) requires the SMCMA to use information generated under the PENCAS Act and coordinate with the PSA.",
+    "section": "HB-20-10762:s22",
+    "quote": "The SMCMA shall utilize relevant information generated under Republic Act No. 11995"
+   },
+   {
+    "law": "RA-9125",
+    "label": "Overlapping functions",
+    "overlap": "The law establishing the Northern Sierra Madre protected area in Isabela covers part of the range, which Section 11 (Ecological Management Zones) excludes as a site-specific protected area.",
+    "section": "law:RA-9125",
+    "quote": "AN ACT ESTABLISHING THE NORTHERN SIERRA MADRE MOUNTAIN RANGE WITHIN THE PROVINCE OF ISABELA AS A PROTECTED AREA"
+   }
+  ],
+  "salient_features": "HB No. 10762 seeks to institutionalize a landscape-level framework for the Sierra Madre mountain range and to create the Sierra Madre Conservation and Management Authority (SMCMA). Its salient features are as follows:\na. Section 4 (Establishment and Delineation of the Sierra Madre Management Area) provides that the SMMA serves as the geographic framework for integrated planning and coordination, that inclusion in it does not by itself alter land classification, tenure or protected-area status, and that the DENR, with NAMRIA, shall prepare its technical delineation within eighteen (18) months from effectivity.\nb. Section 5 (Creation of the Sierra Madre Conservation and Management Authority) provides that the SMCMA is created under the Office of the President as the principal body for landscape-level planning and inter-agency coordination, without diminishing the powers of existing agencies and LGUs, and not as a government-owned or -controlled corporation.\nc. Section 7 (Powers and Functions of the SMCMA) provides that the SMCMA shall formulate and monitor the Sierra Madre Plan, coordinate delineation and ecological zoning, harmonize plans, provide technical assistance, maintain a scientific and geospatial monitoring system, conduct plan consistency reviews, convene agencies for coordinated enforcement, and recommend conservation instruments and priority investments.\nd. Section 8 (Limitations on the Powers of the SMCMA) provides that the SMCMA may not issue or cancel permits, supersede PAMBs, LGUs or regulators, borrow, lend or engage in business, exercise eminent domain independently, or levy taxes or compulsory fees.\ne. Section 9 (Executive Director and Personnel) provides that the SMCMA shall be headed by an Executive Director appointed by the President with the rank of Undersecretary and at least ten (10) years of relevant experience, and that its organizational structure and staffing pattern are subject to DBM approval.\nf. Section 11 (Ecological Management Zones) provides that areas outside protected areas shall be classified into Core Conservation Areas, Ecological Restoration Areas, Sustainable Use Areas, and Settlement and Existing Development Areas.\ng. Section 13 (Protection of Core Conservation Areas) provides that commercial logging, mining and quarrying, forest conversion, hazardous waste dumping, habitat destruction and, subject to exceptions, new major infrastructure are prohibited in Core Conservation Areas, while allowing research, restoration and ICC/IP customary practices.\nh. Section 21 (Penalties) provides that knowing violations of Section 13 (Protection of Core Conservation Areas) are punishable by a fine of PhP 1,000,000.00 to PhP 5,000,000.00, imprisonment of six (6) to twelve (12) years, or both, with protection for ICC/IP customary practices.\ni. Section 22 (Ecological Monitoring and Transparency) provides that the SMCMA shall establish an integrated geospatial and ecological monitoring system, use PENCAS information, and publish non-sensitive information on an online platform.\nj. Section 23 (Funding) provides that the initial implementation shall be charged against the current appropriations of the Office of the President, the DENR and other participating agencies, with subsequent funding in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 10762 may be considered alongside HB No. 3538 of the 20th Congress and earlier House bills of the 18th and 19th Congresses proposing a Sierra Madre conservation or development authority, whose texts should be compared to determine whether they share the same design. The measure aligns with the Environment, Climate, and Disaster Resilience priority area of the FY 2027 Budget Priorities Framework. The review should assess the relationship of the SMCMA to the protected-area management system under RA No. 7586, as amended by RA No. 11038, given the exclusions in Section 11 (Ecological Management Zones) and the limitations in Section 8 (Limitations on the Powers of the SMCMA); its coordination with the site-specific protected area established under RA No. 9125; the safeguards for ICCs/IPs under RA No. 8371 referenced in Section 21 (Penalties); and whether a separate authority under the Office of the President is warranted in light of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for initial implementation (no amount stated), charged against current appropriations of the Office of the President, DENR and other participating agencies",
+    "section": "Section 23 (Funding)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "To be included in the annual General Appropriations Act",
+    "section": "Section 23 (Funding)"
+   },
+   {
+    "item": "Position",
+    "detail": "Executive Director with the rank of Undersecretary, appointed by the President; salary grade not stated",
+    "section": "Section 9 (Executive Director and Personnel)"
+   },
+   {
+    "item": "Personnel",
+    "detail": "Organizational structure and staffing pattern subject to DBM approval; size not stated",
+    "section": "Section 9 (Executive Director and Personnel)"
+   },
+   {
+    "item": "Governing body",
+    "detail": "Sierra Madre Governing Council; composition and any allowances to be verified",
+    "section": "Section 6 (Sierra Madre Governing Council)"
+   },
+   {
+    "item": "Monitoring system",
+    "detail": "Integrated geospatial and ecological monitoring system and public online platform",
+    "section": "Section 22 (Ecological Monitoring and Transparency)"
+   }
+  ],
+  "reviewer_checks": [
+   "Verify the full text of Section 23 (Funding), including the agencies charged with initial funding and any amount stated.",
+   "Confirm the composition of the Sierra Madre Governing Council under Section 6 and any per diem or allowances for its members.",
+   "Determine the salary grade and staffing complement implied by the Undersecretary rank of the Executive Director.",
+   "Compare the text with HB No. 3538 and earlier Sierra Madre authority bills to establish whether they are substantially similar.",
+   "Assess the overlap of the SMCMA's coordination and monitoring functions with the DENR, NAMRIA, PAMBs and the NCIP.",
+   "Check stray line numbers and page headers in the bill text for typographical errors."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same-Congress House bill whose title also creates a Sierra Madre authority for protection and development of the range.",
+   "section": "meta:HB-20-3538",
+   "quote": "CREATING FOR THE PURPOSE THE SIERRA MADRE CONSERVATION AND DEVELOPMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, AND PROVIDING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "19th Congress House bill whose title creates a Sierra Madre Conservation and Development Authority.",
+   "section": "meta:HB-19-1214",
+   "quote": "AN ACT ENHANCING THE PROTECTION AND DEVELOPMENT OF THE SIERRA MADRE RANGE IN THE ISLAND OF LUZON",
+   "check": "verified"
+  },
+  {
+   "claim": "19th Congress House bill whose title creates a Sierra Madre Development Authority.",
+   "section": "meta:HB-19-1972",
+   "quote": "CREATING THE SIERRA MADRE DEVELOPMENT AUTHORITY FOR THE PURPOSE, DEFINING ITS POWERS AND FUNCTIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "18th Congress House bill whose title creates a Sierra Madre Conservation and Development Authority.",
+   "section": "meta:HB-18-8305",
+   "quote": "CREATING THE SIERRA MADRE CONSERVATION AND DEVELOPMENT AUTHORITY FOR THE PURPOSE, DEFINING ITS POWERS AND FUNCTIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "18th Congress House bill whose title creates a Sierra Madre Development Authority.",
+   "section": "meta:HB-18-5634",
+   "quote": "CREATING THE SIERRA MADRE DEVELOPMENT AUTHORITY FOR THE PURPOSE, DEFINING ITS POWERS AND FUNCTIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 11 (Ecological Management Zones) excludes NIPAS protected areas from the zoning, while Section 8 (Limitations on the Powers of the SMCMA) bars the SMCMA from superseding PAMB powers.",
+   "section": "HB-20-10762:s11",
+   "quote": "other than protected areas governed by Republic Act No. 7586",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 11 (Ecological Management Zones) refers to the Expanded NIPAS Act in excluding protected areas from the ecological management zones.",
+   "section": "HB-20-10762:s11",
+   "quote": "as amended by Republic Act No. 11038, otherwise known as the “Expanded National Integrated Protected Areas System Act of 2018,”",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 21 (Penalties) exempts ICCs/IPs from criminal liability for customary practices exercised under the Indigenous Peoples' Rights Act.",
+   "section": "HB-20-10762:s21",
+   "quote": "undertaken in the exercise of rights recognized under Republic Act No. 8371 and other applicable laws",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 22 (Ecological Monitoring and Transparency) requires the SMCMA to use information generated under the PENCAS Act and coordinate with the PSA.",
+   "section": "HB-20-10762:s22",
+   "quote": "The SMCMA shall utilize relevant information generated under Republic Act No. 11995",
+   "check": "verified"
+  },
+  {
+   "claim": "The law establishing the Northern Sierra Madre protected area in Isabela covers part of the range, which Section 11 (Ecological Management Zones) excludes as a site-specific protected area.",
+   "section": "law:RA-9125",
+   "quote": "AN ACT ESTABLISHING THE NORTHERN SIERRA MADRE MOUNTAIN RANGE WITHIN THE PROVINCE OF ISABELA AS A PROTECTED AREA",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-19T10:04:05+00:00"
+ }
+}
