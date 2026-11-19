@@ -1,0 +1,105 @@
+{
+ "output": {
+  "target": "HB-20-11183",
+  "entity_proposed": "Higher Education-Industry Coordination Council (Council)",
+  "proposal": "HB No. 11183 seeks to institutionalize the Higher Education-Industry Partnership Framework and to create the Higher Education-Industry Coordination Council, an advisory and coordinative body chaired by the CHED Chairperson, to generate and disseminate labor market and skills intelligence and to monitor higher education-industry cooperation, with the aim of improving graduate relevance and employability.",
+  "alignment": "As a government organization measure, the review should examine how the proposed Council fits with the existing mandates of CHED, TESDA, DOLE, DepEd and DTI, which Section 7 (Creation of the Council) states the Council shall not supplant, and whether its labor market and skills intelligence functions under Section 8 (Mandate of the Council) duplicate existing data and coordination mechanisms, consistent with the intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess the resource implications of the Regional Advisory Boards under Section 10 (Regional Advisory Boards) and of the CHED Secretariat. The measure aligns with the Human capital development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on equitable access to quality education. No LEDAC Common Legislative Agenda item corresponding to the measure is indicated.",
+  "legislative_history": [
+   "HB No. 11183 was filed in the 20th Congress on September 7, 2026 by Representative Antolin \"Lenlen\" A. Oreta III; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "HB No. 9845, also filed in the 20th Congress, proposes the same Higher Education-Industry Partnership Framework through a Tripartite Council for Tertiary Education with a similar composition and identical appropriations language.",
+   "No earlier-Congress version, Senate counterpart, substitute bill or committee report was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-9845",
+    "relationship": "Alternative proposal",
+    "basis": "HB No. 9845 institutionalizes the same framework with a similar tripartite council and identical funding clause, but names the body differently and structures its powers and sections differently; the baseline label is retained as an alternative design pending a fuller text comparison.",
+    "section": "HB-20-9845:s7",
+    "quote": "There is hereby created a Tripartite Council for Tertiary Education (TCTE) which shall serve as the principal national coordinating, advisory, and intelligence body"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-10055",
+    "label": "Referenced in the bill",
+    "overlap": "Section 6 (Modes of Partnership) requires collaborative research and innovation initiatives to be consistent with RA No. 10055 (Technology Transfer Act).",
+    "section": "HB-20-11183:s6",
+    "quote": "Republic Act No. 10055, otherwise known as the Technology Transfer Act"
+   },
+   {
+    "law": "RA-7722",
+    "label": "Overlapping functions",
+    "overlap": "The Council, chaired by CHED and supported by a CHED Secretariat under Section 9 (Composition of the Council), may overlap with the higher education coordination functions of CHED under its charter.",
+    "section": "law:RA-7722",
+    "quote": "AN ACT CREATING THE COMMISSION ON HIGHER EDUCATION, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+   }
+  ],
+  "salient_features": "HB No. 11183 seeks to institutionalize the Higher Education-Industry Partnership Framework and to create a seventeen-member Higher Education-Industry Coordination Council. Its salient features are as follows:\na. Section 4 (The Higher Education-Industry Partnership Framework) provides that the Framework shall be the national policy and governance architecture for structured cooperation between HEIs and industry partners, functioning as a coordination mechanism.\nb. Section 6 (Modes of Partnership) provides that collaboration may take the form of advisory arrangements, work-integrated learning, collaborative research and innovation consistent with RA No. 10055, faculty exposure programs and other modes.\nc. Section 7 (Creation of the Council) provides that the Council shall be the principal national body for coordinating higher education-industry cooperation and generating labor market and skills intelligence, and shall be advisory and coordinative only, without regulatory, accrediting, licensing or enforcement powers.\nd. Section 8 (Mandate of the Council) provides that the Council shall establish a National Labor Market and Skills Intelligence System with an open data portal to be launched within one year from its constitution, prepare a National Skills Gap Inventory, and produce other deliverables within prescribed timelines.\ne. Section 9 (Composition of the Council) provides that the Council shall have seventeen members: five ex officio government officials, with the CHED Chairperson as Chairperson and the TESDA Director-General as Vice-Chairperson, six higher education representatives and six industry representatives; CHED shall establish a permanent Secretariat. No positions or salary grades are specified.\nf. Section 10 (Regional Advisory Boards) provides that at least one Regional Industry-Higher Education Advisory Board shall be constituted in each administrative region within two years, with Sectoral Advisory Boards optional, and that each shall submit annual regional intelligence inputs to the Secretariat.\ng. Section 11 (Institutional Partnership Units) provides that HEIs are encouraged to establish or designate partnership units as institutional focal points for industry engagement.\nh. Section 12 (Implementing Rules and Regulations) provides that CHED, in consultation with other agencies and stakeholders, shall issue the IRR within ninety days from effectivity.\ni. Section 13 (Appropriations) provides that initial implementation shall be charged against the current appropriations of CHED, and thereafter funding shall be included in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 11183 may be considered alongside HB No. 9845, which proposes the same partnership framework through a Tripartite Council for Tertiary Education with a similar composition and identical funding provision; the review should determine which design is preferable or whether the two may be consolidated. The measure aligns with the Human capital development priority area of the FY 2027 Budget Priorities Framework. The review should assess whether the Council's intelligence and coordination functions under Section 7 (Creation of the Council) and Section 8 (Mandate of the Council) overlap with the existing mandate of CHED under RA No. 7722 and with the data functions of TESDA, DOLE and the Philippine Statistics Authority, consistent with the Government Optimization Act (RA No. 12231), and the cost of the CHED Secretariat under Section 9 (Composition of the Council) and of the Regional Advisory Boards under Section 10 (Regional Advisory Boards).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged against current CHED appropriations; no amount stated",
+    "section": "Section 13 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary included in the annual General Appropriations Act",
+    "section": "Section 13 (Appropriations)"
+   },
+   {
+    "item": "Members",
+    "detail": "Seventeen members: five ex officio government officials, six higher education and six industry representatives; no compensation or allowances stated",
+    "section": "Section 9 (Composition of the Council)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Permanent Secretariat established and maintained by CHED; no positions or salary grades stated",
+    "section": "Section 9 (Composition of the Council)"
+   },
+   {
+    "item": "Support body",
+    "detail": "At least one Regional Advisory Board per administrative region, plus optional Sectoral Advisory Boards",
+    "section": "Section 10 (Regional Advisory Boards)"
+   },
+   {
+    "item": "Information system",
+    "detail": "National Labor Market and Skills Intelligence System and open online data portal maintained by the Secretariat",
+    "section": "Section 8 (Mandate of the Council)"
+   }
+  ],
+  "reviewer_checks": [
+   "The title refers to the \"Higher Partnership Framework\" and \"Appropriating Funds Therefore\", which appear to be typographical errors for \"Higher Education-Industry Partnership Framework\" and \"Therefor\".",
+   "Section 9 (Composition of the Council) contains a stray item \"(vi)\" repeating the opening of paragraph (b) in the list of government members, which lists only five officials.",
+   "Section 4 (The Higher Education-Industry Partnership Framework), paragraph (d), contains duplicated wording that should be corrected.",
+   "Confirm the status of HB No. 9845 and whether the two bills are to be consolidated, given their similar framework, composition and identical appropriations provision.",
+   "Verify whether the Council's data functions duplicate existing labor market information systems maintained by DOLE, TESDA and the Philippine Statistics Authority."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "HB No. 9845 institutionalizes the same framework with a similar tripartite council and identical funding clause, but names the body differently and structures its powers and sections differently; the baseline label is retained as an alternative design pending a fuller text comparison.",
+   "section": "HB-20-9845:s7",
+   "quote": "There is hereby created a Tripartite Council for Tertiary Education (TCTE) which shall serve as the principal national coordinating, advisory, and intelligence body",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 6 (Modes of Partnership) requires collaborative research and innovation initiatives to be consistent with RA No. 10055 (Technology Transfer Act).",
+   "section": "HB-20-11183:s6",
+   "quote": "Republic Act No. 10055, otherwise known as the Technology Transfer Act",
+   "check": "verified"
+  },
+  {
+   "claim": "The Council, chaired by CHED and supported by a CHED Secretariat under Section 9 (Composition of the Council), may overlap with the higher education coordination functions of CHED under its charter.",
+   "section": "law:RA-7722",
+   "quote": "AN ACT CREATING THE COMMISSION ON HIGHER EDUCATION, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-19T04:05:34+00:00"
+ }
+}
