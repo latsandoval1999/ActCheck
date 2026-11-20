@@ -1,0 +1,85 @@
+{
+ "output": {
+  "target": "HB-20-10502",
+  "entity_proposed": "Philippine Ube Industry Development Office (PUIDO)",
+  "proposal": "HB No. 10502 seeks to institutionalize the development of the Philippine ube industry by creating the Philippine Ube Industry Development Office (PUIDO) within the Department of Agriculture, an inter-agency Ube Industry Development Council, and a Philippine Ube Industry Development Program and Fund. It aims to raise production, build an integrated value chain from planting materials to export, and strengthen the country's position as a source of premium ube products.",
+  "alignment": "As a government organization and mandates measure, the review should examine whether a new office within the Department of Agriculture and a separate Ube Industry Development Council are needed, given that Section 6 (Consolidation and Coordination of Ube Programs) preserves the functions of existing bureaus and services of the Department, and how the measure relates to the streamlining of the Executive branch and the reduction of overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess the interaction between the Office and the Council created under Section 13 (Ube Industry Development Council), for which the Office serves as Secretariat under Section 7 (Secretariat to the Ube Industry Development Council). No priority area of the FY 2027 Budget Priorities Framework and no item of the LEDAC Common Legislative Agenda was identified for this measure.",
+  "legislative_history": [
+   "HB No. 10502 was filed on August 3, 2026 by Representative King George Leandro Antonio V. Collantes; its status is filed, with later stages not yet reflected in available records.",
+   "HB No. 10225, filed in the same Congress, bears the same short title and addresses the same industry but proposes a Philippine Ube Industry Council attached to the Department of Agriculture rather than an office within it.",
+   "No counterpart Senate bill, substitute bill or committee report was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-10225",
+    "relationship": "Alternative proposal",
+    "basis": "Same short title and subject, but it creates a Philippine Ube Industry Council attached to the Department of Agriculture as the central coordinating body instead of a dedicated office within the Department.",
+    "section": "HB-20-10225:s12",
+    "quote": "There is hereby created the Philippine Ube Industry Council, hereinafter referred to as the Council, which shall serve as the central coordinating and advisory body for the implementation of this Act."
+   }
+  ],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 10502 seeks to create the Philippine Ube Industry Development Office (PUIDO) within the Department of Agriculture and to establish a national program, council and fund for the ube industry. Its salient features are as follows:\na. Section 2 (Declaration of Policy) provides that the State shall promote a competitive, sustainable, climate-resilient and export-oriented ube industry through higher production, value chain integration, research, investment, quality assurance and multi-sector collaboration.\nb. Section 4 (Creation of the Philippine Ube Industry Development Office) provides that the PUIDO is created within the Department of Agriculture as its primary and central coordinating office for ube programs, headed by an Executive Director appointed by the Secretary of Agriculture and assisted by technical and administrative personnel, with the Secretary authorized to reorganize or realign existing units, personnel and resources of the Department; no salary grade is stated.\nc. Section 5 (Functions of the Philippine Ube Industry Development Office) provides that the Office shall plan, coordinate and monitor national ube programs, oversee the industry roadmap, harmonize Department plans, coordinate with other agencies and stakeholders, recommend policies and standards, maintain a national industry database, and coordinate planting material and seed systems, among others.\nd. Section 6 (Consolidation and Coordination of Ube Programs) provides that all Department units implementing ube programs shall coordinate with the Office, without diminishing the statutory functions of existing bureaus and services.\ne. Section 7 (Secretariat to the Ube Industry Development Council) provides that the Office shall serve as the permanent Secretariat of the Council.\nf. Section 8 (Philippine Ube Industry Roadmap) provides that the Office shall publish a ten-year roadmap within one year of effectivity, to be reviewed every five years.\ng. Section 9 (Philippine Ube Industry Development Program) provides that the Department shall implement a program covering planting materials, nurseries, extension, mechanization, irrigation, post-harvest and processing facilities, branding, export assistance and digital traceability.\nh. Section 10 (Research and Development) provides that the Department, with the Department of Science and Technology, state universities and colleges and research institutions, shall prioritize research on varieties, disease resistance, propagation, climate adaptation, processing and related areas.\ni. Section 11 (Quality Standards and Certification) provides that the Department, with concerned agencies, shall set standards for planting materials, fresh and processed ube, geographic identification, traceability and export certification.\nj. Section 12 (Investment Promotion) provides that the Board of Investments, the Department of Trade and Industry and other agencies shall encourage investments in processing, cold storage, packaging, logistics and related activities.\nk. Section 13 (Ube Industry Development Council) provides that an inter-agency Council chaired by the Secretary of Agriculture, with representatives of national agencies, state universities and colleges and farmers' organizations, shall provide policy direction.\nl. Section 14 (Philippine Ube Industry Development Fund) provides that a Fund is established, sourced from annual appropriations, grants and donations, official development assistance, project income and other lawful sources.\nm. Section 15 (Incentives) provides that qualified farmers, cooperatives, processors and investors may receive technical, financial and other assistance consistent with existing laws.\nn. Section 16 (Role of Local Government Units) provides that local government units shall integrate ube development into their local plans.\no. Section 17 (Appropriations) provides that initial implementation shall be charged against the current appropriations of the Department of Agriculture, and thereafter included in the annual General Appropriations Act.\np. Section 18 (Implementing Rules and Regulations) provides that the Department shall issue implementing rules within 120 days of effectivity.",
+  "related_measures_policy": "HB No. 10502 may be considered alongside HB No. 10225, which addresses the same industry under the same short title but relies on a Philippine Ube Industry Council attached to the Department of Agriculture, as provided in its Section 12 (Creation of the Philippine Ube Industry Council), rather than a new office within the Department. No priority area of the FY 2027 Budget Priorities Framework or LEDAC Common Legislative Agenda item was identified. The review should assess whether the coordination functions in Section 4 (Creation of the Philippine Ube Industry Development Office) and Section 5 (Functions of the Philippine Ube Industry Development Office) can be performed by existing units of the Department named in Section 6 (Consolidation and Coordination of Ube Programs), whether both an Office and a Council are warranted, and how the measure fits the streamlining objectives of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary (no amount stated), charged against current appropriations of the Department of Agriculture",
+    "section": "Section 17 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary, included in the annual General Appropriations Act",
+    "section": "Section 17 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Executive Director appointed by the Secretary of Agriculture, plus technical and administrative personnel; no salary grade or staffing complement stated",
+    "section": "Section 4 (Creation of the Philippine Ube Industry Development Office)"
+   },
+   {
+    "item": "Support body",
+    "detail": "PUIDO serves as permanent Secretariat of the Ube Industry Development Council",
+    "section": "Section 7 (Secretariat to the Ube Industry Development Council)"
+   },
+   {
+    "item": "Members",
+    "detail": "Inter-agency Ube Industry Development Council chaired by the Secretary of Agriculture; no honoraria stated",
+    "section": "Section 13 (Ube Industry Development Council)"
+   },
+   {
+    "item": "Fund",
+    "detail": "Philippine Ube Industry Development Fund sourced partly from annual appropriations; no amount stated",
+    "section": "Section 14 (Philippine Ube Industry Development Fund)"
+   },
+   {
+    "item": "Program",
+    "detail": "Comprehensive development program including nurseries, mechanization, irrigation, post-harvest and processing facilities",
+    "section": "Section 9 (Philippine Ube Industry Development Program)"
+   }
+  ],
+  "reviewer_checks": [
+   "Verify the full text of Section 5 (Functions of the Philippine Ube Industry Development Office), which appears cut off after item (h).",
+   "Confirm whether the Council composition in Section 13 (Ube Industry Development Council) is complete, as the list ends at item (i) without a closing item.",
+   "Check the inconsistent naming of the standards bureau in Section 6 and Section 11 (Bureau of Agricultural and Fisheries Standards versus Bureau of Agriculture and Fisheries Standards).",
+   "Note that the Council is referenced in Section 7 before it is created in Section 13; confirm the intended ordering and the Office's reporting line to the Council.",
+   "Confirm the salary grade and staffing pattern of the Executive Director and the Office, which the bill does not state.",
+   "Clarify the relationship between the Fund in Section 14 and the appropriations in Section 17, including whether the Fund is a special account.",
+   "Confirm with the House the status of HB No. 10225 and whether the two measures may be consolidated."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same short title and subject, but it creates a Philippine Ube Industry Council attached to the Department of Agriculture as the central coordinating body instead of a dedicated office within the Department.",
+   "section": "HB-20-10225:s12",
+   "quote": "There is hereby created the Philippine Ube Industry Council, hereinafter referred to as the Council, which shall serve as the central coordinating and advisory body for the implementation of this Act.",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-20T00:08:41+00:00"
+ }
+}
