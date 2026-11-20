@@ -1,0 +1,87 @@
+{
+ "output": {
+  "target": "HB-20-9998",
+  "entity_proposed": "Wage Guarantee Fund Administration (WGFA)",
+  "proposal": "HB No. 9998 seeks to establish the Wage Guarantee Fund (WGF), a trust fund financed mainly by mandatory employer contributions, and to create the Wage Guarantee Fund Administration (WGFA) as an attached agency of the Department of Labor and Employment (DOLE) to administer it. The measure aims to ensure the swift payment of unpaid wages and separation pay to workers whose employers become insolvent, bankrupt or liquidated, without awaiting prolonged litigation.",
+  "alignment": "As a measure creating a new attached agency, the review should examine how the proposed functions of the WGFA under Section 5 (Creation of the Wage Guarantee Fund Administration (WGFA)) fit with those of DOLE and existing bodies handling workers' claims and insolvency proceedings, and whether the administration of the Fund could instead be lodged in an existing office, consistent with the intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess the fiscal exposure arising from the National Government seed funding under Section 4 (Establishment of the Wage Guarantee Fund), for which no amount or source is specified. The measure may be considered under the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on better targeting of social protection. No LEDAC Common Legislative Agenda item is identified for this measure.",
+  "legislative_history": [
+   "HB No. 9998 was filed in the 20th Congress on June 30, 2026.",
+   "Its current status is filed; later stages are not reflected in the available records."
+  ],
+  "related": [],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-10142",
+    "label": "Amends or repeals",
+    "overlap": "Section 11 (Repealing Clause) amends or modifies RA No. 10142 accordingly, and Sections 3, 6 and 7 tie the definition of insolvency, claim triggers and recovery to liquidation proceedings under that law.",
+    "section": "HB-20-9998:s11",
+    "quote": "Republic Act No. 10142 (Financial Insolvency and Rehabilitation Act of 2010) are hereby amended or modified accordingly."
+   },
+   {
+    "law": "PD-442",
+    "label": "Amends or repeals",
+    "overlap": "Section 11 (Repealing Clause) amends or modifies Article 110 of the Labor Code, while Section 7 (Substitution of Claims and Recovery of Payouts) subrogates the WGFA to workers' preference rights under that article.",
+    "section": "HB-20-9998:s11",
+    "quote": "Article 110 of Presidential Decree No. 442 (The Labor Code of the Philippines), as amended,"
+   }
+  ],
+  "salient_features": "HB No. 9998 seeks to establish the Wage Guarantee Fund and create the Wage Guarantee Fund Administration (WGFA) to administer it. Its salient features are as follows:\na. Section 2 (Declaration of Policy) provides that the State shall establish a mandatory, employer-contributed fund to guarantee the immediate settlement of unpaid wages and separation pay of workers affected by employer insolvency.\nb. Section 3 (Definition of Terms) provides that insolvency covers employers unable to pay liabilities as they fall due or whose liabilities exceed their assets, whether or not formal proceedings have been filed, and defines workers' claims, employer and Fund.\nc. Section 4 (Establishment of the Wage Guarantee Fund) provides that a trust fund shall be used exclusively for valid workers' claims, financed by a mandatory monthly employer contribution capped at 0.1 percent of each employee's monthly salary, seed funding from the National Government, and the Fund's interests, earnings and penalties, and prohibits deducting the contribution from employees' wages.\nd. Section 5 (Creation of the Wage Guarantee Fund Administration (WGFA)) provides that the WGFA shall be an attached agency of DOLE governed by a Board of Directors with representatives from DOLE, the Department of Finance (DOF), organized labor and employers' organizations.\ne. Section 6 (Conditions for Claims and Payout of Benefits) provides that, upon a court declaration of bankruptcy, a liquidation order under RA No. 10142 or a DOLE finding of insolvency and permanent closure, the WGFA shall pay verified claims within 30 days, covering up to three months of unpaid backwages and statutory separation pay up to a cap set by the WGFA Board.\nf. Section 7 (Substitution of Claims and Recovery of Payouts) provides that the WGFA shall be subrogated to the paid workers' rights and preferences as a preferred creditor in liquidation proceedings, with recoveries returned to the Fund.\ng. Section 8 (Penal Provisions) provides fines and imprisonment for employers that fail to remit contributions, imposed on responsible officers in the case of corporations, and penalizes fraudulent claims under the Revised Penal Code.\nh. Section 9 (Implementing Rules and Regulations (IRR)) provides that the Secretary of Labor and Employment, in coordination with the Secretary of Finance and labor and employer representatives, shall issue the IRR within 90 days.\ni. Section 11 (Repealing Clause) provides that Article 110 of the Labor Code and RA No. 10142 are amended or modified accordingly, and that inconsistent issuances are repealed or modified.",
+  "related_measures_policy": "HB No. 9998 may be considered alongside RA No. 10142 (Financial Insolvency and Rehabilitation Act of 2010) and Article 110 of the Labor Code (PD No. 442), both of which Section 11 (Repealing Clause) amends or modifies, and to which Section 6 (Conditions for Claims and Payout of Benefits) and Section 7 (Substitution of Claims and Recovery of Payouts) are linked. The measure may be aligned with the Human Capital Development priority of the FY 2027 Budget Priorities Framework in respect of social protection. The review should assess whether creating the WGFA as a new attached agency of DOLE is warranted in light of the Government Optimization Act (RA No. 12231), the amount, source and timing of the National Government seed funding under Section 4 (Establishment of the Wage Guarantee Fund), the personnel and operating costs of the WGFA and its Board, and the absence of an appropriations provision.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Seed funding from the National Government for the Fund; amount and source not specified.",
+    "section": "Section 4 (Establishment of the Wage Guarantee Fund)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Mandatory monthly employer contributions not exceeding 0.1 percent of each employee's monthly salary, plus the Fund's interests, earnings and penalties.",
+    "section": "Section 4 (Establishment of the Wage Guarantee Fund)"
+   },
+   {
+    "item": "New body",
+    "detail": "WGFA created as an attached agency of DOLE; organizational structure, positions and salary grades not specified.",
+    "section": "Section 5 (Creation of the Wage Guarantee Fund Administration (WGFA))"
+   },
+   {
+    "item": "Members",
+    "detail": "Board of Directors with representatives from DOLE, DOF, organized labor and employers' organizations; number of members and any compensation not specified.",
+    "section": "Section 5 (Creation of the Wage Guarantee Fund Administration (WGFA))"
+   },
+   {
+    "item": "Benefit payouts",
+    "detail": "Up to three months of unpaid backwages and statutory separation pay up to a cap set by the WGFA Board, payable within 30 days of verification.",
+    "section": "Section 6 (Conditions for Claims and Payout of Benefits)"
+   }
+  ],
+  "reviewer_checks": [
+   "The bill contains no appropriations section; confirm how the National Government seed funding and the WGFA's operating costs would be funded.",
+   "Section 5 does not set out the WGFA's powers and functions, head, organizational structure, positions or the size of the Board; confirm whether these are intended to be left to the IRR.",
+   "Section 4 leaves the contribution rate to the IRR subject only to a 0.1 percent ceiling, and Section 6 leaves the separation pay cap to the WGFA Board; verify whether these delegations are adequate.",
+   "The heading of Section 7 refers to substitution of claims while the text provides for subrogation; verify the intended wording.",
+   "Section 11 amends Article 110 of the Labor Code and RA No. 10142 only 'accordingly' without specifying the amended provisions; confirm the intended changes.",
+   "Section 8 imposes fines for non-remittance but does not state whether penalties or surcharges accrue to the Fund as contemplated in Section 4.",
+   "Confirm with the House of Representatives whether any counterpart or similar measure has been filed in the Senate or in earlier Congresses."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 11 (Repealing Clause) amends or modifies RA No. 10142 accordingly, and Sections 3, 6 and 7 tie the definition of insolvency, claim triggers and recovery to liquidation proceedings under that law.",
+   "section": "HB-20-9998:s11",
+   "quote": "Republic Act No. 10142 (Financial Insolvency and Rehabilitation Act of 2010) are hereby amended or modified accordingly.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 11 (Repealing Clause) amends or modifies Article 110 of the Labor Code, while Section 7 (Substitution of Claims and Recovery of Payouts) subrogates the WGFA to workers' preference rights under that article.",
+   "section": "HB-20-9998:s11",
+   "quote": "Article 110 of Presidential Decree No. 442 (The Labor Code of the Philippines), as amended,",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-20T00:08:47+00:00"
+ }
+}
