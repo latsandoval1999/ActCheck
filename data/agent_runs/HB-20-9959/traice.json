@@ -1,0 +1,75 @@
+{
+ "output": {
+  "target": "HB-20-9959",
+  "entity_proposed": "Philippine Artificial Intelligence Ethics Advisory Board (PAIEAB)",
+  "proposal": "HB No. 9959 seeks to establish the Philippine Artificial Intelligence Ethics Advisory Board (PAIEAB), attached to the Office of the President, as the principal advisory body of the President on ethical issues relating to artificial intelligence, and to provide for a National AI Ethics Framework to guide the ethical, responsible and human-centered development and use of AI.",
+  "alignment": "As a government organization measure, the review should examine how the proposed Board's advisory, standard-setting and policy-review functions under Section 7 (Powers and Functions) and Section 8 (National AI Ethics Framework) fit with those of existing agencies, including the departments represented on the Board under Section 5 (Composition), and whether the measure is consistent with the government's intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also consider the proposed Board alongside other pending measures that would create a separate body on artificial intelligence. No match with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 9959 was filed in the 20th Congress on June 29, 2026; its status is filed, and later stages are not reflected in the available records.",
+   "No earlier-Congress version, counterpart measure in the Senate, substitute bill or committee report was identified in the material reviewed.",
+   "HB No. 3462 (20th Congress, filed August 11, 2025, pending in the committee) proposes to create a Philippine Artificial Intelligence Commission and may be considered as an alternative proposal; only its title was reviewed."
+  ],
+  "related": [
+   {
+    "id": "HB-20-3462",
+    "relationship": "Alternative proposal",
+    "basis": "Its title proposes a separate Philippine Artificial Intelligence Commission to promote and regulate AI, addressing the same subject through a different body; Title match only; text not reviewed.",
+    "section": "meta:HB-20-3462",
+    "quote": "CREATING FOR THE PURPOSE THE PHILIPPINE ARTIFICIAL INTELLIGENCE COMMISSION"
+   }
+  ],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 9959 seeks to establish the Philippine Artificial Intelligence Ethics Advisory Board (PAIEAB) as the principal advisory body of the President on ethical issues relating to artificial intelligence. Its salient features are as follows:\na. Section 2 (Declaration of Policy) provides that the State shall promote the ethical, responsible, transparent, inclusive and human-centered development, deployment and use of AI.\nb. Section 3 (Definition of Terms) defines artificial intelligence, ethical governance and high-risk AI systems.\nc. Section 4 (Creation of the Philippine Artificial Intelligence Ethics Board) provides that the Board is created as the principal advisory body of the President on AI ethics and is attached to the Office of the President for administrative supervision and policy coordination.\nd. Section 5 (Composition) provides that the Board shall have twenty-one (21) members: seven government representatives chaired by the Executive Secretary and including the Secretaries of Information and Communications Technology, Science and Technology, Economy, Planning and Development, Justice, National Defense, and Trade and Industry; seven private sector experts appointed by the President from nominees of recognized organizations; and seven civil society, academic and professional representatives; no salary grades, compensation or honoraria are specified.\ne. Section 6 (Terms of Office) provides that non-government members serve a three-year term, renewable once.\nf. Section 7 (Powers and Functions) provides that the Board shall formulate and update a Philippine AI Ethics Framework, advise the President, Congress and government entities on AI ethics, study emerging AI technologies, recommend guidelines, conduct stakeholder consultations, guide and regularly review government entities' internal ethical AI-usage policies, and establish technical working groups and expert panels.\ng. Section 8 (National AI Ethics Framework) provides that the Board shall formulate a National AI Ethics Framework within one year from the effectivity of the Act to guide government, educational institutions, private entities and other stakeholders.\nh. Section 9 (Technical Working Groups) provides that the Board may create technical working groups on topics such as human rights, democratic governance, education, labor, healthcare, national security and emerging technologies.\ni. Section 10 (Annual Report) provides that the Board shall submit an annual report to the President and Congress on emerging issues, governance developments, recommendations and its accomplishments.\nj. Section 11 (Secretariat) provides that the Office of the President shall establish a Secretariat to provide technical, legal, administrative and research support to the Board.\nk. Section 12 (Appropriations) provides that the amount needed for initial implementation shall be charged against the current appropriations of the concerned agencies under the General Appropriations Act; no provision is made for continuing funding.",
+  "related_measures_policy": "HB No. 9959 may be considered alongside HB No. 3462, which, based on its title, proposes a Philippine Artificial Intelligence Commission to promote and regulate AI, as both measures would create a separate body on artificial intelligence. No match with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified. The review should assess whether the Board's functions under Section 7 (Powers and Functions) and Section 8 (National AI Ethics Framework), particularly the review of government entities' internal AI-usage policies, duplicate or could be performed by existing departments represented under Section 5 (Composition), consistent with the streamlining objectives of the Government Optimization Act (RA No. 12231); and whether the funding arrangement under Section 12 (Appropriations) and the Secretariat under Section 11 (Secretariat) are adequately defined.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for initial implementation, charged against current appropriations of the concerned agencies under the GAA; no amount stated",
+    "section": "Section 12 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Not provided; the bill is silent on funding after initial implementation",
+    "section": "Section 12 (Appropriations)"
+   },
+   {
+    "item": "Members",
+    "detail": "Twenty-one (21) members; no compensation, honoraria or allowances specified",
+    "section": "Section 5 (Composition)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Secretariat to be established by the Office of the President; staffing and positions not specified",
+    "section": "Section 11 (Secretariat)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Technical working groups and expert panels, as may be necessary",
+    "section": "Section 9 (Technical Working Groups)"
+   }
+  ],
+  "reviewer_checks": [
+   "The heading of Section 4 refers to the 'Philippine Artificial Intelligence Ethics Board' while the body and title use 'Philippine Artificial Intelligence Ethics Advisory Board'; the name should be made consistent.",
+   "Section 7 (Powers and Functions) refers to a 'Philippine AI Ethics Framework' while Section 8 refers to a 'National AI Ethics Framework'; confirm whether these are the same instrument.",
+   "Section 7 items (i) and (j) lack closing punctuation; check for typographical errors.",
+   "Section 12 (Appropriations) covers only initial implementation and does not identify the concerned agencies or provide for inclusion in subsequent GAAs; confirm the intended source of continuing funding.",
+   "The bill does not provide for an implementing rules and regulations clause, compensation of members, or the staffing pattern of the Secretariat; confirm whether these are intended to be addressed.",
+   "Section 6 (Terms of Office) covers only non-government members; confirm the treatment of alternates or authorized representatives of ex officio members.",
+   "Confirm with the House the status of HB No. 3462 and whether any Senate counterpart or earlier-Congress version of HB No. 9959 exists."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Its title proposes a separate Philippine Artificial Intelligence Commission to promote and regulate AI, addressing the same subject through a different body; Title match only; text not reviewed.",
+   "section": "meta:HB-20-3462",
+   "quote": "CREATING FOR THE PURPOSE THE PHILIPPINE ARTIFICIAL INTELLIGENCE COMMISSION",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-20T00:08:43+00:00"
+ }
+}
