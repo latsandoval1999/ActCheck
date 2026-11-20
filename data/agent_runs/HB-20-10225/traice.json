@@ -1,0 +1,81 @@
+{
+ "output": {
+  "target": "HB-20-10225",
+  "entity_proposed": "Philippine Ube Industry Council (the Council)",
+  "proposal": "HB No. 10225 seeks to establish a framework for the development, promotion and protection of the Philippine ube industry, declare ube a national priority crop, and create the Philippine Ube Industry Council, attached to the Department of Agriculture (DA), as the central coordinating and advisory body for its implementation.",
+  "alignment": "As a government organization and mandates measure, the review should examine how the proposed Council's functions under Section 14 (Powers and Functions) fit with those of the DA, the Department of Trade and Industry, the Department of Science and Technology, the Intellectual Property Office of the Philippines and other agencies represented in Section 13 (Composition), whether a separate inter-agency council is necessary or could be served by existing coordination mechanisms, and how the measure relates to the government's intent to streamline agencies and reduce overlapping mandates under the Government Optimization Act (RA No. 12231). No match with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 10225 was filed on July 27, 2026; its current status is filed (pending).",
+   "HB No. 10502, also filed in the 20th Congress, bears the same short title but proposes a Philippine Ube Industry Development Office within the DA instead of an inter-agency council.",
+   "No substitute bill, committee report or Senate counterpart was identified in the material reviewed."
+  ],
+  "related": [
+   {
+    "id": "HB-20-10502",
+    "relationship": "Alternative proposal",
+    "basis": "HB No. 10502 addresses the development of the ube industry under the same short title but creates an office within the DA rather than an attached inter-agency council.",
+    "section": "HB-20-10502:s4",
+    "quote": "There is hereby created within the Department of Agriculture the Philippine Ube Industry Development Office (PUIDO)."
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-8293",
+    "label": "Referenced in the bill",
+    "overlap": "Section 4 (Definition of Terms) defines geographic indication consistent with RA No. 8293, and Section 14 (Powers and Functions) tasks the Council to coordinate with IPOPHL on related intellectual property protection.",
+    "section": "HB-20-10225:s4",
+    "quote": "consistent with Republic Act No. 8293, as amended"
+   }
+  ],
+  "salient_features": "HB No. 10225 seeks to establish the Philippine Ube Industry Council and a framework for the development of the ube industry. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the Philippine Ube Industry Development Act.\nb. Section 4 (Definition of Terms) defines ube, ube products, ube powder, the Council, geographic indication, certification, traceability and national priority crop.\nc. Section 12 (Creation of the Philippine Ube Industry Council) provides for the creation of the Council as the central coordinating and advisory body for the implementation of the Act, attached to the DA for administrative purposes.\nd. Section 13 (Composition) provides that the Council shall be chaired by the Secretary of Agriculture, with the Secretary of Trade and Industry as Vice-Chairperson, and shall include the Secretary of Science and Technology, the Director General of IPOPHL, representatives of other government agencies and government financial institutions, three industry representatives and two representatives from academe or civil society, the non-government members serving three-year terms with one reappointment.\ne. Section 14 (Powers and Functions) provides that the Council shall formulate and update a National Ube Industry Development Plan, coordinate implementation among agencies, LGUs, SUCs and private stakeholders, recommend policies, facilitate standards, certification and traceability, coordinate on intellectual property protection, support market development and export promotion, maintain a registry of certified farms and processors, and report annually to the President and Congress.\nf. Section 33 (Appropriations) provides that initial implementation shall be charged against the current appropriations of the concerned agencies, and that continuing requirements shall be included in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 10225 may be considered alongside HB No. 10502, which pursues the same objective of developing the ube industry through a Philippine Ube Industry Development Office within the DA rather than an attached inter-agency council. The review should assess whether the coordination functions under Section 12 (Creation of the Philippine Ube Industry Council) and Section 14 (Powers and Functions) duplicate existing DA mandates or the proposed office in HB No. 10502, consistent with the streamlining objectives of RA No. 12231, and how the intellectual property functions relate to RA No. 8293. No match with the FY 2027 Budget Priorities Framework or the LEDAC Common Legislative Agenda was identified.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged against current appropriations of the concerned agencies; no amount stated",
+    "section": "Section 33 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary, to be included in the annual General Appropriations Act",
+    "section": "Section 33 (Appropriations)"
+   },
+   {
+    "item": "Members",
+    "detail": "Inter-agency Council with ex officio and private sector members; compensation or allowances not stated in the provisions reviewed",
+    "section": "Section 13 (Composition)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Council attached to the DA for administrative purposes; secretariat arrangements to be confirmed",
+    "section": "Section 12 (Creation of the Philippine Ube Industry Council)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section numbering moves from Section 30 (Administrative Sanctions) to Section 32; confirm whether a Section 31 is missing and verify the heading shown for Section 32.",
+   "Only Sections 1, 4, 12, 13, 14 and 33 were reviewed in full; verify the remaining provisions, particularly Section 15 (Secretariat and Technical Support), Section 25 (Access to Credit, Insurance, and Financing) and Section 26 (Incentives), for additional fiscal or revenue implications.",
+   "Confirm whether the private sector, farmer and academe members of the Council will receive honoraria or allowances.",
+   "HB No. 10502 uses the identical short title; confirm its status and whether the two measures are to be consolidated."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "HB No. 10502 addresses the development of the ube industry under the same short title but creates an office within the DA rather than an attached inter-agency council.",
+   "section": "HB-20-10502:s4",
+   "quote": "There is hereby created within the Department of Agriculture the Philippine Ube Industry Development Office (PUIDO).",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 4 (Definition of Terms) defines geographic indication consistent with RA No. 8293, and Section 14 (Powers and Functions) tasks the Council to coordinate with IPOPHL on related intellectual property protection.",
+   "section": "HB-20-10225:s4",
+   "quote": "consistent with Republic Act No. 8293, as amended",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-20T00:08:39+00:00"
+ }
+}
