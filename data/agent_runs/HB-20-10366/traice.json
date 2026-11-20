@@ -1,0 +1,123 @@
+{
+ "output": {
+  "target": "HB-20-10366",
+  "entity_proposed": "Victim Compensation Board for Online Lending Abuses (VCBOLA)",
+  "proposal": "HB No. 10366, the proposed Anti-Online Lending Abuse Act, seeks to protect consumers from unfair, deceptive and abusive online lending practices, provide penalties for violations, and establish the Victim Compensation Board for Online Lending Abuses (VCBOLA), attached to the SEC, to adjudicate compensation claims of borrowers and administer a Victim Compensation Fund.",
+  "alignment": "As a government organization measure, the review should examine whether the adjudicatory, restitution and fund-administration functions of the proposed Board under Section 11 (Powers and Functions) duplicate the existing mandates of the SEC, BSP, DTI and NPC, which are represented in the Board under Section 10 (Composition of the Board), and how the creation of a new body relates to the intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The bill's link to the Digitalization priority area of the FY 2027 Budget Priorities Framework, which focuses on interoperable digital platforms, the eGovPH system and digital infrastructure, appears indirect, as the measure concerns consumer protection in online lending; the review should assess the extent of this alignment. No LEDAC Common Legislative Agenda item is identified for the measure.",
+  "legislative_history": [
+   "HB No. 10366 was filed on July 29, 2026 by Representative Jose Manuel Tadeo \"Chel\" I. Diokno in the 20th Congress; its status is filed, and later stages are not reflected in the available record.",
+   "No substitute bill or committee report for HB No. 10366 is identified in the available record.",
+   "HB No. 10887, also filed in the 20th Congress, addresses unfair, deceptive and abusive online lending practices and may be considered alongside this measure."
+  ],
+  "related": [
+   {
+    "id": "HB-20-10887",
+    "relationship": "Alternative proposal",
+    "basis": "Same chamber and Congress and the same problem of abusive online lending, but its title centres on minimum standards for online lending and digital debt collection and enforcement rather than a compensation board; only Section 1 (Short Title) was reviewed.",
+    "section": "HB-20-10887:s1",
+    "quote": "This Act shall be known as the “Fair Online Lending Act.”"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-9474",
+    "label": "Referenced in the bill",
+    "overlap": "The lending companies law is cited in the bill and governs the regulation of lending companies that the Board's claims under Section 11 (Powers and Functions) would involve; the citing section is not in the text reviewed.",
+    "section": "law:RA-9474",
+    "quote": "AN ACT GOVERNING THE ESTABLISHMENT, OPERATION AND REGULATION OF LENDING COMPANIES"
+   },
+   {
+    "law": "RA-11765",
+    "label": "Referenced in the bill",
+    "overlap": "The financial consumer protection law is cited in the bill and concerns the same consumers of financial products whose claims the Board would adjudicate under Section 11 (Powers and Functions); the citing section is not in the text reviewed.",
+    "section": "law:RA-11765",
+    "quote": "AN ACT AFFORDING MORE PROTECTION TO CONSUMERS OF FINANCIAL PRODUCTS AND SERVICES"
+   },
+   {
+    "law": "RA-3765",
+    "label": "Referenced in the bill",
+    "overlap": "The finance charge disclosure law is cited in the bill and relates to the charges the Board may order refunded under Section 11 (Powers and Functions); the citing section is not in the text reviewed.",
+    "section": "law:RA-3765",
+    "quote": "AN ACT TO REQUIRE THE DISCLOSURE OF FINANCE CHARGES IN CONNECTION WITH EXTENSIONS OF CREDIT."
+   },
+   {
+    "law": "RA-10173",
+    "label": "Referenced in the bill",
+    "overlap": "The data privacy law is cited in the bill, and the NPC it created sits on the Board under Section 10 (Composition of the Board); the citing section is not in the text reviewed.",
+    "section": "law:RA-10173",
+    "quote": "CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION"
+   }
+  ],
+  "salient_features": "HB No. 10366 seeks to protect borrowers from abusive online lending practices and to establish the Victim Compensation Board for Online Lending Abuses (VCBOLA). Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the Anti-Online Lending Abuse Act.\nb. Section 9 (Creation of the Board) provides for the creation of the VCBOLA, attached to the SEC for administrative supervision.\nc. Section 10 (Composition of the Board) provides that the Board shall be chaired by the SEC Chairperson, with the DTI and DICT Secretaries, the NPC Commissioner and the BSP Governor (or their designated alternates), one representative of a consumer protection organization and one representative of the Integrated Bar of the Philippines as members.\nd. Section 11 (Powers and Functions) provides that the Board shall receive and adjudicate borrowers' compensation claims, determine entitlement to damages and other reliefs, order restitution of unlawfully collected amounts, administer the Victim Compensation Fund, issue subpoenas, require the assistance of government agencies, and promulgate rules of procedure.\ne. Section 23 (Appropriations) provides that the measure shall initially be implemented within the existing budgets of the SEC, BSP, DTI, DICT and NPC, with subsequent requirements to be included in these agencies' budgets in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 10366 may be considered alongside HB No. 10887, which addresses the same problem of abusive online lending through a different design centred on minimum standards and enforcement, and in relation to RA No. 9474, RA No. 11765, RA No. 3765 and RA No. 10173, which the bill cites. Its link to the Digitalization priority area of the FY 2027 Budget Priorities Framework appears indirect. The review should assess whether the adjudicatory and restitution functions of the proposed Board under Section 11 (Powers and Functions) overlap with the existing mandates of the SEC, BSP, DTI and NPC, consistent with the streamlining objectives of the Government Optimization Act (RA No. 12231), and whether the funding arrangement under Section 23 (Appropriations) adequately provides for the Board and the Victim Compensation Fund.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Within the existing budgets of the SEC, BSP, DTI, DICT and NPC for the year of enactment; no amount stated",
+    "section": "Section 23 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Amounts as may be necessary, to be included in the budgets of the same agencies in the annual General Appropriations Act",
+    "section": "Section 23 (Appropriations)"
+   },
+   {
+    "item": "Members",
+    "detail": "Seven members: five ex officio agency heads or alternates and two private sector representatives; compensation or allowances not stated in the text reviewed",
+    "section": "Section 10 (Composition of the Board)"
+   },
+   {
+    "item": "Victim Compensation Fund",
+    "detail": "To be administered by the Board; source and amount of the Fund not stated in the text reviewed",
+    "section": "Section 11 (Powers and Functions)"
+   }
+  ],
+  "reviewer_checks": [
+   "The text of Sections 2 to 8 and 12 to 22, including Section 12 (Victim Compensation Fund), Section 18 (Criminal Liability) and Section 19 (Administrative Sanctions), should be obtained and reviewed, as their provisions were not available.",
+   "Confirm the source, size and management of the Victim Compensation Fund under Section 12 (Victim Compensation Fund), since Section 23 (Appropriations) does not identify a dedicated appropriation for the Fund.",
+   "Section 23 (Appropriations) charges initial implementation to the budget of the BSP, among others; confirm whether this is appropriate given the BSP's budgetary arrangements, as its budget may not be included in the General Appropriations Act.",
+   "Confirm whether the Board will require a secretariat, plantilla positions or honoraria for its private sector members, as none is provided in the sections reviewed.",
+   "The bill title refers to the Board 'for the Purpose', while Section 9 (Creation of the Board) names it the Victim Compensation Board for Online Lending Abuses (VCBOLA); confirm the intended name.",
+   "Section 23 (Appropriations) is numbered 'Section. 23.'; check for this typographical inconsistency.",
+   "Confirm the status of HB No. 10887 with the House of Representatives and whether the two measures may be consolidated."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same chamber and Congress and the same problem of abusive online lending, but its title centres on minimum standards for online lending and digital debt collection and enforcement rather than a compensation board; only Section 1 (Short Title) was reviewed.",
+   "section": "HB-20-10887:s1",
+   "quote": "This Act shall be known as the “Fair Online Lending Act.”",
+   "check": "verified"
+  },
+  {
+   "claim": "The lending companies law is cited in the bill and governs the regulation of lending companies that the Board's claims under Section 11 (Powers and Functions) would involve; the citing section is not in the text reviewed.",
+   "section": "law:RA-9474",
+   "quote": "AN ACT GOVERNING THE ESTABLISHMENT, OPERATION AND REGULATION OF LENDING COMPANIES",
+   "check": "verified"
+  },
+  {
+   "claim": "The financial consumer protection law is cited in the bill and concerns the same consumers of financial products whose claims the Board would adjudicate under Section 11 (Powers and Functions); the citing section is not in the text reviewed.",
+   "section": "law:RA-11765",
+   "quote": "AN ACT AFFORDING MORE PROTECTION TO CONSUMERS OF FINANCIAL PRODUCTS AND SERVICES",
+   "check": "verified"
+  },
+  {
+   "claim": "The finance charge disclosure law is cited in the bill and relates to the charges the Board may order refunded under Section 11 (Powers and Functions); the citing section is not in the text reviewed.",
+   "section": "law:RA-3765",
+   "quote": "AN ACT TO REQUIRE THE DISCLOSURE OF FINANCE CHARGES IN CONNECTION WITH EXTENSIONS OF CREDIT.",
+   "check": "verified"
+  },
+  {
+   "claim": "The data privacy law is cited in the bill, and the NPC it created sits on the Board under Section 10 (Composition of the Board); the citing section is not in the text reviewed.",
+   "section": "law:RA-10173",
+   "quote": "CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-20T00:08:47+00:00"
+ }
+}
