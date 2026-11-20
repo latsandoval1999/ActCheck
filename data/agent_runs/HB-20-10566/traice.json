@@ -1,0 +1,186 @@
+{
+ "output": {
+  "target": "HB-20-10566",
+  "entity_proposed": "National Future Skills Council (NFSC)",
+  "proposal": "HB No. 10566, the proposed \"Jobs Next Act\", seeks to expand competency-based learning and skills training to improve workforce employability by establishing a National Future Skills Council (NFSC) as a policy and advisory body and creating a Future Skills Bureau under the Department of Trade and Industry (DTI) to lead the implementation of a Jobs Next Program.",
+  "alignment": "As a government organization measure, the review should examine how the NFSC and the proposed Future Skills Bureau under the DTI fit with existing bodies and programs on education, training, labor market information and skills development, including those of DOLE, TESDA, DepEd, CHED, DOST and DICT, which the bill makes members of the NFSC, and whether the creation of a new council and bureau is consistent with the intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified for the measure; the review may confirm whether its workforce and skills objectives relate to any current priority.",
+  "legislative_history": [
+   "HB No. 10566 was filed on August 4, 2026 by Representative Patrick Michael \"PM\" D. Vargas; its status is filed, and later stages are not reflected in the available record.",
+   "Measures bearing the same title were filed in the 18th Congress (HB No. 9782, HB No. 9807 and HB No. 9863 in the House; SB No. 2271 in the Senate) and in the 19th Congress (HB No. 945, HB No. 1445 and HB No. 8230), all recorded as pending in the committee; their texts were not reviewed.",
+   "No counterpart Senate measure, substitute bill or committee report in the 20th Congress was identified in the material reviewed."
+  ],
+  "related": [
+   {
+    "id": "HB-19-945",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-945",
+    "quote": "ESTABLISHING FOR THIS PURPOSE A NATIONAL FUTURE SKILLS COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-1445",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-1445",
+    "quote": "ESTABLISHING FOR THIS PURPOSE A NATIONAL FUTURE SKILLS COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-8230",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-8230",
+    "quote": "ESTABLISHING FOR THIS PURPOSE A NATIONAL FUTURE SKILLS COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-18-9782",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-9782",
+    "quote": "ESTABLISHING FOR THIS PURPOSE A NATIONAL FUTURE SKILLS COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-18-9807",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-9807",
+    "quote": "ESTABLISHING FOR THIS PURPOSE A NATIONAL FUTURE SKILLS COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-18-9863",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-9863",
+    "quote": "ESTABLISHING FOR THIS PURPOSE A NATIONAL FUTURE SKILLS COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "SB-18-2271",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. The Senate measure in the 18th Congress carries the same short title.",
+    "section": "meta:SB-18-2271",
+    "quote": "JOBS NEXT ACT: AN ACT JUMPSTARTING OPPORTUNITIES FOR BUSINESSES AND ENSURING EMPLOYABILITY OF THE PHILIPPINE WORKFORCE"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-11293",
+    "label": "Referenced in the bill",
+    "overlap": "RA No. 11293 (Philippine Innovation Act) is cited once in the bill, in a section not among the provisions reviewed; its innovation and MSME competitiveness policies may bear on the Philippine Future Skills Roadmap under Section 7 (Creation of a Future Skills Bureau).",
+    "section": "law:RA-11293",
+    "quote": "Adopting Innovation as Vital Component of the Countrys Development Policies to Drive Inclusive Development"
+   },
+   {
+    "law": "RA-10771",
+    "label": "Referenced in the bill",
+    "overlap": "RA No. 10771 (Philippine Green Jobs Act) is cited once in the bill, in a section not among the provisions reviewed.",
+    "section": "law:RA-10771",
+    "quote": "AN ACT PROMOTING THE CREATION OF GREEN JOBS, GRANTING INCENTIVES AND APPROPRIATING FUNDS THEREFOR"
+   }
+  ],
+  "salient_features": "HB No. 10566 seeks to establish the National Future Skills Council (NFSC) and a Future Skills Bureau under the DTI to drive competency-based learning and skills training for future and emerging jobs. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the \"Jobs Next Act\".\nb. Section 5 (Establishment of the National Future Skills Council) provides for the creation of the NFSC to carry out the policies of the Act and scale up action in education, training, and research and development, chaired by the DTI Secretary, with a private sector Co-Chairperson rotated every three years, the heads of DOLE, DOST, CHED, TESDA, DepEd and DICT, and eight private sector representatives, five of them nominated by named business and education organizations, appointed by the DTI for three-year terms.\nc. Section 7 (Creation of a Future Skills Bureau) provides for the creation of a Future Skills Bureau under the DTI as the lead implementing agency of the Jobs Next Program, mandated to implement and monitor compliance with the Act, develop the Philippine Future Skills Roadmap anchored on the DTI's Inclusive Innovation Industrial Strategy, and drive the conduct of a Labor Market Intelligence Survey and Analysis.\nd. Section 8 (Composition of the Bureau) provides that the Bureau shall be headed by a Director appointed by the President upon the recommendation of the DTI Secretary and nomination of the NFSC, assisted by three Assistant Directors for policy and administration, enforcement, and operations, with the organizational structure and staffing pattern to be determined by the DTI Secretary subject to DBM approval; no salary grades are specified.\ne. Section 23 (Appropriations) provides for an initial appropriation for the first year of implementation, to be included in the DTI budget, with funding for continued implementation to be included in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 10566 may be considered alongside measures bearing the same title filed in the 18th Congress (HB Nos. 9782, 9807 and 9863, and SB No. 2271) and the 19th Congress (HB Nos. 945, 1445 and 8230), whose texts should be compared to confirm whether the present bill is a refiling. No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified for the measure. The review should assess whether the functions of the NFSC under Section 5 (Establishment of the National Future Skills Council) and of the Future Skills Bureau under Section 7 (Creation of a Future Skills Bureau), particularly the Labor Market Intelligence Survey and Analysis and the skills training programs, duplicate the existing mandates of DOLE, TESDA, CHED, DepEd, DOST and DICT, how they relate to RA No. 11293 and RA No. 10771, which the bill cites, and whether creating a new council and bureau is consistent with the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "PHP 27,000,000,000.00 for the first year of implementation, to be included in the DTI budget",
+    "section": "Section 23 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Amount necessary for continued implementation to be included in the annual General Appropriations Act",
+    "section": "Section 23 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "One Director heading the Future Skills Bureau; salary grade not specified",
+    "section": "Section 8 (Composition of the Bureau)"
+   },
+   {
+    "item": "Position",
+    "detail": "Three Assistant Directors for policy and administration, enforcement, and operations; salary grades not specified",
+    "section": "Section 8 (Composition of the Bureau)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Future Skills Bureau under the DTI; organizational structure and staffing pattern to be determined by the DTI Secretary subject to DBM approval",
+    "section": "Section 8 (Composition of the Bureau)"
+   },
+   {
+    "item": "Members",
+    "detail": "NFSC of seven government members, a private sector Co-Chairperson and eight private sector representatives; no provision on honoraria or per diems in the provisions reviewed",
+    "section": "Section 5 (Establishment of the National Future Skills Council)"
+   }
+  ],
+  "reviewer_checks": [
+   "Obtain the full text of the bill: Sections 2 to 4, 6, 9 to 22 and 24 to 28 were not available for review, and the text of Section 7 (Creation of a Future Skills Bureau) appears cut off after its first mandates.",
+   "Confirm which sections cite RA No. 11293 and RA No. 10771 and the purpose of those references.",
+   "Section 8 (Composition of the Bureau) provides that the Director is appointed upon the recommendation of the DTI Secretary and also nominated by the NFSC; clarify the appointment process.",
+   "Section 5 (Establishment of the National Future Skills Council) refers to the heads of CHED and TESDA as Secretaries and names the Department of Information Communications Technology; verify the correct titles and agency names.",
+   "Section 5 (Establishment of the National Future Skills Council) provides for eight private sector representatives but also a private sector Co-Chairperson; clarify whether the Co-Chairperson is counted among the eight.",
+   "Verify the basis of the PHP 27 billion initial appropriation in Section 23 (Appropriations) and its allocation between the Bureau and the Jobs Next Program.",
+   "Confirm with the House and Senate whether a counterpart measure has been filed in the 20th Congress and the status of the earlier measures bearing the same title.",
+   "Salary grades of the Director and Assistant Directors are not specified in the provisions reviewed; confirm whether other sections provide them."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-945",
+   "quote": "ESTABLISHING FOR THIS PURPOSE A NATIONAL FUTURE SKILLS COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-1445",
+   "quote": "ESTABLISHING FOR THIS PURPOSE A NATIONAL FUTURE SKILLS COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-8230",
+   "quote": "ESTABLISHING FOR THIS PURPOSE A NATIONAL FUTURE SKILLS COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-9782",
+   "quote": "ESTABLISHING FOR THIS PURPOSE A NATIONAL FUTURE SKILLS COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-9807",
+   "quote": "ESTABLISHING FOR THIS PURPOSE A NATIONAL FUTURE SKILLS COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-9863",
+   "quote": "ESTABLISHING FOR THIS PURPOSE A NATIONAL FUTURE SKILLS COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. The Senate measure in the 18th Congress carries the same short title.",
+   "section": "meta:SB-18-2271",
+   "quote": "JOBS NEXT ACT: AN ACT JUMPSTARTING OPPORTUNITIES FOR BUSINESSES AND ENSURING EMPLOYABILITY OF THE PHILIPPINE WORKFORCE",
+   "check": "verified"
+  },
+  {
+   "claim": "RA No. 11293 (Philippine Innovation Act) is cited once in the bill, in a section not among the provisions reviewed; its innovation and MSME competitiveness policies may bear on the Philippine Future Skills Roadmap under Section 7 (Creation of a Future Skills Bureau).",
+   "section": "law:RA-11293",
+   "quote": "Adopting Innovation as Vital Component of the Countrys Development Policies to Drive Inclusive Development",
+   "check": "verified"
+  },
+  {
+   "claim": "RA No. 10771 (Philippine Green Jobs Act) is cited once in the bill, in a section not among the provisions reviewed.",
+   "section": "law:RA-10771",
+   "quote": "AN ACT PROMOTING THE CREATION OF GREEN JOBS, GRANTING INCENTIVES AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-20T00:10:00+00:00"
+ }
+}
