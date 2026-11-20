@@ -1,0 +1,105 @@
+{
+ "output": {
+  "target": "HB-20-10169",
+  "entity_proposed": "Philippine National Metrology Institute (PNMI)",
+  "proposal": "HB No. 10169 seeks to transform the National Metrology Division of the DOST-Industrial Technology Development Institute (DOST-ITDI) into the Philippine National Metrology Institute (PNMI), attached to the DOST, to establish, maintain and disseminate national measurement standards and strengthen the National Measurement System.",
+  "alignment": "As a government organization measure, the review should examine whether converting an existing division of the DOST-ITDI into a separate attached institute with its own Governing Board, Executive Director and three Deputy Executive Directors is warranted, how the PNMI's functions under Section 5 (Powers and Functions) fit with those of existing agencies, and how the measure relates to the streamlining and reorganization authority under the Government Optimization Act (RA No. 12231), which the bill itself invokes in Section 14 (Non-Duplication, Coordination, and Functional Alignment) and Section 25 (Transitory Provisions). No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item has been identified for this measure.",
+  "legislative_history": [
+   "HB No. 10169 was filed on July 22, 2026 by Representative Eduardo \"Bro. Eddie\" C. Villanueva in the 20th Congress; its status is filed (pending), and later stages are not reflected in the available records.",
+   "HB No. 2802 (filed July 31, 2025) and HB No. 3593 (filed August 12, 2025), both in the 20th Congress and pending in committee, seek to establish a National Measurement Institute of the Philippines; their texts have not been reviewed.",
+   "No substitute bill, committee report or counterpart measure in the Senate has been identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-2802",
+    "relationship": "Alternative proposal",
+    "basis": "Its title proposes a national measurement institute addressing the same subject. Title match only; text not reviewed.",
+    "section": "meta:HB-20-2802",
+    "quote": "AN ACT ESTABLISHING THE NATIONAL MEASUREMENT INSTITUTE OF THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-3593",
+    "relationship": "Alternative proposal",
+    "basis": "Its title proposes a national measurement institute addressing the same subject. Title match only; text not reviewed.",
+    "section": "meta:HB-20-3593",
+    "quote": "AN ACT ESTABLISHING THE NATIONAL MEASUREMENT INSTITUTE OF THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-12231",
+    "label": "Referenced in the bill",
+    "overlap": "Section 14 (Non-Duplication, Coordination, and Functional Alignment) and Section 25 (Transitory Provisions) provide that transfers and integration of functions, units and resources for the PNMI shall be consistent with RA No. 12231.",
+    "section": "HB-20-10169:s14",
+    "quote": "Consistent with Republic Act No. 12231, or the Government Optimization Act, functions, programs, or organizational units may be transferred, integrated, or otherwise optimized"
+   }
+  ],
+  "salient_features": "HB No. 10169 seeks to establish the Philippine National Metrology Institute (PNMI) by transforming the National Metrology Division of the DOST-ITDI. Its salient features are as follows:\na. Section 3 (Creation of the Philippine National Metrology Institute) provides that the National Metrology Division of the DOST-ITDI is transformed into the PNMI, attached to the DOST for policy coordination and administrative supervision, with the Division's assets, facilities, equipment, records and resources transferred to it.\nb. Section 5 (Powers and Functions) provides that the PNMI shall establish and disseminate national measurement standards traceable to international references, provide calibration and measurement services, conduct metrology research and development, participate in international comparisons and mutual recognition arrangements, provide technical support and training, collect fees and charges, and formulate policies and procedures for the National Measurement System.\nc. Section 7 (Powers and Functions of the Governing Board) provides that a Governing Board shall formulate metrology policies, approve the PNMI's strategic plans including the Capacity Enhancement Plan, review and approve its annual and multi-year budget proposals and major investments, and oversee governance and accountability mechanisms.\nd. Section 8 (Executive Director) provides that the PNMI shall be headed by an Executive Director appointed by the President upon the recommendation of the DOST Secretary, with benefits and emoluments equivalent to the rank of Executive Director V.\ne. Section 9 (Deputy Executive Directors) provides for three Deputy Executive Directors for Scientific and Technical Services; Programs, Capacity Development, and Regional Operations; and Administration, Finance, and Institutional Support.\nf. Section 14 (Non-Duplication, Coordination, and Functional Alignment) provides that the Act shall not diminish or duplicate powers of existing agencies, that the PNMI shall coordinate through interagency arrangements, and that functions or units may be transferred or optimized consistent with RA No. 12231.\ng. Section 19 (Appropriations) provides that initial implementation shall be charged against the current year appropriations of the DOST, including available appropriations of the National Metrology Division of the DOST-ITDI, and thereafter included in the annual General Appropriations Act.\nh. Section 25 (Transitory Provisions) provides that within three years from effectivity the functions, assets, personnel and resources of the National Metrology Division, and other units as may be necessary, shall be transferred or integrated into the PNMI, with security of tenure and vested rights of affected personnel protected and existing contracts honored.",
+  "related_measures_policy": "HB No. 10169 may be considered alongside HB No. 2802 and HB No. 3593, which, based on their titles, also seek to establish a national measurement institute; their texts should be compared to determine differences in design, attachment and organizational structure. No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item has been identified. The review should assess whether a separate institute is needed in place of the existing National Metrology Division of the DOST-ITDI, the cost implications of the Governing Board, the Executive Director and three Deputy Executive Director positions under Section 8 (Executive Director) and Section 9 (Deputy Executive Directors), and the consistency of Section 14 (Non-Duplication, Coordination, and Functional Alignment) and Section 25 (Transitory Provisions) with the streamlining objectives of RA No. 12231.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary (no amount stated), charged against current year appropriations of the DOST, including available appropriations of the National Metrology Division of the DOST-ITDI",
+    "section": "Section 19 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary, to be included in the annual General Appropriations Act",
+    "section": "Section 19 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Executive Director with rank equivalent to Executive Director V; salary grade not stated",
+    "section": "Section 8 (Executive Director)"
+   },
+   {
+    "item": "Position",
+    "detail": "Three (3) Deputy Executive Directors; rank and salary grade not stated",
+    "section": "Section 9 (Deputy Executive Directors)"
+   },
+   {
+    "item": "Members",
+    "detail": "Governing Board; composition and any per diems to be verified in Section 6 (Governing Board)",
+    "section": "Section 7 (Powers and Functions of the Governing Board)"
+   },
+   {
+    "item": "Personnel and assets transfer",
+    "detail": "Functions, assets, personnel and resources of the National Metrology Division transferred within three (3) years, with tenure, salaries and benefits protected",
+    "section": "Section 25 (Transitory Provisions)"
+   }
+  ],
+  "reviewer_checks": [
+   "Verify the text of Sections 2, 4, 6, 10 to 13, 15 to 18, 20 to 24 and 26 to 29, which were not available for this review, particularly Section 6 (Governing Board) on composition and compensation, Section 10 (Organizational Structure), Section 11 (Main Office and Regional Metrology Laboratories), Section 12 (National Metrology Training Center) and Section 20 (Fees and Charges).",
+   "Confirm the salary grade corresponding to the Executive Director V rank and the rank of the Deputy Executive Directors, which are not stated in the provisions reviewed.",
+   "Compare the texts of HB No. 2802 and HB No. 3593 with this bill and confirm their current status with the House of Representatives.",
+   "Confirm whether earlier versions of this measure were filed in past Congresses and whether a Senate counterpart exists.",
+   "Check consistency between Section 3 (Creation of the Philippine National Metrology Institute), which transfers the Division's assets upon transformation, and Section 25 (Transitory Provisions), which allows up to three years for the transfer."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Its title proposes a national measurement institute addressing the same subject. Title match only; text not reviewed.",
+   "section": "meta:HB-20-2802",
+   "quote": "AN ACT ESTABLISHING THE NATIONAL MEASUREMENT INSTITUTE OF THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title proposes a national measurement institute addressing the same subject. Title match only; text not reviewed.",
+   "section": "meta:HB-20-3593",
+   "quote": "AN ACT ESTABLISHING THE NATIONAL MEASUREMENT INSTITUTE OF THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 14 (Non-Duplication, Coordination, and Functional Alignment) and Section 25 (Transitory Provisions) provide that transfers and integration of functions, units and resources for the PNMI shall be consistent with RA No. 12231.",
+   "section": "HB-20-10169:s14",
+   "quote": "Consistent with Republic Act No. 12231, or the Government Optimization Act, functions, programs, or organizational units may be transferred, integrated, or otherwise optimized",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-20T00:08:44+00:00"
+ }
+}
