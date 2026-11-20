@@ -1,0 +1,806 @@
+                            Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES                             April 29, 2026
+                                  Quezon City                                     9:00 am
+
+                              TWENTIETH CONGRESS
+                                First Regular Session
+
+
+                            House Bill No.    8985
+                                           ____________
+
+
+                   Introduced by CIBAC Party-List Representative
+                    EDUARDO “BRO. EDDIE” C. VILLANUEVA
+
+
+                              EXPLANATORY NOTE
+
+    The Citizen Access and Disclosure of Expenditures for National Accountability
+(CADENA) Act seeks to institutionalize a modern, tamper-resistant, and publicly
+accessible digital system for the disclosure of all national government budget
+documents and fiscal transactions.
+
+      For years, the fight against corruption has been undermined by fragmented
+disclosure practices, opaque procurement systems, inconsistent data formats, and
+delayed publication of crucial budget information. Numerous scandals involving
+anomalous fund releases, questionable procurement awards, and undisclosed project
+modifications have revealed how gaps in transparency allow irregularities to flourish.
+These scandals have eroded public trust and demonstrated the urgent need for
+structural reform, not just case-by-case investigation.
+
+      This measure addresses that need by establishing CADENA, a unified digital
+budget portal where all national government departments, agencies, and government-
+owned and controlled corporations are mandated to record and publish their budget
+preparation documents, fund releases, procurement records, audit findings, and other
+fiscal data in structured, machine-readable, verifiable, and tamper-resistant formats.
+The system is anchored on data integrity, security, interoperability, and traceability,
+ensuring the public can follow every peso from authorization to disbursement and final
+use.
+
+      The Act creates a multi-stakeholder National Budget Transparency and
+Accountability Council (NBTAC) composed of key government oversight bodies and
+citizen-sector representatives to govern standards, enforce compliance, and ensure
+independent monitoring. A phased implementation timeline ensures readiness while
+preventing indefinite delays. Administrative and criminal penalties are included to deter
+non-disclosure, falsification, concealment, or destruction of mandated records.
+
+     By enabling real-time public access to linked budget-cycle datasets, CADENA
+strengthens oversight by Congress, COA, civil society, the media, and the general
+public. It helps close systemic loopholes exploited in past corruption cases and shifts
+
+                                           1
+transparency from a discretionary promise into a mandatory, enforceable, and
+technologically safeguarded public right.
+
+    In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+                   EDUARDO “BRO. EDDIE” C. VILLANUEVA
+
+
+
+
+                                         2
+                                 Republic of the Philippines
+                               HOUSE OF REPRESENTATIVES
+                                       Quezon City
+
+                                   TWENTIETH CONGRESS
+                                     First Regular Session
+
+
+                                                   8985
+                                   HOUSE BILL NO. ______
+
+
+                        Introduced by CIBAC Party-List Representative
+                         EDUARDO “BRO. EDDIE” C. VILLANUEVA
+
+
+                                  AN ACT
+     MANDATING THE FULL DISCLOSURE OF GOVERNMENT TRANSACTIONS
+     THROUGH THE ESTABLISHMENT OF A DIGITAL BUDGET PORTAL TO
+     ENHANCE TRANSPARENCY, ACCOUNTABILITY, AND PUBLIC PARTICIPATION
+     IN THE PHILIPPINE BUDGET PROCESS
+
+         Be it enacted by the Senate and House of Representatives of the Philippines in
+     Congress assembled:
+
+ 1        Section 1. Short Title. - This Act shall be known as the "CADENA Act."
+ 2
+ 3         SEC. 2. Declaration of Policy. - It is the policy of the State to uphold
+ 4   transparency, accountability, and good governance in the management and
+ 5   disbursement of public funds. The State shall safeguard honesty and integrity in public
+ 6   service, adopt effective measures against graft and corruption, and institutionalize
+ 7   public disclosure through open, verifiable, and citizen-accessible digital systems. To
+ 8   this end, the government shall establish a digital platform that provides timely,
+ 9   accurate, tamper-resistant, interoperable, and traceable publication of government
+10   budget transactions. The system shall guarantee that all government appropriations,
+11   disbursements, procurements, and expenditures are disclosed and made publicly
+12   accessible to citizens and oversight institutions.
+13
+14        SEC. 3. Definition of terms. - As used in this Act:
+15
+16        (a) Budget Process refers to the entire cycle of planning, legislation, execution,
+17            and accountability through which public funds are proposed, authorized,
+18            released, disbursed, and reported;
+19        (b) Citizen Access and Disclosure of Expenditures for National Accountability
+20            (CADENA) refers to the digital budget portal established under this Act to
+21            serve as the official and publicly accessible portal for all public budget data;
+22        (c) Cryptographic refers to the use of mathematical methods or algorithms to
+23            secure and verify digital data or transactions, ensuring their integrity, and
+24            authenticity;
+
+
+                                                3
+ 1   (d) Data Embassy refers to a secure server or storage facility located outside the
+ 2       Philippines but placed under Philippine ownership, jurisdiction, and control,
+ 3       for data backup and continuity of critical fiscal systems;
+ 4   (e) Data Integrity refers to the accuracy, consistency, and reliability of data
+ 5       throughout its lifecycle, ensuring that public fiscal information has not been
+ 6       altered or tampered with after its creation;
+ 7   (f) Data Minimization refers to the principle that only the data and information
+ 8       necessary, relevant, and proportionate to the purpose of disclosure or
+ 9       processing shall be collected, recorded, and published;
+10   (g) Data Sovereignty refers to the principle that all public budget data under this
+11       Act shall remain the property of the Filipino people, held in trust by the State,
+12       and governed by Philippine laws on data protection, privacy, and national
+13       security;
+14   (h) Digital Budget Portal refers to a digital platform that records, organizes, and
+15       publishes government transactions and documents in an open-source,
+16       interoperable, tamper-resistant, and structured digital format;
+17   (i) Digital Signature refers to an electronic method of authentication using
+18       encryption or cryptographic algorithms that validates the identity of the sender
+19       or author of a digital record and ensures non-repudiation of published
+20       transactions;
+21   (j) Disclosure refers to the process of recording, certifying, and publishing of
+22       public budget data under this Act in a manner that ensures accuracy,
+23       authenticity, time-stamping, and public accessibility in structured digital
+24       formats, for the purpose of promoting transparency, accountability, and
+25       citizen participation in governance;
+26   (k) Distributed Ledger Technology refers to a shared database architecture that
+27       records transactions across multiple nodes or locations to ensure verifiability
+28       and resistance to tampering;
+29   (l) Interoperability refers to the capability of different systems, platforms, or
+30       technologies to exchange, interpret, and use information in a coordinated and
+31       secure manner, consistent with established standards;
+32   (m) Mirror Site refers to an accredited independent copy or parallel instance of
+33       CADENA, maintained by non-government organizations, media institutions,
+34       or universities to provide redundancy, tamper-resistant, and continuous
+35       public access to official data;
+36   (n) Open Application Programming Interface (API) refers to a publicly
+37       documented software interface that allows authorized users, systems, or
+38       developers to access, retrieve, or submit data from the CADENA under
+39       defined security, privacy, and access controls;
+40   (o) Open-source refers to software or technology whose source code is publicly
+41       accessible, allowing anyone to inspect, use, modify, and distribute it;
+42   (p) Publicly Accessible refers to the state or condition in which data, records, or
+43       documents are made available to the general public through an online
+44       platform without the need for prior authorization, ensuring that any individual
+45       may freely view, search, download, verify, and analyze such information in a
+46       structured digital format;
+47   (q) Public Budget Data refers to all information, documents, datasets, and
+48       transaction records generated or required to be disclosed under Section 5 of
+49       this Act, covering all phases of the national budget cycle from preparation
+50       and legislation to execution and accountability;
+
+
+                                            4
+ 1        (r) Record and Publish refers to the to the process of uploading or encoding,
+ 2            certifying, and making public budget data available through the official
+ 3            disclosure platform prescribed under this Act, in accordance with the
+ 4            timeframes, formats, and authentication standards provided in the
+ 5            Implementing Rules and Regulations (IRR);
+ 6        (s) Redundancy refers to the establishment of multiple, independent systems or
+ 7            data copies to ensure data preservation, reliability, and continuity of public
+ 8            access in case of system failure or disruption;
+ 9        (t) Responsible Agency and Accountable Officer refers to the government entity
+10            and designated official identified as responsible for the certification, recording,
+11            and publication of specific categories of public budget data;
+12        (u) Structured Digital Format refers to a machine-readable data format that
+13            complies with open data standards, such as CV, JSON, or XML and allows
+14            automated processing, analysis, and interoperability among information
+15            systems;
+16        (v) Tamper-resistant refers to the property of a record or system that makes any
+17            unauthorized alteration, deletion, or manipulation of recorded data extremely
+18            difficult by way of technological and operational safeguards, including but not
+19            limited to cryptographic protections, secure key management, hardware
+20            security modules, redundancy and access controls, such that any attempt at
+21            tampering would be prohibitively costly, detectable, and would leave
+22            measurable forensic evidence; and
+23        (w) Unified Accounts Code Structure (UACS) refers to the government-wide
+24            coding framework prescribed by the Department of Budget and Management
+25            (DBM), in coordination with the Department of Finance (DOF) and the
+26            Commission on Audit (COA), that provides a unified and consistent
+27            classification system for budgeting, accounting, and auditing of government
+28            transactions. It serves as the standard reference for identifying the source,
+29            purpose, and use of public funds across all phases of the national budget
+30            cycle.
+31
+32        SEC. 4. Coverage. - This Act shall apply to all National Government departments,
+33   bureaus, offices, agencies, and other instrumentalities, including government-owned
+34   or controlled corporations, and their subsidiaries.
+35
+36         The Act shall likewise apply to all projects and programs funded through public-
+37   private partnerships (PPPs) or foreign-assisted programs insofar as they utilize,
+38   disburse, or account for public funds through national government agencies or
+39   mechanisms.
+40
+41       Local government units (LUs) are not covered by this Act but are encouraged to
+42   adopt similar mechanisms consistent with the principles and standards established
+43   under this Act, to strengthen fiscal transparency, participatory governance, and public
+44   accountability at the local level.
+45
+46          SEC. 5. Disclosure of Public Budget Data. - All National Government entities
+47   are hereby mandated to record and publish to CADENA the data and information
+48   found in every document relating to the national government budget process to
+49   facilitate public scrutiny and ensure transparency in budget planning and preparation,
+50   budget legislation and authorization, budget execution and fund management,
+
+
+                                                 5
+1   procurement process and contract management, and revenue collection and
+2   generation. For this purpose, the data from the following documents and such other
+3   documents as may be determined by the National Budget Transparency and
+4   Accountability Council (NBTAC) shall be disclosed and published in accordance with
+5   this Act:
+6
+                  Type of Document                         Responsible Agency
+     (a) Budget Preparation Documents
+                                                     Department of Budget            and
+           1. Budget Call
+                                                     Management (DBM)
+           2. All Versions of Budget Preparation
+                                                     Concerned      line    agencies,
+           Forms submitted by agencies through
+                                                     consolidated by DBM
+           the OSBP Portal
+           3. National Expenditure Program (NEP)     DBM
+           4. Budget of Expenditures and Sources
+                                                     DBM
+           of Financing (BESF)
+           5. President's Budget Message             DBM / Office of the President
+     (b) Budget Legislation Documents
+                                                       House of Representatives
+             1. General Appropriations Bill (GAB)
+                                                       (HOR) and Senate of the
+             versions
+                                                       Philippines (Senate)
+             2. Committee Reports                      HOR and Senate
+             3. Individual, Committee, and Bicameral
+                                                       HOR and Senate
+             Amendments
+             4. Bicameral Report                       HOR and Senate
+             5. President's Veto Message               DBM / Office of the President
+             6. General Appropriations Act (GAA)       DBM
+     (c) Budget Execution and Fund Release Documents
+              1. Agency-level      Budget    Execution
+                                                       Concerned agencies
+                 Documents
+             2. National Budget Circular (NBC) with
+                                                       DBM
+             Agency Budget Matrix (ABM)
+             3. Allotment Release Orders (SAROs)       DBM
+             4. Notices of Cash Allocation (NCAs)      DBM
+             5. Other Fund Release Documents
+                                                       DBM / Bureau of Treasury (BTr)
+             (including CDCs, MYCAs, and others)
+             6. Fund Release Receipts                  Concerned agencies
+             7. Registry of Allotments, Obligations,
+                                                       Concerned agencies
+             and Disbursements (RAOD)
+             8. Disbursement Vouchers                  Concerned agencies
+                                                       Concerned agencies /
+             9. Fund Utilization Reports
+                                                       DBM
+             10. All Civil Service Commission (CSC) -
+             DBM - Commission on Audit (COA) DBM / COA / CSC
+             Circulars
+     (d) Infrastructure and Procurement-Related Documents
+             1. Program of Works                       Procuring agencies
+
+                                             6
+           2. Bill of Quantities                       Procuring agencies
+           3. Detailed Unit Price Analysis             Procuring agencies
+           4. Bid Announcements and Invitations to
+                                                       Procuring agencies
+           Bid
+           5. Request for Expressions of Interest      Procuring agencies
+           6. Technical and Financial Evaluation       Procuring agencies
+           7. Records of Competing Bids                Procuring agencies
+            8. Eligibility & Ownership Disclosures /
+                                                       Procuring agencies
+            Certifications of Good Standing
+           9. Notices of Award and Notices to
+                                                       Procuring agencies
+           Proceed
+           10. Contracts and Purchase Orders           Procuring agencies
+           11. Performance/Warranty Security           Procuring agencies
+           12. Advanced Payment/Mobilization Fee
+                                                       Procuring agencies
+           Receipt
+           13. Milestone Billings and Progress
+                                                       Procuring agencies
+           Billings
+           14. Inspection and Acceptance Reports       Procuring agencies
+           15. Delivery Receipts                       Procuring agencies
+           16. Disbursement Vouchers, Progress
+                                                       Procuring agencies
+           Billings, and Completion Certificates
+           17. Other related documents pursuant to
+           Republic Act No. 12009 (New                 As prescribed in the IRR
+           Government Procurement Act)
+     (e) Budget Accountability Documents
+           1. Agency          Performance     Review  DBM / Concerned
+                Reports and BFARS                     agencies
+                                                      Concerned agencies /
+           2. Agency Financial Statements
+                                                      COA
+           3. COA Annual Audit Reports                COA
+           4. Audit Observation Memorandums           COA
+           5. Agency Action Plan and Status of Concerned agencies /
+           Implementation (AAPSI)                     COA
+           6.Statement         of     Appropriations,
+           Allotments,         Obligations,      and Concerned agencies
+           Disbursements and Balances (SAAODB)
+           7. All Civil Service Commission (CSC) – Concerned Agency
+           DBM – COA Circulars                        CSC/DBM/COA
+           8. Records of oversight hearings,
+                                                      Congress / COA /
+           performance audits, and corrective
+                                                      Concerned agencies
+           action reports
+1
+2         The NBTAC may determine additional documents for which other public budget
+3   data should be disclosed under this Act, without prejudice to other disclosures
+4   necessary to promote transparency, accountability, and citizen participation in the
+5   budget process.
+6
+
+
+                                             7
+ 1          Data and information required to be disclosed under this section, as derived
+ 2   from the documents enumerated herein, shall hereafter be referred to as "Public
+ 3   Budget Data." All Public Budget Data shall be digitally certified and presented in a
+ 4   structured digital format, in accordance with the standards to be prescribed by the
+ 5   NBTAC, ensuring that every allocation, transaction, or transfer is easily searchable,
+ 6   traceable, and analyzable by the public.
+ 7
+ 8           For each type of document listed above, the Implementing Rules and
+ 9   Regulations (IRR) shall clearly identify the responsible agency or office, as well as the
+10   designated accountable officer, for the disclosure of public budget data under this Act.
+11   For procurement-related documents under subsection (d), the designated accountable
+12   officer shall be the Head of the Procuring Entity (HoPE).
+13
+14           All required public budget data in the documents listed above shall be disclosed
+15   by the designated accountable officer within seven (7) working days from the date of
+16   approval, official issuance, receipt of the concerned agency, completion, or generation
+17   of the document, whichever is applicable. All corrections or updates shall be versioned
+18   in a manner that retains previous entries to ensure data traceability, auditability, and
+19   accountability.
+20
+21         Disclosures shall include linkage identifiers or references sufficient to trace
+22   each appropriation, obligation, and disbursement to the corresponding final payee,
+23   contractor, or beneficiary program, using the Unified Accounts Code Structure (UACS)
+24   and other interoperable tagging standards.
+25
+26         Beyond document publication, agencies shall ensure that budget-cycle
+27   datasets are interlinked and reconcilable, allowing citizens to trace the full flow of funds
+28   from authorization to actual expenditure and results achieved.
+29
+30           The disclosure requirement under this Act shall not apply to specific data fields
+31   within documents whose publication would compromise national defense or security,
+32   or violate the Republic Act No. 10173 or the Data Privacy Act of 2012, as determined
+33   by the NBTAC in consultation with the National Privacy Commission and other
+34   appropriate agencies: Provided, That the provisions of the Data Privacy Act of 2012,
+35   shall not be invoked to restrict or delay the disclosure of public budget data, as public
+36   expenditure, contract, and supplier information shall not be deemed personal data.
+37
+38          Nothing in this Act shall be construed to diminish, restrict, or otherwise limit
+39   existing transparency and disclosure obligations under other laws, rules, and
+40   regulations.
+41
+42         SEC. 6. Data Quality Standards. - The National Transparency and
+43   Accountability Council (NBTAC) shall determine data quality, formatting, and
+44   metadata standards for the CADENA to ensure completeness, consistency,
+45   searchability, and interoperability across agencies, enabling cross-referencing through
+46   standard coding systems such as the Unified Accounts Code Structure (UACS).
+47
+
+
+
+                                                  8
+ 1         The implementing rules shall ensure that the CADENA aligns with the
+ 2   standards of existing transparency systems of the DBM, COA, and other agencies
+ 3   toward a unified, interoperable, and open public financial data framework.
+ 4
+ 5          SEC. 7. Establishment of the CADENA. - The Citizen Access and Disclosure
+ 6   of Expenditures for National Accountability (CADENA) shall serve as the official and
+ 7   publicly accessible portal for all public budget data required under this Act.
+ 8
+ 9           The CADENA shall be the primary access point through which the public may
+10   freely access, search, and download public budget data in open-source, interoperable,
+11   tamper-resistant, and structured digital format. It shall provide features that promote
+12   transparency, accountability, and citizen participation, subject to tiered-access
+13   controls to protect personal data and national security information.
+14
+15          The CADENA shall be developed using distributed ledger technology including
+16   but not limited to blockchain, secure data integrity technology, or other technology that
+17   conforms with the standards and features prescribed under section 8 of this Act.
+18   The NBTAC shall, at intervals of not more than three (3) years, review and recommend
+19   the adoption of alternative or emerging technologies.
+20
+21          CADENA shall interface with existing government systems including but not
+22   limited to the Integrated Financial Management Information System (IFMIS), Budget
+23   and Treasury Management System (BTMS), Philippine Government Electronic
+24   Procurement System (PhilGEPS), and other platforms through standardized
+25   Application Programming Interfaces (APIs) or newer technologies. These systems
+26   shall maintain parallel operation during transition periods as specified by the NBTAC.
+27
+28           SEC. 8. Core Features of the CADENA. - The CADENA shall be designed to
+29   promote transparency and accountability in all phases of the national budget cycle. It
+30   shall, at a minimum, have the following features:
+31
+32      (a) Data Integrity and Authenticity - All published records shall bear digital and non-
+33          repudiable signatures, timestamps, and metadata ensuring verifiable origin and
+34          traceability.
+35      (b) Transparency and Accessibility - All budget records and reports shall be made
+36          available through public dashboards and open application programming
+37          interfaces (APIs) in structured digital formats for real-time access, visualization,
+38          and reuse, subject to tiered access controls to protect personal data and
+39          privileged information.
+40      (c) Redundancy and Oversight - Independent mirror sites, hosted by qualified and
+41          accredited institutions, including government agencies, the private sector, civil
+42          society, and the academe, and other third-party audit mechanisms shall be
+43          established to safeguard against data loss, tampering, and concentration of
+44          control and strengthen mutual oversight and institutional accountability.
+45      (d) Traceability Across the Budget Cycle - The system shall maintain a structured
+46          audit trail linking each stage of the budget process from call and approval to
+47          release, procurement, and liquidation, identifying the responsible committee or
+
+
+
+                                                 9
+ 1          agency at each decision point, while observing data minimization and purpose
+ 2          limitation under applicable privacy laws.
+ 3      (e) Programmability and Process Validation - The CADENA may employ rule-
+ 4          based or automated validation tools to ensure compliance with budgetary laws,
+ 5          detect irregularities, and flag inconsistencies for oversight review, without
+ 6          substituting or interfering with lawful approval procedures.
+ 7      (f) Security and Resilience - The system shall employ encryption, redundancy,
+ 8          access controls, and disaster recovery protocols that comply with international
+ 9          cybersecurity standards.
+10      (g) Interoperability and Open Standards - The CADENA shall adopt open-source,
+11          technology-neutral frameworks and ensure compatibility with existing and
+12          future government information systems. It shall be designed for integration with
+13          the eGov PH Portal, the eGov Super App, and other national digital platforms
+14          to allow seamless data exchange, interoperability, and unified public access.
+15          The CADENA shall likewise be accessible to the general public through its own
+16          portal and/or other government portals to promote ease of use, transparency,
+17          and citizen engagement.
+18      (h) Auditability - The system shall maintain verifiable activity logs accessible to the
+19          COA and other public auditors and civic society organizations duly authorized
+20          by the NBTAC for post-factum review, without exposing personal or security-
+21          sensitive information on public endpoints.
+22      (i) Citizen Feedback and Participation - The CADENA shall include real-time
+23          channels for citizens and civil society organizations to report, track, and receive
+24          acknowledgment of verified discrepancies or irregularities in published data.
+25          Each report shall be logged, traceable, and subject to timely resolution by the
+26          concerned agency.
+27      (j) Scalability and Performance - The system shall be designed to handle high
+28          transaction volumes, ensure continuity of operations during peak usage, and
+29          include forward-looking capacity planning sufficient to accommodate at least
+30          ten (10) years of projected data growth and system demand.
+31      (k) Outcome-based Metrics - The system shall include performance dashboards
+32          linking budget disbursements to outputs and outcomes, allowing public tracking
+33          of agency performance and corrective actions.
+34
+35        SEC. 9. Data Sovereignty and Custodianship. - All fiscal data collected and
+36   processed under this Act are property of the Filipino people, held in trust by the State.
+37
+38        The Department of Information Technology (DICT) shall serve as primary data
+39   custodian, responsible for ensuring lawful access, integrity and long-term preservation
+40   of such data.
+41
+42         The exercise of data sovereignty shall be understood as the State's control and
+43   lawful access over public data through secure and verifiable systems consistent with
+44   Philippine jurisdiction and regulatory standards.
+45
+46        All hosting and data infrastructure utilized under this Act shall remain under the
+47   lawful control, access, and regulatory supervision of the Philippine Government, in
+48   accordance with the applicable data governance, cybersecurity, and privacy
+
+                                                10
+ 1   regulations of DICT and the National Privacy Commission (NPC): Provided, That the
+ 2   State, in coordination with the country having jurisdiction of the data center
+ 3   infrastructure, may establish or designate a Data Embassy during the pilot or initial
+ 4   implementation phases; Provided, further, That full domestic hosting shall be achieved
+ 5   upon nationwide implementation.
+ 6
+ 7         This provision affirms that Philippine data sovereignty is a non-delegable national
+ 8   function, and that any extraterritorial hosting shall be treated strictly as a contingency
+ 9   measure in support of, not in lieu of, local infrastructure self-sufficiency.
+10
+11         All third-party providers, developers and service contractors engaged in the
+12   design, operation or maintenance of the CADENA or any component digital system
+13   supporting government transactions shall be deemed entities imbued with public
+14   interest and thus must follow and comply with the governance standards set by the
+15   Security and Exchange Commission's in accordance with Republic Act No. 11232,
+16   otherwise known as the Revised Corporation Code of the Philippines.
+17
+18        SEC. 10. National Budget Transparency and Accountability Council
+19   (NBTAC). - There is hereby created a National Budget Transparency and
+20   Accountability Council (NBTAC) to oversee the implementation, audit, and continuous
+21   improvement of the CADENA and related mechanisms under this Act.
+22
+23         `The Council shall be composed of:
+24      (a) The Secretary of the Department of Information and Communications
+25           Technology (DICT), Co-chairperson;
+26      (b) The Secretary of the Department of Budget and Management (DBM), Co-
+27           chairperson;
+28      (c) The Chairperson of the Commission on Audit (COA), Member;
+29      (d) The Secretary of the Department of Justice (DOJ), Member;
+30      (e) The Secretary of the Department of Finance (DOF); and
+31      (f) Four (4) citizen representatives, to be appointed by the President upon joint
+32           recommendation of the DICT and DBM, through an open and transparent
+33           selection process, representing the following:
+34           (1) Civil society organizations engaged in budget transparency, fiscal openness,
+35               or participatory governance;
+36           (2) Academic or research institutions with expertise in public finance, data
+37               analytics, or digital governance;
+38           (3) The media, particularly those with a track record in investigative journalism,
+39               data reporting, or governance advocacy; and
+40           (4) The business and technology sector.
+41
+42         The citizen members shall serve for a term of three (3) years, without prejudice
+43   to reappointment for one (1) additional term.
+44
+45         The Council shall meet at least once every quarter or as often as necessary to
+46   effectively discharge its functions under this Act. All regular and special meetings shall
+47   be conducted in a transparent and publicly accessible manner, subject to the
+48   provisions of this Act and applicable laws.
+
+                                                11
+ 1
+ 2         A dedicated Program Management Office (PMO) for CADENA implementation
+ 3   shall be established under DICT, adequately staffed with technical, procurement,
+ 4   change management, and project management specialists. It shall also serve as the
+ 5   secretariat for the NBTAC.
+ 6
+ 7       SEC. 11. Functions of the National Budget                    Transparency      and
+ 8   Accountability Council (NBTAC). – The NBTAC shall:
+ 9
+10      (a) Formulate and approve policies, data standards, interoperability protocols, and
+11           governance guidelines for the CADENA;
+12      (b) Oversee the enforcement of the Implementing Rules and Regulations (IRR)
+13          (1) of this Act;
+14      (c) Oversee compliance and performance audits of the system and its accredited
+15           independent mirror sites;
+16      (d) Ensure that all transparency mechanisms remain open-source, secure, and
+17           citizen-accessible;
+18      (e) Issue periodic reports to Congress and the President on the state of budget
+19           transparency and recommend improvements;
+20      (f) Monitor and evaluate the compliance of agencies covered under Section 5 of
+21           this Act, and issue notice of non-compliance and warning to erring and/or
+22           noncomplying public official or employee;
+23      (g) Initiate investigation, motu propio or upon receipt of a complaint, and refer the
+24           same to the Civil Service Commission or the Office of the Ombudsman, or file
+25           cases for violations of this Act;
+26      (h) Engage relevant stakeholders in consultative and advisory capacities when
+27           necessary, without expanding the formal membership of the Council;
+28      (i) Ensure that all regular and special meetings of the Council are publicly
+29           accessible through live streaming and archiving via recognized streaming
+30           platforms or government broadcasting channels, except when discussions
+31           involve matters of national security or personal data protection, in which case
+32           minutes shall still be published in summary form within seven (7) working days;
+33           and
+34      (j) Perform such other functions necessary to carry out the provisions of this Act.
+35
+36        SEC. 12. Implementation Timeline. - The establishment and operationalization
+37   of CADENA shall be undertaken in phases, ensuring that transparency mechanisms
+38   are rolled out in a manner consistent with agency readiness, data integrity, and fiscal
+39   process priorities, as follows:
+40
+41      (a) Phase 1 – Immediate Disclosure through Agency Websites. Within nine (9)
+42          months from the effectivity of this Act, all National Government departments,
+43          bureaus, offices, agencies, and instrumentalities shall record and publish in
+44          their respective official websites all public documents referred to under Section
+45          5 of this Act: Provided, that during this phase, the publication requirement for
+46          Infrastructure and Procurement-Related Documents under Section 5(d) shall
+47          apply only to projects or contracts with an approved cost exceeding Two Million
+48          Pesos (P2,000,000.00).
+
+                                               12
+ 1
+ 2             All published documents shall be in digitally structured format, searchable,
+ 3          and officially certified. All agency disclosure systems shall adopt interoperable
+ 4          formats to facilitate continuity and integration.
+ 5
+ 6      (b) Phase 2 – Integration with Top Spending Agencies. Within twenty four (24)
+ 7          months from the effectivity of this Act, CADENA shall be deployed and fully
+ 8          integrated with the financial management, accounting, and procurement
+ 9          systems of top-spending agencies identified by the NBTAC, including but not
+10          limited to the Department of Education (DepEd), the Department of Public
+11          Works and Highways (DWH), Department of Health (DOH), Department of the
+12          Interior and Local Government (DILG), and the Department of Transportation
+13          (DOTr).
+14
+15            During this phase, these agencies shall record and publish all documents
+16          enumerated under Section 5 in open-source, interoperable, tamper-resistant,
+17          and in structured digital format, including all Infrastructure and Procurement-
+18          Related Documents under Section 5(d), regardless of project cost, through
+19          CADENA.
+20
+21             The DICT, in coordination with the National Privacy Commission (NPC),
+22          shall ensure that privacy-impact assessments, cyberSECurity protocols, and
+23          data-classification standards are in place prior to full deployment of CADENA
+24          within these agencies.
+25
+26      (c) Phase 3 – Full Government-Wide Implementation. Within three (3) years from
+27          the effectivity of this Act, CADENA shall be expanded to cover all other national
+28          government agencies, government-owned or -controlled corporations
+29          (GOCCs), and their subsidiaries. All National Government departments,
+30          agencies, GOCCs, and other covered entities shall fully comply with the
+31          disclosure requirements under Section 5, through CADENA, including the
+32          disclosure of all Infrastructure and Procurement-Related Documents under
+33          section 5(d) of this act for all projects, regardless of amount or classification.
+34          Nothing in this Section shall preclude any department, agency, or government-
+35          owned or -controlled corporation from complying with the requirements of this
+36          Act ahead of schedule or from undertaking parallel implementation of
+37          succeeding phases.
+38
+39         SEC. 13. Capacity-Building and Technical Support. - During the initial
+40   implementation period, the DICT shall provide capacity-building programs, systems
+41   integration assistance, and technical support to ensure the readiness of all covered
+42   entities for full adoption of CADENA.
+43
+44         DICT, DBM, and DILG may provide technical assistance, shared hosting
+45   infrastructure, and training to Local Government Units (LGUs) that voluntarily adopt
+46   the CADENA or develop similar systems.
+47
+
+
+
+                                                13
+ 1         SEC. 14. Progress Reports. - The DICT shall submit to the Joint Congressional
+ 2   Oversight Committee (JCOC) a written progress report within sixty (60) working days
+ 3   after the conclusion of each implementation phase of this Act.
+ 4
+ 5        The report shall include, at a minimum, the following:
+ 6
+ 7      (a) Agency Compliance Levels -The percentage of required documents and
+ 8          structured digital records disclosed by covered entities within prescribed
+ 9          timelines;
+10      (b) System Performance - Metrics on the CADENA uptime, posting speed,
+11          interoperability, and cybersecurity safeguards, including results of
+12          independent audits conducted under this Act;
+13      (c) Citizen Access and Participation - Data on unique users, frequency of public
+14          access, number of downloads, citizen feedback submissions, and government
+15          response actions;
+16      (d) Governance and Oversight Metrics - Reports on NBTAC activities, meetings,
+17          and decisions relating to budget transparency, data integrity, and open-source
+18          collaboration;
+19      (e) Challenges Encountered - Technical, institutional, budgetary, or legal barriers
+20          to compliance, and recommended solutions; and
+21      (f) Recommendations - Proposed measures to strengthen transparency,
+22          accountability, data security, and citizen engagement.
+23
+24         All progress reports and accompanying datasets shall be published in open,
+25   structured digital formats through the CADENA, mirrored by accredited independent
+26   institutions and civil-society partners for public verification and long-term archival.
+27
+28        SEC. 15. Evidentiary Value of CADENA Records. - All records, data, and
+29   transactions stored in CADENA shall be considered prima facie evidence of the facts
+30   stated therein and shall be admissible in all judicial, quasi-judicial, and administrative
+31   proceedings without further proof of authenticity, provided that the record:
+32
+33        (a) Bears a digital timestamp;
+34        (b) Is cryptographically signed or verified through the digital portal; and
+35        (c) Has not been altered without authorization, as verified by CADENA's integrity
+36            controls.
+37
+38         CADENA records officially obtained from the government portal shall be deemed
+39   self-authenticating and shall not require the testimony of a custodian or other
+40   foundational witness for admission in evidence.
+41
+42        SEC. 16. Administrative Penalties. - Any public official or employee who
+43   performs or causes the performance of the following acts shall be liable:
+44
+45        a) Failure to disclose the required public budget data within seven (7) working
+46           days from the date of approval, official issuance, receipt by the concerned
+47           agency, or completion or generation of the document or work, whichever is
+48           applicable; and
+49        b) Issuance, approval, or implementation of policies, rules and regulations that
+50           are manifestly contrary or intended to circumvent the provisions of this Act, or
+
+
+                                                14
+ 1           obstructs or interferes with the publication, audit, or verification of information
+ 2           under CADENA.
+ 3
+ 4          Any violation of the preceding actions shall warrant the following penalties and
+ 5   liabilities:
+ 6
+ 7         a) First Offense. Administrative penalty of reprimand or up to six (6) months
+ 8            suspension from the service.
+ 9         b) Second offense. Administrative penalty of dismissal from the service and
+10            perpetual disqualification from holding office.
+11
+12         In cases where no specific officer, employee, or unit is designated as responsible
+13   for the submission, publication, or safekeeping of documents required under this Act,
+14   the Head of the Procuring Entity shall be presumed responsible and held
+15   administratively liable under applicable laws.
+16
+17         Non-compliance detected through CADENA shall trigger automatic referral to the
+18   Civil Service Commission and the Ombudsman. Quarterly compliance dashboards
+19   shall be publicly displayed.
+20
+21        SEC. 17. Penal Provisions. –
+22        (a) Any public official, employee, private individual or entity who commits any of
+23            the following shall be liable:
+24               i. Fails to upload, disclose, or publish the required public budget data
+25                  within thirty (30) working days, without justifiable cause, from the date of
+26                  approval, official issuance, receipt by the concerned agency, or
+27                  completion or generation of the document or work, whichever is
+28                  applicable;
+29              ii. Knowingly publishes false, or misleading information to simulate
+30                  compliance with this Act; or
+31             iii. Willfully denies, conceals the existence of, or destroys or causes to be
+32                  destroyed, information and/or any document mandated for disclosure
+33                  under this Act.
+34
+35            Any violation of the preceding actions shall be meted out with the penalty of
+36            imprisonment ranging from six (6) years and one (1) day to not more than
+37            fifteen (15) years and a fine of up to Three Million Pesos (P3,000,000.00).
+38
+39        (b) If it is established that such act was committed to conceal or facilitate fraud,
+40            graft, or corruption involving public funds or property, the public officer or
+41            employee shall be liable as a principal or co-conspirator to crimes punishable
+42            under Republic Act No. 3019 or the Anti-Graft and Corrupt Practices Act and
+43            Republic Act No. 7080 or the Anti-Plunder Act; and
+44
+45        (c) Any private individual or entity who knowingly induces or causes the
+46            commission of the foregoing acts shall be liable as principal by inducement in
+47            the prosecution of public officials or employees under this section.
+48
+49        Criminal liability shall also be incurred through the commission of bribery,
+50   extortion, or when the violation was done maliciously and deliberately to solicit favor
+
+
+                                                15
+ 1   in cash or in kind. In such cases, the pertinent provisions of the Revised Penal Code
+ 2   and other special laws shall apply.
+ 3
+ 4         SEC. 18. Administrative Jurisdiction. - The administrative jurisdiction on any
+ 5   violation of the provisions of this Act shall be vested in either the Civil Service
+ 6   Commission, or the Office of the Ombudsman as determined by appropriate laws and
+ 7   issuances.
+ 8
+ 9        SEC. 19. Civil and Criminal Liability, Not Barred. - The finding of
+10   administrative liability under this Act shall not be a bar to the filing of criminal, civil or
+11   other related charges under existing laws arising from the same act or omission as
+12   herein enumerated.
+13
+14         SEC. 20. Implementing Rules and Regulations (IRR). - Within sixty (60) days
+15   from the effectivity of this Act, DICT, in coordination with DBM, COA, the DOJ, and
+16   other concerned agencies, shall promulgate the necessary rules and regulations for
+17   the effective implementation of this Act. The formulation of the IRR shall be undertaken
+18   in consultation with representatives from civil society organizations, the academe,
+19   media, and relevant industry stakeholders.
+20
+21         SEC. 21. Joint Congressional Oversight Committee (JCOC). - Upon the
+22   effectivity of this Act, the Joint Congressional Oversight Committee (JCOC) is hereby
+23   constituted. The JCOC shall be composed of eight (8) members with the Chairpersons
+24   of the Committee on Science and Technology of the Senate and the House of
+25   Representatives as Co-Chairpersons; Chairpersons of the Committee on Finance of
+26   the Senate and Committee on Appropriations of the House of Representatives as
+27   members; and two (2) members from each House to be designated by the Senate
+28   President and the Speaker of the House of Representatives, respectively.
+29
+30         The JCOC shall monitor the effective implementation of this Act, recommend the
+31   necessary remedial or administrative measures, and perform such other duties and
+32   functions as may be necessary to attain the objectives of this Act.
+33
+34        SEC. 22. Appropriations. - The amount necessary to carry out this Act shall be
+35   charged against the current appropriations of DICT for digital-governance and
+36   transparency programs. Subsequent funding requirements shall be included in the
+37   annual General Appropriations Act.
+38
+39       SEC. 23. Separability Clause. – If any portion or provision of this Act is declared
+40   unconstitutional, the remainder hereof or any provisions not affected thereby shall
+41   remain in force and effect.
+42
+43         SEC. 24. Repealing Clause. – Any law, presidential decree or issuance,
+44   executive order, letter of instruction, rule, or regulation inconsistent with the provisions
+45   of this Act is hereby repealed or modified accordingly.
+
+46       SEC. 25. Effectivity. – This Act shall take effect fifteen (15) days after its
+47   complete publication in the Official Gazette or in a newspaper of general circulation.
+48
+49        Approved,
+
+
+                                                  16
+

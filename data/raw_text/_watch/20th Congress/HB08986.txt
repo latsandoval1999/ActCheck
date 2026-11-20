@@ -1,0 +1,388 @@
+                           Republic of the Philippines
+                                                                             April 29, 2026
+                         HOUSE OF REPRESENTATIVES
+                                 Quezon City                                  9:00 am
+
+
+                             TWENTIETH CONGRESS
+                               First Regular Session
+
+
+                           House Bill No.    8986
+                                          ____________
+
+
+                   Introduced by CIBAC Party-List Representative
+                    EDUARDO “BRO. EDDIE” C. VILLANUEVA
+
+
+                             EXPLANATORY NOTE
+
+      The rapid advancement of digital technology has transformed the way economies
+function, particularly in the movement of money and financial services. Digital payment
+systems have become essential tools for improving financial efficiency, reducing
+transaction costs, strengthening transparency, and expanding financial inclusion. For
+governments, the adoption of digital payments also enhances accountability in the
+handling of public funds and minimizes leakages associated with manual and cash-
+based transactions.
+
+      In the Philippines, while significant progress has been made in promoting digital
+financial services, the adoption of digital payments across government institutions and
+among merchants remains uneven. Many government collections and disbursements
+are still conducted through traditional processes that are time-consuming, costly, and
+vulnerable to inefficiencies. Likewise, many micro, small, and medium enterprises,
+particularly in the informal sector, still lack access to safe and affordable digital
+payment systems that would allow them to participate fully in the modern digital
+economy.
+
+       This proposed measure seeks to institutionalize the adoption of digital payments
+in government transactions and promote their wider use among merchants and
+enterprises. By mandating the use of secure and interoperable digital payment
+systems for government disbursements and collections, the measure aims to improve
+efficiency, transparency, and service delivery across public institutions. At the same
+time, it encourages the development of a competitive and inclusive digital payments
+ecosystem that enables merchants of all sizes, including micro and small enterprises,
+to adopt digital payment capabilities without undue burden.
+
+     The bill also emphasizes consumer protection, data privacy, and cybersecurity
+safeguards to ensure that digital payment systems operate in a manner that protects
+users while maintaining public trust. Furthermore, it supports interoperability among
+payment platforms and promotes financial literacy and capacity-building initiatives to
+assist both government entities and private merchants in transitioning toward digital
+payment solutions.
+
+                                          1
+     By advancing the use of digital payments nationwide, this measure supports the
+country’s broader goal of building a more transparent, efficient, and inclusive financial
+system, while accelerating the transition toward a resilient and cash-lite digital
+economy.
+
+
+     In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+                    EDUARDO “BRO. EDDIE” C. VILLANUEVA
+
+
+
+
+                                           2
+                                 Republic of the Philippines
+                               HOUSE OF REPRESENTATIVES
+                                       Quezon City
+
+                                   TWENTIETH CONGRESS
+                                     First Regular Session
+
+
+                                                  8986
+                                   HOUSE BILL NO. ______
+
+
+                        Introduced by CIBAC Party-List Representative
+                         EDUARDO “BRO. EDDIE” C. VILLANUEVA
+
+
+                               AN ACT
+     PROMOTING THE ADOPTION OF DIGITAL PAYMENTS FOR FINANCIAL
+     TRANSACTIONS OF THE GOVERNMENT AND ALL MERCHANTS
+
+         Be it enacted by the Senate and House of Representatives of the Philippines in
+     Congress assembled:
+
+ 1
+ 2        SECTION 1. Short Title. - This Act shall be known as the "Electronic Payments
+ 3   for Merchants, Enterprises, and Nationwide Transactions (E-PAYMENT Act)."
+ 4
+ 5        SEC. 2. Declaration of Policy. - It is hereby declared the policy of the State to
+ 6   recognize the vital role of information and communications technology, particularly
+ 7   financial technology, in nation-building, financial inclusion, and economic development.
+ 8
+ 9         To this end, the State shall promote the safe, secure, affordable, and efficient
+10   use of digital payments in government and private sector transactions; institutionalize
+11   digital payments in government collections and disbursements to enhance
+12   transparency, accountability, and efficiency, encourage the inclusive and non-
+13   burdensome adoption of digital payment capabilities by merchants; ensure consumer
+14   protection, data privacy, and cybersecurity in accordance with law and Bangko Sentral
+15   ng Pilipinas (BSP) regulations ;and foster a technology-neutral, competitive, and
+16   interoperable digital payments ecosystem that promotes public trust.
+17
+18           SEC. 3. Objectives – This Act aims to increase the adoption and use of digital
+19   payments in government and private sector transactions, reduce transaction costs,
+20   inefficiencies, and leakage in the handling of public funds; promote interoperability and
+21   fair competition among digital payment platforms; protect consumers, merchants, and
+22   government entities from fraud, abuse and misuse of personal data; and support the
+23   transition toward a cash-lite inclusive, and resilient digital economy.
+24
+25          SEC. 4. Definition of Terms. - As used in this Act:
+
+
+
+                                                3
+ 1   a) Basic Deposit Account (BDA) refers to the deposit product offered by banks
+ 2      as defined under the BSP Manual of Regulations for Banks and its
+ 3      implementing guidelines;
+ 4   b) Digital Payment refers to a monetary payment transaction between two (2)
+ 5      parties using a digital payment instrument, in which both the payor and the
+ 6      payee use an electronic channel;
+ 7   c) Digital Collection refers to a mode of payment wherein businesses and
+ 8      individuals make payments to the government, including but not limited t
+ 9      taxes, fees, and tolls, using a digital device such as a mobile phone, point of
+10      sale, or computer. Payments can be made with bank transfers, electronic
+11      money transfers, and payment cards including credit, debit prepaid or store-
+12      value cards, among others;
+13   d) Digital Disbursement refers to a mode of payment whereby disbursement of
+14      money or equivalent electronic representations of legal tender, for purposes
+15      of paying government expenditures, is made by crediting the target
+16      recipient's transaction account through advice to debit or electronic fund
+17      transfer facilitated by any government agency or instrumentality through their
+18      respective servicing bank;
+19   e) Electronic Fund Transfer- refers to a transfer of funds between two (2)
+20      transaction accounts in the same or different BSP-supervised financial
+21      institutions, which are initiated and received using electronic devices and
+22      channels to transmit payment instructions;
+23   f) Electronic Money (e-money) refers to electronically stored monetary value
+24      issued in accordance with the BSP Manual of Regulations for Banks and the
+25      Manual of Regulations for Non-Bank Financial Institutions;
+26   g) Financial inclusion refers to the state wherein there is effective access to a
+27      wide range of financial products and services for all Filipinos;
+28   h) Government Servicing Payment Service Provider (GSPSP) refers to bank
+29      and non-bank PSPs authorized to accept government funds and perform
+30      payment services on behalf of government entities. This includes authorized
+31      government depository banks (AGDBs) as defined by the Department of
+32      Finance (DOF) regulations;
+33   i) Interoperability refers to the ability of different digital payment systems and
+34      platforms to connect and transact seamlessly with one another;
+35   j) Merchant refers to any person or entity, including micro and small
+36      enterprises, engaged in buying and selling services or merchandise,
+37      purchasing of services, skills, or expertise, and leasing of goods and
+38      services;
+39   k) Micro-payment Transactions refers to low-value payments, including but not
+40      limited to payments to sari-sari store owners, wet market vendors, as well as
+41      tricycle and jeepney drivers, the actual thresholds of which shall be
+42      determined by the BSP,            pursuant to the objectives of this Act;
+43   l) Payment Service Provider (PSP) refers to an entity, bank or non-bank,
+44      including electronic money issuers, that provides digital payment services to
+45      end-users such as consumers, merchants, billers, and government entities,
+46      subject to BSP regulation;
+47   m) Payment System refers to the set of payment instruments, processes,
+48      procedures and participants that ensure the circulation of money or
+49      movement of funds, which comply with the requirements set forth under
+50      Republic Act No. 11127 or the National Payment System Act; and
+
+
+                                         4
+ 1          n) Transaction Account refers to an account, such as but not limited to a BDA
+ 2             or a e-money account held with a BSP-supervised institution that maybe
+ 3             used to store, send, and receive funds.
+ 4
+ 5          SEC. 5. Adoption of Digital Payments for Government. - Disbursements.
+ 6   All government entities, including but not limited to national government agencies
+ 7   (NGAs), government-owned or controlled corporations (GOCCS), foreign-based
+ 8   Philippine government units (LGUs), State Universities and Colleges (SUCs), and
+ 9   Local Universities and Colleges (LUCs) are hereby mandated to utilize safe, secure,
+10   and efficient, digital payment systems for the disbursement of government funds,
+11   including but not limited to salaries, wages, allowances, benefits, subsidies, and
+12   financial assistance, subject to existing accounting and auditing rules.
+13
+14           Government entities may disburse funds directly to recipients transaction
+15   accounts held with BSP-supervised financial institutions. For this purpose, said
+16   government entities may use the automatic debit arrangement, interoperable
+17   electronic fund transfer, or any other appropriate facility of its GSPSPS Accountable
+18   officers of the government entities shall observe due diligence in ensuring the
+19   accuracy of the recipient's or beneficiary's identity. All such transactions shall remain
+20   transparent and subject to post-audit by the Commission on Audit (CDA).
+21
+22          Government entities shall be responsible for preparing the payment instruction
+23   with the necessary details, including the recipient's or beneficiary's name, transaction
+24   account details, and amount, among others, only after proper authorization in
+25   accordance with established accounting and auditing rules and regulations.
+26
+27          In case of successful digital disbursement, there shall be a recovery mechanism
+28   that will ensure the continuity of delivery of payment services: Provided, that in cases
+29   of calamities or other emergencies, where payments through digital means may be
+30   affected, non-digital pay-out channels may be explored.
+31
+32          SEC. 6. Adoption of Digital Payments for Government Collections. - All
+33   government entities, including but not limited to NGAs, foreign-based Philippine
+34   government agencies, GOCES, LGUS, SUCs, and LUCs, shall offer digital payment
+35   options, in addition to cash, for the collection of taxes, fees, tolls, imposts, and other
+36   revenues.
+37
+38           Government entities shall engage only secure, interoperable, and BSP-4
+39   compliant digital payment solutions, and shall not be limited to government financial
+40   institutions in selecting their PSPs.
+41
+42         SEC. 7. Interoperability and Open Finance. - The BSP accelerate the
+43   adoption of interoperable digital payment systems, including the National Quick
+44   Response (QR) Code Standard, to ensure seamless transactions across platforms.
+45
+46          The BSP, in coordination with relevant government agencies, shall likewise
+47   promote the Open Finance Framework, subject to customer consent, data privacy,
+48   and information security safeguards.
+49
+
+
+
+                                                 5
+ 1           SEC. 8. Digital Payment Capability of Merchants. – To accelerate the
+ 2   adoption of digital payments, LGUs shall, by ordinance, encourage the adoption of
+ 3   digital payment capabilities by merchants within their jurisdictions through monetary
+ 4   and non-monetary incentives, capacity-building, and other support mechanisms,
+ 5   including the establishment or outsourcing of arrangements or mechanisms that
+ 6   enable merchants to receive payments from clients and make payments to creditors
+ 7   and suppliers using digital channels, with particular consideration for micro and small
+ 8   merchants. LGUs shall ensure that merchants have access to appropriate digital
+ 9   payment solutions and the capacity to effectively use the same, including assistance
+10   for small and micro-merchants.
+11
+12          The BSP, Department of Trade and Industry (DTI), Department of the Interior
+13   and Local Government (DILG), and Department of Information and Communications
+14   Technology (DICT) shall provide capacity building for the NGAS, GOCCS, LGUS,
+15   SUCS, LUCS, and merchants on the use of digital payments. No requirement imposed
+16   pursuant to this Act shall unreasonably burden or exclude informal sector participants
+17   from lawful economic activity.
+18
+19          SEC. 9. Consumer Protection, Data Privacy, and Cybersecurity. - All data
+20   information and communications technology systems and networks used for digital
+21   payments pursuant to the objectives of this Act shall be secured and protected at all
+22   times. The DICT and the National Privacy Commission (NPC) shall, in consultation
+23   with the BSP, define and prescribe the minimum information security and data
+24   protection standards for compliance by PSPs covered by this Act that are not under
+25   the oversight and regulatory authority of the BSP. Further, all digital payment systems
+26   covered by this Act shall:
+27
+28       a) Comply with the Data Privacy Act of 2012, 8SP regulations, and NPC
+29          standards;
+30       b) Integrate security and privacy by design and by default;
+31       c) Establish accessible dispute resolution and redress mechanisms; and
+32       d) Implement appropriate safeguards against fraud, cybercrime, and
+33          unauthorized transactions.
+34
+35          SEC. 10. Incentives and Support Measures. - to optimize the benefits of
+36   digital payments, scale up financial inclusion, and promote sustainability, all
+37   government entities shall prioritize the use of safe, secure, reliable, and efficient digital
+38   payment in their financial transactions. Government entities may adopt incentive
+39   frameworks to encourage digital payments, including reduced transaction fees for
+40   micro-payments, administrative incentives, and financial and digital literacy programs.
+41
+42           Further, to enable the general public to adopt digital payments, micro-payment
+43   transactions shall be subject to graduated pricing or be rendered free of any service
+44   charge as determined by the BSP in consultation with the merchants and the payment
+45   services industry, as may be represented by the BSP accredited payment system
+46   management body. The DICT shall, consistent with its mandate and subject to
+47   available resources, support initiatives that enhance connectivity necessary for the
+48   effective implementation of this Act.
+49
+
+
+
+                                                  6
+ 1         SEC. 11. Transitory Provision. – Government entities shall ensure the orderly
+ 2   and progressive transition of their respective collection and disbursement procedures
+ 3   and policies to digital payments, in accordance with this Act and its implementing rules
+ 4   and regulations (IRR).
+ 5
+ 6           Digital disbursement shall be implemented within six (6) months from the
+ 7   effectivity of the IRR, subject to reasonable exceptions based on operational
+ 8   constraints, as may be determined by the BSP in coordination with relevant agencies.
+ 9
+10           Digital collections shall likewise be implemented subject to a tiered and phased
+11   transition framework, to be prescribed in the IRR, which shall provide differentiated
+12   transition periods based on the readiness, capacity, and operational requirements of
+13   government entities: Provided, That the overall transition period shall not exceed three
+14   (3) years from the effectivity of the IRR.
+15
+16          SEC. 12 Prohibited Acts. – The following acts shall be unlawful under this Act:
+17
+18          a) Willful refusal or deliberate failure, without lawful justification, of a public
+19             officer or employee to implement digital payment policies, systems, or
+20             directives duly issued pursuant to this Act or its implementing rules and
+21             regulations, when such refusal or failure results in material prejudice to
+22             public service, public funds, or government operations;
+23          b) The knowing authorization, use, or maintenance of digital payment
+24             arrangements for government transactions that are intended to conceal,
+25             divert, delay, or misuse public funds, or to defeat transparency and
+26             accountability requirements;
+27          c) The intentional circumvention, suppression, or manipulation of audit trails,
+28             records, reports, or data relating to digital payment transactions involving
+29             public funds, for the purpose of avoiding post-audit, examination, or
+30             verification by the Commission on Audit or other lawful authorities;
+31          d) The knowing engagement, endorsement, or continued use of non-
+32             compliant, fraudulent, or unregistered digital payment platforms or
+33             arrangements for government transactions, despite the availability of
+34             compliant and interoperable alternatives; or
+35          e) The willful misrepresentation or false certification of compliance with
+36             Interoperability, security, transparency, or regulatory requirements
+37             prescribed under this Act or its implementing rules and regulations.
+38
+39          SEC. 13. Penalties and Sanctions. – Without prejudice to the penalties and
+40   sanctions provided under Republic Act No. 11127, otherwise known as the "National
+41   Payment Systems Act," and other applicable laws, any person who willfully commits
+42   any of the prohibited acts enumerated in the preceding section, or willfully violates any
+43   provision this Act, its implementing rules and regulations, or lawful directives or orders
+44   duly issued by the BSP pursuant hereto, shall be punished by a fine of not less than
+45   Two Hundred Thousand Pesos (Php200,000.00) but not more than Two Million Pesos
+46   (Php2,000,000.00), or by imprisonment of not less than three (3) years but not more
+47   than ten (10) years, or both, at the discretion of the court.
+48
+49         When the offender is a public officer or employee, the penalty of perpetual or
+50   temporary disqualification from public office, as may be appropriate, shall be imposed
+
+
+                                                 7
+ 1   in addition to criminal liability, without prejudice to administrative sanctions under
+ 2   existing laws.
+ 3
+ 4           When the offender is a juridical entity, the responsible officers who authorized,
+ 5   participated in, or knowingly tolerated the commission of the prohibited act shall be
+ 6   held liable. The penalties provided under this Act shall be without prejudice to the
+ 7   application of penalties, sanctions, or liabilities under existing laws, including but not
+ 8   limited to laws on public accountability, anti-graft and corruption, data privacy,
+ 9   cybercrime, and financial regulation.
+10
+11          SEC. 14. Lead and Implementing Agencies. – The BSP shall serve as the
+12   lead implementing agency of this Act, in coordination with the Department of Budget
+13   and Management (DBM), DOF, DICT, DTI, DILG, NPC, and the COA
+14
+15          SEC. 15. Implementing Rules and Regulations. - Within one hundred eighty
+16   (180) days from the effectivity of this Act, the BSP shall, in consultation with the
+17   concerned agencies, promulgate and implement the necessary rules and regulations
+18   to effectively implement the provisions of this Act.
+19
+20         Unjustified or willful failure or refusal of the relevant government agencies to
+21   promulgate the IRR within the specified period shall subject the heads of these
+22   government agencies to administrative penalties under applicable civil service laws.
+23
+24         Should the IRR contain provisions that are contrary to this Act, the heads of the
+25   government agencies responsible for such provision, when done in bad faith or with
+26   gross negligence, shall be held administratively liable.
+27
+28          SEC. 16 Interpretation. - Nothing in this Act shall be construed to exempt any
+29   government funds in the possession of private entities from the constitutional authority
+30   and duty of the COA to examine, audit, and settle all accounts pertaining to the
+31   revenue and receipts of, and expenditures or uses of funds and property owned or
+32   held in trust by, or pertaining to, the government. All digital payments involving
+33   government transactions under this Act shall be subject to post-audit by the CDA, in
+34   accordance with existing laws, rules, and regulations. Accordingly, the COA may issue
+35   or update such rules and guidelines as may be necessary to implement its audit
+36   authority over transactions covered by this Act.
+37
+38           SEC. 17. Separability Clause. - If any portion or provision of this Act is
+39   declared unconstitutional, the remainder hereof or any provisions not affected thereby
+40   shall remain in force and effect.
+41
+42           SEC. 18. Repealing Clause. - Any law, presidential decree or issuance,
+43   executive order, letter of instruction, rule, or regulation inconsistent with the provisions
+44   of this Act is hereby repealed or modified accordingly.
+45
+46         SEC. 19. Effectivity. - This Act shall take effect fifteen (15) days after its
+47   complete publication in the Official Gazette or in a newspaper of general circulation.
+48
+49          Approved,
+
+
+
+                                                  8
+

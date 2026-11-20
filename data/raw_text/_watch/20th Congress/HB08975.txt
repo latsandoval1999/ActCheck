@@ -1,0 +1,537 @@
+                           Republic of the Philippines
+                         HOUSE OF REPRESENTATIVES
+                                                                          April 28, 2026
+                           Quezon City, Metro Manila
+                                                                            2:03 pm
+                             TWENTIETH CONGRESS
+                               First Regular Session
+
+                                               8975
+                               House Bill No. ________
+
+
+                    Introduced by Representative ERIC G. YAP
+
+
+                              EXPLANATORY NOTE
+
+       This bill seeks to expand quality healthcare access to medically unserved and
+underserved geographically isolated and disadvantaged areas (GIDAs) via
+information and communications technology (ICT), referred to as the National
+eHealth System (NeHS). It mandates secure health information sharing across
+providers, and regulates telehealth services to ensure the protection of personal
+health data and the delivery of safe and efficient healthcare.
+
+       Building on lessons from the COVID-19 pandemic, this proposed measure
+addresses gaps in the country’s healthcare delivery system while making use of the
+transformative potential of digital technologies to ensure continuity of care to all
+citizens, especially during public health emergencies. Despite ongoing reforms,
+many Filipinos, particularly those in remote communities, continue to experience
+inadequate medical services because of distance, cost, and the limited availability of
+healthcare professionals. This bill strengthens the country’s digital infrastructure
+and integrates it with existing healthcare systems. Its passage will enable patients to
+consult healthcare providers without the burden of travel. It will likewise allow
+healthcare providers to deliver more informed and coordinated health service
+delivery.
+
+       This bill further aligns with and strengthens the implementation of Republic
+Act No. 11223, otherwise known as the “Universal Health Care Act”, by enhancing
+service delivery networks and promoting equitable access to health through digital
+innovation. This vital piece of legislation affirms the State’s commitment to the
+fundamental right to health. It ensures that no Filipino is deprived of care because of
+distance or circumstance, and that every patient is given a fair and equal
+opportunity to receive timely and quality healthcare.
+
+      In view of the foregoing, the immediate passage of this bill is earnestly
+sought.
+
+
+
+                                 HON. ERIC G. YAP
+                            Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES
+                            Quezon City, Metro Manila
+
+                             TWENTIETH CONGRESS
+                               First Regular Session
+
+                                               8975
+                               House Bill No. ________
+
+
+                    Introduced by Representative ERIC G. YAP
+
+
+                           AN ACT
+ESTABLISHING THE PHILIPPINE ELECTRONIC HEALTH OR HEALTH
+SYSTEM AND SERVICES IN SUPPORT OF UNIVERSAL HEALTH CARE, AND
+APPROPRIATING FUNDS THEREFOR
+
+      Be it enacted by the Senate and House of Representatives of the Philippines in
+Congress assembled:
+
+                                ARTICLE I
+                            GENERAL PROVISIONS
+
+       Section 1. Short Title. – This Act shall be known as the “eHealth System and
+Services Act”.
+
+       SEC. 2. Declaration of Policy. – It is hereby declared the policy of the State to
+protect and promote the right to health of all Filipinos and instill health
+consciousness among them. Toward this end, the State shall institutionalize a system
+of providing wide access to quality health information and services using
+information and communication technology (ICT), referred to as the National
+eHealth System (NeHS), resulting in better health outcomes for every Filipino, and
+further recognizing whole-of-society and whole-of-government approaches.
+
+       The NeHS shall be integrated, comprehensive, interoperable, progressive,
+secure and sustainable based on best current and future practices, and shall facilitate
+inter-agency and inter-sectoral coordination at various levels of governance covering
+both the public and private sectors. It shall recognize eHealth as supplemental and
+complementary with other healthcare delivery methods to the extent allowable by
+existing laws, provide and support healthcare delivery, including diagnosis,
+consultation, treatment, transfer of care of patient, exchange of health data and
+education, especially in medically unserved and underserved geographically
+isolated and disadvantaged areas (GIDAs).
+
+       SEC. 3. Objectives. – This Act shall provide a holistic framework that
+establishes a NeHS, which shall:
+
+
+
+                                           1
+         a. Set policies, standards, priorities, plans, programs and projects that
+      promote and ensure streamlined and safely regulated delivery of eHealth
+      services to reduce inequalities, achieve universal health care, and better
+      health outcomes; and
+
+         b. Clarify roles of agencies, institutions, and entities regarding their
+      performance and accountabilities in building national and local eHealth
+      capacity and measuring results.
+
+       SEC. 4. Scope and Application. – This Act covers all existing health care
+providers and other entities developing and using eHealth systems, services and
+applications and tools, whether public or private, including relevant standard
+equipment in the field of health and ancillary services that use ICT and are
+complementary to existing minimum modalities or standards of health care and
+other means of access to information.
+
+       SEC. 5. Definition of Terms. – As used in this Act:
+
+          a. Compliant eHealth services and applications refer to the requirements
+      of a defined architecture of eHealth standards that enable services and
+      systems, allow for interoperability of health services and information
+      exchange across geographic, organizational, network, vendor boundaries,
+      and ensure data protection in accordance with Republic Act (RA) No.10173,
+      otherwise known as the “Data Privacy Act of 2012”, and other related laws and
+      issuances;
+
+          b. eHealth or Electronic health refers to the use of cost-effective and secure
+      information and communications technology for health care practice, also
+      referred to as digital health;
+
+          c. eHealth data services refer to key architectural data registries of the
+      health sector needed to enable and support large scale health information
+      interoperability and exchange;
+
+          d. eHealth System refers to the interplay of enabling and foundational
+      elements essential for a successful national Health implementation, namely,
+      (1) governance and accountability, (2) standards and interoperability, (3)
+      services and operations, (4) telehealth, (5) human resources, (6) infrastructure,
+      (7) strategy and investment, (8) monitoring and compliance, and (9) research
+      and development;
+
+         e. eHealth services and applications refer to the solutions, products and
+      innovations with defined objectives to serve its intended clients or users, such
+      as health information systems, electronic medical record systems, electronic
+      health record system, enterprise resource planning system, ePharmacy system
+      laboratory system, radiology system, electronic prescription system, human
+      resource information system, registry systems, mobile health, telehealth,
+
+
+
+
+                                           2
+      telemedicine, wearables, and biomedical and related devices with IT
+      component;
+
+         f. Electronic health record (EHR) refers to a computerized health record
+      used to capture, store, access and share information of a patient between and
+      across health care providers and health-related entities;
+
+         g. Electronic medical record (EMR) refers to a computerized medical
+      record used to capture, store and share information of a patient to health care
+      providers in an institution or organization;
+
+          h. Electronic prescription (ePrescription) refers to a system that allows
+      healthcare providers to write and send prescriptions in an automated or
+      electronic way to a pharmacy with capability to receive such;
+
+         i. Geographically isolated and disadvantaged areas (GIDAs) refer to
+      barangays specifically disadvantaged due to the presence of both physical
+      and socio-economic factors. For a barangay to be classified as GIDA, both
+      physical and socioeconomic factors must be present:
+
+                 1. Physical factors are characteristics that limit the delivery of
+             and/or access to basic health services to communities that are difficult
+             to reach due to distance, weather conditions, and transportation
+             difficulties;
+
+                2. Socioeconomic factors are social, cultural, and economic
+             characteristics of the community that limit access to and utilization of
+             health services;
+
+         j. Health sector enterprise architecture refers to the blueprint on which
+      eHealth services and applications shall be developed, implemented, and
+      scaled up; and
+
+          k. Information and communications technology refers to all technologies
+      for the communication of information, which include data, application or
+      information systems, internet, network, connectivity, telecommunications,
+      among others.
+
+        SEC. 6. Implementing Agency. – The Department of Health (DOH) shall be the
+lead implementing agency to carry out the provisions of this Act. The DOH shall
+strengthen and transform its existing Knowledge Management and Information
+Technology Service (KMITS) into a full-fledged Bureau, to be called as the National
+eHealth Information and Services Bureau (NeHISB), and which shall perform the
+overall management and administration of this Act. The additional plantilla position
+to be created for this purpose shall be submitted to the Department of Budget and
+Management (DBM) for evaluation and approval.
+
+
+
+
+                                         3
+      The Bureau shall also serve as a secretariat of the eHealth Policy and
+Coordination Council as provided in Sec. 8 hereof.
+
+        SEC. 7. Regional and Local Implementation Structures and Staffing Pattern. – To
+assist in the implementation of this Act, the regional organizational structures shall
+be lodged under the Center for Health Development of the DOH while local
+organizational structures shall be subject to the discretion of the local government
+units (LGUs) in relation to Section 76 of RA No. 7160, otherwise known as the “Local
+Government Code of 1991”.
+
+                             ARTICLE II
+                    GOVERNANCE AND ACCOUNTABILITY
+
+       SEC. 8. Creation of the eHealth Policy and Coordination Council. – There shall be
+created an independent body to be known as the eHealth Policy and Coordination
+Council, hereby referred to as the Council, to provide and promote relevant policies
+and guidelines for the effective coordination and implementation of this Act. The
+Council shall be composed of the following key officials:
+
+          a.​ Secretary, DOH-Chairperson;
+
+          b.​ Secretary, DICT-Co-Chairperson;
+
+          c.​ President & Chief Executive Officer, PhilHealth - Co-Chairperson;
+
+          d.​ Secretary, DOST;
+
+          e.​ Secretary, Department of Social Welfare and Development (DSWD);
+
+          f.​ Secretary, Department of Interior and Local Government (DILG);
+
+          g.​ Secretary, DBM;
+
+          h.​ Chancellor, University of the Philippines - Manila (UPM);
+
+          i.​ Chairman, Professional Regulation Commission (PRC);
+
+          j.​ Chairperson, Commission on Higher Education (CHED);
+
+          k.​ Chairperson, National Privacy Commission (NPC);
+
+          l.​ National Statistician, Philippine Statistics Authority (PSA);
+
+          m.​ Two (2) representatives from professional medical or health societies;
+
+          n.​ One (1) representative from patients’ group; and
+
+          o.​ One (1) representative from the ICT industry associations.
+
+
+
+                                           4
+        The heads of government agencies may be represented by a designated
+official whose rank shall not be lower than Assistant Secretary or its equivalent.
+Members representing the private sector shall be appointed by the President of the
+Philippines not later than thirty (30) days after the effectivity of this Act and shall
+serve for a term of three (3) years, renewable upon recommendation of the Council
+for a maximum of two (2) consecutive terms.
+
+       The government agency-members of the Council shall have the authority to
+act upon and decide on all urgent matters pending the formation of the Council and
+the appointment of members from the private sector by the President of the
+Philippines.
+
+       SEC. 9. Powers and Duties of the Council. – The Council shall exercise the
+following powers and functions:
+
+          a. Define and promote over-all eHealth policies, standards and regulations
+      at all levels of health care system, public and private;
+
+          b. Ensure integration and coordination of national and local eHealth
+      strategies and initiatives; and
+
+        c. Submit yearly assessments and accomplishment reports to the Senate
+      Committee on Health and Demography, and the House of Representatives
+      Committee on Health for performance monitoring and evaluation.
+
+       SEC. 10. Ensuring Broader Participation in Health Implementation. – The Council
+shall create multi-sectoral groups, composed of both the private and public sectors
+to ensure broader stakeholder participation and for the furtherance of its objectives.
+
+      Setting up of the sub-structures or mechanisms shall be in accordance with
+RA No. 11223, otherwise known as the “Universal Health Care Act”, and other related
+issuances.
+
+                              ARTICLE III
+                    STANDARDS AND INTEROPERABILITY
+
+       SEC. 11. Health Sector Enterprise Architecture. – The NeHS shall be operated
+within the health sector enterprise architecture that aligns and ensure that health
+and health-related data are made available and accessible anytime and anywhere to
+various stakeholders, business processes for health are streamlined and integrated,
+and services and applications are usable, safe, efficient and effective, following the
+health care business model provided under RA No 11223, otherwise known as the
+“Universal Health Care Act”, and other related issuances.
+
+       Rationalization for safety and cost effectiveness, scope and standards for
+design and use of technologies in the health sector shall also be defined in this
+architecture.
+
+
+
+                                           5
+      All health care providers and health-related entities shall adopt a health
+enterprise architecture as defined and guided by the Council.
+
+        SEC. 12. Standards Compliance. – All health care providers and health-related
+entities shall comply with the data standards to allow interoperability and health
+information exchange, and ensure data protection in accordance with RA No. 10173,
+otherwise known as the “Data Privacy Act of 2012”, and other related laws and
+issuances.
+
+       These standards shall include, inter alia, patient identifier, health care
+provider identifiers, and terminology and messaging standards, and shall be in
+accordance with the Philippine Government interoperability and data security
+framework,and other relevant standards.
+
+                                ARTICLE IV
+                        SERVICES AND APPLICATIONS
+
+       SEC. 13. Rationalization of eHealth Services and Applications. – Design,
+development, and implementation of eHealth services and applications shall focus
+on the automation and interoperability of the various mandatory business processes
+and data services in the health sector as laid out in the Health Sector Enterprise
+Architecture which shall comply with regulatory requirements and may be
+subjected to health technology assessment.
+
+      SEC. 14. Scope of eHealth Services and Applications. – eHealth services shall
+include the following areas:
+
+          a.​ Mandatory eHealth Data Services:
+
+                 1.​ Master Person Index
+
+                 2.​ Master Provider (Human Resources) Index
+
+                 3.​ Master Facility Index
+
+                 4.​ Terminology or Health Services Registry
+
+                 5.​ National Immunization Registry
+
+          b.​ Compliant eHealth Services and Applications:
+
+                 1.​ Electronic Health Record/Electronic Medical Record
+
+                 2.​ Health Information Exchange
+
+                 3.​ Health Facility Operations and Management
+
+
+
+
+                                             6
+                 4.​ Disease Registries
+
+                 5.​ TeleHealth/TeleMedicine
+
+                 6.​ Human Resources in eHealth
+
+                 7.​ Supply Chain Management
+
+                                    ARTICLE V
+                                   TELEHEALTH
+
+       SEC. 15. Regulations of TeleHealth Services and eHealth Related Devices. – The
+Council, through the DOH, shall establish and maintain a regulatory system for
+telehealth services and eHealth-related devices.
+
+       SEC. 16. Standards of Practice and Certification of Individuals and Entities
+Providing TeleHealth Services. – To complement the regulations of telehealth services
+and eHealth-related devices, the PRC and the DOH, in consultation with PhilHealth,
+UPM-National TeleHealth Center, DICT, academia, medical and specialty societies,
+non-government organizations, and the private and business sectors, shall set the
+standards of practice and implement a certification mechanism for health care
+providers and health-related entities providing telehealth services.
+
+                                 ARTICLE VI
+                              HUMAN RESOURCES
+
+      SEC. 17. Human Resource in eHealth. – Health care professionals shall plan,
+design, build, operate, use, maintain and support eHealth services and applications.
+
+       The DOH, PRC, CHED, DICT, and Technical Education and Skills
+Development Authority (TESDA), in consultation with medical and specialty
+societies, IT professional associations, and academia, shall establish the minimum
+competencies and impose the same on health, health-related and digital health
+professionals. This shall be part of the curriculum of health and health-related
+courses.
+
+       SEC. 18. Human Resource for eHealth Development Plan. – The DOH, PRC,
+CHED, and TESDA shall formulate the Human Resource for eHealth Development
+Plan which shall develop new curricula, integrate changes in existing curricula,
+create formal and non-formal training programs, and continuing professional
+development programs concerning the practice of eHealth. There shall also be
+creation of personnel services items, plantilla positions, and other employment
+opportunities for human resource in government hospitals and institutions to
+manage and enable eHealth in healthcare and related services.
+
+
+
+
+                                          7
+                                   ARTICLE VII
+                                INFRASTRUCTURE
+
+       SEC. 19. ICT Infrastructure. – The DICT, in coordination with DOH,
+PhilHealth, and DOST, shall establish and maintain the necessary national ICT
+infrastructure to implement eHealth services and applications.
+
+       SEC. 20. National Health Data Center. – The PhilHealth, in coordination with
+the DOH, DICT and DOST, shall establish and maintain the National eHealth Data
+Center, and implement an agile and sustainable data management and governance
+framework and system in support of RA No. 11223, otherwise known as the
+“Universal Health Care Act”, and in compliance with RA No. 10173, otherwise known
+as the “Data Privacy Act of 2012” for data protection.
+
+                                ARTICLE VIII
+                         STRATEGY AND INVESTMENT
+
+       SEC. 21. National eHealth Strategic Framework and Plan. – The Council shall
+spearhead the development and monitoring of the strategic framework and plan to
+serve and guide the operations of the NeHS.
+
+      SEC. 22. Financing the eHealth Strategic Framework and Plan. – Financing for the
+NeHS by DOH, PhilHealth and other partners, as defined by the Council, shall be
+made available to scale up eHealth implementation at the national level.
+
+       SEC. 23. Private Sector Participation. – The DOH shall promulgate rules
+regarding the participation of the private sector, including public-private
+partnerships, and other suitable arrangements, in the provision of eHealth services,
+applications, and ICT infrastructure.
+
+                               ARTICLE IX
+                       MONITORING AND COMPLIANCE
+
+       SEC. 24. Monitoring and Compliance. – The Council shall measure and monitor
+the performance and progress of the implementation of this Act.
+
+                                ARTICLE X
+                        RESEARCH AND DEVELOPMENT
+
+       SEC. 25. Research and Development. – Consistent with RA No. 10532, otherwise
+known as the “Philippine National Health Research System Act of 2013”, and the
+mandate of the DOST, the DOST-Philippine Council for Health Research and
+Development (DOST-PCHRD), in consultation with DOH, PRC, CHED, DICT,
+PhilHealth, UPM-National TeleHealth Center, academia, regional health research
+consortia, medical and specialty societies, non-government organizations, and the
+private and business sectors, shall ensure the development of new eHealth services
+and applications through:
+
+
+
+
+                                          8
+        a. Formulation of eHealth research priority areas under the National
+      Unified Health Research Agenda (NUHRA), and other research agendas;
+
+          b. Funding and mobilizing resources for researches on eHealth, including
+      creation of formal and non-formal capability building programs for the
+      development of a pool of eHealth researchers and innovators, which are
+      aligned with the research agenda;
+
+         c. Establishment and strengthening of centers of excellence of eHealth
+      policy studies, research and development; and
+
+         d. Establishment and adherence of mechanisms that strengthen eHealth
+      innovation research and strategy to the health technology assessment process
+      as provided under RA No. 11223, otherwise known as the “Universal Health
+      Care Act”, and that integrate explicit use of evidence into the policy and
+      decision-making process and national eHealth standards, and support the
+      growth of research consortia on eHealth;
+
+         A separate unit within the PCHRD shall handle and manage eHealth related
+activities and programs. The human resource requirement of such unit shall be
+determined by PCHRD in consultation with the DOH, CSC, and DBM.
+
+                                ARTICLE XI
+                         ADMINISTRATIVE PENALTIES
+
+      SEC. 26. Rules and Procedures for Administrative Violations and Complaints. – The
+Council shall promulgate rules and procedures relating to administrative violations
+and complaints, insofar as they relate to the establishment and operations of the
+NeHS.
+
+                                ARTICLE XII
+                         MISCELLANEOUS PROVISIONS
+
+       SEC. 27. Appropriations. – The amount necessary for the implementation of
+this Act shall be included in the Annual General Appropriations Act.
+
+      SEC. 28. Implementing Rules and Regulations. – Within one hundred eighty days
+(180) days from the effectivity of this Act, the Secretary of DOH, shall, after
+consultation with the Secretaries of DICT and DOST, the President and Chief
+Executive Office of PhilHealth, the Chancellor of UPM, the Chairman of the PRC,
+the Chairperson of CHED, the National Statistician of PSA, and representatives of
+medical and paramedical associations and societies, and other stakeholders,
+promulgate the necessary rules and regulations implementing the provisions of this
+Act.
+
+        SEC. 29. Transitory Provisions. – The transformation of KMITS into a
+full-fledged Bureau and the formulation of the internal organic structure and
+regional and local implementation structures, staffing pattern, operating system, and
+
+
+
+                                           9
+the revised budget of the DOH for health information technology shall be completed
+within six (6) months from the promulgation of the Implementing Rules and
+Regulations of this Act, during which time, the existing KMITS and regional and
+local implementation personnel shall continue to serve in holdover capacities until a
+full and permanent Bureau is constituted and functioning, and new appointments
+are issued.
+
+       SEC. 30. Separability Clause. – If any part or provision of this Act is held
+invalid or unconstitutional, the remaining parts or provisions not affected shall
+remain in full force and effect.
+
+      SEC. 31. Repealing Clause. – All general and special laws, decrees, executive
+orders, proclamations and administrative regulation, or parts thereof which are
+inconsistent with this Act are hereby repealed, amended and modified accordingly.
+
+      SEC. 32. Effectivity. – This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in a newspaper of general circulation.
+
+        Approved,
+
+
+
+
+                                         10
+
