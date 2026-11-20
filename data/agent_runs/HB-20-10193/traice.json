@@ -1,0 +1,266 @@
+{
+ "output": {
+  "target": "HB-20-10193",
+  "entity_proposed": "",
+  "proposal": "HB No. 10193 seeks to rename the existing National Nutrition Council (NNC) as the National Nutrition Commission, attached to the Office of the President, headed by a Chairperson and two Commissioners, with expanded policy, coordination and surveillance functions. It aims to secure the right of every Filipino to adequate and nutritious food and an integrated approach to nutrition and food security.",
+  "alignment": "As a government organization measure, the review should examine whether converting the NNC into a Commission with Cabinet and Undersecretary ranks, upgraded positions and a new attachment to the Office of the President is warranted, how its functions under Section 7 (Powers, Functions, and Responsibilities of the Commission) relate to those of the DOH, DSWD, DepEd and other agencies listed in Section 8 (Provisional Members and Linkages), and how the measure relates to the streamlining and reduction of overlapping functions under the Government Optimization Act (RA No. 12231). The measure aligns with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on the Universal Health Care system and better targeting of social protection. No LEDAC Common Legislative Agenda item is identified for the measure.",
+  "legislative_history": [
+   "HB No. 10193 was filed on July 22, 2026 by Representative Eric G. Yap; its status is filed, with later stages not reflected in the available data.",
+   "In the same Congress, HB No. 9269 and HB No. 11655 likewise propose a National Nutrition Commission, but with a different design (a Secretariat headed by an Executive Director and funding charged to the appropriations of the National Nutrition Council).",
+   "HB No. 2921 (filed August 4, 2025) and HB No. 4085 (filed August 27, 2025), both pending in the Committee, carry titles on creating or strengthening the National Nutrition Commission; their texts were not reviewed.",
+   "Bills with similar titles were filed in the 19th Congress, including HB No. 7700, HB No. 8581 and HB No. 9816 on a National Nutrition Commission, and HB No. 6501, HB No. 7586, HB No. 7869, HB No. 8051, HB No. 9123 and HB No. 9566 on strengthening the National Nutrition Council; their texts were not reviewed, so whether any is an earlier version cannot be confirmed."
+  ],
+  "related": [
+   {
+    "id": "HB-20-11655",
+    "relationship": "Alternative proposal",
+    "basis": "Same Congress and chamber, also converts the NNC into a Commission, but with four-year renewable terms, a Secretariat and funding from NNC appropriations rather than a renaming with six-year non-renewable terms.",
+    "section": "HB-20-11655:s5",
+    "quote": "The Commission shall be composed of a Chairperson and two (2) Commissioners, all of whom shall be appointed by the President for a term of four (4) years"
+   },
+   {
+    "id": "HB-20-9269",
+    "relationship": "Alternative proposal",
+    "basis": "Same Congress and chamber, proposes a National Nutrition Commission with investigative and recommendatory powers, renewable terms and a Secretariat, a materially different design.",
+    "section": "HB-20-9269:s5",
+    "quote": "all of whom shall be appointed by the President for a term of six (6) years, without prejudice to one reappointment"
+   },
+   {
+    "id": "HB-20-2921",
+    "relationship": "Alternative proposal",
+    "basis": "Title addresses the same creation of a National Nutrition Commission and repeal of PD No. 491. Title match only; text not reviewed.",
+    "section": "meta:HB-20-2921",
+    "quote": "AN ACT CREATING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491"
+   },
+   {
+    "id": "HB-20-4085",
+    "relationship": "Alternative proposal",
+    "basis": "Title addresses strengthening the National Nutrition Commission and repeal of PD No. 491. Title match only; text not reviewed.",
+    "section": "meta:HB-20-4085",
+    "quote": "AN ACT STRENGTHENING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491"
+   },
+   {
+    "id": "HB-19-8581",
+    "relationship": "Alternative proposal",
+    "basis": "19th Congress bill whose title addresses the creation of a National Nutrition Commission. Title match only; text not reviewed.",
+    "section": "meta:HB-19-8581",
+    "quote": "AN ACT CREATING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491"
+   },
+   {
+    "id": "HB-19-7700",
+    "relationship": "Alternative proposal",
+    "basis": "19th Congress bill whose title addresses the creation of a National Nutrition Commission. Title match only; text not reviewed.",
+    "section": "meta:HB-19-7700",
+    "quote": "AN ACT CREATING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491"
+   },
+   {
+    "id": "HB-19-9816",
+    "relationship": "Alternative proposal",
+    "basis": "19th Congress bill whose title addresses strengthening the National Nutrition Commission. Title match only; text not reviewed.",
+    "section": "meta:HB-19-9816",
+    "quote": "AN ACT STRENGTHENING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "PD-491",
+    "label": "Amends or repeals",
+    "overlap": "Section 4 (Renaming of the National Nutrition Council) renames the NNC created under PD No. 491, which the title states is repealed.",
+    "section": "HB-20-10193:s4",
+    "quote": "The nomenclature of the National Nutrition Council (NNC) which was established pursuant to Presidential Decree (PD) No. 491, as amended, is hereby changed"
+   },
+   {
+    "law": "RA-8976",
+    "label": "Referenced in the bill",
+    "overlap": "Section 9 (Philippine Plan of Action for Nutrition) requires the PPAN to consider the Philippine Food Fortification Act of 2000.",
+    "section": "HB-20-10193:s9",
+    "quote": "RA No. 8976, otherwise known as the"
+   },
+   {
+    "law": "RA-8172",
+    "label": "Referenced in the bill",
+    "overlap": "Section 9 (Philippine Plan of Action for Nutrition) requires the PPAN to consider the salt iodization law.",
+    "section": "HB-20-10193:s9",
+    "quote": "RA No. 8172, otherwise known as the"
+   },
+   {
+    "law": "RA-10862",
+    "label": "Referenced in the bill",
+    "overlap": "Section 9 (Philippine Plan of Action for Nutrition) requires the PPAN to consider the Nutrition and Dietetics Law of 2016.",
+    "section": "HB-20-10193:s9",
+    "quote": "RA No. 10862, otherwise known as the"
+   },
+   {
+    "law": "RA-11037",
+    "label": "Referenced in the bill",
+    "overlap": "Section 9 (Philippine Plan of Action for Nutrition) requires the PPAN to consider the national feeding program law.",
+    "section": "HB-20-10193:s9",
+    "quote": "RA No. 11037, otherwise known as the"
+   },
+   {
+    "law": "RA-11148",
+    "label": "Referenced in the bill",
+    "overlap": "Section 9 (Philippine Plan of Action for Nutrition) requires the PPAN to consider the First 1,000 Days law.",
+    "section": "HB-20-10193:s9",
+    "quote": "RA No. 11148, otherwise known as the"
+   },
+   {
+    "law": "EO-472-2005",
+    "label": "Amends or repeals",
+    "overlap": "Section 4 (Renaming of the National Nutrition Council) attaches the Commission to the Office of the President, which may supersede the attachment this order's title describes; title only, text not reviewed.",
+    "section": "law:EO-472-2005",
+    "quote": "TRANSFERRING THE NATIONAL NUTRITION COUNCIL FROM THE DEPARTMENT OF AGRICULTURE TO THE DEPARTMENT OF HEALTH"
+   },
+   {
+    "law": "EO-234-1987",
+    "label": "Amends or repeals",
+    "overlap": "Section 4 (Renaming of the National Nutrition Council) and Section 5 (Composition of the Commission) restructure the NNC, which this order's title indicates it reorganized; title only, text not reviewed.",
+    "section": "law:EO-234-1987",
+    "quote": "REORGANIZING THE NATIONAL NUTRITION COUNCIL"
+   }
+  ],
+  "salient_features": "HB No. 10193 seeks to convert the National Nutrition Council into the National Nutrition Commission, attached to the Office of the President, to lead an integrated national approach to nutrition and food security. Its salient features are as follows:\na. Section 4 (Renaming of the National Nutrition Council) provides that the NNC established under PD No. 491 is renamed the National Nutrition Commission and attached to the Office of the President for policy and program coordination.\nb. Section 5 (Composition of the Commission) provides that the Commission is headed by a Chairperson with the rank of Cabinet Secretary and two Commissioners with the rank of Undersecretary, who must have at least ten years of professional practice in health and nutrition; no salary grades are stated.\nc. Section 6 (Terms of Office) provides for six-year terms without reappointment, staggered for the first set of appointees, with security of tenure and interim assumption by the most senior Commissioner.\nd. Section 7 (Powers, Functions, and Responsibilities of the Commission) provides that the Commission formulates national nutrition and food policy, supervises and monitors nutrition programs of government and the private sector, maintains a nutrition surveillance system, coordinates the release of public funds and requests for loans and grants for nutrition, and provides incentives, among other functions.\ne. Section 8 (Provisional Members and Linkages) provides that Undersecretaries of ten departments, including the DBM, the presidents of the leagues of local government units and up to three private sector representatives serve as provisional members who sit en banc with the Commission to approve the PPAN, and receive honoraria.\nf. Section 9 (Philippine Plan of Action for Nutrition) provides that the Commission develops a ten-year PPAN aligned with the Philippine Development Plan, with measurable targets, concurred in by the provisional members and submitted to the Office of the President.\ng. Section 10 (Nutrition Month) provides that July is designated as Nutrition Month, with programs approved by the Commission.\nh. Section 11 (Donations) provides that the Commission may receive and administer donations, grants and gifts.\ni. Section 12 (Retention of Personnel; Security of Tenure; Upgrading of Positions and Salaries) provides that existing permanent personnel are retained, their positions and salaries are upgraded to the level of a department set-up, and the Commission may hire additional personnel.\nj. Section 13 (Transitory Provisions) provides that the incumbent Executive Director and Deputy Executive Directors serve as the first Chairperson and Commissioners.\nk. Section 14 (Appropriations) provides that the State provides the initial amount needed for organizational and operational requirements, and thereafter funding is included in the General Appropriations Act.",
+  "related_measures_policy": "HB No. 10193 may be considered alongside HB No. 9269 and HB No. 11655 of the same Congress, which likewise propose a National Nutrition Commission but adopt a different structure and funding arrangement, as well as HB No. 2921 and HB No. 4085, whose titles address the same subject. The measure relates to PD No. 491, under which the NNC was created, and requires the PPAN under Section 9 (Philippine Plan of Action for Nutrition) to consider RA No. 8976, RA No. 8172, RA No. 10862, RA No. 11037 and RA No. 11148. It aligns with the Human Capital Development priority of the FY 2027 Budget Priorities Framework. The review should assess whether elevating the NNC to a Commission attached to the Office of the President, with upgraded positions under Section 12 (Retention of Personnel; Security of Tenure; Upgrading of Positions and Salaries), is consistent with the streamlining objectives of the Government Optimization Act (RA No. 12231), and whether the coordination of public funds, loans and grants under Section 7 (Powers, Functions, and Responsibilities of the Commission) duplicates existing budget and planning processes.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Initial amount necessary for organizational and operational requirements; no amount or source stated",
+    "section": "Section 14 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the General Appropriations Act of the year following enactment and thereafter",
+    "section": "Section 14 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "One Chairperson with the rank of Cabinet Secretary and two Commissioners with the rank of Undersecretary; salary grades not stated",
+    "section": "Section 5 (Composition of the Commission)"
+   },
+   {
+    "item": "Position upgrading",
+    "detail": "Present positions and salaries of personnel upgraded to the level of counterparts in a department set-up; cost not stated",
+    "section": "Section 12 (Retention of Personnel; Security of Tenure; Upgrading of Positions and Salaries)"
+   },
+   {
+    "item": "Additional personnel",
+    "detail": "Commission may hire such other personnel as necessary; number not stated",
+    "section": "Section 12 (Retention of Personnel; Security of Tenure; Upgrading of Positions and Salaries)"
+   },
+   {
+    "item": "Members",
+    "detail": "Honoraria for provisional members of Ten thousand pesos (Php 10,000.00) or an alternative percentage-based amount; the provision is incomplete in the available text",
+    "section": "Section 8 (Provisional Members and Linkages)"
+   }
+  ],
+  "reviewer_checks": [
+   "The title states that the bill establishes the Commission and repeals PD No. 491, but Section 4 (Renaming of the National Nutrition Council) only renames the existing NNC and Section 16 (Repealing Clause) contains no express repeal of PD No. 491; confirm the intended effect.",
+   "The text of Section 7 (Powers, Functions, and Responsibilities of the Commission) and Section 8 (Provisional Members and Linkages) appears cut off, including the full list of functions and the honoraria provision; verify against the official copy of the bill.",
+   "Section 13 (Transitory Provisions) makes the incumbent Executive Director and Deputy Executive Directors the first Chairperson and Commissioners; confirm consistency with the qualifications in Section 5 (Composition of the Commission), the number of Commissioners and the staggered terms in Section 6 (Terms of Office).",
+   "Section 6 (Terms of Office) sets six-year terms without reappointment but a four-year term for the second commissioner first appointed; confirm the intended staggering.",
+   "Confirm the cost of upgrading positions and salaries under Section 12 (Retention of Personnel; Security of Tenure; Upgrading of Positions and Salaries) and the absence of an amount in Section 14 (Appropriations).",
+   "Confirm how the attachment to the Office of the President under Section 4 relates to the current attachment of the NNC under existing executive orders.",
+   "Check typographical errors, such as the repeated word 'promote' in Section 2 (Declaration of Policy), 'Salt lodization' in Section 9, the incomplete definition of malnutrition in Section 3 (Definition of Terms), the truncated heading of Section 12, and 'fifteen days (15)' in Section 17 (Effectivity).",
+   "Verify that the agency referred to in Section 3 (Definition of Terms) for the poverty line remains the correct reference.",
+   "Confirm with the House the status of HB No. 2921, HB No. 4085, HB No. 9269 and HB No. 11655, and whether any 19th Congress bill with a similar title is an earlier version of this measure."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same Congress and chamber, also converts the NNC into a Commission, but with four-year renewable terms, a Secretariat and funding from NNC appropriations rather than a renaming with six-year non-renewable terms.",
+   "section": "HB-20-11655:s5",
+   "quote": "The Commission shall be composed of a Chairperson and two (2) Commissioners, all of whom shall be appointed by the President for a term of four (4) years",
+   "check": "verified"
+  },
+  {
+   "claim": "Same Congress and chamber, proposes a National Nutrition Commission with investigative and recommendatory powers, renewable terms and a Secretariat, a materially different design.",
+   "section": "HB-20-9269:s5",
+   "quote": "all of whom shall be appointed by the President for a term of six (6) years, without prejudice to one reappointment",
+   "check": "verified"
+  },
+  {
+   "claim": "Title addresses the same creation of a National Nutrition Commission and repeal of PD No. 491. Title match only; text not reviewed.",
+   "section": "meta:HB-20-2921",
+   "quote": "AN ACT CREATING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491",
+   "check": "verified"
+  },
+  {
+   "claim": "Title addresses strengthening the National Nutrition Commission and repeal of PD No. 491. Title match only; text not reviewed.",
+   "section": "meta:HB-20-4085",
+   "quote": "AN ACT STRENGTHENING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491",
+   "check": "verified"
+  },
+  {
+   "claim": "19th Congress bill whose title addresses the creation of a National Nutrition Commission. Title match only; text not reviewed.",
+   "section": "meta:HB-19-8581",
+   "quote": "AN ACT CREATING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491",
+   "check": "verified"
+  },
+  {
+   "claim": "19th Congress bill whose title addresses the creation of a National Nutrition Commission. Title match only; text not reviewed.",
+   "section": "meta:HB-19-7700",
+   "quote": "AN ACT CREATING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491",
+   "check": "verified"
+  },
+  {
+   "claim": "19th Congress bill whose title addresses strengthening the National Nutrition Commission. Title match only; text not reviewed.",
+   "section": "meta:HB-19-9816",
+   "quote": "AN ACT STRENGTHENING THE NATIONAL NUTRITION COMMISSION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 491",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 4 (Renaming of the National Nutrition Council) renames the NNC created under PD No. 491, which the title states is repealed.",
+   "section": "HB-20-10193:s4",
+   "quote": "The nomenclature of the National Nutrition Council (NNC) which was established pursuant to Presidential Decree (PD) No. 491, as amended, is hereby changed",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Philippine Plan of Action for Nutrition) requires the PPAN to consider the Philippine Food Fortification Act of 2000.",
+   "section": "HB-20-10193:s9",
+   "quote": "RA No. 8976, otherwise known as the",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Philippine Plan of Action for Nutrition) requires the PPAN to consider the salt iodization law.",
+   "section": "HB-20-10193:s9",
+   "quote": "RA No. 8172, otherwise known as the",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Philippine Plan of Action for Nutrition) requires the PPAN to consider the Nutrition and Dietetics Law of 2016.",
+   "section": "HB-20-10193:s9",
+   "quote": "RA No. 10862, otherwise known as the",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Philippine Plan of Action for Nutrition) requires the PPAN to consider the national feeding program law.",
+   "section": "HB-20-10193:s9",
+   "quote": "RA No. 11037, otherwise known as the",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Philippine Plan of Action for Nutrition) requires the PPAN to consider the First 1,000 Days law.",
+   "section": "HB-20-10193:s9",
+   "quote": "RA No. 11148, otherwise known as the",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 4 (Renaming of the National Nutrition Council) attaches the Commission to the Office of the President, which may supersede the attachment this order's title describes; title only, text not reviewed.",
+   "section": "law:EO-472-2005",
+   "quote": "TRANSFERRING THE NATIONAL NUTRITION COUNCIL FROM THE DEPARTMENT OF AGRICULTURE TO THE DEPARTMENT OF HEALTH",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 4 (Renaming of the National Nutrition Council) and Section 5 (Composition of the Commission) restructure the NNC, which this order's title indicates it reorganized; title only, text not reviewed.",
+   "section": "law:EO-234-1987",
+   "quote": "REORGANIZING THE NATIONAL NUTRITION COUNCIL",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-20T00:09:33+00:00"
+ }
+}
