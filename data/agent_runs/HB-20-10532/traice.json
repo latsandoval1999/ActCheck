@@ -1,0 +1,168 @@
+{
+ "output": {
+  "target": "HB-20-10532",
+  "entity_proposed": "Tatak Pinoy Council (the Council)",
+  "proposal": "HB No. 10532 seeks to mandate the formulation, financing, implementation, monitoring and evaluation of a multi-year Tatak Pinoy Strategy (TPS) to expand and diversify the productive capabilities of local enterprises, and to create a Tatak Pinoy Council, chaired by the DEPDev Secretary, to lead the Strategy as a policy and advisory body to the President.",
+  "alignment": "As a government organization measure, the review should examine whether the proposed Council duplicates existing bodies and mandates, in particular the existing law whose title closely resembles this bill (RA No. 11981) and the planning functions of the DEPDev, and how the measure relates to the streamlining of the Executive branch and the reduction of overlapping functions under the Government Optimization Act (RA No. 12231). No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified for this measure.",
+  "legislative_history": [
+   "HB No. 10532 was filed in the 20th Congress on August 3, 2026 by Representative Alred Delos Santos; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "In the 19th Congress, several House bills with near-identical titles were filed between June and November 2023, including HB Nos. 8525, 8601, 8671, 8709, 8807, 8911, 8918, 8949, 9044, 9441 and 9613; HB No. 8525 is recorded as consolidated with an approved bill and HB No. 9613 as pending in the committee.",
+   "In the 19th Congress Senate, SB No. 2218 (Tatak Pinoy (Proudly Filipino) Act) is recorded as consolidated/substituted in the committee report, and SB No. 2426, bearing the same short title, is recorded as approved by the President of the Philippines.",
+   "An existing law, RA No. 11981, carries a title closely resembling that of HB No. 10532; the relationship between this bill and that law should be confirmed."
+  ],
+  "related": [
+   {
+    "id": "SB-19-2426",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-19-2426",
+    "quote": "TATAK PINOY (PROUDLY FILIPINO) ACT: AN ACT MANDATING THE FORMULATION, FUNDING, IMPLEMENTATION, MONITORING, AND EVALUATION OF A COMPREHENSIVE AND MULTI-YEAR"
+   },
+   {
+    "id": "SB-19-2218",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-19-2218",
+    "quote": "TATAK PINOY (PROUDLY FILIPINO) ACT: AN ACT MANDATING THE FORMULATION, FINANCING, IMPLEMENTATION, MONITORING, AND EVALUATION OF A COMPREHENSIVE AND MULTI-YEAR TATAK PINOY (PROUDLY FILIPINO) STRATEGY"
+   },
+   {
+    "id": "HB-19-8525",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-8525",
+    "quote": "ESTABLISHING A TATAK PINOY COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-8709",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-8709",
+    "quote": "ESTABLISHING A TATAK PINOY COUNCIL, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "HB-19-9613",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-9613",
+    "quote": "ESTABLISHING A TATAK PINOY COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-11981",
+    "label": "Overlapping functions",
+    "overlap": "The law's title indicates it already mandates a Tatak Pinoy Strategy and establishes a Tatak Pinoy Council, overlapping with Section 4 (Tatak Pinoy Strategy) and Section 10 (Tatak Pinoy Council) of the bill.",
+    "section": "law:RA-11981",
+    "quote": "ESTABLISHING A TATAK PINOY COUNCIL, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+   },
+   {
+    "law": "RA-11904",
+    "label": "Referenced in the bill",
+    "overlap": "Section 4 (Tatak Pinoy Strategy) includes creative industries as defined under RA No. 11904 among the target sectors of the Strategy.",
+    "section": "HB-20-10532:s4",
+    "quote": "including but not limited to creative industries as defined by Republic Act No. 11904, otherwise known as the Philippine Creative Industries Development Act"
+   },
+   {
+    "law": "RA-11293",
+    "label": "Referenced in the bill",
+    "overlap": "The bill cites RA No. 11293 on innovation and MSME competitiveness, which may bear on the technology and innovation pillar under Section 5 (Pillars of the Tatak Pinoy Strategy).",
+    "section": "law:RA-11293",
+    "quote": "An Act Adopting Innovation as Vital Component of the Countrys Development Policies to Drive Inclusive Development"
+   }
+  ],
+  "salient_features": "HB No. 10532 seeks to mandate a comprehensive and multi-year Tatak Pinoy Strategy and to create the Tatak Pinoy Council to lead it. Its salient features are as follows:\na. Section 2 (Declaration of Policy) provides that the State shall promote increasingly diverse, sophisticated and globally competitive Philippine-made products, goods and services, in collaboration with the private sector.\nb. Section 4 (Tatak Pinoy Strategy) provides that the Council shall formulate, finance, implement, monitor and evaluate the TPS, developed alongside the Philippine Development Plan, covering at least six years with mid-term updates every three years, and listing target sectors including creative industries.\nc. Section 5 (Pillars of the Tatak Pinoy Strategy) provides that the TPS shall be organized under five pillars (manpower; infrastructure; technology and innovation; investments; and public fiscal management and government procurement), with technical clusters headed by government agencies, and tasks the DOLE with a National Upskilling and Manpower Competitiveness Agenda.\nd. Section 6 (Planning Call) provides that the Council shall issue a Planning Call to agencies and private stakeholders, parallel to the formulation of the Philippine Development Plan, and that national government agencies shall submit their plans and programs to the Council.\ne. Section 7 (Harmonization of Plans) provides that the Council shall direct the government planning cycle to harmonize national, sectoral and spatial plans, and review and approve agency development plans.\nf. Section 8 (Automatic Review and Update) provides that the DEPDev, with the Council, shall review TPS implementation annually, and that the TPS shall be amended or revised every three years.\ng. Section 9 (Reportorial Requirement) provides that implementing agencies and local government units shall submit quarterly reports to the Council, to be collated by the DEPDev and submitted to the President and the relevant committees of Congress.\nh. Section 10 (Tatak Pinoy Council) provides for the creation of the Council, chaired by the DEPDev Secretary with the Secretaries of Trade and Industry and of Finance as Vice Chairpersons, with ten other agency heads and two private sector representatives appointed by the President for three-year terms, as a policy and advisory body to the President; no positions or salary grades are specified.\ni. Section 11 (Technical and Secretariat Support) provides that the DEPDev shall serve as the Council Secretariat, including preparing the Council's annual budget, supported by dedicated liaisons from thirteen agencies.\nj. Section 12 (Information Dissemination and Awareness Campaign) provides that the Council, with the Philippine Information Agency, shall conduct a nationwide and international information campaign on the TPS.\nk. Section 13 (Implementing Rules and Regulations) provides that an inter-agency committee chaired by the DEPDev representative shall issue the implementing rules within sixty days from effectivity.\nl. Section 14 (Appropriations) provides that initial implementation shall be charged against available appropriations of the agencies concerned, and that succeeding funding shall be included in the budgets of the concerned agencies under the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 10532 may be considered alongside the 19th Congress Tatak Pinoy measures, including SB No. 2426 (recorded as approved by the President), SB No. 2218 and HB No. 8525, and, more importantly, alongside RA No. 11981, whose title closely resembles that of this bill. No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified. The review should assess whether Section 4 (Tatak Pinoy Strategy), Section 10 (Tatak Pinoy Council) and Section 11 (Technical and Secretariat Support) duplicate the Strategy, Council and secretariat arrangements already provided under RA No. 11981, whether the measure is intended as an amendment to that law, and how the Council's planning functions under Section 7 (Harmonization of Plans) relate to the existing mandate of the DEPDev, consistent with the streamlining objectives of RA No. 12231; it should also note the link to RA No. 11904 under Section 4 (Tatak Pinoy Strategy).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged against available appropriations of the agencies concerned; no amount stated",
+    "section": "Section 14 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the budgets of the concerned national government agencies under the annual General Appropriations Act",
+    "section": "Section 14 (Appropriations)"
+   },
+   {
+    "item": "Members",
+    "detail": "Thirteen agency heads (or Undersecretary-level designees) and two private sector representatives with three-year terms; no compensation stated",
+    "section": "Section 10 (Tatak Pinoy Council)"
+   },
+   {
+    "item": "Support body",
+    "detail": "DEPDev as Council Secretariat, preparing the Council's annual budget; at least one dedicated liaison each from thirteen agencies",
+    "section": "Section 11 (Technical and Secretariat Support)"
+   },
+   {
+    "item": "Information campaign",
+    "detail": "Nationwide and international awareness campaign with the Philippine Information Agency",
+    "section": "Section 12 (Information Dissemination and Awareness Campaign)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm whether RA No. 11981 already enacts the Tatak Pinoy Strategy and Council, and whether HB No. 10532 duplicates or is intended to amend it, since the bill has no provision expressly amending that law.",
+   "Confirm the relationship of HB No. 10532 to SB No. 2426 and the other 19th Congress Tatak Pinoy measures, whose texts were not compared.",
+   "Verify the full text of Sections 2, 3, 4, 5, 10, 13 and 15, which appear incomplete or cut off in the copy reviewed, including the full powers and functions of the Council.",
+   "Locate the provision citing RA No. 11293, which does not appear in the visible portion of the text.",
+   "Section 9 (Reportorial Requirement) refers to 'LCDs' and 'the TP', apparently intended as local government units and the TPS; Section 12 refers to 'buying', apparently intended as buy-in.",
+   "Verify the spelling of the author's name as recorded in the bill list.",
+   "Check whether the Council and the Section 13 implementing rules committee need private sector representative compensation or other operating costs not stated in the bill."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-19-2426",
+   "quote": "TATAK PINOY (PROUDLY FILIPINO) ACT: AN ACT MANDATING THE FORMULATION, FUNDING, IMPLEMENTATION, MONITORING, AND EVALUATION OF A COMPREHENSIVE AND MULTI-YEAR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-19-2218",
+   "quote": "TATAK PINOY (PROUDLY FILIPINO) ACT: AN ACT MANDATING THE FORMULATION, FINANCING, IMPLEMENTATION, MONITORING, AND EVALUATION OF A COMPREHENSIVE AND MULTI-YEAR TATAK PINOY (PROUDLY FILIPINO) STRATEGY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-8525",
+   "quote": "ESTABLISHING A TATAK PINOY COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-8709",
+   "quote": "ESTABLISHING A TATAK PINOY COUNCIL, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-9613",
+   "quote": "ESTABLISHING A TATAK PINOY COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "The law's title indicates it already mandates a Tatak Pinoy Strategy and establishes a Tatak Pinoy Council, overlapping with Section 4 (Tatak Pinoy Strategy) and Section 10 (Tatak Pinoy Council) of the bill.",
+   "section": "law:RA-11981",
+   "quote": "ESTABLISHING A TATAK PINOY COUNCIL, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 4 (Tatak Pinoy Strategy) includes creative industries as defined under RA No. 11904 among the target sectors of the Strategy.",
+   "section": "HB-20-10532:s4",
+   "quote": "including but not limited to creative industries as defined by Republic Act No. 11904, otherwise known as the Philippine Creative Industries Development Act",
+   "check": "verified"
+  },
+  {
+   "claim": "The bill cites RA No. 11293 on innovation and MSME competitiveness, which may bear on the technology and innovation pillar under Section 5 (Pillars of the Tatak Pinoy Strategy).",
+   "section": "law:RA-11293",
+   "quote": "An Act Adopting Innovation as Vital Component of the Countrys Development Policies to Drive Inclusive Development",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-20T00:09:13+00:00"
+ }
+}
