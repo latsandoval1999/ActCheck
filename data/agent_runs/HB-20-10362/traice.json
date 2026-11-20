@@ -1,0 +1,57 @@
+{
+ "output": {
+  "target": "HB-20-10362",
+  "entity_proposed": "Artificial Intelligence Multi-Stakeholder Advisory Council",
+  "proposal": "HB No. 10362, the proposed \"National AI Governance Act\", seeks to provide a national framework for artificial intelligence governance, designating the DICT as lead agency, creating an Artificial Intelligence Multi-Stakeholder Advisory Council, and establishing rights relating to AI systems, together with measures on AI literacy, institutional readiness, responsible innovation, worker protection and penalties.",
+  "alignment": "As a government organization and mandates measure, the review should examine how the expanded AI governance functions assigned to the DICT under Section 7 (Powers and Functions of the DICT), and the proposed Advisory Council under Section 8 (Multi-Stakeholder Advisory Council) and its Secretariat under Section 10 (The Secretariat), fit with existing agencies and bodies, and whether they are consistent with the intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess whether the proposed National Artificial Intelligence Research Centers under Section 12 (National Artificial Intelligence Research Centers) would duplicate existing research institutions. No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item has been identified for this measure.",
+  "legislative_history": [
+   "HB No. 10362 was filed on July 29, 2026 by Representative Jose Manuel Tadeo \"Chel\" I. Diokno in the 20th Congress.",
+   "Its status is filed; later stages are not reflected in the available records.",
+   "No earlier-Congress version, counterpart, substitute bill or committee report has been identified for this measure."
+  ],
+  "related": [],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 10362 seeks to establish a national framework for artificial intelligence governance, with the DICT as lead agency supported by an Artificial Intelligence Multi-Stakeholder Advisory Council. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the National AI Governance Act.\nb. Section 5 (Rights Relating to Artificial Intelligence Systems) sets out rights relating to AI systems, constituting the proposed AI Bill of Rights.\nc. Section 6 (Lead Agency) designates the lead agency for AI governance, which Section 7 indicates is the DICT.\nd. Section 7 (Powers and Functions of the DICT) provides that the DICT, in coordination with the Advisory Council, shall formulate and update the National AI Strategy, develop national AI standards and safeguards, coordinate on possible violations of existing laws involving AI, promote AI literacy and readiness, support AI research and ecosystem development, establish regulatory sandbox programs, develop standards for and conduct or require impact assessments of high-impact AI systems, coordinate with international bodies, and submit annual reports to Congress and the President.\ne. Section 8 (Multi-Stakeholder Advisory Council) and Section 9 (Purpose and Functions of the Advisory Council) provide for the creation and functions of the Artificial Intelligence Multi-Stakeholder Advisory Council.\nf. Section 10 (The Secretariat) provides for a Secretariat supporting the Advisory Council.\ng. Section 11 (National Artificial Intelligence Strategy) through Section 16 (Institutional Artificial Intelligence Governance Policies) provide for the National AI Strategy, national AI research centers, a regulatory sandbox, a national AI literacy program, AI adoption and ecosystem development, and institutional AI governance policies.\nh. Section 17 (Just Transition Framework) and Section 18 (Employer Obligations During Artificial Intelligence) provide for worker protection measures in relation to AI adoption.\ni. Section 19 (Sustainable Artificial Intelligence Infrastructure) addresses the sustainability of AI infrastructure.\nj. Section 20 (Prohibited Practices) through Section 23 (Violation of Juridical Entities) set out prohibited practices, penalties, civil liability and remedies, and liability of juridical entities.\nk. Section 24 (Appropriations) provides that initial implementation shall be charged against the current appropriations of the DICT, and that funding for continued implementation shall be included in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 10362 may be considered in light of the Government Optimization Act (RA No. 12231), as it assigns new AI governance functions to the DICT under Section 7 (Powers and Functions of the DICT) and creates an Advisory Council and Secretariat under Section 8 (Multi-Stakeholder Advisory Council) and Section 10 (The Secretariat). No related bills or existing laws have been identified for comparison, and no FY 2027 Budget Priorities Framework or LEDAC alignment has been established. The review should assess the fiscal implications of the Advisory Council, Secretariat, research centers and literacy program, the adequacy of charging initial implementation to the current appropriations of the DICT under Section 24 (Appropriations), and possible overlap of these functions with those of existing agencies.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged against the current appropriations of the DICT; no amount stated",
+    "section": "Section 24 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Amounts necessary to be included in the annual General Appropriations Act",
+    "section": "Section 24 (Appropriations)"
+   },
+   {
+    "item": "Members",
+    "detail": "Artificial Intelligence Multi-Stakeholder Advisory Council; composition and any allowances to be verified",
+    "section": "Section 8 (Multi-Stakeholder Advisory Council)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Secretariat to the Advisory Council; staffing to be verified",
+    "section": "Section 10 (The Secretariat)"
+   },
+   {
+    "item": "Programs",
+    "detail": "National AI research centers, regulatory sandbox and national AI literacy program; cost details to be verified",
+    "section": "Section 12 (National Artificial Intelligence Research Centers)"
+   }
+  ],
+  "reviewer_checks": [
+   "Obtain and review the full text of Sections 2 to 6 and 8 to 23, as only Sections 1, 7 and 24 were available for this review; the composition of the Advisory Council, Secretariat staffing, research center arrangements and penalty amounts should be confirmed from the full text.",
+   "Confirm the lead agency designated in Section 6 (Lead Agency) and whether new plantilla positions are created for the DICT or the Secretariat.",
+   "Verify the heading of Section 18 (Employer Obligations During Artificial Intelligence), which appears incomplete.",
+   "Confirm with the House of Representatives the current status of the bill and whether any counterpart or related measures have been filed."
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-20T00:08:42+00:00"
+ }
+}
