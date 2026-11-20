@@ -1,0 +1,130 @@
+{
+ "output": {
+  "target": "HB-20-10614",
+  "entity_proposed": "Professional Wage Board (PWB)",
+  "proposal": "HB No. 10614, the proposed Philippine Professional Compensation Act, seeks to establish a comprehensive professional compensation system covering all government and private employers by creating the Professional Wage Board (PWB) as an attached agency of the DOLE with quasi-judicial powers, supported by a Professional Wage Council and Regional Professional Wage Offices. It seeks to set minimum professional compensation for licensed professionals, anchored to the Salary Standardization Law as the statutory floor.",
+  "alignment": "As a measure on government organization and mandates, the review should examine how the proposed PWB, its Professional Wage Council and the Regional Professional Wage Offices fit with existing bodies, particularly the DOLE, which the bill references in Section 8 (Creation) and Section 32 (Powers and Functions) together with the Labor Code, and the Professional Regulation Commission under RA No. 8981, as well as the government's intent to streamline agencies and reduce overlapping mandates under the Government Optimization Act (RA No. 12231). The review should also assess the fiscal implications of anchoring minimum professional compensation to the Salary Standardization Law under Section 35 (SSL as the Statutory Minimum Floor), including the automatic upward adjustment upon SSL amendments and the coverage of government employers. The measure may be associated with the Human capital development priority area of the FY 2027 Budget Priorities Framework, although that priority area's stated focus is on education, the Universal Health Care system and social protection rather than compensation policy. No LEDAC Common Legislative Agenda item has been identified for the measure.",
+  "legislative_history": [
+   "HB No. 10614 was filed on August 5, 2026 by Representative Isidro T. Ungab in the 20th Congress.",
+   "Its current status is filed (pending); later stages are not reflected in the available record.",
+   "No related bill, counterpart, substitute or committee report was identified for review."
+  ],
+  "related": [],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-11466",
+    "label": "Referenced in the bill",
+    "overlap": "Section 35 (SSL as the Statutory Minimum Floor) uses the Salary Standardization Law as the floor for minimum professional compensation, and Section 82 (Repealing Clause) applies it suppletorily.",
+    "section": "HB-20-10614:s35",
+    "quote": "The Salary Standardization Law (Republic Act No. 11466, as amended, and all future SSL enactments) shall serve as the statutory minimum floor reference for all Professional Wage Orders"
+   },
+   {
+    "law": "RA-8981",
+    "label": "Referenced in the bill",
+    "overlap": "Section 82 (Repealing Clause) applies the PRC Modernization Act suppletorily, and Section 7 (Definition of Terms) ties coverage to PRC registration and accreditation.",
+    "section": "HB-20-10614:s82",
+    "quote": "The Labor Code of the Philippines, Republic Act No. 8981, and Republic Act No. 11466, insofar as not inconsistent with this Act, shall apply suppletorily."
+   },
+   {
+    "law": "RA-3019",
+    "label": "Referenced in the bill",
+    "overlap": "Section 58 (Criminal Penalties) makes responsible officials of government employers liable under the Anti-Graft and Corrupt Practices Act.",
+    "section": "HB-20-10614:s58",
+    "quote": "For government employers, responsible officials shall be liable under Republic Act No. 3019 (Anti-Graft and Corrupt Practices Act) and Republic Act No. 6713"
+   },
+   {
+    "law": "RA-6713",
+    "label": "Referenced in the bill",
+    "overlap": "Section 58 (Criminal Penalties) also makes responsible officials of government employers liable under the Code of Conduct and Ethical Standards for Public Officials and Employees.",
+    "section": "HB-20-10614:s58",
+    "quote": "responsible officials shall be liable under Republic Act No. 3019 (Anti-Graft and Corrupt Practices Act) and Republic Act No. 6713, in addition to liability under this Act."
+   }
+  ],
+  "salient_features": "HB No. 10614 seeks to establish a comprehensive professional compensation system administered by the Professional Wage Board (PWB), an attached agency of the DOLE with quasi-judicial powers, supported by the Professional Wage Council and Regional Professional Wage Offices. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the Philippine Professional Compensation Act (PPCA).\nb. Section 7 (Definition of Terms) provides that covered professionals are holders of a valid certificate of registration and professional identification card from the PRC or another regulatory body, and that employers include all government and private entities engaging them.\nc. Section 8 (Creation) provides for the creation of the PWB as an attached agency of the DOLE, exercising its quasi-judicial, regulatory and enforcement powers free from the direction or control of the DOLE Secretary, with a principal office in Metro Manila and regional offices in every administrative region.\nd. Section 9 (Composition) provides that the Board shall have twelve voting members: a Chairperson appointed by the President, eight Regular Members representing four Professional Clusters, one private employer representative and one labor representative, with the Secretary of Labor and Employment or a designated alternate as a non-voting member.\ne. Section 14 (Term of Office) provides that the Chairperson and Regular Members shall serve a single non-renewable term of six years.\nf. Section 20 (Creation and Nature) provides for the creation of the Professional Wage Council as the permanent consultative and recommendatory arm of the Board, serviced by the Technical Secretariat and funded from the Professional Compensation Fund, and not a separate government agency.\ng. Section 21 (Composition) provides that the Council shall have twenty-three members from the professional, employer, labor, civil society and academic sectors.\nh. Section 29 (Technical Secretariat) provides that the Board shall be supported by a permanent Technical Secretariat headed by an Executive Director.\ni. Section 30 (Regional Professional Wage Offices) provides that the Board shall establish one Regional Professional Wage Office in each administrative region, co-located with DOLE regional offices where practicable.\nj. Section 32 (Powers and Functions) provides that the Board shall fix and adjust minimum professional compensation through Professional Wage Orders, exercise original and exclusive quasi-judicial jurisdiction over disputes under the Act, conduct warrantless inspections, impose sanctions, and coordinate with the Civil Service Commission and the DBM on government employers.\nk. Section 35 (SSL as the Statutory Minimum Floor) provides that the Salary Standardization Law shall serve as the minimum floor for all Professional Wage Orders, with automatic upward adjustment of minimum professional compensation when the SSL is amended.\nl. Section 58 (Criminal Penalties) provides for imprisonment and fines for willful non-payment, retaliation, obstruction of inspection, false records and intermediary violations, with liability extending to responsible corporate officers and government officials.\nm. Section 69 (Initial Appropriation) provides for an initial appropriation from the General Fund for the Board's principal office, regional offices, staffing and information technology infrastructure.\nn. Section 70 (Annual Appropriation) provides that continuing funding shall be included in the General Appropriations Act under a dedicated line item, with the Board submitting its budget directly to the DBM without modification by the DOLE.\no. Section 80 (Transition of Personnel) provides that DOLE personnel performing professional compensation functions may be transferred to the Board with their status, rank, salaries and benefits intact.\np. Section 82 (Repealing Clause) provides that inconsistent laws are amended or repealed, while the Labor Code, RA No. 8981 and RA No. 11466 apply suppletorily.",
+  "related_measures_policy": "HB No. 10614 may be considered alongside RA No. 11466 (Salary Standardization Law), which Section 35 (SSL as the Statutory Minimum Floor) adopts as the floor for minimum professional compensation and Section 82 (Repealing Clause) applies suppletorily, and RA No. 8981 (PRC Modernization Act), on which coverage under Section 7 (Definition of Terms) depends. No related bill in the current or earlier Congresses was identified for review. The measure may be associated with the Human capital development priority area of the FY 2027 Budget Priorities Framework. The review should assess whether the PWB, the Professional Wage Council and the Regional Professional Wage Offices duplicate existing DOLE wage-setting and labor inspection functions referenced in Section 32 (Powers and Functions), consistent with the streamlining objectives of RA No. 12231; the fiscal autonomy and direct budget submission arrangements under Section 70 (Annual Appropriation) and Section 72 (Fiscal Autonomy); and the budgetary exposure of government employers to automatic compensation adjustments under Section 35 (SSL as the Statutory Minimum Floor).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Php 500,000,000.00 from the General Fund for the principal office, all RPWOs, staffing and IT infrastructure",
+    "section": "Section 69 (Initial Appropriation)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Annual GAA dedicated line item for the PWB; budget submitted directly to the DBM",
+    "section": "Section 70 (Annual Appropriation)"
+   },
+   {
+    "item": "Special fund",
+    "detail": "Professional Compensation Fund, defined as a dedicated special trust fund; also funds the Council",
+    "section": "Section 71 (Professional Compensation Fund)"
+   },
+   {
+    "item": "Members",
+    "detail": "Twelve voting Board members, including a Chairperson appointed by the President; compensation provisions to be verified",
+    "section": "Section 15 (Compensation)"
+   },
+   {
+    "item": "Members",
+    "detail": "Twenty-three Professional Wage Council members; compensation provisions to be verified",
+    "section": "Section 28 (Compensation of Council Members)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Permanent Technical Secretariat headed by an Executive Director",
+    "section": "Section 29 (Technical Secretariat)"
+   },
+   {
+    "item": "Regional offices",
+    "detail": "One Regional Professional Wage Office in each administrative region",
+    "section": "Section 30 (Regional Professional Wage Offices)"
+   },
+   {
+    "item": "Personnel compensation (government employers)",
+    "detail": "Automatic upward adjustment of minimum professional compensation within 30 days of any SSL amendment",
+    "section": "Section 35 (SSL as the Statutory Minimum Floor)"
+   }
+  ],
+  "reviewer_checks": [
+   "Review the full text of sections not examined here, including Section 15 (Compensation), Section 28 (Compensation of Council Members), Section 46 (Government Employer Compliance), Section 71 (Professional Compensation Fund), Section 72 (Fiscal Autonomy) and Section 78 (Government Employer Transition), which bear directly on fiscal requirements.",
+   "Confirm the salary grades, if any, of the Chairperson, Regular Members and Executive Director of the Technical Secretariat.",
+   "Assess the consistency of attached-agency status under Section 8 (Creation) with the Board's independence from the DOLE Secretary and the bar on DOLE modifying its budget under Section 70 (Annual Appropriation).",
+   "Verify the legal basis and safeguards for warrantless employer inspections under Section 32 (Powers and Functions) and Section 55 (Inspection Powers).",
+   "Assess how automatic adjustments under Section 35 (SSL as the Statutory Minimum Floor) would interact with compensation of professionals already covered by the SSL in government.",
+   "Verify the stray page numbers appearing within Section 9 (Composition), Section 21 (Composition) and Section 58 (Criminal Penalties).",
+   "Confirm whether Section 2 (Declaration of State Policy) contains a typographical error (\"injures\" for \"injuries\").",
+   "Confirm with the House the current status of the bill and whether any counterpart or related measure has been filed."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 35 (SSL as the Statutory Minimum Floor) uses the Salary Standardization Law as the floor for minimum professional compensation, and Section 82 (Repealing Clause) applies it suppletorily.",
+   "section": "HB-20-10614:s35",
+   "quote": "The Salary Standardization Law (Republic Act No. 11466, as amended, and all future SSL enactments) shall serve as the statutory minimum floor reference for all Professional Wage Orders",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 82 (Repealing Clause) applies the PRC Modernization Act suppletorily, and Section 7 (Definition of Terms) ties coverage to PRC registration and accreditation.",
+   "section": "HB-20-10614:s82",
+   "quote": "The Labor Code of the Philippines, Republic Act No. 8981, and Republic Act No. 11466, insofar as not inconsistent with this Act, shall apply suppletorily.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 58 (Criminal Penalties) makes responsible officials of government employers liable under the Anti-Graft and Corrupt Practices Act.",
+   "section": "HB-20-10614:s58",
+   "quote": "For government employers, responsible officials shall be liable under Republic Act No. 3019 (Anti-Graft and Corrupt Practices Act) and Republic Act No. 6713",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 58 (Criminal Penalties) also makes responsible officials of government employers liable under the Code of Conduct and Ethical Standards for Public Officials and Employees.",
+   "section": "HB-20-10614:s58",
+   "quote": "responsible officials shall be liable under Republic Act No. 3019 (Anti-Graft and Corrupt Practices Act) and Republic Act No. 6713, in addition to liability under this Act.",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-20T00:09:06+00:00"
+ }
+}
