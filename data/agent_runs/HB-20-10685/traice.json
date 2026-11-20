@@ -1,0 +1,45 @@
+{
+ "output": {
+  "target": "HB-20-10685",
+  "entity_proposed": "South Schools Division Office",
+  "proposal": "HB No. 10685 seeks to establish a South Schools Division Office in the Municipality of Maramag, Province of Bukidnon, and to appropriate funds therefor, as stated in its title.",
+  "alignment": "As a government organization measure, the review should examine how the proposed South Schools Division Office would fit with the existing schools division structure serving the Province of Bukidnon, whether it would duplicate existing administrative functions, and how it relates to the government's intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The measure may be considered under the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on equitable access to quality education. No LEDAC Common Legislative Agenda item applies to the measure.",
+  "legislative_history": [
+   "HB No. 10685 was filed on August 10, 2026 by Representative Audrey Kay T. Zubiri; its status is filed, with later stages not yet reflected in the available records.",
+   "HB No. 10882 of the 19th Congress, filed on September 9, 2024 and pending second reading (special order), carries a nearly identical title; its text was not reviewed, so whether it is an earlier version of this measure should be confirmed."
+  ],
+  "related": [
+   {
+    "id": "HB-19-10882",
+    "relationship": "Alternative proposal",
+    "basis": "The 19th Congress bill bears a nearly identical title on a South School Division Office in Maramag; Title match only; text not reviewed.",
+    "section": "meta:HB-19-10882",
+    "quote": "A SOUTH SCHOOL DIVISION OFFICE AND APPROPRIATING FUNDS THEREFOR"
+   }
+  ],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 10685 seeks to establish a South Schools Division Office in the Municipality of Maramag, Province of Bukidnon, and to appropriate funds therefor. Its salient features could not be set out because the text of the bill's sections was not available for review; the features, including the office's coverage, staffing and funding provisions, should be drawn from the full text of the bill.",
+  "related_measures_policy": "HB No. 10685 may be considered alongside HB No. 10882 of the 19th Congress, which bears a nearly identical title, subject to a review of that bill's text. The measure aligns with the Human Capital Development priority under the FY 2027 Budget Priorities Framework, particularly equitable access to quality education. The review should assess the need for a separate schools division office in the area, its relationship with the existing schools division structure, the resulting personnel and operating requirements, and its consistency with the streamlining objectives of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [],
+  "reviewer_checks": [
+   "The bill's section text was not available; obtain the full text to confirm its provisions, including any appropriations, plantilla positions and coverage of the proposed office.",
+   "The title contains an apparent typographical error (\"DMSION\" for \"DIVISION\").",
+   "Confirm with the House whether HB No. 10882 of the 19th Congress is an earlier version of this measure and what action was taken on it.",
+   "Confirm the existing schools division arrangement covering the Municipality of Maramag and the Province of Bukidnon."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "The 19th Congress bill bears a nearly identical title on a South School Division Office in Maramag; Title match only; text not reviewed.",
+   "section": "meta:HB-19-10882",
+   "quote": "A SOUTH SCHOOL DIVISION OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-20T00:08:37+00:00"
+ }
+}
