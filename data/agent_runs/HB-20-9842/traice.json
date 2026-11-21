@@ -1,0 +1,205 @@
+{
+ "output": {
+  "target": "HB-20-9842",
+  "entity_proposed": "Professional Regulatory Board for Paralegals (the Board)",
+  "proposal": "HB No. 9842, the proposed \"Philippine Paralegal Act\", seeks to professionalize paralegal practice in the Philippines by creating a Professional Regulatory Board for Paralegals under the administrative supervision and control of the Professional Regulation Commission (PRC), with powers over licensure, registration, professional standards and continuing professional development.",
+  "alignment": "As a government organization and mandates measure, the review should examine how the proposed Board fits with the existing professional regulatory boards under the PRC, whether its functions under Section 11 (Powers, Functions, and Duties of the Board) can be absorbed within the PRC's existing structure, and how the measure relates to the government's intent to streamline agencies and reduce overlapping mandates under the Government Optimization Act (RA No. 12231). No matching priority area in the FY 2027 Budget Priorities Framework and no corresponding measure in the LEDAC Common Legislative Agenda were identified.",
+  "legislative_history": [
+   "HB No. 9842 was filed on June 9, 2026 by Representative Ysabel Maria J. Zamora; it is pending at the filing stage, and later stages are not reflected in the available data.",
+   "Bills with the same or nearly the same title were filed earlier in the 20th Congress: HB No. 625 (filed June 30, 2025), HB No. 815 (filed July 1, 2025), HB No. 4425 (filed September 8, 2025) and HB No. 4570 (filed September 15, 2025); their texts were not reviewed.",
+   "Bills with the same or nearly the same title were filed in the 19th Congress (HB Nos. 201, 3943, 4871 and 10456) and in the 18th Congress (HB Nos. 6248, 8452 and 9484, and SB No. 1071, the proposed Philippine Paralegal Act of 2019), all recorded as pending in the committee; their texts were not reviewed."
+  ],
+  "related": [
+   {
+    "id": "HB-20-625",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "A 20th Congress House bill with a nearly identical title on professionalizing paralegal practice, pending in the committee.",
+    "section": "meta:HB-20-625",
+    "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD FOR PARALEGALS"
+   },
+   {
+    "id": "HB-20-815",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "A 20th Congress House bill with the same title, pending in the committee.",
+    "section": "meta:HB-20-815",
+    "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PARALEGALS"
+   },
+   {
+    "id": "HB-20-4425",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "A 20th Congress House bill with a nearly identical title, pending in the committee.",
+    "section": "meta:HB-20-4425",
+    "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PARALEGALS, APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-20-4570",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "A 20th Congress House bill whose title likewise proposes to regulate paralegal practice and create a regulatory board for paralegals.",
+    "section": "meta:HB-20-4570",
+    "quote": "AN ACT REGULATING AND PROFESSIONALIZING THE PRACTICE OF PARALEGALS IN THE PHILIPPINES, CREATING FOR THE PURPOSE A PROFESSIONAL REGULATORY BOARD FOR PARALEGALS"
+   },
+   {
+    "id": "HB-19-10456",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "A 19th Congress House bill with the same title, pending in the committee.",
+    "section": "meta:HB-19-10456",
+    "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PARALEGALS"
+   },
+   {
+    "id": "HB-19-201",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "A 19th Congress House bill with a nearly identical title, pending in the committee.",
+    "section": "meta:HB-19-201",
+    "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD FOR PARALEGALS"
+   },
+   {
+    "id": "HB-19-3943",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "A 19th Congress House bill with a nearly identical title, pending in the committee.",
+    "section": "meta:HB-19-3943",
+    "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PARALEGALS, APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-4871",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "A 19th Congress House bill with the same title, pending in the committee.",
+    "section": "meta:HB-19-4871",
+    "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PARALEGALS"
+   },
+   {
+    "id": "HB-18-6248",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "An 18th Congress House bill with the same title, pending in the committee.",
+    "section": "meta:HB-18-6248",
+    "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PARALEGALS"
+   },
+   {
+    "id": "HB-18-8452",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "An 18th Congress House bill with a nearly identical title, pending in the committee.",
+    "section": "meta:HB-18-8452",
+    "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD FOR PARALEGALS"
+   },
+   {
+    "id": "HB-18-9484",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "An 18th Congress House bill with the same title, pending in the committee.",
+    "section": "meta:HB-18-9484",
+    "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PARALEGALS"
+   },
+   {
+    "id": "SB-18-1071",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "An 18th Congress Senate bill, the proposed Philippine Paralegal Act of 2019, with a matching title, pending in the committee.",
+    "section": "meta:SB-18-1071",
+    "quote": "PHILIPPINE PARALEGAL ACT OF 2019: AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES"
+   }
+  ],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 9842 seeks to professionalize paralegal practice in the Philippines and to create the Professional Regulatory Board for Paralegals under the PRC. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the Philippine Paralegal Act.\nb. Section 6 (Creation and Composition of the Professional Regulatory Board for Paralegals) provides that the Board is created under the administrative supervision and control of the PRC, composed of a Chairperson and four Members appointed by the President from PRC recommendees drawn from nominees of the accredited and integrated national professional organization of paralegals, and constituted within three months from the effectivity of the Act.\nc. Section 11 (Powers, Functions, and Duties of the Board) provides that the Board shall exercise executive, administrative, rule-making and quasi-judicial powers, including issuing implementing rules, setting the licensure examination syllabi consistent with CHED standards, evaluating applications, issuing certificates of registration and professional identification cards, prescribing continuing professional development guidelines, adopting codes of ethics and technical standards, and monitoring conditions of paralegal practice.\nd. Section 34 (Appropriations) provides that the PRC Chairperson shall include the implementation of the Act in the PRC's programs, with funding to be included in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 9842 may be considered alongside HB Nos. 625, 815, 4425 and 4570 of the 20th Congress, which carry the same or nearly the same title, and alongside similarly titled bills of the 18th and 19th Congresses, none of which advanced beyond the committee in the available records; their texts should be compared to confirm whether they are identical. No matching FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda measure was identified. The review should assess whether a new professional regulatory board under Section 6 (Creation and Composition of the Professional Regulatory Board for Paralegals) is warranted given the existing boards under the PRC and the streamlining intent of the Government Optimization Act (RA No. 12231), and the cost implications of Section 34 (Appropriations), which charges implementation to the PRC's programs without a stated amount.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "To be included in the PRC's programs; no amount stated",
+    "section": "Section 34 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act",
+    "section": "Section 34 (Appropriations)"
+   },
+   {
+    "item": "Members",
+    "detail": "A Chairperson and four Members appointed by the President",
+    "section": "Section 6 (Creation and Composition of the Professional Regulatory Board for Paralegals)"
+   }
+  ],
+  "reviewer_checks": [
+   "The name of the body differs between the title (\"Board of Paralegals\") and Section 6 (Creation and Composition of the Professional Regulatory Board for Paralegals) (\"Board for Paralegals\").",
+   "Verify the compensation and allowances of the Chairperson and Members under Section 10 and the secretariat and support services under Section 13 to estimate personnel and operating costs.",
+   "Confirm with the House whether HB Nos. 625, 815, 4425 and 4570 have identical texts and whether they are being consolidated with this bill.",
+   "Check the grammar of Section 6 (\"shall comprise of\") and the wording of Section 34 (\"and thereafter\")."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "A 20th Congress House bill with a nearly identical title on professionalizing paralegal practice, pending in the committee.",
+   "section": "meta:HB-20-625",
+   "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD FOR PARALEGALS",
+   "check": "verified"
+  },
+  {
+   "claim": "A 20th Congress House bill with the same title, pending in the committee.",
+   "section": "meta:HB-20-815",
+   "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PARALEGALS",
+   "check": "verified"
+  },
+  {
+   "claim": "A 20th Congress House bill with a nearly identical title, pending in the committee.",
+   "section": "meta:HB-20-4425",
+   "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PARALEGALS, APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "A 20th Congress House bill whose title likewise proposes to regulate paralegal practice and create a regulatory board for paralegals.",
+   "section": "meta:HB-20-4570",
+   "quote": "AN ACT REGULATING AND PROFESSIONALIZING THE PRACTICE OF PARALEGALS IN THE PHILIPPINES, CREATING FOR THE PURPOSE A PROFESSIONAL REGULATORY BOARD FOR PARALEGALS",
+   "check": "verified"
+  },
+  {
+   "claim": "A 19th Congress House bill with the same title, pending in the committee.",
+   "section": "meta:HB-19-10456",
+   "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PARALEGALS",
+   "check": "verified"
+  },
+  {
+   "claim": "A 19th Congress House bill with a nearly identical title, pending in the committee.",
+   "section": "meta:HB-19-201",
+   "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD FOR PARALEGALS",
+   "check": "verified"
+  },
+  {
+   "claim": "A 19th Congress House bill with a nearly identical title, pending in the committee.",
+   "section": "meta:HB-19-3943",
+   "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PARALEGALS, APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "A 19th Congress House bill with the same title, pending in the committee.",
+   "section": "meta:HB-19-4871",
+   "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PARALEGALS",
+   "check": "verified"
+  },
+  {
+   "claim": "An 18th Congress House bill with the same title, pending in the committee.",
+   "section": "meta:HB-18-6248",
+   "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PARALEGALS",
+   "check": "verified"
+  },
+  {
+   "claim": "An 18th Congress House bill with a nearly identical title, pending in the committee.",
+   "section": "meta:HB-18-8452",
+   "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD FOR PARALEGALS",
+   "check": "verified"
+  },
+  {
+   "claim": "An 18th Congress House bill with the same title, pending in the committee.",
+   "section": "meta:HB-18-9484",
+   "quote": "AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES, CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PARALEGALS",
+   "check": "verified"
+  },
+  {
+   "claim": "An 18th Congress Senate bill, the proposed Philippine Paralegal Act of 2019, with a matching title, pending in the committee.",
+   "section": "meta:SB-18-1071",
+   "quote": "PHILIPPINE PARALEGAL ACT OF 2019: AN ACT PROFESSIONALIZING PARALEGAL PRACTICE IN THE PHILIPPINES",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-21T00:08:40+00:00"
+ }
+}
