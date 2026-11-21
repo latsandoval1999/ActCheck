@@ -1,6 +1,6 @@
 [
  {
-  "time": "2026-11-20T01:59:27+00:00",
+  "time": "2026-11-21T01:59:09+00:00",
   "source": "House of Representatives: legislative documents page",
   "url": "https://www.congress.gov.ph/legislative-documents",
   "http": 403,
@@ -8,7 +8,7 @@
   "role": "Bot check (Cloudflare) blocks automated visitors; ActCheck uses the House documents server below instead"
  },
  {
-  "time": "2026-11-20T01:59:27+00:00",
+  "time": "2026-11-21T01:59:09+00:00",
   "source": "House of Representatives: documents server (bill PDFs)",
   "url": "https://docs.congress.hrep.online/legisdocs/basic_20/HB00001.pdf",
   "http": 200,
@@ -16,7 +16,7 @@
   "role": "Source of new House bills in the daily check"
  },
  {
-  "time": "2026-11-20T01:59:27+00:00",
+  "time": "2026-11-21T01:59:09+00:00",
   "source": "Senate: bill listing",
   "url": "https://senate.gov.ph/lis/documents_v2?document_type=bills&congress=20th+Congress&type=SBN&sort_by=no&sort_order=desc&page=1&per_page=1",
   "http": 403,
@@ -24,7 +24,7 @@
   "role": "Source of new Senate bills; its firewall refuses GitHub's servers"
  },
  {
-  "time": "2026-11-20T01:59:27+00:00",
+  "time": "2026-11-21T01:59:09+00:00",
   "source": "BetterGov.PH Open Congress Data (dataset 4)",
   "url": "https://github.com/bettergovph/open-congress-data",
   "http": 200,
@@ -32,7 +32,7 @@
   "role": "Historical House and Senate bill list, 18th-20th Congress (CC0)"
  },
  {
-  "time": "2026-11-20T01:59:27+00:00",
+  "time": "2026-11-21T01:59:09+00:00",
   "source": "BetterGov.PH Philippine Legal Documents Library (dataset 24)",
   "url": "https://huggingface.co/datasets/bettergovph/gov-library/resolve/main/repacts_with_summary.parquet",
   "http": 200,

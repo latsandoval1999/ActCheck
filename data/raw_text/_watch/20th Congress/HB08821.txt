@@ -1,0 +1,974 @@
+                            Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES                           March 31, 2026
+                            Quezon City, Metro Manila                           6:58 pm
+
+
+
+                              TWENTIETH CONGRESS
+                                First Regular Session
+
+                                       8821
+                       HOUSE BILL NO. ______
+___________________________________________________________________
+
+                  Introduced by Rep. ROBERT NAZAL
+___________________________________________________________________
+
+                              AN ACT
+  INSTITUTIONALIZING AUTOMATIC SOCIOECONOMIC RELIEF, MARKET-
+   STABILIZATION, LOGISTICS-CONTINUITY, LABOR-PROTECTION, AND
+   ENERGY-CONTINGENCY MEASURES DURING A DECLARED NATIONAL
+ENERGY EMERGENCY, PROVIDING FOR MANDATORY GRACE PERIODS FOR
+CERTAIN LOANS, RENTS, AND UTILITIES, A TEMPORARY MORATORIUM ON
+    CERTAIN FORECLOSURE, REPOSSESSION, AND SIMILAR ADVERSE
+ ACTIONS, EMERGENCY ASSISTANCE TO AFFECTED HOUSEHOLDS AND
+     DISPLACED WORKERS, TARGETED SUPPORT FOR TRANSPORT,
+     AGRICULTURE, FISHERIES, MSMES, MINING AND CONSTRUCTION
+  ENTERPRISES, ESTABLISHING AN ENERGY EMERGENCY RELIEF FUND,
+                     AND FOR OTHER PURPOSES
+
+                               EXPLANATORY NOTE
+
+        The Philippines is confronting an energy shock with immediate consequences
+for transport costs, food distribution, business operations, and household welfare.
+Executive Order No. 110, issued on 24 March 2026, already declared a state of
+national energy emergency and activated the Unified Package for Livelihoods,
+Industry, Food, and Transport as the government’s coordinated response framework.
+This bill does not duplicate that executive action. It provides what only legislation can
+firmly establish: a standing statutory framework for automatic relief, market
+stabilization, logistics continuity, labor protection, and targeted public support during
+any declared national energy emergency.
+
+        The urgency of this measure is confirmed by official energy data. The
+Department of Energy launched a Strategic Fuel Program targeting up to two million
+barrels of additional supply to support domestic requirements and mitigate the impact
+of fuel supply disruptions and market volatility.
+       The DOE also reported on 31 March 2026 that 1.042 million barrels of diesel,
+equivalent to 165,678,000 liters, had already been secured for delivery through April
+2026. These are concrete stabilization measures taken in response to a real and
+continuing threat to domestic fuel security.
+
+        The inflation risk is equally clear. In its February 2026 Monetary Policy Report,
+the Bangko Sentral ng Pilipinas stated that crude oil prices were revised upward
+because of geopolitical tensions and that if Dubai crude averages US$80 per barrel in
+2026 and 2027, headline inflation would breach the upper end of the target range. The
+same BSP report shows headline inflation at 4.1 percent in both 2026 and 2027 under
+that scenario, and states that these estimates exclude second-round effects. In plain
+terms, a fuel shock does not stop at the pump. It spills into fares, food, electricity,
+logistics, and the cost of keeping businesses open.
+
+       Existing law already allows the President to respond to critically low energy
+supply. Republic Act No. 7638 authorizes the declaration of a critically low energy
+supply or imminent danger thereof, while Republic Act No. 11285 establishes the
+State’s framework on energy efficiency and conservation. What is still missing is a
+permanent law that automatically connects an energy-emergency declaration to
+enforceable relief for households, workers, tenants, utility consumers, transport
+operators, farmers, fisherfolk, and vulnerable enterprises, together with statutory tools
+for anti-hoarding enforcement, logistics continuity, and accountable use of public
+funds.
+
+       Congress has adopted this kind of emergency architecture before. Republic Act
+No. 11469 required covered institutions to implement grace periods for loans during
+the pandemic emergency, while Republic Act No. 11494 later provided a one-time 60-
+day grace period for loans and minimum grace periods for residential and commercial
+rents and utility payments. The lesson is straightforward: when the nation faces a
+large-scale external shock, the law must be ready to shield ordinary Filipinos from
+sudden economic injury.
+
+       This bill answers that need. It institutionalizes emergency cash assistance for
+affected households, support for displaced and terminated workers, wage subsidy and
+payroll preservation, grace periods for covered loans, rents, and utility payments, a
+temporary moratorium on certain foreclosure and repossession actions, targeted
+support for transport, agriculture, fisheries, MSMEs, mining, and construction, anti-
+hoarding and anti-profiteering safeguards, anti-inflation and logistics continuity
+measures, local contingency planning, and an Energy Emergency Relief Fund, all
+subject to reporting, oversight, and audit.
+      Ito ay isang praktikal na panukalang batas para sa mahihirap na panahon.
+Layunin nitong mapanatiling tuloy-tuloy ang daloy ng fuel, ang pagdating ng pagkain,
+ang trabaho ng mga manggagawa, ang operasyon ng mga negosyo, at ang
+proteksiyon ng mga pamilya kapag ang volatility sa global energy markets ay direktang
+nararamdaman na sa tahanan ng bawat Pilipino. Sa panahon ng energy crisis, hindi
+sapat na ang batas ay basta na lamang tumugon. Dapat itong tumindig kasama ng
+taumbayan, panatilihing matatag ang mahahalagang serbisyo, at tumulong sa
+pagbuhat ng bigat na pasan ngayon ng napakaraming pamilyang Pilipino.
+
+      In view of the foregoing, the swift passage of this measure is earnestly sought.
+
+
+
+
+                                               ROBERT NAZAL
+                                                Representative
+ 1
+ 2                              Republic of the Philippines
+ 3                            HOUSE OF REPRESENTATIVES
+ 4                              Quezon City, Metro Manila
+ 5
+ 6
+ 7                               TWENTIETH CONGRESS
+ 8                                 First Regular Session
+ 9
+10                                          8821
+                            HOUSE BILL NO. ______
+11   ___________________________________________________________________
+12
+13                     Introduced by Rep. ROBERT NAZAL
+14   ___________________________________________________________________
+15
+16                                   AN ACT
+17     INSTITUTIONALIZING AUTOMATIC SOCIOECONOMIC RELIEF, MARKET-
+18      STABILIZATION, LOGISTICS-CONTINUITY, LABOR-PROTECTION, AND
+19     ENERGY-CONTINGENCY MEASURES DURING A DECLARED NATIONAL
+20      ENERGY EMERGENCY, INCLUDING FUEL SUPPLY DISRUPTION, LOSS,
+21       INSUFFICIENCY, OR SEVERE DISRUPTION OF ELECTRICAL POWER,
+22     PROVIDING FOR MANDATORY GRACE PERIODS FOR CERTAIN LOANS,
+23        RENTS, AND UTILITIES, A TEMPORARY MORATORIUM ON CERTAIN
+24       FORECLOSURE, REPOSSESSION, AND SIMILAR ADVERSE ACTIONS,
+25    EMERGENCY ASSISTANCE TO AFFECTED HOUSEHOLDS AND DISPLACED
+26       WORKERS, TARGETED SUPPORT FOR TRANSPORT, AGRICULTURE,
+27         FISHERIES, MSMES, MINING AND CONSTRUCTION ENTERPRISES,
+28             ESTABLISHING AN ENERGY EMERGENCY RELIEF FUND,
+29                         AND FOR OTHER PURPOSES
+30
+31        Be it enacted by the Senate and House of Representatives in Congress
+32   assembled:
+33
+34          Section 1. Title. – This Act shall be known as the “National Energy Emergency
+35   Relief and Protection Act.”
+36
+
+
+
+
+                                                                                       1
+ 1           Sec. 2. Declaration of Policy. — It is the policy of the State to protect the
+ 2   Filipino people from the severe social, economic, inflationary, employment, transport,
+ 3   and food-security effects of extraordinary increases in oil and fuel prices, major
+ 4   petroleum supply disruptions, loss, insufficiency, or severe disruption of electrical
+ 5   power, logistics bottlenecks, fuel scarcity risks, transport paralysis, industrial
+ 6   disruption, work stoppages, and related shocks arising from instability in global energy
+ 7   markets, prolonged international armed conflict, grid unreliability, generation
+ 8   deficiency, transmission or distribution failure, or other events that threaten national
+ 9   energy security.
+10
+11           The State shall prioritize: (a) the continuity of public transportation, logistics,
+12   agriculture, fisheries, mining, construction, power generation, power transmission,
+13   power distribution, water supply, healthcare, education, telecommunications, fuel
+14   distribution, ports, airports, and other essential sectors; (b) the uninterrupted
+15   movement of food, medicine, fuel, construction materials, mineral outputs, fertilizers,
+16   feeds, and other essential goods; (c) the protection of jobs, income, housing security,
+17   and access to credit; (d) the prevention of hoarding, profiteering, cartelization, artificial
+18   shortages, and abusive market practices; (e) the stabilization of prices of fuel,
+19   electricity, and other essential goods and services materially affected by the declared
+20   national energy emergency; and (f) the adoption of temporary, targeted, transparent,
+21   accountable, and time-bound emergency interventions.
+22
+23            Sec. 3. Purpose. — This Act shall provide a standing statutory framework of
+24   relief, stabilization, and contingency measures that shall automatically take effect and
+25   be implemented upon the issuance by the President of a declaration of a national
+26   energy emergency pursuant to Section 25 of Republic Act No. 7638 or other applicable
+27   law, including emergencies arising from critically low fuel supply, critically low
+28   electricity supply, or imminent danger thereof.
+29
+30         The concurrent resolution shall be deemed adopted if not acted upon by both
+31   Houses within seventy-two (72) hours from the transmittal of the presidential
+32   declaration to the presiding officers of each chamber. Nothing in this Act shall be
+33   construed to delegate legislative power to the President beyond what is expressly
+34   provided herein and authorized by the Constitution.
+35
+36          This Act shall complement existing executive and administrative powers under
+37   Republic Act No. 7638, Republic Act No. 8479, Republic Act No. 11285, and other
+38   applicable laws.
+39
+
+
+
+
+                                                                                                2
+ 1          Sec. 4. Coverage and Trigger. — The relief, stabilization, and contingency
+ 2   measures under this Act shall apply upon the issuance by the President of a
+ 3   declaration of a national energy emergency pursuant to Section 25 of Republic Act
+ 4   No. 7638 or other applicable law, including a declaration based on critically low fuel
+ 5   supply, critically low electricity supply, severe disruption of electrical power, or
+ 6   imminent danger thereof. Unless otherwise provided herein, such measures shall
+ 7   remain in force for the duration of the declaration, subject to the sunset and carry-over
+ 8   provisions of this Act.
+ 9
+10          Sec. 5. National Fuel, Transport, and Economic Resilience Council. —
+11   There is hereby created a National Fuel, Transport, and Economic Resilience Council,
+12   hereinafter referred to as the Council, which shall serve as the inter-agency
+13   coordinating, monitoring, and advisory body for the implementation of this Act during
+14   a declared national energy emergency.
+15
+16            The Council shall be chaired by the Executive Secretary, or by such other
+17   official as may be designated by the President.
+18
+19          The following shall serve as members:
+20
+21          (a) Services Group:
+22          (1) the Secretary of Energy;
+23          (2) the Secretary of Transportation;
+24          (3) the Secretary of Labor and Employment;
+25          (4) the Secretary of Social Welfare and Development;
+26          (5) the Secretary of the Interior and Local Government;
+27          (6) the Secretary of Human Settlements and Urban Development;
+28          (7) the Secretary of Justice;
+29          (8) the Chairperson of the Land Transportation Franchising and Regulatory
+30   Board, or his or her duly authorized representative;
+31          (9) the Administrator of the Maritime Industry Authority, or his or her duly
+32   authorized representative; and
+33          (10) the heads of relevant attached agencies and government-owned or -
+34   controlled corporations under the Department of Energy, or their duly authorized
+35   representatives.
+36
+37          (b) Food Group:
+38          (1) the Secretary of Agriculture;
+39          (2) the Secretary of Trade and Industry;
+40          (3) the Secretary of Environment and Natural Resources; and
+41          (4) such other departments, agencies, offices, instrumentalities, or government
+42   financial institutions directly involved in food production, supply, distribution, fisheries,
+43   agri-logistics, and related essential services, as the President may designate.
+44
+
+                                                                                                3
+ 1           (c) Non-Food Group:
+ 2           (1) the Secretary of Finance;
+ 3           (2) the Secretary of Public Works and Highways;
+ 4           (3) the Secretary of Budget and Management;
+ 5           (4) the Governor of the Bangko Sentral ng Pilipinas, or his or her duly authorized
+ 6   representative;
+ 7           (5) the Director-General of the National Economic and Development Authority,
+ 8   or the head of its successor agency, or his or her duly authorized representative; and
+ 9           (6) such other departments, agencies, offices, instrumentalities, or government
+10   financial institutions involved in non-food essential goods, infrastructure, finance,
+11   trade, logistics, energy support, industrial continuity, and export-oriented activities, as
+12   the President may designate.
+13
+14         The Council may invite, in an advisory and consultative capacity,
+15   representatives from duly recognized chambers of commerce, the Management
+16   Association of the Philippines, transport groups, labor groups, farmer and fisherfolk
+17   organizations, consumer groups, export-oriented industries, micro, small, and medium
+18   enterprises, mining and construction sectors, civil society organizations, academe,
+19   and such other sectoral representatives as may be necessary for the effective
+20   implementation of this Act.
+21
+22        The Department of Energy shall serve as the technical secretariat of the
+23   Council, unless otherwise provided by the President.
+24
+25           The Council shall have the following powers and functions:
+26           (1) coordinate and oversee the implementation of this Act and the
+27   harmonization of agency actions thereunder;
+28           (2) monitor fuel inventories, supply conditions, price trends, logistics
+29   bottlenecks, employment disruptions, inflationary impacts, and other relevant
+30   indicators necessary for effective policy response;
+31           (3) recommend to the President, the Department of Energy, and other
+32   competent authorities such temporary and lawful emergency interventions as may be
+33   necessary under this Act and existing law, including fuel prioritization and allocation
+34   measures in cases of actual or imminent scarcity;
+35           (4) establish, maintain, or cause the establishment and maintenance of an
+36   integrated national dashboard or similar monitoring system on fuel supply, transport
+37   conditions, commodity flows, relief implementation, and such other relevant data as
+38   may be necessary for emergency management and public accountability;
+39           (5) coordinate with local government units, the private sector, labor groups,
+40   transport groups, farmer and fisherfolk organizations, civil society, and sectoral
+41   representatives for purposes of consultation, implementation support, and feedback
+42   gathering;
+43           (6) ensure inter-agency coordination in the implementation of relief, logistics,
+44   labor, transport, food security, and market-stabilization measures under this Act;
+
+                                                                                              4
+ 1          (7) submit biweekly reports to Congress and cause the publication of
+ 2   appropriate public summaries, subject to applicable laws on confidentiality, national
+ 3   security, and data privacy; and
+ 4          (8) perform such other functions as may be necessary or incidental to carry out
+ 5   the purposes of this Act.
+ 6
+ 7           Sec. 6. Definition of Terms. — As used in this Act:
+ 8           (a) “Declared national energy emergency” refers to a declaration made by the
+ 9   President under existing law, including Section 25 of Republic Act No. 7638, upon the
+10   determination and recommendation of the Secretary of Energy, that a critically low
+11   energy supply, including fuel supply, electricity supply, or imminent danger thereof,
+12   exists and requires temporary emergency measures to protect public welfare and
+13   maintain essential services;
+14           (b) “Qualified affected household” refers to a low-income or otherwise
+15   vulnerable household suffering substantial income loss, severe transport burden, or
+16   serious economic dislocation directly attributable to the declared national energy
+17   emergency;
+18           (c) “Qualified displaced worker” refers to any worker who suffers involuntary
+19   separation, closure-related termination, temporary layoff, forced reduction of
+20   workdays, no-work-no-pay status, suspension of operations, severe diminution of
+21   earnings, or similar livelihood loss directly attributable to the declared national energy
+22   emergency;
+23           (d) “Covered loans” shall include salary, personal, housing, motor vehicle,
+24   agricultural, fisheries, business, credit card, and similar loans, whether granted by
+25   banks or by other regulated or supervised lending institutions, as may be further
+26   defined in the implementing rules;
+27           (e) “Qualified commercial rent” refers to rent due on commercial premises
+28   occupied by MSMEs or enterprises engaged in essential services materially affected
+29   by the declared national energy emergency;
+30           (f) “Essential sectors” include public transport, trucking, shipping, logistics, food
+31   production and distribution, agriculture, fisheries, health services, education, power
+32   generation, power transmission, power distribution, water supply systems, mining,
+33   construction, manufacturing of essential goods, fuel distribution, ports, airports,
+34   telecommunications, sanitation, waste management, hospitals, cold-chain facilities,
+35   warehousing, and other electricity-dependent critical infrastructure, as well as such
+36   other sectors as may be identified in the implementing rules.
+37           (g) “Essential goods” include food, water, medicine, medical supplies, fuel,
+38   electricity inputs, construction materials for critical infrastructure, fertilizers, feeds, and
+39   other goods designated in the implementing rules as necessary for survival, mobility,
+40   and continuity of basic services;
+
+
+
+
+                                                                                                  5
+ 1           (h) “Strategic industries” refer to sectors materially exposed to fuel and logistics
+ 2   costs and whose continued operation is necessary to preserve employment, supply-
+ 3   chain continuity, or critical infrastructure delivery, including MSMEs, export-oriented
+ 4   industries, mining firms, construction enterprises, public transport operators, food
+ 5   logistics enterprises, shipping, trucking and other sectors as may be further identified
+ 6   in the implementing rules; and
+ 7           (i) “Energy Emergency Relief Fund” refers to the standby fund created under
+ 8   this Act.
+ 9
+10         Sec. 7. Relief and Stabilization Measures. — During the effectivity of a
+11   declared national energy emergency, the following measures shall apply:
+12
+13           (A) Self-Executing Measures. The following shall take effect automatically and
+14   immediately upon the satisfaction of the trigger conditions in Section 4, without need
+15   for further verification, application, or appropriation release:
+16           (a) one-time grace period for covered loans;
+17           (b) temporary moratorium on certain foreclosure, repossession, and similar
+18   adverse actions;
+19           (c) grace period for residential and qualified commercial rents, including
+20   temporary restriction on rent increases; and
+21           (d) grace period for utility payments of qualified consumers and enterprises.
+22
+23           (B) Measures Subject to Conditions, Verification, and Available Appropriations.
+24   The following shall be implemented in accordance with the conditions, qualification
+25   requirements, verification procedures, and available appropriations specified in the
+26   sections of this Act governing each measure:
+27           (a) emergency cash assistance for qualified affected households;
+28           (b) emergency assistance and livelihood support for displaced workers;
+29           (c) emergency wage subsidy and payroll preservation support for qualified
+30   enterprises;
+31           (d) transport assistance and continuity support;
+32           (e) support for farmers, fisherfolk, food producers, and food logistics operators;
+33           (f) MSME, trucking, shipping, mining, and construction survival and credit
+34   support;
+35           (g) enhanced market-monitoring, anti-hoarding, anti-profiteering, and anti-
+36   inflation safeguards;
+37           (h) logistics continuity and essential goods mobility support;
+38           (i) labor, workplace, and work-stoppage contingency measures;
+39           (j) social protection and targeted cash-transfer support;
+40           (k) local energy contingency planning and coordination; and
+41           (l) emergency streamlining of permits, clearances, and approvals for essential
+42   supply, logistics, and energy-continuity purposes.
+43
+
+
+                                                                                               6
+ 1           The enumeration of measures in this section shall not be construed to create
+ 2   absolute or unconditional individual entitlements independent of the conditions and
+ 3   qualifications prescribed in the implementing provisions of this Act. The enumeration
+ 4   herein is for purposes of framework and reference only, and the specific rights,
+ 5   obligations, coverage, and procedures governing each measure shall be governed by
+ 6   the section of this Act expressly addressing it.
+ 7
+ 8          Sec. 8. Emergency Cash Assistance for Qualified Affected Households.
+ 9   — Qualified affected households shall be entitled, subject to verification and available
+10   funds, to emergency cash assistance in an amount to be determined in the
+11   implementing rules, taking into account household size, regional price conditions,
+12   transport vulnerability, and severity of income loss. The Department of Social Welfare
+13   and Development, in coordination with local government units and other concerned
+14   agencies, shall administer and release such assistance through cash transfers, cash
+15   cards, digital disbursements, vouchers, or other efficient modes.
+16
+17           Priority shall be given to low-income households, informal workers, low-income
+18   commuters, solo parents, senior citizens without adequate pensions, persons with
+19   disabilities, households with displaced workers, vulnerable families in geographically
+20   isolated and disadvantaged areas, and other vulnerable households identified by the
+21   Department of Social Welfare and Development.
+22
+23          Such assistance shall not be less than an amount equivalent to two (2) weeks
+24   of the prevailing regional minimum wage in the region of residence of the qualified
+25   household, as determined by the applicable Regional Wage Order at the time of
+26   declaration.
+27
+28          Sec. 9. Emergency Assistance for Displaced and Terminated Workers. —
+29   Qualified displaced workers, including probationary, seasonal, project-based,
+30   contractual, freelance, self-employed, transport, logistics, agriculture, fisheries,
+31   mining, construction, and similarly situated workers whose work or livelihood is
+32   substantially impaired by the declared national energy emergency, shall be entitled to
+33   temporary emergency assistance under this Act.
+34
+35           Such assistance may include emergency cash aid, transitional livelihood
+36   support, cash-for-work, emergency employment, wage subsidy, transport support,
+37   skills retraining, reskilling, job matching, food and transportation assistance, livelihood
+38   and self-employment support, and priority referral to existing unemployment insurance
+39   and social protection mechanisms. The Department of Labor and Employment shall
+40   coordinate with the Social Security System, Department of Social Welfare and
+41   Development, local government units, and other concerned agencies for rapid
+42   beneficiary identification and assistance delivery.
+43
+
+
+                                                                                              7
+ 1          Emergency cash aid under this section shall not be less than an amount
+ 2   equivalent to one (1) month of the prevailing regional minimum wage in the region of
+ 3   the affected worker's last employment, as determined by the applicable Regional
+ 4   Wage Order at the time of declaration, payable in a single lump sum or in installments
+ 5   not exceeding two (2) tranches within sixty (60) days from qualification.
+ 6
+ 7         Nothing in this Act shall diminish any right to final pay, separation pay, social
+ 8   insurance, or other benefits under the Labor Code and special laws.
+ 9
+10           Sec. 10. Emergency Wage Subsidy and Payroll Preservation Program. —
+11   To prevent avoidable layoffs, closures, and work stoppages, the Department of Labor
+12   and Employment, Department of Trade and Industry, Social Security System, and
+13   Bureau of Internal Revenue shall implement an Emergency Wage Subsidy and Payroll
+14   Preservation Program for qualified MSMEs, trucking, shipping logistics, mining firms,
+15   construction enterprises, transport operators, logistics enterprises, export-oriented
+16   industries and other essential or strategically affected businesses experiencing severe
+17   fuel-related or logistics-related distress.
+18
+19           The program may provide wage subsidies for retained workers for up to three
+20   (3) months, partial payroll support for reduced-work or flexible-work arrangements,
+21   enterprise retention support conditioned on good-faith labor retention, and simplified
+22   digital application and verification procedures.
+23
+24           The wage subsidy shall be in an amount not less than fifty percent (50%) of the
+25   applicable regional minimum wage per covered worker per month, and not more than
+26   the full amount of such minimum wage. The total subsidy per qualified enterprise shall
+27   not exceed the amount necessary to cover the wages of the workers actually retained,
+28   as verified by the Department of Labor and Employment.
+29
+30           Sec. 11. One-Time Sixty (60)-Day Grace Period for Covered Loans. — All
+31   banks, quasi-banks, financing companies, lending companies, credit card issuers, real
+32   estate developers offering in-house financing, cooperatives engaged in lending,
+33   insurance companies offering premium-financed products, government financial
+34   institutions, and other similar institutions, public or private, shall grant a one-time sixty
+35   (60)-day grace period for all covered loans with payments falling due during the
+36   effectivity of the declared national energy emergency.
+37
+38           During the grace period, no penalties, surcharges, interest on interest, default
+39   interest on unpaid amounts, or other analogous charges shall be imposed on deferred
+40   payments by reason solely of such deferment. The maturity of the obligation shall be
+41   extended correspondingly. No borrower shall be deemed in default or suffer adverse
+42   credit classification solely for availing of the grace period under this Act.
+43
+
+
+                                                                                                8
+ 1         The Bangko Sentral ng Pilipinas, the Securities and Exchange Commission,
+ 2   the Cooperative Development Authority, the Insurance Commission, and other
+ 3   appropriate regulators shall issue the necessary implementing rules and supervisory
+ 4   guidance.
+ 5
+ 6          The grace period herein provided is adopted pursuant to the police power of
+ 7   the State to protect the general welfare and is intended as a temporary, targeted, and
+ 8   proportionate response to the exceptional economic dislocation caused by a declared
+ 9   national energy emergency. It shall be strictly construed and limited to covered loans
+10   with payments falling due during the effectivity of the declaration. No extension of this
+11   grace period beyond sixty (60) days shall be made by executive or administrative
+12   action alone; any extension shall require a separate act of Congress.
+13
+14          The Bangko Sentral ng Pilipinas is hereby encouraged to consider and may,
+15   consistent with its charter and applicable monetary regulations, provide liquidity relief
+16   to covered financial institutions through available prudential accommodations,
+17   including emergency rediscounting facilities, reserve requirement adjustments, or
+18   other appropriate measures, as the Monetary Board may determine.
+19
+20           Sec. 12. Temporary Moratorium on Foreclosure, Repossession, and
+21   Similar Adverse Actions. — During the declared national energy emergency and for
+22   sixty (60) days thereafter, no foreclosure of residential real estate mortgages of
+23   qualified borrowers, no repossession of livelihood vehicles or essential productive
+24   equipment of MSMEs, transport operators, farmers, fisherfolk, trucking, shipping,
+25   logistics, mining contractors, or construction contractors, and no similar adverse
+26   collection action directly arising from covered delayed payments shall be enforced,
+27   subject to safeguards in the implementing rules to prevent fraud, abuse, or bad faith.
+28
+29           The moratorium herein shall apply only to foreclosure and repossession actions
+30   directly arising from non-payment of obligations covered by the grace period under
+31   Section 11. It shall not apply to foreclosures or adverse actions arising from grounds
+32   independent of fuel-emergency-related non-payment, including fraud, breach of non-
+33   monetary covenants, or pre-existing defaults unrelated to the declared emergency.
+34   The moratorium shall expire automatically upon the lifting of the declaration, except
+35   that no foreclosure action that was stayed solely by reason of this section shall be
+36   initiated within thirty (30) days after the moratorium period to allow for compliance cure.
+37
+38          Sec. 13. Grace Period for Residential and Qualified Commercial Rents;
+39   Temporary Restriction on Rent Increases; No Evictions. — A minimum sixty (60)-
+40   day grace period shall be granted on residential rents and on qualified commercial
+41   rents falling due during the effectivity of the declared national energy emergency,
+42   without penalties, interests, fees, forfeiture, or analogous charges arising solely from
+43   delayed payment.
+44
+
+                                                                                              9
+ 1          Deferred rents shall be payable on a staggered basis under fair and reasonable
+ 2   terms agreed upon by the parties, provided that the repayment period shall not be less
+ 3   than three (3) months nor more than twelve (12) months. In the absence of agreement,
+ 4   the default repayment schedule shall be six (6) months, without additional penalties or
+ 5   compounded charges.
+ 6
+ 7          No eviction shall be enforced solely by reason of delayed payment covered by
+ 8   this section during the grace period and approved restructuring period.
+ 9
+10           No increase in residential rents covered by Republic Act No. 9653 and its
+11   implementing rules shall be imposed during the effectivity of the declared national
+12   energy emergency. For residential units not covered by Republic Act No. 9653 and for
+13   qualified commercial rents, no increase shall be imposed during the effectivity of the
+14   declaration and for a period not exceeding ninety (90) days thereafter, unless the
+15   lessor demonstrates, through written notice to the lessee and the Housing and Land
+16   Use Regulatory Board or its successor agency, that the proposed increase is
+17   attributable to documented cost increases unrelated to the fuel emergency. The
+18   Department of Human Settlements and Urban Development shall issue guidelines for
+19   the expedited processing of such notices.
+20
+21            Sec. 14. Grace Period for Utility Payments. — Electric distribution utilities,
+22   water utilities, telecommunications entities, internet service providers, and similar
+23   utility providers shall grant a minimum thirty (30)-day grace period for payments falling
+24   due during the effectivity of the declared national energy emergency to qualified
+25   residential consumers, MSMEs, public transport cooperatives, shipping, trucking,
+26   logistics, mining and construction enterprises engaged in critical operations, schools,
+27   and other sectors identified in the implementing rules, without penalties, disconnection
+28   fees, or analogous charges arising solely from delayed payment during the grace
+29   period.
+30
+31           No disconnection shall be effected solely due to covered delayed payment
+32   within the relief period.
+33
+34           Sec. 15. Transport Continuity and Commuter Relief. — The Department of
+35   Transportation, in coordination with the Department of Energy, Department of
+36   Agriculture, Department of the Interior and Local Government, and other concerned
+37   agencies, shall implement transport-continuity measures for the duration of a declared
+38   national energy emergency, including targeted fuel subsidies, service contracting,
+39   temporary route support, fare-relief support, digital cash support, discount vouchers,
+40   fleet fuel cards, operational subsidies for essential routes and cargo corridors,
+41   maintenance support for essential vehicles and equipment, and such other lawful
+42   interventions as may be necessary to preserve the continuity of public transport and
+43   mitigate the impact of extraordinary fuel costs on transport workers and the commuting
+44   public.
+
+                                                                                           10
+ 1
+ 2        Priority shall be given to low-income beneficiaries and sectors engaged in the
+ 3   movement of essential goods, workers, equipment, and materials.
+ 4
+ 5          To balance the interests of Public Utility Vehicle (“PUV”) and Transportation
+ 6   Network Vehicle Service (“TNVS”) operators, drivers, and the commuting public, the
+ 7   Land Transportation Franchising and Regulatory Board, in coordination with the
+ 8   Department of Transportation and the Department of Energy, shall ensure that any
+ 9   extraordinary increase in fuel prices during a declared national energy emergency is
+10   duly considered in the determination or regulation of fares for public utility vehicles
+11   and, where applicable under existing laws, rules, and regulations, fare components
+12   and analogous charges for TNVS.
+13
+14          Any fare adjustment or regulatory action shall be calibrated, proportionate, and
+15   commensurate to the magnitude and duration of fuel price increases, taking into
+16   account service continuity, operational sustainability, reasonable cost recovery, and
+17   commuter welfare. For this purpose, the Land Transportation Franchising and
+18   Regulatory Board may adopt expedited or simplified regulatory procedures, subject to
+19   transparency, public notice, and safeguards against excessive fare burdens, including,
+20   where feasible and subject to available funds, targeted subsidies, fare discounts, or
+21   other relief measures for vulnerable commuters.
+22
+23          Sec. 16. Support for Farmers, Fisherfolk, Food Producers, and Food
+24   Logistics. — The Department of Agriculture, in coordination with the Department of
+25   Energy, Department of Transportation, and other relevant agencies, shall implement
+26   targeted support for farmers, fisherfolk, food producers, and food-logistics operators
+27   materially affected by the declared national energy emergency. Such support may
+28   include fuel or transport subsidies, emergency movement arrangements, logistics
+29   assistance, concessional credit, rehabilitation financing, fuel assistance for farm
+30   machinery, irrigation pumps, fishing vessels, and post-harvest equipment, fertilizer,
+31   feeds, and input transport subsidies, emergency cold-chain and reefer support, mobile
+32   buying stations, direct market linkage support, and food corridor passes for essential
+33   agricultural and fishery transport.
+34
+
+
+
+
+                                                                                         11
+ 1           Sec. 17. MSME, Trucking, Shipping, Logistics, Mining, and Construction
+ 2   Survival and Credit Support Package. — The Department of Trade and Industry,
+ 3   Department of Finance, Land Bank of the Philippines, Development Bank of the
+ 4   Philippines, Small Business Corporation, Bureau of Internal Revenue, and other
+ 5   relevant agencies shall establish or expand emergency working-capital support,
+ 6   concessional financing, credit guarantees, interest subsidies, temporary restructuring
+ 7   of government loans, emergency bridge financing, grants or incentives for energy
+ 8   efficiency, logistics upgrades, and fuel substitution measures, and other continuity
+ 9   assistance for MSMEs and qualified enterprises in logistics, trucking, shipping, mining,
+10   construction and similar industries materially affected by the declared national energy
+11   emergency.
+12
+13           Priority shall be given to enterprises engaged in food production, transport,
+14   shipping, logistics, manufacturing of essential goods, mining operations critical to
+15   domestic industry or export stability, and construction activities involving public
+16   infrastructure, housing, hospitals, schools, energy facilities, water systems, bridges,
+17   roads, ports, airports, and other strategic projects.
+18
+19            Sec. 18. Temporary Fuel Prioritization, Rationing, and Allocation
+20   Framework. — In the event of actual or imminent fuel scarcity materially threatening
+21   essential services, electricity generation, water supply, or the movement of essential
+22   goods, the President, upon written recommendation of the Secretary of Energy and
+23   consistent with existing law, may direct the adoption of a temporary and targeted fuel
+24   prioritization, rationing, and allocation framework, subject to the following mandatory
+25   standards and limitations:
+26            (a) The framework shall be limited to a period not exceeding sixty (60) days per
+27   declaration, renewable only upon fresh determination and notice to Congress;
+28            (b) Priority access to fuel shall be given in the following order: (i) hospitals,
+29   emergency responders, dialysis centers, and health facilities; (ii) public utility vehicles
+30   on franchised routes and essential public transport; (iii) food production, harvest
+31   operations, fisheries, and agri-logistics; (iv) delivery of food, medicine, water, and fuel
+32   itself; (v) power generation and water utilities; (vi) military, police, coast guard, and
+33   disaster-response operations; (vii) mining operations critical to domestic energy,
+34   currency-protection measure and export stability; (viii) construction of public
+35   infrastructure, hospitals, schools, energy facilities, water systems, and ports; (ix)
+36   export-oriented industries; and (x) such other sectors as may be expressly identified
+37   by the Department of Energy in the implementing rules or by written determination of
+38   the Secretary of Energy published on the official website of the Department of Energy
+39   and promptly furnished to Congress.
+40            (c) No sector or enterprise shall be denied access to fuel entirely; allocation
+41   shall be proportionate and non-discriminatory within each priority tier;
+42            (d) All rationing and allocation orders shall be published on the DOE website
+43   within twenty-four (24) hours of issuance;
+
+
+                                                                                             12
+ 1           (e) The Department of Energy may require mandatory inventory disclosure,
+ 2   retailer reporting, anti-hoarding limits, designated fuel lanes or schedules, and digital
+ 3   or voucher-based allocation systems; and
+ 4           (f) Any measure under this section shall be immediately lifted upon the
+ 5   Secretary of Energy's certification that the scarcity condition has been resolved.
+ 6
+ 7           Sec. 19. Market Monitoring, Anti-Hoarding, Anti-Profiteering, and Supply
+ 8   Protection. — During a declared national energy emergency, all refiners, importers,
+ 9   bulk suppliers, distributors, depot operators, and similarly situated participants in the
+10   fuel supply chain may be required, under rules to be issued by the Department of
+11   Energy and other competent agencies, to submit periodic reports on inventory, import
+12   arrivals, depot stocks, withdrawals, and supply allocations.
+13
+14            The Department of Energy, Department of Trade and Industry, Philippine
+15   Competition Commission, Bureau of Customs, Department of Justice, Department of
+16   Agriculture, and other relevant agencies shall intensify monitoring, inspection,
+17   investigation, and enforcement against hoarding, profiteering, cartel-like conduct,
+18   artificial shortages, discriminatory supply allocation, smuggling, and other abusive
+19   practices affecting petroleum products, LPG, lubricants, power fuel inputs, food,
+20   medicine, fertilizers, construction materials for critical infrastructure, and other
+21   essential goods materially impacted by the declared national energy emergency.
+22
+23           Sec. 20. Anti-Inflation, Price Stabilization, and Essential Commodity
+24   Protection Measures. — To prevent severe inflationary harm during a declared
+25   national energy emergency, the following measures may be implemented by
+26   concerned agencies consistent with existing law:
+27           (a) intensified price monitoring of fuel, basic necessities, fertilizers, feeds, and
+28   other essential goods, including publication of reference or suggested retail prices
+29   where authorized by law;
+30           (b) expedited customs clearance and streamlined documentary requirements
+31   for essential imports, including fuel, food, medicine, fertilizers, and logistics inputs;
+32           (c) upon recommendation of the Council and the Tariff Commission, the
+33   President may exercise the Flexible Tariff Clause under Section 1608 of Republic Act
+34   No. 10863 to temporarily adjust tariffs and duties on critical fuel, food, fertilizers, and
+35   logistics inputs, subject to the procedures and limitations prescribed therein; where the
+36   required intervention exceeds what is permissible under the Flexible Tariff Clause, the
+37   Department of Finance and the Tariff Commission shall submit a joint legislative
+38   recommendation to Congress within fifteen (15) days for appropriate action;
+39           (d) strategic buffer stocking of food and fuel through relevant agencies, subject
+40   to existing law and available appropriations;
+41           (e) freight and logistics support for inter-island and overland movement of
+42   essential goods, with priority given to geographically isolated and disadvantaged
+43   areas; and
+
+
+                                                                                              13
+ 1         (f) targeted cash transfers and expanded food mobilization for low-income
+ 2   households in high-inflation and supply-constrained areas, subject to available
+ 3   appropriations under this Act.
+ 4
+ 5          All measures under this section shall be temporary, targeted, and limited to the
+ 6   duration of the declared national energy emergency. Nothing herein shall authorize
+ 7   the general reimposition of price controls on petroleum products in a manner
+ 8   inconsistent with the deregulation policy under Republic Act No. 8479, unless
+ 9   Congress shall have enacted a separate law expressly authorizing such controls.
+10
+11          Sec. 21. Strategic Fuel Security and Emergency Procurement. — To
+12   ensure adequate supply during the emergency period, the Department of Energy,
+13   through lawful and transparent procedures, may undertake emergency procurement,
+14   negotiated acquisition, government-to-government supply arrangements, storage
+15   leasing, stock rotation, strategic buffer inventory buildup, emergency shipping or
+16   berthing arrangements, and other lawful measures necessary to secure adequate
+17   domestic fuel supply.
+18
+19         Emergency procurement under this section shall be conducted in accordance
+20   with Section 53(b) of Republic Act No. 9184 and its implementing rules on negotiated
+21   procurement in cases of imminent danger to life or property. The Department of
+22   Energy shall submit a procurement report to the Government Procurement Policy
+23   Board and the Commission on Audit within fifteen (15) days from each procurement
+24   transaction, detailing the justification, amount, supplier, and delivery terms.
+25
+26          All procurements under this section shall be subject to transparency rules,
+27   publication requirements, and post-audit by the Commission on Audit.
+28
+29          Sec. 22. Logistics Continuity and Essential Goods Mobility Corridors. —
+30   The Department of Transportation, Department of the Interior and Local Government,
+31   Philippine Ports Authority, Civil Aviation Authority of the Philippines, Maritime Industry
+32   Authority, Philippine Coast Guard, Land Transportation Franchising and Regulatory
+33   Board, Department of Public Works and Highways, and local government units shall
+34   ensure uninterrupted movement of essential goods through national and regional food
+35   and medicine logistics corridors, priority clearances for essential cargo in ports,
+36   airports, roads, and checkpoints, emergency warehousing and transshipment support,
+37   interoperable permits or passes recognized across local government units, and fuel
+38   access priority for cold chain, food distribution, mining supply chains, and construction
+39   materials delivery for strategic projects.
+40
+
+
+
+
+                                                                                            14
+ 1          No local government unit shall unreasonably obstruct the lawful movement of
+ 2   essential goods, fuel, equipment, or materials during the declared national energy
+ 3   emergency; provided, that nothing in this Act shall prevent local government units from
+ 4   enforcing lawful, necessary, and proportionate public safety, traffic-management,
+ 5   environmental, sanitation, or similar regulatory measures consistent with national law
+ 6   and the purposes of this Act. Complaints against local government officials for
+ 7   unreasonable obstruction shall be referred by the Department of the Interior and Local
+ 8   Government to the proper authorities in accordance with the Local Government Code
+ 9   and other applicable laws.
+10
+11         Sec. 23. Alternative Work Arrangements and Work-Stoppage Contingency
+12   Measures. — The Department of Labor and Employment and the Civil Service
+13   Commission shall issue rules promoting temporary and flexible work arrangements to
+14   minimize layoffs and commuting burdens, including work-from-home arrangements
+15   where feasible, compressed workweeks, staggered work hours, skeleton workforce
+16   systems, employer-provided shuttles for essential workers, and temporary scheduling
+17   and deployment adjustments for fuel conservation.
+18
+19          For enterprises facing temporary stoppages due to fuel shortage, supply
+20   interruption, or logistics paralysis, the government may provide transition assistance
+21   conditioned on labor retention and compliance with labor standards.
+22
+23           Sec. 24. Public Transport Service Contracting and Mobility Preservation.
+24   — To prevent transport paralysis, the Department of Transportation and the Land
+25   Transportation Franchising and Regulatory Board shall expand service contracting for
+26   critical public transport routes, especially in urban centers, industrial corridors, high-
+27   density labor corridors, food distribution routes, and access routes to strategic
+28   economic areas.
+29
+30         Sec. 25. Local Government Energy Contingency Plans. — Provinces, cities,
+31   and municipalities shall prepare and maintain local energy contingency and essential-
+32   supply continuity plans in accordance with standards to be jointly issued by the
+33   Department of Energy and the Department of the Interior and Local Government. Such
+34   plans shall include local coordination mechanisms, priority fuel-use protocols for
+35   essential services, transport continuity support, local anti-hoarding and price-
+36   monitoring support, and local energy-efficiency measures.
+37
+38          Sec. 26. Government Energy Contingency Standards. — All national
+39   government agencies, government-owned or -controlled corporations, state
+40   universities and colleges, and local government units shall adopt and maintain energy
+41   contingency protocols consistent with Republic Act No. 11285 and other applicable
+42   laws, including emergency conservation standards, demand-management measures,
+43   rationalized work schedules, non-essential travel restrictions, and operational
+44   continuity plans for essential public services.
+
+                                                                                            15
+ 1
+ 2          Sec. 27. Social Protection and Targeted Cash Transfers. — The
+ 3   Department of Social Welfare and Development, Department of Finance, and
+ 4   Department of Budget and Management shall implement targeted cash transfers and
+ 5   emergency household support for indigent and near-poor households severely
+ 6   affected by fuel and food inflation, including low-income commuters, informal workers,
+ 7   solo parents, senior citizens without adequate pensions, persons with disabilities, and
+ 8   vulnerable families in geographically isolated and disadvantaged areas.
+ 9
+10          The assistance provided under this section shall be construed as
+11   supplementary to, and may be delivered as part of or in coordination with, the
+12   emergency cash assistance under Sec. 8 of this Act, subject to implementing
+13   guidelines to prevent duplication and ensure equitable distribution.
+14
+15          Sec. 28. Emergency Permitting and Processing. — During a declared
+16   national energy emergency, concerned departments, agencies, government-owned or
+17   -controlled corporations, government financial institutions, and local government units
+18   shall prioritize and expedite, within their respective legal mandates, the processing of
+19   permits, licenses, clearances, certifications, and other authorizations necessary for
+20   emergency fuel supply, logistics continuity, food movement, essential utilities, mining
+21   supply chains, strategic construction, and essential public services.
+22
+23         Sec. 29. Energy Emergency Relief Fund and Appropriations. — There is
+24   hereby created a standby Energy Emergency Relief Fund, hereinafter the Fund, to
+25   support the implementation of this Act.
+26
+27          The Fund shall consist of:
+28          (a) the initial amount of ONE HUNDRED BILLION PESOS (PhP
+29   100,000,000,000.00), which is hereby appropriated from the National Treasury out of
+30   any funds not otherwise appropriated, as the seed capital of the Fund;
+31          (b) amounts specifically appropriated by Congress in the annual General
+32   Appropriations Act for the implementation of this Act;
+33          (c) amounts transferred from existing agency appropriations, with prior approval
+34   of the Department of Budget and Management and consistent with existing budgeting
+35   and auditing laws; and
+36          (d) grants, donations, and contributions from domestic and foreign sources,
+37   subject to existing laws on the acceptance thereof.
+38
+39         Withdrawals from the Fund shall be made only pursuant to a specific allotment
+40   and disbursement authority issued by the Department of Budget and Management,
+41   subject to post-audit by the Commission on Audit. No amount shall be disbursed from
+42   the Fund for purposes not expressly authorized under this Act.
+43
+
+
+                                                                                          16
+ 1         The Fund shall revert to the National Treasury six (6) months after the lifting of
+ 2   a declared national energy emergency, unless Congress has by then authorized a
+ 3   new declaration or directed a different disposition.
+ 4
+ 5            Sec. 30. Transparency, Public Disclosure, Reports to Congress, and
+ 6   Oversight. — All agencies implementing this Act shall publish on their official
+ 7   websites, at reasonable intervals, their program guidelines, fund releases, beneficiary
+ 8   counts, disbursement status, fuel inventory and supply status, price monitoring and
+ 9   enforcement actions, logistics disruption reports, program outcomes, and summary
+10   utilization reports, subject to applicable laws on privacy, confidentiality, and national
+11   security.
+12
+13         During every declared national energy emergency, the Council and all
+14   implementing agencies shall submit biweekly reports to Congress on the
+15   implementation of this Act, including relief disbursements, beneficiary sectors, status
+16   of supply and logistics, market-enforcement actions, and fund utilization.
+17
+18          There is hereby created a Joint Congressional Oversight Committee to monitor
+19   the implementation of this Act, review executive and agency reports, conduct hearings
+20   when necessary, and recommend corrective legislation or administrative action.
+21          The Joint Congressional Oversight Committee shall be composed of six (6)
+22   members from the Senate, to be designated by the Senate President, and six (6)
+23   members from the House of Representatives, to be designated by the Speaker of the
+24   House, with due regard to proportional party representation.
+25
+26         It shall be co-chaired by the Chairpersons of the Senate and House Committees
+27   on Energy, respectively. The Committee shall meet at least once every two (2) weeks
+28   during a declared national energy emergency, shall have the power to summon
+29   agency heads and require submission of documents, and shall be provided with a
+30   secretariat and operating budget from the appropriations of the respective chambers.
+31
+32          Sec. 31. Non-Diminution and Supplemental Character of Relief. — Relief
+33   and support under this Act shall supplement, and shall not diminish, rights and benefits
+34   under existing labor, social security, consumer protection, housing, agricultural, and
+35   other applicable laws.
+36
+37         Sec. 32. Penal Clause. — In addition to acts or omissions already penalized
+38   under existing laws, the following acts, when committed during a declared national
+39   energy emergency, shall be punishable as follows:
+40
+
+
+
+
+                                                                                           17
+ 1          (a) Willful refusal to comply with mandatory grace periods or imposition of
+ 2   prohibited charges — For natural persons: fine of not less than One Hundred
+ 3   Thousand Pesos (₱100,000.00) nor more than Five Hundred Thousand Pesos
+ 4   (₱500,000.00), or imprisonment of not less than six (6) months nor more than two (2)
+ 5   years, or both, at the discretion of the court. For juridical persons: fine of not less than
+ 6   Five Hundred Thousand Pesos (₱500,000.00) nor more than Five Million Pesos
+ 7   (₱5,000,000.00), plus suspension or revocation of business permit, license, or
+ 8   franchise;
+ 9
+10          (b) Hoarding, profiteering, cartelization, supply manipulation, or artificial
+11   shortage — Fine of not less than Five Hundred Thousand Pesos (₱500,000.00) nor
+12   more than Ten Million Pesos (₱10,000,000.00), imprisonment of not less than one (1)
+13   year nor more than five (5) years, or both, and permanent disqualification from
+14   government assistance and procurement, at the discretion of the court. Juridical
+15   persons shall additionally be subject to suspension or revocation of all relevant
+16   licenses, permits, and franchises;
+17
+18          (c) Fraudulent availment of benefits under this Act — Fine of not less than Fifty
+19   Thousand Pesos (₱50,000.00) nor more than Two Hundred Thousand Pesos
+20   (₱200,000.00) per fraudulent claim, imprisonment of not less than six (6) months nor
+21   more than three (3) years, or both, and recovery with legal interest of all benefits
+22   fraudulently obtained;
+23
+24          (d) Knowing submission of false inventory or compliance reports — Fine of not
+25   less than Two Hundred Thousand Pesos (₱200,000.00) nor more than One Million
+26   Pesos (₱1,000,000.00), and imprisonment of not less than one (1) year nor more than
+27   four (4) years, or both;
+28
+29          (e) Willful obstruction of the lawful movement, allocation, delivery, or distribution
+30   of fuel or essential goods authorized under this Act — Fine of not less than One
+31   Hundred Thousand Pesos (₱100,000.00) nor more than One Million Pesos
+32   (₱1,000,000.00), or imprisonment of not less than six (6) months nor more than two
+33   (2) years, or both, at the discretion of the court.
+34
+35          Where the offender is an elective or appointive public officer, the offender shall,
+36   in addition to the penalties herein prescribed and without prejudice to liability under
+37   other laws, be subject to the applicable administrative and disqualification
+38   consequences under existing law.
+39
+40           If the offense is committed by a corporation, partnership, association, or other
+41   juridical entity, the penalty shall be imposed upon the responsible officers thereof,
+42   including the president, general manager, managing partner, or such other officer
+43   charged with the management of the business, who knowingly authorized, directed,
+44   tolerated, or failed to prevent the commission of the prohibited act.
+
+                                                                                              18
+ 1
+ 2          The implementing rules may provide additional administrative sanctions not
+ 3   inconsistent with this section, but shall not create new criminal offenses or alter the
+ 4   statutory penalties herein prescribed.
+ 5
+ 6          Sec. 33. Implementing Rules and Regulations. — Within fifteen (15) days
+ 7   from the effectivity of this Act, the Department of Energy, in coordination with the
+ 8   Department of Social Welfare and Development, Department of Labor and
+ 9   Employment, Department of Transportation, Department of Agriculture, Department
+10   of Trade and Industry, Department of Finance, Department of the Interior and Local
+11   Government, Department of Budget and Management, Bangko Sentral ng Pilipinas,
+12   Securities and Exchange Commission, Cooperative Development Authority,
+13   Insurance Commission, and other agencies concerned, shall promulgate the
+14   implementing rules and regulations for this Act.
+15
+16         The implementing rules and regulations shall be reviewed and updated, as
+17   necessary, by the Council in coordination with the concerned agencies at least once
+18   every two (2) years from the date of initial promulgation, or after every declared
+19   national energy emergency, whichever comes first, to ensure that the rules remain
+20   responsive to current market conditions, institutional capacities, and lessons learned.
+21
+22          Sec. 34. Sunset and Carry-Over Effect. — The automatic relief and
+23   emergency measures under this Act shall apply only during the effectivity of a declared
+24   national energy emergency. However, accrued rights to grace periods, approved
+25   assistance, deferred payments, wage subsidy, and ongoing support validly granted
+26   during such period shall remain enforceable according to their terms notwithstanding
+27   the subsequent lifting or expiration of the declaration.
+28
+29           For the avoidance of doubt, a grace period validly commenced under this Act
+30   prior to the lifting or expiration of a declaration shall continue to run until its full term is
+31   completed, regardless of the subsequent lifting of the declaration. The lifting of the
+32   declaration shall not retroactively diminish or cut short any grace period, assistance,
+33   or support that has already been triggered and is in progress.
+34
+35          Sec. 35. Separability Clause. — If any provision of this Act is declared
+36   unconstitutional or invalid, the remainder not affected thereby shall remain in full force
+37   and effect.
+38
+
+
+
+
+                                                                                                  19
+ 1          Sec. 36. Repealing Clause. — All laws, rules, regulations, and issuances that
+ 2   are expressly and irreconcilably inconsistent with the specific provisions of this Act are
+ 3   hereby repealed or modified only to the extent of such inconsistency. This Act shall be
+ 4   construed as supplementary to and not in derogation of Republic Act No. 7638,
+ 5   Republic Act No. 8479, Republic Act No. 9653, Republic Act No. 11285, and other
+ 6   applicable laws, except insofar as express modification is required by the specific
+ 7   provisions hereof.
+ 8
+ 9          Sec. 37. Effectivity Clause. — This Act shall take effect immediately upon
+10   publication in the Official Gazette or in a newspaper of general circulation.
+11
+12          Approved.
+
+
+
+
+                                                                                            20
+

@@ -1,0 +1,258 @@
+                                    Republic of the Philippines
+                                 HOUSE OF REPRESENTATIVES
+                                    Quezon City, Metro Manila                                March 25, 2026
+                                                                                               5:30 pm
+                                       TWENTIETH CONGRESS
+                                         First Regular Session
+
+                                           8796
+                          HOUSE BILL NO. ______
+___________________________________________________________________________
+
+           Introduced by REP. NATHANIEL “Atty. Nat” M. ODUCADO
+___________________________________________________________________________
+
+                                       EXPLANATORY NOTE
+
+       The Efficient Small Claims System Act of 2026 establishes a modern, digitalized, and
+AI‑assisted framework for small claims adjudication in the Philippines, designed to accelerate
+access to justice and strengthen the environment for micro, small, and medium enterprises
+(MSMEs), which contribute 62.4 percent of total employment, 36 percent of gross value added,
+and about 25 percent of national exports while accounting for 99.5 percent of all registered
+business establishments. The State recognizes that protracted delays in resolving small‑value
+disputes impose heavy costs on ordinary Filipinos and MSMEs, with the judiciary long facing
+severe backlog and congestion, including unresolved case loads that have reached nearly
+900,000 pending matters in lower trial courts, which exacerbates legal uncertainty and
+discourages investment.
+
+        Under the Act, the new system will apply to commercial disputes involving MSMEs,
+civil monetary claims below the threshold set under the Rules of Court, and other claims as may
+be defined by the Supreme Court, all handled through a unified digital platform. The measure
+shortens the standard timeline for small claims resolution to just seven to fourteen days from
+filing, with an optional three‑day fast‑track process for undisputed monetary debts where both
+parties agree, thereby sharply reducing the months or even years it often takes to resolve
+low‑value disputes via traditional small‑claims procedures. To support this speed without
+compromising fairness, the Judiciary, in coordination with the Department of Information and
+Communications Technology (DICT), will develop an AI‑assisted case management system
+that synthesizes and summarizes pleadings, evidence, and case records for judicial review, with
+the tools required to be transparent, explainable, auditable, and always subject to full human
+judicial oversight. Artificial intelligence will not replace judicial discretion but will instead help
+judges process large volumes of case information more efficiently, a feature that aligns with
+growing use of AI tools in the broader workforce—where 84 percent of Filipino workers
+already adopt AI in their jobs—and the Supreme Court’s ongoing efforts to regulate ethical AI
+use in the justice sector.
+
+        The Act also directly addresses the needs of unrepresented and low‑income litigants by
+mandating free legal assistance or access to legal aid, self‑help guides and standardized
+templates for filing, and digital terminals for case filing and monitoring, all aimed at mitigating
+the digital divide and ensuring that non‑lawyers can still navigate the system. The system will
+be piloted in selected courts in Metro Manila for twelve months, after which the Judiciary will
+evaluate its impact on case resolution times, backlog reduction, user
+1
+ International Initiative for Impact Evaluation (2021) Impacts of Judicial Reform in Small Claims Procedures on
+Court Congestion in the Philippines. Available at http://3ieimpact.org/sites/default/files/2021-02/IE132-
+PWP.03.SC_.IE_SCP.pdf
+satisfaction, and system robustness before deciding on nationwide expansion. The measure
+appropriates ₱4.8–6.9 billion for the initial development, digitalization, and implementation of
+the AI‑assisted small claims system, covering infrastructure, software platforms, cybersecurity
+safeguards, and comprehensive training for judicial and court staff.
+
+        The law projects that this investment will generate substantial socioeconomic returns,
+including an estimated ₱5–8 billion in annual savings from lower legal fees and faster resolution
+of commercial disputes, faster cash‑flow recovery for MSMEs, and improved business
+confidence that can encourage higher formal‑sector participation and investment. By cutting
+through procedural bottlenecks and embedding digital tools within a constitutionally grounded,
+human‑centered framework, the Act aims to restore public trust in the justice system, make
+small claims resolution genuinely accessible, and position the Philippines as a more responsive,
+efficient, and inclusive jurisdiction for everyday dispute resolution.
+
+
+       In view of the foregoing the immediate passage of this bill is earnestly sought.
+
+
+
+                                       REP. NATHANIEL “ATTY. NAT” M. ODUCADO
+                                                  1Tahanan Party List
+
+
+
+
+                                                                                               2
+                                      Republic of the Philippines
+                                   HOUSE OF REPRESENTATIVES
+                                      Quezon City, Metro Manila
+
+                                        TWENTIETH CONGRESS
+                                          First Regular Session
+
+                                                8796
+                                HOUSE BILL NO. ______
+     ___________________________________________________________________________
+
+               Introduced by REP. NATHANIEL “ATTY. NAT” M. ODUCADO
+     ___________________________________________________________________________
+
+     AN ACT ESTABLISHING AN EFFICIENT SMALL CLAIMS SYSTEM THROUGH
+     DIGITALIZATION AND AI-ASSISTED CASE MANAGEMENT, CREATING THE
+              ENABLING FRAMEWORK, AND FOR OTHER PURPOSES
+
+     Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+     assembled:
+
+1            SECTION 1. Short Title. – This Act shall be known as the “Efficient Small Claims System
+2    Act of 2026.”
+
+3            SEC. 2. Declaration of Policy. – It is hereby declared the policy of the State to promote
+4    access to justice and support micro, small, and medium enterprises (MSMEs) by providing a fast,
+5    fair, and efficient small claims system. The State recognizes the need to reduce delays in small
+6    claims courts and to harness digital innovations, including artificial intelligence (AI), to improve
+7    case management while ensuring due process and judicial oversight.
+
+8           SEC. 3. Definition of Terms. - For purposes of this Act, the following terms are hereby
+9    defined:
+
+10              a) AI-Assisted Case Management System – refers to the digital platform developed
+11                 under this Act that utilizes artificial intelligence to organize, synthesize, and
+12                 summarize pleadings, evidence, and case records for judicial review.
+13              b) Artificial Intelligence (AI) – refers to computer-based systems capable of
+14                 performing tasks that normally require human intelligence, including but not
+15                 limited to data analysis, pattern recognition, and automated summarization, used
+16                 solely to assist in case management and not to replace judicial decision-making.
+17              c) Department of Information and Communications Technology (DICT) – refers to the
+18                 government agency responsible for planning, developing, and promoting the
+19                 national ICT development agenda, which shall provide technical support for the
+20                 implementation of this Act.
+21              d) Digital Platform – refers to the integrated electronic system used for the filing,
+22                 processing, tracking, and resolution of small claims cases under this Act.
+23              e) Fast-Track Resolution – refers to the expedited process for resolving undisputed
+24                 monetary claims within a shortened period, as may be prescribed by the Supreme
+25                 Court.
+                                                                                                       1
+ 1              f) Judiciary – refers to the Supreme Court and all lower courts established under the
+ 2                 Constitution and existing laws.
+ 3              g) Micro, Small, and Medium Enterprises (MSMEs) – refers to business entities
+ 4                 defined under existing laws and regulations, including Republic Act No. 9501,
+ 5                 otherwise known as the “Magna Carta for MSMEs.”
+ 6              h) Small Claims – refers to civil claims for payment of money or enforcement of
+ 7                 obligations not exceeding the amount prescribed under the Rules of Court,
+ 8                 including such other claims as may be determined by the Supreme Court.
+ 9              i) Unrepresented Litigant – refers to a party in a small claims case who appears
+10                 without the assistance of legal counsel.
+
+11          SEC. 4. Collaborative Small Claims Council. - There is hereby created the Collaborative
+12   Small Claims Council (CSCC), composed of:
+
+13              1) One (1) representative from the Supreme Court, designated by the Chief Justice;
+14              2) One (1) representative from the House of Representatives, designated by the
+15                 Speaker;
+16              3) One (1) representative from the Senate, designated by the Senate President; and
+17              4) One (1) representative from the private sector, nominated by accredited MSME
+18                 organizations and appointed by the President.
+
+19          The CSCC shall meet quarterly or as needed to:
+
+20              a) Advise on the development, implementation, and evaluation of the AI-assisted
+21                 system and digital platform;
+22              b) Recommend rules, standards, and improvements to the Supreme Court and DICT;
+23              c) Oversee pilot implementation and nationwide rollout; and
+24              d) Ensure stakeholder input on accessibility, digital divide mitigation, and MSME
+25                 needs.
+
+26          The CSCC shall be co-chaired by the Supreme Court and congressional representatives,
+27   with secretariat support from the DICT. Members shall serve for a term of three (3) years,
+28   renewable once.
+
+29          SEC. 5. Objectives. - This Act aims to:
+
+30              a) Digitalize small claims procedures to reduce case resolution time.
+31              b) Establish AI-assisted case synthesis for efficient judicial review.
+32              c) Provide an enabling framework allowing the Supreme Court to prescribe detailed
+33                 rules and procedures.
+34              d) Ensure support for unrepresented litigants through legal aid, self-help tools, and
+35                 digital access.
+
+36          SEC. 6. Scope of Application. - This Act shall apply to all small claims filed in:
+
+37              a) Commercial disputes involving MSMEs;
+
+
+
+                                                                                                   2
+1               b) Civil monetary claims not exceeding the amount prescribed under the Rules of
+2                  Court; and
+3               c) Other claims as may be determined by the Supreme Court.
+
+4            SEC. 7. AI-Assisted Case Management. - This Act shall apply to all small claims filed
+5    before the courts:
+
+ 6              a) The Judiciary, in coordination with the Department of Information and
+ 7                 Communications Technology (DICT) and the Collaborative Small Claims Council,
+ 8                 shall develop an AI-assisted system to synthesize and summarize case materials for
+ 9                 judicial review.
+10              b) AI tools must be transparent, explainable, and auditable, with human judicial
+11                 oversight at all stages of the decision-making process.
+12              c) AI shall not replace judicial discretion, but shall support judges in expediting case
+13                 resolution.
+
+14           SEC. 8. Mandatory Case Resolution Timeline. - The standard timeline for small claims
+15   resolution under this Act shall be as follows:
+
+16              a) The standard timeline for small claims resolution under this Act shall be seven (7)
+17                 to fourteen (14) days from filing, unless extended by the court for good cause, not
+18                 to exceed thirty (30) days total.
+19              b) A fast-track 3-day resolution may be applied for undisputed monetary debts or
+20                 claims where both parties agree to the accelerated process.
+21              c) The Supreme Court, in consultation with the Collaborative Small Claims Council,
+22                 shall promulgate detailed rules for case filing, digital evidence submission,
+23                 hearings, and decision issuance, including penalties for non-compliance with
+24                 timelines.
+
+25          SEC. 9. Support for Unrepresented Litigants. - The support provided are the following:
+
+26              a) The Judiciary shall provide:
+27                    i)   Free legal assistance or access to legal aid services;
+28                   ii)   Self-help guides and templates for filing claims;
+29                  iii)   Access to digital terminals for filing and monitoring cases.
+30              b) Special programs shall be implemented to bridge the digital divide and ensure fair
+31                 participation.
+
+32          SEC. 10. Pilot Implementation. - The system shall be implemented as follows:
+
+33              a) The system shall be piloted in selected courts in Metro Manila for a period of twelve
+34                 (12) months, under the oversight of the Collaborative Small Claims Council.
+35              b) After evaluation, the Judiciary may expand the program nationwide with the
+36                 necessary improvements.
+
+37          SEC. 11. Appropriations. - The amount of ₱4.8–6.9 billion is hereby appropriated for the
+38   development, digitalization, and implementation of the AI-assisted small claims system, including
+
+                                                                                                      3
+1    infrastructure, software, and personnel training. Thereafter, such sums as may be necessary for the
+2    continued operation and maintenance of the system shall be included in the annual General
+3    Appropriations Act.
+
+4             SEC. 12. Declaration of Expected Outcomes. - The implementation of this Act is expected
+5    to result in the following:
+
+ 6              a) Reduced legal fees and faster resolution of commercial disputes, generating
+ 7                 estimated annual savings of ₱5–8 billion.
+ 8              b) Improved cash flow for MSMEs through timely dispute resolution.
+ 9              c) Increased public trust in the justice system through accessible, transparent, and
+10                 efficient small claims procedures.
+
+11           SEC. 13. Separability Clause. - If any provision of this Act is declared unconstitutional or
+12   invalid, the remaining provisions shall continue in full force and effect.
+
+13           SEC. 14. Repealing Clause. - All laws, decrees, executive orders, rules, and regulations
+14   inconsistent with this Act are hereby repealed or modified accordingly.
+
+15           SEC. 15. Effectivity. - This Act shall take effect fifteen (15) days after its complete
+16   publication in the Official Gazette or in two (2) newspapers of general circulation.
+
+17          Approved,
+
+
+
+
+                                                                                                       4
+

@@ -1,0 +1,209 @@
+                                   Republic of the Philippines
+                                HOUSE OF REPRESENTATIVES
+                                   Quezon City, Metro Manila                               March 25, 2026
+                                                                                             5:30 pm
+                                      TWENTIETH CONGRESS
+                                        First Regular Session
+
+                                           8795
+                          HOUSE BILL NO. ______
+___________________________________________________________________________
+
+           Introduced by REP. NATHANIEL “Atty. Nat” M. ODUCADO
+___________________________________________________________________________
+
+                                      EXPLANATORY NOTE
+
+        The Universal Financial Account Act seeks to dramatically expand financial inclusion
+for Filipinos by establishing a zero‑balance Universal Financial Account (UFA) automatically
+linked to each citizen’s PhilSys ID from birth, with privacy, security, and interoperability at
+the core of its design. The measure is especially urgent given that around 44 percent of the
+adult population—about 34.3 million Filipinos—remains unbanked, despite the share of adults
+owning a financial‑account rising from 29 percent in 2019 to 56 percent in 2021, largely driven
+by the COVID‑19‑induced shift toward digital payments.
+
+        The policy explicitly targets these unbanked and underbanked segments by creating a
+UFA for every Filipino at birth, designed to be interoperable across accredited banks and
+e‑wallets and to support offline channels such as USSD so that even remote and
+low‑connectivity areas can participate. By embedding the UFA within the national digital
+infrastructure, the State aims to streamline the delivery of social protection programs,
+healthcare subsidies, and cash transfers, thereby reducing the substantial leakage that plagues
+many social assistance schemes; international and local studies on social protection suggest
+that better targeting and digital‑account delivery can cut leakage and improve cost‑benefit
+ratios, which aligns with the bill’s projected annual savings of ₱15–20 billion in reduced
+leakage from social programs and an estimated rise in tax compliance yielding ₱25–35 billion
+in additional government revenue per year.
+
+         The Act likewise reinforces data privacy and cybersecurity, echoing broader regulatory
+and policy concerns given the increasing number of financial‑account scams and
+digital‑payment frauds in the Philippines. Under the measure, the newly created Universal
+Financial Account Authority (UFAA), placed under the Department of Finance, will oversee
+standards for interoperability, ensure that adequate cybersecurity and data‑protection controls
+are in place, supervise the Financial Inclusion Subsidy Fund (FISF), and coordinate with the
+Bangko Sentral ng Pilipinas and PhilSys. The FISF, funded through the General Appropriations
+Act, donor grants, and other lawful sources, is intended to compensate banks and financial
+institutions for the costs of maintaining zero‑balance accounts, which is critical because the
+current unbanked population—if brought into the formal system—represents a large, untapped
+segment of the “bankable” population whose inclusion could help triple the country’s banking
+revenue pools by 2030.
+
+      Implementation will proceed in phases over five to seven years, beginning with
+newborns and prioritizing regions with the highest unbanked populations, which is consistent
+
+1
+ Sunstar (2022) BSP: Over 50% of Filipinos own financial transaction account. Available at
+https://www.sunstar.com.ph/cebu/business/bsp-over-50-of-filipinos-own-financial-transaction-account
+with evidence that rural and low‑income areas remain the most underserved. Alongside this
+rollout, the UFAA will conduct nationwide financial‑literacy and public‑awareness campaigns
+to educate citizens on how to use their UFA safely and effectively, addressing one of the key
+barriers to financial inclusion identified in the BSP’s Financial Inclusion Surveys. Annual
+monitoring and evaluation reports to Congress will track progress in expanding account
+ownership, improving social‑protection targeting, and strengthening tax compliance, thereby
+anchoring the UFA system as a long‑term pillar of the State’s strategy to deepen financial
+inclusion and build a more resilient, inclusive digital economy.
+
+       In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+                                      REP. NATHANIEL “ATTY. NAT” M. ODUCADO
+                                                 1Tahanan Party List
+
+
+
+
+                                                                                           2
+                                       Republic of the Philippines
+                                    HOUSE OF REPRESENTATIVES
+                                       Quezon City, Metro Manila
+
+                                         TWENTIETH CONGRESS
+                                           First Regular Session
+
+                                                8795
+                                HOUSE BILL NO. ______
+     ___________________________________________________________________________
+
+               Introduced by REP. NATHANIEL “ATTY. NAT” M. ODUCADO
+     ___________________________________________________________________________
+
+      AN ACT ESTABLISHING A UNIVERSAL FINANCIAL ACCOUNT SYSTEM FOR
+         ALL FILIPINOS, CREATING THE UNIVERSAL FINANCIAL ACCOUNT
+           AUTHORITY, AND PROVIDING FUNDS AND MECHANISMS FOR
+                              IMPLEMENTATION
+
+     Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+     assembled:
+
+1            SECTION 1. Short Title. – This Act shall be known as the “Universal Financial Account
+2    Act.”
+
+ 3            SEC. 2. Declaration of Policy. – It is hereby declared the policy of the State to financial
+ 4   inclusion by providing accessible banking services to all Filipinos, ensuring that every citizen, from
+ 5   birth, has the opportunity to participate in the formal financial system. The State shall facilitate the
+ 6   efficient delivery of social protection programs, healthcare services, and government subsidies
+ 7   through secure and interoperable digital financial accounts. Furthermore, the State recognizes the
+ 8   importance of strengthening the digital economy and enabling safe, convenient, and reliable digital
+ 9   transactions for all citizens. In implementing these measures, the State shall uphold the highest
+10   standards of data privacy and cybersecurity to protect the financial information of its people.
+
+11           SEC. 3. Definition of Terms. - For purposes of this Act:
+
+12               a) Universal Financial Account (UFA) - refers to a zero-balance digital account
+13                  automatically created for every Filipino at birth, linked to their PhilSys ID;
+14               b) PhilSys ID - The official national identification number issued under Republic Act
+15                  No. 11055;
+16               c) Universal Financial Account Authority (UFAA) - refers to the government body
+17                  responsible for implementing, regulating, and supervising the UFA system;
+18               d) Financial Inclusion Subsidy Fund (FISF) - refers to the fund to support banks and
+19                  financial institutions for costs associated with maintaining zero-balance accounts;
+20               e) Interoperability - refers to the ability of the UFA to conduct transactions across
+21                  different banks, e-wallets, and financial platforms.
+
+22            SEC. 4. Creation of Universal Financial Accounts. - Every Filipino shall be automatically
+23   provided a zero-balance Universal Financial Account linked to the PhilSys ID, with optional opt-
+24   out, as follows:
+                                                                                                           1
+1               a) Every Filipino shall be automatically provided a Universal Financial Account at
+2                  birth.
+3               b) The UFA shall be linked to the PhilSys ID and shall be interoperable across
+4                  accredited banks and e-wallets.
+5               c) Accounts shall have zero balance upon creation and shall include offline transaction
+6                  capabilities (e.g., USSD-based services) for unbanked or remote areas.
+7               d) Citizens shall have the option to opt-out of the UFA system, following guidelines
+8                  set by the UFAA.
+
+ 9           SEC. 5. Universal Financial Account Authority (UFAA). - The Universal Financial
+10   Account Authority under the Department of Finance is created to oversee UFAs and related
+11   functions, as follows:
+
+12              a) There is hereby created the Universal Financial Account Authority, under the
+13                 Department of Finance, which shall oversee the implementation, security, and
+14                 regulation of all UFAs.
+15              b) The UFAA shall:
+16                    i)   Establish standards for interoperability across financial institutions;
+17                   ii)   Ensure data privacy and cybersecurity measures are in place;
+18                  iii)   Supervise the disbursement and management of the Financial Inclusion
+19                         Subsidy Fund;
+20                  iv)    Coordinate with the Bangko Sentral ng Pilipinas (BSP), PhilSys, and other
+21                         relevant agencies.
+
+22          SEC. 6. Financial Inclusion Subsidy Fund (FISF). - The Financial Inclusion Subsidy
+23   Fund is established to support banks maintaining zero-balance accounts and shall be sourced as
+24   follows:
+
+25              a) The FISF is hereby established to provide subsidies to banks and financial
+26                 institutions maintaining zero-balance accounts under this Act.
+27              b) The Fund shall be sourced from the General Appropriations Act, donor grants, and
+28                 any other lawful sources.
+
+29           SEC. 7. Phased Implementation. - The UFAA shall implement the UFA system in phases
+30   over five to seven years, prioritizing high-unbanked regions, as follows:
+
+31              a) The UFAA shall implement the UFA system in a phased approach over five (5) to
+32                 seven (7) years, starting with newborns.
+33              b) The UFAA shall prioritize regions with the highest unbanked populations.
+
+34          SEC. 8. Financial Literacy and Public Awareness. - The UFAA shall implement
+35   nationwide financial literacy programs to educate citizens on the use, benefits, and security
+36   measures of their Universal Financial Accounts.
+
+37           SEC. 9. Appropriations. - The amount necessary to carry out the provisions of this Act,
+38   estimated at Fifteen Billion Pesos (₱15,000,000,000.00) to Twenty-Three Billion Pesos
+39   (₱23,000,000,000.00), shall be included in the annual General Appropriations Act for the purpose
+
+                                                                                                     2
+1    of developing the Universal Financial Account platform, funding the Financial Inclusion Subsidy
+2    Fund, and implementing financial literacy and public awareness programs. Savings and benefits
+3    are projected to include an annual reduction in leakage of social protection programs amounting to
+4    Fifteen to Twenty Billion Pesos (₱15–20B) and increased government revenue from tax
+5    compliance estimated at Twenty-Five to Thirty-Five Billion Pesos (₱25–35B) annually.
+
+6          SEC. 10. Monitoring and Evaluation. - The UFAA shall submit annual reports to
+7    Congress on the status, impact, and security of the UFA system.
+
+ 8           SEC. 11. Implementing Rules and Regulations (IRR). - Within ninety (90) days from the
+ 9   effectivity of this Act, the Universal Financial Account Authority (UFAA), in coordination with
+10   the Bangko Sentral ng Pilipinas (BSP), Securities and Exchange Commission (SEC), Credit
+11   Information Corporation (CIC), Philippine Statistics Authority (PSA), and National Privacy
+12   Commission (NPC), shall issue the IRR to provide standards for UFA interoperability and APIs,
+13   cybersecurity and data privacy measures including encryption and fraud detection, FISF
+14   operational guidelines, phased implementation timelines and opt-out procedures, and
+15   reporting/audit requirements for Congress.
+
+16           SEC. 12. Separability Clause. - If any provision of this Act is declared unconstitutional or
+17   invalid, the remaining provisions shall continue in full force and effect.
+
+18           SEC. 13. Repealing Clause. - All laws, rules, and regulations inconsistent with this Act
+19   are hereby repealed or modified accordingly.
+
+20           SEC. 14. Effectivity. - This Act shall take effect fifteen (15) days after its publication in
+21   the Official Gazette or in a newspaper of general circulation.
+
+22           Approved,
+
+
+
+
+                                                                                                        3
+
