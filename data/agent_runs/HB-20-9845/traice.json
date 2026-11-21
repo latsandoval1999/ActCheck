@@ -1,0 +1,91 @@
+{
+ "output": {
+  "target": "HB-20-9845",
+  "entity_proposed": "Tripartite Council for Tertiary Education (TCTE)",
+  "proposal": "HB No. 9845 seeks to institutionalize a Higher Education-Industry Partnership Framework and to create the Tripartite Council for Tertiary Education (TCTE) as a consultative and coordinative body, in order to address the job-skills mismatch and weak linkages between higher education and industry.",
+  "alignment": "As a government organization measure, the review should examine whether the proposed TCTE, an inter-agency body composed of the heads of CHED, TESDA, DOLE, DepEd and DTI with higher education and industry representatives, duplicates existing coordinating and advisory mechanisms of these agencies, and how its creation relates to the streamlining of the Executive branch and the reduction of overlapping functions under the Government Optimization Act (RA No. 12231). Section 7 (Creation of the Tripartite Council for Tertiary Education) limits the Council to recommendatory, facilitative and advisory functions, which the review may weigh against the labor-market and skills intelligence functions under Section 9 (Powers and Functions of the Council). The measure aligns with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on equitable access to quality education. The measure is not identified in the LEDAC Common Legislative Agenda in the material reviewed.",
+  "legislative_history": [
+   "HB No. 9845 was filed in the House of Representatives of the 20th Congress on June 10, 2026 by Representative Ferdinand Martin G. Romualdez; it is pending at the filing stage, and later stages are not reflected in the available data.",
+   "HB No. 11183, also filed in the 20th Congress, carries the same short title and proposes a similar framework with a Higher Education-Industry Coordination Council.",
+   "No earlier-Congress version, Senate counterpart, substitute bill or committee report was identified in the material reviewed."
+  ],
+  "related": [
+   {
+    "id": "HB-20-11183",
+    "relationship": "Alternative proposal",
+    "basis": "It bears the same short title and appropriations clause but creates a differently named Higher Education-Industry Coordination Council with a specified chair and regional representation requirements.",
+    "section": "HB-20-11183:s7",
+    "quote": "There is hereby created the Higher Education-Industry Coordination Council, hereinafter referred to as the Council"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-7722",
+    "label": "Overlapping functions",
+    "overlap": "The law creating CHED may overlap with the coordinating role of the TCTE under Section 7 (Creation of the Tripartite Council for Tertiary Education) and with CHED's lead role under Section 14 (Implementing Rules and Regulations) and Section 15 (Appropriations).",
+    "section": "law:RA-7722",
+    "quote": "AN ACT CREATING THE COMMISSION ON HIGHER EDUCATION, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+   }
+  ],
+  "salient_features": "HB No. 9845 seeks to institutionalize the Higher Education-Industry Partnership Framework and to create the Tripartite Council for Tertiary Education (TCTE). Its salient features are as follows:\na. Section 3 (Scope and Application) provides that the Act covers CHED-recognized public and private higher education institutions, industry partners and relevant government agencies, without mandating participation, altering accreditation or regulatory requirements, or interfering with academic freedom.\nb. Section 4 (Institutionalization of the Higher Education) provides that the Framework shall serve as the national policy, coordination and governance architecture for structured collaboration between industry and higher education institutions.\nc. Section 6 (Modes of Higher Education-Industry Partnership) provides for partnership modes such as industry advisory arrangements, work-integrated learning, collaborative research and innovation, and faculty exposure and development.\nd. Section 7 (Creation of the Tripartite Council for Tertiary Education) creates the TCTE as the principal national coordinating, advisory and intelligence body for the Framework, consultative and coordinative in nature and without regulatory, accrediting, licensing, supervisory or enforcement powers.\ne. Section 8 (Composition, Leadership, and Secretariat of the Council) provides that the Council shall be composed of the heads of CHED, TESDA, DOLE, DepEd and DTI, or their permanent representatives, in an ex officio capacity, six representatives of the higher education sector designated under CHED guidelines, and six representatives of the industry sector.\nf. Section 9 (Powers and Functions of the Council) provides that the Council shall monitor labor-market trends, conduct skills inventories and assessments, generate labor-market and skills intelligence, recommend policy measures to the President, Congress and relevant agencies, and spearhead the review and updating of the Framework.\ng. Section 10 (Annual General Assembly) provides that the Council shall convene a General Assembly of stakeholders at least once every calendar year.\nh. Section 11 (Regional and Sectoral Advisory Boards) provides that regional and sectoral advisory boards may be constituted to provide localized and sector-specific inputs.\ni. Section 12 (Institutional Partnership Units) provides that higher education institutions are encouraged to establish or designate partnership units to coordinate engagement with industry.\nj. Section 13 (Annual Report to Congress) provides that the Council shall submit an annual partnership report to Congress.\nk. Section 14 (Implementing Rules and Regulations) provides that CHED shall promulgate the implementing rules and regulations within ninety (90) days from the effectivity of the Act.\nl. Section 15 (Appropriations) provides that the initial implementation shall be charged against the current appropriations of CHED, and that funding thereafter shall be included in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 9845 may be considered alongside HB No. 11183, which carries the same short title and proposes a similar framework under a differently named Higher Education-Industry Coordination Council. The measure aligns with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework. The review should assess whether the functions of the TCTE under Section 7 (Creation of the Tripartite Council for Tertiary Education) and Section 9 (Powers and Functions of the Council) duplicate the existing mandate of CHED under RA No. 7722 and the coordinating mechanisms of TESDA, DOLE, DepEd and DTI, consistent with the streamlining objectives of the Government Optimization Act (RA No. 12231), and should determine the cost of the Council's secretariat, General Assembly, advisory boards and reporting functions to be charged against CHED appropriations.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for initial implementation, charged against the current appropriations of CHED; no amount stated",
+    "section": "Section 15 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary, to be included in the annual General Appropriations Act",
+    "section": "Section 15 (Appropriations)"
+   },
+   {
+    "item": "Members",
+    "detail": "Five ex officio government officials, six higher education representatives and six industry representatives; compensation or allowances not stated in the available text",
+    "section": "Section 8 (Composition, Leadership, and Secretariat of the Council)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Council secretariat; details not available in the truncated text",
+    "section": "Section 8 (Composition, Leadership, and Secretariat of the Council)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Optional regional and sectoral advisory boards",
+    "section": "Section 11 (Regional and Sectoral Advisory Boards)"
+   },
+   {
+    "item": "Recurring activity",
+    "detail": "Annual General Assembly and annual report to Congress",
+    "section": "Section 10 (Annual General Assembly)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the full text of Section 8 (Composition, Leadership, and Secretariat of the Council), including who chairs the Council, the industry designation guidelines and the secretariat arrangement.",
+   "Check the incomplete heading of Section 4 (Institutionalization of the Higher Education) and the acronym 'IHEPF' used for the Framework.",
+   "Compare HB No. 9845 with HB No. 11183, which uses the same short title but names a different council, and confirm their status with the House.",
+   "Verify whether members from the higher education and industry sectors will receive honoraria or allowances, as this affects the cost to CHED."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "It bears the same short title and appropriations clause but creates a differently named Higher Education-Industry Coordination Council with a specified chair and regional representation requirements.",
+   "section": "HB-20-11183:s7",
+   "quote": "There is hereby created the Higher Education-Industry Coordination Council, hereinafter referred to as the Council",
+   "check": "verified"
+  },
+  {
+   "claim": "The law creating CHED may overlap with the coordinating role of the TCTE under Section 7 (Creation of the Tripartite Council for Tertiary Education) and with CHED's lead role under Section 14 (Implementing Rules and Regulations) and Section 15 (Appropriations).",
+   "section": "law:RA-7722",
+   "quote": "AN ACT CREATING THE COMMISSION ON HIGHER EDUCATION, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-21T00:08:38+00:00"
+ }
+}
