@@ -1,0 +1,238 @@
+{
+ "output": {
+  "target": "HB-20-9720",
+  "entity_proposed": "National Education Council (NEDCO)",
+  "proposal": "HB No. 9720 seeks to create the National Education Council (NEDCO), attached to the Office of the President, to develop a long-term national education agenda and institutionalize national coordination, planning, monitoring and evaluation among the Department of Education, the Commission on Higher Education and the Technical Education and Skills Development Authority, in order to reduce fragmentation of education policies and programs.",
+  "alignment": "As a government organization measure, the review should examine how the coordinating and agenda-setting functions of the NEDCO under Section 4 (The National Education Council) and Section 5 (Powers and Functions) fit with the existing mandates of the three education sub-sectors and of existing education bodies, whether a new council and a separate Secretariat under Section 7 (The NEDCO Secretariat) are warranted, and how the measure relates to the government's intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The measure aligns with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, particularly its focus on equitable access to quality education. No LEDAC Common Legislative Agenda item was identified for this measure.",
+  "legislative_history": [
+   "HB No. 9720 was filed on June 3, 2026 by Representative Kenneth T. Gatchalian; it is at the filing stage, and later stages are not reflected in the available data.",
+   "Bills bearing a closely matching title were filed in the House in earlier Congresses: HB No. 3684 (19th Congress, filed August 16, 2022) and HB Nos. 7807 and 8022 (18th Congress, filed October 1, 2020 and November 17, 2020), all pending in committee.",
+   "In the Senate, SB No. 625 (20th Congress, filed July 15, 2025, pending in committee) carries the same short title and may be the counterpart measure; similarly titled SB No. 2017 (19th Congress) and SB No. 1526 (18th Congress) were filed earlier.",
+   "Bills proposing a National Education Coordinating Council were also filed: HB No. 2173 (20th Congress), HB No. 5347 (19th Congress), and HB Nos. 2746 and 4925 (18th Congress), all pending in committee.",
+   "No substitute bill or committee report on this measure was identified."
+  ],
+  "related": [
+   {
+    "id": "SB-20-625",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-20-625",
+    "quote": "NATIONAL EDUCATION COUNCIL ACT: AN ACT CREATING THE NATIONAL EDUCATION COUNCIL, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-3684",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-3684",
+    "quote": "AN ACT CREATING THE NATIONAL EDUCATION COUNCIL, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-18-7807",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-7807",
+    "quote": "AN ACT CREATING THE NATIONAL EDUCATION COUNCIL, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-18-8022",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-8022",
+    "quote": "AN ACT CREATING THE NATIONAL EDUCATION COUNCIL, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "SB-19-2017",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-19-2017",
+    "quote": "NATIONAL EDUCATION COUNCIL ACT: AN ACT CREATING THE NATIONAL EDUCATION COUNCIL"
+   },
+   {
+    "id": "SB-18-1526",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-18-1526",
+    "quote": "NATIONAL EDUCATION COUNCIL ACT: AN ACT CREATING THE NATIONAL EDUCATION COUNCIL"
+   },
+   {
+    "id": "HB-20-2173",
+    "relationship": "Alternative proposal",
+    "basis": "Title indicates a separately named National Education Coordinating Council addressing the same coordination problem; text not reviewed.",
+    "section": "meta:HB-20-2173",
+    "quote": "AN ACT ESTABLISHING THE NATIONAL EDUCATION COORDINATING COUNCIL"
+   },
+   {
+    "id": "HB-19-5347",
+    "relationship": "Alternative proposal",
+    "basis": "Title indicates a National Education Coordinating Council addressing the same coordination problem; text not reviewed.",
+    "section": "meta:HB-19-5347",
+    "quote": "AN ACT ESTABLISHING THE NATIONAL EDUCATION COORDINATING COUNCIL"
+   },
+   {
+    "id": "HB-18-2746",
+    "relationship": "Alternative proposal",
+    "basis": "Title indicates a National Education Coordinating Council addressing the same coordination problem; text not reviewed.",
+    "section": "meta:HB-18-2746",
+    "quote": "AN ACT ESTABLISHING THE NATIONAL EDUCATION COORDINATING COUNCIL"
+   },
+   {
+    "id": "HB-18-4925",
+    "relationship": "Alternative proposal",
+    "basis": "Title indicates a National Education Coordinating Council addressing the same coordination problem; text not reviewed.",
+    "section": "meta:HB-18-4925",
+    "quote": "AN ACT ESTABLISHING THE NATIONAL EDUCATION COORDINATING COUNCIL"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-11315",
+    "label": "Referenced in the bill",
+    "overlap": "Section 8 (Educational Mapping and Statistics) directs the Philippine Statistics Authority to map education data as a dimension of poverty under the Community-Based Monitoring System Act.",
+    "section": "HB-20-9720:s8",
+    "quote": "mapping of data related to education as a dimension of poverty under Republic Act No. 11315"
+   },
+   {
+    "law": "RA-1124",
+    "label": "Overlapping functions",
+    "overlap": "The Board of National Education under RA No. 1124 (as amended by RA No. 4372) formulates general education policies, which may overlap with Section 5 (Powers and Functions); title only reviewed.",
+    "section": "law:RA-1124",
+    "quote": "Creating a Board of National Education Charged with the Duty of Formulating General Education Policies"
+   },
+   {
+    "law": "RA-11713",
+    "label": "Overlapping functions",
+    "overlap": "The Teacher Education Council under RA No. 7784 as amended by RA No. 11713 may overlap with the teacher education planning function in Section 5 (Powers and Functions); title only reviewed.",
+    "section": "law:RA-11713",
+    "quote": "ENHANCING THE TEACHER EDUCATION COUNCIL"
+   }
+  ],
+  "salient_features": "HB No. 9720 seeks to create the National Education Council (NEDCO), attached to the Office of the President, to set a long-term national education agenda and coordinate the three education sub-sectors. Its salient features are as follows:\na. Section 4 (The National Education Council) provides that the NEDCO is created and attached to the Office of the President, chaired by the President of the Philippines, with the heads of the Department of Education, the Commission on Higher Education and the Technical Education and Skills Development Authority as Co-Vice Chairpersons, and with the Senate President, the Speaker of the House and the heads of several departments and agencies, including the Department of Budget and Management, as members.\nb. Section 5 (Powers and Functions) provides that the NEDCO shall develop the national strategic vision for education in the form of a national education agenda, institutionalize national coordination, planning, monitoring and evaluation among the three sub-sectors, serve as a regular forum for inter-sub-sectoral consultations, and ensure harmonized planning on critical issues such as teacher education and an integrated curriculum.\nc. Section 6 (The National Education Agenda) provides that the agenda shall have a minimum five-year horizon, be updated annually, be binding on the three sub-sectors and concerned agencies, and be completed within six months from effectivity.\nd. Section 7 (The NEDCO Secretariat) provides for a Secretariat within the Office of the President headed by an Executive Director nominated by the NEDCO and appointed by the President, with its staffing structure submitted to the Department of Budget and Management for funding and an interim Secretariat formed through detail of personnel from the three sub-sectors; no salary grade is stated.\ne. Section 8 (Educational Mapping and Statistics) provides that the Philippine Statistics Authority shall strengthen its education statistics unit, develop a nationwide education database and coordinate with the sub-sectors and other agencies.\nf. Section 9 (Annual Report) provides that the NEDCO shall report annually to the President and Congress on the implementation of the agenda.\ng. Section 10 (Appropriations) provides that initial funding shall be sourced from the current appropriations of the Office of the President and continuing funding shall be included in the annual General Appropriations Act.\nh. Section 11 (Implementing Rules and Regulations) provides that the Office of the President and the three sub-sectors shall issue the implementing rules within ninety days from effectivity.",
+  "related_measures_policy": "HB No. 9720 may be considered alongside SB No. 625, which bears the same short title, and alongside HB No. 2173, which proposes a National Education Coordinating Council for the same coordination problem; bills with matching titles were filed in the 18th and 19th Congresses. The measure aligns with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework. The review should assess whether the NEDCO and its Secretariat under Section 4 (The National Education Council) and Section 7 (The NEDCO Secretariat) duplicate existing education bodies, including the Board of National Education under RA No. 1124 and the Teacher Education Council under RA No. 7784 as amended by RA No. 11713, consistent with the streamlining objectives of the Government Optimization Act (RA No. 12231), and the resource implications for the Philippine Statistics Authority under Section 8 (Educational Mapping and Statistics), which references RA No. 11315.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for initial implementation, not quantified; sourced from current appropriations of the Office of the President",
+    "section": "Section 10 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Amount necessary for continuous implementation to be included in the annual General Appropriations Act",
+    "section": "Section 10 (Appropriations)"
+   },
+   {
+    "item": "Support body",
+    "detail": "NEDCO Secretariat within the Office of the President; staffing pattern and compensation schedule determined by the NEDCO, initial staffing submitted to the Department of Budget and Management for funding",
+    "section": "Section 7 (The NEDCO Secretariat)"
+   },
+   {
+    "item": "Position",
+    "detail": "Executive Director heading the Secretariat; no salary grade stated",
+    "section": "Section 7 (The NEDCO Secretariat)"
+   },
+   {
+    "item": "Members",
+    "detail": "Ex officio membership of the President, education sub-sector heads, legislative leaders and department heads; no compensation or allowances stated in the available text",
+    "section": "Section 4 (The National Education Council)"
+   },
+   {
+    "item": "Agency mandate",
+    "detail": "Philippine Statistics Authority to strengthen its education statistics unit and build a nationwide database; no separate funding stated",
+    "section": "Section 8 (Educational Mapping and Statistics)"
+   }
+  ],
+  "reviewer_checks": [
+   "Verify the complete membership of the NEDCO in Section 4 and the full list of powers and functions in Section 5 against the official bill text.",
+   "Assess the inclusion of the Senate President and the Speaker of the House as members of an executive council attached to the Office of the President.",
+   "Check whether authority of the NEDCO to set its own compensation schedule under Section 7 is consistent with existing compensation and position classification laws.",
+   "Note that Section 11 assigns the implementing rules to the Office of the President and the three sub-sectors rather than to the NEDCO.",
+   "Confirm whether the Board of National Education under RA No. 1124, as amended by RA No. 4372, remains operative.",
+   "Confirm with the Senate the status of SB No. 625 and whether its text matches this bill."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-20-625",
+   "quote": "NATIONAL EDUCATION COUNCIL ACT: AN ACT CREATING THE NATIONAL EDUCATION COUNCIL, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-3684",
+   "quote": "AN ACT CREATING THE NATIONAL EDUCATION COUNCIL, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-7807",
+   "quote": "AN ACT CREATING THE NATIONAL EDUCATION COUNCIL, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-8022",
+   "quote": "AN ACT CREATING THE NATIONAL EDUCATION COUNCIL, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-19-2017",
+   "quote": "NATIONAL EDUCATION COUNCIL ACT: AN ACT CREATING THE NATIONAL EDUCATION COUNCIL",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-18-1526",
+   "quote": "NATIONAL EDUCATION COUNCIL ACT: AN ACT CREATING THE NATIONAL EDUCATION COUNCIL",
+   "check": "verified"
+  },
+  {
+   "claim": "Title indicates a separately named National Education Coordinating Council addressing the same coordination problem; text not reviewed.",
+   "section": "meta:HB-20-2173",
+   "quote": "AN ACT ESTABLISHING THE NATIONAL EDUCATION COORDINATING COUNCIL",
+   "check": "verified"
+  },
+  {
+   "claim": "Title indicates a National Education Coordinating Council addressing the same coordination problem; text not reviewed.",
+   "section": "meta:HB-19-5347",
+   "quote": "AN ACT ESTABLISHING THE NATIONAL EDUCATION COORDINATING COUNCIL",
+   "check": "verified"
+  },
+  {
+   "claim": "Title indicates a National Education Coordinating Council addressing the same coordination problem; text not reviewed.",
+   "section": "meta:HB-18-2746",
+   "quote": "AN ACT ESTABLISHING THE NATIONAL EDUCATION COORDINATING COUNCIL",
+   "check": "verified"
+  },
+  {
+   "claim": "Title indicates a National Education Coordinating Council addressing the same coordination problem; text not reviewed.",
+   "section": "meta:HB-18-4925",
+   "quote": "AN ACT ESTABLISHING THE NATIONAL EDUCATION COORDINATING COUNCIL",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 8 (Educational Mapping and Statistics) directs the Philippine Statistics Authority to map education data as a dimension of poverty under the Community-Based Monitoring System Act.",
+   "section": "HB-20-9720:s8",
+   "quote": "mapping of data related to education as a dimension of poverty under Republic Act No. 11315",
+   "check": "verified"
+  },
+  {
+   "claim": "The Board of National Education under RA No. 1124 (as amended by RA No. 4372) formulates general education policies, which may overlap with Section 5 (Powers and Functions); title only reviewed.",
+   "section": "law:RA-1124",
+   "quote": "Creating a Board of National Education Charged with the Duty of Formulating General Education Policies",
+   "check": "verified"
+  },
+  {
+   "claim": "The Teacher Education Council under RA No. 7784 as amended by RA No. 11713 may overlap with the teacher education planning function in Section 5 (Powers and Functions); title only reviewed.",
+   "section": "law:RA-11713",
+   "quote": "ENHANCING THE TEACHER EDUCATION COUNCIL",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-21T00:09:03+00:00"
+ }
+}
