@@ -1,0 +1,204 @@
+{
+ "output": {
+  "target": "HB-20-9867",
+  "entity_proposed": "National Organ Donation and Transplantation Commission (Commission)",
+  "proposal": "HB No. 9867 seeks to institutionalize organ donation and transplantation activities in the Philippines by creating the National Organ Donation and Transplantation Commission as the principal policy-making, regulatory, coordinating and oversight body for organ donation and transplantation, with the Philippine Network for Organ Sharing (PhilNOS) and a National Transplant Ethics Committee (NTEC) under it. The measure aims to establish a nationally coordinated, ethical, equitable and transparent system for organ and tissue donation.",
+  "alignment": "As a government organization measure, the review should examine how the proposed Commission fits with existing bodies, in particular the Department of Health (DOH) and its Health Facilities and Services Regulatory Bureau (HFSRB), which under Section 4 (Definition of Terms) and Section 11 (Establishment and Accreditation of Organ Transplant) retains accreditation of transplant facilities, and whether an autonomous Commission attached to the DOH under Section 5 (Establishment of the National Organ Donation and Transplantation Commission) is consistent with the government's intent to streamline agencies and reduce overlapping mandates under the Government Optimization Act (RA No. 12231). The review should also assess the relationship of the measure with the existing framework under RA No. 7170 and RA No. 7885. No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified for this measure.",
+  "legislative_history": [
+   "HB No. 9867 was filed on June 15, 2026 by Representative Roman T. Romulo in the 20th Congress; its status is filed, with later stages not reflected in the source data.",
+   "Measures with similar titles on organ donation and transplantation were filed in the 18th Congress (HB Nos. 664, 1491, 1779, 4071 and 4569) and the 19th Congress (HB Nos. 723 and 1217), all pending in the committee; their texts were not reviewed.",
+   "HB No. 2517, filed on July 29, 2025 in the 20th Congress and pending in the committee, also seeks to strengthen the human organ and tissue donation and transplantation program; its text was not reviewed.",
+   "No Senate counterpart, substitute bill or committee report was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-2517",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. Same Congress measure on strengthening the organ and tissue donation and transplantation program.",
+    "section": "meta:HB-20-2517",
+    "quote": "AN ACT STRENGTHENING THE HUMAN ORGAN AND TISSUE DONATION AND TRANSPLANTATION PROGRAM, AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "HB-19-1217",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. 19th Congress measure revising the organ donation program and repealing RA No. 7170.",
+    "section": "meta:HB-19-1217",
+    "quote": "AN ACT PROVIDING FOR A REVISED HUMAN ORGAN DONATION AND TRANSPLANTATION PROGRAM AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
+   },
+   {
+    "id": "HB-19-723",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. 19th Congress measure strengthening the organ and tissue donation and transplantation program.",
+    "section": "meta:HB-19-723",
+    "quote": "AN ACT STRENGTHENING THE HUMAN ORGAN AND TISSUE DONATION AND TRANSPLANTATION PROGRAM, PROVIDING PENALTIES FOR VIOLATION THEREOF, AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "HB-18-4071",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. 18th Congress measure proposing a board rather than a commission on organ donation and transplantation.",
+    "section": "meta:HB-18-4071",
+    "quote": "AN ACT ESTABLISHING A PHILIPPINE BOARD ON ORGAN DONATION AND TRANSPLANTATION AND APPROPRIATING FUNDS THEREOF"
+   },
+   {
+    "id": "HB-18-4569",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. 18th Congress measure revising the organ donation program and repealing RA No. 7170.",
+    "section": "meta:HB-18-4569",
+    "quote": "AN ACT PROVIDING FOR A REVISED HUMAN ORGAN DONATION AND TRANSPLANTATION PROGRAM AND PROVIDING PENALTIES FOR VIOLATION THEREOF, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 7170"
+   },
+   {
+    "id": "HB-18-1779",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. 18th Congress measure revising the organ donation program and repealing RA No. 7170.",
+    "section": "meta:HB-18-1779",
+    "quote": "AN ACT PROVIDING FOR A REVISED HUMAN ORGAN DONATION AND TRANSPLANTATION PROGRAM AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
+   },
+   {
+    "id": "HB-18-1491",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. 18th Congress measure proposing an opt-out system, whereas the target bill retains an opt-in system.",
+    "section": "meta:HB-18-1491",
+    "quote": "AN ACT PROVIDING FOR AN 'OPT-OUT' SYSTEM OF ORGAN DONATION AND TRANSPLANTATION, AMENDING REPUBLIC ACT NO. 7170"
+   },
+   {
+    "id": "HB-18-664",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed. 18th Congress measure strengthening the organ and tissue donation and transplantation program.",
+    "section": "meta:HB-18-664",
+    "quote": "AN ACT STRENGTHENING THE HUMAN ORGAN AND TISSUE DONATION AND TRANSPLANTATION PROGRAM, PROVIDING PENALTIES FOR VIOLATION THEREOF, AND FOR OTHER PURPOSES"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-7170",
+    "label": "Overlapping functions",
+    "overlap": "RA No. 7170 governs the legacy or donation of human organs after death, which overlaps with Section 13 (National Transplant Ethics Committee) and Section 15 (Consent for organ donation from deceased donors) of the bill.",
+    "section": "law:RA-7170",
+    "quote": "AN ACT AUTHORIZING THE LEGACY OR DONATION OF ALL OR PART OF A HUMAN BODY AFTER DEATH FOR SPECIFIED PURPOSES"
+   },
+   {
+    "law": "RA-7885",
+    "label": "Overlapping functions",
+    "overlap": "RA No. 7885 on corneal transplantation, amending RA No. 7170, overlaps with the tissue donation and transplantation coverage under Section 3 (Coverage) of the bill.",
+    "section": "law:RA-7885",
+    "quote": "AN ACT TO ADVANCE CORNEAL TRANSPLANTATION IN THE PHILIPPINES"
+   }
+  ],
+  "salient_features": "HB No. 9867 seeks to create the National Organ Donation and Transplantation Commission, composed of a Chairperson, six Commissioners and a PhilNOS Program Director, as the principal body for organ donation and transplantation in the Philippines. Its salient features are as follows:\na. Section 5 (Establishment of the National Organ Donation and Transplantation Commission) provides that the Commission is created as an autonomous body attached to the DOH for general policy coordination, with the DOH providing administrative support, and that it shall report annually to the President, the Secretary of Health and Congress.\nb. Section 6 (Powers and Functions of the Commission) provides that the Commission shall formulate national policies, maintain national registries, develop allocation systems and standards, establish a national referral and organ-sharing network, regulate and monitor transplantation activities, recommend accreditation standards in coordination with the DOH, and conduct advocacy, research and training.\nc. Section 7 (Members of the Commission) provides that the Commission shall have one Chairperson, six Commissioners and one PhilNOS Program Director appointed by the President upon recommendation of the Secretary of Health, with six-year terms for the Chairperson and Commissioners and a seven-year term for the Program Director, and six working committees; no salary grades are stated.\nd. Section 8 (Philippine Network for Organ Sharing (PhilNOS)) provides that PhilNOS is established under the Commission, with a Program Director and at least three transplant coordinators, as the implementing arm for deceased donation, organ allocation and the national waiting list, with staffing and budgets provided under the Commission.\ne. Section 9 (Creation of Plantilla Positions of Transplant Coordinators) provides that the DOH, in coordination with the Civil Service Commission and the Department of Budget and Management, shall create plantilla positions for transplant coordinators in government health facilities.\nf. Section 10 (Establishment of Organ and Tissue Donation Units (OTDUs)) and Section 11 (Establishment and Accreditation of Organ Transplant) provide for hospital donation units and organ-specific accreditation of transplant programs by the HFSRB.\ng. Section 12 (Organ Retrieval Team (ORT)) and Section 14 (Hospital Transplant Ethics Committee (HTEC)) require accredited transplant facilities to form retrieval teams and hospital ethics committees.\nh. Section 13 (National Transplant Ethics Committee (NTEC)) provides that the NTEC is established under the Commission as the advisory and oversight body on ethical matters, guided by principles including a voluntary opt-in system.\ni. Section 15 (Consent for organ donation from deceased donors) sets the order of persons who may give consent in the absence of a living legacy.\nj. Section 16 (Organ acquisition cost) provides that organ acquisition cost shall be covered under the Universal Health Care Act.\nk. Section 17 (Joint Congressional Oversight Committee (JCOC)) creates a JCOC of five members from each House to oversee implementation.\nl. Section 18 (International Sharing of Human Organs or Tissues) limits international sharing to exchange programs approved by the Commission on a reciprocal basis.\nm. Section 19 (Implementing Rules and Regulations) provides that the Commission shall issue the rules within 90 days, with the DOH exercising interim authority until the Commission is fully constituted.\nn. Section 20 (Appropriations) provides that the amount necessary for immediate implementation shall be determined and included in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 9867 may be considered alongside HB No. 2517 of the 20th Congress and earlier measures on organ donation and transplantation filed in the 18th and 19th Congresses, including HB No. 4071 (18th Congress), which proposed a board on organ donation and transplantation. No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified. The review should assess the relationship of the proposed Commission with the DOH and the HFSRB, given that Section 6 (Powers and Functions of the Commission) grants the Commission regulatory functions while Section 11 (Establishment and Accreditation of Organ Transplant) retains accreditation with the HFSRB, and whether the measure is consistent with the streamlining objectives of the Government Optimization Act (RA No. 12231). The review should also clarify how the measure relates to RA No. 7170 and RA No. 7885, given the general repealing clause in Section 21 (Repealing Clause), and the cost implications of covering organ acquisition costs under Section 16 (Organ acquisition cost).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for immediate implementation; no amount stated",
+    "section": "Section 20 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "To be included in the annual General Appropriations Act",
+    "section": "Section 20 (Appropriations)"
+   },
+   {
+    "item": "Members",
+    "detail": "One Chairperson, six Commissioners and one PhilNOS Program Director; no salary grades stated",
+    "section": "Section 7 (Members of the Commission)"
+   },
+   {
+    "item": "Support body",
+    "detail": "PhilNOS with a Program Director and at least three transplant coordinators; staffing and operational budget under the Commission",
+    "section": "Section 8 (Philippine Network for Organ Sharing (PhilNOS))"
+   },
+   {
+    "item": "Positions",
+    "detail": "Plantilla positions for transplant coordinators in government health facilities; number not stated",
+    "section": "Section 9 (Creation of Plantilla Positions of Transplant Coordinators)"
+   },
+   {
+    "item": "Support body",
+    "detail": "National Transplant Ethics Committee under the Commission",
+    "section": "Section 13 (National Transplant Ethics Committee (NTEC))"
+   },
+   {
+    "item": "Health financing",
+    "detail": "Organ acquisition cost to be covered under the Universal Health Care Act",
+    "section": "Section 16 (Organ acquisition cost)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the current status of HB No. 9867 and of HB No. 2517 with the House of Representatives.",
+   "Clarify the division of regulatory and accreditation functions between the Commission and the DOH-HFSRB under Sections 6 and 11.",
+   "Clarify the nature of the Commission's attachment to the DOH, as Section 5 describes it as autonomous while attached for policy coordination.",
+   "Verify the term of the Program Director in Section 7, which differs from that of the Commissioners and provides for reappointment for three years.",
+   "Sections 15 and 16 lack section titles, and the heading of Section 5 is incomplete; the unit name in Section 10 is stated inconsistently.",
+   "Confirm whether the measure is intended to amend or repeal RA No. 7170, as only a general repealing clause is provided.",
+   "Assess the cost of covering organ acquisition costs under the Universal Health Care Act and the number of plantilla positions to be created."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed. Same Congress measure on strengthening the organ and tissue donation and transplantation program.",
+   "section": "meta:HB-20-2517",
+   "quote": "AN ACT STRENGTHENING THE HUMAN ORGAN AND TISSUE DONATION AND TRANSPLANTATION PROGRAM, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. 19th Congress measure revising the organ donation program and repealing RA No. 7170.",
+   "section": "meta:HB-19-1217",
+   "quote": "AN ACT PROVIDING FOR A REVISED HUMAN ORGAN DONATION AND TRANSPLANTATION PROGRAM AND PROVIDING PENALTIES FOR VIOLATION THEREOF",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. 19th Congress measure strengthening the organ and tissue donation and transplantation program.",
+   "section": "meta:HB-19-723",
+   "quote": "AN ACT STRENGTHENING THE HUMAN ORGAN AND TISSUE DONATION AND TRANSPLANTATION PROGRAM, PROVIDING PENALTIES FOR VIOLATION THEREOF, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. 18th Congress measure proposing a board rather than a commission on organ donation and transplantation.",
+   "section": "meta:HB-18-4071",
+   "quote": "AN ACT ESTABLISHING A PHILIPPINE BOARD ON ORGAN DONATION AND TRANSPLANTATION AND APPROPRIATING FUNDS THEREOF",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. 18th Congress measure revising the organ donation program and repealing RA No. 7170.",
+   "section": "meta:HB-18-4569",
+   "quote": "AN ACT PROVIDING FOR A REVISED HUMAN ORGAN DONATION AND TRANSPLANTATION PROGRAM AND PROVIDING PENALTIES FOR VIOLATION THEREOF, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 7170",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. 18th Congress measure revising the organ donation program and repealing RA No. 7170.",
+   "section": "meta:HB-18-1779",
+   "quote": "AN ACT PROVIDING FOR A REVISED HUMAN ORGAN DONATION AND TRANSPLANTATION PROGRAM AND PROVIDING PENALTIES FOR VIOLATION THEREOF",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. 18th Congress measure proposing an opt-out system, whereas the target bill retains an opt-in system.",
+   "section": "meta:HB-18-1491",
+   "quote": "AN ACT PROVIDING FOR AN 'OPT-OUT' SYSTEM OF ORGAN DONATION AND TRANSPLANTATION, AMENDING REPUBLIC ACT NO. 7170",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. 18th Congress measure strengthening the organ and tissue donation and transplantation program.",
+   "section": "meta:HB-18-664",
+   "quote": "AN ACT STRENGTHENING THE HUMAN ORGAN AND TISSUE DONATION AND TRANSPLANTATION PROGRAM, PROVIDING PENALTIES FOR VIOLATION THEREOF, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "RA No. 7170 governs the legacy or donation of human organs after death, which overlaps with Section 13 (National Transplant Ethics Committee) and Section 15 (Consent for organ donation from deceased donors) of the bill.",
+   "section": "law:RA-7170",
+   "quote": "AN ACT AUTHORIZING THE LEGACY OR DONATION OF ALL OR PART OF A HUMAN BODY AFTER DEATH FOR SPECIFIED PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "RA No. 7885 on corneal transplantation, amending RA No. 7170, overlaps with the tissue donation and transplantation coverage under Section 3 (Coverage) of the bill.",
+   "section": "law:RA-7885",
+   "quote": "AN ACT TO ADVANCE CORNEAL TRANSPLANTATION IN THE PHILIPPINES",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-21T00:05:14+00:00"
+ }
+}
