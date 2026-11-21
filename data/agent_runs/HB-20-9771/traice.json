@@ -1,0 +1,304 @@
+{
+ "output": {
+  "target": "HB-20-9771",
+  "entity_proposed": "Animal Welfare Bureau (the Bureau), with an Animal Welfare Board, under the Department of Agriculture",
+  "proposal": "HB No. 9771 seeks to strengthen animal welfare standards by creating the Animal Welfare Bureau under the Department of Agriculture, together with an Animal Welfare Board, to set and enforce standards on the keeping, sheltering, transport and rescue of animals. It also seeks to repeal RA No. 8485, as amended by RA No. 10631, and to appropriate funds for the Bureau.",
+  "alignment": "As a government organization measure, the review should examine how the functions of the proposed Animal Welfare Bureau under Section 10 (Powers and Duties of the Animal Welfare Bureau) fit with those of existing bodies, notably the Bureau of Animal Industry, the National Meat Inspection Service and the Biodiversity Management Bureau, which are named as ex officio members of the Board under Section 12 (Composition of the Board), and whether a separate bureau is warranted in light of the intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The measure may be considered under the Food Security priority area of the FY 2027 Budget Priorities Framework, although its link to that area's focus on climate-resilient and smart agriculture, mechanization and F2C2 is indirect and should be assessed. No corresponding item in the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 9771 was filed on June 3, 2026 by Representative Ricardo S. Cruz, Jr.; it is recorded as filed, and later stages are not yet reflected.",
+   "HB No. 1602 (20th Congress) carries the same title and substantially the same text, including Section 52 (Appropriation).",
+   "HB No. 2080 (20th Congress) proposes the same Animal Welfare Bureau with largely identical provisions but under a different title and with a stated initial funding of 50,000,000 for the first year.",
+   "Substantially similar measures creating the Animal Welfare Bureau were filed in the 19th Congress, including HB No. 10232 (same title), HB No. 7932, HB No. 8555, HB No. 8082, HB No. 8677 and HB No. 8157, and SB No. 2054 in the Senate.",
+   "In the 20th Congress, SB No. 847 (filed 2025-08-04) and SB No. 1276 (filed 2025-08-27), both titled the Revised Animal Welfare Act and repealing RA No. 8485 as amended, are pending in the Committee; their texts were not reviewed.",
+   "HB No. 9108 (20th Congress) proposes a Revised Animal Welfare Act of 2025 that also establishes an Animal Welfare Bureau under the Department of Agriculture."
+  ],
+  "related": [
+   {
+    "id": "HB-20-1602",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same title and near-identical provisions on the Bureau, the Board and appropriations.",
+    "section": "HB-20-1602:s8",
+    "quote": "The Bureau shall be headed by a Director who shall be appointed by the President as well as a Deputy Director."
+   },
+   {
+    "id": "HB-20-2080",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Near-identical provisions on the Bureau and the Board, but a different title and a stated initial funding amount.",
+    "section": "HB-20-2080:s51",
+    "quote": "to the extent of the amount of 50,000,000 for the first year"
+   },
+   {
+    "id": "HB-19-10232",
+    "relationship": "Filed in a past Congress",
+    "basis": "Same title and practically identical text, including the appropriation provision.",
+    "section": "HB-19-10232:s52",
+    "quote": "The initial funding to establish the Bureau shall be taken from the General Appropriations of the Department of Agriculture for the first year."
+   },
+   {
+    "id": "HB-19-7932",
+    "relationship": "Filed in a past Congress",
+    "basis": "Closely matching provisions on the Bureau, the Board and appropriations.",
+    "section": "HB-19-7932:s52",
+    "quote": "The initial funding to establish the Bureau shall be taken from the General Appropriations of the Department of Agriculture for the first year."
+   },
+   {
+    "id": "HB-19-8555",
+    "relationship": "Filed in a past Congress",
+    "basis": "Closely matching provisions on the Bureau, the Board and appropriations.",
+    "section": "HB-19-8555:s52",
+    "quote": "The initial funding to establish the Bureau shall be taken from the General Appropriations of the Department of Agriculture for the first year."
+   },
+   {
+    "id": "HB-19-8082",
+    "relationship": "Filed in a past Congress",
+    "basis": "Closely matching provisions, with a stated initial funding amount in its appropriation section.",
+    "section": "HB-19-8082:s50",
+    "quote": "to the extent of the amount of 50,000,000 for the first year"
+   },
+   {
+    "id": "HB-19-8677",
+    "relationship": "Filed in a past Congress",
+    "basis": "Closely matching provisions and the same title as HB No. 2080, with a stated initial funding amount.",
+    "section": "HB-19-8677:s51",
+    "quote": "to the extent of the amount of 50,000,000 for the first year"
+   },
+   {
+    "id": "HB-19-8157",
+    "relationship": "Filed in a past Congress",
+    "basis": "Closely matching provisions, with a stated initial funding amount in its appropriation section.",
+    "section": "HB-19-8157:s50",
+    "quote": "to the extent of the amount of 50,000,000 for the first year"
+   },
+   {
+    "id": "SB-19-2054",
+    "relationship": "Filed in a past Congress",
+    "basis": "Senate measure that likewise repeals RA No. 8485 as amended and creates the Animal Welfare Bureau, with a matching policy statement.",
+    "section": "SB-19-2054:s1",
+    "quote": "to ensure humane treatment in all aspects of the keeping, maintaining, handling, transporting, breeding, training, treating, and use of animals"
+   },
+   {
+    "id": "HB-20-9108",
+    "relationship": "Alternative proposal",
+    "basis": "Also establishes an Animal Welfare Bureau under the Department of Agriculture, but within a differently framed Revised Animal Welfare Act of 2025.",
+    "section": "HB-20-9108:s2",
+    "quote": "establishing a system of supervision and regulation that observes good animal welfare"
+   },
+   {
+    "id": "SB-20-847",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-20-847",
+    "quote": "ENACTING A REVISED ANIMAL WELFARE ACT, THEREBY REPEALING REPUBLIC ACT NO. 8485, AS AMENDED BY REPUBLIC ACT NO. 10631"
+   },
+   {
+    "id": "SB-20-1276",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-20-1276",
+    "quote": "ENACTING A REVISED ANIMAL WELFARE ACT, THEREBY REPEALING REPUBLIC ACT NO. 8485, AS AMENDED BY REPUBLIC ACT NO. 10631"
+   },
+   {
+    "id": "HB-20-2248",
+    "relationship": "Alternative proposal",
+    "basis": "Title match only; text not reviewed; the title does not refer to the creation of a bureau.",
+    "section": "meta:HB-20-2248",
+    "quote": "AN ACT STRENGTHENING ANIMAL WELFARE STANDARDS, ENACTING A REVISED ANIMAL WELFARE ACT"
+   },
+   {
+    "id": "SB-19-2975",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-19-2975",
+    "quote": "THE REVISED ANIMAL WELFARE ACT: AN ACT STRENGTHENING ANIMAL WELFARE STANDARDS"
+   },
+   {
+    "id": "HB-18-4318",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-4318",
+    "quote": "CREATING FOR THE PURPOSE THE ANIMAL WELFARE BUREAU UNDER THE DEPARTMENT OF AGRICULTURE"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-8485",
+    "label": "Amends or repeals",
+    "overlap": "Section 62 (Repealing Clause) and the title repeal the Animal Welfare Act of 1998, which the bill replaces with a new regulatory framework.",
+    "section": "law:RA-8485",
+    "quote": "AN ACT TO PROMOTE ANIMAL WELFARE IN THE PHILIPPINES"
+   },
+   {
+    "law": "RA-10631",
+    "label": "Amends or repeals",
+    "overlap": "The title and Section 62 (Repealing Clause) also repeal the amendments made to RA No. 8485 by RA No. 10631.",
+    "section": "law:RA-10631",
+    "quote": "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 8485"
+   },
+   {
+    "law": "RA-12308",
+    "label": "Overlapping functions",
+    "overlap": "The Bureau's powers under Section 10 (Powers and Duties of the Animal Welfare Bureau) may overlap with the mandate of the Bureau of Animal Industry, which is also an ex officio member of the Board under Section 12 (Composition of the Board).",
+    "section": "law:RA-12308",
+    "quote": "STRENGTHENING THE BUREAU OF ANIMAL INDUSTRY"
+   }
+  ],
+  "salient_features": "HB No. 9771 seeks to create the Animal Welfare Bureau under the Department of Agriculture, supported by an Animal Welfare Board, to institutionalize and enforce animal welfare standards. Its salient features are as follows:\na. Section 8 (Composition of the Animal Welfare Bureau) provides that the Bureau shall be headed by a Director appointed by the President, with qualifications in veterinary science or medicine, assisted by a permanent Deputy Director, and shall initially have seven divisions, each with a Division Head; no salary grades are stated.\nb. Section 10 (Powers and Duties of the Animal Welfare Bureau) provides that the Bureau shall set up the implementation system, issue rules and standards on food, water and shelter, develop species-specific transport standards with the LTO, LTFRB, CAB and MARINA, and establish an emergency animal response and rescue system, among others.\nc. Section 11 (The Animal Welfare Board) and Section 12 (Composition of the Board) provide for an Animal Welfare Board composed of ex officio representatives of nine offices and associations and appointive representatives of animal welfare organizations, a veterinary professional association and the poultry, livestock and fisheries sectors, with power for the Secretary to add members.\nd. Section 15 (Appointment by the Secretary) provides that non-government members shall be appointed by the Secretary for renewable two-year terms, and that all policies and guidelines shall be approved by the Board.\ne. Sections 20 (Provision of appropriate shelter and facilities) and 22 (Provision of appropriate transport facility) set minimum shelter and transport conditions that keepers and transporters of animals must meet.\nf. Section 52 (Appropriation) provides that initial funding for the Bureau shall be charged to the Department of Agriculture's appropriations for the first year, and subsequent funding shall be included in the annual General Appropriations Act.\ng. Section 56 (Emergency Response) provides that the Bureau, with LGUs and animal welfare NGOs, shall implement an interagency emergency response program for animals in calamities and a system to rescue or refer abused animals.\nh. Section 62 (Repealing Clause) and the title provide for the repeal of RA No. 8485, as amended by RA No. 10631.",
+  "related_measures_policy": "HB No. 9771 may be considered alongside HB No. 1602 and HB No. 2080, which propose the same Animal Welfare Bureau in the 20th Congress, HB No. 9108, which proposes a Revised Animal Welfare Act of 2025 with a similar bureau, and SB No. 847 and SB No. 1276 in the Senate. The measure may be linked to the Food Security priority area of the FY 2027 Budget Priorities Framework, and it seeks to repeal RA No. 8485, as amended by RA No. 10631. The review should assess whether a new bureau is needed given the existing mandate of the Bureau of Animal Industry as strengthened under RA No. 12308, consistent with the streamlining intent of the Government Optimization Act (RA No. 12231), and the budgetary impact of the seven divisions under Section 8 (Composition of the Animal Welfare Bureau) and the open-ended funding under Section 52 (Appropriation).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged to the Department of Agriculture's appropriations for the first year; no amount stated (HB No. 2080 states 50,000,000).",
+    "section": "Section 52 (Appropriation)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act, covering the Bureau's operations and enforcement.",
+    "section": "Section 52 (Appropriation)"
+   },
+   {
+    "item": "Position",
+    "detail": "Director (presidential appointee) and a permanent Deputy Director; salary grades not stated.",
+    "section": "Section 8 (Composition of the Animal Welfare Bureau)"
+   },
+   {
+    "item": "Position",
+    "detail": "Seven Division Heads and divisional staff; the Bureau may later reorganize and expand its divisions.",
+    "section": "Section 8 (Composition of the Animal Welfare Bureau)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Animal Welfare Board with ex officio and appointive members; per diem terms to be confirmed.",
+    "section": "Section 12 (Composition of the Board)"
+   },
+   {
+    "item": "Programs",
+    "detail": "Interagency emergency response program, including animal evacuation centers and temporary shelters.",
+    "section": "Section 56 (Emergency Response)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 15 (Appointment by the Secretary) refers to members of the 'Committee' and to the 'Chief of the Bureau', while other sections use 'Board' and 'Director'; confirm the intended terms.",
+   "Section 8 (Composition of the Animal Welfare Bureau) contains a drafting error in the sentence on the Deputy Director.",
+   "Section 12 (Composition of the Board) lists a veterinary league association among ex officio members; confirm whether it should be appointive.",
+   "Confirm the terms on per diems, regional and local animal welfare officers, the Animal Welfare Fund and the transition, which carry fiscal implications (Sections 14, 16, 17, 54 and 60).",
+   "Confirm the status and text of SB No. 847 and SB No. 1276 with the Senate, and the differences between HB No. 9771, HB No. 1602 and HB No. 2080, including the funding amount.",
+   "Confirm how the Bureau's functions relate to those of the Bureau of Animal Industry under RA No. 12308."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same title and near-identical provisions on the Bureau, the Board and appropriations.",
+   "section": "HB-20-1602:s8",
+   "quote": "The Bureau shall be headed by a Director who shall be appointed by the President as well as a Deputy Director.",
+   "check": "verified"
+  },
+  {
+   "claim": "Near-identical provisions on the Bureau and the Board, but a different title and a stated initial funding amount.",
+   "section": "HB-20-2080:s51",
+   "quote": "to the extent of the amount of 50,000,000 for the first year",
+   "check": "verified"
+  },
+  {
+   "claim": "Same title and practically identical text, including the appropriation provision.",
+   "section": "HB-19-10232:s52",
+   "quote": "The initial funding to establish the Bureau shall be taken from the General Appropriations of the Department of Agriculture for the first year.",
+   "check": "verified"
+  },
+  {
+   "claim": "Closely matching provisions on the Bureau, the Board and appropriations.",
+   "section": "HB-19-7932:s52",
+   "quote": "The initial funding to establish the Bureau shall be taken from the General Appropriations of the Department of Agriculture for the first year.",
+   "check": "verified"
+  },
+  {
+   "claim": "Closely matching provisions on the Bureau, the Board and appropriations.",
+   "section": "HB-19-8555:s52",
+   "quote": "The initial funding to establish the Bureau shall be taken from the General Appropriations of the Department of Agriculture for the first year.",
+   "check": "verified"
+  },
+  {
+   "claim": "Closely matching provisions, with a stated initial funding amount in its appropriation section.",
+   "section": "HB-19-8082:s50",
+   "quote": "to the extent of the amount of 50,000,000 for the first year",
+   "check": "verified"
+  },
+  {
+   "claim": "Closely matching provisions and the same title as HB No. 2080, with a stated initial funding amount.",
+   "section": "HB-19-8677:s51",
+   "quote": "to the extent of the amount of 50,000,000 for the first year",
+   "check": "verified"
+  },
+  {
+   "claim": "Closely matching provisions, with a stated initial funding amount in its appropriation section.",
+   "section": "HB-19-8157:s50",
+   "quote": "to the extent of the amount of 50,000,000 for the first year",
+   "check": "verified"
+  },
+  {
+   "claim": "Senate measure that likewise repeals RA No. 8485 as amended and creates the Animal Welfare Bureau, with a matching policy statement.",
+   "section": "SB-19-2054:s1",
+   "quote": "to ensure humane treatment in all aspects of the keeping, maintaining, handling, transporting, breeding, training, treating, and use of animals",
+   "check": "verified"
+  },
+  {
+   "claim": "Also establishes an Animal Welfare Bureau under the Department of Agriculture, but within a differently framed Revised Animal Welfare Act of 2025.",
+   "section": "HB-20-9108:s2",
+   "quote": "establishing a system of supervision and regulation that observes good animal welfare",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-20-847",
+   "quote": "ENACTING A REVISED ANIMAL WELFARE ACT, THEREBY REPEALING REPUBLIC ACT NO. 8485, AS AMENDED BY REPUBLIC ACT NO. 10631",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-20-1276",
+   "quote": "ENACTING A REVISED ANIMAL WELFARE ACT, THEREBY REPEALING REPUBLIC ACT NO. 8485, AS AMENDED BY REPUBLIC ACT NO. 10631",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed; the title does not refer to the creation of a bureau.",
+   "section": "meta:HB-20-2248",
+   "quote": "AN ACT STRENGTHENING ANIMAL WELFARE STANDARDS, ENACTING A REVISED ANIMAL WELFARE ACT",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-19-2975",
+   "quote": "THE REVISED ANIMAL WELFARE ACT: AN ACT STRENGTHENING ANIMAL WELFARE STANDARDS",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-4318",
+   "quote": "CREATING FOR THE PURPOSE THE ANIMAL WELFARE BUREAU UNDER THE DEPARTMENT OF AGRICULTURE",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 62 (Repealing Clause) and the title repeal the Animal Welfare Act of 1998, which the bill replaces with a new regulatory framework.",
+   "section": "law:RA-8485",
+   "quote": "AN ACT TO PROMOTE ANIMAL WELFARE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "The title and Section 62 (Repealing Clause) also repeal the amendments made to RA No. 8485 by RA No. 10631.",
+   "section": "law:RA-10631",
+   "quote": "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 8485",
+   "check": "verified"
+  },
+  {
+   "claim": "The Bureau's powers under Section 10 (Powers and Duties of the Animal Welfare Bureau) may overlap with the mandate of the Bureau of Animal Industry, which is also an ex officio member of the Board under Section 12 (Composition of the Board).",
+   "section": "law:RA-12308",
+   "quote": "STRENGTHENING THE BUREAU OF ANIMAL INDUSTRY",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-21T00:09:33+00:00"
+ }
+}
