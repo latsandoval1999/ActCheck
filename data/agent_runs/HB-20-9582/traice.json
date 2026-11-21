@@ -1,0 +1,186 @@
+{
+ "output": {
+  "target": "HB-20-9582",
+  "entity_proposed": "Artificial Intelligence Development Authority (AIDA)",
+  "proposal": "HB No. 9582 seeks to establish a national framework for the responsible development, deployment, utilization and regulation of artificial intelligence in the Philippines, and to create the Artificial Intelligence Development Authority (AIDA) as the primary agency for national AI policy, regulation and enforcement, attached to the Department of Science and Technology (DOST) for policy and program coordination.",
+  "alignment": "As a government organization measure, the review should examine how the functions of the proposed AIDA under Section 5 (Powers and Functions of AIDA), including standard-setting, audits of AI systems, regulatory sandboxes and the imposition of administrative sanctions, fit with those of existing agencies, notably the DOST to which it is attached and the other agencies named in Section 12 (Implementing Rules and Regulations), and whether creating a new body is consistent with the government's intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also note that Section 4 (Creation of the Artificial Intelligence Development Authority) describes the AIDA as an independent body while attaching it to the DOST, and that the bill does not set out the AIDA's head, composition, positions or organizational structure. No direct match with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified from the material available.",
+  "legislative_history": [
+   "HB No. 9582 was filed on June 1, 2026 by Representative Gerville \"Jinky Bitrics\" R. Luistro in the 20th Congress; its status is filed, and later stages are not in the source data.",
+   "Several 20th Congress measures with titles on the development and regulation of artificial intelligence are pending in committee, including HB No. 1196, which by its title also creates an Artificial Intelligence Development Authority (AIDA), and SB No. 1190 in the Senate; their texts were not reviewed.",
+   "Measures titled on the promotion of the development and regulation of artificial intelligence were filed in the 19th Congress (HB Nos. 7396, 10385 and 11262) and remained pending in committee; their texts were not reviewed.",
+   "No substitute bill or committee report on HB No. 9582 is in the source data."
+  ],
+  "related": [
+   {
+    "id": "HB-20-1196",
+    "relationship": "Alternative proposal",
+    "basis": "Its title proposes a legal framework for AI and creates an Artificial Intelligence Development Authority (AIDA), as this bill does. Title match only; text not reviewed.",
+    "section": "meta:HB-20-1196",
+    "quote": "CREATING THE ARTIFICIAL INTELLIGENCE DEVELOPMENT AUTHORITY (AIDA), AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "SB-20-1190",
+    "relationship": "Alternative proposal",
+    "basis": "Its title proposes the promotion of the development and regulation of AI in the Senate. Title match only; text not reviewed.",
+    "section": "meta:SB-20-1190",
+    "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   },
+   {
+    "id": "HB-20-3462",
+    "relationship": "Alternative proposal",
+    "basis": "Its title addresses AI development and regulation but creates a Philippine Artificial Intelligence Commission instead. Title match only; text not reviewed.",
+    "section": "meta:HB-20-3462",
+    "quote": "CREATING FOR THE PURPOSE THE PHILIPPINE ARTIFICIAL INTELLIGENCE COMMISSION, AND FOR OTHER PURPOSES"
+   },
+   {
+    "id": "HB-20-3480",
+    "relationship": "Alternative proposal",
+    "basis": "Its title proposes a legal framework for the responsible and accountable use of AI. Title match only; text not reviewed.",
+    "section": "meta:HB-20-3480",
+    "quote": "AN ACT ESTABLISHING A LEGAL FRAMEWORK FOR THE RESPONSIBLE AND ACCOUNTABLE USE OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   },
+   {
+    "id": "HB-20-73",
+    "relationship": "Alternative proposal",
+    "basis": "Its title proposes the promotion of the development and regulation of AI. Title match only; text not reviewed.",
+    "section": "meta:HB-20-73",
+    "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   },
+   {
+    "id": "HB-20-252",
+    "relationship": "Alternative proposal",
+    "basis": "Its title proposes the development and regulation of AI. Title match only; text not reviewed.",
+    "section": "meta:HB-20-252",
+    "quote": "AN ACT PROMOTING THE DEVELOPMENT OF REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   },
+   {
+    "id": "HB-20-3688",
+    "relationship": "Alternative proposal",
+    "basis": "Its title proposes the promotion of the development and regulation of AI. Title match only; text not reviewed.",
+    "section": "meta:HB-20-3688",
+    "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   },
+   {
+    "id": "HB-19-7396",
+    "relationship": "Alternative proposal",
+    "basis": "A 19th Congress bill whose title proposes the development and regulation of AI. Title match only; text not reviewed.",
+    "section": "meta:HB-19-7396",
+    "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   },
+   {
+    "id": "HB-19-10385",
+    "relationship": "Alternative proposal",
+    "basis": "A 19th Congress bill whose title proposes the development and regulation of AI. Title match only; text not reviewed.",
+    "section": "meta:HB-19-10385",
+    "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   },
+   {
+    "id": "HB-19-11262",
+    "relationship": "Alternative proposal",
+    "basis": "A 19th Congress bill whose title proposes the development and regulation of AI. Title match only; text not reviewed.",
+    "section": "meta:HB-19-11262",
+    "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   }
+  ],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 9582, to be known as the Philippine Artificial Intelligence Development and Governance Act, seeks to establish a national framework for artificial intelligence and to create the Artificial Intelligence Development Authority (AIDA). Its salient features are as follows:\na. Section 2 (Declaration of Policy) provides that the State shall promote the responsible development, deployment and utilization of AI and establish an enabling regulatory environment that encourages innovation while safeguarding the rights and welfare of the people.\nb. Section 3 (Definition of terms) provides that terms such as artificial intelligence, AI system, high-risk AI system, AI developer, AI user, human oversight and transparency are defined for purposes of the Act.\nc. Section 4 (Creation of the Artificial Intelligence Development Authority) provides that the AIDA is created as an independent body and the primary agency for the formulation, coordination, implementation and enforcement of national AI policies and regulations, attached to the DOST for policy and program coordination; no head, governing board, positions or salary grades are specified.\nd. Section 5 (Powers and Functions of AIDA) provides that the AIDA shall formulate and implement a National Artificial Intelligence Strategy, develop standards and ethical guidelines, monitor and audit AI systems, coordinate with public and private entities, promote research and workforce development, establish regulatory sandboxes, investigate violations and impose administrative sanctions, and report annually to Congress and the Office of the President.\ne. Section 6 (Principles of Responsible AI Governance) provides that AI development and deployment shall be guided by principles including human rights, fairness, transparency, accountability, privacy, safety and inclusivity.\nf. Section 7 (Regulation of High-Risk AI Systems) provides that high-risk AI systems shall be subject to stricter requirements, including mandatory pre-deployment risk assessments, human oversight, documentation and audit trails, data governance and cybersecurity safeguards, and periodic compliance reviews prescribed by the AIDA.\ng. Section 8 (Prohibited AI Practices) provides that certain AI practices are prohibited, including harmful behavioral manipulation, discriminatory social scoring, unauthorized biometric surveillance, systems designed for unlawful discrimination, and applications declared unlawful by the AIDA.\nh. Section 9 (Protection of Workers) provides that relevant agencies, in coordination with the AIDA, shall develop workforce transition, reskilling and upskilling programs.\ni. Section 10 (Research and Innovation) provides that the State shall promote AI research and innovation through grants, incentives, public-private partnerships and support for startups, academic institutions and technology enterprises.\nj. Section 11 (Appropriations) provides that initial implementation shall be charged against the current appropriations of concerned agencies, and that sums for continued implementation shall thereafter be included in the annual appropriations; the text of this section is truncated in the source.\nk. Section 12 (Implementing Rules and Regulations) provides that the IRR shall be promulgated within ninety (90) days from effectivity by the DOH, in coordination with the DICT, NPC, PhilHealth, PSA, DOST and relevant stakeholders.",
+  "related_measures_policy": "HB No. 9582 may be considered alongside other 20th Congress measures on the development and regulation of artificial intelligence, notably HB No. 1196, which by its title also creates an Artificial Intelligence Development Authority (AIDA), HB No. 3462, which by its title creates a Philippine Artificial Intelligence Commission instead, HB Nos. 73, 252, 3480 and 3688, and SB No. 1190 in the Senate, as well as similar measures filed in the 19th Congress. No direct alignment with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified. The review should assess whether the regulatory, audit and sanctioning functions under Section 5 (Powers and Functions of AIDA), Section 7 (Regulation of High-Risk AI Systems) and Section 8 (Prohibited AI Practices) overlap with those of existing agencies such as the DOST, DICT and NPC, whether a new body is warranted in light of the Government Optimization Act (RA No. 12231), and what organizational and staffing requirements would arise given that Section 4 (Creation of the Artificial Intelligence Development Authority) does not define the AIDA's structure.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged against the current appropriations of concerned agencies; no amount stated.",
+    "section": "Section 11 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary to be included in the annual appropriations; text truncated in the source.",
+    "section": "Section 11 (Appropriations)"
+   },
+   {
+    "item": "New body",
+    "detail": "Creation of the AIDA attached to the DOST; head, organizational structure, positions and salary grades not specified.",
+    "section": "Section 4 (Creation of the Artificial Intelligence Development Authority)"
+   },
+   {
+    "item": "Programs",
+    "detail": "Workforce transition, reskilling and upskilling programs, and AI research grants and incentives; no amounts stated.",
+    "section": "Section 9 (Protection of Workers); Section 10 (Research and Innovation)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 12 (Implementing Rules and Regulations) assigns the IRR to the DOH and names PhilHealth and the PSA, which appear inconsistent with the subject of the bill and with the role of the AIDA; confirm the intended lead agency.",
+   "Section 4 (Creation of the Artificial Intelligence Development Authority) describes the AIDA as an independent body yet attaches it to the DOST; confirm the intended status of the body.",
+   "The bill does not provide for the AIDA's head, governing board, organizational structure, positions or salary grades; confirm whether these are intended to be set out.",
+   "The last sentence of Section 11 (Appropriations) appears incomplete; verify the full text against the official copy of the bill.",
+   "Confirm with the House and Senate the status of related AI measures, including HB No. 1196 and SB No. 1190."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Its title proposes a legal framework for AI and creates an Artificial Intelligence Development Authority (AIDA), as this bill does. Title match only; text not reviewed.",
+   "section": "meta:HB-20-1196",
+   "quote": "CREATING THE ARTIFICIAL INTELLIGENCE DEVELOPMENT AUTHORITY (AIDA), AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title proposes the promotion of the development and regulation of AI in the Senate. Title match only; text not reviewed.",
+   "section": "meta:SB-20-1190",
+   "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title addresses AI development and regulation but creates a Philippine Artificial Intelligence Commission instead. Title match only; text not reviewed.",
+   "section": "meta:HB-20-3462",
+   "quote": "CREATING FOR THE PURPOSE THE PHILIPPINE ARTIFICIAL INTELLIGENCE COMMISSION, AND FOR OTHER PURPOSES",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title proposes a legal framework for the responsible and accountable use of AI. Title match only; text not reviewed.",
+   "section": "meta:HB-20-3480",
+   "quote": "AN ACT ESTABLISHING A LEGAL FRAMEWORK FOR THE RESPONSIBLE AND ACCOUNTABLE USE OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title proposes the promotion of the development and regulation of AI. Title match only; text not reviewed.",
+   "section": "meta:HB-20-73",
+   "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title proposes the development and regulation of AI. Title match only; text not reviewed.",
+   "section": "meta:HB-20-252",
+   "quote": "AN ACT PROMOTING THE DEVELOPMENT OF REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "Its title proposes the promotion of the development and regulation of AI. Title match only; text not reviewed.",
+   "section": "meta:HB-20-3688",
+   "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "A 19th Congress bill whose title proposes the development and regulation of AI. Title match only; text not reviewed.",
+   "section": "meta:HB-19-7396",
+   "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "A 19th Congress bill whose title proposes the development and regulation of AI. Title match only; text not reviewed.",
+   "section": "meta:HB-19-10385",
+   "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "A 19th Congress bill whose title proposes the development and regulation of AI. Title match only; text not reviewed.",
+   "section": "meta:HB-19-11262",
+   "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-21T00:08:50+00:00"
+ }
+}
