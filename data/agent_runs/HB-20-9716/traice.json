@@ -1,0 +1,136 @@
+{
+ "output": {
+  "target": "HB-20-9716",
+  "entity_proposed": "Business Permit and Licensing Office (BPLO)",
+  "proposal": "HB No. 9716 seeks to establish a Business Permit and Licensing Office (BPLO) in every city and municipality and to make the appointment of a Business Permit and Licensing Officer mandatory, amending RA No. 7160 (Local Government Code of 1991) so that the city or municipal Business Permit and Licensing Officer, in place of the city or municipal treasurer, exercises local tax assessment, examination, enforcement and collection powers.",
+  "alignment": "As a measure on government organization and mandates at the local level, the review should examine how the proposed BPLO and the mandatory Business Permit and Licensing Officer position relate to existing city and municipal offices, in particular the transfer of local tax examination, distraint, levy, assessment and collection functions from the city and municipal treasurer under Sections 6 to 19, and whether the measure creates duplicate or overlapping offices; since the BPLO is a local office, the streamlining intent of the Government Optimization Act (RA No. 12231), which covers the Executive branch, may be considered by analogy only. The measure relates to the Implementation of Full Devolution to LGUs priority area of the FY 2027 Budget Priorities Framework, given its focus on capacity building and fiscal support for LGUs, while the mandatory new office and department-head position would be funded from LGU budgets. No LEDAC Common Legislative Agenda item is identified for this measure.",
+  "legislative_history": [
+   "HB No. 9716 was filed on June 3, 2026 by Representative Kenneth T. Gatchalian; its current status is Filed, and later stages are not available.",
+   "HB No. 2313 (18th Congress, filed July 17, 2019, Pending in the Committee) and HB No. 3831 (19th Congress, filed August 18, 2022, status not stated) carry the same title as the first part of HB No. 9716; their texts were not reviewed.",
+   "In the Senate, SB No. 1278 (19th Congress, filed September 5, 2022) reached Pending Second Reading, Special Order, and SB No. 482 (20th Congress, filed July 14, 2025) is Pending in the Committee; both bear the title Business Permit and Licensing Office (BPLO) Act, and their texts were not reviewed.",
+   "No substitute bill or committee report on HB No. 9716 is identified."
+  ],
+  "related": [
+   {
+    "id": "SB-20-482",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed. The Senate bill in the same Congress bears a matching BPLO title.",
+    "section": "meta:SB-20-482",
+    "quote": "AN ACT ESTABLISHING A BUSINESS PERMIT AND LICENSING OFFICE (BPLO) IN EVERY CITY OR MUNICIPALITY IN THE COUNTRY"
+   },
+   {
+    "id": "HB-19-3831",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-3831",
+    "quote": "AN ACT ESTABLISHING A BUSINESS PERMIT AND LICENSING OFFICE IN EVERY CITY OR MUNICIPALITY IN THE COUNTRY"
+   },
+   {
+    "id": "HB-18-2313",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-18-2313",
+    "quote": "AN ACT ESTABLISHING A BUSINESS PERMIT AND LICENSING OFFICE IN EVERY CITY OR MUNICIPALITY IN THE COUNTRY"
+   },
+   {
+    "id": "SB-19-1278",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed. Senate measure of the 19th Congress that reached second reading.",
+    "section": "meta:SB-19-1278",
+    "quote": "BUSINESS PERMIT AND LICENSING OFFICE (BPLO) ACT OF 2022"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-7160",
+    "label": "Amends or repeals",
+    "overlap": "Sections 6 to 22 amend Sections 171, 175 to 181, 183, 194 to 196, 280, 316, 443 and 454 of the Local Government Code and insert a new Section 490-A.",
+    "section": "HB-20-9716:s6",
+    "quote": "Section 171, Book II, Title One, Chapter 3 of Republic Act No. 7160, as amended, is hereby amended to read as follows"
+   },
+   {
+    "law": "RA-11032",
+    "label": "Referenced in the bill",
+    "overlap": "The bill references the Ease of Doing Business Act, which bears on the business permit processing functions under Section 4 (Powers, Duties and Functions).",
+    "section": "law:RA-11032",
+    "quote": "AN ACT PROMOTING EASE OF DOING BUSINESS AND EFFICIENT DELIVERY OF GOVERNMENT SERVICES"
+   }
+  ],
+  "salient_features": "HB No. 9716 seeks to establish a Business Permit and Licensing Office (BPLO) in every city and municipality, headed by a mandatory Business Permit and Licensing Officer, and to vest in that officer local tax powers now exercised by the city or municipal treasurer. Its salient features are as follows:\na. Section 1 (Short Title) provides that the Act shall be known as the Business Permit and Licensing Office (BPLO) Act.\nb. Section 3 (Establishment of a Business Permit and Licensing Office) provides that a BPLO shall be established in every city and municipality.\nc. Section 4 (Powers, Duties and Functions) provides that the BPLO shall process business, mayor's and occupational permits and licenses, assess local business taxes including through examination of books of accounts, enforce tax ordinances other than on real property, formulate investment policies, recommend revenue measures to the mayor, conduct tax mapping and inspections, and issue notices and orders.\nd. Section 5 (Composition and Office Structure) provides that the BPLO shall have at least four principal divisions, namely Administration, Business Permits and Licensing or Occupational Permits, Investments, and Inspection, with LGUs not precluded from creating additional units.\ne. Sections 6 to 18 (amendments to Sections 171, 175 to 181, 183, 194 to 196 and 280 of RA No. 7160) provide that the city or municipal Business Permit and Licensing Officer, in place of the city or municipal treasurer, shall examine taxpayers' books, carry out distraint and levy, advertise and sell delinquent property, act on redemption and protests of assessment, receive refund claims and file collection suits, with court actions exempt from court and sheriff's fees.\nf. Section 19 (amendment to Section 316 of RA No. 7160) provides that the Business Permit and Licensing Officer, rather than the treasurer, shall sit in the local finance committee of cities and municipalities.\ng. Sections 20 and 21 (amendments to Sections 443 and 454 of RA No. 7160) provide that a Business Permit and Licensing Officer shall be appointed in every municipality and city.\nh. Section 22 (new Section 490-A of RA No. 7160) provides the qualifications of the Business Permit and Licensing Officer, makes the appointment mandatory for all cities and municipalities, and designates the officer as head of the BPLO with the rank and salary of a department head.\ni. Section 23 (Staffing Pattern) concerns the officers and staffing for the creation of the BPLO; its full text is not available for review.\nj. Section 24 (Appropriation) provides that the appropriations for the positions and office shall be included in the annual budget of the LGU concerned in the year following approval of the Act, and thereafter.",
+  "related_measures_policy": "HB No. 9716 may be considered alongside SB No. 482 in the Senate of the 20th Congress and the similarly titled measures of earlier Congresses, namely HB No. 2313, HB No. 3831 and SB No. 1278. The measure relates to the Implementation of Full Devolution to LGUs priority under the FY 2027 Budget Priorities Framework. The review should assess the amendments to Sections 171, 175 to 181, 183, 194 to 196, 280, 316, 443 and 454 of RA No. 7160 and the new Section 490-A, in particular the division of local tax administration between the treasurer and the new officer, the fiscal burden on LGUs, especially lower-income municipalities, of a mandatory office and department-head position funded under Section 24 (Appropriation), and the consistency of the BPLO's permit-processing functions with RA No. 11032.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged to the annual budget of each LGU concerned in the year following approval of the Act; no amount stated",
+    "section": "Section 24 (Appropriation)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual LGU budget thereafter",
+    "section": "Section 24 (Appropriation)"
+   },
+   {
+    "item": "Position",
+    "detail": "Mandatory Business Permit and Licensing Officer in every city and municipality, with the rank and salary of a department head; salary grade not stated",
+    "section": "Section 22 (New Section 490-A of RA No. 7160)"
+   },
+   {
+    "item": "Support body",
+    "detail": "At least four principal divisions (Administration, Business Permits and Licensing or Occupational Permits, Investments, Inspection), with staff per the staffing pattern",
+    "section": "Section 5 (Composition and Office Structure)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the short title, which refers to the Act of 2025 although the bill was filed in 2026.",
+   "Check the inconsistent naming of the office as Business Permit, Business Permits, and Investments and Business Permits and Licensing Office across Sections 3 to 5.",
+   "Obtain the full text of Section 2 (Declaration of Policy), Section 23 (Staffing Pattern), Section 25 (Repealing Clause) and Section 26 (Effectivity), and the complete text of Sections 4 and 5.",
+   "Verify how the transfer of tax examination, assessment and collection functions from city and municipal treasurers to the new officer is to be coordinated with the local treasury.",
+   "Confirm with the Senate the status of SB No. 482 and whether its text matches HB No. 9716.",
+   "Check whether the amendments to Sections 443 and 454 are consistent with the current text of those sections as last amended."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Title match only; text not reviewed. The Senate bill in the same Congress bears a matching BPLO title.",
+   "section": "meta:SB-20-482",
+   "quote": "AN ACT ESTABLISHING A BUSINESS PERMIT AND LICENSING OFFICE (BPLO) IN EVERY CITY OR MUNICIPALITY IN THE COUNTRY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-3831",
+   "quote": "AN ACT ESTABLISHING A BUSINESS PERMIT AND LICENSING OFFICE IN EVERY CITY OR MUNICIPALITY IN THE COUNTRY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-18-2313",
+   "quote": "AN ACT ESTABLISHING A BUSINESS PERMIT AND LICENSING OFFICE IN EVERY CITY OR MUNICIPALITY IN THE COUNTRY",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed. Senate measure of the 19th Congress that reached second reading.",
+   "section": "meta:SB-19-1278",
+   "quote": "BUSINESS PERMIT AND LICENSING OFFICE (BPLO) ACT OF 2022",
+   "check": "verified"
+  },
+  {
+   "claim": "Sections 6 to 22 amend Sections 171, 175 to 181, 183, 194 to 196, 280, 316, 443 and 454 of the Local Government Code and insert a new Section 490-A.",
+   "section": "HB-20-9716:s6",
+   "quote": "Section 171, Book II, Title One, Chapter 3 of Republic Act No. 7160, as amended, is hereby amended to read as follows",
+   "check": "verified"
+  },
+  {
+   "claim": "The bill references the Ease of Doing Business Act, which bears on the business permit processing functions under Section 4 (Powers, Duties and Functions).",
+   "section": "law:RA-11032",
+   "quote": "AN ACT PROMOTING EASE OF DOING BUSINESS AND EFFICIENT DELIVERY OF GOVERNMENT SERVICES",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-21T00:08:31+00:00"
+ }
+}
