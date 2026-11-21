@@ -1,0 +1,264 @@
+{
+ "output": {
+  "target": "HB-20-9717",
+  "entity_proposed": "Office of the National Taxpayer Advocate (ONTA)",
+  "proposal": "HB No. 9717 seeks to institute a Taxpayer's Bill of Rights and Obligations and to create the Office of the National Taxpayer Advocate (ONTA), an independent and autonomous office attached to the DOJ, to protect taxpayers' substantive and procedural rights, promote tax compliance and assist taxpayers in their dealings with revenue authorities.",
+  "alignment": "As a government organization measure, the review should examine how the ONTA's proposed functions under Section 8 (Powers, Functions and Responsibilities of the Office of the National Taxpayer Advocate), including taxpayer assistance, representation of low income taxpayers, information campaigns and policy recommendations to revenue authorities and the Anti-Red Tape Authority, fit with those of existing bodies such as the revenue authorities and the Anti-Red Tape Authority, and how the creation of a new office with regional or provincial offices under Section 7 (Creation of the Office of the National Taxpayer Advocate) relates to the government's intent to streamline agencies and reduce overlapping mandates under the Government Optimization Act (RA No. 12231). No priority area of the FY 2027 Budget Priorities Framework and no item of the LEDAC Common Legislative Agenda was identified for this measure.",
+  "legislative_history": [
+   "HB No. 9717 was filed on June 3, 2026 by Representative Kenneth T. Gatchalian; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "In the 20th Congress, HB No. 956 (filed July 1, 2025) and HB No. 3207 (filed August 6, 2025) bear the same title and are pending in the committee; their texts were not reviewed.",
+   "Senate counterparts with the same title, SB No. 621 (filed July 15, 2025) and SB No. 844 (filed August 4, 2025), are pending in the committee; their texts were not reviewed.",
+   "HB No. 9036 (20th Congress), the proposed Magna Carta for Taxpayers, likewise creates an Office of the National Taxpayer Advocate but attaches it to the DOF for administrative supervision.",
+   "Measures with the same title were filed in the 19th Congress: HB Nos. 7179, 7321, 7336, 7403, 7530 and 7699 (filed February to March 2023) and SB No. 1806 (filed January 30, 2023; recorded as pending in the House of Representatives)."
+  ],
+  "related": [
+   {
+    "id": "HB-20-9036",
+    "relationship": "Alternative proposal",
+    "basis": "HB No. 9036 also creates an Office of the National Taxpayer Advocate, but attaches it to the DOF for administrative supervision rather than to the DOJ and assigns a narrower set of functions.",
+    "section": "HB-20-9036:s6",
+    "quote": "there is hereby created an Office of the National Taxpayer Advocate (ONTA) attached to the Department of Finance"
+   },
+   {
+    "id": "HB-20-956",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-956",
+    "quote": "AN ACT PROVIDING FOR THE BILL OF RIGHTS AND OBLIGATIONS OF TAXPAYERS, CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE"
+   },
+   {
+    "id": "HB-20-3207",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-20-3207",
+    "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCTE, APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "SB-20-621",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-20-621",
+    "quote": "THE TAXPAYERS BILL OF RIGHTS AND OBLIGATIONS ACT"
+   },
+   {
+    "id": "SB-20-844",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-20-844",
+    "quote": "THE TAXPAYERS BILL OF RIGHTS AND OBLIGATIONS ACT"
+   },
+   {
+    "id": "HB-19-7179",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-7179",
+    "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-7321",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-7321",
+    "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-7336",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-7336",
+    "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-7403",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-7403",
+    "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-7530",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-7530",
+    "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-7699",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:HB-19-7699",
+    "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "SB-19-1806",
+    "relationship": "Filed in a past Congress",
+    "basis": "Title match only; text not reviewed.",
+    "section": "meta:SB-19-1806",
+    "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-1125",
+    "label": "Referenced in the bill",
+    "overlap": "Section 4 (Taxpayer's Bill of Rights and Obligations) and Section 13 (Penalties) grant rights without prejudice to remedies under the law creating the Court of Tax Appeals and state that it is not amended.",
+    "section": "HB-20-9717:s4",
+    "quote": "Republic Act (RA) No. 1125, creating the Court of Tax Appeals (CTA), as amended"
+   },
+   {
+    "law": "RA-6758",
+    "label": "Referenced in the bill",
+    "overlap": "Section 7 (Creation of the Office of the National Taxpayer Advocate) subjects all ONTA employees to the Salary Standardization Act.",
+    "section": "HB-20-9717:s7",
+    "quote": "That all employees shall be subject to Republic Act No. 6758, otherwise known as the Salary Standardization Act."
+   },
+   {
+    "law": "RA-7722",
+    "label": "Referenced in the bill",
+    "overlap": "Section 15 (Integration in Higher Education Curriculum) tasks CHED, under its existing mandate, to develop the program integrating the Taxpayer's Bill of Rights in the curriculum.",
+    "section": "HB-20-9717:s15",
+    "quote": "The Commission on Higher Education (CHED), pursuant to its mandate under RA No. 7722"
+   }
+  ],
+  "salient_features": "HB No. 9717 seeks to institute a Taxpayer's Bill of Rights and Obligations and to create the Office of the National Taxpayer Advocate (ONTA) to protect taxpayers' rights, promote tax compliance and assist taxpayers. Its salient features are as follows:\na. Section 4 (Taxpayer's Bill of Rights and Obligations) provides that taxpayers are granted basic rights at the administrative and judicial levels without amending existing tax laws, and are expected to comply with their tax obligations.\nb. Section 5 (Taxpayer's Basic Rights) provides that taxpayers have rights, among others, to be informed, including of summary collection actions, and to a fair, uniform and faithful application of laws.\nc. Section 6 (Taxpayer's Basic Obligations) provides that taxpayers must comply with tax laws, disclose information truthfully and on time, submit required documents, keep records for examination and cooperate in tax audits.\nd. Section 7 (Creation of the Office of the National Taxpayer Advocate) provides that the ONTA is created as an independent and autonomous office attached to the DOJ for policy and program coordination, with power to set its structure and staff, including regional or provincial offices, subject to DBM approval, civil service rules and the Salary Standardization Act.\ne. Section 8 (Powers, Functions and Responsibilities of the Office of the National Taxpayer Advocate) provides that the ONTA shall assist the public on tax queries, represent low income taxpayers in tax cases, conduct information and education programs, recommend remedial administrative measures to revenue authorities and ARTA, and monitor tax issuances, among others.\nf. Section 9 (Qualifications of the National Taxpayer Advocate and Deputy National Taxpayer Advocate) provides that the ONTA is headed by a National Taxpayer Advocate, assisted by four Deputy National Taxpayer Advocates for the National Capital Region, Luzon, Visayas and Mindanao, all with at least ten years of tax practice.\ng. Section 10 (Appointment, Term, and Rank) provides that the President appoints the National Taxpayer Advocate and Deputies for a three-year term with one reappointment, with the rank, salaries, allowances and retirement benefits of an Undersecretary and Assistant Secretary, respectively.\nh. Section 11 (Disqualification) provides that persons who served the revenue authorities within two years before appointment are disqualified.\ni. Section 12 (Submission of Annual Reports) provides that the ONTA reports annually to the Congressional Oversight Committee on the Comprehensive Tax Reform Program, with the Secretaries of Justice and Finance submitting comments.\nj. Section 13 (Penalties for the Violation of the Bill of Rights of Taxpayers) provides imprisonment of six months to six years, a fine of PHP 100,000 to PHP 1,500,000, or both, for violations of Section 5, prescribing after twelve years.\nk. Section 14 (Accessibility) and Section 15 (Integration in Higher Education Curriculum) provide that the Bill of Rights be made available in revenue offices and websites, and that higher education institutions integrate it in their curriculum through a CHED program.\nl. Section 16 (Appropriations) provides that the amount necessary for implementation, including the establishment, yearly operations and maintenance of the ONTA, shall be included in the annual General Appropriations Act.\nm. Section 17 (Implementing Rules and Regulations) provides that the DOJ, in consultation with the DOF, DBM, DILG, BIR, BOC, BLGF, CSC, CHED and ARTA, shall issue the implementing rules within sixty days of effectivity.",
+  "related_measures_policy": "HB No. 9717 may be considered alongside HB No. 956 and HB No. 3207 and the Senate counterparts SB No. 621 and SB No. 844, which bear the same title, and HB No. 9036, which proposes an Office of the National Taxpayer Advocate attached instead to the DOF. No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified. The review should assess whether the ONTA's functions under Section 8 (Powers, Functions and Responsibilities of the Office of the National Taxpayer Advocate) overlap with existing taxpayer assistance and remedial functions of the revenue authorities and ARTA, the appropriate attachment of the office (DOJ under this bill, DOF under HB No. 9036), the cost of the regional or provincial offices allowed under Section 7 (Creation of the Office of the National Taxpayer Advocate), and consistency with the Government Optimization Act (RA No. 12231), noting the bill's references to RA No. 6758 in Section 7, RA No. 1125 in Section 4 and RA No. 7722 in Section 15.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for the establishment of the ONTA; no amount stated",
+    "section": "Section 16 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Yearly operations and maintenance of the ONTA to be included in the annual General Appropriations Act",
+    "section": "Section 16 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "One National Taxpayer Advocate with the rank, salary, allowances and retirement benefits of an Undersecretary",
+    "section": "Section 10 (Appointment, Term, and Rank)"
+   },
+   {
+    "item": "Position",
+    "detail": "Four Deputy National Taxpayer Advocates (NCR, Luzon, Visayas, Mindanao) with the rank and salary of an Assistant Secretary",
+    "section": "Section 10 (Appointment, Term, and Rank)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Staff, divisions, units and regional or provincial offices as may be necessary, subject to DBM approval and RA No. 6758",
+    "section": "Section 7 (Creation of the Office of the National Taxpayer Advocate)"
+   },
+   {
+    "item": "Other",
+    "detail": "CHED to develop a program integrating the Taxpayer's Bill of Rights in higher education curricula; no separate funding stated",
+    "section": "Section 15 (Integration in Higher Education Curriculum)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the full text of Sections 5, 6 and 8, which appear incomplete in the copy reviewed, including Section 5(f) cross-referenced in Section 8.",
+   "Verify where the bill cites RA No. 11976 and RA No. 6713, as these references do not appear in the sections reviewed.",
+   "Confirm whether the texts of HB No. 956, HB No. 3207, SB No. 621 and SB No. 844 match this bill, and their current status with the House and Senate.",
+   "Note that Section 7 uses the acronym ONTA without first spelling it out or defining it in Section 3 (Definition of Terms).",
+   "Check that the sixty-day period for the implementing rules under Section 17 is workable given the number of agencies to be consulted.",
+   "Verify the spelling of 'ADVOCTE' in the title of HB No. 3207."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "HB No. 9036 also creates an Office of the National Taxpayer Advocate, but attaches it to the DOF for administrative supervision rather than to the DOJ and assigns a narrower set of functions.",
+   "section": "HB-20-9036:s6",
+   "quote": "there is hereby created an Office of the National Taxpayer Advocate (ONTA) attached to the Department of Finance",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-956",
+   "quote": "AN ACT PROVIDING FOR THE BILL OF RIGHTS AND OBLIGATIONS OF TAXPAYERS, CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-20-3207",
+   "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCTE, APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-20-621",
+   "quote": "THE TAXPAYERS BILL OF RIGHTS AND OBLIGATIONS ACT",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-20-844",
+   "quote": "THE TAXPAYERS BILL OF RIGHTS AND OBLIGATIONS ACT",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-7179",
+   "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-7321",
+   "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-7336",
+   "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-7403",
+   "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-7530",
+   "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:HB-19-7699",
+   "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Title match only; text not reviewed.",
+   "section": "meta:SB-19-1806",
+   "quote": "CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 4 (Taxpayer's Bill of Rights and Obligations) and Section 13 (Penalties) grant rights without prejudice to remedies under the law creating the Court of Tax Appeals and state that it is not amended.",
+   "section": "HB-20-9717:s4",
+   "quote": "Republic Act (RA) No. 1125, creating the Court of Tax Appeals (CTA), as amended",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 7 (Creation of the Office of the National Taxpayer Advocate) subjects all ONTA employees to the Salary Standardization Act.",
+   "section": "HB-20-9717:s7",
+   "quote": "That all employees shall be subject to Republic Act No. 6758, otherwise known as the Salary Standardization Act.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 15 (Integration in Higher Education Curriculum) tasks CHED, under its existing mandate, to develop the program integrating the Taxpayer's Bill of Rights in the curriculum.",
+   "section": "HB-20-9717:s15",
+   "quote": "The Commission on Higher Education (CHED), pursuant to its mandate under RA No. 7722",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-21T00:08:53+00:00"
+ }
+}
