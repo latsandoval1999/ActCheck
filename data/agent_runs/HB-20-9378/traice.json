@@ -1,0 +1,103 @@
+{
+ "output": {
+  "target": "HB-20-9378",
+  "entity_proposed": "GovTech Philippines Corporation (GTPC)",
+  "proposal": "HB No. 9378 seeks to create the GovTech Philippines Corporation (GTPC) as a government-owned or controlled corporation attached to the Office of the President, to serve as the central digital engineering, product development and service delivery body of the government. It aims to address fragmentation, duplication and vendor dependence in government digital systems through shared platforms under a Government-as-a-Platform model.",
+  "alignment": "As a government organization measure, the review should examine how the proposed Corporation's functions fit with those of existing bodies, particularly the Department of Information and Communications Technology under RA No. 10844 and the e-governance framework under RA No. 12254, and how the creation of a new GOCC relates to the government's intent to streamline agencies and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review should also assess the Corporation's coverage under the GOCC governance framework of RA No. 10149 and the proposed exemption from compensation standards under RA No. 6758. The measure aligns with the Digitalization priority area of the FY 2027 Budget Priorities Framework, particularly its focus on interoperable digital platforms and the eGovPH system. The measure is not among the LEDAC Common Legislative Agenda priorities.",
+  "legislative_history": [
+   "HB No. 9378 was filed in the 20th Congress on May 20, 2026 by Representative Alfredo \"Albee\" B. Benitez.",
+   "The bill is pending at the filing stage; later stages are not reflected in available records.",
+   "No earlier version, counterpart, substitute or committee report has been identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-10149",
+    "label": "Referenced in the bill",
+    "overlap": "Section 18 (GOCC Governance and Oversight) and Section 4 (Rules of Construction) subject the Corporation to the GOCC Governance Act of 2011 and GCG rules.",
+    "section": "HB-20-9378:s18",
+    "quote": "The GovTech Philippines Corporation shall be subject to Republic Act No. 10149, otherwise known as the “GOCC Governance Act of 2011,”"
+   },
+   {
+    "law": "RA-6758",
+    "label": "Referenced in the bill",
+    "overlap": "Section 20 (Market Competitiveness and Benefits) sets aside RA No. 6758 and salary standardization rules for the Corporation's positions.",
+    "section": "HB-20-9378:s20",
+    "quote": "Notwithstanding Republic Act No. 6758, as amended, and all laws, rules, and regulations regarding compensation standards"
+   },
+   {
+    "law": "RA-10844",
+    "label": "Overlapping functions",
+    "overlap": "The Corporation's digital product, platform and procurement evaluation functions under Section 8 (Specific Operational Powers) may overlap with the ICT mandate of the DICT, whose Secretary sits on the Board under Section 11 (The Board of Directors).",
+    "section": "law:RA-10844",
+    "quote": "AN ACT CREATING THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY, DEFINING ITS POWERS AND FUNCTIONS"
+   },
+   {
+    "law": "RA-12254",
+    "label": "Overlapping functions",
+    "overlap": "Section 2 (Declaration of Policy) and Section 4 (Rules of Construction) tie the Corporation's mandate to the E-Governance Act, which also governs the government's transition to e-governance.",
+    "section": "law:RA-12254",
+    "quote": "AN ACT INSTITUTIONALIZING THE TRANSITION OF THE GOVERNMENT TO E-GOVERNANCE"
+   }
+  ],
+  "salient_features": "HB No. 9378 seeks to establish the GovTech Philippines Corporation (GTPC) as a government-owned or controlled corporation serving as the government's central digital engineering, product development and service delivery body. Its salient features are as follows:\na. Section 2 (Declaration of Policy) provides for a whole-of-government approach to digital governance, a Government-as-a-Platform model with centralized digital capability, and the Once-Only data principle to address fragmentation, duplication and vendor dependence.\nb. Section 6 (Creation of the GovTech Philippines Corporation) provides that the Corporation is created as a GOCC with corporate personality and perpetual succession, attached to the Office of the President for policy coordination and strategic oversight.\nc. Section 8 (Specific Operational Powers) provides that the Corporation shall act as primary technical evaluator for high-value government ICT procurements, operate a GovTech Venture sandbox, exercise step-in rights for mission-critical systems at risk of failure, and serve as national repository for government source code.\nd. Section 11 (The Board of Directors) provides that the Corporation shall be governed by a seven-member Board appointed by the President, comprising the DICT Secretary, the DOST Secretary and the NPC Commissioner as ex officio members, one lawyer who also serves as Corporate Secretary, and three private sector or academe members, with appointive members serving five-year staggered terms subject to GCG fit-and-proper standards.\ne. Section 18 (GOCC Governance and Oversight) provides that the Corporation shall be subject to RA No. 10149, GCG issuances and COA audit.\nf. Section 20 (Market Competitiveness and Benefits) provides for the creation, reclassification and rationalization of plantilla and non-plantilla positions, including project-based and contract engagements, notwithstanding RA No. 6758 and salary standardization rules.",
+  "related_measures_policy": "No related bill has been identified for HB No. 9378. The measure may be considered alongside RA No. 10844, given possible overlap between the Corporation's functions under Section 8 (Specific Operational Powers) and the mandate of the DICT, and RA No. 12254, to which Section 2 (Declaration of Policy) and Section 4 (Rules of Construction) refer. It aligns with the Digitalization priority area of the FY 2027 Budget Priorities Framework. The review should assess whether a new GOCC is warranted in light of streamlining under RA No. 12231, the implications of the GOCC framework under Section 18 (GOCC Governance and Oversight) and RA No. 10149, and the fiscal effect of the compensation exemption from RA No. 6758 under Section 20 (Market Competitiveness and Benefits).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial and continuing funding",
+    "detail": "Capitalization and sources of funds are provided for; amounts to be verified from the full text.",
+    "section": "Section 13 (Capitalization and Sources of Funds)"
+   },
+   {
+    "item": "Members",
+    "detail": "Seven-member Board of Directors, including four appointive members with five-year terms.",
+    "section": "Section 11 (The Board of Directors)"
+   },
+   {
+    "item": "Positions",
+    "detail": "Creation and reclassification of plantilla and non-plantilla positions exempt from RA No. 6758 compensation standards.",
+    "section": "Section 20 (Market Competitiveness and Benefits)"
+   }
+  ],
+  "reviewer_checks": [
+   "Verify the capitalization amount and sources of funds under Section 13 (Capitalization and Sources of Funds).",
+   "Confirm the scope of the abolition and transition provided under Section 17 (Abolition of the E-Government Unified Project Management Office (Egov), and correct the unclosed parenthesis in its heading.",
+   "Section 1 (Short Title) refers to an Act \"of 2025\" although the bill was filed in 2026.",
+   "Section 11 (The Board of Directors) states that all seven members are appointed by the President, which is inconsistent with the inclusion of ex officio members; it also contains a typographical error (\"filed\" for \"field\").",
+   "Section 20 (Market Competitiveness and Benefits) describes its coverage but does not state the operative compensation rule; clarify the intended provision.",
+   "Confirm the bill's current status with the House of Representatives."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 18 (GOCC Governance and Oversight) and Section 4 (Rules of Construction) subject the Corporation to the GOCC Governance Act of 2011 and GCG rules.",
+   "section": "HB-20-9378:s18",
+   "quote": "The GovTech Philippines Corporation shall be subject to Republic Act No. 10149, otherwise known as the “GOCC Governance Act of 2011,”",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 20 (Market Competitiveness and Benefits) sets aside RA No. 6758 and salary standardization rules for the Corporation's positions.",
+   "section": "HB-20-9378:s20",
+   "quote": "Notwithstanding Republic Act No. 6758, as amended, and all laws, rules, and regulations regarding compensation standards",
+   "check": "verified"
+  },
+  {
+   "claim": "The Corporation's digital product, platform and procurement evaluation functions under Section 8 (Specific Operational Powers) may overlap with the ICT mandate of the DICT, whose Secretary sits on the Board under Section 11 (The Board of Directors).",
+   "section": "law:RA-10844",
+   "quote": "AN ACT CREATING THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY, DEFINING ITS POWERS AND FUNCTIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 2 (Declaration of Policy) and Section 4 (Rules of Construction) tie the Corporation's mandate to the E-Governance Act, which also governs the government's transition to e-governance.",
+   "section": "law:RA-12254",
+   "quote": "AN ACT INSTITUTIONALIZING THE TRANSITION OF THE GOVERNMENT TO E-GOVERNANCE",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-22T00:07:32+00:00"
+ }
+}
