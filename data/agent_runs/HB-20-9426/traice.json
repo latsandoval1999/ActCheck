@@ -1,0 +1,119 @@
+{
+ "output": {
+  "target": "HB-20-9426",
+  "entity_proposed": "Anti-Stunting Action Plan Council (ASAP Council)",
+  "proposal": "HB No. 9426 seeks to establish the Anti-Stunting Action Plan Council (ASAP Council), attached to the Office of the President, as the lead agency to oversee the formulation and implementation of a national stunting reduction and prevention plan. It aims to integrate fragmented health and nutrition programs under a whole-of-government and whole-of-society approach.",
+  "alignment": "As a government organization measure, the review should examine how the functions of the proposed ASAP Council and its Technical Secretariat fit with those of existing bodies, notably the National Nutrition Council, the DOH, the DSWD and the DOST-FNRI, whose programs Section 9 (Whole-of-Government and Whole-of-Society Approach; Monitoring and Updating of Anti-Stunting Policies and Recommendations) places under the Council's monitoring, and whether the creation of a new attached body is consistent with the streamlining of the Executive branch and the reduction of overlapping functions under the Government Optimization Act (RA No. 12231). No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item has been identified for the measure.",
+  "legislative_history": [
+   "HB No. 9426 was filed on May 26, 2026 by Representative Jeffrey Soriano; its status is filed, and later stages are not yet available.",
+   "HB No. 2916 (filed August 4, 2025) and HB No. 3889 (filed August 20, 2025) in the 20th Congress carry the same title and are pending in committee; their text has not been reviewed.",
+   "SB No. 416 (Anti-Stunting Action Plan (ASAP) Council Act of 2025), filed July 10, 2025, is the apparent Senate counterpart and is pending in committee; its text has not been reviewed.",
+   "No earlier-Congress version of the measure has been identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-2916",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "A 20th Congress House bill with a title identical in substance proposing the same ASAP Council.",
+    "section": "meta:HB-20-2916",
+    "quote": "AN ACT ESTABLISHING THE ANTI-STUNTING ACTION PLAN (ASAP) COUNCIL IN THE PHILIPPINES, DEFINING ITS POWERS AND FUNCTIONS"
+   },
+   {
+    "id": "HB-20-3889",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "A 20th Congress House bill with a title identical in substance proposing the same ASAP Council.",
+    "section": "meta:HB-20-3889",
+    "quote": "AN ACT ESTABLISHING THE ANTI-STUNTING ACTION PLAN (ASAP) COUNCIL IN THE PHILIPPINES, DEFINING ITS POWERS AND FUNCTIONS"
+   },
+   {
+    "id": "SB-20-416",
+    "relationship": "Counterpart in the other chamber",
+    "basis": "A 20th Congress Senate bill whose title proposes the same ASAP Council; inferred from the title only, as its text has not been reviewed.",
+    "section": "meta:SB-20-416",
+    "quote": "ANTI-STUNTING ACTION PLAN (ASAP) COUNCIL ACT OF 2025"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-11310",
+    "label": "Referenced in the bill",
+    "overlap": "Section 9 (Whole-of-Government and Whole-of-Society Approach; Monitoring and Updating of Anti-Stunting Policies and Recommendations) places the DSWD's Pantawid program, institutionalized under RA No. 11310, under the Council's monitoring and recommendations.",
+    "section": "HB-20-9426:s9",
+    "quote": "DSWD’s Supplemental Feeding and Pantawid Programs"
+   }
+  ],
+  "salient_features": "HB No. 9426 seeks to establish the Anti-Stunting Action Plan Council (ASAP Council) as the lead agency to oversee the formulation and implementation of the national stunting reduction and prevention plan. Its salient features are as follows:\na. Section 4 (Establishment of the Anti-Stunting Action Plan Council of the Philippines) provides that the ASAP Council is created upon the effectivity of the Act as the lead agency for the national stunting reduction and prevention plan, attached to the Office of the President.\nb. Section 5 (Composition of the ASAP Council) provides that the Council is chaired by the Secretary of Health and co-chaired by the Secretary of Social Welfare and Development, with the Secretaries of the DILG, Agriculture, DepEd, Science and Technology, and Economy, Planning and Development, the Executive Directors of the Early Childhood Care and Development Council and the Council for the Welfare of Children, and two NGO representatives appointed by the President for three-year terms as members; permanent representatives of at least assistant secretary rank receive emoluments determined by the Council.\nc. Section 6 (ASAP Secretariat) provides for a Technical Secretariat under the Council, headed by a full-time Executive Director nominated by the Council and appointed by the President, with the rank and emoluments of Executive Director IV (Salary Grade 29).\nd. Section 7 (Powers and Functions) provides that the Council shall formulate the national vision, action plan and roadmap for stunting reduction, oversee and consult on related policies and programs, recommend the harmonization of anti-stunting policies, and maintain a centralized database on stunting.\ne. Section 8 (The Anti-Stunting Action Plan, Roadmap, and Programs) provides that the Council shall complete the Anti-Stunting Action Plan within six months of effectivity, after which all concerned agencies must comply with it and incorporate its policies in their programs.\nf. Section 9 (Whole-of-Government and Whole-of-Society Approach; Monitoring and Updating of Anti-Stunting Policies and Recommendations) provides that the Council shall ensure inter-agency coordination, monitor and update existing feeding and nutrition programs of the National Nutrition Council, DOH, DSWD and DepEd, and recommend minimum standards and financing requirements.\ng. Section 10 (Private Sector Participation) provides that implementing agencies may accredit development partners and accept donations, aid or grants for anti-stunting programs.\nh. Section 11 (ASAP Centralized Database System) provides that the DOST-FNRI, in coordination with the Philippine Statistics Authority, shall develop and manage a nationwide stunting database and website portal.\ni. Section 12 (Annual Report) provides that the Council shall submit annual progress reports to the President and Congress on or before the last day of September.\nj. Section 13 (Appropriations) provides that the amount necessary for continuous implementation shall be included in the annual GAA, while anti-stunting programs shall be funded from the existing appropriations of the implementing departments and agencies.\nk. Section 14 (Implementing Rules and Regulations) provides that the Council shall issue the implementing rules within ninety days of approval.",
+  "related_measures_policy": "HB No. 9426 may be considered alongside HB No. 2916 and HB No. 3889 in the House, which bear the same title, and SB No. 416 in the Senate, which likewise proposes an ASAP Council. The measure has no identified FY 2027 Budget Priorities Framework or LEDAC alignment. The review should assess whether a new council attached to the Office of the President is warranted given the existing coordinating role of the National Nutrition Council and the programs listed in Section 9 (Whole-of-Government and Whole-of-Society Approach; Monitoring and Updating of Anti-Stunting Policies and Recommendations), including the Pantawid program under RA No. 11310, and how the measure relates to the streamlining of overlapping functions under the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "No specific amount stated; the amount necessary is to be included in the annual GAA",
+    "section": "Section 13 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act; program funding sourced from existing appropriations of implementing agencies",
+    "section": "Section 13 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Executive Director, Executive Director IV (Salary Grade 29), full-time",
+    "section": "Section 6 (ASAP Secretariat)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Technical Secretariat providing technical and administrative support to the Council",
+    "section": "Section 6 (ASAP Secretariat)"
+   },
+   {
+    "item": "Members",
+    "detail": "Emoluments for permanent representatives as determined by the Council; two NGO representatives with three-year terms",
+    "section": "Section 5 (Composition of the ASAP Council)"
+   },
+   {
+    "item": "Database",
+    "detail": "Nationwide stunting database, website portal and digital tools to be developed and managed by the DOST-FNRI",
+    "section": "Section 11 (ASAP Centralized Database System)"
+   }
+  ],
+  "reviewer_checks": [
+   "Reconcile the name of the body: the title refers to the Council 'in the Philippines' while Section 4 refers to the Council 'of the Philippines'.",
+   "Clarify the division of responsibility for the stunting database between the Council under Section 7 (Powers and Functions) and the DOST-FNRI under Section 11 (ASAP Centralized Database System).",
+   "Confirm whether the Council's functions duplicate the existing coordinating mandate of the National Nutrition Council.",
+   "Correct the typographical error 'fifteen days (15)' in Section 17 (Effectivity).",
+   "Confirm with the House and Senate the status and text of HB No. 2916, HB No. 3889 and SB No. 416."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "A 20th Congress House bill with a title identical in substance proposing the same ASAP Council.",
+   "section": "meta:HB-20-2916",
+   "quote": "AN ACT ESTABLISHING THE ANTI-STUNTING ACTION PLAN (ASAP) COUNCIL IN THE PHILIPPINES, DEFINING ITS POWERS AND FUNCTIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "A 20th Congress House bill with a title identical in substance proposing the same ASAP Council.",
+   "section": "meta:HB-20-3889",
+   "quote": "AN ACT ESTABLISHING THE ANTI-STUNTING ACTION PLAN (ASAP) COUNCIL IN THE PHILIPPINES, DEFINING ITS POWERS AND FUNCTIONS",
+   "check": "verified"
+  },
+  {
+   "claim": "A 20th Congress Senate bill whose title proposes the same ASAP Council; inferred from the title only, as its text has not been reviewed.",
+   "section": "meta:SB-20-416",
+   "quote": "ANTI-STUNTING ACTION PLAN (ASAP) COUNCIL ACT OF 2025",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 9 (Whole-of-Government and Whole-of-Society Approach; Monitoring and Updating of Anti-Stunting Policies and Recommendations) places the DSWD's Pantawid program, institutionalized under RA No. 11310, under the Council's monitoring and recommendations.",
+   "section": "HB-20-9426:s9",
+   "quote": "DSWD’s Supplemental Feeding and Pantawid Programs",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-22T00:07:37+00:00"
+ }
+}
