@@ -1,0 +1,85 @@
+{
+ "output": {
+  "target": "HB-20-9506",
+  "entity_proposed": "Philippine MSME Financing Corporation (PMFC)",
+  "proposal": "HB No. 9506 seeks to establish the Philippine MSME Financing Corporation (PMFC), a government-owned and controlled corporation under the administrative supervision of the Department of Trade and Industry (DTI), to serve as a specialized developmental financing institution for micro, small, and medium enterprises (MSMEs). The measure aims to address MSMEs' structural barriers to financing, such as insufficient collateral and limited credit history, through inclusive lending, credit guarantees, digital finance systems and enterprise development services.",
+  "alignment": "As a government organization measure, the review should examine how the proposed PMFC fits with existing government financial institutions, noting that Section 4 (Creation of the Philippine MSME Financing Corporation (PMFC)) itself names Land Bank of the Philippines, Development Bank of the Philippines and Small Business Corporation and states that the PMFC shall complement and not duplicate their mandates; the review should assess whether a new corporation is warranted or whether the functions could be lodged in existing entities, consistent with the government's intent to streamline agencies and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The measure may be considered under the Digitalization priority area of the FY 2027 Budget Priorities Framework, given the digital finance systems in Section 9 (Digital Finance and Innovation Systems), although its primary thrust is MSME financing rather than digital government platforms. No corresponding item in the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 9506 was filed in the 20th Congress on May 28, 2026 by Representative Ferdinand Martin G. Romualdez.",
+   "Its status is filed; later stages are not reflected in the available records.",
+   "No earlier version, counterpart measure, substitute bill or committee report was identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-9501",
+    "label": "Referenced in the bill",
+    "overlap": "Section 3 (Definition of Terms) adopts the definition of MSMEs under RA No. 9501 (Magna Carta for MSMEs), which also governs development and assistance programs for MSMEs.",
+    "section": "HB-20-9506:s3",
+    "quote": "“MSMEs” shall refer to micro, small, and medium enterprises as defined under Republic Act No. 9501 or the “Magna Carta for MSMEs”"
+   }
+  ],
+  "salient_features": "HB No. 9506 seeks to establish the Philippine MSME Financing Corporation (PMFC) as a specialized developmental financing institution for MSMEs. Its salient features are as follows:\na. Section 4 (Creation of the Philippine MSME Financing Corporation (PMFC)) provides that the PMFC is created as a government-owned and controlled corporation under the administrative supervision of the DTI, to complement, and not duplicate, the mandates of existing government financial institutions.\nb. Section 5 (Powers and Functions of the Corporation) provides that the Corporation shall offer development-oriented financing, including startup, working capital, modernization, disaster recovery and expansion loans, establish credit guarantee programs, develop digital finance and alternative credit assessment systems, partner with financial institutions and development organizations, and provide enterprise development services.\nc. Section 6 (Developmental Financing Principles) provides that the Corporation shall prioritize financial inclusion, responsible and risk-based lending, regional development and climate resilience while keeping its programs financially sustainable.\nd. Section 7 (Loan Programs and Financing Features) provides for specialized programs for startups, rural and agricultural enterprises, women-led enterprises, digital and green enterprises, returning overseas Filipino workers, informal sector workers and calamity-affected MSMEs, with features such as preferential rates, flexible repayment, grace periods and collateral-free or partially guaranteed loans.\ne. Section 8 (Credit Guarantee and Risk-Sharing Programs) provides that the Corporation may establish credit guarantee, co-guarantee and risk-sharing arrangements with banks, cooperatives and private lenders and extend partial guarantees on qualified MSME loans.\nf. Section 9 (Digital Finance and Innovation Systems) provides that the Corporation shall establish secure and interoperable digital finance systems, including online loan applications, alternative and AI-assisted credit evaluation, digital identity verification and electronic payments, subject to data privacy and consumer protection laws.\ng. Section 10 (Financial Literacy and Enterprise Development) provides that all borrowers shall undergo enterprise development and financial capability programs delivered with DTI Negosyo Centers, TESDA, SUCs, cooperatives, private mentors and online platforms.\nh. Section 11 (Organizational Structure and Governance) provides that the Corporation shall be governed by a Board of Directors chaired by the Secretary of Trade and Industry, with the Secretary of Finance as Vice Chairperson, representatives of the BSP, NEDA and DOST, sectoral and independent directors, and the President and Chief Executive Officer as ex officio member; no salary grades are specified.\ni. Section 12 (Anti-Political Interference and Merit-Based Lending) provides that lending decisions shall be merit-based and prohibits elected officials and public officers from interfering in them.\nj. Section 13 (Transparency, Accountability, and Auditing) provides for annual COA audit, quarterly reports to Congress, annual performance evaluations to the DTI and DBM, and public reports on anonymized lending data.\nk. Section 14 (Coordination with National Agencies and Local Government Units) and Section 15 (Performance Evaluation and Congressional Review) provide for coordination with LGUs and agencies, performance indicators, and a congressional review of the Act every five years.\nl. Section 16 (Appropriations) provides that initial funding shall be charged against the current appropriations of the DTI or other available funds certified by the DBM, that continuing funding shall be included in the annual General Appropriations Act, and that the Corporation may also use official development assistance, grants, donations, borrowings, loan repayments and service income.\nm. Section 17 (Implementing Rules and Regulations) provides that the DTI, in coordination with the DOF, BSP, DBM, COA and stakeholders, shall issue the implementing rules within 120 days of effectivity.",
+  "related_measures_policy": "No related bill in the current or earlier Congresses was identified. HB No. 9506 may be considered alongside RA No. 9501 (Magna Carta for MSMEs), whose definition of MSMEs it adopts in Section 3 (Definition of Terms), and in relation to the existing government financial institutions named in Section 4 (Creation of the Philippine MSME Financing Corporation (PMFC)). The measure may be aligned with the Digitalization priority of the FY 2027 Budget Priorities Framework through Section 9 (Digital Finance and Innovation Systems). The review should assess whether the creation of a new government-owned and controlled corporation duplicates the MSME financing and guarantee functions of existing institutions, consistent with the Government Optimization Act (RA No. 12231), and should examine the fiscal exposure arising from the credit guarantee, preferential lending and borrowing provisions in Section 7 (Loan Programs and Financing Features), Section 8 (Credit Guarantee and Risk-Sharing Programs) and Section 16 (Appropriations).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary (no amount stated), charged against current appropriations of the DTI or other available funds certified by the DBM",
+    "section": "Section 16 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary, to be included in the annual General Appropriations Act",
+    "section": "Section 16 (Appropriations)"
+   },
+   {
+    "item": "Other funding sources",
+    "detail": "Official development assistance, grants, donations, borrowings, loan repayments, service income and other lawful sources",
+    "section": "Section 16 (Appropriations)"
+   },
+   {
+    "item": "Contingent liabilities",
+    "detail": "Credit guarantee and risk-sharing facilities and partial guarantees on MSME loans; no ceiling or guarantee fund stated",
+    "section": "Section 8 (Credit Guarantee and Risk-Sharing Programs)"
+   },
+   {
+    "item": "Subsidized lending",
+    "detail": "Preferential financing rates, grace periods and collateral-free loans; no subsidy amount stated",
+    "section": "Section 7 (Loan Programs and Financing Features)"
+   },
+   {
+    "item": "Board",
+    "detail": "Board of Directors including ex officio, sectoral and independent members; compensation and per diems not stated",
+    "section": "Section 11 (Organizational Structure and Governance)"
+   },
+   {
+    "item": "Digital systems",
+    "detail": "Establishment of interoperable digital finance, credit scoring, identity verification and cybersecurity systems; cost not stated",
+    "section": "Section 9 (Digital Finance and Innovation Systems)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 4 (Creation of the Philippine MSME Financing Corporation (PMFC)) creates a government-owned and controlled corporation but the bill does not state its authorized capital stock, equity contribution or subscription.",
+   "Confirm the extent of overlap between the proposed Corporation and Small Business Corporation, Land Bank of the Philippines and Development Bank of the Philippines, which Section 4 names.",
+   "Section 11 (Organizational Structure and Governance) does not provide for the appointment, term, qualifications or compensation of directors and of the President and Chief Executive Officer, nor for a staffing pattern.",
+   "Section 16 (Appropriations) allows the Corporation to borrow, but no borrowing limits or government guarantee provisions are stated.",
+   "Section 8 (Credit Guarantee and Risk-Sharing Programs) does not set a ceiling on guarantee exposure or establish a guarantee fund.",
+   "Section 10 (Financial Literacy and Enterprise Development) makes enterprise development programs mandatory for all borrowers; confirm the cost and implementing responsibility.",
+   "Confirm the current status of the bill with the House of Representatives."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Section 3 (Definition of Terms) adopts the definition of MSMEs under RA No. 9501 (Magna Carta for MSMEs), which also governs development and assistance programs for MSMEs.",
+   "section": "HB-20-9506:s3",
+   "quote": "“MSMEs” shall refer to micro, small, and medium enterprises as defined under Republic Act No. 9501 or the “Magna Carta for MSMEs”",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-22T00:03:51+00:00"
+ }
+}
