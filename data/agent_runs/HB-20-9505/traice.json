@@ -1,0 +1,73 @@
+{
+ "output": {
+  "target": "HB-20-9505",
+  "entity_proposed": "National Export Logistics Competitiveness Council (NELCC)",
+  "proposal": "HB No. 9505 seeks to strengthen the competitiveness of Philippine exports by modernizing export logistics, trade facilitation, digital interoperability and supply chain infrastructure, including a Single Electronic Export Window and a target to reduce export logistics costs by at least thirty percent within five years. It proposes to create the National Export Logistics Competitiveness Council (NELCC), an inter-agency body chaired by the Secretary of Trade and Industry, to coordinate implementation.",
+  "alignment": "As a government organization and mandates measure, the review should examine how the NELCC's coordinating functions under Section 6 (Powers and Functions of the Council) fit with those of existing bodies, including the National Competitiveness Council, and whether a new inter-agency council is consistent with the streamlining of the Executive branch and the reduction of overlapping functions under the Government Optimization Act (RA No. 12231). The measure aligns with the Infrastructure Development priority area of the FY 2027 Budget Priorities Framework through Section 11 (Infrastructure Alignment and Logistics Corridors), and with the Digitalization priority area, which focuses on interoperable digital platforms, through Section 7 (Establishment of the Single Electronic Export Window). The measure is not identified in the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 9505 was filed in the 20th Congress on May 28, 2026 by Representative Ferdinand Martin G. Romualdez.",
+   "The bill is pending at the filing stage; later stages are not reflected in the available records.",
+   "No earlier version, counterpart measure in the Senate, substitute bill or committee report was identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [
+   {
+    "law": "EO-44-2011",
+    "label": "Overlapping functions",
+    "overlap": "Based on its title only, the National Competitiveness Council may overlap with the competitiveness coordination functions of the NELCC under Section 5 (Creation of the National Export Logistics Competitiveness Council) and Section 6 (Powers and Functions of the Council); the text was not reviewed.",
+    "section": "law:EO-44-2011",
+    "quote": "RENAMING THE PUBLIC-PRIVATE SECTOR TASK FORCE ON PHILIPPINE COMPETITIVENESS AS THE NATIONAL COMPETITIVENESS COUNCIL (NCC) AND EXPANDING ITS MEMBERSHIP"
+   }
+  ],
+  "salient_features": "HB No. 9505 seeks to modernize the export logistics system and to create the National Export Logistics Competitiveness Council (NELCC) as the primary inter-agency body for its implementation. Its salient features are as follows:\na. Section 3 (Objectives) provides that the measure aims, among others, to reduce total export logistics costs by at least thirty percent within five years, digitize export procedures and reduce cargo dwell time and port congestion.\nb. Section 5 (Creation of the National Export Logistics Competitiveness Council) provides that the Council shall be chaired by the Secretary of Trade and Industry, with members from the Departments of Finance, Transportation, Agriculture and Information and Communications Technology, NEDA, the Bureau of Customs, the Philippine Ports Authority, the Philippine Competition Commission, and exporters' and logistics industry associations; no secretariat or plantilla positions are specified.\nc. Section 6 (Powers and Functions of the Council) provides that the Council shall formulate a National Export Logistics Competitiveness Roadmap, set annual targets and benchmarks, harmonize export requirements, monitor agency compliance, recommend reforms and report annually to Congress and the Office of the President.\nd. Section 7 (Establishment of the Single Electronic Export Window) provides that export-processing agencies shall fully integrate their systems into a single paperless platform within two years.\ne. Section 8 (Service Delivery Standards and Trade Facilitation Measures) provides for maximum processing periods, risk-based inspection, green lane and automated processing, with administrative review of officials who fail to act within prescribed periods.\nf. Section 9 (Trusted Exporter and Green Lane Programs) provides that the Bureau of Customs shall establish a Trusted Exporter Program prioritizing MSME, agricultural and strategic manufacturing exporters.\ng. Section 10 (Port Efficiency and Logistics Performance Standards) provides that port authorities and operators shall publish performance indicators through a National Logistics Performance Dashboard.\nh. Section 11 (Infrastructure Alignment and Logistics Corridors) provides that infrastructure agencies shall prioritize connectivity projects and that the government may designate Export Logistics Corridors.\ni. Section 12 (MSME Export Support and Capacity Building) provides that DTI shall implement training and technical assistance programs for exporting MSMEs.\nj. Section 13 (Competition and Fair Trade Safeguards) provides that the Philippine Competition Commission shall monitor anti-competitive practices in the logistics and port services sectors.\nk. Section 14 (Logistics Innovation and Modernization Incentives) provides that the government may grant fiscal or non-fiscal incentives for logistics modernization investments, subject to existing laws.\nl. Section 15 (Data Governance and Transparency) provides that the PSA shall collect and publish export logistics performance data.\nm. Section 16 (Annual Reporting and Congressional Review) provides for an annual report to Congress and a congressional review every five years.\nn. Section 17 (Appropriations) provides that initial implementation shall be charged against the current appropriations of the concerned agencies, with continuing funding through the annual General Appropriations Act, and allows grants and technical assistance.\no. Section 18 (Implementing Rules and Regulations) provides that DTI shall issue the implementing rules within 120 days from effectivity.",
+  "related_measures_policy": "No related bill in the current or earlier Congresses was identified. The measure may be considered alongside Executive Order No. 44 (s. 2011), which constituted the National Competitiveness Council, as the functions of the NELCC under Section 5 (Creation of the National Export Logistics Competitiveness Council) and Section 6 (Powers and Functions of the Council) may overlap with existing competitiveness coordination mechanisms. The measure aligns with the Infrastructure Development and Digitalization priority areas of the FY 2027 Budget Priorities Framework. The review should assess whether a new inter-agency council is warranted in light of the Government Optimization Act (RA No. 12231), the cost to the concerned agencies of the system integration required under Section 7 (Establishment of the Single Electronic Export Window), and the fiscal implications of the incentives under Section 14 (Logistics Innovation and Modernization Incentives).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Charged against current appropriations of the concerned agencies; no amount stated",
+    "section": "Section 17 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Such sums as may be necessary, included in the annual General Appropriations Act",
+    "section": "Section 17 (Appropriations)"
+   },
+   {
+    "item": "Members",
+    "detail": "Inter-agency council of ex officio heads and private sector representatives; no compensation or secretariat specified",
+    "section": "Section 5 (Creation of the National Export Logistics Competitiveness Council)"
+   },
+   {
+    "item": "Systems integration",
+    "detail": "Integration of agency export systems into the Single Electronic Export Window within two years; no cost stated",
+    "section": "Section 7 (Establishment of the Single Electronic Export Window)"
+   },
+   {
+    "item": "Incentives",
+    "detail": "Possible fiscal or non-fiscal incentives for logistics modernization, subject to existing laws",
+    "section": "Section 14 (Logistics Innovation and Modernization Incentives)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm whether the Council requires a secretariat or support staff, as Section 5 (Creation of the National Export Logistics Competitiveness Council) does not designate one.",
+   "Verify the complete text of Section 4 (Definition of Terms), as the definition of trade facilitation appears incomplete.",
+   "Confirm the current designation of the NEDA Director General listed as a Council member in Section 5.",
+   "Assess the basis and feasibility of the thirty percent logistics cost reduction target in Section 3 (Objectives).",
+   "Confirm the current status of the bill with the House of Representatives."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Based on its title only, the National Competitiveness Council may overlap with the competitiveness coordination functions of the NELCC under Section 5 (Creation of the National Export Logistics Competitiveness Council) and Section 6 (Powers and Functions of the Council); the text was not reviewed.",
+   "section": "law:EO-44-2011",
+   "quote": "RENAMING THE PUBLIC-PRIVATE SECTOR TASK FORCE ON PHILIPPINE COMPETITIVENESS AS THE NATIONAL COMPETITIVENESS COUNCIL (NCC) AND EXPANDING ITS MEMBERSHIP",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-22T00:03:45+00:00"
+ }
+}
