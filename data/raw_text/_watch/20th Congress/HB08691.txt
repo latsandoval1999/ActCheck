@@ -1,0 +1,803 @@
+                            Republic of the Philippines
+                          House of Representatives
+                           Quezon City, Metro Manila
+                                                                    March 18, 2026
+                                                                     5:24 pm
+                           TWENTIETH CONGRESS
+                             First Regular Session
+
+                                           8691
+                           HOUSE BILL NO. ________
+
+
+                   Introduced by Hon. Kenneth T. Gatchalian
+
+
+                            EXPLANATORY NOTE
+
+       The right of the people to information on matters of public concern is
+enshrined in Article III, Section 7 of the 1987 Constitution. This right is a
+cornerstone of a functioning democracy, enabling citizens to meaningfully
+participate in governance, hold public officials accountable, and make
+informed decisions. However, despite this constitutional guarantee, access to
+government information in the Philippines remains uneven, inconsistent, and
+often dependent on internal policies rather than a uniform statutory
+framework.
+
+
+       At present, transparency mechanisms rely heavily on executive
+issuances, particularly Executive Order No. 2 (2016), which applies only to the
+Executive Branch. This fragmented approach leaves significant gaps in
+coverage, especially in the Legislative and Judicial branches, as well as in local
+government units and government-owned or controlled corporations. The
+absence of a comprehensive Freedom of Information (FOI) law has resulted in
+delays, denials, and procedural inconsistencies that undermine the public’s
+right to know.
+
+
+      This proposed Freedom of Information Act seeks to institutionalize and
+standardize access to information across all branches and instrumentalities of
+
+
+
+                                                                                 1
+government. It establishes a clear legal framework governing the disclosure of
+public records, the procedures for requesting information, and the
+responsibilities of government agencies to proactively publish key data. By
+mandating uniform timelines, clear grounds for denial, and accessible appeal
+mechanisms, the measure ensures that the right to information is not merely
+theoretical but fully enforceable.
+
+
+      The bill likewise introduces a system of proactive disclosure, requiring
+government agencies to regularly publish critical information such as budgets,
+procurement activities, contracts, development plans, and performance
+indicators. This reduces the need for formal requests and promotes a culture
+of openness. Complementing this is the institutionalization of digital
+platforms such as the FOI website and the Open Data Philippines portal,
+ensuring that information is accessible, searchable, and usable by the public.
+
+
+       At the same time, the measure carefully balances transparency with
+legitimate state interests. It provides narrowly tailored exceptions to
+disclosure, including matters involving national security, foreign relations,
+law enforcement, trade secrets, and personal privacy. These safeguards are
+aligned with existing laws such as Republic Act No. 10173, or the Data
+Privacy Act of 2012, and jurisprudential standards on privileged
+communication and due process. Importantly, the bill adopts a presumption
+in favor of disclosure, placing the burden on government agencies to justify
+any denial of access.
+
+
+       The proposed measure also strengthens institutional accountability by
+imposing administrative and criminal liabilities for unjustified refusal to
+disclose information, deliberate concealment, or destruction of public records.
+It further mandates the establishment of FOI units within agencies, the
+adoption of records management systems, and the submission of annual
+reports on FOI compliance. These mechanisms ensure that transparency is not
+only declared as policy but operationalized in practice.
+
+
+
+                                                                             2
+      In addition, the bill recognizes the importance of building a culture of
+transparency beyond government processes. It mandates capacity-building
+programs for public officials and integrates the principles of freedom of
+information, accountability, and good governance into the education
+curriculum. By doing so, it fosters a more informed and engaged citizenry that
+understands both its rights and responsibilities in a democratic society.
+
+
+      This measure is likewise consistent with the Philippines’ commitments
+under international frameworks such as the Open Government Partnership
+and global standards on transparency and access to information.
+Strengthening access to information is not only a matter of domestic
+governance but also a key component of promoting investor confidence,
+improving public service delivery, and combating corruption.
+
+
+      Ultimately, this proposed Freedom of Information Act affirms that
+transparency is not a privilege granted at the discretion of government, but a
+fundamental right of the people. By institutionalizing open access to
+information, establishing clear rules and safeguards, and promoting a culture
+of accountability, this measure seeks to bridge the gap between constitutional
+principle and everyday practice.
+
+
+     In view of the foregoing, the immediate passage of this bill is earnestly
+sought.
+
+
+
+
+                                           KENNETH T. GATCHALIAN
+
+
+
+
+                                                                             3
+                                    Republic of the Philippines
+                                 House of Representatives
+                                   Quezon City, Metro Manila
+
+                                   TWENTIETH CONGRESS
+                                     First Regular Session
+
+                                                   8691
+                                   HOUSE BILL NO. ________
+
+
+                         Introduced by Hon. Kenneth T. Gatchalian
+
+
+      AN ACT STRENGTHENING THE PEOPLE’S RIGHT TO INFORMATION
+
+     Be it enacted by the Senate and House of Representatives of the Philippines in
+           Congress assembled:
+
+                                     I. GENERAL PROVISIONS
+
+ 1             SECTION 1.        Title. – This Act shall be known as the “Freedom of
+ 2      Information Act.”
+
+ 3             SEC. 2. Declaration of Policy. – The State recognizes the right of the
+ 4      people to information on matters of public concern and adopts a policy of full
+ 5      public disclosure of all its transactions involving public interest, subject to the
+ 6      procedures and limitations provided by law.
+ 7             Every citizen shall be afforded access to official records, documents, and
+ 8      Papers pertaining to official acts, transactions or decisions, and government
+ 9      research data used as basis for policy development, subject to such limitations
+10      provided under this Act.
+11             This Act shall uphold and strengthen the right to information with due
+12      regard to the full protection of the right to privacy of individuals.
+13        SEC. 3.         Coverage. – This Act covers all government agencies in the
+14      executive, legislative, and judicial branches including departments, bureaus,
+
+
+
+
+                                                                                            1
+ 1   offices, agencies and instrumentalities of the national government, Constitutional
+ 2   Commissions and constitutionally mandated bodies; local government units and all
+ 3   their agencies; regulatory agencies; chartered institutions; government-owned-or-
+ 4   controlled corporations including wholly-owned or controlled subsidiaries;
+ 5   government financial institutions; state universities and colleges; the Armed
+ 6   Forces of the Philippines and the Philippine National Police; all offices in the
+ 7   Congress of the Philippines, including the offices of Senators and Representatives;
+ 8   and the Supreme Court and all lower courts established by law.
+ 9          SEC. 4. Definition of Terms. – As used in this Act:
+10      a) Dataset refers to an organized collection of data or information in a variety
+11   of forms including tabular, geo-spatial or image data files;
+12      b) Freedom of Information (FOI) request refers to a request made in
+13   accordance with the provisions of this Act;
+14      c) FOI Website refers to the website with address www.foi.gov.ph that shall
+15   serve as the government's comprehensive FOI website for all information on the
+16   FOI. It shall be the central resource for the public to:understand the FOl law,
+17   search data and records inventories of agencies, make a request for information
+18   that is not yet publicly available, track all FOI requests made by other citizens, and
+19   monitor agency performance in terms of FOI. The FOI website shall also be a
+20   platform for all government agencies to facilitate and address all FOl requests of
+21   the public;
+22      d) Information refers to data that have been processed into a record,
+23   documents, paper, report, letter, contract, minutes and transcripts of official
+24   meetings, maps, books, photographs, and research material in whatever form, or
+25   films, audio and video recordings, magnetic or other tapes and electronic data, in
+26   whatever format, which are made, received, and under the control and custody of
+27   any government agency pursuant to law, executive order, rules and regulations,
+
+
+
+
+                                                                                         2
+ 1   ordinance, or are in its possession in connection with the performance of its
+ 2   official duty or transaction;
+ 3      e) Machine-readable refers to formats that allow data to be extracted and
+ 4   processed by computer programs;
+ 5      f) Official record refers to information generated or received by a public
+ 6   officer or employee or by a government agency in an official capacity or pursuant
+ 7   to a public function or duty, but does not include the current status of the
+ 8   information;
+ 9      g) Open Data Philippines Website (www.data.gov.ph) refers to the official
+10   website containing all government data generated by agencies in the
+11   implementation of agency mandates, programs, activities, and projects. The
+12   website shall be the central repository of all searchable, understandable, and
+13   accessible government data;
+14      h) Open Format refers to information that is platform-independent, machine-
+15   readable, and made available to the public without restrictions that impede its
+16   reuse;
+17      i) Personal Information refers to any information, whether or not recorded in
+18   a material form, which reveals or describes the identity of an individual or from
+19   which such identity can be reasonably and directly ascertained by the entity
+20   handling the information, or when put together with other information, would
+21   directly and certainly identify an individual. It includes signatures, addresses,
+22   telephone numbers, identification numbers, names of family members, race or
+23   ethnicity, religion, health, education, sexual orientation, and other similar
+24   information;
+25      j) Public record refers to information required by law, executive orders, rules,
+26   or regulations to be entered, kept, and made publicly available by a government
+27   agency; and
+
+
+
+
+                                                                                      3
+ 1      k) Public service contractor refers to a private entity, domestic or foreign, that
+ 2   transacts or deals with the government or government agency or office that utilizes
+ 3   public funds, to provide any form of service or goods for the official use of such
+ 4   government agency or office.
+ 5                                  II. DUTY TO DISCLOSE
+
+ 6          SEC. 5. Mandatory Disclosure of Information. – a) Constitutionally-
+ 7   Mandated Disclosure of Statement of Assets, Liabilities, and Net Worth (SALN) –
+ 8   Pursuant to the mandate of Section 17, Article XI of the Constitution, the
+ 9   following public officials and employees shall make their annual SALN
+10   declaration available and accessible in the official website of their respective
+11   offices:
+12                 1) President;
+13                 2) Vice-President;
+14                 3) Members of the Cabinet;
+15                 4) Members of Congress;
+16                 5) Justices of Supreme Court;
+17                 6) Members of Constitutional Commissions and other constitutional
+18          offices; and
+19                 7) Officers of the Armed Forces of the Philippines with general or
+20          flag rank.
+21          b) Disclosure of information in agency websites – All agencies and
+22          branches of the government shall publish in their websites and update on a
+23          monthly basis the following information in full:
+24                 1) Freedom of Information Manual;
+25                 2) Rules of procedure, description of forms available, the places at
+26         which forms may be obtained, and instructions as to the scope and contents
+27         of all papers, reports, or examinations;
+
+
+
+
+                                                                                        4
+ 1          3) Substantive rules of general applicability adopted as authorized
+ 2   by law, and statements of general policy or interpretations of general
+ 3   applicability formulated and adopted by the agency, including subsequent
+ 4   amendments;
+ 5          4) Public documents or records including;
+ 6             i)      Annual budget of government agencies;
+ 7             ii)     Itemized monthly collections and disbursement;
+ 8             iii)    Summary of income and expenditures;
+ 9             iv)     Annual procurement plan and procurement list;
+10             v)      Items for bidding;
+11             vi)     Bid results on civil works, and goods and services projects;
+12             vii)    Abstract of bids as calculated;
+13             viii)   Procurement contracts entered into by the government
+14                     agency;
+15             ix)     Construction or concession agreements or contracts
+16                     entered into by the government agency with any public
+17                     service contractor or domestic or foreign person or entity;
+18             x)      Private sector participation agreements or contracts in
+19                     infrastructure and development projects under Republic
+20                     Act No. 6957, otherwise known as "An Act Authorizing the
+21                     Financing, Construction, Operation and Maintenance of
+22                     Infrastructure Projects by the Private Sector and for Other
+23                     Purposes" as amended by Republic Act No. 7718,
+24                     otherwise known as the "Build Operate and Transfer
+25                     Law," authorizing the financing, construction, operation,
+26                     and maintenance of infrastructure projects and such
+27                     amendatory law thereto;
+28             xi)     Public funding extended to any private entity;
+
+
+
+
+                                                                                     5
+ 1   xii)    Licenses, permits, or agreements granted by any
+ 2           government agency for the extraction or utilization of
+ 3           natural resources, as well as the list of persons or entities
+ 4           who were granted the same;
+ 5   xiii)   An updated plantilla of positions including unfilled
+ 6           positions in the public office or agency, and the
+ 7           qualifications and requirements for each unfilled position;
+ 8   xiv)    Compromise agreements entered into by the government
+ 9           agency with any person or entity;
+10   xv)     Work programs, development plans, investment plans,
+11           projects, performance targets, and accomplishments;
+12   xvi)    Audited financial statements, annual budgets, revenue
+13           allotments and expenditures;
+14   xvii) Guarantees      given   by    any   government     agency    to
+15           government-owned or -controlled corporations and to
+16           private corporations, persons or entities;
+17   xviii) Utilization of the Internal Revenue Allotment (IRA),
+18           Special Education Fund, Local Disaster Risk Reduction
+19           Management Fund, Local Development Fund, and other
+20           local government unit (LGU) funds;
+21   xix)    Bilateral or multilateral agreements and treaties in trade,
+22           economic partnerships, investments, cooperation and
+23           similar binding commitments; and
+24   xx)     Loans from domestic and foreign financial institutions,
+25           loans and grants for development assistance, technical
+26           assistance, utilization of all form of donations for calamity-
+27           stricken areas and programs entered into by a government
+
+
+
+
+                                                                           6
+ 1                                agency with official bilateral or multi-lateral agencies, as
+ 2                                well as with private aid agencies or institutions.
+ 3               All government agencies shall ensure that their websites comply with the
+ 4   provisions of this Act within two (2) years from its effectivity.
+ 5               In case an agency lacks the capacity to comply with the website publication
+ 6   requirement of this section, the agency shall initiate a capacity-building program,
+ 7   coordinate with another appropriate agency, or use an alternative mechanism to
+ 8   facilitate substantive compliance not later than two (2) years from the effectivity of
+ 9   this Act.
+10               SEC. 6. Promotion of Openness in Government – a) Duty to Publish
+11      Information – Every government agency shall regularly publish, print, and
+12      disseminate in an accessible form through its website and at no cost to the public,
+13      the true, accurate, and updated key information including the following:
+14                  1) description of its mandate, structure, powers, functions, duties, and
+15               decision-making processes;
+16                  2) description of the frontline services it delivers and the procedure and
+17               length of time by which they may be availed of;
+18                  3) the names of its key officials, their powers, functions, and
+19               responsibilities, their profiles and curriculum vitae;
+20                  4) work programs, development plans, investment plans, projects,
+21               performance targets and accomplishments, budgets, revenue allotments,
+22               and expenditures;
+23                  5) important rules and regulations, orders, or decisions: Provided, That
+24               the same shall be published within fifteen (15) calendar days from
+25               promulgation;
+26                  6) datasets generated in the implementation of agency mandates,
+27               programs, activities, and projects such as statistics, figures, and geospatial
+28               data;
+
+
+
+
+                                                                                             7
+ 1             7) current and important database and statistics that the database
+ 2          generates;
+ 3             8) bidding processes and requirements; and
+ 4             9) mechanisms or procedures by which the public may participate in or
+ 5          otherwise influence the formulation of policy or the exercise of its powers.
+ 6          b) Accessibility of Language and Form – Every government agency shall
+ 7          endeavor to translate key information into Filipino and the regional
+ 8          languages, and present them in popular form and means.
+ 9          SEC. 7. Publication of Government Data in the Open Data Philippines
+10   Website. – For purposes of enhancing the public's access to government
+11   information and abiding by the international commitments of the Philippines to
+12   transparency and government openness, all government agencies shall publish in
+13   the Open Data Philippines website, datasets generated in the implementation of
+14   agency mandates, programs, activities, and projects. These datasets shall be
+15   updated, whenever permissible, at least once in every quarter of every year, and
+16   shall be, whenever practicable, in a machine-readable and open format.
+17          The Open Data Philippines website shall be maintained and administered by
+18   an Open Data Task Force under the Office of the President, or any such similar
+19   body designated by the President of the Philippines for this purpose.
+
+20                       III.       THE RIGHT TO INFORMATION
+
+21                               A. Access to Information
+22          SEC. 8. Access to Information – Every Filipino citizen has a right to and
+23   shall, upon request, be given access to any record under the control of a
+24   government agency. Government agencies and public officials have the duty to
+25   disclose and make available for scrutiny, copying, and reproduction in the manner
+26   provided by this Act, all information pertaining to official acts, transactions, or
+27   decisions as well as government research data used as a basis for policy
+
+
+
+
+                                                                                           8
+ 1   development, subject to the exceptions enumerated under Section 10 of this Act,
+ 2   regardless of the physical form or format in which they are contained and by
+ 3   whom they were made.
+ 4          Except as provided in this Act, actions, transactions, or records of private
+ 5    individuals and public officials in their private capacity shall not be the subject of
+ 6    mandatory disclosure under this Act: Provided, That the SALN of public officials
+ 7    shall be released in accordance with Section 8 of Republic Act No. 6713,
+ 8    otherwise known as the "Code of Conduct and Ethical Standards for Public
+ 9    Officials and Employees."
+10          SEC. 9. Presumption in Favor of Access to Information. – There shall be
+11   a legal presumption in favor of access to information. The request for information
+12   may be denied only if it clearly falls under the exceptions provided under Section
+13   10 of this Act. Government agencies shall have the burden of proving that the
+14   information requested is exempted from disclosure.
+15          SEC. 10. Exceptions. – Access to information shall be granted unless:
+16           a) The information is specifically authorized to be kept secret under
+17   guidelines established by an executive order, and properly classified pursuant
+18   thereto: Provided, That,
+19                1) the information directly relates to national security or defense and
+20           its revelation may cause grave damage to the national security or internal
+21           and external defense of the State; or
+22                2) the information requested pertains to the foreign affairs of the
+23           Republic of the Philippines, and its revelation shall unduly weaken the
+24           negotiating position of the government in an ongoing bilateral or
+25           multilateral negotiation or seriously jeopardize the diplomatic relations of
+26           the Philippines with one or more States: Provided, That sufficient
+27           information is disclosed to afford reasonable public participation and
+28           government decision-making on bilateral and multilateral agreements:
+
+
+
+
+                                                                                          9
+ 1           Provided, further, That the executive order shall specify the reasonable
+ 2           period after which the information shall be automatically declassified or be
+ 3           subject to mandatory declassification review after six (6) years, and that
+ 4           any reasonable doubt as to classification and declassification shall be
+ 5           settled in favor of the right to information: Provided, finally, That all
+ 6           classified information contained in all government agency records that:
+ 7           (1) are more than twenty-five (25) years old, and (2) have been determined
+ 8           to have historical value shall be automatically declassified whether or not
+ 9           the records have been reviewed. Subsequently, all classified information in
+10           such records shall be automatically declassified no longer than twenty-five
+11           (25) years from the date of its original classification.
+12           b) the information discloses investigatory records compiled for law
+13   enforcement purposes or information which are contained in such records, but only
+14   to the extent that the production of such records or information will:
+15               1) reasonably be expected to interfere with enforcement proceedings;
+16               2) deprive a person of the right to a fair trial or an impartial
+17           adjudication;
+18               3) reasonably be expected to constitute an unwarranted invasion of
+19           privacy;
+20               4) the information is furnished by a confidential source and in the case
+21           of a record compiled by a criminal law enforcement authority in the course
+22           of a criminal investigation, or by an agency conducting a lawful national
+23           security intelligence investigation, confidential information is furnished
+24           only by the confidential source;
+25               5) unjustifiably disclose investigative or prosecutorial techniques and
+26           procedures; or
+27               6) reasonably be expected to endanger the life or physical safety of any
+28           individual;
+
+
+
+
+                                                                                      10
+ 1         c)   the information pertains to a testimony, report, document, or discussion
+ 2   obtained during an executive session of the Congress of the Philippines or any of
+ 3   its Committees;
+ 4         d)   the information pertains to the personal information of a natural person,
+ 5   whether from the public or the private sector, and its disclosure constitutes an
+ 6   unwarranted invasion of personal privacy, unless such information is specifically
+ 7   required by law to be entered into an official record and made available to the
+ 8   public, or the person has consented in writing to the disclosure of the information.
+ 9   To the extent required to prevent an unwarranted invasion of personal privacy, an
+10   agency may redact such information from a record made available to the public.
+11   The justification for the redaction shall be explained fully in writing, and the
+12   extent of such redaction shall be indicated on the portion of the record which is
+13   made available or published;
+14         e)   the information pertains to trade secrets, commercial or financial
+15   information, or intellectual property obtained from a natural or juridical person
+16   other than the requesting party, and the revelation thereof will seriously prejudice
+17   the interests of such natural or juridical person in trade, industrial, financial, or
+18   commercial competition;
+19         f)   the information is classified as privileged communications in legal
+20   proceedings by law or by the Rules of Court, unless the person entitled to the
+21   privilege has waived it;
+22         g)   the information is exempted from disclosure by the Constitution by
+23   law; and
+24         h)   when prematurely disclosed, the information would, in case of a
+25   government agency that regulates financial institutions and the financial markets
+26   that they deal in, such as commodities, interest rates, and security markets, likely
+27   lead to fraud, manipulation, or other unlawful acts or schemes involving financial
+28   instruments, or, in the case of other government agencies, likely impede the
+
+
+
+
+                                                                                       11
+ 1   effective implementation of a proposed official action; Provided, That the
+ 2   information shall be accessible once the anticipated danger has ceased.
+ 3          For paragraphs (b) to (h) of this Section, the determination of whether any
+ 4   of these grounds apply shall be the responsibility of the head of office of the
+ 5   government agency in custody or control of the information, or any responsible
+ 6   central or field officer duly designated by the head of office: Provided, That with
+ 7   regard to collegial bodies, boards, commissions, or other courts, the chairperson or
+ 8   presiding officer or member is deemed the head of office for purposes of this
+ 9   provision.
+10          SEC. 11. Qualifications to the Exceptions. – The exceptions in the
+11   preceding section shall be strictly construed and may not be invoked to cover up a
+12   crime, wrongdoing, graft, or corruption. Whenever the information covered by an
+13   exception may be reasonably severed from a record, the record shall be released
+14   with the exempt information redacted, or the information not covered by the
+15   exception shall otherwise be communicated to the requesting party.
+16          The     President, the   Supreme    Court,   the Senate,     the House of
+17   Representatives, and the Constitutional Commissions may waive an exception with
+18   respect to information in the custody of offices under their respective supervision
+19   or control, when they deem that there is an overriding public interest in disclosure.
+20          SEC. 12. Exemption from Compliance. – The government agency shall be
+21   excused from complying with a subsequent identical or substantially similar
+22   request from the same requesting party where it has previously complied with a
+23   request for information unless a reasonable interval has lapsed between
+24   compliance with the previous request and the making of the current request, or
+25   unless the information has already been made available in the website: Provided,
+26   That the government agency, in denying the request, shall comply with Section 16
+27   of this Act.
+
+
+
+
+                                                                                        12
+ 1          SEC. 13. Additional Protection of Privacy. – While providing for access to
+ 2   information in public records, the right to privacy of individuals shall at all times
+ 3   be protected in the following manner:
+ 4          a) A government agency shall ensure that personal information in its
+ 5   custody or under its control is disclosed only as permitted under this Act;
+ 6          b) A government agency shall protect personal information in its custody
+ 7   or under its control by making reasonable security arrangements against such risks
+ 8   as unauthorized access, collection, use, disclosure, or disposal;
+ 9          c) A director, officer or employee of a government agency who has access,
+10   whether authorized or unauthorized, to personal information in the custody of the
+11   agency, shall not disclose that information except as authorized under this Act.
+12                                B. Procedure of Access
+13          SEC. 14. Procedure of Access. – The following procedure shall govern the
+14   filing and processing of a request for access to information:
+15          a)   Any person who requests access to information shall submit an FOI
+16   request to the government office concerned. The request shall state the name and
+17   contact information of the requesting party, provide valid proof of the
+18   identification of the requesting party, reasonably describe the information
+19   requested and the reason for, or purpose of, the request for information: Provided,
+20   That no request shall be denied or refused acceptance unless the reason for the
+21   request is contrary to law or existing rules and regulations or the information
+22   requested is provided under Section 10 of this Act. The public official receiving
+23   the request shall provide reasonable assistance to enable all requesting parties,
+24   particularly those with special needs, to comply with the necessary requirements
+25   under this section;
+26          b)   The receiving government office shall indicate on the request the date
+27   and time of receipt, and the name, rank, title, and position of the receiving public
+28   officer or employee who shall correspondingly sign the request. A copy of the
+
+
+
+
+                                                                                        13
+ 1   request shall be furnished to the requesting party. Each government office shall
+ 2   establish a tracking system to monitor the status of all requests for information
+ 3   received by it;
+ 4          c)   Unless an earlier period is provided under existing laws, the
+ 5   government office shall respond to a request that is fully compliant with
+ 6   requirements of sub-section (a) hereof as soon as practicable, but not exceeding
+ 7   fifteen (15) working days from receipt of the request. The agency's response may
+ 8   either be to grant or deny access to the information requested; and
+ 9          d)   The period to respond may be extended whenever the information
+10   requested requires extensive search of the government office's records facilities,
+11   examination of voluminous records, the occurrence of fortuitous events or other
+12   analogous cases. The government office shall notify the person making the
+13   request of the extension, setting forth the reasons for such extension. In no case
+14   shall the extension go beyond twenty (20) working days unless exceptional
+15   circumstances warrant a longer period.
+16          Once a decision is made to grant the request, the requesting party shall be
+17   notified of such decision and directed to pay a reasonable fee.
+18          The same procedure applies when requesting through the FOI website,
+19   except that the requesting party shall file the FOI request at www.foi.gov.ph.
+20          SEC. 15. Access and Processing Fees – Government offices shall not
+21   charge any fee for accepting requests for access to information. They may,
+22   however, charge a reasonable fee to reimburse necessary costs, including actual
+23   costs of reproduction and copying of the information requested, subject to existing
+24   rules and regulations. In no case shall the applicable fees be so onerous as to defeat
+25   the purpose of this Act.
+26          SEC. 16. Notice of Denial. – If the government office decides to deny the
+27   request in whole or in part, it shall as soon as practicable, and in any case within
+28   fifteen (15) working days from the receipt of the request, notify the requesting
+
+
+
+
+                                                                                        14
+ 1      party of the denial in writing. The notice shall clearly state the ground or grounds
+ 2      for denial and the circumstances on which the denial is based.
+ 3             SEC. 17. Remedies in Cases of Denial. – a) In all government agencies
+ 4      other than the Judicial Branch:
+ 5                   1) The requesting party shall be informed in writing of the decision
+ 6              within fifteen (15) working days from the receipt of the request. Denial of
+ 7              any request for access to information may be appealed to the person or
+ 8              office next higher in authority following the procedure provided in the FOI
+ 9              Manual as required in Section 25, paragraph (h) of this Act: Provided, That
+10              the written appeal must be filed by the same person making the request
+11              within fifteen (15) calendar days from the notice of denial, or from the
+12              lapse of the period to respond to the request;
+13                   2) The appeal shall be decided by the person or office next higher in
+14              authority within thirty (30) working days from the filing of said written
+15              appeal. If the appeal is granted, the requested information shall be released
+16              within fifteen (15) working days to the requesting party from the date of the
+17              decision. Failure to decide within the period shall be deemed an approval
+18              and will always be considered in favor of access unless prohibited due to
+19              exceptions. Denial should also be in writing; and
+20                   3) Upon the denial of the appeal, the requesting party may file the
+21              appropriate case in the proper courts in accordance with the Rules of Court.
+22              b) In the Judicial Branch – The Judiciary shall be governed by remedies as
+23              promulgated by the Supreme Court.
+24            The remedies under this section shall be sought or granted without prejudice
+25   to any other administrative, civil, or criminal action covering the same act.
+26            In case the requesting party has limited or no financial capacity, the Public
+27   Attorney’s Office is mandated to provide legal assistance to the requesting party in
+28   availing the remedies provided under this Act.
+
+
+
+
+                                                                                          15
+ 1                           IV.LIABILITIES AND PENALTIES
+ 2          SEC. 18. Administrative Liability. – Depending on the gravity and
+ 3   repetition of the act, the following acts shall be tantamount to neglect of duty,
+ 4   refusal to perform official duty, or some other appropriate charge under existing
+ 5   rules of the Civil Service Commission, and shall constitute grounds for
+ 6   administrative and disciplinary sanction against any public official or employee:
+ 7          a) refusal to promptly forward the FOI request, pursuant to Section 14
+ 8   herein, to the public officer within the same office or agency responsible for
+ 9   officially acting on the request when such is the direct cause of the failure to
+10   disclose the information within the periods required under this Act;
+11          b) failure to act on the request within periods required under this Act;
+12          c) claim of an exception under Section 10 of this Act when the claim is
+13   manifestly devoid of factual or legal basis;
+14          d) refusal to comply with the decision of an immediate supervisor or of any
+15   court ordering the release of information; and
+16          e) approval of policies, rules and regulations manifestly contrary to the
+17   provisions of this Act, and which policies, rules and regulations are the direct
+18   cause of the denial of a request for information.
+19          SEC. 19. Criminal Liability – a) The commission of the following acts by a
+20   public officer or employee shall be subject to the penalty of imprisonment of not
+21   less than one (1) month, but not more than six (6) months, with the accessory
+22   penalty of dismissal from the service:
+23                (1) falsely denying or concealing the existence of information
+24         mandated for disclosure under this Act; and
+25                (2) destroying, or causing to be destroyed, information or documents
+26         being requested under this Act for the purpose of frustrating the requesting
+27         party's access thereto.
+
+
+
+
+                                                                                         16
+ 1         (b) Any private individual who knowingly induces or causes the commission
+ 2         of the foregoing acts shall be liable as principal by inducement in the
+ 3         prosecution of public officials or employees under this section.
+ 4          SEC. 20. Denial in Good Faith Not a Ground for Liability. – A denial in
+ 5   good faith of a request for access to information made pursuant to the provisions of
+ 6   this Act shall not constitute a ground for administrative or criminal liability.
+ 7          SEC. 21. Act Not a bar to Claim of Right to Information Under the
+ 8   Constitution. – No provision of this Act shall be interpreted as a bar to any claim
+ 9   of the right to information under Article III, Section 7 of the 1987 Constitution.
+10                    V. ADMINISTRATIVE DUTIES OF AGENCIES
+11          SEC. 22. One-Stop Shop. – Each government office is mandated to have a
+12   one-stop shop for the services made available by this Act.
+13          SEC. 23. Release to One, Release to All. – For purposes of streamlining
+14   requests of information, an information that has been made available to an
+15   individual through a request for information shall also be published in an
+16   appropriate website such as the FOI website, the Open Data Philippines website,
+17   Official Gazette Online, departmental website, or local government website, thus
+18   allowing the public access to all information that has been requested.
+19          SEC. 24. Tracking of Requests for Information. – Websites of government
+20   agencies shall contain a matrix of requests made, their status, and the decision
+21   regarding the request. The matrix shall also contain links to uploaded information
+22   from approved requests. In such cases where requests are denied, the matrix shall
+23   contain the reasons for denial and the status of the appeal of such is made.
+24          SEC. 25. Freedom       of   Information    Manual.     –   For    the   effective
+25   implementation of this Act, all government agencies shall prepare an FOI Manual,
+26   setting forth of the following:
+
+
+
+
+                                                                                          17
+ 1              a) the location and contact information of the central, regional, provincial
+ 2       and field office of the agency, and such other established place where the public
+ 3       can obtain information or submit requests;
+ 4              b) the types of information it generates, holds, or publishes;
+ 5              c) a description of its record-keeping system;
+ 6              d) the person or office responsible for receiving requests for information;
+ 7              e) the procedure for the filing of requests personally, by mail or through
+ 8       the identified electronic means;
+ 9              f) the standard forms for the submission of requests and for the proper
+10       acknowledgement of requests;
+11              g) the process for the disposition of requests, including the routing of
+12       requests to the persons or offices with the duty to act on the same and the
+13       decision-making processes for the grant or denial of requests;
+14              h) the procedure for the administrative appeal of any denial for access to
+15       information;
+16              i)   the schedule of service or processing fees pertinent to requests for
+17       information;
+18              j)   the process and procedure for the mandatory disclosure of information
+19       under Section 6 of this Act: Provided, That, should the agency lack the capacity to
+20       comply with Section 6 of this Act, a brief description of its plan to facilitate
+21       compliance within three (3) years from the approval of this Act; and
+22              k) such other information that will help facilitate the effective
+23       implementation of this Act, taking into consideration the unique characteristics of
+24       the agency.
+25             The FOI Manual shall also be posted in the agency website and a hard copy
+26   shall be available at the agency reception area for use by the public.
+
+
+
+
+                                                                                          18
+ 1             In no case, however, shall the absence of the aforementioned FOl Manual
+ 2   be a reason for the denial of any request for information made in accordance with this
+ 3   Act.
+ 4             The head of the departments and agencies may designate liaison units or
+ 5   committees which shall coordinate with the other units of the agency in implementing
+ 6   this Act. The composition, functions, and duties of these liaison units or committees
+ 7   shall be included in the FOl Manual.
+ 8             SEC. 26. Records Management. – Subject to existing laws, rules, and
+ 9      regulations, government offices shall create and maintain an accurate and complete
+10      record of important information in appropriate formats, and implement a records
+11      management       system      that   facilitates   easy   identification,   retrieval   and
+12      communication of information to the public.
+13             SEC. 27. Annual Reports on Actions Taken on Requests for Access to
+14      Information. – All government agencies shall prepare, for each fiscal year, a report
+15      on the number of requests for information received, processed, granted and denied;
+16      of appeals made from denials of such requests; and of pending court actions they
+17      are a party to as a result of such requests. These reports may be integrated in the
+18      main annual reports of government agencies and may be posted and published in
+19      their respective websites.
+20                                VI.MISCELLANEOUS PROVISIONS
+21             SEC. 28. Capacity-Building and Roles of the Department of Information
+22      and Communications Technology (DICT). – Every government agency shall
+23      ensure the provision of adequate training for its officials and employees to improve
+24      awareness of the people's right to information on matters of public concern and the
+25      provisions of this Act. Similarly, every government agency shall endeavor to study
+26      and adopt best practices in relation to information disclosure, records maintenance,
+27      and archiving.
+
+
+
+
+                                                                                                19
+ 1          The DICT shall monitor all government agency websites for compliance
+ 2   with Section 5 of this Act and render the appropriate technical support to
+ 3   government agencies to enable their compliance.
+ 4          In the performance of its monitoring and support function of government
+ 5   websites and portals, the DICT shall endeavor to continuously develop, improve,
+ 6   and update its information technology system taking into consideration usability
+ 7   and practical accessibility of government documents by the public.
+ 8          The DICT shall set the standards for the file formats and the system of
+ 9   archival and preservation of information to be used by all government agencies in
+10   the implementation of this Act.
+11          SEC. 29. Integration of Freedom of Information and Good Governance in
+12   Elementary and Secondary Curricula. – To ensure well-informed generations of
+13   citizens, the right to information, the principles of accountability and transparency,
+14   democracy and leadership, and good governance shall be integrated in such
+15   subjects as "Heyograpiya, Kasaysayan at Sibika (HEKASI)" and "Araling
+16   Panlipunan" in the elementary level and in such subjects as Social Studies and
+17   "Makabayan" or its equivalent subjects in the high school level. The Department
+18   of Education, in coordination with the Civil Service Commission and other
+19   relevant offices, shall prepare the necessary modules and teaching programs
+20   consistent with the objectives of this Act.
+21          SEC. 30. Congressional Oversight Committee. – There is hereby created a
+22   Congressional Oversight Committee which shall be composed of six (6) members
+23   from the Senate and six (6) members from the House of Representatives with the
+24   Chairpersons of the Committee on Public Information and Media of the Senate and
+25   the Committee on Public Information of the House of Representatives as joint
+26   Chairpersons of this Committee. The five (5) other members from each chamber
+27   are to be designated by the Senate President and the Speaker of the House of
+
+
+
+
+                                                                                        20
+ 1   Representatives, respectively. The minority shall be entitled to pro rata
+ 2   representation but shall have at least two (2) representatives from each chamber.
+ 3          SEC. 31. Appropriations. – The amount necessary to carry out the
+ 4   provisions of this Act shall be charged against the agencies' current budget and
+ 5   shall thereafter be included in the annual General Appropriations Act.
+ 6          SEC. 32. Separability Clause. – If any provision or part of this Act is held
+ 7   unconstitutional, the remainder of this Act or any provisions not affected thereby
+ 8   shall remain in full force and effect.
+ 9          SEC. 33. Repealing Clause. – Section 3, Rule IV of the Rules
+10   Implementing Republic Act No. 6713, otherwise known as the "Code of Conduct
+11   and Ethical Standards for Public Officials and Employees," is hereby repealed.
+12   Memorandum Circular No. 78, dated 14 August 1964, otherwise known as
+13   "Promulgating Rules Governing Security of Classified Matter in Government
+14   Offices" shall be deemed amended one (1) year after the effectivity of this Act. All
+15   other laws, decrees, executive orders, rules and regulations, issuances,
+16   memorandum circulars or any part thereof inconsistent with the provisions of this
+17   Act are hereby repealed or amended accordingly.
+18          SEC. 34. Effectivity. - This Act shall take effect fifteen (15) days after its
+19   publication in the Official Gazette or in a national newspaper of general
+20   circulation.
+            Approved,
+
+
+
+
+                                                                                         21
+
