@@ -1,0 +1,57 @@
+{
+ "output": {
+  "target": "HB-20-9572",
+  "entity_proposed": "Philippine Science Diplomacy Office (the Office)",
+  "proposal": "HB No. 9572 seeks to institutionalize and mainstream science diplomacy in Philippine governance and foreign policy, and to create the Philippine Science Diplomacy Office under the Office of the President to coordinate, mainstream and monitor its implementation.",
+  "alignment": "As a government organization measure, the review should examine how the functions of the proposed Office in Section 9 (Powers and Functions of the Office) and the inter-agency mechanism in Section 10 (Inter-Agency Coordination Mechanism) fit with the existing mandates of the Department of Foreign Affairs (DFA), the Department of Science and Technology (DOST), the Department of Economy, Planning, and Development (DEPDev), the Commission on Higher Education (CHED) and the Foreign Service Institute, and whether a new office under the Office of the President is consistent with the government's intent to streamline agencies and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The review may also assess whether the coordination role could be lodged in an existing body. No direct match with the FY 2027 Budget Priorities Framework priority areas or the LEDAC Common Legislative Agenda was identified.",
+  "legislative_history": [
+   "HB No. 9572 was filed in the 20th Congress on June 1, 2026; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "No earlier version, counterpart measure in the Senate, substitute bill or committee report was identified."
+  ],
+  "related": [],
+  "existing_law_overlaps": [],
+  "salient_features": "HB No. 9572, or the proposed Philippine Science Diplomacy Mainstreaming Act, seeks to institutionalize science diplomacy as a whole-of-government approach and to create the Philippine Science Diplomacy Office under the Office of the President. Its salient features are as follows:\na. Section 2 (Declaration of Policy) provides that the State shall institutionalize science diplomacy in foreign policy, development planning, disaster risk reduction, public health, education and environmental governance, consistent with the DFA's mandate over foreign relations and the country's ASEAN and international commitments.\nb. Section 3 (Definition of Terms) defines science diplomacy in three dimensions: science in diplomacy, diplomacy for science, and science for diplomacy.\nc. Section 4 (Mainstreaming of Science Diplomacy) provides that all national government agencies shall integrate science diplomacy into their plans and programs within their mandates and existing appropriations, with the DFA, the DOST and NEDA ensuring its reflection in foreign policy, the Philippine Development Plan and the national science and technology agenda.\nd. Section 5 (Priority Thematic Areas) lists priority areas, including human security and peace, water and resource diplomacy, food and nutritional security, health security and pandemic preparedness, and infrastructure and manufacturing.\ne. Section 6 (Creation of the Philippine Science Diplomacy Office) creates the Office under the Office of the President as the primary coordinating and monitoring body, without supplanting the functions of the DFA, the DOST and other agencies.\nf. Section 7 (Composition and Term) provides that the Office shall be headed by a Director-General with the rank, salary and privileges of a Secretary, assisted by two Deputy Directors-General (Scientific and Technical Affairs; Diplomatic and International Affairs), all appointed by the President, with the Director-General serving a five-year term subject to the President's power of control and removal.\ng. Section 8 (Qualifications) sets citizenship, age, education and experience requirements for the Director-General and the Deputy Directors-General.\nh. Section 9 (Powers and Functions of the Office) tasks the Office to formulate a Philippine Science Diplomacy Agenda, coordinate international scientific cooperation, advise the President, the Cabinet and Congress, support Philippine representation in ASEAN and international fora, run capacity-building programs, monitor and evaluate initiatives, chair the inter-agency mechanism and report annually.\ni. Section 10 (Inter-Agency Coordination Mechanism) creates an inter-agency mechanism chaired by the Office and composed of Undersecretary-level representatives of eleven named departments and agencies and others as necessary.\nj. Section 11 (Non-Derogation Clause) preserves the powers of the DFA, the DOST and the President, with foreign relations laws prevailing in case of conflict.\nk. Section 12 (Annual Report and Congressional Oversight) requires an annual report within the first quarter of each year and regular review by the appropriate congressional committees.\nl. Section 13 (Appropriations) charges initial implementation to the current appropriations of the Office of the President and continuing funding to the annual General Appropriations Act.\nm. Section 14 (Implementing Rules and Regulations) requires the Office, with the DFA, the DOST, DEPDev and other agencies, to issue the implementing rules within ninety days.\nn. Section 15 (Transitory Provision) requires the Office to be operational within 180 days, with the Office of the President designating an interim office or official.",
+  "related_measures_policy": "No related bill or existing law with closely matching content was identified for HB No. 9572. The measure may be considered in the context of the existing mandates of the DFA over foreign relations and of the DOST over science and technology, which Section 6 (Creation of the Philippine Science Diplomacy Office) and Section 11 (Non-Derogation Clause) expressly preserve. The review should assess whether a separate office under the Office of the President is needed given the coordination functions in Section 9 (Powers and Functions of the Office) and Section 10 (Inter-Agency Coordination Mechanism), the risk of overlap with existing agencies in light of the Government Optimization Act (RA No. 12231), and the cost of the Director-General and two Deputy Directors-General positions under Section 7 (Composition and Term).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary (no amount stated), charged against the current appropriations of the Office of the President",
+    "section": "Section 13 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act",
+    "section": "Section 13 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Director-General with the rank, salary and privileges of a Secretary; two Deputy Directors-General (rank and salary not stated)",
+    "section": "Section 7 (Composition and Term)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Inter-agency coordination mechanism of Undersecretary-level representatives from member agencies",
+    "section": "Section 10 (Inter-Agency Coordination Mechanism)"
+   },
+   {
+    "item": "Agency programs",
+    "detail": "Agencies to integrate science diplomacy within existing appropriations; capacity-building and monitoring programs of the Office",
+    "section": "Section 4 (Mainstreaming of Science Diplomacy)"
+   }
+  ],
+  "reviewer_checks": [
+   "Section 4 (Mainstreaming of Science Diplomacy) refers to NEDA, while Section 9 (Powers and Functions of the Office), Section 10 (Inter-Agency Coordination Mechanism) and Section 14 (Implementing Rules and Regulations) refer to DEPDev; the agency name should be harmonized.",
+   "Confirm the full text of Section 3 (Definition of Terms) and Section 5 (Priority Thematic Areas), which appear incomplete in the copy reviewed.",
+   "The rank, salary grade and term of the Deputy Directors-General are not specified in Section 7 (Composition and Term).",
+   "Confirm whether the Office will have its own staffing complement and organizational structure, which the bill does not specify.",
+   "Typographical errors: a double period at the end of Section 8 (Qualifications) and a missing period at the end of Section 10 (Inter-Agency Coordination Mechanism)."
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-22T00:03:45+00:00"
+ }
+}
