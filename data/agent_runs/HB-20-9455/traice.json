@@ -1,0 +1,101 @@
+{
+ "output": {
+  "target": "HB-20-9455",
+  "entity_proposed": "",
+  "proposal": "HB No. 9455 seeks to abolish the Optical Media Board (OMB) created under RA No. 9239 (Optical Media Act of 2003) and to transfer its regulatory, enforcement and registry functions, personnel, properties and obligations to the Intellectual Property Office of the Philippines (IPOPHL).",
+  "alignment": "As a government organization measure that abolishes an existing body, the review should examine whether the OMB's licensing, inspection, enforcement and registry functions under RA No. 9239 can be absorbed by the IPOPHL without duplication, whether the optional new division under the IPOPHL's Bureau of Copyright and Other Related Rights is warranted, and how the measure supports the streamlining of the Executive branch and the reduction of overlapping functions under the Government Optimization Act (RA No. 12231). No matching FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified.",
+  "legislative_history": [
+   "HB No. 9455 was filed in the 20th Congress on May 26, 2026; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "Two other House bills in the 20th Congress, HB No. 9083 and HB No. 8797, likewise propose to abolish the OMB and transfer its powers and functions to the IPOPHL.",
+   "No earlier-Congress version, Senate counterpart, substitute bill or committee report was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-9083",
+    "relationship": "Alternative proposal",
+    "basis": "Same objective of transferring OMB functions to the IPOPHL, but it expressly repeals RA No. 9239 and adds functions such as hearing administrative cases and levying license fees.",
+    "section": "HB-20-9083:s2",
+    "quote": "The following powers and functions of the OMB under Republic Act 9239 are hereby transferred to the Intellectual Property Office of the Philippines (IPOPHL)"
+   },
+   {
+    "id": "HB-20-8797",
+    "relationship": "Alternative proposal",
+    "basis": "Same objective, but it repeals RA No. 9239 and transfers all OMB powers and functions in general terms rather than enumerating them.",
+    "section": "HB-20-8797:s4",
+    "quote": "The powers and functions of the OMB under Republic Act No. 9239 are hereby transferred to the Intellectual Property Office of the Philippines (IPOPHL)."
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-9239",
+    "label": "Amends or repeals",
+    "overlap": "Section 1 (Abolition of the Optical Media Board) abolishes the OMB created under RA No. 9239, and Section 2 (Transfer of Powers and Functions to IPOPHL) moves its functions under Section 10 of that law to the IPOPHL.",
+    "section": "HB-20-9455:s1",
+    "quote": "The Optical Media Board (OMB) created under the Republic Act No. 9239, otherwise known as the Optical Media Act of 2003, is hereby abolished."
+   }
+  ],
+  "salient_features": "HB No. 9455 seeks to abolish the Optical Media Board (OMB) and transfer its powers, functions, personnel and resources to the Intellectual Property Office of the Philippines (IPOPHL). Its salient features are as follows:\na. Section 1 (Abolition of the Optical Media Board) provides that the OMB created under RA No. 9239 is abolished.\nb. Section 2 (Transfer of Powers and Functions to IPOPHL) provides that the OMB's functions under Section 10 of RA No. 9239 on licensing, regulation and inspection of establishments reproducing and distributing copyrighted works, enforcement of related administrative and penal provisions, and maintenance of the database and registry are transferred to the IPOPHL, which may create a separate division under its Bureau of Copyright and Other Related Rights as necessary.\nc. Section 3 (Absorption of Affected Personnel, Separation and Retirement Benefits) provides that the IPOPHL shall absorb OMB Secretariat employees as needed without diminution of pay, while separated employees shall receive separation benefits and qualified employees may retire under applicable laws.\nd. Section 4 (Transfer of Properties and Resources to IPOPHL) provides that the IPOPHL shall be subrogated to the rights, obligations and liabilities of the OMB and shall receive its records, property, assets, equipment and funds, including unexpended appropriations.\ne. Section 5 (Appropriations) provides that implementation shall initially be funded from the OMB's current appropriations and thereafter included in the IPOPHL's annual budget.\nf. Section 7 (Repealing Clause) provides that inconsistent laws and issuances are repealed, amended or modified accordingly.\ng. Section 8 (Effectivity) provides that the Act shall take effect fifteen days after publication in the Official Gazette or in two national newspapers of general circulation.",
+  "related_measures_policy": "HB No. 9455 may be considered alongside HB No. 9083 and HB No. 8797, which pursue the same abolition of the OMB and transfer of its functions to the IPOPHL but differ in design, notably in expressly repealing RA No. 9239. The measure has no identified alignment with the FY 2027 Budget Priorities Framework or the LEDAC Common Legislative Agenda, but bears on the streamlining objectives of the Government Optimization Act (RA No. 12231). The review should assess the treatment of the remaining provisions of RA No. 9239, including Section 10 thereof, given that the bill abolishes the OMB without expressly repealing the law, as well as the staffing and cost implications of Section 2 (Transfer of Powers and Functions to IPOPHL) and Section 3 (Absorption of Affected Personnel, Separation and Retirement Benefits).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Sourced from the current appropriations of the OMB; no amount stated.",
+    "section": "Section 5 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the IPOPHL's annual budget thereafter; no amount stated.",
+    "section": "Section 5 (Appropriations)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Optional separate division under the IPOPHL's Bureau of Copyright and Other Related Rights; no positions or salary grades specified.",
+    "section": "Section 2 (Transfer of Powers and Functions to IPOPHL)"
+   },
+   {
+    "item": "Personnel",
+    "detail": "Absorption of OMB Secretariat employees without diminution of pay, and separation and retirement benefits for affected employees.",
+    "section": "Section 3 (Absorption of Affected Personnel, Separation and Retirement Benefits)"
+   },
+   {
+    "item": "Transfer of resources",
+    "detail": "OMB funds, unexpended appropriations, assets and liabilities transferred to the IPOPHL.",
+    "section": "Section 4 (Transfer of Properties and Resources to IPOPHL)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the full title of the bill, as the available title reads only \"An Act\".",
+   "Check whether RA No. 9239 should be expressly repealed or amended, since the bill abolishes the OMB but leaves the law's other provisions in place.",
+   "Correct the duplicated phrase \"may be created\" in Section 2 (Transfer of Powers and Functions to IPOPHL).",
+   "Verify that Section 10 of RA No. 9239 covers all OMB functions enumerated for transfer, and whether functions not listed (e.g. levying of license fees) are intended to lapse.",
+   "Estimate separation and retirement benefit costs for OMB personnel not absorbed by the IPOPHL.",
+   "Confirm the status of HB No. 9083 and HB No. 8797 with the House for possible consolidation."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same objective of transferring OMB functions to the IPOPHL, but it expressly repeals RA No. 9239 and adds functions such as hearing administrative cases and levying license fees.",
+   "section": "HB-20-9083:s2",
+   "quote": "The following powers and functions of the OMB under Republic Act 9239 are hereby transferred to the Intellectual Property Office of the Philippines (IPOPHL)",
+   "check": "verified"
+  },
+  {
+   "claim": "Same objective, but it repeals RA No. 9239 and transfers all OMB powers and functions in general terms rather than enumerating them.",
+   "section": "HB-20-8797:s4",
+   "quote": "The powers and functions of the OMB under Republic Act No. 9239 are hereby transferred to the Intellectual Property Office of the Philippines (IPOPHL).",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 1 (Abolition of the Optical Media Board) abolishes the OMB created under RA No. 9239, and Section 2 (Transfer of Powers and Functions to IPOPHL) moves its functions under Section 10 of that law to the IPOPHL.",
+   "section": "HB-20-9455:s1",
+   "quote": "The Optical Media Board (OMB) created under the Republic Act No. 9239, otherwise known as the Optical Media Act of 2003, is hereby abolished.",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "B",
+  "time": "2026-11-22T00:03:48+00:00"
+ }
+}
