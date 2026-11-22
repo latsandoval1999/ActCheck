@@ -1,0 +1,106 @@
+{
+ "output": {
+  "target": "HB-20-9275",
+  "entity_proposed": "Bureau of Agricultural Cooperative and Industry Development (BACID)",
+  "proposal": "HB No. 9275 seeks to establish the Bureau of Agricultural Cooperative and Industry Development (BACID) as a regular bureau under the Department of Agriculture (DA), to serve as the DA's primary implementing arm for cooperative-based agricultural modernization and industry development. The measure aims to strengthen agricultural and agrarian reform cooperatives as viable agribusiness enterprises, while leaving registration, regulation and supervision of cooperatives with the Cooperative Development Authority (CDA).",
+  "alignment": "As a government organization measure, the review should examine how the functions of the proposed BACID fit with those of the CDA, the Department of Agrarian Reform, the Department of Trade and Industry and existing DA units engaged in cooperative development, and whether creating a new regular bureau and a new inter-agency council is consistent with the intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The measure aligns with the Food Security priority area of the FY 2027 Budget Priorities Framework, particularly its focus on Farm and Fisheries Clustering and Consolidation (F2C2), given the farm clustering and consolidation functions under Section 6 (Powers and Functions). The measure is not among the priorities of the LEDAC Common Legislative Agenda.",
+  "legislative_history": [
+   "HB No. 9275 was filed in the House of Representatives in the 20th Congress on May 18, 2026 by Representative Dale B. Corvera.",
+   "The bill is pending at the filing stage; later stages are not recorded.",
+   "HB No. 3466 of the same Congress proposes a bureau of the same name and short title under the DA, but with a different governance structure.",
+   "HB No. 3249 of the same Congress proposes a Bureau of Agricultural Cooperative Development (BACD) attached to the DA."
+  ],
+  "related": [
+   {
+    "id": "HB-20-3466",
+    "relationship": "Alternative proposal",
+    "basis": "It proposes a BACID of the same name under the DA, but governed by a Board of Administrators appointed by the President rather than an Executive Director, which is a materially different design.",
+    "section": "HB-20-3466:s3",
+    "quote": "BACID is hereby established under the Department of Agriculture (DA). BACID shall have a dual mandate: first, to support cooperative development, and second, to drive the modernization of agriculture"
+   },
+   {
+    "id": "HB-20-3249",
+    "relationship": "Alternative proposal",
+    "basis": "It addresses the same problem through a new agency attached to the DA for policy coordination rather than a regular bureau, with similar development and coordination functions.",
+    "section": "HB-20-3249:s3",
+    "quote": "There is hereby created a new agency to be known as the Bureau of Agricultural Cooperative Development (BACD), which shall be attached to the Department of Agriculture for policy coordination and program supervision."
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-6939",
+    "label": "Overlapping functions",
+    "overlap": "RA No. 6939 created the CDA with cooperative development functions, which may overlap with the development mandate of BACID under Section 5 (Mandate) and Section 6 (Powers and Functions), although Section 4 (Scope and Jurisdiction) reserves regulation to the CDA.",
+    "section": "law:RA-6939",
+    "quote": "AN ACT CREATING THE COOPERATIVE DEVELOPMENT AUTHORITY TO PROMOTE THE VIABILITY AND GROWTH OF COOPERATIVES"
+   }
+  ],
+  "salient_features": "HB No. 9275 seeks to establish the Bureau of Agricultural Cooperative and Industry Development (BACID) as a regular bureau under the Department of Agriculture to develop agricultural and agrarian reform cooperatives into viable agribusiness enterprises. Its salient features are as follows:\na. Section 3 (Creation of the Bureau of Agricultural Cooperative and Industry Development) provides that BACID is created as a regular bureau under the DA and shall be the DA's primary implementing arm for cooperative-based agricultural modernization and industry development.\nb. Section 4 (Scope and Jurisdiction) provides that BACID shall cover agricultural cooperatives, agrarian reform cooperatives and farmer-based organizations transitioning into cooperatives, while the CDA retains exclusive jurisdiction over their registration, regulation and supervision.\nc. Section 5 (Mandate) provides that BACID shall develop cooperatives as agribusiness enterprises, drive modernization through cooperative-led value chains, integrate smallholder farmers into organized systems, and promote rural industrialization.\nd. Section 6 (Powers and Functions) provides that BACID shall, among others, implement national cooperative development programs, promote value chain development, facilitate farm clustering and consolidation, support contract growing, facilitate access to financing, and establish a monitoring and evaluation system.\ne. Section 7 (Organizational Structure) provides that BACID shall be headed by an Executive Director with the rank of Undersecretary, appointed by the President upon recommendation of the Secretary of Agriculture, with technical, regional and support divisions; the DA, in coordination with the DBM, shall determine the staffing pattern.\nf. Section 8 (Inter-Agency Coordination Mechanism) provides for the creation of an Inter-Agency Coordinating Council on Agricultural Cooperatives chaired by the DA, with the CDA, DAR, DTI, Land Bank of the Philippines, Development Bank of the Philippines and cooperative sector representatives as members.\ng. Section 9 (Transitory Provisions) provides that relevant functions, personnel, records and resources of existing DA units on cooperative development shall be transferred to BACID, without transfer of any CDA regulatory powers.\nh. Section 10 (Appropriations) provides that initial funding shall be charged against the current appropriations of the DA and thereafter included in the annual General Appropriations Act, and that BACID may mobilize other resources.\ni. Section 11 (Implementing Rules and Regulations) provides that the DA, in coordination with the CDA and other agencies, shall issue the IRR within ninety days from effectivity.",
+  "related_measures_policy": "HB No. 9275 may be considered alongside HB No. 3466, which proposes a bureau of the same name governed by a Board of Administrators, and HB No. 3249, which proposes a Bureau of Agricultural Cooperative Development attached to the DA. The measure aligns with the Food Security priority area of the FY 2027 Budget Priorities Framework, particularly Farm and Fisheries Clustering and Consolidation (F2C2). The review should assess the delineation between BACID's development functions under Section 5 (Mandate) and Section 6 (Powers and Functions) and the mandate of the CDA under RA No. 6939, the need for a new Inter-Agency Coordinating Council under Section 8 (Inter-Agency Coordination Mechanism), and the consistency of a new regular bureau with the streamlining objectives of the Government Optimization Act (RA No. 12231).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "No amount stated; charged against the current appropriations of the DA",
+    "section": "Section 10 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act; BACID may also mobilize PPP, ODA and other funding",
+    "section": "Section 10 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Executive Director with the rank of Undersecretary; salary grade not stated",
+    "section": "Section 7 (Organizational Structure)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Technical, regional and support divisions; staffing pattern to be determined by the DA in coordination with the DBM",
+    "section": "Section 7 (Organizational Structure)"
+   },
+   {
+    "item": "Members",
+    "detail": "Inter-Agency Coordinating Council on Agricultural Cooperatives; no compensation or secretariat provisions stated",
+    "section": "Section 8 (Inter-Agency Coordination Mechanism)"
+   },
+   {
+    "item": "Transfers",
+    "detail": "Functions, personnel, records and resources of existing DA cooperative development units transferred to BACID",
+    "section": "Section 9 (Transitory Provisions)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm which existing DA units perform agricultural cooperative development functions and would be transferred under Section 9 (Transitory Provisions).",
+   "Verify whether an Executive Director with the rank of Undersecretary is appropriate for the head of a regular bureau under Section 7 (Organizational Structure).",
+   "Check whether the bill cites RA No. 6939 expressly, as its text refers only to the CDA.",
+   "Confirm the status of HB No. 3466 and HB No. 3249 with the House of Representatives, and whether they may be consolidated with this bill.",
+   "Note that the bill does not state the number of regional offices or the salary grades of positions."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "It proposes a BACID of the same name under the DA, but governed by a Board of Administrators appointed by the President rather than an Executive Director, which is a materially different design.",
+   "section": "HB-20-3466:s3",
+   "quote": "BACID is hereby established under the Department of Agriculture (DA). BACID shall have a dual mandate: first, to support cooperative development, and second, to drive the modernization of agriculture",
+   "check": "verified"
+  },
+  {
+   "claim": "It addresses the same problem through a new agency attached to the DA for policy coordination rather than a regular bureau, with similar development and coordination functions.",
+   "section": "HB-20-3249:s3",
+   "quote": "There is hereby created a new agency to be known as the Bureau of Agricultural Cooperative Development (BACD), which shall be attached to the Department of Agriculture for policy coordination and program supervision.",
+   "check": "verified"
+  },
+  {
+   "claim": "RA No. 6939 created the CDA with cooperative development functions, which may overlap with the development mandate of BACID under Section 5 (Mandate) and Section 6 (Powers and Functions), although Section 4 (Scope and Jurisdiction) reserves regulation to the CDA.",
+   "section": "law:RA-6939",
+   "quote": "AN ACT CREATING THE COOPERATIVE DEVELOPMENT AUTHORITY TO PROMOTE THE VIABILITY AND GROWTH OF COOPERATIVES",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "A",
+  "time": "2026-11-22T00:07:29+00:00"
+ }
+}
