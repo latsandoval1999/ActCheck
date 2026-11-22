@@ -1,0 +1,214 @@
+{
+ "output": {
+  "target": "HB-20-9451",
+  "entity_proposed": "National Emergency Medical Services System Council (EMSSC)",
+  "proposal": "HB No. 9451 seeks to institutionalize a comprehensive, integrated and standardized Emergency Medical Services System (EMSS) at the national, regional and local levels, and to create for the purpose a national Emergency Medical Services System Council (EMSSC). It aims to protect and promote the right to health by setting national standards for emergency medical services, personnel and vehicles.",
+  "alignment": "As a government organization measure, the review should examine how the proposed Council's policy, standard-setting and accreditation functions under Section 6 (Powers and Functions of the EMSSC) fit with those of the member agencies listed in Section 7 (Membership of the Council), including the DOH, DILG, DICT and PhilHealth, and with the Emergency 911 Office referred to in the same section, and whether a new council and its Secretariat are consistent with the government's intent to streamline agencies and reduce overlapping functions under the Government Optimization Act (RA No. 12231). The measure aligns primarily with the Human Capital Development priority area of the FY 2027 Budget Priorities Framework, given its focus on the Universal Health Care system, and secondarily with Environment, Climate, and Disaster Resilience insofar as emergency response capacity is concerned. The measure is not among the LEDAC Common Legislative Agenda priorities.",
+  "legislative_history": [
+   "HB No. 9451 was filed on May 26, 2026, in the 20th Congress; its status is filed, with later stages not yet recorded.",
+   "HB No. 9474 and HB No. 9646, filed in the same Congress, carry near-identical text and title.",
+   "HB No. 673, filed in the 20th Congress on July 1, 2025, bears an identical title; its text has not been reviewed.",
+   "Measures with the same or similar titles were filed in the 18th Congress (e.g., HB No. 173, SB No. 88, SB No. 861) and the 19th Congress (e.g., HB No. 266, HB No. 10719, SB No. 1350, SB No. 1973); their texts have not been reviewed.",
+   "No Senate counterpart, committee report or substitute bill in the 20th Congress has been identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-9474",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same chamber and Congress, with near-identical provisions on the Council, plantilla positions, the EMSS Fund and appropriations.",
+    "section": "HB-20-9474:s23",
+    "quote": "There is hereby established an EMSS Fund which may be sourced from fees, donations and grants, to be administered by the Council, and subject to COA regulations."
+   },
+   {
+    "id": "HB-20-9646",
+    "relationship": "Same bill, filed again this Congress",
+    "basis": "Same chamber and Congress, with near-identical provisions on the Council's powers, plantilla positions, the EMSS Fund and appropriations.",
+    "section": "HB-20-9646:s5",
+    "quote": "A body to be known as the Emergency Medical Services Systems Council (EMSSC) is hereby created under the Department of the Interior and Local Government (DILG)."
+   },
+   {
+    "id": "HB-20-673",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Identical title filed in the House in the 20th Congress; text not available for comparison.",
+    "section": "meta:HB-20-673",
+    "quote": "AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-10719",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Identical title filed in the House in the 19th Congress; text not available for comparison.",
+    "section": "meta:HB-19-10719",
+    "quote": "AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "HB-19-266",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Identical title filed in the House in the 19th Congress; text not available for comparison.",
+    "section": "meta:HB-19-266",
+    "quote": "AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "SB-19-1973",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Identical title filed in the Senate in the 19th Congress; text not available for comparison.",
+    "section": "meta:SB-19-1973",
+    "quote": "EMERGENCY MEDICAL SERVICES SYSTEM (EMSS) ACT: AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL"
+   },
+   {
+    "id": "SB-19-1350",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Identical title filed in the Senate in the 19th Congress; text not available for comparison.",
+    "section": "meta:SB-19-1350",
+    "quote": "EMERGENCY MEDICAL SERVICES SYSTEM (EMSS) ACT: AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL"
+   },
+   {
+    "id": "HB-18-173",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Identical title filed in the House in the 18th Congress; text not available for comparison.",
+    "section": "meta:HB-18-173",
+    "quote": "AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+   },
+   {
+    "id": "SB-18-88",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Identical title filed in the Senate in the 18th Congress; text not available for comparison.",
+    "section": "meta:SB-18-88",
+    "quote": "EMERGENCY MEDICAL SERVICES SYSTEM (EMSS) ACT: AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL"
+   },
+   {
+    "id": "SB-19-1165",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "Senate measure of the 19th Congress whose title points to regulation of the emergency medical services profession rather than a council; text not available for comparison.",
+    "section": "meta:SB-19-1165",
+    "quote": "AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM, PROVIDING FOR THE ESTABLISHMENT, SUPERVISION, AND REGULATION OF EMERGENCY MEDICAL SERVICES PROGRESSION"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "EO-292",
+    "label": "Referenced in the bill",
+    "overlap": "Section 13 (Creation of Plantilla Positions for Emergency Medical Services Personnel) requires qualification standards for the new EMS positions to be approved by the Civil Service Commission pursuant to the Administrative Code of 1987.",
+    "section": "HB-20-9451:s13",
+    "quote": "pursuant to E.O. No. 292, entitled \"The Revised Administrative Code of 1987 on the Civil Service Commission\""
+   }
+  ],
+  "salient_features": "HB No. 9451 seeks to institutionalize an Emergency Medical Services System and to create a national Emergency Medical Services System Council (EMSSC). Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the Emergency Medical Services System (EMSS) Act.\nb. Section 6 (Powers and Functions of the EMSSC) provides that the Council shall formulate EMS policies, develop national standards and treatment protocols for EMS personnel, promulgate a Code of Ethics, set standards for the design, accreditation and operation of emergency medical vehicles, ensure coordination among government health agencies, LGUs and private institutions, establish a Secretariat under an Executive Director, create committees, and generate and accept resources and donations.\nc. Section 7 (Membership of the Council) provides that the Council shall be chaired by the DILG Secretary and co-chaired by the DOH Secretary, with the DICT Secretary, the heads of the PNRC, PhilHealth and the Philippine College of Emergency Medicine, and one representative of a national organization of emergency medical technicians as members, and that the Executive Director of the Emergency 911 Office and the Director General of TESDA shall participate in all meetings.\nd. Section 13 (Creation of Plantilla Positions for Emergency Medical Services Personnel) provides that a minimum number of EMS personnel and ambulance assistant positions shall be created within five years in government hospitals by level and in LGUs by city and municipal class, with qualification standards submitted to the CSC and salaries charged to the appropriations of the respective hospitals, health facilities and LGUs.\ne. Section 23 (Establishment of the EMSS Fund) provides that an EMSS Fund sourced from fees, donations and grants shall be administered by the Council, subject to COA regulations, to augment LGU EMSS operations, particularly in GIDAs, with not more than 30 percent usable for administrative expenses.\nf. Section 24 (Appropriations) provides that the amount needed for implementation shall be included in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 9451 may be considered alongside HB No. 9474 and HB No. 9646, which carry near-identical provisions in the 20th Congress, as well as HB No. 673 and earlier measures bearing the same title whose texts have yet to be compared. The measure aligns with the Human Capital Development priority under the FY 2027 Budget Priorities Framework. The review should assess how the Council's functions under Section 6 (Powers and Functions of the EMSSC) relate to the existing mandates of its member agencies and of the Emergency 911 Office, whether a new council and Secretariat are warranted in light of the Government Optimization Act (RA No. 12231), and the fiscal implications of the plantilla positions under Section 13 (Creation of Plantilla Positions for Emergency Medical Services Personnel), which refers to the Administrative Code of 1987 (EO No. 292) for qualification standards.",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount needed for implementation; no amount stated",
+    "section": "Section 24 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Included in the annual General Appropriations Act",
+    "section": "Section 24 (Appropriations)"
+   },
+   {
+    "item": "Position",
+    "detail": "Minimum EMS personnel and ambulance assistant plantilla positions in government hospitals and LGUs within five years; salaries charged to the respective hospitals, health facilities and LGUs",
+    "section": "Section 13 (Creation of Plantilla Positions for Emergency Medical Services Personnel)"
+   },
+   {
+    "item": "Support body",
+    "detail": "Secretariat under an Executive Director for the Council's day-to-day operations",
+    "section": "Section 6 (Powers and Functions of the EMSSC)"
+   },
+   {
+    "item": "Members",
+    "detail": "Council of seven members chaired by the DILG Secretary; compensation terms to be verified",
+    "section": "Section 7 (Membership of the Council)"
+   },
+   {
+    "item": "Special fund",
+    "detail": "EMSS Fund from fees, donations and grants; not more than 30 percent for administrative expenses",
+    "section": "Section 23 (Establishment of the EMSS Fund)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the text of Section 5, which appears to create the Council, including its attachment to a department.",
+   "Verify the designation of the Secretariat and any staffing or budget augmentation under Section 9 (The Secretariat).",
+   "Verify the compensation and remuneration of Council members under Section 8 (Compensation and Remuneration).",
+   "Check the lettering of the members list in Section 7 (Membership of the Council), where item 'g.' interrupts the PCEM entry.",
+   "Check the proviso at the end of Section 6 (Powers and Functions of the EMSSC) on limits to donations, which appears incomplete.",
+   "Verify the consistency of the Council's name, rendered both as Emergency Medical Services System Council and as EMSSC.",
+   "Confirm with the House the status of HB No. 9474, HB No. 9646 and HB No. 673 and whether they will be consolidated.",
+   "Review the penalties under Section 21 (Prohibited Acts and Penalties on Emergency Communications) and the 911 hotline provisions for overlap with existing emergency communications arrangements."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "Same chamber and Congress, with near-identical provisions on the Council, plantilla positions, the EMSS Fund and appropriations.",
+   "section": "HB-20-9474:s23",
+   "quote": "There is hereby established an EMSS Fund which may be sourced from fees, donations and grants, to be administered by the Council, and subject to COA regulations.",
+   "check": "verified"
+  },
+  {
+   "claim": "Same chamber and Congress, with near-identical provisions on the Council's powers, plantilla positions, the EMSS Fund and appropriations.",
+   "section": "HB-20-9646:s5",
+   "quote": "A body to be known as the Emergency Medical Services Systems Council (EMSSC) is hereby created under the Department of the Interior and Local Government (DILG).",
+   "check": "verified"
+  },
+  {
+   "claim": "Identical title filed in the House in the 20th Congress; text not available for comparison.",
+   "section": "meta:HB-20-673",
+   "quote": "AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Identical title filed in the House in the 19th Congress; text not available for comparison.",
+   "section": "meta:HB-19-10719",
+   "quote": "AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Identical title filed in the House in the 19th Congress; text not available for comparison.",
+   "section": "meta:HB-19-266",
+   "quote": "AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Identical title filed in the Senate in the 19th Congress; text not available for comparison.",
+   "section": "meta:SB-19-1973",
+   "quote": "EMERGENCY MEDICAL SERVICES SYSTEM (EMSS) ACT: AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL",
+   "check": "verified"
+  },
+  {
+   "claim": "Identical title filed in the Senate in the 19th Congress; text not available for comparison.",
+   "section": "meta:SB-19-1350",
+   "quote": "EMERGENCY MEDICAL SERVICES SYSTEM (EMSS) ACT: AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL",
+   "check": "verified"
+  },
+  {
+   "claim": "Identical title filed in the House in the 18th Congress; text not available for comparison.",
+   "section": "meta:HB-18-173",
+   "quote": "AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL, AND APPROPRIATING FUNDS THEREFOR",
+   "check": "verified"
+  },
+  {
+   "claim": "Identical title filed in the Senate in the 18th Congress; text not available for comparison.",
+   "section": "meta:SB-18-88",
+   "quote": "EMERGENCY MEDICAL SERVICES SYSTEM (EMSS) ACT: AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL",
+   "check": "verified"
+  },
+  {
+   "claim": "Senate measure of the 19th Congress whose title points to regulation of the emergency medical services profession rather than a council; text not available for comparison.",
+   "section": "meta:SB-19-1165",
+   "quote": "AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM, PROVIDING FOR THE ESTABLISHMENT, SUPERVISION, AND REGULATION OF EMERGENCY MEDICAL SERVICES PROGRESSION",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 13 (Creation of Plantilla Positions for Emergency Medical Services Personnel) requires qualification standards for the new EMS positions to be approved by the Civil Service Commission pursuant to the Administrative Code of 1987.",
+   "section": "HB-20-9451:s13",
+   "quote": "pursuant to E.O. No. 292, entitled \"The Revised Administrative Code of 1987 on the Civil Service Commission\"",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-22T00:04:11+00:00"
+ }
+}
