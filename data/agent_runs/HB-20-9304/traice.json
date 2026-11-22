@@ -1,0 +1,201 @@
+{
+ "output": {
+  "target": "HB-20-9304",
+  "entity_proposed": "Bureau of Artificial Intelligence Systems (BAIS)",
+  "proposal": "HB No. 9304 seeks to establish a national framework for trustworthy artificial intelligence, providing for risk-based regulation, safety standards and public accountability, and to create the Bureau of Artificial Intelligence Systems (BAIS) under the Department of Information and Communications Technology (DICT) as the central regulatory, technical, investigatory and enforcement body on artificial intelligence systems.",
+  "alignment": "As a government organization and mandates measure, the review should examine how the proposed BAIS, a new bureau under the DICT with rule-making, registration, certification, audit and enforcement powers, fits with the existing functions of the DICT and of sectoral regulators and agencies assigned roles in the bill, including the National Privacy Commission, and whether the creation of a new bureau and of the National Panel of Experts and Resource Persons on Artificial Intelligence (NPER-AI) is consistent with the government's intent to streamline the Executive branch and reduce overlapping functions under the Government Optimization Act (RA No. 12231). No matching priority area under the FY 2027 Budget Priorities Framework and no corresponding measure in the LEDAC Common Legislative Agenda were identified.",
+  "legislative_history": [
+   "HB No. 9304 was filed in the 20th Congress on May 18, 2026 by Representative Dale B. Corvera; it is pending at the filing stage, and later stages are not yet reflected.",
+   "HB No. 11137 (20th Congress) proposes a national regulatory framework for artificial intelligence with a different institutional design, creating the National Artificial Intelligence Regulatory Authority (NAIRA) attached to the DICT.",
+   "Several House and Senate measures in the 19th and 20th Congresses on the development and regulation of artificial intelligence are pending in committee, including HB No. 57 (20th Congress), whose title also proposes a Bureau of Artificial Intelligence Systems under the DICT; their texts have not been reviewed.",
+   "No substitute bill or committee report on HB No. 9304 was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-20-11137",
+    "relationship": "Alternative proposal",
+    "basis": "HB No. 11137 addresses the same regulatory problem with closely similar powers and advisory body composition, but creates an attached authority (NAIRA) rather than a bureau within the DICT.",
+    "section": "HB-20-11137:s6",
+    "quote": "There is hereby created the National Artificial Intelligence Regulatory Authority (NAIRA), attached to the Department of Information and Communications Technology (DICT) for purposes of policy and program coordination"
+   },
+   {
+    "id": "HB-20-57",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "The title of HB No. 57 also proposes the creation of a Bureau of Artificial Intelligence Systems under the DICT.",
+    "section": "meta:HB-20-57",
+    "quote": "CREATING THE BUREAU OF ARTIFICIAL INTELLIGENCE SYSTEMS UNDER THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+   },
+   {
+    "id": "HB-20-3462",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "The title of HB No. 3462 concerns the regulation of artificial intelligence and proposes a Philippine Artificial Intelligence Commission.",
+    "section": "meta:HB-20-3462",
+    "quote": "CREATING FOR THE PURPOSE THE PHILIPPINE ARTIFICIAL INTELLIGENCE COMMISSION"
+   },
+   {
+    "id": "SB-20-1190",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "The title of SB No. 1190 concerns the development and regulation of artificial intelligence.",
+    "section": "meta:SB-20-1190",
+    "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   },
+   {
+    "id": "HB-20-73",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "The title of HB No. 73 concerns the development and regulation of artificial intelligence.",
+    "section": "meta:HB-20-73",
+    "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   },
+   {
+    "id": "HB-20-252",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "The title of HB No. 252 concerns the regulation of artificial intelligence.",
+    "section": "meta:HB-20-252",
+    "quote": "AN ACT PROMOTING THE DEVELOPMENT OF REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   },
+   {
+    "id": "HB-20-3688",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "The title of HB No. 3688 concerns the development and regulation of artificial intelligence.",
+    "section": "meta:HB-20-3688",
+    "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   },
+   {
+    "id": "HB-19-7396",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "The title of HB No. 7396 (19th Congress) concerns the development and regulation of artificial intelligence.",
+    "section": "meta:HB-19-7396",
+    "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   },
+   {
+    "id": "HB-19-10385",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "The title of HB No. 10385 (19th Congress) concerns the development and regulation of artificial intelligence.",
+    "section": "meta:HB-19-10385",
+    "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   },
+   {
+    "id": "HB-19-11262",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "The title of HB No. 11262 (19th Congress) concerns the development and regulation of artificial intelligence.",
+    "section": "meta:HB-19-11262",
+    "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "RA-10173",
+    "label": "Referenced in the bill",
+    "overlap": "Section 82 (Suppletory Clause) applies RA No. 10173 (Data Privacy Act of 2012) suppletorily, and the bill assigns a role to the National Privacy Commission, so data processing rules and NPC functions may overlap.",
+    "section": "HB-20-9304:s82",
+    "quote": "In particular, Republic Act No. 10173, or the Data Privacy Act of 2012, shall apply in a suppletory manner."
+   }
+  ],
+  "salient_features": "HB No. 9304 seeks to establish a national framework for trustworthy artificial intelligence and to create the Bureau of Artificial Intelligence Systems (BAIS) under the DICT as the State's central regulatory and enforcement body on artificial intelligence systems. Its salient features are as follows:\na. Section 6 (Creation of the Bureau of Artificial Intelligence Systems (BAIS)) provides that the BAIS is created under the DICT, under the direct supervision and control of the DICT Secretary, who shall resolve jurisdictional questions with other DICT units and ensure that the BAIS is adequately funded and staffed; the section also contains a Section 6-A on a National Artificial Intelligence Strategy.\nb. Section 7 (Mandate and Powers of the Bureau) provides that the BAIS shall issue and enforce rules and technical standards, classify AI systems by risk level, maintain a National Registry of Artificial Intelligence Systems, conduct pre-deployment reviews, audits and certification, issue permits and cease-and-desist orders, and exercise visitorial powers.\nc. Section 27 (Artificial Intelligence in Creative Industries) provides that entities in creative sectors shall disclose material AI contribution and safeguard intellectual property, and that the BAIS may set certification schemes and voluntary standards.\nd. Section 42 (Technology Transfer and Knowledge-Sharing) provides that the DICT shall establish mechanisms for technology transfer from foreign entities operating AI systems, which may be restricted from government-funded AI programs if they fail minimum transparency requirements.\ne. Section 63 (Transitory Exercise of Powers) provides that the DICT Secretary shall exercise the powers of the BAIS in an ex officio capacity until the Bureau is fully constituted and may designate an interim office or unit.\nf. Section 71 (Creation of the National Panel of Experts and Resource Persons on Artificial Intelligence) provides for an independent, multisectoral advisory body (NPER-AI) to the BAIS, without regulatory or enforcement powers.\ng. Section 73 (Composition and Appointment) provides that the Panel shall have nine members from specified sectors, appointed by the President upon recommendation of the DICT Secretary.\nh. Section 76 (Appropriations) provides that initial implementation shall be charged against the current appropriations of the DICT, and continued implementation, including the BAIS, the National AI Infrastructure and research programs, shall be included in the annual General Appropriations Act.",
+  "related_measures_policy": "HB No. 9304 may be considered alongside HB No. 11137, which proposes a closely similar regulatory framework and advisory council but vests it in an attached authority (NAIRA) rather than a DICT bureau, and alongside the pending measures on artificial intelligence development and regulation in both chambers, notably HB No. 57, whose title proposes the same bureau. No matching FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda measure was identified. The review should assess the choice between a bureau and an attached agency, the fit of the BAIS's functions under Section 6 (Creation of the Bureau of Artificial Intelligence Systems (BAIS)) and Section 7 (Mandate and Powers of the Bureau) with existing DICT units and sectoral regulators in light of the Government Optimization Act (RA No. 12231), the interaction with RA No. 10173 under Section 82 (Suppletory Clause), and the funding arrangements under Section 76 (Appropriations).",
+  "fiscal_requirements": [
+   {
+    "item": "Initial funding",
+    "detail": "Amount necessary for initial implementation, no amount stated; charged against current DICT appropriations",
+    "section": "Section 76 (Appropriations)"
+   },
+   {
+    "item": "Continuing funding",
+    "detail": "Sums for the BAIS, National AI Infrastructure, research programs and other initiatives, included in the annual General Appropriations Act",
+    "section": "Section 76 (Appropriations)"
+   },
+   {
+    "item": "New office",
+    "detail": "Bureau of Artificial Intelligence Systems under the DICT, to be adequately funded and staffed",
+    "section": "Section 6 (Creation of the Bureau of Artificial Intelligence Systems (BAIS))"
+   },
+   {
+    "item": "Members",
+    "detail": "Nine-member National Panel of Experts and Resource Persons on Artificial Intelligence; compensation to be verified",
+    "section": "Section 73 (Composition and Appointment)"
+   }
+  ],
+  "reviewer_checks": [
+   "Confirm the organizational structure, head and positions of the BAIS, including salary grades, under Section 8 (Organizational Structure of the Bureau).",
+   "Verify the compensation of Panel members and the provider of its secretariat under Section 74 (Term of Office, Compensation, and Qualifications) and Section 75 (Secretariat and Administrative Support).",
+   "Verify the source and amount of the Artificial Intelligence Safety Research Fund under Section 43 and any budget role assigned under Section 62 (Role of the Department of Budget and Management).",
+   "Section 6 contains an inserted Section 6-A (National Artificial Intelligence Strategy); confirm section numbering.",
+   "Section 63 (Transitory Exercise of Powers): 'risk- based' appears to be a typographical error for 'risk-based'.",
+   "Confirm the status and text of HB No. 57, whose title proposes the same Bureau of Artificial Intelligence Systems, with the House of Representatives."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "HB No. 11137 addresses the same regulatory problem with closely similar powers and advisory body composition, but creates an attached authority (NAIRA) rather than a bureau within the DICT.",
+   "section": "HB-20-11137:s6",
+   "quote": "There is hereby created the National Artificial Intelligence Regulatory Authority (NAIRA), attached to the Department of Information and Communications Technology (DICT) for purposes of policy and program coordination",
+   "check": "verified"
+  },
+  {
+   "claim": "The title of HB No. 57 also proposes the creation of a Bureau of Artificial Intelligence Systems under the DICT.",
+   "section": "meta:HB-20-57",
+   "quote": "CREATING THE BUREAU OF ARTIFICIAL INTELLIGENCE SYSTEMS UNDER THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY",
+   "check": "verified"
+  },
+  {
+   "claim": "The title of HB No. 3462 concerns the regulation of artificial intelligence and proposes a Philippine Artificial Intelligence Commission.",
+   "section": "meta:HB-20-3462",
+   "quote": "CREATING FOR THE PURPOSE THE PHILIPPINE ARTIFICIAL INTELLIGENCE COMMISSION",
+   "check": "verified"
+  },
+  {
+   "claim": "The title of SB No. 1190 concerns the development and regulation of artificial intelligence.",
+   "section": "meta:SB-20-1190",
+   "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "The title of HB No. 73 concerns the development and regulation of artificial intelligence.",
+   "section": "meta:HB-20-73",
+   "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "The title of HB No. 252 concerns the regulation of artificial intelligence.",
+   "section": "meta:HB-20-252",
+   "quote": "AN ACT PROMOTING THE DEVELOPMENT OF REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "The title of HB No. 3688 concerns the development and regulation of artificial intelligence.",
+   "section": "meta:HB-20-3688",
+   "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "The title of HB No. 7396 (19th Congress) concerns the development and regulation of artificial intelligence.",
+   "section": "meta:HB-19-7396",
+   "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "The title of HB No. 10385 (19th Congress) concerns the development and regulation of artificial intelligence.",
+   "section": "meta:HB-19-10385",
+   "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "The title of HB No. 11262 (19th Congress) concerns the development and regulation of artificial intelligence.",
+   "section": "meta:HB-19-11262",
+   "quote": "AN ACT PROMOTING THE DEVELOPMENT AND REGULATION OF ARTIFICIAL INTELLIGENCE IN THE PHILIPPINES",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 82 (Suppletory Clause) applies RA No. 10173 (Data Privacy Act of 2012) suppletorily, and the bill assigns a role to the National Privacy Commission, so data processing rules and NPC functions may overlap.",
+   "section": "HB-20-9304:s82",
+   "quote": "In particular, Republic Act No. 10173, or the Data Privacy Act of 2012, shall apply in a suppletory manner.",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-22T00:07:42+00:00"
+ }
+}
