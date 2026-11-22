@@ -1,0 +1,166 @@
+{
+ "output": {
+  "target": "HB-20-9386",
+  "entity_proposed": "Philippine Racing Corporation (PHILRACOR)",
+  "proposal": "HB No. 9386 seeks to reconstitute the Philippine Racing Commission into the Philippine Racing Corporation (PHILRACOR), a non-stock government-owned or controlled corporation with original charter attached to the Office of the President, as the primary regulatory and developmental authority for horse racing and other authorized animal racing. It also seeks to place the National Stud Farm under the Corporation and to institutionalize a compensation fund for jockeys and horse trainers.",
+  "alignment": "As a government organization measure, the review should examine whether converting the Philippine Racing Commission into a chartered GOCC is warranted, how the Corporation's functions under Section 6 (Powers and Functions of the Corporation) fit with those of the Philippine Charity Sweepstakes Office, the Games and Amusements Board and the Department of Agriculture, and whether the transfer of the National Stud Farm from the Bureau of Animal Industry under Section 18 (National Stud Farm) is consistent with the intent to streamline agencies and reduce overlapping mandates under the Government Optimization Act (RA No. 12231). The review should also assess the measure's consistency with RA No. 10149 (GOCC Governance Act of 2011), to which the Corporation is made subject under Section 3 (Creation of the Philippine Racing Corporation). No FY 2027 Budget Priorities Framework priority area or LEDAC Common Legislative Agenda item was identified for this measure.",
+  "legislative_history": [
+   "HB No. 9386 was filed on May 25, 2026 by Representative Presley C. De Jesus, PhilRECA; it is pending at the filing stage, and later stages are not reflected in the available records.",
+   "HB No. 1525 (18th Congress), filed on July 4, 2019 and pending in the Committee, sought to amend PD No. 420 to include other kinds of animal racing under the jurisdiction of the Philippine Racing Commission; only its title is available, so its relationship to this bill could not be confirmed.",
+   "No counterpart measure in the Senate, substitute bill or committee report was identified."
+  ],
+  "related": [
+   {
+    "id": "HB-18-1525",
+    "relationship": "Title match only; text not reviewed.",
+    "basis": "The title proposes extending the Commission's jurisdiction to other animal racing, a subject also covered by Section 21 (Regulation of Other Animal Races) of HB No. 9386.",
+    "section": "meta:HB-18-1525",
+    "quote": "TO INCLUDE OTHER KINDS OF ANIMAL RACING UNDER THE JURISDICTION AND CONTROL OF THE PHILIPPINE RACING COMMISSION"
+   }
+  ],
+  "existing_law_overlaps": [
+   {
+    "law": "PD-420",
+    "label": "Amends or repeals",
+    "overlap": "Section 27 (Repealing Clause) repeals PD No. 420 and Section 25 (Abolition of the Philippine Racing Commission; Transfer) abolishes the Commission it created.",
+    "section": "HB-20-9386:s27",
+    "quote": "Presidential Decree No. 420, as amended, is hereby repealed, and its relevant provisions are hereby incorporated, revised, or restated under this Act."
+   },
+   {
+    "law": "RA-6115",
+    "label": "Amends or repeals",
+    "overlap": "Section 27 (Repealing Clause) amends or repeals RA No. 6115 insofar as it is inconsistent with the provisions on the Jockeys and Horse Trainers Injury, Disability and Death Compensation Fund.",
+    "section": "HB-20-9386:s27",
+    "quote": "Republic Act No. 6115 is hereby amended or repealed insofar as it is inconsistent with the provisions of this Act"
+   },
+   {
+    "law": "RA-4618",
+    "label": "Overlapping functions",
+    "overlap": "Section 18 (National Stud Farm) and Section 19 (Mandate and Functions of the National Stud Farm) place the National Stud Farm created under RA No. 4618 under the Corporation.",
+    "section": "HB-20-9386:s18",
+    "quote": "The National Stud Farm, created under Republic Act No. 4618 to improve the breed of Philippine horses and to prevent the illegal importation of race horses, is hereby placed under the supervision and control"
+   },
+   {
+    "law": "RA-10149",
+    "label": "Referenced in the bill",
+    "overlap": "Section 3 (Creation of the Philippine Racing Corporation), Section 4 (Board of Directors), Section 5 (Term of Office) and Section 8 (Compensation, Position Classification, and Benefits) subject the Corporation to RA No. 10149.",
+    "section": "HB-20-9386:s3",
+    "quote": "shall be subject to Republic Act No. 10149, otherwise known as the “GOCC Governance Act of 2011,”"
+   },
+   {
+    "law": "EO-9-1992",
+    "label": "Overlapping functions",
+    "overlap": "This issuance transferred the National Stud Farm to the Department of Agriculture, while Section 18 (National Stud Farm) transfers it from the Department of Agriculture to the Corporation.",
+    "section": "law:EO-9-1992",
+    "quote": "TRANSFERRING THE NATIONAL STUD FARM FROM THE PHILIPPINE RACING COMMISSION, OFFICE OF THE PRESIDENT TO THE DEPARTMENT OF AGRICULTURE"
+   },
+   {
+    "law": "EO-177-2003",
+    "label": "Overlapping functions",
+    "overlap": "This issuance reassigned the Philippine National Stud Book to the Commission, while Section 19 (Mandate and Functions of the National Stud Farm) assigns stud books and registries to the National Stud Farm under the Corporation.",
+    "section": "law:EO-177-2003",
+    "quote": "TRANSFERRING THE PHILIPPINE NATIONAL STUD BOOK OF THE THEN NATIONAL STUD FARM, FROM THE DEPARTMENT OF AGRICULTURE TO THE OFFICE OF THE PRESIDENT AND RE-ASSIGNING IT TO THE PHILIPPINE RACING COMMISSION"
+   },
+   {
+    "law": "RA-7324",
+    "label": "Overlapping functions",
+    "overlap": "This law amended PD No. 420 on the composition of the Commission's Board, which Section 4 (Board of Directors) replaces with a seven-member Board of the Corporation.",
+    "section": "law:RA-7324",
+    "quote": "AN ACT INCREASING THE MEMBERS OF THE BOARD OF THE PHILIPPINE RACING COMMISSION, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NUMBERED FOUR HUNDRED TWENTY, AS AMENDED"
+   }
+  ],
+  "salient_features": "HB No. 9386 seeks to reconstitute the Philippine Racing Commission into the Philippine Racing Corporation (PHILRACOR), a government-owned or controlled corporation that will serve as the primary regulatory and developmental authority for horse racing and other authorized animal racing. Its salient features are as follows:\na. Section 1 (Short Title) provides that the measure shall be known as the Philippine Racing Corporation Modernization and Social Protection Act.\nb. Section 2 (Declaration of Policy) provides for the promotion, regulation and modernization of horse racing and other authorized animal racing, transparent management of racing revenues, sustainable funding of racing programs and the National Stud Farm, and the social protection of jockeys and horse trainers.\nc. Section 3 (Creation of the Philippine Racing Corporation) provides that the Commission is reorganized into a non-stock GOCC with original charter, wholly owned by the National Government, attached to the Office of the President and subject to RA No. 10149.\nd. Section 4 (Board of Directors) provides that the Corporation shall be governed by a Board composed of a Chairperson and six Directors appointed by the President, three of whom shall represent racehorse owners, jockeys and horse trainers.\ne. Section 5 (Term of Office) provides that appointive Directors shall serve one-year terms, with reappointment subject to nomination by the Governance Commission for GOCCs based on performance.\nf. Section 6 (Powers and Functions of the Corporation) provides that the Corporation shall supervise and regulate horse racing, license racing participants, approve racing calendars, decide violations, monitor franchise and revenue compliance of racing clubs, and coordinate with the PCSO, GAB and DA.\ng. Section 7 (Executive Director as Head of Office) provides for an Executive Director appointed by the Board as head of office, with authority, upon Board approval, to create, reclassify or abolish positions subject to applicable rules.\nh. Section 8 (Compensation, Position Classification, and Benefits) provides that the compensation of the Board, officers and employees shall follow the Compensation and Position Classification System for GOCCs under RA No. 10149.\ni. Section 18 (National Stud Farm) provides that the National Stud Farm is placed under the Corporation, with its functions, assets and resources currently administered by the BAI and the DA transferred to the Corporation.\nj. Section 19 (Mandate and Functions of the National Stud Farm) provides that the National Stud Farm shall implement horse-breeding programs, maintain stud books and registries, supervise importation of breeding stock, and provide technical assistance to breeders.\nk. Section 25 (Abolition of the Philippine Racing Commission; Transfer) provides that the Commission is abolished and its powers, personnel, assets, funds, records and pending matters are transferred to the Corporation, with existing licenses and issuances remaining valid.\nl. Section 27 (Repealing Clause) provides for the repeal of PD No. 420 and the amendment or repeal of RA No. 6115 insofar as inconsistent with the measure.",
+  "related_measures_policy": "HB No. 9386 may be considered alongside HB No. 1525 (18th Congress), whose title proposes extending the Commission's jurisdiction to other kinds of animal racing. The measure repeals PD No. 420 and amends or repeals RA No. 6115 under Section 27 (Repealing Clause), places the National Stud Farm under RA No. 4618 under the Corporation through Section 18 (National Stud Farm), reversing the transfer to the Department of Agriculture made by EO No. 9 (1992), and subjects the Corporation to RA No. 10149 under Section 3 (Creation of the Philippine Racing Corporation). No FY 2027 Budget Priorities Framework or LEDAC alignment was identified. The review should assess the justification for converting a regulatory commission into a GOCC, the potential overlap of functions with the PCSO, GAB and DA, the fiscal implications of the transfer of the National Stud Farm and of the compensation fund, and consistency with the streamlining objectives of RA No. 12231.",
+  "fiscal_requirements": [
+   {
+    "item": "Members",
+    "detail": "Board of a Chairperson and six Directors appointed by the President, compensated under the GOCC compensation system",
+    "section": "Section 4 (Board of Directors)"
+   },
+   {
+    "item": "Position",
+    "detail": "Executive Director as head of office, appointed by the Board",
+    "section": "Section 7 (Executive Director as Head of Office)"
+   },
+   {
+    "item": "Personnel and compensation",
+    "detail": "Staffing, compensation and benefits governed by the Compensation and Position Classification System for GOCCs under RA No. 10149",
+    "section": "Section 8 (Compensation, Position Classification, and Benefits)"
+   },
+   {
+    "item": "Transfer of resources",
+    "detail": "Functions, assets, equipment and resources of the National Stud Farm transferred from the BAI and DA to the Corporation",
+    "section": "Section 18 (National Stud Farm)"
+   },
+   {
+    "item": "Transfer of resources",
+    "detail": "Personnel, assets, funds and properties of the Philippine Racing Commission transferred to the Corporation",
+    "section": "Section 25 (Abolition of the Philippine Racing Commission; Transfer)"
+   }
+  ],
+  "reviewer_checks": [
+   "Review the full text of Section 13 (Sources of the Fund), Section 23 (Budgetary Support) and Section 24 (Tax Exemption of the Fund) to determine funding sources, any appropriation from the General Fund and any tax exemption.",
+   "Confirm whether the Corporation is expected to be self-sustaining or will require budgetary support as a GOCC.",
+   "Verify the heading of Section 26, which appears incomplete.",
+   "Check the relationship of the Corporation's functions with those of the PCSO, GAB and DA and with existing racing club franchises.",
+   "Confirm the status of HB No. 1525 (18th Congress) and whether a Senate counterpart has been filed.",
+   "Verify the citation of RA No. 28 in the bill, which appears unrelated to horse racing."
+  ]
+ },
+ "checks": [
+  {
+   "claim": "The title proposes extending the Commission's jurisdiction to other animal racing, a subject also covered by Section 21 (Regulation of Other Animal Races) of HB No. 9386.",
+   "section": "meta:HB-18-1525",
+   "quote": "TO INCLUDE OTHER KINDS OF ANIMAL RACING UNDER THE JURISDICTION AND CONTROL OF THE PHILIPPINE RACING COMMISSION",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 27 (Repealing Clause) repeals PD No. 420 and Section 25 (Abolition of the Philippine Racing Commission; Transfer) abolishes the Commission it created.",
+   "section": "HB-20-9386:s27",
+   "quote": "Presidential Decree No. 420, as amended, is hereby repealed, and its relevant provisions are hereby incorporated, revised, or restated under this Act.",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 27 (Repealing Clause) amends or repeals RA No. 6115 insofar as it is inconsistent with the provisions on the Jockeys and Horse Trainers Injury, Disability and Death Compensation Fund.",
+   "section": "HB-20-9386:s27",
+   "quote": "Republic Act No. 6115 is hereby amended or repealed insofar as it is inconsistent with the provisions of this Act",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 18 (National Stud Farm) and Section 19 (Mandate and Functions of the National Stud Farm) place the National Stud Farm created under RA No. 4618 under the Corporation.",
+   "section": "HB-20-9386:s18",
+   "quote": "The National Stud Farm, created under Republic Act No. 4618 to improve the breed of Philippine horses and to prevent the illegal importation of race horses, is hereby placed under the supervision and control",
+   "check": "verified"
+  },
+  {
+   "claim": "Section 3 (Creation of the Philippine Racing Corporation), Section 4 (Board of Directors), Section 5 (Term of Office) and Section 8 (Compensation, Position Classification, and Benefits) subject the Corporation to RA No. 10149.",
+   "section": "HB-20-9386:s3",
+   "quote": "shall be subject to Republic Act No. 10149, otherwise known as the “GOCC Governance Act of 2011,”",
+   "check": "verified"
+  },
+  {
+   "claim": "This issuance transferred the National Stud Farm to the Department of Agriculture, while Section 18 (National Stud Farm) transfers it from the Department of Agriculture to the Corporation.",
+   "section": "law:EO-9-1992",
+   "quote": "TRANSFERRING THE NATIONAL STUD FARM FROM THE PHILIPPINE RACING COMMISSION, OFFICE OF THE PRESIDENT TO THE DEPARTMENT OF AGRICULTURE",
+   "check": "verified"
+  },
+  {
+   "claim": "This issuance reassigned the Philippine National Stud Book to the Commission, while Section 19 (Mandate and Functions of the National Stud Farm) assigns stud books and registries to the National Stud Farm under the Corporation.",
+   "section": "law:EO-177-2003",
+   "quote": "TRANSFERRING THE PHILIPPINE NATIONAL STUD BOOK OF THE THEN NATIONAL STUD FARM, FROM THE DEPARTMENT OF AGRICULTURE TO THE OFFICE OF THE PRESIDENT AND RE-ASSIGNING IT TO THE PHILIPPINE RACING COMMISSION",
+   "check": "verified"
+  },
+  {
+   "claim": "This law amended PD No. 420 on the composition of the Commission's Board, which Section 4 (Board of Directors) replaces with a seven-member Board of the Corporation.",
+   "section": "law:RA-7324",
+   "quote": "AN ACT INCREASING THE MEMBERS OF THE BOARD OF THE PHILIPPINE RACING COMMISSION, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NUMBERED FOUR HUNDRED TWENTY, AS AMENDED",
+   "check": "verified"
+  }
+ ],
+ "meta": {
+  "prepared_by": "Claude (scheduled TrAIce run under the owner's Claude subscription)",
+  "prompt_version": "v3",
+  "grade": "C",
+  "time": "2026-11-22T00:07:41+00:00"
+ }
+}
