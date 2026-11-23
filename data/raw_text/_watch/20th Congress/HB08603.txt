@@ -1,0 +1,250 @@
+ 1
+ 2                               Republic of the Philippines
+ 3                             HOUSE OF REPRESENTATIVES
+ 4                               Batasan Hills, Quezon City                      March 17, 2026
+ 5                               TWENTIETH CONGRESS                               11:52 am
+ 6                                 First Regular Session
+ 7
+ 8
+ 9                                                 8603
+                                    HOUSE BILL NO. _____
+10
+11
+12                        Introduced by Hon. Julienne "Jam" L. Baronda
+13
+14
+15
+16                                  EXPLANATORY NOTE
+17
+
+18   The rapid growth of digital communication has significantly transformed the way
+19   Filipinos engage in public discourse, exchange information, and interact with one
+20   another. Social media platforms have become powerful tools for communication,
+21   commerce, and civic participation. However, these same platforms have increasingly
+22   been misused to commit acts that violate the rights of others, including cyberbullying,
+23   harassment, impersonation, identity theft, fraud, and the dissemination of defamatory
+24   or malicious content.
+
+25   The ease with which individuals can create multiple or anonymous online identities has
+26   contributed to the proliferation of such unlawful activities. Perpetrators frequently hide
+27   behind fictitious or unverified accounts to evade accountability for acts that cause
+28   serious harm to individuals, institutions, and the public at large.
+
+29   Data from the Department of Information and Communications Technology (DICT)
+30   underscores the magnitude of cyber-related offenses in the country. According to the
+31   “Briefer on Monitoring of Cyber-Related Crimes 2023–2024,” the Philippines recorded
+32   87,595 cybercrime incidents from March 2013 to October 2025, reflecting the growing
+33   scale of cyber-enabled criminal activities nationwide. The same report identifies online
+34   libel, illegal access, computer-related identity theft, computer-related fraud, data
+35   interference, and system interference among the most frequently reported cyber
+36   offenses, many of which are facilitated through the misuse of social media platforms and
+37   anonymous digital identities.
+
+38   DICT monitoring further reveals the increasing vulnerability of digital platforms to
+39   abuse and cyber threats. In 2023 alone, 1,834 cyber incidents were recorded,
+40   representing a 62.44 percent increase from the 1,129 incidents reported in 2022,
+41   highlighting the rapid escalation of cyber threats affecting individuals, organizations,
+42   and government institutions.
+43   Recognizing the increasing risks associated with anonymous digital communication, the
+44   Philippine government has already taken steps to strengthen accountability in online
+45   and telecommunications systems. Through Republic Act No. 11934, Congress required
+46   all mobile subscribers to register their SIM cards using verified personal identification
+47   in order to prevent scams, fraud, and other crimes facilitated through anonymous
+48   communication channels.
+
+49   The policy rationale behind the SIM Card Registration Act demonstrates the State’s
+50   commitment to ensuring that digital communication tools are not misused for criminal
+51   activities while still protecting legitimate use and personal privacy. Just as anonymous
+52   SIM cards had been exploited for scams, phishing schemes, and harassment,
+53   anonymous social media accounts have likewise become instruments for committing
+54   cybercrimes, spreading misinformation, and violating the rights of others.
+
+55   Given that mobile numbers are now registered identities under the SIM Card
+56   Registration Act, social media platforms—which often rely on mobile numbers for
+57   account creation and verification—should likewise adopt stronger identity
+58   authentication mechanisms to ensure accountability in digital spaces.
+
+59   At the same time, many countries have begun implementing identity verification
+60   requirements for social media platforms. Jurisdictions such as China, Vietnam,
+61   Malaysia, and South Korea have adopted systems requiring identity authentication for
+62   users of major online platforms in order to deter cybercrime, protect minors, and
+63   improve accountability for digital activities. Other countries, including Thailand,
+64   Australia, and the United Kingdom, are also implementing or studying similar identity
+65   verification measures in response to increasing online harms.
+
+66   In the Philippines, the government has already established a secure national
+67   identification framework through the Philippine Identification System (PhilSys)
+68   pursuant to Republic Act No. 11055. PhilSys provides a reliable and efficient mechanism
+69   for verifying the identity of individuals while maintaining safeguards for personal data
+70   and privacy.
+
+71   This proposed measure seeks to build upon these existing policies by requiring social
+72   media accounts to undergo identity verification through PhilSys authentication. While
+73   individuals may maintain multiple social media accounts, each account must be linked
+74   to a verified identity in order to discourage the proliferation of anonymous or fraudulent
+75   accounts frequently used to commit cybercrimes and violate the rights of others.
+
+76   This measure does not seek to curtail freedom of expression. Rather, it ensures that the
+77   exercise of such freedom in digital spaces is accompanied by responsibility and
+78   accountability. Moreover, the bill incorporates safeguards to ensure that personal
+79   information collected for identity verification purposes is protected in accordance with
+80   Republic Act No. 10173.
+
+81   By strengthening identity verification mechanisms in social media platforms and
+82   aligning with the policy framework established under the SIM Card Registration Act,
+83   this bill aims to foster a safer and more responsible digital environment while protecting
+84   citizens from cyber-enabled crimes and abuses.
+85    In view of the foregoing, the passage of this bill is earnestly sought.
+
+86
+87
+88
+89                           HON. JULIENNE “JAM” L. BARONDA
+90                                      Representative
+91                                  Lone District, Iloilo City
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128                               Republic of the Philippines
+129                             HOUSE OF REPRESENTATIVES
+130                               Batasan Hills, Quezon City
+131                               TWENTIETH CONGRESS
+132                                 First Regular Session
+133
+134
+135                                                 8603
+                                     HOUSE BILL NO. _____
+136
+137
+138                       Introduced by Hon. Julienne "Jam" L. Baronda
+139
+140
+
+141      AN ACT REQUIRING SOCIAL MEDIA ACCOUNTS TO BE VERIFIED
+142     THROUGH THE PHILIPPINE IDENTIFICATION SYSTEM (PHILSYS),
+143   PROVIDING PENALTIES FOR VIOLATIONS, AND FOR OTHER PURPOSES
+
+144   Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+145   assembled:
+
+146   SECTION 1. Short Title. This Act shall be known as the “Verified Social Media
+147   Account Act.”
+
+148   SECTION 2. Declaration of Policy. It is hereby declared the policy of the State to
+149   promote accountability, transparency, and responsibility in digital communication
+150   platforms. The State recognizes the growing influence of social media on public
+151   discourse, public safety, and national security. To prevent online fraud, impersonation,
+152   cybercrime, and misinformation, the State shall ensure that social media accounts are
+153   linked to verified identities through the national identification system while protecting
+154   personal data and privacy.
+
+155   SECTION 3. Definition of Terms. For purposes of this Act:
+
+156      a. Social Media Platform – Any internet-based platform that allows users to
+157         create profiles, publish content, communicate, and interact with other users.
+158      b. Verified Account – A social media account that has undergone identity
+159         verification through the national identification system.
+160      c. User – Any natural person who creates or maintains a social media account.
+161      d. PhilSys Identification – The unique identification credentials issued under
+162         the national identification system administered by the Philippine Statistics
+163         Authority.
+
+164   SECTION 4. Mandatory Social Media Identity Verification. All social media
+165   accounts operating within the Philippines shall undergo identity verification through the
+166   Philippine Identification System (PhilSys). Individuals may maintain multiple social
+167   media accounts; however, each account must be linked to a verified identity through the
+168   PhilSys authentication system.
+
+169   SECTION 5. PhilSys-Based Verification Requirements. Social media platforms
+170   operating in the Philippines shall conform to the following:
+
+171      a. Require users to verify their identity through the Philippine Identification System
+172         (PhilSys);
+173      b. Verification shall include authentication using the PhilSys Number (PSN) or
+174         other authorized PhilSys credentials; and
+175      c. Ensure that no social media account is activated unless the user’s identity has
+176         been authenticated through the PhilSys system.
+
+177   SECTION 6. Duties of Social Media Platforms. Social media platforms operating
+178   in the Philippines shall:
+
+179      a. Implement secure systems to authenticate users through the PhilSys verification
+180         system;
+181      b. Prevent and detect fraudulent or impersonation accounts;
+182      c. Ensure secure handling and encryption of identity verification data; and
+183      d. Comply with lawful requests from authorized government agencies as provided
+184         by law.
+
+185   SECTION 7. Implementing Agencies. The implementation of this Act shall be
+186   jointly overseen by:
+
+187      a. the Department of Information and Communications Technology;
+188      b. the National Privacy Commission; and
+189      c. the Philippine Statistics Authority.
+
+190   These agencies shall coordinate to establish secure systems enabling social media
+191   platforms to verify users through PhilSys.
+
+192   SECTION 8. Penalties.
+
+193      a. For Individuals: Any person who intentionally uses false identities, falsified
+194         credentials, or attempts to bypass PhilSys verification shall be subject to:
+195            i.  A fine of ₱10,000 to ₱100,000;
+196           ii.  Suspension or termination of the account; or
+197          iii.  Both, at the discretion of the appropriate authority.
+198      b. For Social Media Platforms: Social media platforms that fail to implement
+199         the required PhilSys verification mechanisms shall be subject to administrative
+200         fines and possible restrictions on operations within the Philippines.
+
+201   SECTION 9. Data Privacy Protection. All personal information collected under this
+202   Act shall be protected in accordance with the Data Privacy Act of 2012. Such
+203   information shall only be used for identity verification purposes and shall not be
+204   disclosed without lawful authority.
+205   SECTION 10. Implementing Rules and Regulations. Within ninety (90) days
+206   from the effectivity of this Act, the implementing agencies shall promulgate the
+207   necessary rules and regulations for its effective implementation.
+
+208   SECTION 11. Separability Clause. If any provision of this Act is declared
+209   unconstitutional or invalid, the remaining provisions shall remain in full force and effect.
+
+210   SECTION 12. Repealing Clause. All laws, decrees, executive orders, rules, and
+211   regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+212   SECTION 13. Effectivity. This Act shall take effect fifteen (15) days after its
+213   publication in the Official Gazette or in a newspaper of general circulation.
+
+214   Approved,
+

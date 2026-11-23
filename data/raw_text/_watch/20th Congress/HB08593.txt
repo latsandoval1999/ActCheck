@@ -1,0 +1,243 @@
+                            Republic of the Philippines
+                      HOUSE OF REPRESENTATIVES
+                             Quezon City, Metro Manila
+                                                                           March 17, 2026
+                             TWENTIETH CONGRESS                              11:39 am
+                              First Regular Session
+
+                                             8593
+                           HOUSE BILL NO. _____________
+
+Introduced by:
+              HON. CHRISTOPHERSON “COCO” M. YAP
+
+                              AN ACT
+CREATING THE PHILIPPINE BUSINESS REGISTRY DATABANK, ESTABLISHING A
+FRAMEWORK FOR INTEROPERABILITY WITH EXISTING GOVERNMENT
+BUSINESS DATABASES, PROMOTING MSME DEVELOPMENT AND BUSINESS
+MATCHMAKING, ENSURING DATA PRIVACY AND SECURITY, AND FOR OTHER
+PURPOSES
+
+                               EXPLANATORY NOTE
+
+Micro, small, and medium enterprises (MSMEs) are the backbone of the Philippine
+economy. Yet many businesses still struggle to ind partners, suppliers, and new
+markets because reliable information about companies is scattered across different
+government of ices and local government units. When business data is fragmented or
+hard to access, entrepreneurs lose opportunities to connect, grow their networks, and
+expand their operations.
+
+Several laws have already taken steps to improve the business information system.
+The Ease of Doing Business Act created a Central Business Portal and a Philippine
+Business Databank to help government agencies verify registered businesses. Other
+laws have also recognized the need for a national repository of business information
+and an online database for online transactions. These efforts are important, but they
+mainly focus on government veri ication and regulation, and they do not fully address
+the need for a platform that helps businesses discover and connect with one another.
+
+This bill ills that gap by creating a Philippine Business Registry Databank under the
+Department of Trade and Industry. The proposed system will provide veri ied and
+standardized business pro iles that make it easier for companies, especially MSMEs,
+
+                                                                         1|Page
+to ind potential partners, suppliers, and markets. It will also work with existing
+government databases so that information can be shared ef iciently without requiring
+businesses to repeatedly submit the same documents.
+
+At the same time, the measure ensures strong protection for privacy, trade secrets,
+and sensitive information. Only necessary data will be collected, and safeguards will
+be put in place to prevent misuse. By improving access to reliable business
+information while protecting con identiality, this bill aims to strengthen business
+connections, support MSME growth, and promote greater economic opportunities
+across the country.
+
+In view of the foregoing, ug sa ngalan sa SERBISYONG TINUORAY, the undersigned
+respectfully requests the immediate passage of this measure.
+
+
+
+                                  CHRISTOPHERSON “COCO” M. YAP
+                            Representative, Second District of Southern Leyte
+
+
+
+
+                                                                         2|Page
+                             Republic of the Philippines
+                       HOUSE OF REPRESENTATIVES
+                             Quezon City, Metro Manila
+
+                              TWENTIETH CONGRESS
+                               First Regular Session
+
+
+                                              8593
+                            HOUSE BILL NO. _____________
+
+Introduced by:
+              HON. CHRISTOPHERSON “COCO” M. YAP
+
+                              AN ACT
+CREATING THE PHILIPPINE BUSINESS REGISTRY DATABANK, ESTABLISHING A
+FRAMEWORK FOR INTEROPERABILITY WITH EXISTING GOVERNMENT
+BUSINESS DATABASES, PROMOTING MSME DEVELOPMENT AND BUSINESS
+MATCHMAKING, ENSURING DATA PRIVACY AND SECURITY, AND FOR OTHER
+PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+assembled:
+
+SECTION 1. Short Title. — This Act shall be known as the “Philippine Business
+Registry Databank Act.”
+
+SECTION 2. Declaration of Policy. — It is the policy of the State to promote ease of
+doing business, trade and investments, MSME development, and evidence-based
+economic governance through secure electronic networking and information
+services, while protecting personal information and con idential business
+information in accordance with Republic Act No. 10173 and applicable jurisprudence.
+
+SECTION 3. Creation of the Philippine Business Registry Databank (PBRD). —
+There is hereby created a Philippine Business Registry Databank (PBRD), which shall
+be a specialized national databank intended to: (a) provide veri ied business pro iles
+for business-to-business (B2B) discovery and matchmaking; (b) facilitate access to
+government and private sector business development services, including training and
+market information; and (c) support trade and investment promotion through
+electronic networking.
+
+                                                                           3|Page
+The PBRD shall not replace the Philippine Business Databank (PBD) mandated under
+Republic Act No. 11032, but shall operate as a distinct system with a separate purpose
+and dataset, interoperable with the PBD and other relevant government systems.
+
+SECTION 4. Relationship with the Philippine Business Databank (PBD), Central
+Business Portal (CBP), and Other Government Databases. —
+
+   (a) Interoperability. — The PBRD shall be designed for interoperability with the
+       PBD and CBP under Republic Act No. 11032, and with other government
+       databases that contain business registration and permitting information,
+       subject to lawful sharing and data minimization.
+
+   (b) No Duplication of Core Registration Data. — The PBRD shall rely on the PBD
+       (or the originating agency databases linked thereto) for verification of the
+       existence and registration status of a business, to avoid duplicative collection
+       of core registration information.
+
+   (c) Trade Secrets and Competition. — Data sharing and publication under this
+       Act shall at all times protect trade secrets and promote competition.
+
+SECTION 5. Lead Implementing Agency; System Owner. — The Department of
+Trade and Industry (DTI) shall be the lead implementing agency and system owner of
+the PBRD, given its mandate on trade, investment promotion, and MSME
+development. The DTI shall coordinate with the Department of Information and
+Communications Technology (DICT) to ensure interoperability standards,
+cybersecurity, and linkage with the PBD and CBP.
+
+SECTION 6. Philippine Business Registry Governing Council. — A Philippine
+Business Registry Governing Council (Council) is hereby created to set policy
+direction and oversee implementation, composed of: (a) DTI, as Chair; (b) DICT, as Co-
+Chair; (c) Department of the Interior and Local Government (DILG); (d) Securities and
+Exchange Commission (SEC); (e) Cooperative Development Authority (CDA); (f)
+Philippine Statistics Authority (PSA); (g) National Privacy Commission (NPC), as
+advisory member on privacy compliance; and (h) representatives from accredited
+business organizations with nationwide membership, as may be provided in the IRR,
+as non-voting private sector advisers.
+
+
+
+
+                                                                           4|Page
+SECTION 7. Data to be Contained in the PBRD; Data Minimization. — The PBRD
+shall contain only data that are necessary to accomplish the purposes of Section 3. It
+may include:
+
+   (a) business name and trade name;
+   (b) type of entity and primary registration reference numbers (as veri ied through
+       PBD/originating agencies);
+   (c) city/municipality of principal business address;
+   (d) industry classi ication and products/services categories;
+   (e) point-of-contact information for business inquiries, subject to consent and the
+       Data Privacy Act;
+   (f) certi ications, quality standards, and capability statements voluntarily
+       submitted by the business;
+   (g) participation in government MSME programs, where disclosure is authorized
+       by law or by the data subject; and
+   (h) other ields as may be necessary and narrowly tailored under the IRR.
+
+SECTION 8. Voluntary Enrollment and Consent-Based Fields. — Except for ields
+that may be sourced from existing government registries for veri ication (e.g.,
+business existence/status), participation in the PBRD and publication of business
+pro ile ields shall be voluntary. Personal information ields, if any, shall be processed
+on the basis of consent or other lawful criteria under Republic Act No. 10173 and its
+IRR.
+
+SECTION 9. Access and Publication Rules. —
+
+   (a) Public Portal. — The DTI may operate a public portal that allows searching and
+       viewing of limited business pro ile information intended for business
+       matchmaking and trade promotion.
+
+   (b) Restricted Government Access. — Government access shall be role-based and
+       limited to of icial functions.
+
+   (c) Prohibited Disclosures. — The PBRD shall not publish:
+
+          i.   government-issued identi ication numbers;
+         ii.   personal addresses of natural persons;
+        iii.   con idential business information and trade secrets; and
+        iv.    other information protected by law.
+
+
+                                                                            5|Page
+SECTION 10. Data Privacy, Security, and Audit. — The DTI and DICT shall
+implement appropriate organizational, physical, and technical measures to protect
+PBRD data, including authentication, encryption, access logs, retention schedules, and
+breach response measures, consistent with Republic Act No. 10173 and its IRR.
+
+SECTION 11. Role of LGUs and Government Agencies. — LGUs and concerned
+NGAs shall cooperate with the DTI and DICT by: (a) enabling veri ication through
+linkage with the PBD and/or their databases consistent with Republic Act No. 11032;
+and (b) designating focal persons for technical coordination, data standards
+alignment, and quality assurance.
+
+Nothing in this Act shall be construed to authorize the PBRD to require LGUs to
+impose new fees or surcharges on business permits.
+
+SECTION 12. Prohibited Acts and Penalties. — The IRR shall provide
+administrative and other appropriate sanctions for unauthorized access, misuse, or
+disclosure of PBRD information, without prejudice to the application of Republic Act
+No. 10173 and other relevant laws.
+
+SECTION 13. Appropriations. — The amount necessary for the initial
+implementation of this Act shall be charged against the current appropriations of the
+DTI, subject to budgeting, programming, and auditing rules. Thereafter, such sums as
+may be necessary shall be included in the annual General Appropriations Act.
+
+SECTION 14. Implementing Rules and Regulations. — Within ninety (90) days
+from effectivity, the DTI, in coordination with the DICT, DILG, SEC, CDA, PSA, and NPC,
+and after stakeholder consultations, shall promulgate the implementing rules and
+regulations necessary to carry out this Act. The IRR shall include interoperability
+standards, consent and lawful processing rules, publication limits, security controls,
+and audit mechanisms.
+
+SECTION 15. Separability Clause. — If any provision of this Act is held invalid or
+unconstitutional, the other provisions not affected thereby shall remain in full force
+and effect.
+
+SECTION 16. Repealing Clause. — All laws, rules, and regulations inconsistent with
+this Act are hereby repealed or modi ied accordingly. This Act shall be construed in
+harmony with Republic Act No. 11032.
+
+
+
+                                                                           6|Page
+SECTION 17. Effectivity. — This Act shall take effect ifteen (15) days after its
+publication in the Of icial Gazette or in at least two (2) newspapers of general
+circulation.
+
+Approved,
+
+
+
+
+                                                                     7|Page
+
