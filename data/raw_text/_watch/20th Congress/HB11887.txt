@@ -1,0 +1,167 @@
+                           Republic of the Philippines
+                         HOUSE OF REPRESENTATIVES
+                                 Quezon City
+                                                                      November 11, 2026
+                            TWENTIETH CONGRESS                          2:25 pm
+                             Second Regular Session
+
+                                           11887
+                           HOUSE BILL NO. _________
+
+
+               Introduced by: REP. SALVADOR A. PLEYTO, SR.
+
+
+
+                             EXPLANATORY NOTE
+
+The Internet has evolved from a luxury to an absolute necessity. In the modern
+era, it is the backbone of commerce, education, public service, and daily
+communication. Despite the exponential growth of the digital economy, the
+quality of internet service in the country has consistently lagged behind global
+standards, leaving subscribers dealing with intermittent connections, unmet
+advertised speeds, and unresponsive customer service.
+
+Currently, internet service providers (ISPs) often market their services based on
+"up to" maximum speeds, with no legally binding obligation to maintain a strict
+minimum threshold of quality or reliability. This leaves consumers paying
+premium rates for subpar services, with little to no recourse for prolonged outages
+or throttled connections.
+
+This bill seeks to address these systemic issues by establishing mandatory
+minimum internet connection speeds and strict Quality of Service (QoS)
+standards for all ISPs and Public Telecommunications Entities (PTEs).
+Furthermore, it codifies a Bill of Rights for Internet Service Subscribers, ensuring
+fair treatment, transparent billing, and mandatory rebates for service
+interruptions.
+
+By holding service providers accountable and empowering consumers, this
+measure aims to accelerate the country’s digital transformation and ensure that
+every citizen has access to fast, reliable, and affordable internet.
+
+In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+                                                   SALVADOR A. PLEYTO, SR.
+                          Republic of the Philippines
+                        HOUSE OF REPRESENTATIVES
+                                Quezon City
+
+                            TWENTIETH CONGRESS
+                            Second Regular Session
+
+                                           11887
+                           HOUSE BILL NO. _________
+
+
+
+               Introduced by: REP. SALVADOR A. PLEYTO, SR.
+
+
+
+ AN ACT ESTABLISHING MINIMUM INTERNET CONNECTION SPEEDS AND
+     QUALITY OF SERVICE STANDARDS, PROTECTING THE RIGHTS OF
+      INTERNET SERVICE SUBSCRIBERS, AND FOR OTHER PURPOSES
+Be it enacted by the Senate and the House of Representatives of the Philippines in
+Congress assembled:
+
+
+SECTION 1. Short Title. — This Act shall be known as the "Internet Quality of
+Service and Subscriber Protection Act."
+
+SEC. 2. Declaration of Policy. — It is hereby declared the policy of the State to
+recognize access to the internet as a basic necessity for national development.
+The State shall ensure the provision of reliable, accessible, and fast internet
+services, protect consumers against deceptive and unfair trade practices, and
+promote accountability among Internet Service Providers (ISPs) and Public
+Telecommunications Entities (PTEs).
+
+SEC. 3. Definition of Terms. — For purposes of this Act:
+
+   1. Internet Service Provider (ISP) refers to any entity, including PTEs,
+      providing internet access to the public for a fee.
+   2. Quality of Service (QoS) refers to the overall performance of a network,
+      including parameters such as download/upload speed, latency, packet
+      loss, and network availability.
+   3. Advertised Speed refers to the internet connection speed marketed or
+      offered by the ISP to the subscriber in their service contract.
+   4. Service Outage refers to a complete loss of internet connectivity lasting for
+      at least one (1) continuous hour.
+SEC. 4. Minimum Internet Connection Speeds. — All ISPs and PTEs shall provide
+a minimum base internet connection speed that shall not be lower than:
+
+   •   Fifty (50) Megabits per second (Mbps) for fixed broadband access in urban
+       and highly urbanized areas.
+   •   Twenty-Five (25) Mbps for fixed broadband access in rural areas.
+   •   Ten (10) Mbps for mobile broadband access nationwide.
+
+The National Telecommunications Commission (NTC), in coordination with the
+Department of Information and Communications Technology (DICT), shall review
+and upgrade these minimum speed standards every two (2) years to align with
+global technological advancements.
+
+SECT. 5. Quality of Service (QoS) Standards. — ISPs shall strictly comply with the
+following QoS parameters:
+
+   1. Speed Reliability: Subscribers must experience a connection speed of not
+      less than eighty percent (80%) of the subscribed Advertised Speed at least
+      eighty percent (80%) of the time during a billing cycle.
+   2. Network Availability: ISPs must maintain a network uptime of at least
+      ninety-nine percent (99%) per month, excluding scheduled maintenance.
+      Scheduled maintenance must be announced to subscribers at least forty-
+      eight (48) hours in advance.
+   3. Latency and Packet Loss: The NTC shall prescribe strict thresholds for
+      maximum allowable latency and packet loss to ensure VoIP, video
+      conferencing, and other real-time applications function smoothly.
+
+SEC. 6. Rights of Internet Service Subscribers. — To protect consumers from
+unfair practices, an Internet Subscriber Bill of Rights is hereby established:
+
+   1. Right to Pro-Rated Rebates: Subscribers are entitled to an automatic, pro-
+      rated rebate on their monthly bill for total service outages lasting twenty-
+      four (24) cumulative hours or more within a single billing cycle, without the
+      need for the subscriber to file a formal request.
+   2. Right to Contract Termination: A subscriber may terminate their contract
+      without incurring pre-termination fees or penalties if the ISP fails to deliver
+      the guaranteed 80% minimum advertised speed for two (2) consecutive
+      months.
+   3. Right to Transparent Billing: ISPs must provide clear, itemized billing
+      statements that explicitly state the advertised speed, actual data usage (if
+      capped), and any applied rebates.
+   4. Right to Prompt Customer Service: ISPs must resolve reported technical
+      issues or service interruptions within forty-eight (48) hours of the initial
+      complaint.
+SEC. 7. Penalties. — Any ISP or PTE that fails to comply with the minimum
+speeds, QoS standards, or the subscriber rights provisions outlined in this Act
+shall be subject to the following penalties:
+
+   •   First Offense: A fine of not less than Five Hundred Thousand Pesos
+       (P500,000.00) but not exceeding One Million Pesos (P1,000,000.00).
+   •   Second Offense: A fine of not less than One Million Pesos (P1,000,000.00)
+       but not exceeding Two Million Pesos (P2,000,000.00).
+   •   Third Offense: A fine of not less than Two Million Pesos (P2,000,000.00) but
+       not exceeding Five Million Pesos (P5,000,000.00) and the revocation of their
+       legislative franchise or certificate of public convenience and necessity
+       (CPCN).
+
+SEC. 8. Implementing Rules and Regulations (IRR). — Within sixty (60) days from
+the effectivity of this Act, the NTC, DICT, and the Department of Trade and
+Industry (DTI), in consultation with consumer groups and industry stakeholders,
+shall promulgate the necessary rules and regulations for the effective
+implementation of this Act.
+
+SEC. 9. Separability Clause. — If any provision of this Act is declared
+unconstitutional or invalid, the other provisions not affected thereby shall remain
+in full force and effect.
+
+SEC. 10. Repealing Clause. — All laws, decrees, executive orders, rules, and
+regulations inconsistent with the provisions of this Act are hereby repealed or
+modified accordingly.
+
+SEC. 11. Effectivity. — This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in at least two (2) newspapers of general
+circulation.
+
+Approved,
+

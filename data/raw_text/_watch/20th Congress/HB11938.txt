@@ -1,0 +1,237 @@
+                                                 Republic of the Philippines
+                                         House of Representatives
+                                                Quezon City, Metro Manila      November 12, 2026
+                                                                                  8:00 am
+                                                 Twentieth Congress
+                                               Second Regular Session
+
+                                                           11938
+                                            HOUSE BILL NO. ______
+
+
+                 Introduced by Representatives Yedda Marie K. Romualdez,
+                      Andrew Julian K. Romualdez and Jude A. Acidre
+
+
+                       AN ACT
+ESTABLISHING A SECURE NATIONWIDE DIGITAL LAND
+REGISTRATION SYSTEM, MANDATING THE DIGITIZATION AND
+SYNCHRONIZATION OF LAND-RELATED RECORDS, AUTHORIZING
+THE USE OF BLOCKCHAIN OR OTHER SECURE AND TAMPER-
+EVIDENT TECHNOLOGIES, PROVIDING FOR THE ISSUANCE OF
+DIGITAL CERTIFICATES OF TITLE AND THE ACCEPTANCE OF
+ELECTRONICALLY NOTARIZED INSTRUMENTS
+
+                                             EXPLANATORY NOTE
+
+        The 1987 Constitution recognizes the protection of property as essential to the
+enjoyment of democracy and guarantees that no person shall be deprived of life,
+        db b         b       b     b       b b    s 1 These constitutional mandates
+require a land-registration system that accurately records, securely protects, and
+reliably verifies property rights, while ensuring that no ownership, boundary,
+annotation, or encumbrance is altered except in accordance with law and due
+          sb            b 7     b    sb .D”2db           b        b b     b            b
+             b7       d b      b b           b b          b      db       b            b
+titling, and simplify land-registration proceedings. It likewise designated the Land
+Registration Commission, whose functions are now exercised by the Land
+1
+    CONST. (1987), art. II, sec. 5; art. III, sec. 1.
+Registration Authority (LRA), as the central repository of records relating to the
+original registration of lands under the Torrens system.2 Consistent with this
+mandate, the LRA adopted the Philippine Land Registration and Information System
+(PHILARIS) for the electronic processing of land transactions, creation of databases,
+recording of annotations, and exchange of information among Registries of Deeds.3
+
+       Despite these initiatives, the country has yet to attain a fully digital and
+synchronized land-registration system. Land-related records remain distributed
+among the LRA, DENR, DAR, NCIP, BIR, LGUs, DHSUD, and other agencies. In
+July 2026, the LRA Administrator likewise identified inter-agency synchronization,
+the treatment of paper and electronic documents, aging registration software, and
+public acceptance as matters that must be addressed before fully digital titles may
+be implemented.4
+
+              b     b          b       b    b        bv b sb512”db b b E            b
+8           bv b b”aaad b          b          b b      b     b b          b         b
+and electronic signatures and authorizes government agencies to conduct
+transactions electronically.5 It is likewise consistent with Republic Act No. 11032,
+which directs government agencies, when applicable, to issue electronic versions of
+official documents with the same authority as their signed hard copies.6
+
+       Accordingly, this bill establishes a secure Nationwide Digital Land
+Registration System for the registration, annotation, verification, transfer, and
+issuance of digital certificates of title. It mandates the digitization and
+synchronization of relevant land records without transferring their legal custody or
+altering their existing legal effect. It also authorizes the LRA to use blockchain or
+other secure and tamper-evident technologies to protect the integrity, authenticity,
+and traceability of land records. The measure further ensures that digitization shall
+not create, transfer, modify, or extinguish property rights without compliance with
+existing land-registration laws. Paper-based registration and title services shall
+remain available to persons who prefer or require them. The collection, storage,
+sharing, and processing of personal information shall likewise comply with the
+
+2
+  Presidential Decree No. 1529
+3
+  Land Registration Authority, Implementing Guidelines on Electronic Registration of Land Titles and Deeds, Rule
+I, secs. 1 4, and Rule V, secs. 13 14.
+4
+  Twala, LRA Prepares for E-Notarization, Announces Use of Blockchain, AI and GIS Tech in Land Registration
+(July 15, 2026).
+5
+  Republic Act No. 8792, secs. 6 8 and 27 (2000).
+6
+  Republic Act No. 11032, sec. 9(e) (2018).
+        b b          b            b b          bv b sb.a.1Pdb b b 7 b               b
+               7
+v b b ”a.”s Through this measure, the State shall strengthen the protection of
+property rights and make land registration more secure, transparent, accessible, and
+efficient while preserving due process and the integrity of the Torrens system.
+
+
+           In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+
+                              YEDDA MARIE K. ROMUALDEZ
+
+
+
+
+      ANDREW JULIAN K. ROMUALDEZ                               JUDE A. ACIDRE
+
+
+
+
+7
+    Republic Act No. 10173, secs. 11 and 20 23 (2012).
+                                Republic of the Philippines
+                           House of Representatives
+                                Quezon City, Metro Manila
+
+                                 Twentieth Congress
+                               Second Regular Session
+
+                              HOUSE BILL NO. 11938
+                                             ______
+
+
+            Introduced by Representatives Yedda Marie K. Romualdez,
+                 Andrew Julian K. Romualdez and Jude A. Acidre
+
+
+                       AN ACT
+ESTABLISHING A SECURE NATIONWIDE DIGITAL LAND
+REGISTRATION SYSTEM, MANDATING THE DIGITIZATION AND
+SYNCHRONIZATION OF LAND-RELATED RECORDS, AUTHORIZING
+THE USE OF BLOCKCHAIN OR OTHER SECURE AND TAMPER-
+EVIDENT TECHNOLOGIES, PROVIDING FOR THE ISSUANCE OF
+DIGITAL CERTIFICATES OF TITLE AND THE ACCEPTANCE OF
+ELECTRONICALLY NOTARIZED INSTRUMENTS
+      Be it enacted by the Senate and House of Representatives of the Philippines
+in Congress assembled:
+         Section 1. Short Title. This Act shall be known as the Digital Property and
+     n          n
+
+         Section 2. Declaration of Policy.      Pursuant to Article II, Section 5 of the
+1987 Constitution, which provides that the maintenance of peace and order, the
+protection of life, liberty, and property, and promotion of the general welfare are
+essential for the enjoyment by all the people of the blessings of democracy, and
+Article III, Section 1 thereof, which provides that no person shall be deprived of life,
+       db b              b       b   b          b b    d b b b      b        b   b      b b
+the State to protect property rights and strengthen the security, integrity, and
+reliability of land registration.
+
+
+       To this end, the government shall establish a nationwide digital land
+registration system for the registration, annotation, and issuance of digital land titles.
+The system shall streamline the process while ensuring the security and legal validity
+of the digital land tiles.
+
+
+       Section 3. Definition of Terms. As used in this Act, the terms:
+
+
+       (a)                   is a shared, immutable ledger that facilitates the process of
+             recording transactions and tracking tangible or intangible assets in a
+             business network, where virtually anything or value can be tracked and
+             traded, reducing risk and cutting costs for all involved;
+
+
+       (b)           l       l           lshall refer to a computerized legal document that
+             proves ownership of real property.
+
+
+       Section 4. Nationwide Digital Land Registration System - The Land
+Registration Authority (LRA) shall establish, operate, and maintain a secure
+nationwide online system for the registration, annotation, and issuance of digital land
+titles. Paper-based services shall still remain available to persons who prefer or
+require them.
+      Section 5. Mandatory Digitization of Land Records. The Land Registration
+Authority (LRA), including all Registries of Deeds, the Department of Environment
+and Natural Resources (DENR), Department of Agrarian Reform (DAR), National
+Commission on Indigenous Peoples (NCIP), Bureau of Internal Revenue (BIR),
+local government units (LGUs), and other concerned government agencies shall
+digitize all existing land-related records under their custody and ensure the electronic
+recording of future records.
+
+
+      Section 6. System Synchronization.        The Department of Environment and
+Natural Resources (DENR), Department of Agrarian Reform (DAR), National
+Commission on Indigenous Peoples (NCIP), Bureau of Internal Revenue (BIR),
+local government units (LGUs), and other concerned government agencies shall
+securely synchronize their system and records with the Land Registration Authority
+(LRA).
+
+
+      Section 7. Use of Blockchain Technology. The Land Registration Authority
+(LRA) is hereby authorized to use blockchain or other secure and tamper-evident
+technology to protect the integrity, authenticity, and traceability of records
+maintained under the Nationwide Digital Land Registration System.
+
+
+      Section 8. Acceptance of Electronic Documents.           The Land Registration
+Authority (LRA), including all Registries of Deeds, the Department of Environment
+and Natural Resources (DENR), Department of Agrarian Reform (DAR), National
+Commission on Indigenous Peoples (NCIP), Bureau of Internal Revenue (BIR),
+local government units (LGUs), and other concerned government agencies shall
+accept digital documents and those electronically notarized under the Rules on
+Electronic Notarization for registration, annotation, issuance of digital land titles,
+and for other official purposes
+
+
+      Section 9. Legal Validity and Evidentiary Value. Digital land titles and land
+records registered, annotated, or issued pursuant to this Act shall have the same legal
+validity, force, effect, and evidentiary value as their paper counterparts. They shall
+not be denied admissibility in any judicial, quasi-judicial, or administrative
+proceeding solely because they are in digital form, subject to applicable laws and
+rules on authentication and evidence.
+
+
+      Section 10. Appropriations. The amounts necessary for the implementation
+of this Act shall be included in the respective budgets of the concerned national
+government agencies and local government units.
+
+
+      Section 11. Implementing Rules and Regulations. Within (180) days from
+the approval of this Act, the Land Registration Authority shall promulgate the
+Implementing Rules and Regulations (IRR) to carry out the provisions of this Act,
+which is to shift to fully digitalization of the registration, annotation, issuance of
+land titles and to streamline its process.
+
+
+      Section 12. Separability Clause.       If any provision of this Act is declared
+invalid or unconstitutional, the provisions not affected thereby shall remain in full
+force and effect.
+      Section 13. Repealing Clause.        All laws, presidential decrees, executive
+orders, presidential proclamations, rules and regulations or parts thereof contrary to
+or inconsistent with this Act are hereby repealed or modified accordingly.
+
+
+      Section 14. Effectivity.   This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in at least two (2) newspapers of general
+circulation.
+
+
+      Approved,
+

@@ -1,0 +1,282 @@
+                               Republic of the Philippines
+                          House of Representatives
+                               Quezon City, Metro Manila              November 11, 2026
+                                                                         6:54 pm
+                                Twentieth Congress
+                              Second Regular Session
+
+                            HOUSE BILL NO. 11913
+                                           ______
+
+
+         Introduced by Representatives Yedda Marie K. Romualdez,
+              Andrew Julian K. Romualdez and Jude A. Acidre
+
+
+                         AN ACT
+MODERNIZING REPUBLIC ACT NO. 6735, OTHERWISE KNOWN AS
+THE "INITIATIVE AND REFERENDUM ACT," BY AUTHORIZING THE
+SECURE DIGITAL COLLECTION, SUBMISSION, AND VALIDATION OF
+SIGNATURES FOR PEOPLE'S INITIATIVE AND REFERENDUM,
+PROVIDING SAFEGUARDS FOR CYBERSECURITY, DATA PRIVACY,
+AND ACCESSIBILITY, AND FOR OTHER PURPOSES
+
+                            EXPLANATORY NOTE
+
+       The 1987 Constitution recognizes the sovereign right of the people to directly
+participate in governance through the exercise of initiative and referendum. Aligned
+with this constitutional mandate, Republic Act No. 6735, otherwise known as the
+           n    n            n   m was enacted to provide the citizens with a
+mechanism to directly propose, amend, or reject laws and local ordinances.
+
+      More than three decades after its enactment, however, the processes
+prescribed under Republic Act No. 6735 remain largely dependent on manual and
+paper-based methods of signature collection and verification. While these
+procedures were appropriate at the t      e e e   e       ge     e             e
+advancements and the increasing digitalization of government services present
+opportunities to make democratic participation more accessible, efficient, and
+responsive to the needs of the Filipino people.
+
+
+                                                                                      1
+         The Philippines has already recognized the legal validity of electronic
+ documents and electronic signatures through Republic Act No. 8792, otherwise
+ known as the               n            n n nl”””m while Republic Act No. 10173,
+ or the          n        n   n n l”Elm provides safeguards for the protection of
+ personal information in digital transactions. Despite these developments, the
+ Initiative and Referendum Act has yet to be updated to explicitly authorize the secure
+ use of digital technologies in the collection, submission, and validation of signatures
+ for initiative and referendum proceedings.
+
+        This measure seeks to modernize the existing law by authorizing the use of
+ secure digital platforms for signature collection and verification while maintaining
+ the integrity, transparency, and credibility of the initiative and referendum process.
+ The bill provides safeguards through voter authentication mechanisms,
+ cybersecurity standards, independent audits, data privacy protections, and penalties
+ for fraud and unauthorized access. At the same time, it preserves traditional paper-
+ based methods to ensure that citizens who may have limited access to digital
+ technologies are not disenfranchised.
+
+        By leveraging secure digital tools, this measure aims to reduce administrative
+ burdens, improve accessibility, encourage broader civic participation, and
+ strengthen the exercise of direct democracy without compromising electoral
+ integrity. In doing so, it advances the constitutional principle that sovereignty resides
+ in the people and that all government authority emanates from them.
+
+       In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+                       YEDDA MARIE K. ROMUALDEZ
+
+
+
+
+ANDREW JULIAN K. ROMUALDEZ                                  JUDE A. ACIDRE
+
+
+
+
+                                                                                        2
+                               Republic of the Philippines
+                          House of Representatives
+                              Quezon City, Metro Manila
+
+                               Twentieth Congress
+                             Second Regular Session
+
+                                           11913
+                            HOUSE BILL NO. ______
+
+
+           Introduced by Representatives Yedda Marie K. Romualdez,
+                Andrew Julian K. Romualdez and Jude A. Acidre
+
+
+                         AN ACT
+MODERNIZING REPUBLIC ACT NO. 6735, OTHERWISE KNOWN AS
+THE "INITIATIVE AND REFERENDUM ACT," BY AUTHORIZING THE
+SECURE DIGITAL COLLECTION, SUBMISSION, AND VALIDATION OF
+SIGNATURES FOR PEOPLE'S INITIATIVE AND REFERENDUM,
+PROVIDING SAFEGUARDS FOR CYBERSECURITY, DATA PRIVACY,
+AND ACCESSIBILITY, AND FOR OTHER PURPOSES
+
+      Be it enacted by the Senate and House of Representatives of the Philippines
+in Congress assembled:
+
+        SECTION 1. Short Title. This Act shall be known as the 9             e;           e
+   e)            eq             eN r
+
+        SEC 2. Declaration of Policy.     It is hereby declared the policy of the State
+to promote broader citizen participation in democratic governance and strengthen
+the constitutional rights of the people to initiative and referendum through secure,
+accessible, transparent, and technology-enabled mechanisms. Consistent with the
+Constitution, the State shall utilize appropriate digital technologies to facilitate
+
+
+
+
+                                                                                     3
+public participation while ensuring the integrity of electoral processes, the protection
+of personal data, cybersecurity, accessibility, and equal opportunity for all citizens.
+
+
+      SEC 3. Amendment of Republic Act No. 6735.                        Republic Act No. 6735,
+           e         e e     e ;     e        e)                 eN g e e           e     e   e
+inserting new provisions authorizing the use of secure digital systems for the
+collection, submission, authentication, verification, and validation of signatures
+required under initiative and referendum proceedings.
+
+
+      SEC 4. Definition of Terms.            For purposes of this Act, the following terms
+are hereby defined:
+      (a) Digital Signature refers to an electronic signature recognized under
+      )         eN e1 reuRM–ge                 e           e e    e 2          e7         eN e
+          e–cccg e     e e               e         e   e                A
+      (b) Digital Petition Platform refers to a secure electronic system accredited
+      by the Commission on Elections (COMELEC) for the collection,
+      authentication, submission, and validation of signatures supporting initiative
+      or referendum petitions;
+      (c) Electronic Petition refers to a petition for initiative or referendum
+      submitted through an accredited digital platform;
+      (d) Multi-Factor Authentication (MFA) refers to a security mechanism
+      requiring two (2) or more verification methods to authenticate the identity of
+      a registered voter;
+      (e) Digital Verification System refers to the process of validating signatures
+      and voter information using secure electronic means approved by the
+      COMELEC.
+
+
+
+                                                                                              4
+       SEC 5. Recognition of Digital Signatures. ± The digital signatures affixed
+through accredited digital petition platforms shall have the same legal force and
+effect as handwritten signatures for purposes of initiative and referendum
+                  e       e)           eN e1 revR“Ige             e         e e       e ; itiative and
+)                 eN g e           e      e    e            e          e     e    e                 e e
+     eN ge)               eN e1 reuRM–ge           e        e e       e 2             e7           eN e
+    e–cccg e)              eN e1 rencnR“ge              e         e e       e 9       e(        eN e e
+–cn–g e       e       e            e      r
+
+
+       SEC 6. Authority of the Commission on Elections (COMELEC).                                   The
+COMELEC shall develop, establish, maintain, or accredit secure digital petition
+platforms and digital verification systems for initiative and referendum proceedings.
+The agency shall promulgate rules and regulations governing digital signature
+collection, voter authentication, submission procedures, cybersecurity standards,
+data retention, audit requirements, and other matters necessary for the effective
+implementation of this Act.
+
+
+       SEC 7. Authentication and Verification Requirements.                                All digitally
+submitted signatures shall undergo verification through mechanisms established by
+the COMELEC, which may include voter registration database matching, multi-
+factor authentication, digital certificates, biometric verification where legally
+permissible, or other comparable technologies. No signature shall be counted unless
+the identity and eligibility of the signer have been successfully verified in accordance
+with COMELEC regulations.
+
+
+       SEC 8. Cybersecurity and Data Protection Safeguards. ± The COMELEC
+shall ensure that all digital petition platforms comply with nationally recognized
+
+                                                                                                      5
+cybersecurity standards and applicable data protection laws. All collected
+information shall be protected against unauthorized access, alteration, disclosure, or
+destruction. The COMELEC shall implement encryption, access controls, audit
+trails, intrusion detection systems, and other appropriate safeguards to preserve the
+integrity of the initiative and referendum process.
+
+
+      SEC 9. Accessibility and Non-Exclusivity.         The use of digital signature
+collection shall supplement, and not replace, traditional methods of signature
+gathering authorized under Republic Act No. 6735, otherwise known as the
+ ;        e    e)           eN r
+      The COMELEC shall ensure that citizens who lack internet access, digital
+literacy, or necessary technological resources are not deprived of their constitutional
+right to participate in initiative and referendum processes.
+
+
+      SEC 10. Transparency and Public Accountability.           The COMELEC shall
+publish guidelines, audit procedures, validation methodologies, aggregate signature
+counts, and relevant reports necessary to promote public confidence in the integrity
+of digital initiative and referendum proceedings. Provided, That no personally
+identifiable information protected under applicable laws shall be disclosed.
+
+
+      SEC 11. Independent Audit and Oversight.          All accredited digital petition
+platforms shall be subject to periodic independent security audits conducted by
+qualified third-party auditors accredited by the Department of Information and
+Communications Technology (DICT).
+      The Commission on Audit (COA), the National Privacy Commission (NPC),
+and other relevant government agencies may conduct oversight reviews within their
+respective mandates.
+
+                                                                                     6
+      SEC 12. Prohibited Acts.       The following acts are prohibited:
+      (a) Knowingly submitting false, fictitious, fraudulent, or unauthorized digital
+      signatures;
+      (b) Impersonating a registered voter for purposes of digitally signing a
+      petition;
+      (c) Unauthorized access to, interference with, or manipulation of digital
+      petition platforms or verification systems;
+      (d) Selling, transferring, or unlawfully disclosing personal information
+      obtained through initiative or referendum proceedings;
+      (e) Using automated systems, bots, artificial intelligence tools, or similar
+      technologies to fraudulently generate or submit signatures; and
+      (f) Any other act intended to compromise the integrity, security, or legitimacy
+      of digital initiative and referendum processes.
+
+
+      SEC. 13. Penalties. ± Any person who commits any of the prohibited acts
+enumerated under Section 12 of this Act shall, upon conviction, suffer the penalty
+of imprisonment of six (6) years and one (1) day to twelve (12) years, or a fine of
+not less than Five Hundred Thousand Pes ew Iccgcccrcc’e             e   e      e   eE     e
+q      e(     ew Igcccgcccrcc’ge e      e    e              e   e       ge e   e        e
+of the court, without prejudice to prosecution under other applicable laws.
+      If the offender is a public officer or employee, he or she shall, in addition,
+suffer the penalty of perpetual absolute disqualification from public office. Where
+the offender is a corporation, partnership, association, or other juridical entity, the
+responsible directors, trustees, officers, employees, or other persons who knowingly
+participated in, authorized, or tolerated the commission of the offense shall be held
+
+
+
+                                                                                        7
+criminally liable, without prejudice to the administrative sanctions that may be
+imposed upon the juridical entity under existing laws.
+
+
+      SEC 14. Appropriations. ± The amount necessary for the initial
+implementation of this Act shall be charged against the current appropriations of the
+COMELEC. Thereafter, such sums as may be necessary for its continued
+implementation shall be included in the annual General Appropriations Act.
+
+
+      SEC 15. Implementing Rules and Regulations. ± Within one hundred eighty
+(180) days from the effectivity of this Act, the COMELEC, in coordination with the
+DICT, NPC, and other relevant agencies, shall promulgate the necessary rules and
+regulations for the effective implementation of this Act.
+
+
+      SEC 16. Separability Clause. ± If any provision of this Act is declared
+unconstitutional or invalid, the remaining provisions not affected thereby shall
+remain in full force and effect.
+
+
+      SEC 17. Repealing Clause. ± All laws, decrees, executive orders, rules,
+regulations, and other issuances inconsistent with the provisions of this Act are
+hereby repealed, amended, or modified accordingly.
+
+
+      SEC 18. Effectivity. ± This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in at least two (2) newspapers of general
+circulation.
+
+
+      Approved,
+
+
+
+                                                                                   8
+

@@ -1,0 +1,465 @@
+                                              Republic of the Philippines
+                                      House of Representatives
+                                             Quezon City, Metro Manila                                     November 11, 2026
+                                                                                                               6:54 pm
+                                              Twentieth Congress
+                                            Second Regular Session
+
+                                                        11922
+                                         HOUSE BILL NO. ______
+
+
+             Introduced by Representatives Yedda Marie K. Romualdez,
+                  Andrew Julian K. Romualdez and Jude A. Acidre
+
+
+                       AN ACT
+ESTABLISHING A NATIONAL NEXT-GENERATION SEQUENCING
+(NGS)  LABORATORY     REFERENCE   FRAMEWORK    AND
+PRESCRIBING NATIONAL STANDARDS THEREFOR
+
+                                          EXPLANATORY NOTE
+
+       Section 15 of Article II of the 1987 Philippine Constitution declares that
+the State shall protect and promote the right to health of the people, while Section
+11 of Article XIII directs the State to adopt an integrated and comprehensive
+approach to health development and make essential health services available to
+all. Section 10 of Article XIV likewise recognizes the importance of science and
+technology to national development and directs the State to give priority to
+research and development, innovation, and their utilization. These mandates
+support the development of a coordinated national policy for the responsible use
+of advanced genomic technologies in health care, public health, and research.
+
+       Next-Generation Sequencing (NGS) is increasingly used in clinical and
+public health applications, but research shows that its reliability depends on
+standardized laboratory procedures, analytical validation, bioinformatics, quality
+control, interpretation, and reporting. International studies have emphasized the
+continuing need for technical standards and systematic quality monitoring in
+clinical NGS laboratories.1 Proficiency-testing research likewise demonstrates
+
+
+           1 Rehder, C., Bean, L. J. H., Bick, D., et al. (2021). Next-generation sequencing for constitutional variants in the
+
+clinical laboratory, 2021 revision: A technical standard of the American College of Medical Genetics and Genomics (ACMG).
+Genetics in Medicine, 23, 1399 1415. https://pubmed.ncbi.nlm.nih.gov/33927380/
+ the importance of interlaboratory assessment in identifying differences in NGS
+ performance and maintaining reliable results.2
+
+        Philippine studies demonstrate the growing application of NGS in national
+ health programs, including its integration into the Philippine National
+ Antimicrobial Resistance Surveillance Program to identify antimicrobial-
+ resistance mechanisms and transmission patterns, its use in detecting and
+ sequencing SARS-CoV-2 variants, and its application in analyzing the genomic
+ evolution and distribution of SARS-CoV-2 in the country. At the same time,
+ research on Philippine respiratory-virus surveillance has identified challenges
+ involving laboratory capacity, information management, and system integration,
+ highlighting the need for stronger coordination and standardized genomic
+ surveillance systems.3
+
+        Recognizing these research findings and the existing institutional
+ landscape, this measure seeks to establish a National Next-Generation
+ Sequencing (NGS) Laboratory Reference Framework that sets common national
+ standards, provides criteria for laboratory qualification and designation,
+ establishes a nationwide referral network, strengthens quality assurance and
+ proficiency testing, and promotes secure technical interoperability. The measure
+ does not create another physical sequencing center or replace existing clinical-
+ laboratory licensing, specialized referral systems, research institutions, or data-
+ protection requirements. Instead, it provides a coordinated framework for
+ maximizing existing NGS capabilities and addressing the identified gap in
+ national standards, referral, quality assurance, and interoperability.
+
+       In view of the foregoing, the immediate passage of this bill is earnestly
+ sought.
+
+
+
+                                 YEDDA MARIE K. ROMUALDEZ
+
+
+
+ANDREW JULIAN K. ROMUALDEZ                                                            JUDE A. ACIDRE
+
+           2 Tsuchiya, K. D., Funke, B., Hegde, M., et al. (2024). Implementation, evolution, and laboratory performance of
+
+ methods-based proficiency testing for next-generation sequencing detection of germline sequence variants. Archives of
+ Pathology                &                Laboratory                Medicine,                 148(7),                775 783.
+ https://pubmed.ncbi.nlm.nih.gov/37852169/
+           3 Dimaano, A., Carreon, K. D., Camaya, G. S., Rondolo, I., & Tolentino, J. E. (2024). Genomic analysis of the SARS-
+
+ CoV-2 variants circulated in the Philippines, 2020±2024.
+ https://pmc.ncbi.nlm.nih.gov/articles/PMC11437956/
+                                                                                                                            2
+                               Republic of the Philippines
+                         House of Representatives
+                              Quezon City, Metro Manila
+
+                               Twentieth Congress
+                             Second Regular Session
+
+                                           11922
+                            HOUSE BILL NO. ______
+
+
+         Introduced by Representatives Yedda Marie K. Romualdez,
+              Andrew Julian K. Romualdez and Jude A. Acidre
+
+
+                       AN ACT
+ESTABLISHING A NATIONAL NEXT-GENERATION SEQUENCING
+(NGS)  LABORATORY     REFERENCE   FRAMEWORK    AND
+PRESCRIBING NATIONAL STANDARDS THEREFOR
+
+      Be it enacted by the Senate and House of Representatives of the Philippines
+in Congress assembled:
+
+                                    ARTICLE I
+                           GENERAL PROVISIONS
+
+
+      SECTION 1. Short Title.           This Act shall be known as the                  N
+Genomic Sequencing Laboratory Reference Act.
+
+
+      SEC. 2. Declaration of Policy. It is the policy of the State to protect and
+promote the right to health of the people and to advance the responsible
+application of science and technology in health care, public health, and research.
+Toward this end, the State shall establish a national reference policy for Next-
+Generation Sequencing (NGS) laboratories that provides uniform technical and
+quality standards, facilitates interoperability, and establishes coordinated referral
+mechanisms among qualified NGS laboratories to promote accurate, reliable,
+timely, and consistent NGS laboratory services.
+
+
+      SEC. 3. Objectives.      This Act shall pursue the following objectives:
+      (a) Establish a decentralized national reference framework that links
+      qualified NGS laboratories and optimizes available sequencing capacity;
+      (b) Prescribe baseline technical, operational, and quality standards for NGS
+      laboratory activities;
+      (c) Establish a nationwide, disease-agnostic referral network for NGS
+      laboratory services;
+      (d) Establish common technical standards for the secure exchange of NGS
+      laboratory and genomic data consistent with applicable laws on privacy
+      and information security; and
+      (e) Establish a national quality assurance and proficiency testing
+      mechanism for qualified NGS laboratories.
+
+
+      SEC. 4. Definition of Terms.      As used in this Act:
+      (a) Bioinformatics refers to the application of computational methods and
+      tools to the processing, analysis, interpretation, and management of
+      biological and genomic data;
+      (b) Interoperability refers to the technical capability of NGS laboratories,
+      health institutions, and authorized research entities to securely exchange
+      and process standardized NGS laboratory and genomic data;
+      (c) Next-Generation Sequencing (NGS) refers to high-throughput DNA and
+      RNA sequencing technologies that permit the parallel sequencing of
+      biological samples;
+      (d) NGS Laboratory refers to a public or private clinical or research
+      laboratory that performs NGS-related activities, including sample
+
+                                                                                 2
+      preparation, sequencing, bioinformatics, data analysis, or genomic
+      reporting;
+      (e) Qualified NGS Laboratory refers to an NGS laboratory that complies
+      with the applicable national NGS standards prescribed under this Act and
+      is designated to participate in the National NGS Laboratory Reference
+      Framework;
+      (f) Quality Assurance refers to systematic activities undertaken to ensure
+      the accuracy, reliability, consistency, and validity of NGS laboratory
+      processes and results; and
+      (g) National NGS Laboratory Reference Framework refers to the
+      coordinated network of qualified NGS laboratories, national NGS
+      standards, referral mechanisms, quality assurance arrangements, and
+      interoperability standards established under this Act.
+
+
+                                   ARTICLE II
+             NATIONAL NGS LABORATORY REFERENCE
+                    FRAMEWORK AND STANDARDS
+
+
+      SEC. 5. National NGS Laboratory Reference Framework.                  The
+Department of Health (DOH) shall establish and administer the National NGS
+Laboratory Reference Framework as a coordinated and decentralized network of
+qualified NGS laboratories.
+      The Framework shall:
+      (a) Establish a coordinated system for NGS laboratory referral and service
+      routing;
+      (b) Facilitate the complementary use of available NGS capacity among
+      qualified laboratories;
+      (c) Promote uniform NGS laboratory practices and quality requirements;
+
+                                                                               3
+       (d) Facilitate access to qualified NGS laboratory services; and
+       (e) Promote coordination among government agencies, academic
+       institutions, research institutions, health institutions, and qualified public
+       and private NGS laboratories.
+       The Framework shall operate as a coordinated national network and policy
+mechanism and shall not require the creation of a single physical NGS reference
+facility.
+
+
+       SEC. 6. National NGS Laboratory Standards. The DOH, in consultation
+with the Philippine Genome Center (PGC), the Department of Science and
+Technology (DOST), the Department of Information and Communications
+Technology (DICT), relevant government agencies, scientific institutions,
+academic institutions, and professional organizations, shall formulate, issue, and
+periodically update national standards for NGS laboratories.
+       The standards shall cover, as applicable:
+       (a) Physical facilities, biosafety controls, environmental conditions, and
+       NGS instrumentation;
+       (b) Specimen collection, identification, handling, storage, transport, and
+       acceptance or rejection;
+       (c) Sample preparation, sequencing workflows, quality control, validation,
+       calibration, and equipment maintenance;
+       (d) Bioinformatics pipeline validation, data analysis, variant detection, and
+       interpretation;
+       (e) Post-analytical processes, including verification and reporting of NGS
+       results;
+       (f) Personnel qualifications, competency, training, and continuing
+       professional development; and
+
+
+                                                                                   4
+          (g) Documentation, record management, and other measures necessary to
+          ensure the accuracy, reliability, reproducibility, and integrity of NGS
+          laboratory services.
+          A clinical laboratory that offers NGS services shall comply with the
+standards prescribed under this Act in addition to the licensing requirements
+      N            N3 N   pN6,wwrN          N      N N    N P       NS          N3 r N
+and other applicable laws, rules, and regulations.
+
+
+          SEC. 7. Qualification and Designation of NGS Laboratories. The DOH
+shall establish criteria and procedures for the qualification and designation of an
+NGS laboratory for participation in the National NGS Laboratory Reference
+Framework.
+          The DOH shall designate an NGS laboratory upon determination that the
+laboratory complies with the applicable national NGS standards and other
+requirements prescribed under this Act and its implementing rules and
+regulations.
+          Designation under this Act shall be limited to participation in the National
+NGS Laboratory Reference Framework and shall not constitute a substitute for
+any license, registration, accreditation, permit, or institutional authority required
+under existing laws.
+          The DOH shall periodically assess the compliance of a designated NGS
+laboratory with the applicable standards and may suspend or revoke the
+designation pursuant to procedures prescribed in the implementing rules and
+regulations.
+
+
+          SEC. 8. Nationwide NGS Referral Network.          The DOH shall establish
+and maintain a nationwide NGS referral network to facilitate the appropriate and
+timely routing of specimens, requests, sequencing services, and laboratory results
+
+                                                                                    5
+among health institutions, public health institutions, research institutions, and
+qualified NGS laboratories.
+      The referral network shall:
+      (a) Establish standardized referral procedures and documentation;
+      (b) Identify qualified NGS laboratories according to technical capability
+      and the NGS service required;
+      (c) Establish procedures for specimen handling, transport, tracking, receipt,
+      processing, and reporting;
+      (d) Facilitate referrals across clinical specialties and public health
+      applications without limitation to a specific disease category; and
+      (e) Establish coordination procedures when the required NGS capability is
+      unavailable in the referring institution.
+      Specialized referral systems established under existing laws shall continue
+to operate according to their respective mandates.
+
+
+                                   ARTICLE III
+          QUALITY ASSURANCE AND INTEROPERABILITY
+
+
+      SEC. 9. National Quality Assurance and Proficiency Testing. The DOH
+shall establish and implement a national quality assurance program for qualified
+NGS laboratories participating in the National NGS Laboratory Reference
+Framework.
+      The program shall include:
+      (a) External quality assessment;
+      (b) Regular proficiency testing;
+      (c) Evaluation of sequencing fidelity and analytical performance;
+      (d) Assessment of bioinformatics accuracy and data analysis;
+      (e) Assessment of the accuracy and reliability of NGS laboratory reporting;
+
+                                                                                 6
+      (f) Identification and correction of laboratory deficiencies; and
+      (g) Technical assistance and capacity-building for qualified NGS
+      laboratories.
+      Participation in the quality assurance and proficiency testing program shall
+be a condition for continued designation under the National NGS Laboratory
+Reference Framework.
+
+
+      SEC. 10. Data Interoperability and Protection.               The DOH, in
+coordination with the Department of Information and Communications
+Technology (DICT), the National Privacy Commission (NPC), the Philippine
+Genome Center (PGC), the Department of Science and Technology (DOST), and
+other relevant institutions, shall prescribe common technical standards for the
+secure exchange, transmission, storage, and processing of NGS laboratory and
+genomic data.
+      The standards may include:
+      (a) Common data formats and data fields;
+      (b) Data exchange and communication protocols;
+      (c) Minimum metadata requirements;
+      (d) Data integrity and authentication requirements;
+      (e) Access-control and authorization mechanisms; and
+      (f) Information security and cybersecurity requirements.
+      The processing of genetic information, health information, and other
+sensitive personal information under this Act shall comply with Republic Act No.
+AcAh4rN          N       N N    N v    N        N 3 N N .cA.r N    N             N
+rules and regulations, and other applicable laws and regulations on privacy,
+confidentiality, information security, and records management.
+      Nothing in this Act shall be construed as authorizing the unrestricted
+collection, use, disclosure, or transfer of genomic information.
+
+                                                                                7
+                                  ARTICLE IV
+   ROLE DELINEATION AND INTER-AGENCY COORDINATION
+
+
+      SEC. 11. Lead Agency.         The DOH shall be the lead agency in the
+implementation of this Act and shall:
+      (a) Formulate and periodically update the national NGS laboratory
+      standards;
+      (b) Establish and administer the National NGS Laboratory Reference
+      Framework;
+      (c) Establish criteria and procedures for the qualification and designation
+      of NGS laboratories;
+      (d) Establish and supervise the nationwide NGS referral network;
+      (e) Establish and implement the national quality assurance and proficiency
+      testing program;
+      (f) Prescribe, in coordination with the DICT, NPC, and relevant
+      institutions, technical interoperability standards;
+      (g) Monitor compliance with national NGS standards;
+      (h) Coordinate technical assistance, training, and capacity-building
+      activities;
+      (i) Coordinate with relevant government agencies, academic institutions,
+      research institutions, scientific organizations, health institutions, and
+      professional organizations; and
+      (j) Perform such other functions as may be necessary to carry out the
+      objectives of this Act.
+
+
+      SEC. 12. Responsibilities of the Philippine Genome Center and the
+Department of Science and Technology. The PGC and the DOST shall provide
+
+
+                                                                               8
+technical and scientific assistance to the DOH in the implementation of this Act,
+consistent with their respective mandates.
+       The PGC shall provide technical expertise, as may be requested by the
+DOH, in NGS technologies, genome analysis, bioinformatics, laboratory quality,
+technical standards, training, and capacity-building.
+       The DOST shall facilitate coordination with relevant scientific and
+research institutions on matters involving NGS technology, research, and
+scientific capacity-building.
+
+
+       SEC. 13. Coordination With Other Agencies and Institutions.              The
+DOH shall coordinate, as necessary, with the DICT, NPC, the Virology and
+Vaccine Institute of the Philippines (VIP), the Philippine Cancer Center, the
+National Institutes of Health, universities, research institutions, professional
+organizations, health institutions, and other relevant entities in implementing this
+Act.
+       Such coordination shall promote the complementary use of existing NGS
+capabilities, facilitate technical cooperation, and minimize duplication of
+functions and resources.
+
+
+       SEC. 14. Institutional Mandates Preserved. Nothing in this Act shall be
+construed to modify, transfer, diminish, or supersede the statutory functions and
+mandates of:
+       (a) The DOH under existing laws;
+       (b) The VIP under Republic Act No. 12290, otherwise known as the
+                 N   N          NV      N N   N            N3   C
+       (c) The PGC and other institutions performing genome sequencing and
+       bioinformatics functions under their respective mandates;
+
+
+                                                                                  9
+       (d) The Philippine Cancer Center under Republic Act No. 11215, otherwise
+               N N       N         NV        NP      NP     N3   C
+       (e) The National Comprehensive Newborn Screening System and its
+       referral mechanisms under Republic Act No. 9288, otherwise known as the
+                     N          N3 N N.cc6 C
+       (f) The Rare Disease Program and Telegenetics Referral System under
+                 N3 N        pNAch6hrN         N      N N   N        Nv   N3 N N
+       .cA, C
+       (g) The Philippine National Health Research System under Republic Act
+       No. 10532; and
+       (h) The rights, obligations, and safeguards established under Republic Act
+       No. 10173.
+       An NGS laboratory covered by Republic Act No. 4688 shall continue to
+comply with the licensing and regulatory requirements prescribed under the said
+law and its implementing issuances.
+
+
+                                         ARTICLE V
+                                 FINAL PROVISIONS
+
+
+       SEC. 15. Appropriations.             The initial amount necessary for the
+implementation of this Act shall be charged against the current appropriations of
+the DOH, subject to existing budgeting, accounting, and auditing laws, rules, and
+regulations.
+       Thereafter, such sums as may be necessary for the continued
+implementation of this Act shall be included in the annual General Appropriations
+Act.
+
+
+
+
+                                                                              10
+      SEC. 16. Implementing Rules and Regulations.               Within one hundred
+twenty (120) days from the effectivity of this Act, the Secretary of Health, in
+consultation with the Executive Director of the PGC, the Secretary of Science
+and Technology, the Secretary of Information and Communications Technology,
+the National Privacy Commission, and representatives of other relevant agencies
+and institutions, shall promulgate the implementing rules and regulations
+necessary for the effective implementation of this Act.
+      The implementing rules and regulations shall include the national NGS
+laboratory standards, criteria and procedures for laboratory designation, referral
+procedures,    quality   assurance    and     proficiency   testing   requirements,
+interoperability standards, and monitoring mechanisms.
+
+
+      SEC. 17. Periodic Review of Standards.           The DOH shall periodically
+review and update the national NGS laboratory standards and the National NGS
+Laboratory Reference Framework in consultation with relevant government,
+scientific, academic, professional, and research institutions.
+      The review shall consider developments in NGS technologies,
+bioinformatics, laboratory quality, interoperability, privacy and information
+security, and applicable laws and regulations.
+
+
+      SEC. 18. Separability Clause.         If any provision of this Act is declared
+unconstitutional or invalid, the remaining provisions not affected thereby shall
+remain in full force and effect.
+
+
+      SEC. 19. Repealing Clause.       All laws, decrees, executive orders, rules,
+regulations, and other issuances, or parts thereof, inconsistent with the provisions
+of this Act are hereby repealed, amended, or modified accordingly.
+
+
+                                                                                 11
+      Existing laws and regulations governing the licensing, accreditation,
+operation, privacy, research, and specialized referral functions of NGS
+laboratories and institutions shall continue to apply insofar as they are not
+inconsistent with this Act.
+
+
+      SEC. 20. Effectivity.   This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in a newspaper of general circulation.
+
+
+      Approved,
+
+
+
+
+                                                                                 12
+

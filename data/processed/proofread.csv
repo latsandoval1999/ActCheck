@@ -1,6 +1,8 @@
 id,label,where,type,found,suggestion,context
+HB-20-11918,HB 11918,Title,Unbalanced parentheses,((((,check the title,"AN ACT STRENGTHENING AND EXPANDING THE PHILIPPINE NATIONAL HEALTH RESEARCH SYSTEM, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 10532, OTHERWISE KNOWN AS THE ,f(5"
 HB-20-11611,HB 11611,Title,Possible misspelling,RESPONSNE,RESPONSE,ND PROVIDING FOR THE USE OF SAFETY MONITORING AND EMERGENCY RESPONSNE TECHNOLOGY IN PUBLIC TRANSPORT VEHICLES
 HB-20-10758,HB 10758,Title,Possible misspelling,CAPPING,MAPPING,AN ACT EXTENDING THE SIX PERCENT REAL PROPERTY TAX CAPPING PERIOD AND THE TAX AMNESTY PERIOD TO FOUR YEARS UNDER REPUB
+HB-20-9992,HB 9992,Title,Possible misspelling,PARADING,PGRADING,AN ACT PROHIBITING THE PUBLIC PARADING AND PRESENTATION OF UNCONVICTED ARRESTED SUSPECTS TO THE ME
 HB-20-9814,HB 9814,Title,Possible misspelling,CALAYAN,CAGAYAN,AN ACT CONVERTING THE CALAYAN EXTENSION CAMPUS OF THE CAGAYAN STATE UNIVERSITY IN THE MUN
 HB-20-9652,HB 9652,Title,Possible misspelling,MINDING,MINING,"ACT INSTITUTIONALIZING A COMPREHENSIVE AND REGULATED CHILD-MINDING FACILITY NETWORK IN EVERY CITY AND MUNICIPALITY NATIONWIDE,"
 HB-20-9579,HB 9579,Title,Possible misspelling,SHAVING,SHARING,"AN ACT PROHIBITING GAME-FIXING, POINT-SHAVING, AND OTHER FORMS OF SPORTS MANIPULATION, PROMOTING FAIR, EQ"
@@ -46,20 +48,20 @@ SB-20-1697,SB-20-1697,Title,Possible misspelling,ENTREPRENEURSSHIP,ENTREPRENEURS
 SB-20-1697,SB-20-1697,Title,Possible misspelling,SCHOIOL,SCHOOL,URSSHIP AS A SEPARATE SUBJECT IN THE JUNIOR AND SENIOR HIGH SCHOIOL CURRICULA OF THE K-12 PROGRAM
 SB-20-1695,SB-20-1695,Title,Possible misspelling,SERIVES,SERIES,"AN ACT ESTABLISHING PROGRAM AND SERIVES FOR THE SUPPORT OF THE MENTAL AND WELLNESS OF TEACHERS, AND"
 SB-20-1694,SB-20-1694,Title,Possible misspelling,FUNTIONS,FUNCTIONS,"STER RISK REDUCTION AND MANAGEMENT, DEFINING ITS POWERS AND FUNTIONS, AND APPROPRIATING FUNDS THEREFOR"
-SB-20-1693,SB-20-1693,Title,Possible misspelling,ESTSBLISHING,ESTABLISHING,IVIZE AND PROMOTE THE PROPER RECYLING OF USED COMPUTERS AND ESTSBLISHING A NATIONAL INFRASTRUCTURE FOR THE RECYCLING OF USED COMPUTE
 SB-20-1693,SB-20-1693,Title,Possible misspelling,RECYLING,RECYCLING,GRANT AND FEE PROGRAM TO INCENTIVIZE AND PROMOTE THE PROPER RECYLING OF USED COMPUTERS AND ESTSBLISHING A NATIONAL INFRASTRUCTUR
+SB-20-1693,SB-20-1693,Title,Possible misspelling,ESTSBLISHING,ESTABLISHING,IVIZE AND PROMOTE THE PROPER RECYLING OF USED COMPUTERS AND ESTSBLISHING A NATIONAL INFRASTRUCTURE FOR THE RECYCLING OF USED COMPUTE
 SB-20-1675,SB-20-1675,Title,Possible misspelling,LIPING,LIVING,AN ACT GRANTING CITIZENSHIP TO LIPING ZHENG
-SB-20-1667,SB-20-1667,Title,Possible misspelling,INSITUTIONS,INSTITUTIONS,"TO ENHANCE THE LIQUIDATION FRAMEWORK FOR BANKS AND BANKING INSITUTIONS, AND TO STRENGHTEN THE INDEPENDENCE, AUTHORITY AND FINANCIA"
 SB-20-1667,SB-20-1667,Title,Possible misspelling,STRENGHTEN,STRENGTHEN,"IDATION FRAMEWORK FOR BANKS AND BANKING INSITUTIONS, AND TO STRENGHTEN THE INDEPENDENCE, AUTHORITY AND FINANCIAL CAPABILITY OF THE"
+SB-20-1667,SB-20-1667,Title,Possible misspelling,INSITUTIONS,INSTITUTIONS,"TO ENHANCE THE LIQUIDATION FRAMEWORK FOR BANKS AND BANKING INSITUTIONS, AND TO STRENGHTEN THE INDEPENDENCE, AUTHORITY AND FINANCIA"
 SB-20-1663,SB-20-1663,Title,Possible misspelling,CUMPULSORY,COMPULSORY,AN ACT INCREASING THE CUMPULSORY AGE OF RETIREMENT FOR OFFICERS AND NON-OFFICERS OF THE PHIL
 SB-20-1655,SB-20-1655,Title,Possible misspelling,PIRPOSES,PURPOSES,AN ACT PENALIZING ACTS OF ROAD RAGE AND FOR OTHER PIRPOSES
-SB-20-1622,SB-20-1622,Title,Possible misspelling,PARNERSHIPS,PARTNERSHIPS,"MPORARY TAX RELIEF TO SINGLE PROPRIETORSHIPS, COOPERATIVES, PARNERSHIPS OR CORPORATIONS CLASSIFIED AS MICRO, SAMLL AND MEDIUM ENTER"
 SB-20-1622,SB-20-1622,Title,Possible misspelling,COMPETTIVENESS,COMPETITIVENESS,AN ACT PROMOTING BUSINESS COMPETTIVENESS BY PROVIDING TEMPORARY TAX RELIEF TO SINGLE PROPRIETORSHIPS
+SB-20-1622,SB-20-1622,Title,Possible misspelling,PARNERSHIPS,PARTNERSHIPS,"MPORARY TAX RELIEF TO SINGLE PROPRIETORSHIPS, COOPERATIVES, PARNERSHIPS OR CORPORATIONS CLASSIFIED AS MICRO, SAMLL AND MEDIUM ENTER"
 SB-20-1614,SB-20-1614,Title,Possible misspelling,APPROPREATING,APPROPRIATING,"S, PROVIDING ACCESS ROADS LEADING TO LAST MILE SCHOOLS, AND APPROPREATING FUNDS THEREFOR"
 SB-20-1590,SB-20-1590,Title,Possible misspelling,PENAALTIES,PENALTIES,"AL WASTES, DECLARING CERTAIN ACTS UNLAWFUL, AND PRESCRIBING PENAALTIES THEREFOR"
 SB-20-1588,SB-20-1588,Title,Possible misspelling,EXPOITATION,EXPLOITATION,"NO. 11930 ENTITLED AN ACT PUNISHING ONLINE SEXUAL ABUSE OR EXPOITATION OF CHILDREN, PENALIZING THE PRODUCTION, DISTRIBUTION, POSSE"
-SB-20-1586,SB-20-1586,Title,Possible misspelling,AMENEDED,AMENDED,"AN ACT FURTHER AMAENDING REPUBLIC ACT NO. 8550, AS AMENEDED BY REPUBLIC ACT NO. 10654, TO PROVIDE FOR FUEL SUBSIDY AND"
 SB-20-1586,SB-20-1586,Title,Possible misspelling,AMAENDING,AMENDING,"AN ACT FURTHER AMAENDING REPUBLIC ACT NO. 8550, AS AMENEDED BY REPUBLIC ACT NO. 1065"
+SB-20-1586,SB-20-1586,Title,Possible misspelling,AMENEDED,AMENDED,"AN ACT FURTHER AMAENDING REPUBLIC ACT NO. 8550, AS AMENEDED BY REPUBLIC ACT NO. 10654, TO PROVIDE FOR FUEL SUBSIDY AND"
 SB-20-1500,SB-20-1500,Title,Possible misspelling,APPROPRIAITING,APPROPRIATING,"CENTERS IN THE DEPARTMENT OF HEALTH-RELATED HOSPITALS, AND APPROPRIAITING FUNDS THEREFOR"
 SB-20-1496,SB-20-1496,Title,Possible misspelling,ENTREPRENUERSHIP,ENTREPRENEURSHIP,"AN ACT PROMOTING ENTREPRENUERSHIP AND LIVELIHOOD FOR SUSTAINABLE DEVELOPMENT, AMENDING FOR TH"
 SB-20-1491,SB-20-1491,Title,Possible misspelling,BENEFICIARIEA,BENEFICIARIES,NG A MANDATORY RETURN SERVICE PROGRAM FOR ALL RECIPIENTS OR BENEFICIARIEA OF GOVERNMENT SCHOLARSHIP PROGRAMS
@@ -74,8 +76,8 @@ SB-20-1461,SB-20-1461,Title,Possible misspelling,SAGEGUARDS,SAFEGUARDS,T INSTITU
 SB-20-1460,SB-20-1460,Title,Possible misspelling,INSITUTIONALIZING,INSTITUTIONALIZING,AN ACT INSITUTIONALIZING THE MEDICAL ASSISTANCE TO INDIGENT AND FINANCIALLY INCAPACI
 SB-20-1448,SB-20-1448,Title,Possible misspelling,ENTITILED,ENTITLED,"REPUBLIC ACT NO. 8996, AS AMENDED BY REPUBLIC ACT NO. 9342, ENTITILED AN ACT GRANTING THE END TIME MISSION BROADCASTING SERVICE,"
 SB-20-1444,SB-20-1444,Title,Possible misspelling,OTHEWISE,OTHERWISE,"AN ACT AMENDING TITILE XIV OF ACT NO. 3815, AS AMENDED, OTHEWISE KNOWN AS THE REVISED PENAL CODE, AND FOR OTHER PUPOSES"
-SB-20-1444,SB-20-1444,Title,Possible misspelling,TITILE,TITLE,"AN ACT AMENDING TITILE XIV OF ACT NO. 3815, AS AMENDED, OTHEWISE KNOWN AS THE REVI"
 SB-20-1444,SB-20-1444,Title,Possible misspelling,PUPOSES,PURPOSES,"ED, OTHEWISE KNOWN AS THE REVISED PENAL CODE, AND FOR OTHER PUPOSES"
+SB-20-1444,SB-20-1444,Title,Possible misspelling,TITILE,TITLE,"AN ACT AMENDING TITILE XIV OF ACT NO. 3815, AS AMENDED, OTHEWISE KNOWN AS THE REVI"
 SB-20-1439,SB-20-1439,Title,Possible misspelling,OVESEAS,OVERSEAS,AN ACT PROVIDING FOR PROTECTION OF THE REMITTANCES OF OVESEAS FILIPINO WORKERS
 SB-20-1438,SB-20-1438,Title,Possible misspelling,CONTRUCTION,CONSTRUCTION,CT MANDATING THE USE OF DRONE MONITORING FOR ALL GOVERNMENT CONTRUCTION PROJECTS AS A PREREQUISITE FOR PAYMENT
 SB-20-1434,SB-20-1434,Title,Possible misspelling,BUDGETTING,BUDGETING,"SM FOR LAND USE DEVELOPMENT AND INFRASTRUCTURE PLANNING AND BUDGETTING FOR STATE UNIVERSITIES AND COLLEGES, AMENDING FOR THE PURPO"
@@ -154,8 +156,8 @@ HB-19-7212,HB-19-7212,Title,Possible misspelling,PURPOSEES,PURPOSES,"TIONS, INST
 HB-19-7204,HB-19-7204,Title,Possible misspelling,INIDIGENOUS,INDIGENOUS,"E UNIVERSITY AS A NATIONAL UNIVERSITY OF CULTURE, ARTS, AND INIDIGENOUS GOVERNANCE, REVISING FOR THE PURPOSE REPUBLIC ACT NO. 10584"
 HB-19-7176,HB-19-7176,Title,Possible misspelling,MSMTES,MSMES,"EXEMPTIONS TO MICRO, SMALL, AND MEDIUM TOURISM ENTERPRISES (MSMTES) TO ENSURE THEIR BUSINESS RECOVERY IN A POST-COVID-19 ECONO"
 HB-19-7164,HB-19-7164,Title,Possible misspelling,ACCOMODATION,ACCOMMODATION,"AND PARKING FACILITIES IN VARIOUS ESTABLISHMENTS SUCH AS TO ACCOMODATION, COMMERCIAL SERVICES, RETAIL SERVICES, EDUCATIONAL INSTITUT"
-HB-19-6952,HB-19-6952,Title,Possible misspelling,POVERY,POVERTY,AN ACT INSTITUTIONALIZING THE POVERY REDUCTION THROUH SOCIAL ENTREPRENEURSHIP (PRESENT) PROGRAM
 HB-19-6952,HB-19-6952,Title,Possible misspelling,THROUH,THROUGH,AN ACT INSTITUTIONALIZING THE POVERY REDUCTION THROUH SOCIAL ENTREPRENEURSHIP (PRESENT) PROGRAM AND PROMOTING SOC
+HB-19-6952,HB-19-6952,Title,Possible misspelling,POVERY,POVERTY,AN ACT INSTITUTIONALIZING THE POVERY REDUCTION THROUH SOCIAL ENTREPRENEURSHIP (PRESENT) PROGRAM
 HB-19-6917,HB-19-6917,Title,Possible misspelling,TAGAPAYMAYAPA,TAGAPAMAYAPA,"ICIALS, INCLUDING BARANGAY TANODS AND MEMBERS OF THE LUPONG TAGAPAYMAYAPA, AND GRANTING A LUMP SUM RETIREMENT GRATUITY PAY EQUIVALENT"
 HB-19-6898,HB-19-6898,Title,Possible misspelling,BULAWAN,BULACAN,"AN ACT CONVERTING THE BULAWAN NATIONAL HIGH SCHOOL WITHIN THE MUNICIPALITY OF PAYAO, PROV"
 HB-19-6850,HB-19-6850,Title,Possible misspelling,PARCELIS,PARCELS,"SITY, WITH CAMPUSES IN THE MUNICIPALITIES OF TADIAN, BAUKO, PARCELIS AND BARLIG, ALL LOCATED IN MOUNTAIN PROVINCE AND APPROPRIAT"
@@ -176,10 +178,10 @@ HB-19-5319,HB-19-5319,Title,Possible misspelling,APPROPPRIATING,APPROPRIATING,AC
 HB-19-5291,HB-19-5291,Title,Possible misspelling,SYSTHM,SYSTEM,"R KNOWN AS THE EXPANDED NATIONAL INTEGRATED PROTECTED AREAS SYSTHM ACT OF 2018, PROVIDING FOR ITS MANAGEMENT, FUNDS AND FOR OT"
 HB-19-5283,HB-19-5283,Title,Possible misspelling,OTHHRWISE,OTHERWISE,"OR THIS PURPOSE SECTION 12 0F PRESIDENTIAL DECREE NO. 1869, OTHHRWISE KNOWN AS THE ""CHARTER 0F PAGCOR"", AS AMENDED"
 HB-19-5245,HB-19-5245,Title,Possible misspelling,CALANITY,CALAMITY,"AN ACT PROVIDING FOR THE ESTABLISHMENT AND CONSTRUCTION 0F CALANITY FOOD BANKS IN EVERY PROVINCE IN THE PHILIPPINES, PROVIDING"
-HB-19-5236,HB-19-5236,Title,Possible misspelling,PROVINCH,PROVINCE,IDENTAL SPECIAL ECONOMIC ZONE IN THE SECOND DISTRICT OF THE PROVINCH 0F MISAMIS OCCIDENTAL AND APPROPRIATING FUNDS THHREFOR
 HB-19-5236,HB-19-5236,Title,Possible misspelling,THHREFOR,THEREFOR,THE PROVINCH 0F MISAMIS OCCIDENTAL AND APPROPRIATING FUNDS THHREFOR
-HB-19-5212,HB-19-5212,Title,Possible misspelling,PURPORSE,PURPOSE,"ER CONSUMPTION GRANTED TO SENIOR CITIZENS, AMENDING FOR THE PURPORSE REPUBLICT ACT NO. 7432, AS AMENDED, OTHERWISE KNOWN AS THE"
+HB-19-5236,HB-19-5236,Title,Possible misspelling,PROVINCH,PROVINCE,IDENTAL SPECIAL ECONOMIC ZONE IN THE SECOND DISTRICT OF THE PROVINCH 0F MISAMIS OCCIDENTAL AND APPROPRIATING FUNDS THHREFOR
 HB-19-5212,HB-19-5212,Title,Possible misspelling,MONTLHY,MONTHLY,"HE DISCOUNT RATE AND EXEMPTING FROM THE VALUE ADDED TAX THE MONTLHY ELECTRIC AND WATER CONSUMPTION GRANTED TO SENIOR CITIZENS,"
+HB-19-5212,HB-19-5212,Title,Possible misspelling,PURPORSE,PURPOSE,"ER CONSUMPTION GRANTED TO SENIOR CITIZENS, AMENDING FOR THE PURPORSE REPUBLICT ACT NO. 7432, AS AMENDED, OTHERWISE KNOWN AS THE"
 HB-19-5030,HB-19-5030,Title,Possible misspelling,BUACAN,BULACAN,"ING HOLIDAY IN THE MUNICIPALITY OF SANTA MARIA, PROVINCE OF BUACAN IN HONOR OF THE LIFE AND LITERATURE OF JOSE CORAZON DE JESU"
 HB-19-4819,HB-19-4819,Title,Possible misspelling,PRIVELEGES,PRIVILEGES,"WN AS ""AN ACT HONORING AND GRANTING ADDITIONAL BENEFITS AND PRIVELEGES TO FILIPINO CENTENARIANS, AND FOR OTHER PURPOSES"""
 HB-19-4774,HB-19-4774,Title,Possible misspelling,GOVERNMANT,GOVERNMENT,"AN ACT RELOCATING THE SHARING OF TAXES BETWEEN LOCAL GOVERNMANT UNITS HOSTING PRINCIPAL OFFICES, FACTORIES, PROJECT OFFICES"
@@ -240,8 +242,8 @@ HB-19-2173,HB-19-2173,Title,Possible misspelling,PUPOSE,PURPOSE,"THE WORKERS´ R
 HB-19-2160,HB-19-2160,Title,Possible misspelling,DELARING,DECLARING,AN ACT DELARING THE CONFERMENT OF A DOCTORATE DEGREE AS EQUIVALENT TO ENTRY
 HB-19-2146,HB-19-2146,Title,Possible misspelling,APPRPOPRIATING,APPROPRIATING,L HIGH SCHOOL TO BE KNOWN AS POTIA NATIONAL HIGH SCHOOL AND APPRPOPRIATING FUNDS THEREFOR
 HB-19-2119,HB-19-2119,Title,Possible misspelling,GOVENRMENT,GOVERNMENT,PUBLIC ACT NO. 7160 AS AMENDED OTHERWISE KNOWN AS THE LOCAL GOVENRMENT CODE OF 1991
-HB-19-2099,HB-19-2099,Title,Possible misspelling,NATIONAWIDE,NATIONWIDE,AN ACT GRANTING NATIONAWIDE FREE INITIAL RATE PARKING FEE PRIVILEGES TO SENIOR CITIZENS
 HB-19-2099,HB-19-2099,Title,Possible misspelling,DISABILITES,DISABILITIES,ING FEE PRIVILEGES TO SENIOR CITIZENS (SC) AND PERSONS WITH DISABILITES (PWD)
+HB-19-2099,HB-19-2099,Title,Possible misspelling,NATIONAWIDE,NATIONWIDE,AN ACT GRANTING NATIONAWIDE FREE INITIAL RATE PARKING FEE PRIVILEGES TO SENIOR CITIZENS
 HB-19-2096,HB-19-2096,Title,Possible misspelling,PENLATIES,PENALTIES,"ITIZEN FROM VIOLENCE, DEFINING ELDER ABUSE, AND PRESCRIBING PENLATIES THEREOF"
 HB-19-2070,HB-19-2070,Title,Possible misspelling,BARANGGAY,BARANGAY,"AN ACT DECLARING ANZAP TWIN FALLS IN BARANGGAY BIBIGA, MUNICIPALITY OF MAYANTOC, PROVINCE OF TARLAC AS AN"
 HB-19-2069,HB-19-2069,Title,Possible misspelling,BARANGGAY,BARANGAY,"AN ACT DECLARING KITI-CALAO FALLS IN BARANGGAY SAN JOSE, MUNICIPALITY OF MAYANTOC, PROVINCE OF TARLAC AS A"
@@ -273,8 +275,8 @@ HB-19-917,HB-19-917,Title,Possible misspelling,INTEGREATED,INTEGRATED,"STRENGTHE
 HB-19-793,HB-19-793,Title,Possible misspelling,REDORDING,RECORDING,AN ACT ALLOWING FOR SINGLE PARTY CONSENSUAL REDORDING IN LAW ENFORCEMENT
 HB-19-785,HB-19-785,Title,Possible misspelling,PERONNEL,PERSONNEL,"SIONAL HEALTH CARE, AUTHORIZING THE INCREASE OF ITS MEDICAL PERONNEL AND APPROPRIATING FUNDS THEREFOR"
 HB-19-782,HB-19-782,Title,Possible misspelling,ENTITILED,ENTITLED,"CT AMENDING SECTION 13 OF REPUBLIC ACT NO. 3019 AS AMENDED, ENTITILED THE “ANTI-GRAFT AND CORRUPT PRACTICES ACT”"
-HB-19-780,HB-19-780,Title,Possible misspelling,SERIVCES,SERVICES,"IN VARIOUS ESTABLISHMENTS SUCH AS ACCOMODATION, COMMERCIAL SERIVCES, FOOD SERVICES, HEALTH SERVICES, RETAIL SERVICES, EDUCATION"
 HB-19-780,HB-19-780,Title,Possible misspelling,ACCOMODATION,ACCOMMODATION,"ES AND PARKING FACILITIES IN VARIOUS ESTABLISHMENTS SUCH AS ACCOMODATION, COMMERCIAL SERIVCES, FOOD SERVICES, HEALTH SERVICES, RETAI"
+HB-19-780,HB-19-780,Title,Possible misspelling,SERIVCES,SERVICES,"IN VARIOUS ESTABLISHMENTS SUCH AS ACCOMODATION, COMMERCIAL SERIVCES, FOOD SERVICES, HEALTH SERVICES, RETAIL SERVICES, EDUCATION"
 HB-19-720,HB-19-720,Title,Possible misspelling,TEHREFOR,THEREFOR,"HE CREATION OF A NATIONAL EMSS COUNCIL, APPROPRIATING FUNDS TEHREFOR, AND FOR OTHER PUSPOSES"
 HB-19-702,HB-19-702,Title,Possible misspelling,DECONSTRUCTION,RECONSTRUCTION,"PORATIONS, BOTH PUBLIC AND PRIVATE TO REPAIR ANY DIGGING OR DECONSTRUCTION MADE IN THE COURSE OF THEIR INSTALLATION OR MAINTENANCE WOR"
 HB-19-661,HB-19-661,Title,Possible misspelling,PILIPPINES,HILIPPINES,CT PROVIDING MINIMUM STANDARDS FOR INTERNET SERVICES IN THE PILIPPINES
@@ -355,10 +357,10 @@ HB-18-8353,HB-18-8353,Title,Possible misspelling,DEVISES,DEVICES,"ALSO KNOWN AS 
 HB-18-8331,HB-18-8331,Title,Possible misspelling,TRANSPARANCY,TRANSPARENCY,"AN ACT ENHANCING THE PATIENT'S RIGHT TO MEDICAL EXPENSE TRANSPARANCY AND PREVENTING UNEXPECTED MEDICAL BILLS, AND FOR OTHER PURP"
 HB-18-8330,HB-18-8330,Title,Possible misspelling,EXCELLENCY,EXCELLENCE,CATION OF PRESIDENTIAL PROCLAMATION NO. 1057 S. 2020 OF HIS EXCELLENCY PRESIDENT RODRIGO ROA DUTERTE DECLARING THE CITY OF SAN JOS
 HB-18-8326,HB-18-8326,Title,Possible misspelling,SUPPPORT,SUPPORT,AN ACT CREATING THE SPECIAL MASS TRANSIT SYSTEM SUPPPORT FUND AMENDING FOR THE PURPOSE SECTION 7 OF REPUBLIC ACT NO.
-HB-18-8251,HB-18-8251,Title,Possible misspelling,BARNGAY,BARANGAY,"UNICIPALITY OF SINACABAN; BARANGAY TONGO WITH EXIT POINT TO BARNGAY TIGDOK, BARANGAYS COLAMBUTAN SETTELMENT, COLAMBUTAN BAJO, A"
 HB-18-8251,HB-18-8251,Title,Possible misspelling,SETTELMENT,SETTLEMENT,"NGO WITH EXIT POINT TO BARNGAY TIGDOK, BARANGAYS COLAMBUTAN SETTELMENT, COLAMBUTAN BAJO, AND CASILAK SAN AGUSTIN IN THE MUNICIPALI"
-HB-18-8250,HB-18-8250,Title,Possible misspelling,BARNGAY,BARANGAY,"UNICIPALITY OF SINACABAN; BARANGAY NAMUT WITH EXIT POINT TO BARNGAY TIGDOK, BARANGAYS COLAMBUTAN SETTELMENT, COLAMBUTAN BAJO, A"
+HB-18-8251,HB-18-8251,Title,Possible misspelling,BARNGAY,BARANGAY,"UNICIPALITY OF SINACABAN; BARANGAY TONGO WITH EXIT POINT TO BARNGAY TIGDOK, BARANGAYS COLAMBUTAN SETTELMENT, COLAMBUTAN BAJO, A"
 HB-18-8250,HB-18-8250,Title,Possible misspelling,SETTELMENT,SETTLEMENT,"MUT WITH EXIT POINT TO BARNGAY TIGDOK, BARANGAYS COLAMBUTAN SETTELMENT, COLAMBUTAN BAJO, AND CASILAK SAN AGUSTIN IN THE MUNICIPALI"
+HB-18-8250,HB-18-8250,Title,Possible misspelling,BARNGAY,BARANGAY,"UNICIPALITY OF SINACABAN; BARANGAY NAMUT WITH EXIT POINT TO BARNGAY TIGDOK, BARANGAYS COLAMBUTAN SETTELMENT, COLAMBUTAN BAJO, A"
 HB-18-8231,HB-18-8231,Title,Possible misspelling,OUTLAW,OUTLAY,"AN ACT TO OUTLAW THE COMMUNIST PARTY OF THE PHILIPPINES, NEW PEOPLE'S ARMY,"
 HB-18-8214,HB-18-8214,Title,Possible misspelling,APPROPROATING,APPROPRIATING,"E MUNICIPALITY OF CATARMAN, PROVINCE OF NORTHERN SAMAR, AND APPROPROATING FUNDS THEREFOR"
 HB-18-8186,HB-18-8186,Title,Possible misspelling,SGHOOL,SCHOOL,AN ACT ESTABLISHING A SPECIALIZED NATIONAL SGHOOL FOR THE PHYSICALLY HANDICAPPED IN THE MUNICIPALITY OF LIBMA
@@ -440,8 +442,8 @@ HB-18-784,HB-18-784,Title,Possible misspelling,AUCTIONS,ACTIONS,"OF A PRIVATE AU
 HB-18-740,HB-18-740,Title,Possible misspelling,DEVELOMENT,DEVELOPMENT,"CT NO. 4850, AS AMENDED, OTHERWISE KNOWN AS THE LAGUNA LAKE DEVELOMENT AUTHORITY ACT OF 1966, AND FOR OTHER PURPOSES"
 HB-18-577,HB-18-577,Title,Possible misspelling,MARITIAL,MARITAL,"AN ACT DEFINING AND PENALIZING MARITIAL INFIDELITY, AMENDING FOR THE PURPOSE ACT NO. 3815, OTHERWIS"
 HB-18-101,HB-18-101,Title,Possible misspelling,SEASONABLE,REASONABLE,AN ACT PROVIDING THAT THE SEASONABLE FILING OF A MOTION FOR RECONSIDERATION AND/OR APPEAL SHALL
-SB-18-2515,SB-18-2515,Title,Possible misspelling,THEREFROR,THEREFOR,"THE DONATION OF UMBILICAL CORD BLOOD, APPPROPRIATING FUNDS THEREFROR, AND FOR OTHER PURPOSES"
 SB-18-2515,SB-18-2515,Title,Possible misspelling,APPPROPRIATING,APPROPRIATING,"MOTING AND REGULATING THE DONATION OF UMBILICAL CORD BLOOD, APPPROPRIATING FUNDS THEREFROR, AND FOR OTHER PURPOSES"
+SB-18-2515,SB-18-2515,Title,Possible misspelling,THEREFROR,THEREFOR,"THE DONATION OF UMBILICAL CORD BLOOD, APPPROPRIATING FUNDS THEREFROR, AND FOR OTHER PURPOSES"
 SB-18-2492,SB-18-2492,Title,Possible misspelling,EDUCATON,EDUCATION,"RPOSE REPUBLIC ACT NO. 7722, OTHERWISE KNOWN AS THE 'HIGHER EDUCATON ACT OF 1994', AND FOR OTHER PURPOSE"
 SB-18-2482,SB-18-2482,Title,Possible misspelling,NATONAL,NATIONAL,AN ACT INSTITUTING A NATONAL HEALTH PROGRAM TO COMBAT SYSTEMIC LUPUS ERYTHEMATOSUS (SLE)
 SB-18-2463,SB-18-2463,Title,Possible misspelling,FURPOSES,PURPOSES,"DING FOR THAT PURPOSE REPUBLIC ACT NO. 11201, AND FOR OTHER FURPOSES"
@@ -541,10 +543,10 @@ HB-19-8660,HB 8660,"Section 22 (Serv/.cos, Offices, and Bureaws. -Subject to the
 HB-19-8660,HB 8660,Section 29 (Powe/s and Funcl/.ons of the comm/.ss/.on. -The overall authority and),Possible misspelling,witing,writing,"s; k) Investigate, mctu propr.a or upon complaint in witing, any matter concerning the operation of the service and req"
 HB-19-8660,HB 8660,Section 34 (Compensation and Other Emoluments. -The compensatiion Of the),Possible misspelling,compensatiion,compensation,SEC. 34. Compensation and Other Emoluments. -The compensatiion Of the inembers of the commission and its staff she+I be ex
 HB-19-8660,HB 8660,Section 40 (Promol/-on of Consdmer /r)ferests),Possible misspelling,promoton,promotion,on sharl handle consumer complaints and ensure the adequate promoton of consumer interests. 1\ SEC. 41. Promotion
-HB-19-8660,HB 8660,"Section 43 (Orders and Decisions of the Commission. -The orclers, resolutiions,)",Possible misspelling,executon,execution,"to restrain any proceeding before, or the imptementation or executon of any order, ruling, or decision of the Commission, except"
 HB-19-8660,HB 8660,"Section 43 (Orders and Decisions of the Commission. -The orclers, resolutiions,)",Possible misspelling,resolutiions,resolutions,". 43. Orders and Decisions of the Commission. -The orclers, resolutiions, and decisions of the commission, which must be reached as"
-HB-19-8660,HB 8660,Section 52 (Powers of the president of the National water corporation),Possible misspelling,operaton,operation,ration of the budget of NWC; e) To direct and supervise the operaton and intemat administration of NWC; f) Subject to the gu
+HB-19-8660,HB 8660,"Section 43 (Orders and Decisions of the Commission. -The orclers, resolutiions,)",Possible misspelling,executon,execution,"to restrain any proceeding before, or the imptementation or executon of any order, ruling, or decision of the Commission, except"
 HB-19-8660,HB 8660,Section 52 (Powers of the president of the National water corporation),Possible misspelling,participatng,participating,"th other government agencies and with the private sector by participatng in the nationwide inventory Of water resources, identifying"
+HB-19-8660,HB 8660,Section 52 (Powers of the president of the National water corporation),Possible misspelling,operaton,operation,ration of the budget of NWC; e) To direct and supervise the operaton and intemat administration of NWC; f) Subject to the gu
 HB-19-8998,HB 8998,Section 19,Section number skipped (or not read),Section 17 then 19,Section 18,Water Regulatory Commission
 HB-19-8998,HB 8998,Section 3 (Definition of Terms),Repeated word,including including,including,"tations, lift stations and force mains, service connections including including other infrastructure, devices, or appliances appurtenant th"
 HB-19-8998,HB 8998,Section 3 (Definition of Terms),Possible misspelling,incudes,includes,"yance, treatment and eventual sate end use or disposal, and incudes the safe management of solid waste and animal waste. (r) Se"
@@ -569,10 +571,11 @@ HB-20-679,HB 679,Section 22,Section number skipped (or not read),Section 20 then
 HB-20-1060,HB 1060,Section 26,Section number skipped (or not read),Section 24 then 26,Section 25,Creation of the National Water Sector Policy Coundl
 HB-20-1060,HB 1060,Section 50,Section number skipped (or not read),Section 48 then 50,Section 49,Appropriations
 HB-20-1060,HB 1060,Section 26 (Creation of the National Water Sector Policy Coundl),Possible misspelling,integr,inter,"ch shall exercise policy makin g, coordi regard to water , integr ation, superv ision, monit oring and evalua tion functi ons"
-HB-20-1060,HB 1060,Section 31 (Powers and Functions of the Commission),Possible misspelling,tition,tuition,s detaili by 0) Coord inate with the Philip pine Comp etition Comm ission (PCC) jurisdi ction to provid ing technical sup
 HB-20-1060,HB 1060,Section 31 (Powers and Functions of the Commission),Possible misspelling,ntative,native,"is Act its owners , directo rs, officers, agents or represe ntative s for any violati ission; or of the license, order, rule re"
-HB-20-1060,HB 1060,"Section 37 (Regi.stration and Licensing of All Water Supply, Sanitation, and Sewerage)",Possible misspelling,conver,cover,s ion shall act on the application for ·the issuance or the conversio n of such licenses and renewals thereof within the maxim
+HB-20-1060,HB 1060,Section 31 (Powers and Functions of the Commission),Possible misspelling,tition,tuition,s detaili by 0) Coord inate with the Philip pine Comp etition Comm ission (PCC) jurisdi ction to provid ing technical sup
+HB-20-1060,HB 1060,Section 31 (Powers and Functions of the Commission),Possible misspelling,ibilities,iabilities,"censees as may be necessa functio ns, powers and respons ibilities : effective and efficient exercise of its duties, shall als"
 HB-20-1060,HB 1060,"Section 37 (Regi.stration and Licensing of All Water Supply, Sanitation, and Sewerage)",Possible misspelling,stration,station,"Sec. 37. Regi.stration and Licensing of All Water Supply, Sanitation, and Sewerage"
+HB-20-1060,HB 1060,"Section 37 (Regi.stration and Licensing of All Water Supply, Sanitation, and Sewerage)",Possible misspelling,conver,cover,s ion shall act on the application for ·the issuance or the conversio n of such licenses and renewals thereof within the maxim
 HB-20-1060,HB 1060,Section 39 (Rights and Duties of Licensees),Article (a/an),an like,a like,"ce with provid ed in a diligen t, consci entiou s and workm an like manne r, in and the genera lly applic able laws rules and r"
 HB-20-1060,HB 1060,Section 39 (Rights and Duties of Licensees),Possible misspelling,proced,proceed,"n with its custom ers, a custom er service code specif ying proced ure for: Metering, billing, and collection of the licensee'"
 HB-20-6293,HB 6293,Section 8 (Powers and Functions of the Department),Article (a/an),an corporations,a corporations,approval and funding thereof of national government agency an corporations’ support to such local and nongovernment river and catchmen
@@ -588,8 +591,8 @@ HB-19-1631,HB 1631,Section 9,Section number skipped (or not read),Section 7 then
 HB-19-1631,HB 1631,Section 26,Section number skipped (or not read),Section 24 then 26,Section 25,"Ecosystem-Based Approach to Prevention and Mitigation,"
 HB-19-1631,HB 1631,Section 29,Section number skipped (or not read),Section 27 then 29,Section 28,"Standard Mechanism for Cascading Information, Education"
 HB-19-1631,HB 1631,Section 40,Section number skipped (or not read),Section 38 then 40,Section 39,"Accreditation, Mobilization, and Protection of Disaster"
-HB-19-2297,HB 2297,Section 2 (Declaration of Policies and Principles),Possible misspelling,senitive,sensitive,"tation measures are gender-, disability-, and vulnerability-senitive, and culturally-sensitive, recognizing indigenous knowledge"
 HB-19-2297,HB 2297,Section 2 (Declaration of Policies and Principles),Possible misspelling,confict,conflict,"s, including those offices which manage peace processes and confict- resolution approaches, so as to minimize loss of lives and"
+HB-19-2297,HB 2297,Section 2 (Declaration of Policies and Principles),Possible misspelling,senitive,sensitive,"tation measures are gender-, disability-, and vulnerability-senitive, and culturally-sensitive, recognizing indigenous knowledge"
 HB-19-2297,HB 2297,Section 3 (Definition of Terms),Possible misspelling,profesional,professional,"erations. CSOs include non-government organizations (NGOs), profesional associations, foundations, independent research institutes,"
 HB-19-2648,HB 2648,Section 15 (Special Disaster Respousy Tres),Number in words differs from figure,three (4),three (3),"IP. The NDR and SURPIP shall be reviewed! and updated every three (4) years. Go, 28. Evosstew-Bas! Aypronh de Preevation aml Nlif"
 HB-19-2737,HB 2737,Section 34,Section number skipped (or not read),Section 32 then 34,Section 33,Standards for Disaster Preparedness Activities
@@ -615,10 +618,10 @@ HB-19-5223,HB 5223,Section 5 (Powers and Functions of the Department),Possible m
 HB-19-5223,HB 5223,Section 5 (Powers and Functions of the Department),Possible misspelling,planing,planning,"agencies, pohcies and programs on land-use planning, urban planing and zoning which shall, to the extent such poHcies and prog"
 HB-19-5223,HB 5223,Section 10 (The Undersecretaries),Possible misspelling,planing,planning,"covers knowledge management, institutional development and planing, finance, officeadministration,humanresourcesmanagement,and"
 HB-19-6120,HB 6120,Section 3,Section number skipped (or not read),Section 1 then 3,Section 2,Def inition Of Terms. -Ais used in tk: iis Alct
-HB-19-6120,HB 6120,Section 3 (Def inition Of Terms. -Ais used in tk: iis Alct),Possible misspelling,unifomed,uniformed,"tection (BFP), DOTr-Philippine Coast Guard (PCG), and other unifomed services in undertaking disaster preparedness and response"
-HB-19-6120,HB 6120,Section 3 (Def inition Of Terms. -Ais used in tk: iis Alct),Possible misspelling,shalrl,shall,al Disaster Resilience Plan and Investment Program ONDRPIP) shalrl re;Ser to a. plan formulated and implemented by the nationa
-HB-19-6120,HB 6120,Section 3 (Def inition Of Terms. -Ais used in tk: iis Alct),Possible misspelling,detemine,determine,.#g -4cfor shall refer to any assisting actor that has been detemined to be eligible to receive legal facilities as provided for
 HB-19-6120,HB 6120,Section 3 (Def inition Of Terms. -Ais used in tk: iis Alct),Possible misspelling,perfom,perform,"Of the Dapartment. - The Depixrtment sha,Il exerc;ise a:nd perfom the following powers and functions: Overall functions: (a)"
+HB-19-6120,HB 6120,Section 3 (Def inition Of Terms. -Ais used in tk: iis Alct),Possible misspelling,shalrl,shall,al Disaster Resilience Plan and Investment Program ONDRPIP) shalrl re;Ser to a. plan formulated and implemented by the nationa
+HB-19-6120,HB 6120,Section 3 (Def inition Of Terms. -Ais used in tk: iis Alct),Possible misspelling,unifomed,uniformed,"tection (BFP), DOTr-Philippine Coast Guard (PCG), and other unifomed services in undertaking disaster preparedness and response"
+HB-19-6120,HB 6120,Section 3 (Def inition Of Terms. -Ais used in tk: iis Alct),Possible misspelling,detemine,determine,.#g -4cfor shall refer to any assisting actor that has been detemined to be eligible to receive legal facilities as provided for
 HB-19-10213,HB 10213,Section 10,Section number skipped (or not read),Section 8 then 10,Section 9,T7!c U#dcrsecretorfes
 HB-19-10213,HB 10213,Section 20,Section number skipped (or not read),Section 18 then 20,Section 19,"Co""pos{.f!.o# ¢#d orgr#i.zflf!.o# a/LDROs. -The LDRO shall be under the"
 HB-19-10213,HB 10213,Section 24,Section number skipped (or not read),Section 22 then 24,Section 23,"Poavers ¢#d I""#ctr.o#s a/ fJze PDRO"
@@ -628,18 +631,18 @@ HB-19-10213,HB 10213,Section 34,Section number skipped (or not read),Section 32 
 HB-19-10213,HB 10213,Section 37,Section number skipped (or not read),Section 35 then 37,Section 36,"Roles and Responsibilities of stakeholders. -The conrmi:twent, goodwH1,"
 HB-19-10213,HB 10213,Section 41,Section number skipped (or not read),Section 39 then 41,Section 40,EflrJ!/ Wflmt.#g M4IHdrfe. -(a) The Department shall issue an integrated
 HB-19-10213,HB 10213,Section 45,Section number skipped (or not read),Section 43 then 45,Section 44,H!£ffl##€.r#f?.fl# AssI.sf##ce Ace.or
-HB-19-10213,HB 10213,Section 3 (Dc/i#I.f{.o# a/ rc77us),Possible misspelling,assessmeint,assessment,er area to facilitate and ensure quick impact anl cl rieeds assessmeint iri the e``t'ent Of a disaster; (9) Facilitate and regu
-HB-19-10213,HB 10213,Section 3 (Dc/i#I.f{.o# a/ rc77us),Possible misspelling,socioreconomic,socioeconomic,"locked, hard- to-reach, and underserved communities, and/or socioreconomic factors such as high poverty incidence, presence of vulnera"
-HB-19-10213,HB 10213,Section 3 (Dc/i#I.f{.o# a/ rc77us),Possible misspelling,chainge,change,"velop or have developed methodologies to establishtlirirate chainge risk profile, are officiall}' engaged; (10) Undertake pro"
 HB-19-10213,HB 10213,Section 3 (Dc/i#I.f{.o# a/ rc77us),Possible misspelling,ermergency,emergency,ster response or disaster reliof refers to the provision of ermergency seIV±ces and public assistance during or immediately after
+HB-19-10213,HB 10213,Section 3 (Dc/i#I.f{.o# a/ rc77us),Possible misspelling,assessmeint,assessment,er area to facilitate and ensure quick impact anl cl rieeds assessmeint iri the e``t'ent Of a disaster; (9) Facilitate and regu
+HB-19-10213,HB 10213,Section 3 (Dc/i#I.f{.o# a/ rc77us),Possible misspelling,chainge,change,"velop or have developed methodologies to establishtlirirate chainge risk profile, are officiall}' engaged; (10) Undertake pro"
+HB-19-10213,HB 10213,Section 3 (Dc/i#I.f{.o# a/ rc77us),Possible misspelling,socioreconomic,socioeconomic,"locked, hard- to-reach, and underserved communities, and/or socioreconomic factors such as high poverty incidence, presence of vulnera"
 HB-19-10213,HB 10213,"Section 14 (Nlatiot.,,&l Dis,aster of3eratiot`ts cett±er, Al.+Ecr#iative coif..ftit3ti.d cef)",Possible misspelling,fional,final,16.. Compl€ence erfd _A_ceredi±ation of DRFITT with Tuterm6[fional standards. - The Department shall strive to obtain certific
 HB-19-10213,HB 10213,"Section 18 (Jffcczzfz.I;'€s. -The Dcpartn-tcrLt has the atidthQrit}. to prcscribc benefits,)",Possible misspelling,fficle,ffice,r resilience officers at the national and local levels. 22 .fficle V NATIONAL AND LOCAL GOVERNMENT RELATIONS 25 `.a. CSE
 HB-19-10213,HB 10213,"Section 30 (J#fer-Locfl[Z Got7c""fflc#f Assis£¢#cc. -LGUs are hereby authorized to)",Possible misspelling,primardy,primary,"litation powers of the Departmeut. -The Department shall be primardy responsible for the identification, planning, and funding o"
 HB-19-10213,HB 10213,"Section 38 (Rccog7£!.f!.o# flr!d 17ice7if!.z7cs. -The Department, in partnership with the)",Possible misspelling,istitutions,institutions,"ations and meritorious acts of individuals, groups, or-, il-istitutions during i-iatural disasters subject to existing iaT.\rs, Ind"
 HB-19-10213,HB 10213,Section 39 (Standards f or Disaster preparedness Activities. -{d) The Departrner\t shall),Possible misspelling,erriing,erring,ion standards. -There shall be a sti.eandiinedpolic:r gc}-`-erriing earl}r warnlfig s}'sterriis and risk cori-ii-fiuiiication p
 HB-19-10213,HB 10213,"Section 47 (RcgrtJfltr.o# a,,fH""fflfl#z.f¢rt.fl# Assz.sffl#ce. -(a) The Department shall ens)",Possible misspelling,prjudice,prejudice,"association, or endty responsible for the violation without prjudice to the canceHation or revocation of the ficense or accredit"
-HB-19-10213,HB 10213,"Section 47 (RcgrtJfltr.o# a,,fH""fflfl#z.f¢rt.fl# Assz.sffl#ce. -(a) The Department shall ens)",Possible misspelling,accouning,accounting,"sue rules and guidelines for the receipt, nranagemerLt,-and accouning of donations, which are consistent with the miss on the use"
 HB-19-10213,HB 10213,"Section 47 (RcgrtJfltr.o# a,,fH""fflfl#z.f¢rt.fl# Assz.sffl#ce. -(a) The Department shall ens)",Possible misspelling,diaster,disaster,"rulesandregulatiors i8 to ensure that iuds required for diaster respol-tee, reeo-v-Cry., and rei-Labilitation are avahable"
+HB-19-10213,HB 10213,"Section 47 (RcgrtJfltr.o# a,,fH""fflfl#z.f¢rt.fl# Assz.sffl#ce. -(a) The Department shall ens)",Possible misspelling,accouning,accounting,"sue rules and guidelines for the receipt, nranagemerLt,-and accouning of donations, which are consistent with the miss on the use"
 HB-19-10213,HB 10213,"Section 47 (RcgrtJfltr.o# a,,fH""fflfl#z.f¢rt.fl# Assz.sffl#ce. -(a) The Department shall ens)",Possible misspelling,buldings,buildings,"duct structural audit, as often as necessary, on government buldings, especially those lcx:ated in congested and disaster-prone"
 SB-19-1345,SB 1345,Section 4 (Powers and Functions of the Authority),Possible misspelling,govermnent,government,"ress risks in the country in consultation with key national govermnent agencies and stakeholders, especially local governments and"
 SB-19-186,SB 186,Section 10 (Regional Offices),Possible misspelling,andother,another,"sector preparedness for natural disasters, armed conflicts, andother man-made disasters; (i) Assist State, local, and tribal gov"
@@ -679,6 +682,10 @@ HB-19-4055,HB 4055,Section 12 (The Bureaus of the Department),Number in words di
 SB-19-490,SB 490,Section 13 (Tlw Bureaus of the Department),Number in words differs from figure,four (6),four (4),t shall exercise supervision and control over the following four (6) Bureaus which are created under it: (a) The Bureau of
 SB-19-552,SB 552,Section 13,Section number skipped (or not read),Section 11 then 13,Section 12,Department Services
 SB-19-552,SB 552,Section 6 (Powers and Functions),Possible misspelling,augmiented,augmented,"ture and Arts (NEFCA) that shall continue to be sourced and augmiented as provided by the aforementioned provisions, and provide f"
+HB-20-8405,HB 8405,Section 7,Section number skipped (or not read),Section 5 then 7,Section 6,Roles and Responsibilities Benguet Vegetable Processing Plant Board
+HB-20-8416,HB 8416,Section 29 (Penalties),Repeated word,Offense Offense,Offense,st (1st) Second (2nd) Third (3rd) Offense Offense Offense Large Fine of
+HB-20-8435,HB 8435,Section 2 (Declaration of Policy),Possible misspelling,tiality,tility,eserve the integrity OF THE FINANCIAL SYSTEM [and confiden- tiality of bank accounts] and to ensure that the Philippines shall
+HB-20-8452,HB 8452,Section 3,Section number skipped (or not read),Section 1 then 3,Section 2,Declaration of March 20 as a Special Non-working Holiday in the
 HB-20-8481,HB 8481,Section 11,Section number skipped (or not read),Section 9 then 11,Section 10,Effectivity
 HB-20-8482,HB 8482,Section 3,Section number skipped (or not read),Section 1 then 3,Section 2,Definition of Terms
 HB-20-8492,HB 8492,Section 16,Section number skipped (or not read),Section 14 then 16,Section 15,Internet Safety Policy
@@ -828,8 +835,8 @@ HB-20-10967,HB 10967,Section 12,Section number skipped (or not read),Section 10 
 HB-20-10979,HB 10979,Section 9 (Implementing Rules and Regulations),Number in words differs from figure,ninety (60),ninety (90),"SEC. 9. Implementing Rules and Regulations. – Within ninety (60) days from the effectivity of this Act, the Board shall, in"
 HB-20-11017,HB 11017,Section 53 (Violations of Unified Protocol),Article (a/an),a illegal,an illegal,"zoning or protection protocols established by this Act such a illegal occupancy of strict zones and bypassing corridors, shall be"
 HB-20-11022,HB 11022,Section 12,Section number skipped (or not read),Section 10 then 12,Section 11,Issuance of the Certificate of Naturalization.—x x x The file
-HB-20-11042,HB 11042,Section 6 (Protection of Rights of IDPs During and After Displacement),Possible misspelling,mortal,moral,"rities concerned shall endeavor to collect and identify the mortal remains of the deceased, prevent their description or mutil"
 HB-20-11042,HB 11042,Section 6 (Protection of Rights of IDPs During and After Displacement),Possible misspelling,outrages,outages,"hall be protected in particular against: i. Rape and other outrages upon personal dignity, such as forced prostitution, traf ic"
+HB-20-11042,HB 11042,Section 6 (Protection of Rights of IDPs During and After Displacement),Possible misspelling,mortal,moral,"rities concerned shall endeavor to collect and identify the mortal remains of the deceased, prevent their description or mutil"
 HB-20-11072,HB 11072,Section 5 (Implementing Rules and Regulations),Number in words differs from figure,ninety (60),ninety (90),rules and regulations to implement this Act not later than ninety (60) days after its effectivity.
 HB-20-11131,HB 11131,Section 3,Section number skipped (or not read),Section 1 then 3,Section 2,(T) OF THIS ACT TO PERFECT AN APPEAL FROM SUCH
 HB-20-11187,HB 11187,Section 14,Section number skipped (or not read),Section 12 then 14,Section 13,Sunset Review
@@ -841,7 +848,6 @@ HB-20-11238,HB 11238,Section 5,Section number skipped (or not read),Section 3 th
 HB-20-11238,HB 11238,Section 2 (Declaration of Policy),Possible misspelling,sturdy,study,"shall recognize the strategic importance of the bamboo as a sturdy, versatile, and replenishable material that can be a sustai"
 HB-20-11279,HB 11279,Section 6,Section number skipped (or not read),Section 4 then 6,Section 5,"of this Act, qualified indigents shall be exempt from paying review fees"
 HB-20-11294,HB 11294,Section 17,Section number skipped (or not read),Section 15 then 17,Section 16,Benefits of Employed BHWs
-HB-20-11298,HB 11298,Section 2 (Definition of Terms),Possible misspelling,risking,rising,", scheme, activity, or undertaking involving the staking or risking of money or anything of value upon the outcome of a game, c"
 HB-20-11302,HB 11302,Section 5,Section number skipped (or not read),Section 3 then 5,Section 4,of this Act;
 HB-20-11321,HB 11321,Section 2 (Declaration of Policy),Possible misspelling,meditation,mediation,"afe, peaceful, and accessible space for prayer, reflection, meditation, or quiet contemplation while performing their daily activi"
 HB-20-11321,HB 11321,Section 3 (Definition of Terms),Possible misspelling,meditation,mediation,"inclusive space intended for prayer, religious observance, meditation, reflection, or quiet contemplation, which may be used by p"
@@ -871,7 +877,6 @@ HB-20-11575,HB 11575,Section 10,Section number skipped (or not read),Section 8 t
 HB-20-11578,HB 11578,Section 17 (Technical Panel on Optometric Education),Possible misspelling,residencies,residences,"Programs- Establishing standards for post-graduate clinical residencies in sub-specialties, including but not limited to Pediatric"
 HB-20-11582,HB 11582,Section 6,Section number skipped (or not read),Section 4 then 6,Section 5,National Baseline Study
 HB-20-11589,HB 11589,Section 2 (Declaration of Policy),Possible misspelling,fishierfolk,fisherfolk,"an resource development for the benefit of seaweed farmers, fishierfolk, 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 workers"
-HB-20-11604,HB 11604,Section 3 (Definition of Road Rage),Possible misspelling,overtly,overty,"s, gestures, or minor traffic violations, in the absence of overtly dangerous acts, shall not be considered road rage under thi"
 HB-20-11605,HB 11605,Section 7,Section number skipped (or not read),Section 5 then 7,Section 6,Separability Clause
 HB-20-11620,HB 11620,Section 7,Section number skipped (or not read),Section 5 then 7,Section 6,of this Act
 HB-20-11634,HB 11634,Section 24,Section number skipped (or not read),Section 22 then 24,Section 23,Repealing Clause
@@ -905,3 +910,14 @@ HB-20-11793,HB 11793,Section 5 (Establishment of School Safety Plans),Possible m
 HB-20-11818,HB 11818,Section 8 (Determination and Periodic Review of Financial Assisfan ce),Possible misspelling,waranted,warranted,st once every three (3) months and shall adjust the rate as waranted by prevailing economic conditions and other relevant factor
 HB-20-11834,HB 11834,Section 12,Section number skipped (or not read),Section 10 then 12,Section 11,Teacher and School Personnel Development
 HB-20-11837,HB 11837,Section 13,Section number skipped (or not read),Section 11 then 13,Section 12,Public Feedback and Reporting Mechanism
+HB-20-11871,HB 11871,Section 4 (Program Framework),Possible misspelling,abusers,abuses,"gram for street children identified as prohibited substance abusers; (e) Programs geared towards the acquisition of livelihood,"
+HB-20-11884,HB 11884,Section 14,Section number skipped (or not read),Section 12 then 14,Section 13,Support for the Development of Mango Farms and Mango
+HB-20-11884,HB 11884,Section 19,Section number skipped (or not read),Section 17 then 19,Section 18,Technology transfer. - the DA shall promote the transfer of
+HB-20-11887,HB 11887,Section 6,Section number skipped (or not read),Section 4 then 6,Section 5,Rights of Internet Service Subscribers
+HB-20-11898,HB 11898,Section 28 (Penalties),Repeated word,offense offense,offense,"posed: : st nd Offender First (1°) Second (2™"") Third (3°4) offense offense offense Fine of not Fine of not less than Fine of not less"
+HB-20-11898,HB 11898,Section 28 (Penalties),Repeated word,less less,less,fense offense Fine of not Fine of not less than Fine of not less less than five than one million five million pesos . hundred (Ph
+HB-20-11898,HB 11898,Section 28 (Penalties),Repeated word,offense offense,offense,"posed: : st nd Offender First (1°) Second (2™"") Third (3°4) offense offense offense Fine of not Fine of not less than Fine of not less"
+HB-20-11899,HB 11899,Section 3,Section number skipped (or not read),Section 1 then 3,Section 2,The Secretary of Transportation shall formulate the necessary rules and
+HB-20-11910,HB 11910,Section 11,Section number skipped (or not read),Section 9 then 11,Section 10,National Agri-Food Price Monitoring System
+HB-20-11971,HB 11971,Section 12 (Implementing Rules and Regulations),Number in words differs from figure,sixty (90),sixty (60),"SEC 12. Implementing Rules and Regulations. – Within sixty (90) days from the effectivity of this Act, the IATF-DLFS shall"
+HB-20-11974,HB 11974,Section 8 (New Part VI-A),Possible misspelling,furished,furnished,"further, That the Trust Fund Management Committee shall be furished copies of the approved corporate operating budget and of th"

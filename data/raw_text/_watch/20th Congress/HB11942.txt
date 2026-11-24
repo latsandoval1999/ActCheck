@@ -1,0 +1,252 @@
+                                            Republic of the Philippines
+                                     House of Representatives
+                                           Quezon City, Metro Manila                                November 12, 2026
+                                                                                                        8:00 am
+                                            Twentieth Congress
+                                          Second Regular Session
+
+                                        HOUSE BILL NO. 11942
+                                                       ______
+
+
+              Introduced by Representatives Yedda Marie K. Romualdez,
+                   Andrew Julian K. Romualdez and Jude A. Acidre
+
+
+                         AN ACT
+ACCELERATING COMPLIANCE WITH ELECTRONIC HEALTH
+RECORDS AND INTEROPERABILITY REQUIREMENTS, PROVIDING
+DIGITALIZATION ASSISTANCE TO HEALTH FACILITIES, ENSURING
+PATIENT ACCESS AND RECORD PORTABILITY THROUGH THE
+PHILIPPINE DIGITAL HEALTH SYSTEM, AND FOR OTHER PURPOSES
+
+                                        EXPLANATORY NOTE
+
+       R      tEE5t–     t7dt t t7][“tb                t        t    t ;    t– t      t
+protect and promote the right to health of the people and instill health consciousness
+       t      h tR      t zEEE5t –       t 77t       t            t t             t   t
+comprehensive approach to health development. Giving effect to these constitutional
+      5t–       tsat tB        tR t0 ht77CCs5t t t j                tH      tb tR 5 t
+requires health service providers and insurers to maintain electronic health records
+and regularly upload them through interoperable systems. Republic Act No. 12254,
+  t    t 2-v            tR 5 t         t            t t                  5t      5t   t
+sustainable Philippine Digital Health System intended to provide broad access to
+quality health information and services.1
+1
+ Constitution of the Republic of the Philippines, art. II, sec. 15, and art. XIII, sec. 11 (1987); Universal Health Care
+Act, Republic Act No. 11223, sec. 36 (2019); E-Governance Act, Republic Act No. 12254, sec. 9(i) (2025).
+       Notwithstanding this legal framework, there remains a need to translate
+system-level requirements into a direct, uniform, and convenient means by which
+patients may access their own health information and authorized health facilities
+may retrieve updated records when necessary for treatment. When records remain
+dispersed among different facilities or cannot be promptly retrieved, healthcare
+providers may be deprived of information necessary for timely diagnosis, referral,
+and treatment. PhilHealth identifies improved access to complete health records,
+better care coordination, and reduced costs from repeated laboratory examinations
+among the intended benefits of a national health data system.2 The World Health
+Organization likewise recognizes electronic health records as an important
+mechanism for supporting continuity of care.3
+
+      This bill therefore establishes a secure, accessible, interoperable, centralized,
+and universal Electronic Health Record. It mandates all health facilities to transfer
+patient records to an Electronic Health Record Website and promptly update them
+following every patient encounter. It likewise grants patients and duly authorized
+representatives of health facilities controlled access to such records while requiring
+appropriate safeguards against unauthorized access, disclosure, alteration, loss, or
+destruction. These protections are consistent with the rights of access and data
+portability and the security requirements established under Republic Act No. 10173,
+  t t N t)            tR t tC87Ch 4
+
+      By transforming the existing duty to maintain and submit electronic health
+records into a timely, nationwide, and patient-accessible system, this measure
+strengthens and operationalizes existing health and digital-governance laws. It will
+enable health information to follow the patient, support informed medical decision-
+making, and promote safer and more continuous healthcare without compromising
+
+
+2
+  )         tH     tE         tb          htS h hoht0    tH     tN tB             5t 2        tp      t t t0HNB t
+section, paras. 1 5. https://www.philhealth.gov.ph/nhdr/
+3
+  World Health Organization. (2021). Global strategy on digital health 2020 C8Cd5t –             t(          t      ht
+https://www.who.int/docs/default-source/documents/gs4dhdaa2a9f352b0445bafbc79ca799dce4d.pdf
+4
+  Data Privacy Act of 2012, Republic Act No. 10173, secs. 16, 18, and 20 (2012). https://privacy.gov.ph/data-privacy-
+act/
+ privacy and confidentiality. In view of the foregoing, the immediate passage of this
+ bill is earnestly sought.
+
+       In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+                      YEDDA MARIE K. ROMUALDEZ
+
+
+
+ANDREW JULIAN K. ROMUALDEZ                                JUDE A. ACIDRE
+                                 Republic of the Philippines
+                           House of Representatives
+                                Quezon City, Metro Manila
+
+                                  Twentieth Congress
+                                Second Regular Session
+
+                                            11942
+                             HOUSE BILL NO. ______
+
+
+          Introduced by Representatives Yedda Marie K. Romualdez,
+               Andrew Julian K. Romualdez and Jude A. Acidre
+
+
+                         AN ACT
+ACCELERATING COMPLIANCE WITH ELECTRONIC HEALTH
+RECORDS AND INTEROPERABILITY REQUIREMENTS, PROVIDING
+DIGITALIZATION ASSISTANCE TO HEALTH FACILITIES, ENSURING
+PATIENT ACCESS AND RECORD PORTABILITY THROUGH THE
+PHILIPPINE DIGITAL HEALTH SYSTEM, AND FOR OTHER PURPOSES
+
+      Be it enacted by the Senate and House of Representatives of the Philippines
+in Congress assembled:
+
+      Section 1. Short Title.     This Act shall be known as the 2              tH         t
+B       t–       tR             tR h
+
+      Section 2. Declaration of Policy. It is hereby declared the policy of the State
+to protect and promote the right to health and to strengthen the delivery of integrated,
+patient-centered, and continuous healthcare through the appropriate utilization of
+digital technologies. The State shall ensure the accuracy, integrity, confidentiality,
+and timely availability of health information.
+      Toward this end, consistent with the objectives of Republic Act No. 11223,
+          t         t t      t j       tH          tb         tR 5 t              t t                t    t     t
+Philippine Digital Health System established under Republic Act No. 12254,
+          t        t t     t 2-Go           tR 5 t           t–     t         t                     tt          5t
+accessible, interoperable, centralized, and universal Electronic Health Record,
+mandate the digitization and prompt updating of patient records, and provide
+controlled access thereto for patients and duly authorized representatives of health
+facilities, in accordance with applicable privacy and confidentiality laws.
+
+      Section 3. Definition of Terms.        As used in this Act:
+
+               (a) Electronic Health Record                   t t       t          t       t t t                t
+      health information and healthcare services;
+
+               (b) Electronic Health Record Website refers to the secure, accessible,
+      interoperable, centralized, and universal national web-based platform,
+      through which health facilities shall submit and promptly update electronic
+      health records and through which patients and duly authorized representatives
+      of health facilities may access and transmit such records, consistent with of
+      B           t R t 0 ht 77CCs5t           t                  t t       t j                tH        tb     t
+      R 5 tB              tR t0 ht7CCdu5t                t              t t       t 2-v                  tR 5
+          tB          tR t0 ht787“s5t                t              t t           t N     t)         tR t t
+      C87Ch
+
+               Health Facility refers to any public or private hospital, infirmary,
+      clinic, rural health unit, barangay health station, laboratory, diagnostic center,
+      pharmacy, or other facility authorized to provide healthcare or health-related
+      services;
+            (c) Secure refers to the condition in which electronic health records are
+      protected against unauthorized access, use, disclosure, alteration, loss, or
+      destruction, thereby     preserving their    confidentiality, integrity, and
+      availability, in accordance with Republic Act No. 10173, otherwise known as
+         t N    t)       t R t t C87C5 t      tB        t R t 0 ht 7CCdu5t           t
+             t t     t 2-v          tR g
+
+            (d) Accessible refers to the capability of patients and duly authorized
+      representatives of health facilities to conveniently retrieve and use electronic
+      health records, including through accommodations for persons with
+      disabilities, consistent with Republic Act No. 12254;
+
+            (e) Interoperable refers to the capability of different electronic health
+      record systems, applications, and services to communicate and exchange data
+      accurately, effectively, and consistently, as contemplated under Republic Act
+      No. 12254;
+
+            (f) Centralized refers to the administration of electronic health records
+      through a single national platform for their submission, management, and
+      authorized retrieval, consistent with Republic Act No. 12254; and
+
+            (g) Universal refers to the nationwide coverage of all patients and
+      public and private health facilities, consistent with Republic Act No. 11223
+      and Republic Act No. 12254.
+
+      Section 4. Establishment of an Electronic Health Record. ± The Department
+of Health, in coordination with the Department of Information and Communications
+Technology and other relevant agencies, shall establish and maintain a secure,
+accessible, interoperable, centralized, and universal Electronic Health Record. It
+shall allow patients to access their health records and shall permit duly authorized
+representatives of health facilities to access, update, and transmit such records for
+the provision and continuity of healthcare, subject to patient consent and applicable
+data privacy and confidentiality laws.
+
+      Section 5. Mandatory Digitization and Updating of Health Records. Every
+      t       t      t        t    t      t   t         t       t             t   t   t
+Electronic Health Record Site. Such records shall be updated promptly after every
+patient encounter and shall contain, as applicable:
+
+   a. Patient identification and demographic information;
+   b. Relevant medical history, including allergies and existing medical conditions;
+   c. Diagnoses, clinical findings, and treatment plans;
+   d. Prescriptions, medications administered, and immunization records;
+   e. Laboratory, diagnostic, imaging, and other examination results;
+   f. Medical procedures, interventions, and services provided;
+   g. Referral, admission, transfer, and discharge records; and
+   h. Such other information necessary for the continuity, safety, and quality of
+      patient care, as may be prescribed by the Department of Health.
+
+      All entries and subsequent corrections shall identify the responsible healthcare
+professional and indicate the date and time of entry or modification.
+
+      Section 6. Electronic Health Records Digitalization Assistance Program.
+The Department of Health and Philippine Health Insurance Corporation, in
+coordination with the Department of Information and Communications Technology
+and local government units, shall implement a Health Records Digitalization
+Assistance Program for health facilities that lack adequate digital capacity.
+
+        Assistance may include:
+
+           a. Computers, scanners, servers, connectivity, and other necessary
+              infrastructure;
+           b. Digitization and migration of active and medically relevant records;
+           c. Training of healthcare, records, and information technology personnel;
+           d. Technical maintenance, cybersecurity, and help-desk support; and
+           e. Backup, recovery, offline, and system-continuity services.
+
+        Priority shall be given to government hospitals, primary care facilities, rural
+health units, geographically isolated and disadvantaged areas, and facilities serving
+indigent and underserved patients.
+
+        Section 7. Privacy, Confidentiality, and Security. ± All health information
+collected, recorded, stored, accessed, transferred, or otherwise processed under this
+Act shall be treated as confidential and protected in accordance with Republic Act
+0 ht787“s5t            t        t t   tN   t)      tR t tC87C5 t nd other applicable
+laws.
+
+        Access shall be limited to the patient and duly authorized persons and shall be
+allowed only for lawful and legitimate healthcare purposes.
+
+        Section 8. Appropriations.    The amounts necessary for the implementation
+of this Act shall be included in the respective budgets of the concerned national
+government agencies and local government units, subject to existing budgeting,
+accounting, auditing, procurement, and other applicable laws, rules, and regulations.
+      Section 9. Implementing Rules and Regulations.         Within ninety (90) days
+from the effectivity of this Act, the Department of Health, in coordination with the
+Department of Information and Communications Technology, the National Privacy
+Commission, PhilHealth, and other relevant agencies and stakeholders, shall
+promulgate the rules and regulations necessary for its effective implementation.
+
+      Section 10. Separability Clause.      If any provision of this Act is declared
+invalid or unconstitutional, the provisions not affected thereby shall remain in full
+force and effect.
+
+      Section 11. Repealing Clause.        All laws, presidential decrees, executive
+orders, presidential proclamations, rules and regulations or parts thereof contrary to
+or inconsistent with this Act are hereby repealed or modified accordingly.
+
+      Section 12. Effectivity.   This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in at least two (2) newspapers of general
+circulation.
+
+      Approved,
+

@@ -1,0 +1,508 @@
+                               Republic of the Philippines
+                          House of Representatives
+                               Quezon City, Metro Manila               November 12, 2026
+                                                                         8:00 am
+                                Twentieth Congress
+                              Second Regular Session
+
+                            HOUSE BILL NO. 11928
+                                           ______
+
+
+          Introduced by Representatives Yedda Marie K. Romualdez,
+               Andrew Julian K. Romualdez and Jude A. Acidre
+
+
+                        AN ACT
+ESTABLISHING THE AGRICULTURAL DATA TRANSPARENCY
+SYSTEM, PROMOTING OPEN ACCESS TO AGRICULTURAL
+INFORMATION, INSTITUTIONALIZING REAL-TIME MARKET DATA
+SHARING, STRENGTHENING EVIDENCE-BASED AGRICULTURAL
+GOVERNANCE, AND FOR OTHER PURPOSES
+
+                             EXPLANATORY NOTE
+       Agriculture remains a vital pillar of the Philippine economy and food security
+system, providing livelihoods to millions of Filipinos. However, farmers and
+fisherfolk continue to face significant challenges due to limited access to timely and
+reliable information on commodity prices, agricultural inputs, production trends, and
+market conditions. This information gap weakens their bargaining power,
+contributes to inefficiencies in agricultural markets, and often results in low farm
+incomes despite rising consumer food prices.
+
+       The agricultural sector likewise suffers from fragmented and inaccessible data
+systems. Agricultural information is collected by various government agencies and
+local government units, often using different methodologies and reporting schedules.
+The absence of a centralized and transparent system hinders effective planning,
+delays government interventions, and limits the ability of policymakers and
+stakeholders to make informed decisions regarding food production, supply
+management, and agricultural development.
+      Recent experiences involving inflation, climate-related disasters, supply chain
+disruptions, and food security concerns have underscored the importance of accurate
+and real-time agricultural information. Timely data on production levels, commodity
+inventories, market prices, and agricultural inputs are essential in anticipating
+shortages, stabilizing markets, responding to emergencies, and ensuring the efficient
+delivery of government support to agricultural communities.
+
+       This proposed bill seeks to establish an Agricultural Data Transparency
+System that will serve as a centralized and publicly accessible platform for
+agricultural information. The measure mandates the publication of real-time
+farmgate, wholesale, and retail prices; creates an open-access agricultural data
+portal; requires data sharing among government agencies and local government
+units; and ensures that information is accessible to farmers and fisherfolk through
+websites, mobile applications, and SMS-based services.
+
+      By institutionalizing transparency, accessibility, and interoperability in
+agricultural data governance, this measure aims to reduce information asymmetry,
+improve market efficiency, strengthen evidence-based policymaking, and enhance
+food security. Ultimately, the bill seeks to empower farmers, fisherfolk, consumers,
+and local governments with reliable information necessary for building a more
+productive, resilient, and competitive agricultural sector.
+      In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+
+                        YEDDA MARIE K. ROMUALDEZ
+
+
+
+
+   ANDREW JULIAN K. ROMUALDEZ                                  JUDE A. ACIDRE
+                              Republic of the Philippines
+                         House of Representatives
+                              Quezon City, Metro Manila
+
+                               Twentieth Congress
+                             Second Regular Session
+
+                                           11928
+                            HOUSE BILL NO. ______
+
+
+         Introduced by Representatives Yedda Marie K. Romualdez,
+              Andrew Julian K. Romualdez and Jude A. Acidre
+
+
+                        AN ACT
+ESTABLISHING THE AGRICULTURAL DATA TRANSPARENCY
+SYSTEM, PROMOTING OPEN ACCESS TO AGRICULTURAL
+INFORMATION, INSTITUTIONALIZING REAL-TIME MARKET DATA
+SHARING, STRENGTHENING EVIDENCE-BASED AGRICULTURAL
+GOVERNANCE, AND FOR OTHER PURPOSES
+
+      Be it enacted by the Senate and House of Representatives of the Philippines
+in Congress assembled:
+
+                                   ARTICLE I
+                            GENERAL PROVISIONS
+
+      SECTION 1. Short Title. – This Act shall be known as the “Agricultural Data
+Transparency Act of 2026”
+
+
+      SEC 2. Declaration of Policy. — It is hereby declared the policy of the State
+to:
+(a) Promote transparency, accountability, and accessibility in agricultural
+markets;
+
+(b) Empower farmers, fisherfolk, consumers, cooperatives, and local
+government units through timely and accurate agricultural information;
+
+(c) Reduce information asymmetry in agricultural supply chains;
+
+(d) Strengthen food security through evidence-based agricultural planning and
+decision-making;
+
+(e) Utilize digital technologies to improve agricultural productivity, market
+efficiency, and public service delivery;
+
+(f) Institutionalize open-data principles in agricultural governance while
+protecting confidential and personal information.
+
+
+SEC 3. Objectives. — This Act shall pursue the following objectives:
+
+(a) Establish a nationwide Agricultural Data Transparency System;
+
+(b) Provide real-time information on farmgate, wholesale, and retail prices;
+
+(c) Improve transparency of agricultural production and supply conditions;
+
+(d) Facilitate agricultural planning and market forecasting;
+
+(e) Ensure equitable access to agricultural information;
+
+(f) Strengthen coordination among government agencies and local
+government units.
+      SEC 4. Definition of Terms. — For the purposes of this Act, the following
+shall be defined;
+
+      (a) Agricultural Data refers to the information relating to production, prices,
+      inputs, supply chains, weather, trade, and other agricultural indicators;
+
+      (b) Farmgate Price refers to the price received by the farmer at the point of
+      first sale;
+
+      (c) Open Data refers to the government-held agricultural information freely
+      accessible and reusable by the public;
+
+      (d) Real-Time Data refers to the information made available immediately or
+      within the shortest practicable period after collection and validation;
+
+      (e) Agricultural Inputs refers to the seeds, fertilizer, feeds, fuel, machinery,
+      pesticides, irrigation resources, and related agricultural resources;
+
+      (f) Data Interoperability refers to the ability of systems to exchange and
+      utilize information efficiently.
+
+
+                                    ARTICLE II
+            AGRICULTURAL DATA TRANSPARENCY SYSTEM
+
+
+      SEC 5. Establishment of the Agricultural Data Transparency System
+(ADTS) — There is hereby established an Agricultural Data Transparency System
+(ADTS) under the Department of Agriculture (DA), which shall serve as the primary
+national platform for the collection, integration, management, analysis, and
+dissemination of agricultural information. The ADTS shall consolidate data
+generated by national government agencies, local government units (LGUs),
+government-owned and controlled corporations, state universities and colleges, and
+other authorized sources involved in agricultural development and food security.
+
+
+      The ADTS shall promote transparency, accessibility, interoperability, and
+evidence-based decision-making by providing timely and reliable information to
+farmers, fisherfolk, consumers, researchers, policymakers, and other stakeholders.
+
+
+      SEC 6. Components of the System. — The ADTS shall consist of
+interconnected databases and digital platforms covering agricultural production,
+farmgate prices, wholesale and retail prices, agricultural inputs, weather and climate
+information, commodity inventories, logistics and transportation data, trade
+information, market forecasts, and agricultural advisories.
+
+
+      The Department may establish additional modules and information systems
+as necessary to address emerging agricultural concerns, improve food security
+planning, and support digital transformation initiatives in the agriculture sector.
+
+
+      SEC 7. Agricultural Open Data Portal – The DA shall establish and maintain
+an Agricultural Open Data Portal that shall provide free and public access to non-
+confidential agricultural information. The portal shall publish updated information
+on commodity prices, production volumes, crop calendars, input availability and
+prices, importation and exportation statistics, market trends, and other relevant
+agricultural indicators.
+
+
+      All datasets shall be made available in machine-readable and user-friendly
+formats to facilitate public use, research, innovation, investment planning, and
+policy analysis.
+                                ARTICLE III
+       DATA COLLECTION, SHARING AND INTEROPERABILITY
+
+
+      SEC 8. Mandatory Data Sharing. — All offices, bureaus, attached agencies,
+and instrumentalities under the DA, as well as relevant government agencies
+involved in agriculture, fisheries, food security, trade, statistics, and rural
+development, shall regularly share agricultural data with the ADTS.
+
+
+      The sharing of information shall be subject to standards prescribed by the
+Department and shall ensure the timely submission, consistency, and reliability of
+data while complying with applicable laws on data privacy and security.
+
+
+      SEC 9. Local Government Integration. — Provinces, cities, municipalities,
+and barangays shall participate in the collection, validation, updating, and
+dissemination of agricultural information within their respective jurisdictions. LGUs
+shall designate focal persons responsible for coordinating with the Department and
+ensuring the timely submission of local agricultural data.
+
+
+      The Department shall provide technical assistance, training, and digital tools
+necessary to strengthen local capacities for agricultural data management and
+reporting.
+
+
+      SEC 10. Data Standards and Interoperability. — The DA, in coordination
+with the Department of Information and Communications Technology (DICT) and
+the Philippine Statistics Authority (PSA), shall establish uniform standards,
+classifications, reporting formats, and protocols for agricultural data collection,
+management, and exchange.
+
+
+      All participating agencies and LGUs shall adopt interoperable systems that
+allow seamless sharing, verification, and utilization of agricultural information
+across government platforms.
+
+
+      SEC 11. Data Submission Requirements. — Government agencies and
+LGUs covered by this Act shall submit agricultural information at intervals
+prescribed by the Department. Data shall include, whenever applicable, production
+estimates, commodity inventories, planting and harvesting schedules, agricultural
+losses, market prices, and input availability. The Department may issue guidelines
+on reporting frequency, submission procedures, validation requirements, and quality
+assurance measures.
+
+
+                                  ARTICLE VI
+                    REAL-TIME PRICE TRANSPARENCY
+
+
+      SEC 12. National Agricultural Price Monitoring Program. — The DA shall
+establish a nationwide real-time monitoring system to collect, validate, analyze, and
+disseminate information on farmgate, wholesale, and retail prices of major
+agricultural commodities. The program shall identify regional price variations and
+support interventions aimed at protecting farmers, consumers, and food security.
+
+
+      SEC 13. Daily Price Publication. — The DA shall ensure the daily
+publication of commodity prices through official websites, mobile applications,
+SMS services, local information centers, and agricultural extension offices. Price
+reports shall indicate prevailing prices, historical trends, regional comparisons, and
+other information that may assist farmers and consumers in making informed
+decisions.
+
+
+      SEC 14. Farmgate Retail Price Transparency Reports. — The DA shall
+prepare and publish monthly and quarterly reports comparing farmgate, wholesale,
+and retail prices of major commodities. These reports shall identify significant price
+disparities, potential market distortions, supply constraints, and other factors
+affecting agricultural markets.
+
+
+      SEC 15. Market Early Warning System. – The DA shall establish a Market
+Early Warning System capable of identifying unusual price movements, supply
+shortages, production declines, logistics disruptions, and emerging food security
+risks. Appropriate alerts, advisories, and recommendations shall be issued to
+concerned agencies, LGUs, producers, and consumers to facilitate timely
+interventions.
+
+
+                                   ARTICLE V
+                 FARMER ACCESS AND DIGITAL INCLUSION
+
+
+      SEC 16. SMS-Based Information Service. — The DA shall establish a free
+or subsidized SMS-based information service allowing farmers and fisherfolk to
+access commodity prices, weather advisories, production forecasts, input
+availability, and government support programs. Priority shall be given to
+geographically isolated and disadvantaged areas where internet connectivity remains
+limited.
+      SEC 17. Mobile Application Platform. – The DA shall develop and maintain
+a mobile application that provides real-time agricultural information, market
+intelligence, government advisories, and digital services for farmers and fisherfolk.
+The application shall be designed to be user-friendly, accessible, and compatible
+with commonly used mobile devices.
+
+
+      SEC 18. Accessibility Measures. – Agricultural information shall be
+disseminated in formats and languages accessible to diverse stakeholders, including
+indigenous peoples, women farmers, fisherfolk, senior citizens, and persons with
+disabilities. The Department shall utilize multiple communication channels to ensure
+broad and equitable access to information.
+
+
+                                  ARTICLE VI
+                      GOVERNANCE AND OVERSIGHT
+
+
+      SEC 19. Agricultural Data Transparency Council. — There is hereby
+created an Agricultural Data Transparency Council to provide policy direction,
+oversight, and coordination in the implementation of this Act.
+
+
+      The Council shall be chaired by the Secretary of Agriculture and shall be
+composed of the following members:
+
+
+      (a) The National Statistician of the Philippine Statistics Authority (PSA), or
+      his/her duly authorized representative;
+
+      (b) The Secretary of the Department of Trade and Industry (DTI), or his/her
+      duly authorized representative;
+(c) The Secretary of the Department of Science and Technology (DOST), or
+his/her duly authorized representative;
+
+(d) The Secretary of the Department of Information and Communications
+Technology (DICT), or his/her duly authorized representative;
+
+(e) The Secretary of the National Economic and Development Authority
+(NEDA), or his/her duly authorized representative;
+
+(f) One (1) representative from the League of Provinces of the Philippines;
+
+(g) One (1) representative from the League of Cities of the Philippines;
+
+(h) One (1) representative from the League of Municipalities of the
+Philippines;
+
+(i) Two (2) representatives from accredited national farmers' organizations,
+with at least one (1) representative from the crop production sector;
+
+(j) One (1) representative from accredited fisherfolk organizations;
+
+(k) One (1) representative from duly registered agricultural cooperatives;
+
+(l) One (1) representative from state universities and colleges with recognized
+expertise in agriculture, fisheries, data science, agricultural economics, or
+rural development;
+
+(m) One (1) representative from an agricultural research institution or think
+tank;
+      (n) One (1) representative from the private sector engaged in agricultural
+      technology, digital innovation, or agribusiness, to be appointed by the
+      Secretary of Agriculture.
+
+      Representatives from non-government sectors shall be appointed by the
+Secretary of Agriculture from a shortlist submitted by their respective organizations
+and shall serve a term of three (3) years, renewable for one (1) additional term,
+provided that they possess demonstrated expertise in agriculture, food systems,
+digital governance, data management, rural development, or related fields.
+
+
+      The Council shall convene at least once every quarter and may hold special
+meetings upon the call of the Chairperson or upon the request of at least one-third
+(1/3) of its members, with a majority of all members constituting a quorum for the
+transaction of business. To effectively carry out its mandate, the Council may
+establish technical working groups, advisory committees, and sectoral panels as may
+be necessary.
+
+      SEC 20. Functions of the Council – The Council shall formulate policies,
+monitor implementation, review system performance, recommend improvements,
+and promote stakeholder participation in agricultural data governance. The Council
+may establish technical working groups and advisory bodies to address specific
+concerns relating to data management, transparency, innovation, and food security.
+
+
+                           ARTICLE VII
+                DATA QUALITY, PRIVACY, AND SECURITY
+
+      SEC 21. Data Quality Assurance. – This Act shall establish verification,
+validation, and quality control mechanisms to ensure the accuracy, timeliness,
+reliability, and completeness of all information published through the ADTS.
+Regular audits, cross-validation procedures, and stakeholder feedback mechanisms
+shall be utilized to maintain data integrity.
+
+
+      SEC 22. Independent Audit. –The Commission on Audit (COA) and other
+authorized oversight bodies may conduct periodic assessments of the operational,
+financial, and technical performance of the ADTS. Findings and recommendations
+shall be used to improve efficiency, transparency, and accountability in system
+implementation.
+
+
+      SEC 23. Data Privacy Protection. – All personal information collected,
+processed, and stored under this Act shall be governed by Republic Act No. 10173,
+otherwise known as the “Data Privacy Act of 2012”. The DA shall implement
+safeguards to prevent unauthorized access, disclosure, misuse, or loss of protected
+information.
+
+
+      SEC 24. Cybersecurity Standards. – This Act shall adopt and regularly
+update cybersecurity measures consistent with national and international standards
+to protect agricultural information systems from cyber threats and unauthorized
+access. Appropriate risk management, incident response, and disaster recovery
+mechanisms shall likewise be established.
+
+
+      SEC 25. Stakeholder Feedback Mechanism. –The ADTS shall establish
+accessible mechanisms through which stakeholders may submit corrections,
+complaints, recommendations, and local market information relating to agricultural
+data. Feedback received shall be regularly reviewed and incorporated into data
+validation, policy development, and system improvement processes.
+                                  ARTICLE VIII
+                              ACCOUNTABILITY
+
+      SEC 28. Annual Report to Congress. – The Council shall submit to Congress
+an annual implementation report detailing the status of this Act's implementation,
+including compliance with data collection and sharing requirements, progress in
+developing and maintaining the national agricultural data system, key performance
+indicators, utilization of appropriated funds, challenges encountered, and
+corresponding recommendations for legislative or administrative action.
+
+
+      SEC 29. Prohibited Acts. – The following acts are hereby prohibited:
+
+
+      (a) Knowingly submitting false, misleading, inaccurate, incomplete, or
+      fabricated agricultural data, reports, or information required under this Act;
+
+
+      (b) Knowingly manipulating, altering, suppressing, destroying, or tampering
+      with official agricultural data, records, databases, or information systems
+      maintained pursuant to this Act;
+
+
+      (c) Willfully refusing, obstructing, or unduly delaying the collection,
+      validation, integration, sharing, or submission of agricultural data required
+      under this Act without lawful justification;
+
+
+      (d) Unauthorized access to, use, disclosure, transfer, reproduction, or
+      distribution of confidential, restricted, or protected agricultural data obtained
+      pursuant to this Act, except as otherwise authorized by law;
+         (e) Misappropriating or using agricultural data obtained under this Act for
+         fraudulent, commercial, political, or other unauthorized purposes in violation
+         of this Act or other applicable laws;
+
+
+         (f) Knowingly interfering with, disrupting, damaging, or compromising the
+         operation, integrity, security, or interoperability of the National Agricultural
+         Data System or any authorized data-sharing platform established under this
+         Act; and
+
+
+         (g) Any other willful act that undermines the accuracy, integrity, security,
+         confidentiality, accessibility, or lawful use of agricultural data and
+         information systems established pursuant to this Act.
+
+
+         SEC 30. Penalties. – Any person who commits any of the prohibited acts
+under Section 29 shall, upon conviction, be punished by a fine of not less than Fifty
+Thousand Pesos (₱50,000.00) but not more than One Million Pesos (₱1,000,000.00),
+or imprisonment of six (6) months to five (5) years, or both, at the discretion of the
+court.
+
+
+         Provided that the offender is a public officer or employee, the penalties
+imposed under this Act shall be without prejudice to administrative sanctions,
+including suspension, dismissal from the service, forfeiture of benefits, and
+perpetual disqualification from holding public office, as may be provided under
+existing laws. Where the offender is a juridical person, partnership, association, or
+corporation, the responsible officers, directors, partners, or employees who
+participated in, authorized, or knowingly tolerated the commission of the offense
+shall be held liable. The imposition of penalties under this Act shall be without
+prejudice to any civil, criminal, or administrative liability under existing laws.
+
+
+                                  ARTICLE IX
+                               FINAL PROVISIONS
+
+      SEC 31. Appropriations. – The amount necessary for the initial
+implementation of this Act shall be charged against the current appropriations of the
+Department of Agriculture. Thereafter, such amounts as may be necessary shall be
+included in the annual General Appropriations Act.
+
+
+      SEC 32. Implementing Rules and Regulations. – Within one hundred twenty
+(120) days from the effectivity of this Act, the Department of Agriculture shall
+promulgate the necessary rules and regulations.
+
+
+      SEC 33. Separability Clause. — If any provision of this Act is declared
+unconstitutional or invalid, the remaining provisions not affected thereby shall
+remain in full force and effect.
+
+
+      SEC 34. Repealing Clause. — All laws, decrees, executive orders, rules and
+regulations, or parts thereof inconsistent with this Act are hereby repealed or
+modified accordingly.
+
+      SEC 35. Effectivity. — This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in at least two (2) newspapers of general
+circulation.
+
+      Approved,
+

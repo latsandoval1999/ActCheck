@@ -1,0 +1,334 @@
+                                               Republic of the Philippines
+                                        House of Representatives
+                                               Quezon City, Metro Manila                                 November 12, 2026
+                                                                                                            8:00 am
+                                               Twentieth Congress
+                                             Second Regular Session
+
+                                                          11941
+                                           HOUSE BILL NO. ______
+
+
+                 Introduced by Representatives Yedda Marie K. Romualdez,
+                     Andrew Julian K. Romualdez and Jude A. Acidre
+
+
+                        AN ACT
+ESTABLISHING A LEGAL AND ETHICAL FRAMEWORK FOR THE
+DEVELOPMENT, DEPLOYMENT, GOVERNANCE, AND USE OF
+ARTIFICIAL   INTELLIGENCE   SYSTEMS   IN   HEALTHCARE,
+PROTECTING PATIENT RIGHTS, PROMOTING ACCOUNTABILITY,
+TRANSPARENCY, SAFETY, AND DATA PRIVACY, PRESCRIBING THE
+DUTIES OF HEALTHCARE PROVIDERS AND HEALTHCARE
+INSTITUTIONS, PROHIBITING CERTAIN ACTS, AND FOR
+OTHER PURPOSES
+
+                                           EXPLANATORY NOTE
+       The 1987 Constitution mandates the State to protect and promote the right to
+health of the people and to adopt an integrated and comprehensive approach to health
+development.1 As Artificial Intelligence (AI) Systems have become increasingly
+accessible to the public and capable of use in various fields, including healthcare,
+which is imbued with public interest, their ethical regulation has become a matter of
+national interest. These constitutional mandates must therefore be applied to
+emerging technologies that may affect patient care, public health, privacy, due
+process, equal protection, and human dignity. The State therefore has a compelling
+interest to ensure that the development, deployment, and use of AI Systems in
+
+
+1
+    The 1987 Constitution of the Republic of the Philippines, art. II, sec. 15 and art. XIII, sec. 11.
+healthcare are governed by clear safeguards that protect both public welfare and
+individual rights.
+       AI Systems may assist in diagnosis, support clinical decisions, facilitate
+access to health services, aid in administration, and strengthen public health
+responses. However, without a clear legal framework, their use may also result in
+unsafe recommendations, biased outcomes, privacy violations, lack of transparency,
+and uncertainty as to accountability when harm occurs. Recognizing that Artificial
+Intelligence (AI) Systems are increasingly accessible and capable of assisting the
+healthcare field, despite the absence of a comprehensive national AI law, this
+measure seeks to regulate its ethical development, deployment, and use consistent
+with internationally accepted principles on human autonomy, transparency,
+explainability, inclusiveness, accountability, safety, data privacy, and meaningful
+human oversight, particularly the guidance of the World Health Organization.2
+
+       This bill establishes a legal and ethical framework for the responsible use of
+AI Systems in healthcare. It protects the rights of patients to human oversight,
+information, privacy and data protection, safe and lawful AI-assisted healthcare,
+transparency and explainability, equal and non-discriminatory treatment, and
+redress. It likewise imposes duties upon Healthcare Providers and Healthcare
+Institutions to disclose the use, purpose, and extent of AI Systems, answer
+reasonable patient questions, ensure human oversight over significant clinical
+decisions, protect patient data, prevent bias and discrimination, use AI Systems only
+for their disclosed intended purpose and extent, maintain pre-deployment
+documentation, monitor performance, and report and address material incidents,
+malfunctions, or risks to patient safety.
+       The goal of this measure is not to hinder innovation, but to ensure that
+innovation remains ethical, accountable, and centered on the Filipino patient.
+Artificial Intelligence Systems in healthcare are intended only to assist healthcare
+delivery and shall not replace the professional judgment, accountability, and
+responsibility of Healthcare Providers. While AI Systems may support diagnosis,
+treatment, monitoring, administration, and other healthcare-related services, final
+responsibility for patient care must remain with human professionals and healthcare
+institutions. By establishing clear rights, duties, safeguards, and accountability
+mechanisms, this bill seeks to build public trust and ensure that AI-assisted
+
+
+
+2
+ World Health Organization. (2021). Ethics and governance of artificial intelligence for health: WHO guidance.
+World Health Organization.
+healthcare in the Philippines is safe, transparent, ethical, and centered on the welfare
+of every Filipino.
+      In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+
+                          YEDDA MARIE K. ROMUALDEZ
+
+
+
+
+   ANDREW JULIAN K. ROMUALDEZ                                  JUDE A. ACIDRE
+                                Republic of the Philippines
+                          House of Representatives
+                               Quezon City, Metro Manila
+
+                                Twentieth Congress
+                              Second Regular Session
+
+                            HOUSE BILL NO. 11941
+                                           ______
+
+
+          Introduced by Representatives Yedda Marie K. Romualdez,
+              Andrew Julian K. Romualdez and Jude A. Acidre
+
+
+                         AN ACT
+ESTABLISHING A LEGAL AND ETHICAL FRAMEWORK FOR THE
+DEVELOPMENT, DEPLOYMENT, GOVERNANCE, AND USE OF
+ARTIFICIAL   INTELLIGENCE    SYSTEMS  IN   HEALTHCARE,
+PROTECTING PATIENT RIGHTS, PROMOTING ACCOUNTABILITY,
+TRANSPARENCY, SAFETY, AND DATA PRIVACY, PRESCRIBING THE
+DUTIES OF HEALTHCARE PROVIDERS AND HEALTHCARE
+INSTITUTIONS, PROHIBITING CERTAIN ACTS, AND FOR OTHER
+PURPOSES
+
+      Be it enacted by the Senate and House of Representatives of the Philippines
+in Congress assembled:
+
+       Section 1. Short Title. - This Act shall be known as the "Ethical Use of
+Artificial Intelligence in Healthcare Act."
+
+       Section 2. Declaration of Policy. - Pursuant to Article II, Section 15 of the
+1987 Constitution, which provides that "The State shall protect and promote the right
+to health of the people and instill health consciousness among them," and consistent
+with the policy of Republic Act No. 11223, otherwise known as the Universal Health
+Care Act, the State shall ensure that Artificial Intelligence (AI) Systems are
+developed, deployed, and used in a manner that upholds patient safety, human
+dignity, transparency, accountability, and the confidentiality of personal health
+information. Artificial Intelligence Systems shall serve only as tools to assist
+healthcare delivery and shall not replace the independent professional judgment,
+responsibility, and accountability of duly licensed healthcare professionals.
+
+      Section 3. Definition of Terms. - For purposes of this Act:
+
+      (a) Artificial Intelligence (AI) System. – Refers to a machine-based system
+      that uses algorithms capable of learning or inferring from data to perform tasks
+      or generate predictions, recommendations, decisions, or other outputs,
+      including any similar or successor technologies.
+
+      (b) Healthcare Provider. – Refers to any natural person who provides,
+      performs, delivers, or assists in the provision of healthcare, medical, or allied
+      health services, whether independently or under the supervision of another
+      person, and whether licensed, registered, certified, accredited, or otherwise
+      authorized under applicable law.
+
+      (c) Healthcare Institution. – Refers to hospitals, clinics, infirmaries,
+      laboratories, diagnostic centers, pharmacies, telemedicine providers,
+      rehabilitation centers, healthcare research institutions, Health Maintenance
+      Organizations (HMOs), and all other public or private entities engaged in
+      healthcare delivery.
+      (d) Human Oversight. - Refers to the supervision exercised by a duly
+      licensed healthcare professional who retains the authority and responsibility
+      to review, interpret, modify, reject, or override the outputs or
+      recommendations of an Artificial Intelligence (AI) System.
+
+      Section 4. Coverage. - This Act shall apply to all public and private
+Healthcare Providers and Healthcare Institutions within the Philippines that develop,
+procure, deploy, operate, maintain, distribute, or use Artificial Intelligence Systems
+in the provision, administration, or support of healthcare services.
+
+      Section 5. Objectives. - This Act seeks to:
+
+      (a) Establish a comprehensive legal and ethical framework for the
+      development, deployment, and governance of Artificial Intelligence Systems
+      in healthcare;
+
+      (b) Protect human dignity, patient autonomy, privacy, safety, and fundamental
+      rights in the use of Artificial Intelligence Systems;
+
+      (c) Promote the responsible, transparent, explainable, equitable, secure, and
+      accountable use of Artificial Intelligence Systems in healthcare;
+
+      (d) Ensure that Artificial Intelligence Systems support, and do not replace, the
+      professional judgment and accountability of Healthcare Providers;
+
+      (e) Foster public trust and confidence in Artificial Intelligence-assisted
+      healthcare through effective oversight and governance; and
+
+      (f) Encourage innovation that advances accessible, equitable, and high-quality
+      healthcare while safeguarding the public interest.
+      Section 6. Rights of Patients in AI-Assisted Healthcare. - Every patient
+whose healthcare involves the use of an Artificial Intelligence System shall be
+entitled to the following rights:
+
+      (a) Right to Human Oversight. – To have significant clinical decisions
+      involving an Artificial Intelligence System subject to the review, supervision,
+      and approval of a licensed Healthcare Provider.
+
+      (b) Right to Information. – To be immediately informed, in a clear and
+      understandable manner, whenever an Artificial Intelligence System is used in
+      the provision of healthcare or any healthcare-related service where such use
+      may materially affect the patient's care, rights, or interests.
+
+      (c) Right to Privacy and Data Protection. – To the confidentiality and
+      security of their personal and health information, and to ensure that such
+      information is collected, processed, stored, used, and disclosed only with the
+      patient's consent or as otherwise authorized by applicable laws.
+
+      (d) Right to Safe and Lawful AI-Assisted Healthcare. – To receive
+      healthcare supported only by Artificial Intelligence Systems that are used for
+      their disclosed intended purpose and extent, and that have complied with the
+      requirements of this Act and its implementing rules and regulations.
+
+      (e) Right to Transparency and Explainability. – To receive, upon request
+      and to the extent reasonably practicable, an explanation of the role and
+      material basis of an Artificial Intelligence System in decisions that
+      significantly affect the patient's healthcare.
+      (f) Right to Equal and Non-Discriminatory Treatment. – To be protected
+      from unlawful discrimination arising from the development, deployment, or
+      use of an Artificial Intelligence System, and to receive healthcare without bias
+      based on race, ethnicity, sex, age, disability, socioeconomic status, religion,
+      or any other protected characteristic.
+
+      (g) Right to Accountability and Redress. – To seek appropriate remedies
+      for harm arising from the use of an Artificial Intelligence System in
+      healthcare, in accordance with this Act and its implementing rules and
+      regulations, without prejudice to any rights or remedies available under
+      existing laws.
+
+      Section 7. Duties of Healthcare Providers and Healthcare Institutions. -
+Healthcare Providers and Healthcare Institutions shall:
+
+      (a) Inform patients, in a clear and understandable manner, whenever an
+      Artificial Intelligence System is used in the provision of healthcare or any
+      healthcare-related service where such use may materially affect the patient's
+      care, rights, or interests.
+
+      Such disclosure shall include, but shall not be limited to, the use, purpose, and
+      extent of the Artificial Intelligence System in the patient's healthcare.
+      Healthcare Providers shall, to the extent reasonably practicable, answer the
+      patient's reasonable questions regarding its use in a clear and understandable
+      manner.
+      (b) Ensure that significant clinical decisions involving an Artificial
+      Intelligence System remain subject to meaningful human oversight, review,
+      supervision, and approval of a licensed Healthcare Provider.
+
+      (c) Protect the confidentiality, privacy, and security of patients' personal and
+      health information, and ensure its lawful collection, processing, storage, use,
+      and disclosure in accordance with applicable laws.
+
+      (d) Use Artificial Intelligence Systems only for their disclosed intended
+      purpose and extent, and ensure that such systems are appropriately validated,
+      monitored, and maintained to promote their safety, accuracy, reliability, and
+      effectiveness, in accordance with this Act and its implementing rules and
+      regulations.
+
+      (e) Take reasonable measures to prevent bias and unlawful discrimination in
+      the development, deployment, and use of Artificial Intelligence Systems, and
+      ensure the equitable provision of healthcare services.
+
+      (f) Comply with such other duties and standards as may be prescribed under
+      this Act and its implementing rules and regulations.
+
+      Section 8. Pre-Deployment Documentation and Performance Monitoring of
+Artificial Intelligence Systems. - Prior to the deployment or use of an Artificial
+Intelligence System, Healthcare Providers and Healthcare Institutions shall prepare,
+maintain, and, when required under this Act or its implementing rules and
+regulations, submit documentation demonstrating the Artificial Intelligence
+System's intended purpose, validity, accuracy, reliability, and safeguards for its safe
+and ethical use, in accordance with this Act and such standards as may be prescribed
+in the implementing rules and regulations.
+
+      Healthcare Providers and Healthcare Institutions shall likewise monitor the
+performance of Artificial Intelligence Systems and promptly identify, document,
+report, and address any material incident, malfunction, or risk to patient safety, in
+accordance with this Act and such standards as may be prescribed in its
+implementing rules and regulations.
+
+      Section 9. Prohibited Acts. - The following acts are prohibited:
+
+      (a) Deploying or using an Artificial Intelligence System without complying
+      with the requirements of this Act and its implementing rules and regulations;
+
+      (b) Using an Artificial Intelligence System for a purpose or to an extent other
+      than its disclosed intended purpose and extent;
+
+      (c) Failing to provide the required disclosure to patients regarding the use of
+      an Artificial Intelligence System as prescribed under this Act;
+
+      (d) Making or implementing significant clinical decisions solely on the basis
+      of an Artificial Intelligence System without meaningful human oversight,
+      where such oversight is required under this Act;
+
+      (e) Collecting, processing, using, disclosing, or retaining personal or health
+      information through an Artificial Intelligence System in violation of
+      applicable laws or this Act;
+      (f) Knowingly deploying, operating, or maintaining an Artificial Intelligence
+      System that has not been appropriately validated or that poses an unreasonable
+      risk to patient safety;
+
+      (g) Knowingly concealing, falsifying, altering, or failing to document or
+      report any material incident, malfunction, or risk to patient safety involving
+      an Artificial Intelligence System, as required under this Act;
+
+      (h) Using an Artificial Intelligence System in a manner that results in unlawful
+      discrimination or violates the rights of patients under this Act; and
+
+      (i) Obstructing or refusing any lawful inspection, investigation, or other
+      regulatory action conducted pursuant to this Act.
+
+
+      Section 10. Appropriations. – The amount necessary for the implementation
+of this Act shall be included in the annual General Appropriations Act.
+
+
+      Section 11. Implementing Rules and Regulations. - Within one hundred
+eighty (180) days from the effectivity of this Act, the Department of Health (DOH),
+in coordination with the Department of Information and Communications
+Technology (DICT), the National Privacy Commission, the Professional Regulation
+Commission, and such other concerned government agencies and other relevant
+stakeholders as may be necessary, shall promulgate the implementing rules and
+regulations (IRR) for the effective implementation of this Act.
+
+      Section 12. Construction and Interpretation. - Any doubt on the
+interpretation of any provision in this Act shall be interpreted in favor of the patients.
+      Section 13. Separability Clause. - If any provision of this Act is declared
+unconstitutional or invalid, the remaining provisions not affected thereby shall
+continue to be in full force and effect.
+
+
+      Section 14. Repealing Clause. – All laws, presidential decrees, executive
+orders, presidential proclamations, rules and regulations or parts thereof contrary to
+or inconsistent with this Act are hereby repealed or modified accordingly.
+
+
+      Section 15. Effectivity. – This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in at least two (2) newspapers of general
+circulation.
+
+
+      Approved,
+

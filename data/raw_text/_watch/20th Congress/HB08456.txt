@@ -1,0 +1,621 @@
+                                         Republic of the Philippines
+                                      HOUSE OF REPRESENTATIVES
+                                               Quezon City                                            March 11, 2026
+                                                                                                        4:04 pm
+                                           TWENTIETH CONGRESS
+                                             First Regular Session
+
+                                            HOUSE BILL NO. 8456
+                                                           ____
+
+
+       Introduced by HON. MIGUEL LUIS R. VILLAFUERTE, HON. VINCENZO
+   RENATO LUIGI R. VILLAFUERTE, HON. TSUYOSHI ANTHONY G. HORIBATA, AND
+                             HON. TERRY L. RIDON
+
+
+                                             EXPLANATORY NOTE
+
+        The government has a fundamental responsibility to deliver public services that are
+efficient, accessible, secure, and responsive to the needs of the citizens. In the digital age, it
+is essential for the government to design, build, operate, and continuously improve digital
+systems, applications, and platforms that support public administration and service delivery.
+
+       Despite recent progress, the Philippines currently lags behind many regional and
+global peers in digital government performance. According to the United Nations E-
+Government Development Index (EGDI), the Philippines ranks 73rd globally, trailing countries
+such as Estonia (2nd), Singapore (3rd), and South Korea(4th).1 This gap reflects structural
+weaknesses in the country’s digital governance framework, particularly in the integration and
+execution of digital government services.
+
+         The recent enactment of the E-Governance Act established a national framework for
+electronic governance and designated the Department of Information and Communications
+Technology (DICT) as the lead policy agency. However, it did not create a permanent
+institution responsible for the actual creation, development, operation, and maintenance of
+government digital products, platforms, and shared infrastructure.
+
+       Digital initiatives across government agencies remain fragmented and often
+duplicative. Agencies frequently develop and procure systems independently, leading to
+inconsistent standards, cybersecurity risks, vendor dependence, and inefficient use of public
+funds. At present, there is no single entity responsible for digital engineering and product
+development across government.
+
+        Government digital systems perform sovereign functions, process sensitive personal
+and state data, and support the delivery of critical public services. Continued reliance on
+private vendors for their development and maintenance exposes the government to risks such
+as vendor lock-in, rising long-term costs, loss of institutional knowledge, continuity failures,
+and reduced accountability. Without a permanent internal capability for digital engineering and
+product development, the government faces difficulty in managing, securing, and improving
+its own digital assets.
+
+      Global best practices indicate that successful digital states maintain a clear separation
+between ICT policy and regulatory functions and the operational delivery of digital government
+
+1 2024, September 26. Philippines climbs to 73rd spot in UN E-Government Development Index. BusinessWorld
+
+Online.https://www.bworldonline.com/infographics/2024/09/26/623931/philippines-climbs-to-73rd-spot-in-un-e-government-
+development-index/
+services. Although the DICT, pursuant to Republic Act No. 10844, effectively manages ICT
+infrastructure, cybersecurity standards, and sector regulation, the rapidly evolving digital
+landscape presents challenges.
+
+        The DICT was primarily designed as a sectoral department responsible for ICT policy,
+planning, infrastructure development, cybersecurity, and industry regulation. It was not
+specifically structured to function as a centralized digital service delivery organization
+responsible for designing, building, and operating digital systems across the entire
+government.
+
+        E-government is not primarily a technology or infrastructure issue but a governance
+and administrative reform challenge. It requires redesigning processes, integrating agency
+systems, harmonizing legal mandates, and improving service delivery across the entire
+bureaucracy. These functions fall outside the DICT’s core statutory design. Moreover, the
+DICT operates as a line department with a vertical structure, while effective e-government
+requires horizontal, whole-of-government coordination and implementation. DICT cannot
+compel other departments, constitutional bodies, or local government units to reengineer
+workflows or integrate systems without risking institutional overreach. In addition, the E-
+Government Unified Project Management Office (Egov-UPMO) established under the E-
+Governance Act remains a project-based and transitional mechanism, leading to fragmented
+portals, duplicated systems, and weak platform ownership. While it plays an important
+coordinating role, its temporary nature limits its ability to serve as a permanent institutional
+home for national digital platforms.
+
+         To address these gaps, this measure proposes the establishment of the GovTech
+Philippines Corporation (GTPC) as a Government-Owned or Controlled Corporation (GOCC)
+under the Office of the President. The Corporation shall serve as the government’s central
+digital engineering, product development, and service delivery authority responsible for
+designing, building, operating, and continuously improving government digital products,
+platforms, and infrastructure, including national digital platforms like eGov.ph. It shall function
+strictly as an operational and technical entity, without regulatory or quasi-judicial powers.
+
+       To ensure operational flexibility while maintaining accountability, the proposed GTPC
+shall be governed by Republic Act No. 10149. It shall be subject to the oversight of the
+Governance Commission for GOCCs and to audit by the Commission on Audit. Additionally,
+to ensure strong data protection and uphold privacy-by-design principles, the National Privacy
+Commission will serve as an ex officio member of the Board.
+
+       In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+
+                                                          HON. MIGUEL LUIS R. VILLAFUERTE
+
+
+
+
+                                                HON. VINCENZO RENATO LUIGI R. VILLAFUERTE
+HON. TSUYOSHI ANTHONY G. HORIBATA
+
+
+
+
+              HON. TERRY L. RIDON
+                               Republic of the Philippines
+                            HOUSE OF REPRESENTATIVES
+                                     Quezon City
+
+                                TWENTIETH CONGRESS
+                                  First Regular Session
+
+                                  HOUSE BILL NO. 8456
+                                                 ____
+
+
+      Introduced by HON. MIGUEL LUIS R. VILLAFUERTE, HON. VINCENZO
+  RENATO LUIGI R. VILLAFUERTE, HON. TSUYOSHI ANTHONY G. HORIBATA, AND
+                            HON. TERRY L. RIDON
+
+
+    AN ACT ESTABLISHING THE GOVTECH PHILIPPINES CORPORATION AS A
+ GOVERNMENT-OWNED OR CONTROLLED CORPORATION, DEFINING ITS POWERS
+     AND FUNCTIONS AS THE CENTRAL DIGITAL ENGINEERING, PRODUCT
+  DEVELOPMENT, AND SERVICE DELIVERY AUTHORITY OF THE GOVERNMENT,
+   ENHANCING THE PHILIPPINE E-GOVERNANCE AND FOR OTHER PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+assembled:
+
+SECTION 1. Short Title. – This Act shall be known as the “GovTech Philippines and E-
+Governance Integration Act.”
+
+SECTION 2. Declaration of Policy. – It is hereby declared the policy of the State to:
+
+   (a) Implement and empower a whole-of-government (WOG) mandate to digital
+       governance, consistent with the E-Governance Act, ensuring that government digital
+       systems and services are interoperable, secure, reliable, accessible, and citizen-
+       centric and digital transformation is treated as a governance and administrative reform
+       challenge, rather than a mere technical upgrade;
+
+   (b) Institutionalize a “Government-as-a-Platform” (GaaP) model with centralized digital
+       engineering, product development, and service delivery capability within government
+       to create, build, operate, maintain, and continuously improve digital products,
+       platforms, and infrastructure including integrated digital systems, allowing the shift
+       from siloed agency systems to a unified national digital ecosystem where common
+       services are built once and used by all;
+
+   (c) Address fragmentation, duplication, inefficiency, and vendor dependence in
+       government digital systems by adopting shared platforms, a common infrastructure,
+       and standardized digital products and services, at the same adopting the "Once-Only"
+       Data Principle through an auditable framework where citizens and businesses provide
+       data to the government only once, with the State ensuring seamless and lawful sharing
+       among authorized entities;
+
+   (d) Ensure transparency, accountability, fiscal responsibility, and performance-based
+       management in the delivery of digital government services, consistent with laws
+       governing government-owned or controlled corporations;
+   (e) Strengthen executive coordination and national oversight of digital government
+       initiatives by attaching the GovTech Philippines Corporation to the Office of the
+       President;
+
+   (f) Support the mandates of the Department of Information and Communications
+       Technology and other relevant agencies under existing laws through a dedicated
+       operational, engineering, and product delivery arm;
+
+   (g) Advance inclusive, secure, and technology-enabled public services aligned with
+       national development goals and the public interest;
+
+   (h) Attract, develop, and retain skilled professionals in digital and technology fields in line
+       with Section 6(h) of Republic Act 12254, also known as the E-Governance Act of 2025.
+       To achieve this, it will implement a compensation and benefits framework that is
+       competitive with the prevailing rates and benefits offered in the private sector. This
+       framework will adhere to principles of merit, transparency, and public accountability;
+
+   (i) Harness artificial intelligence or AI, data-driven systems, and smart digital technologies
+       as strategic enablers of efficient, transparent and responsive governance, while
+       ensuring that such technologies are human-centered, accountable, secure, and
+       consistent with law and public interest;
+
+   (j) Strengthen public trust in government through efficiency, interoperability and
+       innovation;
+
+   (k) Prioritize “Sovereign Digital Capability” by reducing long-term costs and security risks
+       by developing internal, permanent digital engineering expertise, ending indefinite
+       reliance on private vendors for core sovereign functions; and
+
+   (l) Adopt agile and human-centered designs by mandating that all government digital
+       products be built using iterative, user-centric methodologies that prioritize the citizen's
+       experience over bureaucratic convenience.
+
+SECTION 3. Definition of Terms. – For purposes of this Act, the following terms shall mean:
+
+   (a) Application Programming Interface (API) – a set of protocols and technical standards
+       that enable different software applications or systems to securely communicate and
+       exchange data;
+
+   (b) Central Digital Engineering, Product Development, and Service Delivery Authority –
+       the institutional role of the GovTech Philippines Corporation as the government entity
+       responsible for the creation, design, development, operation, maintenance, and
+       continuous improvement of shared digital products, platforms, and infrastructure;
+
+   (c) Data Exchange Mechanism – a secure, standardized, and auditable framework that
+       enables lawful sharing of data among authorized entities, consistent with applicable
+       laws on data privacy, cybersecurity, and access to information;
+
+   (d) Digital Platform – an integrated set of digital systems, applications, and services that
+       enable electronic transactions, service delivery, data exchange, and interaction among
+       government agencies, citizens, businesses, and other stakeholders;
+
+   (e) E-Governance – refers to the use of ICT by the government to provide public services
+       in a more friendly, convenient, affordable, efficient and transparent manner. Further, it
+       is the application of ICT for delivering government services through integration of
+    various stand-alone systems, platforms, and applications between Government-to-
+    Citizens (G2C), Government-to-Business (G2B), and Government-to-Government
+    (G2G) services. It is often linked to back-office processes and interactions within the
+    entire government framework;
+
+(f) E-Government – refers to the use of ICT by the government to enhance access to and
+    delivery of government services for an efficient, responsive, ethical, accountable, and
+    transparent government;
+
+(g) eGov.ph – the official national government digital platform or portal designated for
+    integrated access to government digital services and applications;
+
+(h) Government Application – any software application, system, or digital service
+    developed, owned, managed, operated, or used by a government agency or
+    government-owned or controlled corporation in the performance of its functions;
+
+(i) Government-as-a-Platform (GaaP) – refers to a service-oriented architectural model
+    where the Corporation provides a common core of shared digital infrastructure,
+    standards, and reusable software components. This model enables government
+    agencies to "plug into" a unified ecosystem to deliver integrated services, rather than
+    building independent, siloed systems. It is characterized by the use of shared digital
+    identity, unified payment gateways, secure data exchange, and common cloud hosting;
+
+(j) Government Cloud or GovCloud – the shared cloud computing infrastructure and
+    services used by government agencies for hosting applications, systems, and data in
+    a secure, scalable, and resilient environment;
+
+(k) GovTech Venture Sandbox – refers to a controlled and secure operational environment
+    managed by the Corporation that allows for the testing and validation of innovative
+    technologies, business models, or software solutions from the private sector or
+    academe. It provides a "safe harbor" for experimentation with emerging technologies
+    (such as Artificial Intelligence or Blockchain) under technical supervision before they
+    are considered for government-wide procurement or deployment;
+
+(l) Interoperability – the ability of different government information systems, applications,
+    and platforms to communicate, exchange data, and use information effectively,
+    securely, and lawfully;
+
+(m) Legacy System – an existing government information system or application that is
+    outdated, inefficient, costly to maintain, or incompatible with current digital standards or
+    interoperability requirements;
+
+(n) “Once-Only” Data Principle – refers to the digital governance strategy where citizens
+    and businesses provide standard information to the government only once. The
+    Corporation provides the technical framework to ensure this data is securely and
+    lawfully shared among authorized agencies, eliminating the need for redundant data
+    submissions;
+
+(o) Philippine Government Tech Stack (PGTS) – refers to a modular suite of central
+    software components, including but not limited to, national digital identity integration,
+    secure payment gateways, and standardized API layers, which are developed and
+    maintained by the Corporation as mandatory shared services for all government
+    entities;
+   (p) Private Sector Entity – any natural or juridical person not forming part of the national
+       government, local government units, or government-owned or controlled corporations;
+
+   (q) Service-Fee or Cost-Recovery Basis – a pricing arrangement whereby fees are
+       charged to recover reasonable costs of developing, operating, maintaining, and
+       improving digital platforms or services, subject to applicable laws;
+
+   (r) Step-in-Rights – refers to the extraordinary technical and managerial authority of the
+       Corporation to intervene in the development, operation, or rehabilitation of a
+       government digital project or system. These rights are triggered when a project is
+       deemed critical to national interest, security, or essential public services and is found
+       to be failing, compromised by a cybersecurity breach, or suffering from significant
+       contractual or technical default that threatens service continuity; and
+
+   (s) Whole-of-Government (WOG) Approach – a coordinated method of governance
+       whereby government agencies work collaboratively across institutional boundaries to
+       deliver integrated, efficient, and citizen-centric digital services.
+
+SECTION 4. Rules of Construction. – This Act shall be liberally construed to promote
+efficient, secure, interoperable, and citizen-centric digital government services. In case of
+doubt, the provisions of this Act shall be interpreted in a manner consistent with the
+Constitution, the E-Governance Act, Republic Act No. 10149, and other applicable laws.
+
+SECTION 5. Technology-Neutrality. – Nothing in this Act shall be construed to mandate or
+limit the use of any specific technology, platform, software, architecture, or vendor. The
+GovTech Philippines Corporation shall adopt technology-neutral, standards-based, and future-
+ready solutions, subject to applicable laws and governance rules.
+
+SECTION 6. Creation of the GovTech Philippines Corporation. – There is hereby created
+a government-owned or controlled corporation to be known as the GovTech Philippines
+Corporation (GTPC), hereinafter referred to as the Corporation, which shall be attached to the
+Office of the President for policy coordination and strategic oversight. The Corporation shall
+possess corporate personality, perpetual succession, and all powers necessary to carry out
+its mandate in accordance with this Act and existing laws.
+
+SECTION 7. General Mandate and Functions. – The Corporation shall have the mandate to
+conceive, design, build, develop, deploy, operate, maintain, and continuously improve
+government digital products, platforms, and infrastructure, and shall:
+
+   (a) Create, design, and build digital products and applications for government use;
+
+   (b) Manage, operate, integrate, maintain, and enhance government digital platforms,
+       including eGov.ph;
+
+   (c) Build, own, and operate shared digital infrastructure, including government cloud
+       platforms, middleware, APIs, authentication, and interoperability services;
+
+   (d) Develop and operate secure and lawful data exchange mechanisms, digital identity,
+       authentication and authorization systems subject to law;
+
+   (e) Ensure reliability, cybersecurity, accessibility, resilience, and continuity of digital
+       products and infrastructure;
+
+   (f) Provide end-to-end digital engineering and product services to government entities
+       and, subject to safeguards under this Act, to private sector entities;
+    (g) Offer digital products and infrastructure services on a service-fee or cost-recovery
+        basis;
+
+    (h) Rationalize, modernize, migrate, consolidate, or retire legacy systems;
+
+    (i) Own and manage intellectual property arising from government digital products,
+        subject to applicable laws;
+
+    (j) Adopt modern, user-centered, and iterative digital product development and
+        operations practices and continuously improve smart government capabilities through
+        innovation, system modernization and integration of emerging technologies, subject to
+        limitation imposed by law;
+
+    (k) Develop and operate government-owned artificial intelligence systems, including
+        decision support tools, automation platforms, predictive analytics, and intelligent
+        service systems, for use by government agencies in the performance of their official
+        functions;
+
+    (l) Design, embed, and integrate artificial and data-driven technologies in government
+        digital platforms and infrastructure to improve efficiency, responsiveness, accessibility,
+        and evidence-based decision making;
+
+   (m) Serve as technical integrator of PhilSys for secure, consent-based digital authentication
+       for government services, without creating new biometric databases; and
+
+    (n) Perform such other acts and functions as may be necessary to carry out the purposes
+        of this Act.
+
+SECTION 8. Specific Operational Powers. – In addition to the powers and mandate as
+provided in the preceding provisions, GovTech Philippines Corporation shall have the following
+operational authority:
+
+    (a) Serve as the Primary Technical Evaluator for all high-value government ICT
+        procurements to ensure alignment with the Philippine Government Tech Stack;
+
+    (b) Operate a GovTech Venture Sandbox to facilitate the adoption of emerging
+        technologies from the private sector;
+
+    (c) Implement Step-In Rights to provide technical rescue for mission-critical systems at
+        risk of failure; and
+
+    (d) Act as the National Repository for Government Source Code, ensuring that all software
+        built with public funds remains the property of the State and is reusable across
+        agencies.
+
+SECTION 9. Technical Step-In Rights. – Upon the recommendation of the Board and
+approval by the Office of the President, the Corporation shall have the authority to intervene
+in the management and operation of any government digital project or system that is deemed
+critical to national security, public health, or essential public services, and is found to be failing
+or at high risk of failure. The Corporation shall provide the necessary technical expertise to
+rehabilitate, migrate, or integrate said system into the National Tech Stack.
+SECTION 10. Smart Nation Infrastructure Program. – As the primary authority for digital
+transformation and to ensure digital resilience and fiscal efficiency, GovTech Philippines
+Corporation envisions a Smart Nation Program that shall:
+
+   (a) Establish the Philippine Government Tech Stack (PGTS) to develop and maintain a
+       mandatory, modular suite of shared software components, including national digital
+       identity, secure payments, and a unified communications gateway, to enable the
+       "Once-Only" Data Principle;
+
+   (b) Set and enforce government-wide technical architecture and interoperability
+       standards to ensure all agency systems can communicate seamlessly through secure
+       Application Programming Interfaces (APIs);
+
+   (c) Develop and propose agile digital procurement and specialized, iterative procurement
+       frameworks for digital services to replace traditional, rigid software acquisition models
+       subject to existing laws and regulations;
+
+   (d) Serve as the active cybersecurity defense and threat-hunting arm for all government
+       digital platforms, complementing the policy functions of the DICT; and
+
+   (e) Lead the deployment and management of a common sensor and Internet of Things
+       (IoT) platform to provide data-driven insights for public safety, transport, and
+       environmental monitoring.
+
+SECTION 11. The Board of Directors. – The powers and functions of the Corporation shall
+be vested in a Board of Directors composed of seven (7) members, all of whom shall be
+appointed by the President of the Philippines. The Board shall be composed of:
+
+   (a) The Secretary of the Department of Information and Communications Technology
+       (DICT) or his or her duly authorized representative – Ex Officio Member;
+
+   (b) The Secretary of the Department of Science and Technology (DOST) or his or her duly
+       authorized representative – Ex Officio Member;
+
+   (c) The Commissioner of the National Privacy Commission (NPC) or his or her duly
+       authorized representative – Ex Officio Member;
+
+   (d) One (1) appointive member who is a member of the Philippine Bar, with at least ten
+       (10) years of practice of law, preferably in the field of technology law, digital law, data
+       privacy, cybersecurity, intellectual property, or corporate governance, who shall
+       likewise serve as the Corporate Secretary of the Corporation; and
+
+   (e) Three (3) appointive members from the private sector or academe with recognized
+       competence and experience in information technology, digital systems, cybersecurity,
+       data governance, digital infrastructure, or public sector innovation.
+
+       The appointive members shall serve for a term of five (5) years, with staggered initial
+terms and hold-over capacity, and shall comply with the fit-and-proper standards of the
+Governance Commission for Government-Owned or Controlled Corporations (GCG) pursuant
+to Republic Act No. 10149.
+
+SECTION 12. President and Chief Executive Officer (CEO). – The Corporation shall have
+a President and Chief Executive Officer (CEO) who shall be appointed by the President of the
+Philippines. No person shall be appointed President and CEO unless he or she:
+   (a) Is a citizen of the Philippines;
+
+   (b) Has at least ten (10) years of experience as an information technology practitioner or
+       in a closely related field;
+
+   (c) Has a proven track record of leadership and performance in managing significant
+       digital systems, platforms, or technology-driven organizations; and
+
+   (d) meets the fit-and-proper standards prescribed by the Governance Commission for
+       Government-Owned or Controlled Corporations (GCG).
+
+        The President and CEO shall serve for a term of five (5) years, and may be reappointed
+for the same term, unless earlier removed for cause in accordance with law.
+
+SECTION 13. Capitalization and Sources of Funds. – The Corporation shall have an
+authorized capital stock of Fifty Billion Pesos (₱50,000,000,000.00), fully subscribed by the
+National Government, subject to appropriation by Congress. The funds of the Corporation
+shall be sourced from: (a) appropriations authorized in the General Appropriations Act; (b)
+lawfully realigned funds, subject to applicable laws and regulations; and (c) income and
+revenues generated from services provided to government agencies and, subject to
+safeguards, to private sector entities. Nothing in this Act shall be construed as an automatic
+appropriation of public funds. All funds of the Corporation shall be subject to audit by the
+Commission on Audit (COA) in accordance with existing auditing rules.
+
+SECTION 14. Authority to Provide Services to the Private Sector. – The Corporation may
+provide digital products, platforms, infrastructure, engineering, and related technology
+services to private sector entities, provided that:
+
+   (a) Such services are ancillary to and supportive of its public-sector mandate;
+
+   (b) Public service delivery is not compromised;
+
+   (c) Terms and conditions are transparent, non-discriminatory, and compliant with
+       competition laws; and
+
+   (d) Revenues derived therefrom are used exclusively to support and sustain government
+       digital products, platforms, and services.
+
+SECTION 15. Revenue Generation and Financial Sustainability. – The Corporation is
+authorized by this Act to operate on a service-fee or cost-recovery basis. This ensures the
+long-term stewardship, continuity, and evolution of national digital platforms through various
+revenue generation schemes, including but not limited to the following:
+
+   (a) Service Fees for Government Entities – The Corporation is permitted to charge
+       reasonable fees to government agencies, local government units, and other
+       government-owned and controlled corporations (GOCCs) for the use of shared digital
+       infrastructure, including GovCloud, managed APIs, and the national payment gateway.
+
+   (b) Private Sector Integration Fees – Subject to strict data privacy safeguards and
+       oversight from the National Privacy Commission (NPC) and the provisions of the Data
+       Privacy Act, the Corporation may charge private sector entities for access to
+       government-owned digital products or infrastructure services, such as secure
+       authentication and data exchange interfaces.
+   (c) Ancillary Revenue – Additional revenues may be generated from technical
+       consultancy, digital engineering services, and the management of intellectual property
+       arising from government digital products.
+
+   (d) Reinvestment of Earnings – All income and revenues generated shall be used
+       exclusively to support, maintain, and continuously improve government digital products
+       and shared infrastructure.
+
+   (e) Fiscal Transparency – All fees and pricing models shall be transparent, non-
+       discriminatory, and subject to the review of the Governance Commission for GOCCs
+       (GCG) to ensure they remain in the public interest.
+
+SECTION 16. Investment of Funds. – The Corporation shall have the authority to invest its
+generated income and such portions of the Corporation's funds that are not needed to meet
+current operational requirements. To ensure the liquidity and safety of the funds, the
+Corporation shall invest with the care, foresight, and prudence that a "prudent man" would
+exercise in the management of his own affairs. The Corporation may invest in the following:
+
+   (a) Government Securities – In bonds, securities, promissory notes, or other evidence of
+       indebtedness of the Government of the Philippines, or in bonds and securities where
+       the payment of principal and interest is guaranteed by the National Government.
+
+   (b) High-Grade Deposits – In interest-bearing deposits and self-liquidating certificates of
+       deposit with any government-owned bank or any domestic bank designated as a
+       systemically important financial institution.
+
+   (c) Strategic Digital Assets – In the acquisition or development of intellectual property,
+       proprietary software, and critical digital infrastructure that provides a long-term
+       technical return on investment for the State.
+
+   (d) Digital Transformation Projects – In joint-venture agreements or public-private
+       partnerships specifically aimed at scaling the National Tech Stack, provided that the
+       Corporation retains control over the sovereign data and core architecture.
+
+   (e) Corporate Bonds – In bonds or other evidence of indebtedness of any stable
+       corporation with a track record of profitability for at least the last five (5) years and with
+       a high credit rating from a reputable agency.
+
+        All income, dividends, and interests earned from these investments shall be credited
+to the Corporation's Digital Sustainability Fund and shall be used exclusively for the
+maintenance, upgrading, and continuous innovation of government digital services and
+infrastructure.
+
+SECTION 17. Abolition of the E-Government Unified Project Management Office (Egov-
+UPMO) under Section 7 of the E-Governance Act. –
+
+   (a) The functions, mandate, powers, responsibilities, programs, projects, personnel, and
+       records of the E-Government Unified Management Project Office (Egov-UPMO),
+       created under the E-Governance Act, are hereby transferred to and absorbed by the
+       GovTech Philippines Corporation.
+
+   (b) GovTech Philippines Corporation shall succeed to and assume all operational,
+       technical, and project management functions of Egov-UPMO, including but not limited
+       to the planning, development, integration, operation, maintenance, and lifecycle
+       management of government digital platforms, shared services, and e-government
+       systems.
+
+   (c) All ongoing projects, systems, platforms, and initiatives previously undertaken,
+       coordinated, or supervised by Egov-UPMO shall continue without interruption and shall
+       be deemed absorbed as projects of GovTech Philippines Corporation, ensuring
+       permanent ownership and continuity of national platforms like eGov.ph.
+
+   (d) All references to Egov-UPMO in existing laws, executive orders, rules and regulations,
+       administrative issuances, and government instruments shall be deemed references to
+       GovTech Philippines Corporation.
+
+   (e) The transfer and absorption provided under this section shall be without prejudice to
+       the policy-setting, standard-issuing, and oversight functions of the E-Governance
+       Authority created under the E-Governance Act, which shall remain distinct from the
+       execution and operational role of GovTech Philippines Corporation.
+
+SECTION 18. GOCC Governance and Oversight. – The GovTech Philippines Corporation
+shall be subject to Republic Act No. 10149, otherwise known as the “GOCC Governance Act
+of 2011,” and all applicable rules, regulations, and circulars issued by the Governance
+Commission for Government-Owned or Controlled Corporations (GCG). The Corporation shall
+likewise be subject to audit by the Commission on Audit (COA) and such other accountability
+mechanisms as may be provided by law.
+
+SECTION 19. Coordination and Non-Duplication. – The Corporation shall coordinate with
+the Department of Information and Communications Technology (DICT), the Department of
+Science and Technology (DOST), the National Privacy Commission (NPC), and other
+concerned agencies to ensure functional complementarity, avoid duplication, and promote the
+efficient delivery of digital government services.
+
+       The Corporation, upon approval of the Board, may designate specific digital services
+such as Cloud and Identity, Payments as "Mandatory Shared Services," which all government
+agencies must adopt to prevent redundant spending
+
+SECTION 20. Market Competitiveness and Benefits. – Notwithstanding Republic Act No.
+6758, as amended, and all laws, rules, and regulations regarding compensation standards—
+including the Salary Standardization Law and related issuances—this section covers the
+creation, reclassification, and rationalization of both plantilla and non-plantilla positions,
+including project-based, fixed-term, and contract engagements for highly specialized
+expertise. All actions will be in accordance with applicable civil service, procurement, and
+auditing laws.
+
+SECTION 21. Technical Specialist Track. – To attract top-tier engineering talent essential
+for a GovTech model, the GovTech Philippines Corporation shall create a dual-career path,
+ensuring technical experts, including software architects, cybersecurity engineers, data
+scientists, and other identified specialists, receive compensation and benefits that are
+competitive with the private sector, regardless of their administrative or managerial status. As
+such, the Corporation shall implement and establish a:
+
+  (a) Performance-Based Incentives based on technical milestones and service delivery
+      performance, rather than seniority; and
+
+  (b) National Digital Academy that operates as a training arm to continuously upskill
+      government employees in agile methodologies, data science, and user-experience
+      (UX) design.
+SECTION 22. Implementing Rules and Regulations. – Within ninety (90) days from the
+effectivity of this Act, the Office of the President, in coordination with the Governance
+Commission for Government-Owned or Controlled Corporations (GCG), the Department of
+Information and Communications Technology (DICT), the Department of Budget and
+Management (DBM), the Commission on Audit (COA), and other relevant agencies, shall
+promulgate the Implementing Rules and Regulations (IRR) necessary for the effective
+implementation of this Act. No provision of the IRR shall expand, diminish, or contradict the
+provisions of this Act.
+
+SECTION 23. Annual Report. – The Corporation shall submit an annual report to the
+President of the Philippines and to Congress, detailing its financial condition, operations,
+performance, and the status of government digital products, platforms, and infrastructure
+under its management.
+
+SECTION 24. Separability Clause. – If any provision of this Act is declared unconstitutional
+or invalid, the other provisions not affected thereby shall remain in full force and effect.
+
+SECTION 25. Repealing Clause. – All laws, decrees, executive orders, rules, and regulations
+or parts thereof inconsistent with this Act are hereby repealed or modified accordingly.
+
+SECTION 26. Effectivity. – This Act shall take effect fifteen (15) days after its publication in
+the Official Gazette or in a newspaper of general circulation.
+
+
+Approved,
+
