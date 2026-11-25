@@ -1,0 +1,318 @@
+                              Republic of the Philippines
+                           HOUSE OF REPRESENTATIVES
+                                    Quezon City                                March 3, 2026
+                                                                                 9:18 am
+                              TWENTIETH CONGRESS
+                                First Regular Session
+
+                                          8240
+                        HOUSE BILL NO. ________
+_________________________________________________________________________
+            Introduced by Representative ANTONINO B. ROMAN III
+_________________________________________________________________________
+
+                                EXPLANATORY NOTE
+
+        Reliable telecommunications and internet services are no longer luxuries—they are
+essential public utilities that sustain commerce, education, health services, public safety,
+governance, and daily life. In an increasingly digital economy, disruptions in connectivity
+translate directly into lost productivity, financial harm, communication breakdowns, and
+diminished access to essential services.
+
+       While public telecommunications entities (PTEs) and internet service providers
+(ISPs) are subject to regulatory oversight, current consumer protection mechanisms largely
+depend on individual complaints to trigger refunds or billing adjustments. In practice,
+many subscribers who experience prolonged service degradation do not file claims due to
+inconvenience, lack of awareness, or the difficulty of proving network-level impairment.
+As a result, consumers are often billed for services that were materially unusable or
+substantially impaired.
+
+       This proposed measure addresses that regulatory gap by institutionalizing a
+mandatory, automatic, and proportionate rebate mechanism in cases of Substantial Service
+Degradation (SSD). Rather than placing the burden on subscribers, the bill requires
+providers to proactively apply billing credits when objectively measurable service failures
+occur.
+
+       The measure establishes:
+
+       • Clear, technical, and verifiable definitions of SSD based on speed delivery
+         thresholds, latency, packet loss, signal quality, and other Quality of Service (QoS)
+         parameters;
+       • Objective performance monitoring and audit mechanisms;
+       • Automatic rebate computation based on billable hours and verified degradation
+         duration;
+       • Transparency requirements for consumer disclosure;
+       • Administrative enforcement mechanisms consistent with due process; and
+       • Proportionate penalties for non-compliance.
+       Importantly, the bill is carefully crafted to be constitutionally sound and regulatorily
+balanced. It expressly preserves existing agency jurisdiction, respects franchise rights, and
+ensures that regulatory measures are reasonable, proportionate, and non-confiscatory.
+While scheduled maintenance and force majeure events do not exempt providers from
+granting proportionate rebates for actual service unavailability, such circumstances may
+mitigate administrative penalties where good faith and prompt remediation are shown.
+
+        By linking measurable performance failures to automatic financial accountability,
+the bill reduces information asymmetry between providers and consumers. It strengthens
+transparency, enhances regulatory credibility, and incentivizes sustained network reliability
+without imposing arbitrary or punitive burdens on industry players.
+
+       Ultimately, this measure affirms a simple but fundamental principle: consumers
+should pay only for services actually delivered at compliant standards. In doing so, it
+advances consumer protection, promotes service quality, and reinforces public trust in the
+nation’s communications infrastructure.
+
+       Immediate passage of this measure is earnestly sought.
+                              Republic of the Philippines
+                           HOUSE OF REPRESENTATIVES
+                                    Quezon City
+
+                              TWENTIETH CONGRESS
+                                First Regular Session
+
+                                          8240
+                        HOUSE BILL NO. ________
+_________________________________________________________________________
+
+            Introduced by Representative ANTONINO B. ROMAN III
+_________________________________________________________________________
+
+  AN ACT MANDATING PUBLIC TELECOMMUNICATIONS ENTITIES AND
+ INTERNET SERVICE PROVIDERS TO INSTITUTE A MANDATORY SYSTEM
+   OF AUTOMATIC REFUND MECHANISM FOR SUBSTANTIAL SERVICE
+  DEGRADATION IN TELECOMMUNICATIONS AND INTERNET SERVICES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+assembled:
+
+SECTION 1. Short Title. - This Act shall be known as the “Mandatory Automatic
+Rebates for Substantial Service Degradation Act.”
+
+SEC. 2. Declaration of Policy. - It is hereby declared the policy of the State to protect
+consumers from being charged for communications services that are materially unusable or
+substantially impaired, and to ensure that when measurable and verifiable service
+degradation occurs, affected subscribers receive fair, prompt, proportionate, and automatic
+rebates without the need for individual demand.
+
+       The State likewise affirms its duty to establish objective, transparent, and
+technically verifiable standards for evaluating service performance; to promote
+accountability among public telecommunications entities and other covered service
+providers; and to exercise its police power to regulate public services in the interest of
+consumer protection pursuant to Article XII of the 1987 Constitution.
+
+        In implementing this policy, regulatory measures shall be reasonable, proportionate,
+non-confiscatory, and consistent with administrative due process, existing franchise rights,
+and the broader public interest in maintaining reliable and resilient communications
+infrastructure.
+
+SEC. 3. Coverage. – This Act shall apply to any natural or juridical person engaged in
+providing for a fee the public:
+
+     (a) Telecommunications services; and
+
+     (b) Fixed or mobile internet or broadband access services.
+Covered entities shall include public telecommunications entities (PTEs), internet service
+providers (ISPs), and other public services subject to regulation under the Public Service
+Act, as amended, and existing telecommunications laws, rules, and regulations.
+
+ Nothing in this Act shall be construed to enlarge, diminish, or otherwise modify the
+existing regulatory jurisdiction of any government agency, nor to confer regulatory
+authority beyond that expressly provided under applicable law.
+
+SEC. 4. Definition of Terms. - For purposes of this Act:
+
+     (a)​ Substantial Service Degradation (SSD) refers to a sustained and objectively
+          verifiable failure of an internet access or telecommunications service to meet the
+          applicable minimum service performance standards prescribed by the National
+          Telecommunications Commission (NTC), other competent regulatory issuances,
+          or the provider’s published and contracted service commitments, as validated
+          through industry-accepted measurement methodologies.
+
+          SSD shall be deemed to exist when any of the following conditions occur, other
+          than during scheduled maintenance, force majeure, or subscriber-caused
+          impairment:
+
+           1.​ Delivery of less than eighty percent (80%) of the contracted or advertised
+               minimum speed, capacity, or signal quality;
+
+           2.​ Excessive Latency, Jitter, or Packet Loss – Network latency, jitter, or
+               packet loss exceeds applicable NTC regulatory benchmarks or industry
+               standards by more than fifty percent (50%) for a sustained period
+               materially affecting ordinary use of the service;
+
+           3.​ Signal Quality Degradation (Mobile Services) – Signal strength, call
+               completion rate, dropped call rate, or data session success rate falls
+               materially below NTC minimum quality-of-service standards in the
+               subscriber’s registered service area.
+
+     (b)​ Automatic Rebate refers to a mandatory refund or billing credit applied without
+          the need for consumer request.
+
+     (c)​ Covered Service Provider refers to entities under Section 3.
+
+     (d)​ Network-Level Degradation refers to SSD affecting a geographic service area or
+          statistically significant cluster of subscribers.
+
+     (e)​ Subscriber-Level Degradation refers to SSD affecting an individual subscriber as
+          confirmed through system logs, remote diagnostics, or accredited testing
+          methodologies.
+
+     (f)​ Scheduled Maintenance refers to service-affecting work with at least forty-eight
+          (48) hours prior public notice specifying affected areas and duration.
+
+     (g)​ Force Majeure refers to extraordinary events beyond reasonable control,
+          including natural disasters, war, government-ordered shutdowns, or similar
+          events.
+
+     (h)​ Billable Hours refers to the total number of hours within a billing cycle for which
+          a subscriber is charged service access.
+SEC. 5. Performance Monitoring and Evaluation Mechanism. - To ensure objective
+and verifiable assessment of service performance, all Covered Service Providers shall
+maintain automated monitoring systems capable of accurately logging and recording speed,
+uptime, latency, packet loss, signal quality, and service interruptions in accordance with
+standards prescribed by the National Telecommunications Commission (NTC). Providers
+shall retain all relevant performance logs and supporting data for a minimum period of two
+(2) years and shall make such records available to the NTC upon lawful request for
+purposes of audit, verification, or investigation. Covered Service Providers shall likewise
+submit quarterly performance reports to the NTC containing, at a minimum, average
+delivered speeds, uptime percentages, the frequency and duration of SSD incidents, the
+geographic distribution of affected areas, and the total rebates granted within the reporting
+period.
+
+        The NTC is authorized to conduct random or targeted audits, require submission of
+anonymized raw performance data, deploy independent testing tools, and validate reported
+SSD occurrences using statistically reliable and representative methodologies. Verified
+findings derived from system logs, independent audits, or NTC-validated data shall give
+rise to a rebuttable presumption of the occurrence and duration of SSD, subject to the
+presentation of contrary evidence by the Covered Service Provider. All regulatory actions
+undertaken pursuant to this Section shall observe the requirements of administrative due
+process and shall be supported by substantial evidence in accordance with existing law and
+jurisprudence.
+
+SEC. 6. Mandatory Automatic Rebates. - When SSD, as defined under this Act, occurs,
+Covered Service Providers shall grant automatic rebates that are proportionate to the
+duration and severity of the service impairment. Such rebates shall be applied without the
+need for any request, complaint, or demand from the affected subscriber.
+
+       In cases of recurring SSD within the same billing cycle, the duration of all
+qualifying incidents shall be cumulative for purposes of computing the total rebate due. For
+postpaid subscribers, the rebate shall be reflected as a billing credit in the next billing
+statement; for prepaid subscribers, the corresponding credit shall be applied to the
+subscriber’s balance within seven (7) days from verification or determination of the SSD.
+Failure to grant the required automatic rebate within the prescribed period shall constitute
+an administrative violation subject to enforcement under this Act.
+
+       For purposes of entitlement to an automatic refund under this Section, SSD shall be
+compensable when the degradation results in an aggregate duration of at least twenty-four
+(24) hours within a billing month, whether arising from a single continuous event or from
+multiple cumulative incidents.
+
+SEC. 7. Computation of Rebates. - Rebates mandated under this Act shall be computed
+on a proportionate basis according to the duration of the verified SSD within the applicable
+billing cycle.
+
+       The rebate shall be computed by dividing the monthly subscription fee by the total
+number of billable hours in the billing cycle, and then multiplying the resulting hourly rate
+by the number of hours during which SSD occurred.
+
+       For purposes of uniformity and regulatory clarity, the National Telecommunications
+Commission (NTC) shall prescribe detailed computational standards, including the method
+of determining billable hours, rounding rules, treatment of partial hours, and application of
+cumulative incidents within a billing cycle. The NTC may likewise provide for reasonable
+percentage adjustments or multipliers in cases of repeated or aggravated SSD occurrences
+within the same billing period, provided that such adjustments remain proportionate,
+nonconfiscatory, and consistent with the remedial nature of the rebate.
+
+SEC. 8. Scheduled Maintenance. – Substantial Service Degradation arising from
+Scheduled Maintenance shall not exempt Covered Service Providers from the obligation to
+grant automatic rebates corresponding to the actual duration of the SSD experienced by
+subscribers.
+
+        Scheduled Maintenance shall be recognized only where the provider has issued
+prior public notice of at least forty-eight (48) hours specifying the affected geographic
+areas, the nature of the work to be undertaken, and the expected duration thereof, and
+where such maintenance is conducted within a reasonable and necessary timeframe.
+Compliance with notice and reasonableness requirements may mitigate the imposition of
+administrative penalties; however, it shall not extinguish the subscriber’s right to
+proportionate rebate for actual SSD.
+
+SEC. 9. Force Majeure. - In the event that the SSD results from a force majeure
+occurrence, as defined under this Act, Covered Service Providers shall remain obligated to
+grant automatic rebates corresponding to the actual duration of the SSD. However, the
+existence of a duly established force majeure event may be considered by the National
+Telecommunications Commission (NTC) in determining the imposition, extent, or
+mitigation of administrative penalties, provided that the provider demonstrates prompt
+remedial action, good faith efforts to restore compliant service within the shortest
+practicable time, and absence of gross negligence or willful misconduct. The burden of
+proving force majeure and the causal connection between the event and the SSD shall rest
+upon the Covered Service Provider.
+
+SEC. 10. Transparency and Consumer Disclosure. - Covered Service Providers shall
+ensure transparency in service performance and rebate implementation by maintaining
+realtime or regularly updated publicly accessible advisories identifying affected geographic
+areas, the nature of the service impairment, and the estimated time of restoration.
+
+        Providers shall itemize all automatic rebates in the corresponding billing statements
+or electronic account records, clearly indicating the period of SSD and the amount credited.
+They shall likewise establish and maintain consumer-accessible platforms or portals
+through which subscribers may verify service performance data, degradation history, and
+rebate credits applicable to their accounts. Failure to comply with the disclosure and
+transparency requirements under this Section shall constitute a separate administrative
+violation subject to enforcement under this Act.
+
+SECTION 11. Administrative Enforcement and Penalties. - The National
+Telecommunications Commission (NTC) shall exercise primary enforcement authority
+under this Act pursuant to Executive Order No. 546, the Public Service Act, and other
+applicable telecommunications laws. All enforcement actions shall be undertaken only
+after due notice and hearing, consistent with administrative due process, and shall be
+supported by substantial evidence reduced into written findings.
+
+      In the exercise of its regulatory authority, the NTC may impose the following
+administrative sanctions and corrective measures:
+     (a)​ Monetary Administrative Fines. For violations of this Act or its implementing
+          rules and regulations, the NTC may impose a fine of not less than Twenty
+          Thousand Pesos (₱20,000.00) but not more than One Hundred Thousand Pesos
+          (₱100,000.00) for each count of violation.
+
+     (b)​ Corrective and Compliance Measures. The NTC may issue compliance
+          directives, order refund verification audits, require public disclosure of
+          violations, mandate remedial action plans, and temporarily suspend the authority
+          of a Covered Service Provider to market or accept new subscriptions in affected
+          service areas until compliance is certified.
+
+     (c)​ Willful or Fraudulent Violations. In cases involving falsification, concealment,
+          or deliberate manipulation of performance data, the NTC may impose the
+          maximum allowable administrative fines, recommend franchise review to
+          Congress where warranted, and institute proceedings for the suspension or
+          revocation of certificates of public convenience or other operating authorities in
+          accordance with existing law.
+
+        No certificate, franchise, or operating authority shall be suspended or revoked
+except in accordance with procedures prescribed by law. All penalties imposed under this
+Act shall be reasonable, proportionate to the gravity of the violation, and consistent with
+constitutional limitations on regulatory authority.
+
+SEC. 12. Consumer Remedies. - The grant of automatic rebates under this Act shall be
+without prejudice to the exercise by subscribers of any other rights or remedies available
+under existing laws, rules, and regulations, including the filing of administrative
+complaints before the appropriate regulatory agency and the institution of civil actions for
+damages where warranted. Nothing in this Act shall be construed to limit or diminish
+causes of action arising from contractual breach, fraud, negligence, or other violations of
+law. The remedies provided herein are cumulative and shall operate in addition to, and not
+in substitution for, other legal remedies recognized under Philippine law.
+
+SEC. 13. Implementing Rules and Regulations. - Within sixty (60) days from effectivity,
+the NTC, in coordination with the Department of Information and Communications
+Technology and relevant stakeholders, shall promulgate the necessary rules and
+regulations.
+
+SEC. 14. Separability Clause. - If any provision of this Act is declared unconstitutional or
+invalid, the remaining provisions shall remain in full force and effect.
+
+SEC. 15. Repealing Clause. - All laws, rules, regulations, or parts thereof inconsistent
+with this Act are hereby repealed or modified accordingly.
+
+SEC. 16. Effectivity. - This Act shall take effect fifteen (15) days after its publication in
+the Official Gazette or in a newspaper of general circulation.
+
+​      Approved,
+

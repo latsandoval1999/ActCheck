@@ -1,0 +1,732 @@
+                       Republic of the Philippines
+                    HOUSE OF REPRESENTATIVES
+                       Quezon City, Metro Manila            March 2, 2026
+                                                             12:11 pm
+                        TWENTIETH CONGRESS
+                          First Regular Session
+
+                                        8191
+                         HOUSE BILL NO. _______
+
+
+                              Introduced by
+    REPRESENTATIVES REPRESENTATIVES SUAREZ, DAVID "JAYJAY" C.,
+ ROMUALDEZ, FERDINAND MARTIN G., ADIONG, ZIA ALONTO, ALBA, JOSE
+  MANUEL F., AQUINO, JOSE II "JOBOY" S., ARBISON, MUNIR, ARENAS, MA.
+RACHEL J., ASISTIO, DEAN, AUMENTADO, MARIA VANESSA C., BALINDONG,
+   YASSER ALONTO, BARONDA, JULIENNE "JAM’’, CAGAS, JOHN TRACY F.,
+ CALIXTO, ANTONINO G., CASTRO, JANE T., CHUA, JOEL R., CORVERA, DALE
+    B., CRUZ, AGAY, CRUZADO, EDWIN L., DEGAMO, JANICE V., DIMAPORO,
+       SITTIE AMINAH Q., DIONISIO, ERNESTO JR. M., ESPINA, GERARDO
+  "GERRYBOY" JR. J., GALANG, GERALD CLYOD ALEXIS, GALEOS, EDSEL A.,
+   GARCIA, DANTE S., GARIN, JANETTE L., GONZALES, ALYSSA MICHAELA
+"MICA" M., GORRICETA, KATHY, KHO, WILTON "TONTON" T., KHONGHUN,
+JEFFERSON F., LABADLABAD, AI, LAGON, DAPHNE A., LARA, JOSEPH "JOJO"
+   L., MACAPAGAL-ARROYO, GLORIA, MASTURA, BAI DIMPLE I., MATUGAS,
+ LALO, OLIVAREZ, ERIC, ORTEGA, FRANCISCO PAOLO V P., OUANO-DIZON,
+  EMMARIE "LOLYPOP”, PANALIGAN, ARNAN C., PANOTES, ROSEMARIE C.,
+      PASCUAL, EMERSON D., PLEYTO, SALVADOR A., PRIMICIAS-AGABAS,
+    MARLYN L., RAMA, EDUARDO R., ROMAN, TONY,, ROMUALDO, JURDIN
+     JESUS M., SAGARBARRIA, MA. ISABEL "MAISA" L., SAKALURAN, RUTH,
+        SALCEDA, ADRIAN, SALVACION, REYNALDO, SANTOS, MA. ALANA
+    SAMANTHA T., SOLON, STEVE CHIONGBIAN, SUAN, LORDAN G., TAN,
+      JOSEPH S. , TIENG, IRWIN C., TUAN, DIBU S., TUPAS, BINKY, TUTOR,
+   KRISTINE ALEXIE B., UY, DE CARLO "OYO”, UY, ROBERTO "PINPIN" JR.,
+     VARGAS-ALFONSO, BABY ALINE, VARGAS, PATRICK MICHAEL D., YAP,
+    CHRISTOPHERSON M., YAP, ERIC GO, YU, JOSEPH KIM, YULO, EMILIO
+    BERNARDINO L., BERNOS, JB, DAYANGHIRANG, NELSON JR., FLORES,
+JONATHAN KEITH T., ARBISON, MUNIR “ABDULMUNIR” M., CHUA, JOEL R.,
+      DOMOGAN, MAURICIO G., KHO, ELISA “OLGA” T., KHO, ANTONIO T.
+
+
+
+                          AN ACT
+  EXPANDING THE ELECTRICITY LIFELINE RATE TO MINIMUM WAGE
+ EARNERS AND INSTITUTIONALIZING AUTOMATIC ENROLLMENT FOR
+  QUALIFIED MARGINALIZED END-USERS, AMENDING FOR THE PURPOSE
+  SECTION 73 OF REPUBLIC ACT NO. 9136, AS AMENDED, AND FOR OTHER
+                            PURPOSES
+
+                                         EXPLANATORY NOTE
+
+         Article XIII, Section 1 of the 1987 Philippine Constitution mandates the State to
+promote social justice in all phases of national development by reducing social, economic, and
+political inequalities and removing inequities by equitably diffusing wealth and power for the
+common good. Access to electricity is indispensable to human dignity, public health, education,
+safety, and economic participation. It is for this reason that Section 73 of Republic Act No.
+9136, otherwise known as the Electric Power Industry Reform Act of 2001 (EPIRA), established
+the lifeline rate as a socialized pricing mechanism for marginalized electricity consumers.
+
+         Republic Act No. 11552 strengthened the lifeline rate framework and provided a longer-
+term policy basis for extending this social protection mechanism. Yet despite the existence of
+the lifeline rate program, the country has experienced a persistent implementation gap.
+Government reports have shown that while around 4.5 million households were identified as
+eligible beneficiaries (primarily through the 4Ps registry), only a small fraction were actually
+registered with distribution utilities, meaning that many intended beneficiaries did not receive the
+discount in practice.1 This highlights a structural problem: where the benefit depends on
+beneficiary-initiated registration or documentation, the poorest households—especially those in
+remote areas—are the most likely to be excluded.
+
+        Recent Executive reforms in early 2026 validated the need to shift away from manual,
+beneficiary-driven processes. Through Joint Resolution No. 1, Series of 2026 (and related
+implementing measures), the Department of Energy (DOE), the Department of Social Welfare
+and Development (DSWD), and the Energy Regulatory Commission (ERC) moved toward
+automatic registration of qualified 4Ps beneficiaries for the lifeline program, subject to data
+matching with distribution utilities, with manual processes retained only as a fallback for
+substantial mismatches.2 In the same reform period, government issuances also pointed to a
+uniform national lifeline consumption threshold of 0–50 kWh, with qualified beneficiaries
+within this level entitled to a 100% discount on applicable electricity charges, while allowing
+existing higher-threshold structures to continue for higher consumption levels where already
+approved.3 These reforms are important progress, but as executive issuances, they remain
+vulnerable to policy reversal, uneven implementation, or shifting administrative priorities.
+
+
+
+
+1 DOE report on the lifeline program implementation gap (eligible households vs. registered households). https://
+doe.gov.ph/articles/2876001--doe-intensifies-collaboration-to-expand-access-to-the-lifeline-rate-program
+2 Executive shift to automatic registration for qualified 4Ps beneficiaries under the supplementary framework /
+joint action by DOE-DSWD-ERC. https://www.gmanetwork.com/news/money/economy/974782/doe-dswd-erc-
+issue-reso-for-automatic-registration-of-4ps-beneficiaries-in-power-discount-program/story/
+3 DSWD statement on uniform national lifeline consumption threshold (0–50 kWh) and 100% discount for
+qualified 4Ps households within threshold. https://www.dswd.gov.ph/dswd-doe-erc-institutionalize-automatic-
+lifeline-rate-enrollment-for-qualified-4ps-households/
+          This bill—part of the broader Ginhawa K.I.T. (Kuryente–Internet–Trabaho)
+reform package—seeks to make electricity bill relief both more durable and more inclusive.
+First, it institutionalizes the “automatic, not opt-in” principle by requiring distribution utilities to
+apply the lifeline rate automatically to qualified marginalized end-users, subject to secure
+eligibility matching, account tagging, and anti-leakage safeguards to be defined in the
+implementing rules and regulations. It anchors identification of qualified marginalized end-users
+on the DSWD’s official poverty targeting registry, derived from or validated using data under the
+Community-Based Monitoring System (CBMS) pursuant to Republic Act No. 11315, with the
+most recent NHTS-PR/Listahanan and other officially adopted DSWD registries available
+during the transition period.4
+
+        Second—and as the bill’s major expansion—this measure extends meaningful monthly
+relief to all Minimum Wage Earners by granting them a uniform fifty percent (50%)
+discount on applicable electricity charges for their household’s principal residence.
+Millions of Filipino workers receive minimum wage and still struggle with rising cost-of-living
+pressures. Reducing their monthly electricity burden increases take-home resources available for
+food, transport, education, health, and basic household needs—supporting productivity,
+improving well-being, and strengthening household spending in the local economy. This
+recognizes a reality often felt by ordinary families: many households who are not classified as 4Ps
+beneficiaries still struggle with rising cost-of-living pressures despite being employed. Recent
+government reporting on wage orders indicates that minimum wage adjustments affect millions
+of workers, underscoring the scale of households that may be economically vulnerable even
+while working.5
+
+        Finally, this measure strengthens accountability by requiring robust guardrails: one-
+account safeguards, principal-residence limitations, verification standards, periodic revalidation,
+clear grievance and correction mechanisms, and penalties for misrepresentation. These
+safeguards ensure that relief is targeted, auditable, and protected from abuse—while remaining
+accessible to the very families the law intends to help.
+
+         In view of the foregoing, the passage of this bill is earnestly sought.
+
+
+
+
+     _____________________________________                    _____________________________________
+       SUAREZ, DAVID “JAY-JAY” C.                         ROMUALDEZ, FERDINAND MARTIN
+           2nd District of Quezon                                         G.
+                                                                 1st District of Leyte
+
+4 DSWD statement that Listahanan will end, with CBMS implementation beginning 2024. https://old.dswd.gov.ph/
+listahanan-to-end-this-year-with-cbms-implementation-in-2024-sec-gatchalian/
+5 DOLE wage order reporting indicating wage adjustments affecting millions of workers (useful proxy for scale of
+minimum-wage-covered workers). https://pia.gov.ph/press-release/five-million-workers-reap-benefits-from-
+pbbms-wage-hike-directive/
+ __________________________________     _____________________________________
+ ADIONG, ZIAUR-RAHMAN ALONTO                   ALBA , JOSE MANUEL F.
+      1st District of Lanao del Sur              1st District of Bukidnon
+
+
+
+___________________________________      ___________________________________
+    AQUINO, JOSE “JOBOY” S. II               ARENAS, MARIA RACHEL J.
+      Lone District of Butuan City              3rd District of Pangasinan
+
+
+
+
+_____________________________________    ___________________________________
+            ASISTIO, DEAN                 AUMENTADO, MARIA VANESSA C.
+       3rd District of Caloocan City              2nd District of Bohol
+
+
+
+
+_____________________________________    ___________________________________
+   BALINDONG, YASSER ALONTO                BARONDA, JULIENNE “JAM” L.
+       2nd District of Lanao del Sur            Lone District of Iloilo City
+
+
+
+
+___________________________________     _____________________________________
+      CAGAS, JOHN TRACY F.                    CALIXTO, ANTONINO G.
+     Lone District of Davao del Sur             Lone District of Pasay City
+
+
+
+_____________________________________    ___________________________________
+          CASTRO, JANE T.                   CENIZA, LEONEL “JHONG” D.
+          2nd District of Capiz                2nd District of Davao de Oro
+
+
+
+___________________________________     _____________________________________
+        CORVERA, DALE B.                   CRUZ, AGATHA PAULA AGUILAR
+    Lone District of Agusan del Norte             5th District of Bulacan
+
+
+
+_____________________________________    ___________________________________
+         CRUZADO, EDWIN                          DEGAMO, JANICE V.
+         1st District of Cotabato             2nd District of Negros Oriental
+
+
+
+_____________________________________   ___________________________________
+   DIMAPORO, SITTIE AMINAH Q.           DIONISIO, ERNESTO “ERNIX” M., JR.
+      2nd District of Lanao del Norte            1st District of Manila
+_____________________________________     _____________________________________
+ESPINA, GERARDO “GERRYBOY” J., JR.         GALANG, GERALD CLOYD ALEXIS V.
+         Lone District of Biliran                 2nd District of Valenzuela
+
+
+
+_____________________________________     _____________________________________
+         GALEOS, EDSEL A.                           GARCIA, DANTE S.
+          2nd District of Cebu                     2nd District of La Union
+
+
+
+_____________________________________     _____________________________________
+         GARIN, JANETTE L.                  GONZALES, ALYSSA MICHAELA M.
+           1st District of Iloilo                  3rd District of Pampanga
+
+
+
+
+_____________________________________     _____________________________________
+   GORRICETA, KATHRYN JOYCE F.                    GUICO, RAMON N., JR.
+          2nd District of Iloilo                  5th District of Pangasinan
+
+
+
+_____________________________________     _____________________________________
+          KHO, WILTON T.                       KHONGHUN, JEFFERSON F.
+         3rd District of Masbate                   1st District of Zambales
+
+
+
+_____________________________________     _____________________________________
+       LABADLABAD, IRENE G.                         LAGON, DAPHNE
+    2nd District of Zamboanga del Norte              6th District of Cebu
+
+
+
+_____________________________________     _____________________________________
+          LARA, JOSEPH L.                  MACAPAGAL-ARROYO, MA. GLORIA
+         3rd District of Cagayan                  2nd District of Pampanga
+
+
+
+
+_____________________________________     _____________________________________
+    MASTURA, SITTIE SHAHARA I.              MATUGAS, FRANCISCO “LALO” T.
+       1st District of Maguindanao              1st District of Surigao del Norte
+
+
+
+_____________________________________     _____________________________________
+           OLIVAREZ, ERIC                   ORTEGA, FRANCISCO PAOLO P. V
+       1st District of Parañaque City              1st District of La Union
+ _____________________________________   _____________________________________
+OUANO-DIZON, EMMARIE “LOLLYPOP”                  PANALIGAN, ARNAN C.
+       Lone District of Mandaue City           1st District of Oriental Mindoro
+
+
+
+ _____________________________________   _____________________________________
+        PANOTES, ROSEMARIE                      PASCUAL, EMERSON D.
+       1st District of Camarines Norte           4th District of Nueva Ecija
+
+
+
+ _____________________________________   _____________________________________
+        PLEYTO, SALVADOR A.                 PRIMICIAS-AGABAS, MARLYN L.
+           6th District of Bulacan               6th District of Pangasinan
+
+
+
+ _____________________________________   _____________________________________
+        RAMA, EDUARDO R., JR.                  ROMAN, ANTONINO B. III
+          2nd District of Cebu City                1st District of Bataan
+
+
+
+ _____________________________________   _____________________________________
+   ROMUALDO, JESUS JURDIN “JJ” M.            SAGARBARRIA, MA. ISABEL L.
+        Lone District of Cammiguin             2nd District of Negros Oriental
+
+
+
+
+ _____________________________________   _____________________________________
+         SAKALURAN, RUTH M.                      SALCEDA, ADRIAN E.
+        1st District of Sultan Kudarat             3rd District of Albay
+
+
+
+                                         _____________________________________
+ _____________________________________
+                                           SANTOS, MA. ALANA SAMANTHA
+       SALVACION, REYNALDO P.
+                                                          TALIÑO
+        Lone District of Marinduque
+                                               3rd District of North Cotabato
+
+
+
+ _____________________________________   _____________________________________
+     SOLON, STEVE CHIONGBIAN                       SUAN, LORDAN G.
+         Lone District of Sarangani            1st District of Cagayan de Oro
+
+
+
+ _____________________________________   _____________________________________
+            TAN, JOSEPH S.                         TIENG, IRWIN C.
+           4th District of Isabela                 5th District of Manila
+_____________________________________     _____________________________________
+            TUAN, DIBU S.                        TUPAS, BINKY APRIL M.
+      3rd District of South Cotabato                 5th District of Iloilo
+
+
+
+_____________________________________     _____________________________________
+    TUTOR, KRISTINE ALEXIE B.                       UY, DE CARLO LIM
+          3rd District of Bohol                 1st District of Davao del Norte
+
+
+
+_____________________________________     _____________________________________
+    UY, ROBERTO “PINPIN” T., JR.             VARGAS-ALFONSO, BABY ALINE
+    1st District of Zamboanga del Norte            2nd District of Cagayan
+
+
+
+_____________________________________     _____________________________________
+ VARGAS, PATRICK MICHAEL “PM” D.                     VILLA, ZALDY S.
+        5th District of Quezon City                Lone District of Siquijor
+
+
+
+_____________________________________     _____________________________________
+             YAP, ERIC G.                           YU, JOSEPH KIM C.
+         Lone District of Benguet              1st District of Zamboanga del Sur
+
+
+
+_____________________________________     _____________________________________
+    YULO, EMILIO BERNARDINO                            BERNOS, JB
+         Lone District of Benguet                   Lone District of Abra
+
+
+
+_____________________________________     _____________________________________
+    DAYANGHIRANG, NELSON JR.                  FLORES, JONATHAN KEITH T.
+       1st District of Davao Oriental              2nd District of Bukidnon
+
+
+
+_____________________________________     _____________________________________
+ARBISON, MUNIR “ABDULMUNIR” M.                        CHUA, JOEL R.
+           2nd District of Sulu                3rd District of the City of Manila
+
+
+
+_____________________________________     _____________________________________
+      DOMOGAN, MAURICIO G.                        KHO, ELISA “OLGA” T.
+         Lone District of Baguio                   2nd District of Masbate
+_____________________________________
+          KHO, ANTONIO T.
+         3rd District of Masbate
+                       Republic of the Philippines
+                    HOUSE OF REPRESENTATIVES
+                       Quezon City, Metro Manila
+
+
+                        TWENTIETH CONGRESS
+                          First Regular Session
+
+
+                         HOUSE BILL NO. 8191
+                                        _______
+
+
+                              Introduced by
+      REPRESENTATIVES REPRESENTATIVES SUAREZ, DAVID "JAYJAY" C.,
+ ROMUALDEZ, FERDINAND MARTIN G., ADIONG, ZIA ALONTO, ALBA, JOSE
+  MANUEL F., AQUINO, JOSE II "JOBOY" S., ARBISON, MUNIR, ARENAS, MA.
+RACHEL J., ASISTIO, DEAN, AUMENTADO, MARIA VANESSA C., BALINDONG,
+   YASSER ALONTO, BARONDA, JULIENNE "JAM’’, CAGAS, JOHN TRACY F.,
+ CALIXTO, ANTONINO G., CASTRO, JANE T., CHUA, JOEL R., CORVERA, DALE
+    B., CRUZ, AGAY, CRUZADO, EDWIN L., DEGAMO, JANICE V., DIMAPORO,
+       SITTIE AMINAH Q., DIONISIO, ERNESTO JR. M., ESPINA, GERARDO
+  "GERRYBOY" JR. J., GALANG, GERALD CLYOD ALEXIS, GALEOS, EDSEL A.,
+   GARCIA, DANTE S., GARIN, JANETTE L., GONZALES, ALYSSA MICHAELA
+"MICA" M., GORRICETA, KATHY, KHO, WILTON "TONTON" T., KHONGHUN,
+JEFFERSON F., LABADLABAD, AI, LAGON, DAPHNE A., LARA, JOSEPH "JOJO"
+   L., MACAPAGAL-ARROYO, GLORIA, MASTURA, BAI DIMPLE I., MATUGAS,
+ LALO, OLIVAREZ, ERIC, ORTEGA, FRANCISCO PAOLO V P., OUANO-DIZON,
+  EMMARIE "LOLYPOP”, PANALIGAN, ARNAN C., PANOTES, ROSEMARIE C.,
+      PASCUAL, EMERSON D., PLEYTO, SALVADOR A., PRIMICIAS-AGABAS,
+    MARLYN L., RAMA, EDUARDO R., ROMAN, TONY,, ROMUALDO, JURDIN
+     JESUS M., SAGARBARRIA, MA. ISABEL "MAISA" L., SAKALURAN, RUTH,
+        SALCEDA, ADRIAN, SALVACION, REYNALDO, SANTOS, MA. ALANA
+    SAMANTHA T., SOLON, STEVE CHIONGBIAN, SUAN, LORDAN G., TAN,
+      JOSEPH S. , TIENG, IRWIN C., TUAN, DIBU S., TUPAS, BINKY, TUTOR,
+   KRISTINE ALEXIE B., UY, DE CARLO "OYO”, UY, ROBERTO "PINPIN" JR.,
+     VARGAS-ALFONSO, BABY ALINE, VARGAS, PATRICK MICHAEL D., YAP,
+    CHRISTOPHERSON M., YAP, ERIC GO, YU, JOSEPH KIM, YULO, EMILIO
+    BERNARDINO L., BERNOS, JB, DAYANGHIRANG, NELSON JR., FLORES,
+JONATHAN KEITH T., ARBISON, MUNIR “ABDULMUNIR” M., CHUA, JOEL R.,
+      DOMOGAN, MAURICIO G., KHO, ELISA “OLGA” T., KHO, ANTONIO T.
+                             AN ACT
+   EXPANDING THE ELECTRICITY LIFELINE RATE TO MINIMUM WAGE
+  EARNERS AND INSTITUTIONALIZING AUTOMATIC ENROLLMENT FOR
+ QUALIFIED MARGINALIZED END-USERS, AMENDING FOR THE PURPOSE
+ SECTION 73 OF REPUBLIC ACT NO. 9136, AS AMENDED, AND FOR OTHER
+                           PURPOSES
+
+Be it enacted by the Senate and the House of Representatives of the Philippines in Congress assembled:
+
+        Section 1. Short Title. – This Act shall be known as the "Ginhawa sa Kuryente Act."
+
+        Section 2. Declaration of Policy. – The State shall promote a just and dynamic social order
+thereby uplifting its citizens and marginalized sectors from poverty through policies that provide
+adequate social services, promote full employment, a rising standard of living, and an improved
+quality of life for all.
+
+          The State recognizes that access to electricity is indispensable to human dignity, public
+health, education, and economic participation, and shall therefore ensure that these essential
+utilities are available, reliable, and affordable to every Filipino household, particularly the poor
+and vulnerable.
+
+       Consistent with the constitutional commitment to social justice and equality, the State
+shall pursue measures that reduce social and economic inequities by diffusing access to
+opportunities and modern services, especially in rural and underprivileged communities.
+
+        Section 3. Definition of terms. – As used in this Act:
+
+             (a) “Lifeline Rate” refers to the socialized pricing mechanism for electricity
+                 consumers under Section 73 of Republic Act No. 9136, as amended, in the form
+                 of discounts determined by the Energy Regulatory Commission (ERC) after due
+                 notice and hearing.
+
+             (b) “Qualified Marginalized End-Users” refer to households qualified under
+                 Section 73 of Republic Act No. 9136, as amended.
+
+             (c) “Minimum Wage Earner (MWE)” refers to a worker whose wage rate is at or
+                 below the applicable statutory minimum wage under wage orders issued by the
+                 Regional Tripartite Wages and Productivity Boards (RTWPBs), or such lawful
+                 successor wage-setting issuances, as may be applicable.
+
+             (d) “Principal Residence” refers to the dwelling where the beneficiary household
+                 ordinarily resides and which corresponds to a single residential electricity service
+                 account actually used for household consumption, as further defined in the
+                 implementing rules and regulations.
+
+             (e) “Automatic Application” refers to the process by which lifeline rate discounts
+                 are applied to eligible service accounts through secure eligibility matching and
+                 account tagging, without requiring the beneficiary to file an individual
+                 application, except in cases of failed matching, disputed eligibility, or other
+                 exception cases as may be provided in the implementing rules and regulations.
+           (f) “DSWD Official Poverty Targeting Registry” refers to the official household
+               registry maintained or issued by the Department of Social Welfare and
+               Development (DSWD) for identifying beneficiaries of poverty-targeted social
+               protection programs, derived from or validated using data under the Community-
+               Based Monitoring System (CBMS) pursuant to Republic Act No. 11315 and
+               related issuances, and, during transition, the most recent National Household
+               Targeting System for Poverty Reduction (NHTS-PR) or Listahanan and such
+               other DSWD registries officially adopted for social protection targeting.
+
+           (g) “Minimum Necessary Data Set” refers to the least amount of information
+               required to implement eligibility matching and account tagging for automatic
+               application, consistent with Republic Act No. 10173 (Data Privacy Act of 2012),
+               its implementing rules, and applicable issuances.
+
+           (h) “Anti-Leakage Safeguards” refer to controls and procedures designed to
+               prevent improper inclusion, duplicate availment, fraud, or non-residential use of
+               benefits under this Act, as further detailed in the implementing rules and
+               regulations.
+
+        Section 4. Amendment to EPIRA. – Section 73 of Republic Act No. 9136, otherwise
+known as the "Electric Power Industry Reform Act of 2001," as amended by Republic Act No.
+11552, is hereby further amended to read as follows:
+
+       "SEC. 73. Lifeline Rate. – In order to provide assistance to electricity consumers,
+       especially those living below the poverty line, and to achieve a more equitable
+       distribution of the lifeline subsidy, a socialized pricing mechanism called a lifeline rate for
+       qualified marginalized end-users shall be set by the ERC which shall be exempted from
+       the cross subsidy phase-out under this Act for a period of fifty (50) years, unless
+       otherwise extended by law. The level of consumption, subsidy, and rate shall be
+       determined by the ERC after due notice and hearing: Provided, That the ERC shall
+       primarily utilize data from the Philippine Statistics Authority (PSA) in the determination
+       of the level of consumption.
+
+       PROVIDED, FURTHER, THAT FOR QUALIFIED MARGINALIZED END-
+       USERS UNDER PARAGRAPHS (A) AND (B) BELOW, WHOSE MONTHLY
+       ELECTRICITY CONSUMPTION DOES NOT EXCEED FIFTY (50)
+       KILOWATT-HOURS, THE LIFELINE RATE SHALL INCLUDE A ONE
+       H U N D R E D P E RC E N T ( 1 0 0 % ) D I S C O U N T O N A P P L I C A B L E
+       ELECTRICITY CHARGES, AS MAY BE DETERMINED BY THE ERC:
+       PROVIDED, THAT NOTHING IN THIS ACT SHALL PREVENT THE ERC
+       FROM SETTING AND APPROVING HIGHER DISCOUNT LEVELS FOR
+       OTHER CONSUMPTION BANDS, CONSISTENT WITH LAW.
+
+       THE LIFELINE RATE SHALL BE APPLIED BY ALL DISTRIBUTION
+       UTILITIES AUTOMATICALLY TO QUALIFIED MARGINALIZED END
+       USERS, WITHOUT THE NEED FOR ANY APPLICATION,
+       REGISTRATION, OR BENEFICIARY-INITIATED CERTIFICATION,
+       SUBJECT TO SECURE ELIGIBILITY MATCHING, ACCOUNT TAGGING,
+AND ANTI-LEAKAGE SAFEGUARDS AS MAY BE PROVIDED IN THE
+IMPLEMENTING RULES AND REGULATIONS.
+
+Qualified marginalized end-users shall refer to any of the following:
+
+   (a) Qualified household beneficiaries under Republic Act No. 11310, otherwise
+       known as the "Pantawid Pamilyang Pilipino Program (4Ps) Act," as regularly
+       submitted by the Department of Social Welfare and Development (DSWD) to
+       the DOE, the ERC, and the distribution utility, whose level of consumption shall
+       be within the threshold determined by the ERC, are qualified marginalized end
+       users under this Act;
+
+[(b) Marginalized end users who have been certified and continually validated as
+such by their distribution utility based on a criteria determined by the ERC:
+Provided, That the criteria shall take into account, among others, the poverty
+threshold set by the PSA, and shall contain an exclusive list of requirements to be
+submitted to the distribution utility: Provided, further, That the exclusive list of
+requirements shall be simplified and reasonable for the applicant: Provided,
+furthermore, That the distribution utility shall act on the application for
+certification as a marginalized end user within two (2) working days from
+submission of complete documentary requirements: Provided, finally, That the
+distribution utility's action on the application shall be within ten (10) working
+days during the initial implementation of this Act.]
+
+   (b) HOUSEHOLDS IDENTIFIED BY THE DSWD UNDER ITS
+       OFFICIAL POVERTY TARGETING REGISTRY FOR POVERTY-
+       TARGETED SOCIAL PROTECTION PROGRAMS, AS MAY BE
+       APPLICABLE, WHOSE LEVEL OF CONSUMPTION SHALL BE
+       WITHIN THE THRESHOLD DETERMINED BY THE ERC.
+
+       FOR PURPOSES OF THIS SECTION, THE DSWD OFFICIAL
+       POVERTY TARGETING REGISTRY SHALL BE DERIVED FROM OR
+       VALIDATED USING DATA UNDER THE COMMUNITY-BASED
+       MONITORING SYSTEM (CBMS) PURSUANT TO REPUBLIC ACT
+       NO. 11315 AND RELATED ISSUANCES: PROVIDED, THAT DURING
+       THE TRANSITION PERIOD, THE MOST RECENT NATIONAL
+       HOUSEHOLD TARGETING SYSTEM FOR POVERTY REDUCTION
+       (NHTS-PR)/LISTAHANAN AND SUCH OTHER OFFICIAL DSWD
+       REGISTRIES ADOPTED FOR POVERTY TARGETING MAY BE
+       UTILIZED FOR THIS PURPOSE. THE SPECIFIC STANDARDS AND
+       ELIGIBILITY PARAMETERS FOR IDENTIFYING BENEFICIARIES
+       FROM WITHIN THE CBMS DATA POOL SHALL BE PRESCRIBED
+       IN THE IMPLEMENTING RULES AND REGULATIONS.
+
+   (c) MINIMUM WAGE EARNER HOUSEHOLDS. – HOUSEHOLDS
+       WITH AT LEAST ONE (1) MINIMUM WAGE EARNER, AS
+            DEFINED UNDER APPLICABLE WAGE ORDERS ISSUED BY THE
+            REGIONAL TRIPARTITE WAGES AND PRODUCTIVITY BOARDS
+            (RTWPBS), SHALL BE ENTITLED TO A UNIFORM FIFTY
+            PERCENT (50%) DISCOUNT ON APPLICABLE ELECTRICITY
+            CHARGES FOR A SINGLE RESIDENTIAL SERVICE ACCOUNT
+            CORRESPONDING TO THE HOUSEHOLD’S PRINCIPAL
+            RESIDENCE, SUBJECT TO VERIFICATION, ANTI-LEAKAGE
+            SAFEGUARDS, AND PERIODIC REVALIDATION AS MAY BE
+            PROVIDED IN THE IMPLEMENTING RULES AND
+            REGULATIONS.
+
+            F O R P U R P O S E S O F PA R A G R A P H ( C ) , T H E E R C , I N
+            CONSULTATION WITH THE DOE, DOLE, NWPC, DSWD, PSA,
+            NPC, AND DISTRIBUTION UTILITIES, SHALL PRESCRIBE A
+            SIMPLE, ACCESSIBLE, AND AUDITABLE VERIFICATION
+            MECHANISM THAT SHALL, AT A MINIMUM: (i) ENSURE ONE (1)
+            BENEFIT PER HOUSEHOLD AND ONE (1) SERVICE ACCOUNT
+            ONLY; (ii) LIMIT AVAILMENT TO RESIDENTIAL ACCOUNTS
+            USED FOR A PRINCIPAL RESIDENCE; (iii) PROVIDE FOR TIME-
+            B O U N D E L I G I B I L I T Y VA L I D I T Y W I T H P E R I O D I C
+            REVALIDATION; (iv) PROVIDE FOR A GRIEVANCE AND
+            CORRECTION PROCESS; AND (v) PROVIDE FOR FRAUD
+            PREVENTION AND PENALTIES FOR MISREPRESENTATION.
+
+
+All qualified marginalized end-users shall continually meet the criteria in this Act to avail of
+the lifeline rate.
+
+The ERC shall promulgate rules and guidelines for qualified marginalized end-users whose
+meters or service connections are not registered in their name. SUCH RULES SHALL
+INCLUDE, AT A MINIMUM, MEASURES TO PREVENT EXCLUSION DUE
+TO RENTAL ARRANGEMENTS, SHARED CONNECTIONS, OR NON-
+TITLED SERVICE ACCOUNTS, AS WELL AS A CLEAR AND ACCESSIBLE
+GRIEVANCE AND CORRECTION MECHANISM.
+
+The ERC shall submit to the Joint Congressional Energy Commission an annual report on
+the implementation of the lifeline rate. To achieve the objective of providing assistance to
+electricity consumers especially those living below the poverty line and ensure a more
+equitable distribution of the lifeline subsidy, the ERC shall conduct a comprehensive
+quantitative and qualitative evaluation of its implementation every two (2) years to include
+modes of validation and prevention of leakages. THE ANNUAL REPORT SHALL
+INCLUDE, AMONG OTHERS, COVERAGE AND UPTAKE DATA BY
+BENEFICIARY CATEGORY, THE STATUS OF AUTOMATIC APPLICATION,
+THE NUMBER AND RATE OF MATCH FAILURES AND RESOLUTIONS,
+THE NUMBER OF MWE ACCOUNTS GRANTED THE DISCOUNT UNDER
+PARAGRAPH (C), AND SUCH OTHER IMPLEMENTATION METRICS AS
+   MAY BE NECESSARY TO ASSESS INCLUSION, LEAKAGE, AND PROGRAM
+   INTEGRITY.”
+
+       Section 5. Guardrails and Safeguards for Minimum Wage Earner Discount. – To strengthen
+program integrity and prevent leakage for the MWE discount under Section 73(c), the
+implementing rules and regulations shall include, at a minimum, the following safeguards:
+
+        (a) One Household–One Account Rule. – Availment shall be limited to one (1)
+residential service account corresponding to the household’s principal residence.
+
+        (b) Principal Residence and Residential Use. – Availment shall be limited to
+residential service accounts and shall not apply to commercial, industrial, or mixed-use accounts,
+except as may be allowed under strict criteria to cover home-based arrangements that are
+essentially residential, as may be defined in the IRR.
+
+        (c) Non-Transferability. – The benefit shall be non-transferable and shall not be traded,
+assigned, or used to cover an account other than that approved for the household’s principal
+residence.
+
+       (d) Verification Standards. – Verification shall be designed to be simple and accessible,
+while being auditable. The IRR may provide for employer certification, basic payroll or payslip
+proof, or other official verification sources consistent with law, with special provisions for
+workers without regular documentation.
+
+        (e) Periodic Revalidation. – Eligibility shall be time-bound and subject to periodic
+revalidation to confirm continuing MWE status, as may be provided in the IRR.
+
+       (f) Anti-Fraud and Penalties. – The IRR shall include penalties and disqualification
+rules for misrepresentation, fraud, or manipulation, without prejudice to applicable civil,
+administrative, or criminal liabilities under existing laws.
+
+        (g) Grievance and Correction. – A clear process shall be established to address denial,
+exclusion, account-tagging disputes, and correction of records, with response timelines and
+escalation paths.
+
+
+
+           (a) Validation: DUs are primarily responsible for initial data matching and validating
+               minor discrepancies to achieve a 100% match.
+
+           (b) Rectification: Unrectified minor discrepancies and substantial mismatches (e.g.,
+               different birthdates) shall be reported to the ERC for endorsement to the DSWD
+               for rectification.
+
+           (c) Manual Backup: Beneficiaries who fail automatic registration due to substantial
+               discrepancies retain the right to manual registration.
+
+      Section 6. Inter-Agency Committee. – To ensure the proper, efficient, and timely
+implementation of the provisions of this Act, there is hereby created an Inter-Agency
+Monitoring and Oversight Committee on Electricity Bill Relief and Automatic Lifeline
+Application (hereinafter referred to as the “Committee”), which shall be composed of the
+following:
+
+           (a) The Secretary of the Department of Social Welfare and Development (DSWD)
+               – Chairperson
+
+           (b) The Chairperson of the Energy Regulatory Commission (ERC) – Co-
+               Chairperson
+
+           (c) The Secretary of the Department of Energy (DOE) – Co-Chairperson
+
+           (d) The Chairperson of the National Privacy Commission (NPC) – Member
+
+           (e) A representative from the Philippine Statistics Authority (PSA) - Member
+
+           (f) A representative from the Department of Labor and Employment (DOLE) –
+               Member
+
+           (g) A representative from the National Wages and Productivity Commission
+               (NWPC) – Member
+
+           (h) A representative from the Department of Budget and Management (DBM) –
+               Member
+
+           (i) One (1) representative from an accredited national organization of distribution
+               utilities – Member
+
+           (j) Two (2) representatives from civil society organizations – Members
+
+The Committee shall have the following functions:
+
+           (1) Monitor and evaluate the implementation of automatic lifeline application for
+               qualified marginalized end-users, including coverage, match rates, exclusion
+               errors, correction outcomes, and anti-leakage controls;
+
+           (2) Monitor and evaluate the implementation of the Minimum Wage Earner
+               electricity discount, including verification mechanisms, uptake, duplication risks,
+               fraud patterns, and corrective actions;
+
+           (3) Oversee compliance of implementing agencies, service providers, and regulatory
+               bodies with the provisions of this Act and its implementing rules and
+               regulations;
+
+           (4) Ensure accurate and timely data sharing among implementing entities, in
+               accordance with Republic Act No. 10173 (Data Privacy Act of 2012) and
+               issuances of the NPC, including adoption of a Minimum Necessary Data Set;
+
+           (5) Recommend amendments to policies, procedures, and regulatory rules to
+               improve implementation, prevent leakage, and strengthen inclusion;
+            (6) Establish and oversee a grievance redress and correction mechanism, in
+                coordination with the DSWD and the ERC, to address complaints regarding
+                exclusion, incorrect billing, verification disputes, or non-compliance by service
+                providers;
+
+            (7) Conduct or cause the conduct of periodic audits, either directly or through
+                designated agencies, to verify compliance and accuracy of benefit application;
+                and
+
+            (8) Submit an annual report to Congress on the status of implementation, including
+                the number of beneficiary households or accounts served per utility, geographic
+                distribution, fiscal/financial impact indicators, inclusion and leakage metrics, and
+                issues encountered.
+
+        The Committee shall convene within sixty (60) days from the effectivity of this Act and
+shall meet at least quarterly or as often as may be necessary. The Committee shall be provided
+with sufficient technical and administrative support from the member agencies. The initial
+funding necessary for the operationalization of the Committee shall be charged against the
+current appropriations of the member agencies, and shall be included in their respective budgets
+in the succeeding years.
+
+        Section 7. Data Privacy. – All processing and transfer of data under this Act, including
+the Minimum Necessary Data Set and any verification-related information, shall strictly adhere
+to Republic Act No. 10173 (Data Privacy Act of 2012), its implementing rules, and applicable
+issuances of the National Privacy Commission.
+
+      Section 8. Implementing Rules and Regulations. – Within ninety (90) days from the effectivity
+of this Act, the ERC, in consultation with the DOE, DSWD, DOLE, NWPC, PSA, NPC, and
+the National Electrification Administration (NEA), shall promulgate the implementing rules and
+regulations for the effective implementation of the amended lifeline rate, including the MWE
+discount under Section 73(c), ensuring harmonization with existing lifeline program frameworks
+and relevant Executive issuances.
+
+      Section 9. Separability Clause. – If any portion or provision of this Act is declared
+unconstitutional, the remainder of this Act or any provisions not affected thereby shall remain in
+force and effect.
+
+       Section 10. Repealing Clause. – All laws, decrees, executive orders, rules, and regulations or
+parts thereof inconsistent with this Act are hereby repealed or modified accordingly.
+
+     Section 11. Effectivity. – This Act shall take effect fifteen (15) days after its publication in
+the Official Gazette or in a newspaper of general circulation.
+
+
+
+Approved,
+
