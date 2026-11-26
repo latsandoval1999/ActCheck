@@ -1,0 +1,718 @@
+===== [page 1] =====
+—
+
+Lvs)
+
+12
+13
+14
+15
+16
+
+17
+18
+19
+20
+21
+22
+23
+
+24
+25
+26
+27
+28
+
+Republic of the Philippines
+HOUSE OF REPRESENTATIVES
+Quezon City
+
+TWENTIETH CONGRESS
+
+Second Regular Session
+
+HOUSE BILL NO.12021
+
+Introduced by Representative ELMER V. CATULPOS
+(1Tahanan Party-list)
+
+EXPLANATORY NOTE
+
+Alas-sais ng umaga sa isang pampublikong kolehiyo sa lalawigan. Binuksan ni Ana,
+nasa ikatlong taon ng kursong edukasyon, ang student portal upang alamin kung na-renew
+ang kaniyang iskolarsip. Isang linya lamang ang lumabas: “Not qualified for renewal."
+Walang paliwanag. Nang magtanong siya sa tanggapan ng iskolarsip, ang sagot sa kaniya:
+
+ang sistema ang nagranggo sa mga aplikante, at wala silang magagawa.
+
+Si Ana ay tauhang binuo upang ilarawan ang isang panganib na hindi pa hinaharap ng
+ating batas: ang paggamit ng mga sistemang artificial intelligence (AI) sa mga pasyang
+humuhubog sa kinabukasan ng mag-aaral at ng guro. Kabilang dito ang pagtanggap sa
+paaralan, ang iskolarsip, ang pinal na grado, ang pagpapatuloy ng pag-aaral, at ang
+pagtanggap, pagsusuri at promosyon ng mga guro sa kolehiyo. Hindi ang teknolohiya ang
+problema. Ang problema ay ang pasyang walang taong mananagot at walang paliwanag na
+
+maibibigay sa naapektuhan.
+
+The risk is not hypothetical. In August 2020, after examinations in England were
+cancelled, the moderating algorithm of the qualifications regulator lowered 39.1 per cent of
+teacher-predicted A-level grades, and students reported losing university offers as a result.!
+When an automated output is applied at scale without individual human review, it can alter
+
+the academic futures of thousands of students in a single day.
+
+T Research Professional News, report on the A-level results in England, 13 August 2020: "Ofqual revealed that 39.1 per cent
+of teacher-predicted grades had been pushed down by its moderating algorithm"; and "there were reports on Twitter of
+students who had results downgraded having their university offers withdrawn." Viewable at
+https://www.researchprofessionalnews.com/?p=233 199, last accessed 21 November 2026.
+
+===== [page 2] =====
+SN ND WA Ff W NHN
+
+10
+11
+12
+13
+
+14
+15
+16
+17
+18
+19
+
+20
+21
+22
+
+Philippine regulation already recognizes the core safeguard. Under National Privacy
+Commission Advisory No. 2024-04, institutions that use AI systems to process personal data
+must allow data subjects to question and contest automated decisions, and must provide for
+meaningful human intervention.” The advisory, however, is guidance on the processing of
+personal data under Republic Act No. 10173. It is not a rule of academic procedure. It does
+not tell a student which office will answer, within what period, or who has the authority to
+
+reverse the decision.
+
+Sa kasalukuyan, may 2,334 na institusyon ng mas mataas na edukasyon sa bansa,
+hindi pa kabilang ang mga nasa Bangsamoro Autonomous Region in Muslim Mindanao.?
+Ayon sa Commission on Higher Education (CHED), pinag-aaralan pa nito ang isang
+pambansang patakaran sa AI, habang ang mga kolehiyo at unibersidad ay bumubuo ng kani-
+kaniyang panloob na patakaran.* Dahil dito, ang proteksiyon ng isang mag-aaral o guro laban
+
+sa pasyang ginawa ng makina ay nakasalalay sa paaralang kaniyang kinabibilangan.
+
+The data on which these systems run deserves the same care. Student records, grades,
+financial information, health and disability accommodations, and faculty evaluations are
+increasingly processed through third-party AI services. These services are not beyond risk: in
+September 2026, Reuters reported that OpenAI was working to understand the full scope of
+agent activity as a user-data leak emerged.° Colleges and universities that entrust educational
+
+data to such services must know what they share, why, and under what safeguards.
+
+This Representation has filed House Bill No. 10347, the "Handa sa Kinabukasan Act,"
+which addresses artificial intelligence in teaching, learning and assessment, the disclosure of
+
+AI use by learners, teacher capacitation, and the use of Al-detection software in academic-
+
+2National Privacy Commission, Advisory No. 2024-04, Guidelines on the Application of Republic Act No. 10173 or the
+Data Privacy Act of 2012, Its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial
+Intelligence Systems Processing Personal Data, 19 December 2024, Section 2(B)(2)(a): personal information controllers
+shall allow data subjects to "question and contest automated decisions," and shall "implement mechanisms to allow for
+meaningful human intervention.” Viewable at https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.19-
+Guidelines-on-Artificial-Intelligence-w-SGD.pdf, last accessed 21 November 2026.
+
+3Commission on Higher Education, Higher Education Statistical Data, "Distribution of HEIs AY 2024-25,” as of 26 June
+2025: Grand Total, 2,334 (1.619 private; 154 local universities and colleges; 6 other government schools; 113 SUC main
+campuses; 442 SUC satellite campuses). The table excludes 85 private and 7 other government higher education institutions
+in the Bangsamoro Autonomous Region in Muslim Mindanao. Viewable at https://legacy.ched.gov.ph/statistics/, last
+accessed 21 November 2026.
+
+4Manila Bulletin, "CHED eyes nat'l Al policy," 5 March 2026, quoting CHED Chairperson Shirley Agrupis: "We want to
+ensure that AI does not become a destructor of education, but rather an enabler." The report also states that colleges and
+universities are already crafting their own internal policies. Viewable at https://mb.com. ph/2026/03/05/ched-eyes-natl-ai-
+policy, last accessed 21 November 2026.
+
+5 Reuters, "OpenAI works to understand full scope of agent activity as user data leak emerges," 26 September 2026, as
+published by The Star. Viewable at https://www.thestar.com.my/tech/tech-news/2026/09/26/exclusive-openai-works-to-
+understand-full-scope-of-agent-activity-as-user-data-leak-emerges, last accessed 21 November 2026.
+
+===== [page 3] =====
+SI DA rn ff WW NO
+
+oO
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+
+19
+20
+21
+22
+
+integrity cases.° This bill does not repeat those measures. A national framework for Al
+governance is also being consolidated from 26 House bills in the Committee on Information
+and Communications Technology, with safeguards for high-risk AI systems in sectors that
+include education,’ and with general rights to be informed of an automated decision and to
+have it reviewed by a human.® This bill supplies what a general framework cannot: the
+academic procedure through which those rights are exercised inside a college or university,
+
+and the office that must answer.
+
+The bill rests on five measures. First, no higher education institution may make a
+high-impact academic decision on the basis of an AI output alone; an accountable person
+must make or approve it and may depart from the output. Second, a student or faculty member
+adversely affected must be told that an AI system was used, be given the main reasons for the
+decision in plain language, and be heard on reconsideration by a person who did not take part
+in the original decision, within fixed periods. Third, each institution must publish an AI
+governance policy that lists the systems it uses in such decisions and names the office that
+receives complaints. Fourth, before an AI system is used in such decisions, the institution
+must document its purpose, data, limitations and safeguards against error and bias. Fifth,
+educational data processed by AI must be limited to what is necessary, protected, and not
+
+used for purposes incompatible with those disclosed, consistent with Republic Act No. 10173.
+
+The bill also states what it does not do. It does not prohibit the use of AI in academic
+administration. It does not tell any institution whom to admit, what to teach, or how to assess
+its students; these remain within institutional academic freedom, which, as the Supreme Court
+
+reaffirmed in 2021, includes the autonomy to determine who may be admitted to study.” It
+
+SHouse Bill No. 10347, Twentieth Congress, Second Regular Session, introduced by Representative Elmer V. Catulpos,
+filed 28 July 2026 and pending with the Committee on Basic Education and Culture since 3 August 2026, Section 1: "This
+Act shall be known as the "Handa sa Kinabukasan Act' or the 'Al-Ready Education and Learner Protection Act." Viewable
+at https://docs.congress.hrep.online/legisdocs/basic_20/HB10347.pdf; status at https://www.congress.gov.ph/house-
+members/view/L107, last accessed 21 November 2026.
+
+Ty ing Villamente, "House pushes strict AI bill," Daily Tribune, 14 July 2026: the measure is a House priority, "consolidating
+26 House bills, three House resolutions, and one privilege speech into a substitute measure,” with safeguards for “high-risk
+AI systems used in critical sectors such as healthcare, finance, education and employment.” Viewable at
+https://tribune.net.ph/2026/07/14/house-pushes-strict-ai-bill, last accessed 21 November 2026.
+
+8Ebinezer R. Florano, Lilian Marfil, Ram Christian Cua and Elaine Nicole Lopez. "Shaping the Blueprint: A Multi-
+Stakeholder Forum on the Proposed AI Regulation and Development Act," UP Center for Integrative and Development
+Studies Policy Brief (forum held 26 May 2026), describing Section 6(5) of the draft as granting "the right to be informed
+that an automated decision was made,” a meaningful explanation, and review by a human. Viewable at
+https://cids.up.edu.ph/wp-content/uploads/ 2026/07/Policy_Brief_Al_Regulation_Act.pdf, last accessed 21 November 2026.
+
+*Pimentel v. Legal Education Board, G.R. Nos. 230642 and 242954, Decision, 10 September 2019 [Per J. J.C. Reyes, Jr.,
+En Banc]: "According to present jurisprudence, academic freedom encompasses the independence of an academic institution
+to determine for itself (1) who may teach, (2) what may be taught, (3) how it shail teach, and (4) who may be admitted to
+study"; Resolution on the motion for reconsideration, 9 November 2021 [Per J. Zalameda, En Banc}: "This includes the
+autonomy to determine who may be admitted to study, which extends to the right to decide whom to exclude or expel and
+
+===== [page 4] =====
+oN DN A
+
+10
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+does not require any institution to procure an AI system. It regulates only the manner in which
+an AI output may be used in decisions that affect a person's academic standing or career, and
+
+the handling of the data on which those outputs depend.
+
+Kapag naisabatas ito, ang mag-aaral na tulad ni Ana ay hindi na sasagutin ng "ang
+sistema ang nagpasya." Malalaman niya na may ginamit na AI, kung ano ang mga
+pangunahing batayan ng pasya, at kung kanino siya lalapit upang muling surlin ito ng isang
+taong may kapangyarihang baguhin ang pasya. Ang guro namang sinusuri para sa promosyon
+
+ay may kaparehong karapatan.
+"Ang AI ay katuwang sa pagpapasya, hindi ang nagpapasya."
+
+"Sa bawat pasyang humuhubog sa kinabukasan ng mag-aaral, may taong
+
+mananagot."
+
+In view of the foregoing, the approval of this bill is earnestly sought.
+
+CLD
+
+LMER V. CATULPOS
+
+whom to confer the honor and distinction of being their graduates.” The doctrine traces to Garcia v. The Faculty Admission
+Committee, Loyola School of Theology, G.R. No. L-40779, 28 November 1975. Viewable at
+https://elibrary judiciary.gov.ph/thebookshelf/showdocs/1/68044 and
+https://lawphil .net/judjuris/juri202 1/nov2021/pdf/gr_230642_2021.pdf, last accessed 22 November 2026.
+
+===== [page 5] =====
+10
+
+11
+12
+13
+14
+
+15
+16
+
+17
+
+18
+19
+20
+
+21
+22
+23
+24
+
+25
+26
+
+Republic of the Philippines
+HOUSE OF REPRESENTATIVES
+Quezon City
+
+TWENTIETH CONGRESS
+
+Second Regular Session
+
+HoUsE BILL No.L292 1
+
+Introduced by Representative ELMER V. CATULPOS
+(1 Tahanan Party-list)
+
+AN ACT ESTABLISHING SAFEGUARDS FOR THE USE OF ARTIFICIAL
+INTELLIGENCE IN HIGH-IMPACT ACADEMIC DECISIONS AND FOR
+THE GOVERNANCE OF EDUCATIONAL DATA IN HIGHER
+EDUCATION INSTITUTIONS, AND FOR OTHER PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in
+
+Congress assembled:
+
+SECTION 1. Short Title. — This Act shall be known as the "Gabay-Aral Act."
+
+SECTION 2. Declaration of Policy. — Pursuant to Article II, Section 17, Article III,
+Section 1, and Article XIV, Sections 1 and 5(2) of the Constitution, it is the policy of the State
+to:
+
+(a) Ensure that decisions affecting the admission, academic standing, and careers of
+
+students and faculty members in higher education institutions are made by
+accountable persons, including where artificial intelligence systems are used to
+
+assist in making them;
+
+(b) Guarantee to every person affected by such decisions notice, a meaningful
+
+explanation, and an opportunity to be heard;
+
+===== [page 6] =====
+10
+11
+
+12
+13
+14
+15
+
+16
+17
+
+18
+19
+20
+21
+22
+
+23
+24
+25
+26
+27
+
+28
+29
+30
+
+(c) Protect educational data processed by artificial intelligence systems, consistent
+with Republic Act No. 10173, otherwise known as the "Data Privacy Act of 2012";
+
+and
+
+(d) Respect the academic freedom of higher education institutions to determine on
+academic grounds who may teach, what may be taught, how it shall be taught, and
+who may be admitted to study.
+
+SECTION 3. Definition of Terms. — As used in this Act:
+
+(a) Artificial intelligence system or Al system refers to a machine-based system that,
+for explicit or implicit objectives, infers from the input it receives how to generate
+outputs such as predictions, scores, rankings, classifications, recommendations, or
+
+decisions;
+
+(b) Educational data refers to information relating to an identifiable student,
+applicant, faculty member, or employee of a higher education institution that is
+collected, generated, inferred, or processed in relation to admission, teaching,
+
+learning, assessment, research, student support, or academic administration;
+
+(c) Faculty member refers to a person engaged by a higher education institution to
+
+teach or conduct research, whether on full-time, part-time, or contractual basis;
+
+(d) High-impact academic decision refers to a decision of a higher education
+institution on the admission, scholarship or financial assistance, final course grade,
+academic ranking or honors, retention, academic probation, or graduation of a
+student, or on the hiring, performance evaluation, promotion, or tenure of a faculty
+
+member;
+
+(e) Higher education institution or HEI refers to a public or private institution offering
+higher education programs, including state universities and colleges and local
+universities and colleges, that is subject to the supervision or regulation of the
+Commission on Higher Education under Republic Act No. 7722, otherwise known
+
+as the "Higher Education Act of 1994";
+
+(f) Human reviewer refers to a natural person designated by the HEI who has authority
+over the decision concerned, the competence to assess the relevant record, and the
+
+power to depart from the output of an AI system;
+
+===== [page 7] =====
+& Ww N
+
+A
+
+10
+11
+
+12
+13
+14
+
+15
+16
+
+17
+18
+
+19
+20
+21
+
+22
+
+23
+24
+
+25
+26
+27
+
+28
+
+29
+
+(g) Material use refers to the use of an AI system in a high-impact academic decision
+where the output of the system is a factor in the decision, including where it
+determines which applicants or cases are considered, scored, ranked, or flagged;
+
+and
+
+(h) Profiling refers to the automated processing of educational data to evaluate,
+analyze, or predict a person's academic performance, conduct, reliability, or
+
+likelihood of success, withdrawal, or failure.
+
+SECTION 4. Scope. — This Act applies to the material use of AI systems by HEIs
+in high-impact academic decisions and to the processing of educational data by AI systems.
+It does not govern the use of AI in teaching, learning, and assessment, the disclosure of AI
+
+use in academic work, or the use of Al-detection software in academic-integrity proceedings.
+
+This Act shall be construed in harmony with Republic Act Nos. 7722, 8292, and
+10173 and other applicable laws. Nothing in this Act shall diminish any right or protection
+
+available under such laws.
+
+SECTION 5. Human Decision Rule. — In making a high-impact academic decision,
+an HEI shall observe the following:
+
+(a) No high-impact academic decision shall be based solely on the output of an Al
+
+system;
+
+(b) Every high-impact academic decision in which an AI system is materially used
+shall be made or approved by a human reviewer who has considered the relevant
+
+record and who may depart from the output of the AI system;
+(c) The output of an AI system shall not be treated as conclusive of any fact; and
+
+(d) No HEI shall use an AI system to infer sensitive personal information, as defined
+
+in Republic Act No. 10173, for use as a factor in a high-impact academic decision.
+
+SECTION 6. Notice, Explanation, and Reconsideration. — Where an AI system
+is materially used in a high-impact academic decision that is adverse to a student or faculty
+
+member, the HEI shall:
+(a) Inform the affected person in writing that an AI system was used in the decision;
+
+(b) State in plain language the main factors on which the decision rests;
+
+===== [page 8] =====
+10
+11
+
+12
+
+13
+14
+
+15
+
+16
+17
+
+18
+19
+
+20
+21
+
+22
+23
+24
+25
+26
+27
+
+28
+29
+
+(c) Allow the affected person, within fifteen (15) days from receipt of the notice, to
+submit an explanation and supporting evidence and to request reconsideration by
+
+a human reviewer who did not take part in the original decision; and
+
+(d) Resolve the request for reconsideration in writing within thirty (30) days from its
+
+filing, stating the basis of the resolution.
+
+Nothing in this Section shall require the disclosure of trade secrets, source code, or
+the personal information of other persons, but the HEI shall not withhold the main factors of
+
+the decision on that ground.
+
+SECTION 7. Institutional AI Governance Policy. — Every HEI that makes
+material use of AI systems in high-impact academic decisions or processes educational data
+
+through AI systems shall adopt and publish an AI governance policy that shall:
+(a) List the AI systems so used and the purpose of each;
+
+(b) Designate the office that receives inquiries, requests for reconsideration, and
+
+complaints under this Act;
+(c) Prescribe the procedure for designating human reviewers;
+
+(d) Provide reasonable accommodations for persons affected by disability, limited
+
+connectivity, or limited access to devices; and
+
+(e) Provide for review of the policy at least once every two (2) years, with the
+
+participation of students and faculty members.
+
+An HEI may adopt rules that are more protective of students and faculty members
+
+than those required by this Act.
+
+SECTION 8. Assessment Before Use. — Before making material use of an Al
+system in high-impact academic decisions, an HEI shall document the purpose of the system,
+the educational data it uses, its known limitations, the measures taken against error and bias,
+and the human review procedure that will apply. The HEI shall update the assessment
+whenever the system or its use is materially changed, and shall furnish a copy to the
+
+Commission on Higher Education upon request.
+
+SECTION 9. Educational Data Governance. — An HEI that processes educational
+data through an AI system shall, consistent with Republic Act No. 10173:
+
+===== [page 9] =====
+10
+11
+12
+
+13
+
+14
+15
+16
+
+17
+18
+19
+20
+21
+22
+23
+
+24
+25
+26
+
+27
+28
+29
+
+30
+31
+
+(a) Process only the educational data necessary for a specified and legitimate
+
+educational purpose;
+
+(b) Apply role-based access and reasonable organizational, physical, and technical
+
+security measures;
+
+(c) Not require a student or faculty member to provide personal data to an AI provider
+beyond what is necessary for that purpose;
+
+(d) Where the use of an AI tool is optional, offer an alternative that carries no penalty
+
+for a person who declines to use the tool;
+
+(e) Not use, or allow an AI provider to use, educational data for a purpose
+incompatible with the purpose disclosed to the data subject, including the training
+of AI systems for other purposes, without the consent of the data subject or other
+lawful basis; and
+
+(f) Correct inaccurate educational data upon request where correction is practicable.
+
+Every agreement between an HEI and an AI provider for the processing of educational
+data shall bind the provider to the duties under this Section. Nothing in this Section shal] limit
+
+the jurisdiction of the National Privacy Commission.
+
+SECTION 10. Role of the Commission on Higher Education. — Within one
+hundred eighty (180) days from the effectivity of this Act, the Commission on Higher
+Education (CHED), in consultation with the National Privacy Commission, the Department
+of Information and Communications Technology, HEIs, and organizations of students and
+faculty members, shall issue minimum standards on the notices, reconsideration procedure,
+assessment, and institutional policy required by Sections 6, 7, and 8 of this Act, together with
+model policies and forms that HEIs may adopt.
+
+The standards shall be limited to administrative and procedural matters. They shall
+not prescribe the curriculum, methods of teaching, methods of assessment, or criteria for
+
+admission of any HEI, nor require any HEI to procure an AI system.
+
+Subject to the availability of appropriations, the CHED shall provide technical
+assistance to HEIs in complying with this Act, giving priority to public HEIs serving
+
+geographically isolated and disadvantaged areas.
+
+SECTION 11. Complaints and Remedies. — A student or faculty member
+
+aggrieved by a violation of this Act may file a complaint with the office designated under
+
+===== [page 10] =====
+bk WN
+
+wa
+
+10
+
+11
+12
+13
+14
+
+15
+16
+17
+18
+19
+20
+
+21
+22
+
+23
+24
+25
+26
+27
+
+28
+29
+30
+
+Section 7(b) of this Act. If the complaint is not resolved within thirty (30) days, or the
+complainant is not satisfied with its resolution, the complainant may elevate it to the CHED,
+which shall, after notice and hearing, direct the HEI to reconsider the decision or to comply
+with this Act.
+
+Complaints involving the processing of personal data may be filed with the National
+Privacy Commission. The remedies under this Act are without prejudice to remedies available
+
+under other laws.
+
+SECTION 12. Non-Retaliation. — No HEI, officer, or employee thereof shall
+impose any sanction or adverse action on a student or faculty member for requesting
+
+reconsideration or filing a complaint in good faith under this Act.
+
+SECTION 13. Transitory Provision. — Sections 5 and 6 of this Act shall apply to
+high-impact academic decisions made after the effectivity of this Act. HEIs shall comply with
+Sections 7, 8, and 9 of this Act within one (1) year from the issuance of the minimum
+
+standards under Section 10 of this Act.
+
+SECTION 14. Implementing Rules and Regulations. — Within one hundred eighty
+(180) days from the effectivity of this Act, the CHED, in consultation with the National
+Privacy Commission and the Department of Information and Communications Technology,
+shall promulgate the implementing rules and regulations of this Act. The implementing rules
+shall prescribe only administrative and procedural matters and shall not enlarge or restrict the
+rights and duties established by this Act.
+
+The absence or delay of the implementing rules and regulations shall not suspend
+
+rights and duties that are sufficiently defined by this Act.
+
+SECTION 15. Appropriations. — The amount necessary for the initial
+implementation of this Act shall be charged against the current appropriations of the
+Commission on Higher Education. Thereafter, such sums as may be necessary for the
+continued implementation of this Act shall be included in the annual General Appropriations
+
+Act.
+
+SECTION 16. Separability Clause. — If any provision of this Act is declared
+unconstitutional or invalid, the other provisions not affected thereby shall remain in full force
+
+and effect.
+
+===== [page 11] =====
+SECTION 17. Repealing Clause. — All laws, decrees, executive orders, rules and
+regulations, or parts thereof inconsistent with this Act are hereby repealed, amended, or
+
+modified accordingly.
+
+SECTION 18. Effectivity. — This Act shall take effect fifteen (15) days after its
+
+publication in the Official Gazette or in a newspaper of general circulation.
+
+Approved,

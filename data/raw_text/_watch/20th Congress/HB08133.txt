@@ -1,0 +1,235 @@
+                         Republic of the Philippines
+                       HOUSE OF REPRESENTATIVES
+                               Quezon City                              February 26, 2026
+                                                                           2:30 pm
+                          TWENTIETH CONGRESS
+                            First Regular Session
+
+                                            8133
+                            House Bill No. ________
+
+
+
+          Introduced by REPRESENTATIVE FLORABEL C. YATCO
+
+
+
+                            EXPLANATORY NOTE
+
+The national budget is more than numbers on paper. It represents the hopes,
+needs, and everyday struggles of Filipino families. Every peso allocated by the
+government comes from the hard work of our people. It is therefore only right
+that citizens are given a clear, transparent, and accessible way to see how public
+funds are allocated and spent.
+
+Despite existing transparency mechanisms, gaps remain in public access to real-
+time, tamper-proof, and easily understandable budget information. Concerns
+about inefficiencies, delays, and the misuse of funds continue to undermine
+public trust in our government institutions. This is where the Philippine
+National Budget Blockchain Act comes into play.
+
+This bill seeks to address these concerns by mandating the establishment of a
+National Budget Blockchain System. By utilizing blockchain technology, budget
+transactions can be recorded in a secure, transparent, and immutable digital
+ledger. This will allow for real-time tracking of fund releases and expenditures,
+reduce opportunities for corruption, and strengthen accountability across all
+levels of government. Most importantly, it empowers citizens to participate
+more actively in monitoring how public resources are used.
+
+This measure reflects a core principle: that government must be honest, open,
+and responsive to the people it serves. Just as a mother ensures that every peso
+in the household budget is wisely spent for her family’s needs, the government
+must ensure that public funds directly benefit the Filipino people.
+
+
+                                        1
+Passing the Philippine National Budget Blockchain Act is a big step towards a
+more transparent and accountable government. It says loud and clear that
+Filipinos have the right to know how their money is spent and to hold their
+government accountable.
+
+In view of the foregoing, the passage of this bill is earnestly sought.
+
+
+
+
+FLORABEL C. YATCO
+Representative
+Nanay Party-list
+
+
+
+
+                                         2
+                         Republic of the Philippines
+                       HOUSE OF REPRESENTATIVES
+                               Quezon City
+
+                          TWENTIETH CONGRESS
+                            First Regular Session
+
+                                             8133
+                            House Bill No. ________
+
+
+
+          Introduced by REPRESENTATIVE FLORABEL C. YATCO
+
+
+
+AN ACT MANDATING THE ESTABLISHMENT AND IMPLEMENTATION
+    OF A NATIONAL BUDGET BLOCKCHAIN SYSTEM TO ENHANCE
+    T R A N S PA R E N C Y, A C C O U N TA B I L I T Y, A N D P U B L I C
+    PARTICIPATION IN THE PHILIPPINE BUDGET PROCESS
+
+Be it enacted by the Senate and the House of Representatives of the Philippines in
+Congress assembled:
+
+      Section 1. Short Title. – This Act shall be known as the “Philippine
+National Budget Blockchain Act.”
+
+       SEC. 2. Declaration of Policy. – It is hereby declared the policy of the
+State to promote transparency, accountability, and good governance in the
+management and disbursement of public funds. To this end, the State
+recognizes the potential of emerging technologies, such as blockchain, to
+enhance public trust by providing an immutable and transparent record of all
+government financial transactions. The use of blockchain ensures that all
+allocations, disbursements, procurements, and expenditures are permanently
+recorded, tamper-evident, and accessible to the public and oversight
+institutions in real time.
+
+      SEC. 3. Definition of Terms. – As used in this Act:
+
+       (a) Blockchain refers to a distributed and cryptographically secured
+digital ledger that records transactions in a verifiable, immutable, and
+transparent manner;
+
+                                        3
+       (b) Blockchain-based Budget System refers to a government-managed
+blockchain ledger that records, in real-time and immutable form, all
+transactions across the budget cycle;
+
+      (c) Digital Public Asset (“DPA”) refers to any budget-related record placed
+on blockchain, representing public funds as immutable and verifiable assets of
+the people;
+
+      (d) National Budget refers to the General Appropriations Act (“GAA”),
+which is the law that authorizes the government to spend a specific amount of
+money for various programs and projects;
+
+       (e) Smart Contract refers to self-executing code deployed on blockchain to
+enforce predefined conditions, including budget releases and compliance
+requirements; and
+
+      (f) Validator Nodes refer to independent verifying entities, including
+government agencies, academic institutions, and accredited organizations, that
+maintain and secure the blockchain’s decentralization.
+
+      SEC. 4. Establishment of the Blockchain-based Budget System. – The
+Department of Information and Communications Technology (“DICT”), in
+coordination with the Department of Budget and Management (“DBM”) and
+Commission of Audit (“COA”), shall establish a blockchain-based budget
+system where all records of the national budget are recorded as DPAs.
+
+       All records of the national budget, from budget preparation and
+legislation to execution and audit, shall be recorded in DPAs. Smart contracts
+may automate fund releases upon the fulfillment of verifiable milestones such
+as the approval process and other documentation.
+
+       A public-facing portal shall provide real-time access to DPAs, to enable
+citizens, COA, and oversight bodies to independently verify the flow of funds
+down to agencies, projects, and beneficiaries.
+
+      All government financial systems, including budgeting systems,
+disbursement tools, accounting applications, and reporting software, shall be
+
+
+                                        4
+required to comply with blockchain interoperability standards. All data
+generated by such systems must be anchored to the blockchain as DPAs,
+ensuring immutability, traceability, and public auditability.
+
+       SEC. 5. Features of the Blockchain-Based Budget System. – The
+blockchain-based budget system shall, at a minimum, embody the following
+features to ensure transparency, accountability, and reliability:
+
+      (a) Immutability – All transactions and entries recorded in the system
+shall be permanent and shall not be subject to alteration, deletion, or
+manipulation, thereby preserving the integrity of official budgetary data.
+
+      (b) Decentralization – Validation functions shall be distributed across
+multiple independent institutions, agencies, or designated entities to prevent
+concentration of control and to strengthen institutional accountability.
+
+       (c) Traceability – The system shall provide a verifiable chain of records
+that allows public funds to be tracked from their appropriation in the General
+Appropriations Act down to their utilization in specific projects, programs, or
+beneficiaries.
+
+      (d) Security and Resilience – The system shall employ robust
+cryptographic safeguards, redundancy mechanisms, and disaster recovery
+protocols to ensure continuous operation and to protect all data, processes, and
+accounts against tampering, breaches, or system failures.
+
+       (e) Interoperability – The system shall be designed to be compatible
+with, and adaptable to, existing and future government information systems
+and emerging technologies, thereby ensuring scalability, efficiency, and
+seamless integration across platforms.
+
+      SEC. 6. Mandates of Implementing Agencies. –
+
+      (a) DICT shall serve as the lead implementing agency and is hereby
+authorized to engage and contract qualified private sector partners, technology
+providers, and academic institutions for the design, development, deployment,
+and maintenance of said system, subject to government procurement laws and
+regulations.
+
+
+                                       5
+       (b) DBM shall ensure the integration of the national budget process into
+the blockchain-based budget system including provision of timely and accurate
+data in coordination with DICT and other concerned agencies.
+
+      (c) COA shall integrate blockchain technology into its audit systems and
+processes and ensure that audit standards are aligned with blockchain-based
+recordkeeping.
+
+       (d) All government agencies, bureaus, office, commissions, and
+government-owned or controlled corporations shall integrate their financial
+management systems into the blockchain-based budget system and ensure
+timely submission of budget, procurement, and expenditure reports.
+
+      SEC. 7. Implementing Rules and Regulations. – Within ninety (90) days
+from the effectivity of this Act, the DICT, in coordination with DBM and COA,
+shall promulgate the necessary rules and regulations for the effective
+implementation of this Act.
+
+       SEC. 8. Appropriations. – The amount of Five Hundred Million Pesos
+(₱500,000,000.00) is hereby appropriated from available funds in the National
+Treasury for the initial implementation of this Act. This shall cover the research,
+development, infrastructure setup, system integration, and capacity building
+required to transition to the blockchain-based budget system. Thereafter, such
+sums as may be necessary for its continued implementation and maintenance
+shall be included in the annual GAA.
+
+        SEC. 9. Separability Clause. – If any provision of this Act is declared
+unconstitutional, the remainder thereof not otherwise affected shall remain in
+full force and effect.
+
+      SEC. 10. Repealing Clause. – All laws, decrees, orders, rules, and
+regulations or parts thereof inconsistent with this Act are hereby repealed or
+modified accordingly.
+
+      SEC. 11. Effectivity. – This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in a newspaper of general circulation.
+
+
+
+                                         6
+Approved,
+
+
+
+
+            7
+
