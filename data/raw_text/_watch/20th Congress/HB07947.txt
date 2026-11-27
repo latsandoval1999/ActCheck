@@ -1,0 +1,408 @@
+                           Republic of the Philippines
+                    House of Representatives
+                           Quezon City, Metro Manila                       February 23, 2026
+                                                                               1:43 pm
+                              Twentieth Congress
+                              First Regular Session
+
+                           HOUSE BILL NO. 7947
+                                         ______
+
+
+ Introduced by Representatives Ferdinand Martin G. Romualdez, Yedda
+          Marie K. Romualdez, Andrew Julian K. Romualdez
+                         and Jude A. Acidre
+
+
+                       AN ACT
+STRENGTHENING THE CANCER REGISTRY SYSTEM IN THE
+PHILIPPINES, MANDATING     THE   ESTABLISHMENT   AND
+SUSTAINED FUNDING OF POPULATION-BASED AND HOSPITAL-
+BASED CANCER REGISTRIES, AND FOR OTHER PURPOSES WITH
+FUNDS APPROPRIATED THEREOF
+
+
+                           EXPLANATORY NOTE
+
+
+      This proposed bill seeks to establish and fund population-based and
+hospital-based cancer registries to strengthen the cancer registry system mandated
+by the National Integrated Cancer Control Act (NICCA).
+       In the Philippines, cancer is the third leading cause of death. According to
+the International Agency for Research on Cancer, over 188,000 new diagnoses
+and over 113,000 deaths have been attributed to different forms of cancer. Such
+data is only based on what was acquired from the Manila and Rizal Cancer
+Registries.
+      At the moment, the Philippines has four Population-Based Cancer
+Registries (PBCR) situated in Manila, Rizal, Cebu, and Davao. As for Hospital-
+Based Cancer Registries (HBCR), there are only forty-four known hospitals
+adopting the CARE PH application, a software tool that functions as a hospital
+cancer registry which is embedded into the hospital local area network maintained
+by an organization of healthcare champions, patients, and their caregivers, with a
+capacity to share their anonymized data with a secure and encrypted central
+  database.
+        Given this, cancer registration in the Philippines remains fragmented,
+  underfunded, and geographically incomplete, covering only a fraction of the
+  national population and hospital network. The lack of a fully institutionalized
+  nationwide system continues to create significant gaps in cancer incidence,
+  prevalence, survival, and mortality data.
+         This bill seeks to strengthen the cancer registry system in the Philippines
+  by mandating the establishment, accreditation, and sustained funding of both
+  PBCRs and HBCRs. It further positions the National Cancer Registry as the
+  official source of national cancer incidence and survival data, anchored on
+  PBCRs as the backbone of population-level surveillance. It likewise reiterates the
+  provision under NICCA that mandates that all hospitals, including clinics, shall
+  have its own cancer registry. Moreover, it professionalizes the cancer registry
+  workforce through a national certification program for Cancer Registrars to
+  ensure data quality and interoperability, and enforce measures to practice secure
+  and ethical data sharing in line with the Data Privacy Act of 2012.
+         The proposed measure builds upon the NICCA by ensuring that cancer data
+  systems are no longer fragmented and are institutionalized, sustainable, and
+  aligned with global standards instead. Reliable data on cancer in the Philippines
+  will not only empower policymakers and health workers but also deliver justice
+  to patients and families by ensuring equitable allocation of resources, improved
+  access to cancer care, and stronger public health interventions nationwide.
+
+        In view of the foregoing, the immediate passage of this bill is earnestly
+  sought.
+
+
+
+
+FERDINAND MARTIN G. ROMUALDEZ                   YEDDA MARIE K. ROMUALDEZ
+
+
+
+
+ ANDREW JULIAN K. ROMUALDEZ                              JUDE A. ACIDRE
+                            Republic of the Philippines
+                    House of Representatives
+                           Quezon City, Metro Manila
+
+                               Twentieth Congress
+                               First Regular Session
+
+                                           7947
+                           HOUSE BILL NO. ______
+
+
+ Introduced by Representatives Ferdinand Martin G. Romualdez, Yedda
+          Marie K. Romualdez, Andrew Julian K. Romualdez
+                         and Jude A. Acidre
+
+
+                                     AN ACT
+STRENGTHENING THE CANCER REGISTRY SYSTEM IN THE
+PHILIPPINES, MANDATING     THE   ESTABLISHMENT   AND
+SUSTAINED FUNDING OF POPULATION-BASED AND HOSPITAL-
+BASED CANCER REGISTRIES, AND FOR OTHER PURPOSES WITH
+FUNDS APPROPRIATED THEREOF
+
+      Be it enacted by the Senate and the House of Representatives of the
+Philippines in Congress assembled:
+
+
+      SECTION 1. Short Title. – This Act shall be known as the "Cancer
+Registry Act of 2025".
+
+
+      SECTION 2. Declaration of Policy. – It is hereby declared the policy of
+the State to protect and promote the right to health of the people and instill health
+consciousness among them. In pursuit of this, the State shall establish a
+comprehensive and responsive cancer data system through a well-supported and
+technically sound cancer registry network. This will serve as the foundation for
+cancer surveillance, planning, policy development, and evaluation of cancer
+control strategies in the country. This will strengthen the implementation of the
+National Integrated Cancer Control Act (NICCA).
+
+   SECTION 3. Definition of Terms. For the purposes of this Act, the following
+terms are hereby defined:
+
+   a. Cancer Registrar refers to a trained health information professional
+      responsible for collecting, abstracting, verifying, and managing cancer data
+      in accordance with international standards.
+   b. Cancer Registry refers to a database that contains information about people
+      diagnosed with various types of cancer. The registry shall require
+      systematic collection, storage, analysis, interpretation and reporting of data
+      on subjects with cancer.
+   c. Hospital-Based Cancer Registry (HBCR) refers to a registry that collects
+      information on cancer patients diagnosed and/or treated in a specific
+      hospital, primarily for clinical service evaluation, quality assurance, and
+      hospital-based research.
+   d. Population-Based Cancer Registry (PBCR) refers to a registry that
+      collects data on all new cancer cases occurring in a defined population
+      within a specific geographic area, regardless of the place of diagnosis or
+      treatment. PBCRs provide incidence, survival, and mortality data to inform
+      public health policies and research.
+   e. WHO-IARC CanReg refers to an open-source software tool developed by
+      the International Agency for Research on Cancer (IARC), designed
+      specifically to input, store, check, and analyze population-based cancer
+      registry data to help track cancer incidence globally. It is a cornerstone tool
+      for cancer registries worldwide aiming for quality and comparability in
+      cancer data collection and analysis. It is widely adopted by cancer registries
+      in Africa, Asia, the Middle East, Pacific Islands, Eastern Europe, and parts
+      of Latin America for systematic, standardized cancer data collection and
+      management.
+   f. WHO IARC refers to the World Health Organization International Agency
+      for Research on Cancer, which is the specialized cancer research agency of
+      WHO. Its mission is to coordinate and conduct international research on
+      the causes, prevention, and early detection of cancer.           IARC was
+      established in 1965 as an intergovernmental agency and is headquartered
+      in Lyon, France. Its membership has grown to 29 countries, and it works
+      closely with WHO to translate research findings into global cancer
+      prevention policies.
+   g. National Cancer Registry refers to a population-based registry established
+      to collect, store, analyze, interpret, and report data on persons with cancer
+      in the Philippines.
+   h. Cancer Repository Databank refers to a specialized database or data
+      repository designed to systematically collect, store, manage, and share
+      information about cancer patients, tumor characteristics, treatment
+      outcomes, and/or genomic data for research, surveillance, and public health
+      purposes.
+
+   SECTION 4. Purpose of the Act. – The specific objectives of the Act are as
+follows:
+
+
+   a. Institutionalize a sustainable and high-quality cancer registry system
+      composed of population-based and hospital-based cancer registries.
+   b. Ensure the independent and uninterrupted operation of Population-Based
+      Cancer Registries (PBCRs) as the backbone of the National Cancer
+      Registry.
+   c. Provide a clear framework for the roles, responsibilities, funding, and
+      certification of cancer registrars.
+   d. Establish mechanisms for coordination, data quality assurance, and ethical
+      data sharing among registries and other relevant institutions.
+   e. Promote the use of cancer registry data in national policy, planning, and
+      research for cancer prevention and control.
+
+
+   SECTION 5. Scope and Coverage. – This Act shall apply to all Population-
+Based Cancer Registries (PBCRs) and Hospital-Based Cancer Registries
+(HBCRs) operating in the Philippines, whether managed by government
+agencies, local government units, or private institutions. It shall also cover all
+hospitals, cancer centers, and diagnostic facilities required to report cancer cases
+as part of the national cancer surveillance system.
+
+
+   SECTION 6. The National Cancer Registry. – The National Cancer Registry
+shall serve as the official source of national cancer incidence, survival, and
+mortality data and shall operate as a Population-Based Cancer Registry (PBCR).
+It shall be developed, maintained, and managed under the supervision of the
+Department of Health (DOH) Cancer Control Division, in coordination with the
+Philippine Cancer Center Cancer Repository Data Bank and other relevant
+stakeholders.
+
+   The National Cancer Registry shall:
+
+   a. Consolidate, integrate, and harmonize data submitted by accredited PBCRs
+      to produce national estimates of cancer incidence, prevalence, survival, and
+      mortality;
+   b. Collect and encode PBCR data using the World Health Organization–
+      International Agency for Research on Cancer (WHO–IARC) CanReg
+      software, and operate in accordance with international standards set by
+      WHO–IARC and other recognized authorities;
+   c. Ensure that PBCRs remain the independent and primary data source for
+      national cancer incidence statistics, and continue collecting and reporting
+      data even in the absence or incompleteness of HBCR data;
+   d. Guarantee data privacy and security in compliance with Republic Act No.
+      10173, otherwise known as the “Data Privacy Act of 2012”;
+   e. Produce and disseminate regular cancer statistics and reports to guide
+      national policy, research, and programs; and
+   f. Serve as the official source of cancer data for submission to international
+      bodies, including the World Health Organization (WHO) and the
+      International Agency for Research on Cancer (IARC).
+
+   The current Metro Manila Philippine PBCRs DOH-Rizal Cancer Registry and
+Philippine Cancer Society-Manila Cancer Registry contributing data to the
+WHO-IARC GLOBOCAN shall continue to be part of the National Cancer
+Registry. The newly established DOH - Davao Cancer Registry (DOH-DCR) and
+the DOH - Cebu Cancer Registry (DOH-CCR) shall likewise continue to be part
+of the National Cancer Registry, representing Mindanao and Visayas,
+respectively. An additional Central Luzon PBCR shall be developed representing
+Luzon. The active registrars of the DOH-RCR, PCS-MCR, DOH-DCR, and
+DOH-CCR shall be recognized as the pioneer cancer registrars of the National
+Cancer Registry.
+
+
+   Hospital-Based Cancer Registries shall not be required for the validation or
+continuation of PBCR operations. PBCRs shall operate and report independently
+to ensure complete and representative population-level cancer data.
+
+
+   SECTION 7. Establishment and Accreditation of PBCRs. – The Department
+of Health shall ensure that accredited Population-Based Cancer Registries
+(PBCRs) are strategically located to ensure equitable, regional, and population-
+level representation across the country. The expansion of PBCRs shall be
+progressive and guided by technical readiness, coverage needs, and data quality
+standards.
+
+
+   Each PBCR shall cover a defined geographic area and population, following
+standardized protocols for data collection, coding, validation, and reporting.
+PBCRs shall be accredited by the Department of Health based on criteria set in
+accordance with international standards. The Department of Health shall provide
+technical, financial, and capacity-building support to all accredited PBCRs.
+PBCRs may be managed by government institutions, academic partners, or
+independent organizations with proven capacity and integrity, subject to DOH
+oversight.
+
+
+   SECTION 8. Establishment of HBCRs. – All government and private
+hospitals with cancer diagnostic or treatment services shall establish and maintain
+Hospital-Based Cancer Registries (HBCRs). These registries shall collect data on
+all cancer patients diagnosed and/or treated within their facilities to support
+quality assurance, service planning, and hospital-based research.
+
+
+   Hospitals shall designate trained and certified Cancer Registrars, and allocate
+adequate resources for registry operations. Hospitals under the Department of
+Health (DOH) and other national government agencies shall include cancer
+registry positions in their staffing patterns, consistent with the standards
+prescribed by the DOH and Civil Service Commission (CSC).
+
+
+   The Philippine Cancer Center shall issue guidelines for the minimum
+requirements, formats, and timelines for HBCR implementation, as well as
+procedures for data submission, quality assurance, and integration with national
+systems. Hospitals shall maintain or choose their own digital medical records
+formats, from where the HBCR can be culled from. The HBCR shall be a hospital
+data source of the PBCR.
+
+
+   SECTION 9. Cancer Registrar Certification and Staffing. – The Department
+of Health, in collaboration with relevant professional societies, academic
+institutions, and the Technical Education and Skills Development Authority
+(TESDA), shall develop and implement a national training and certification
+program for Cancer Registrars. This program shall include core competencies in
+cancer data abstraction, registry software use, international coding standards, data
+security, and ethical reporting, in line with global standards such as those set by
+the International Agency for Research on Cancer (IARC).
+
+
+   TESDA shall be authorized to:
+
+
+   a. Develop a dedicated national qualifications framework (NQF) level or
+      certificate program for Cancer Registrars;
+   b. Accredit training institutions and trainers to deliver modular or full-course
+      instruction;
+   c. Conduct national assessments and issue certificates of competency, in
+      partnership with the Department of Health and relevant training partners.
+
+
+   DOH hospitals, public tertiary and regional hospitals, cancer centers, and
+PBCR host institutions shall include Cancer Registrar positions in their
+organizational structure and staffing patterns, subject to Civil Service
+Commission (CSC) rules and classification standards.
+
+
+   The Department of Budget and Management (DBM) and the Civil Service
+Commission (CSC) shall ensure the timely creation and funding of plantilla items
+for certified Cancer Registrars to professionalize the workforce and ensure
+sustainability of cancer registration efforts.
+
+
+   SECTION 10. Data Sharing, Privacy, and Security. – Cancer registries shall
+implement secure and ethical data collection, storage, and sharing practices in
+accordance with Republic Act No. 10173 or the Data Privacy Act of 2012.
+
+
+To support comprehensive and accurate population-level cancer surveillance:
+
+
+   a. All hospitals, both public and private, shall cooperate with Population-
+      Based Cancer Registries (PBCRs) in the collection of essential cancer data.
+      This includes sharing patient records, diagnostic details, and follow-up
+      outcomes necessary for PBCR completeness, as authorized under existing
+      health regulations and data-sharing protocols.
+   b. The Philippine Statistics Authority (PSA) shall provide access to mortality
+      data and civil registry records to the DOH and accredited PBCRs for the
+      purposes of verifying patient vital status, generating survival statistics, and
+      improving cancer mortality reporting.
+
+
+The DOH shall also re-establish and establish protocols for:
+
+
+   a. Secure data transmission and storage platforms for all cancer registries;
+   b. Interoperability    between PBCRs,         HBCRs,   the Philippine Health
+      Information Exchange (PHIE), and national registries such as PSA and
+      PhilHealth;
+   c. De-identified and anonymized data use for research and public health
+      purposes; and
+   d. Institutional review procedures for research and publication involving
+      registry data.
+   SECTION 11. Funding and Sustainability. – The amount necessary for the
+initial implementation of this Act shall be charged against the current
+appropriations of the Department of Health. Thereafter, such sums as may be
+necessary for its continued implementation shall be included in the annual
+General Appropriations Act (GAA).
+
+
+The Department of Health shall:
+
+
+   a. Provide annual grants to accredited PBCRs and qualified institutions for
+      operations, training, equipment, digitalization, and staffing;
+   b. Explore and implement mechanisms for public-private partnerships,
+      external funding, and international technical cooperation;
+   c. Issue sustainability and transition plans for registry host institutions.
+
+
+   SECTION 12. Oversight and Monitoring. – An oversight mechanism for the
+PBCR shall be established under the DOH-Cancer Control Division to:
+
+
+   a. Monitor the implementation of this Act’s provision on PBCR;
+   b. Review PBCR performance annually;
+   c. Coordinate and collaborate with the Cancer Repository Databank under the
+      Philippine Cancer Center;
+   d. Recommend improvements in standards, training, and operations;
+   e. Submit annual reports to the Secretary of Health and the Committee on
+      Health of both Houses of Congress.
+
+
+   An oversight mechanism for the HBCR shall be established under the
+Philippine Cancer Center to:
+   a. Monitor the implementation of this Act’s provision on HBCR;
+   b. Review HBCR performance annually;
+   c. Coordinate and collaborate with the PBCRs under the DOH-Cancer
+      Control Division;
+   d. Recommend improvements in standards, training, and operations;
+   e. Submit annual reports jointly with the DOH-Cancer Control Division to
+      the Secretary of Health and the Committee on Health of both Houses of
+      Congress.
+
+
+   SECTION 13. Implementing Rules and Regulations. – Within ninety (90)
+days from the effectivity of this Act, the Department of Health, in consultation
+with the Philippine Cancer Center, registry experts, academic partners, and civil
+society, shall promulgate the necessary rules and regulations for the effective
+implementation of this Act.
+
+
+   SECTION 14. Separability Clause. – If any part, section, or provision of this
+Act is declared unconstitutional or invalid, the remaining parts not affected
+thereby shall remain in full force and effect.
+
+
+   SECTION 15. Repealing Clause. – All laws, decrees, executive orders, rules
+and regulations, or parts thereof inconsistent with the provisions of this Act are
+hereby repealed, amended, or modified accordingly.
+
+
+   SECTION 16. Sunset Review. – A comprehensive review of the
+implementation of this Act shall be conducted every five (5) years from its
+effectivity by the Department of Health and relevant stakeholders. The findings
+shall guide necessary amendments and policy directions to improve cancer data
+systems in the country.
+   SECTION 17. Effectivity. – This Act shall take effect fifteen (15) days after
+its complete publication in the Official Gazette or in a newspaper of general
+circulation.
+
+
+
+
+   Approved,
+

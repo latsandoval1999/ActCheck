@@ -107,7 +107,8 @@
    "12081": "2026-11-26T02:31:05+00:00",
    "12082": "2026-11-26T02:31:10+00:00",
    "12083": "2026-11-26T02:31:14+00:00",
-   "12084": "2026-11-26T02:31:19+00:00"
+   "12084": "2026-11-26T02:31:19+00:00",
+   "12054": "2026-11-27T02:19:48+00:00"
   },
   "SB": {
    "1842": "2026-11-08T06:02:07+00:00",
@@ -533,11 +534,34 @@
    "catch_up_added": 144,
    "catch_up_remaining": 3284,
    "pilot_scope": 4
+  },
+  {
+   "time": "2026-11-27T02:14:03+00:00",
+   "checked": {
+    "HB": [
+     11535,
+     12444
+    ]
+   },
+   "errors": {
+    "SB": "source unavailable (HTTPError: HTTP Error 403: Forbidden): check failed, NOT the same as 'no new bills'"
+   },
+   "found": 0,
+   "notes": [
+    "House: 108 numbers checked; highest published so far HB 12043; numbers above it are not yet on the House documents server"
+   ],
+   "catch_up_added": 146,
+   "catch_up_remaining": 3134,
+   "pilot_scope": 0
   }
  ],
  "backfill": {
-  "next": 8026,
+  "next": 7876,
   "absent": [
+   7915,
+   7920,
+   7979,
+   7980,
    8037,
    8038,
    8042,

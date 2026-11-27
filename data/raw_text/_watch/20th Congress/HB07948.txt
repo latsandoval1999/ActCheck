@@ -1,0 +1,421 @@
+                              Republic of the Philippines
+                        House of Representatives
+                              Quezon City, Metro Manila                February 23, 2026
+                                                                          1:43 pm
+                              Twentieth Congress
+                              First Regular Session
+
+                                           7948
+                           HOUSE BILL NO. ______
+
+
+ Introduced by Representatives Ferdinand Martin G. Romualdez, Yedda
+ Marie K. Romualdez, Andrew Julian K. Romualdez, and Jude A. Acidre
+
+
+                        AN ACT
+INSTITUTIONALIZING    THE     NATIONAL    INTEGRATED
+CLEARANCE SYSTEM, AS A CENTRALIZED DIGITAL FACILITY
+FOR THE PUBLIC TO REQUEST AND SECURE CLEARANCES FROM
+NATIONAL GOVERNMENT AGENCIES AND LOCAL GOVERNMENT
+UNITS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER
+PURPOSES
+
+                           EXPLANATORY NOTE
+
+       The process of securing government clearances in the Philippines remains
+fragmented, repetitive, and burdensome for citizens. Job applicants, overseas
+Filipino workers, and other members of the transacting public are commonly
+required to present multiple government-issued IDs and secure separate
+clearances from the National Bureau of Investigation (NBI), the Philippine
+National Police (PNP), and their barangay of residence, among others.
+
+       Each clearance-issuing agency maintains its own portal, procedures, and
+fees, often requiring applicants to appear in person for photo or biometric capture.
+Some institutions even demand additional clearances from the Sandiganbayan,
+the Judiciary, or the Office of the Ombudsman. This lack of coordination among
+agencies reflects the fragmented and non-interoperable nature of government
+systems, which burdens the public and delays the delivery of credible and timely
+information to law enforcement and judicial institutions.
+         Moreover, the absence of a unified and authoritative source of clearance
+  data results in redundant information storage and inconsistent verification
+  standards. This fragmentation undermines data protection and erodes public trust,
+  as sensitive personal information is dispersed across multiple databases without
+  harmonized security protocols. Further, the financial cost of obtaining clearances,
+  which is estimated at over 32% of an average household’s daily income,
+  excluding transportation and opportunity costs, adds an unnecessary burden,
+  particularly for low-income earners and those residing far from urban centers.
+
+         While the government has taken significant steps toward digitalization
+  through initiatives such as the eGov PH app of the Department of Information
+  and Communications Technology (DICT), and the eLGU and eBOSS programs
+  of the Anti-Red Tape Authority (ARTA), most systems remain siloed and
+  incompatible. These efforts highlight the progress made but also underscore the
+  need for a unified, interoperable platform to streamline clearance issuance and
+  verification.
+
+         To ease the transactions of the country’s workforce with national and local
+  clearance-issuing agencies, an enabling law to build and sustain a service
+  platform that extends the usability and spurs the adoption of the National ID,
+  among others, and consolidates all clearance-related transactions into a highly
+  available and federated service, securely accessible to every citizen or permanent
+  resident, regardless of their location, is paramount.
+
+         To these effects, the National Integrated Clearance System or NICS, shall
+  provide a single window system for clearances that shall be accessible to
+  individual applicants, employers, government agencies, and other authorized
+  institutions at all times. It will harmonize government policies and streamline
+  procedures on the issuance of regulatory, judiciary, or law enforcement
+  clearances, thus, providing a persistent service that is available and accessible to
+  individuals and permissioned institutions.
+
+        This measure was also filed during the 19th Congress.
+
+        In view of the foregoing, the passage of this bill is earnestly sought.
+
+
+
+
+FERDINAND MARTIN G. ROMUALDEZ                     YEDDA MARIE K. ROMUALDEZ
+                                                                                     2
+ANDREW JULIAN K. ROMUALDEZ   JUDE A. ACIDRE
+
+
+
+
+                                              3
+                              Republic of the Philippines
+                         House of Representatives
+                              Quezon City, Metro Manila
+
+                              Twentieth Congress
+                              First Regular Session
+
+                                           7948
+                           HOUSE BILL NO. ______
+
+
+ Introduced by Representatives Ferdinand Martin G. Romualdez, Yedda
+ Marie K. Romualdez, Andrew Julian K. Romualdez, and Jude A. Acidre
+
+
+                        AN ACT
+INSTITUTIONALIZING    THE     NATIONAL    INTEGRATED
+CLEARANCE SYSTEM, AS A CENTRALIZED DIGITAL FACILITY
+FOR THE PUBLIC TO REQUEST AND SECURE CLEARANCES FROM
+NATIONAL GOVERNMENT AGENCIES AND LOCAL GOVERNMENT
+UNITS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER
+PURPOSES
+
+      Be it enacted by the Senate and House of Representatives of the Philippines
+in Congress assembled:
+
+                                   TITLE I
+                           PRELIMINARY PROVISIONS
+
+      Section 1. Short Title. – This Act shall be known as the “National
+Integrated Clearance System Act” or the “NICS Act.”
+
+
+      Section 2. Declaration of Policy. – It is hereby declared the policy of the
+State to establish a single clearance system referred to as the “National Integrated
+Clearance System,” or “NICS,” which shall provide “single window
+functionalities” centralizing all transacting public requests for clearances,
+responses, and subsequent issuances of clearance-issuing law enforcement or
+judiciary agencies of government into a cohesive, non-intrusive, secure,
+enterprise-grade, policy-based, rules-driven, and workflow-enabled system to
+safeguard propriety, privacy, and proportionate use of sensitive private
+information into a fully auditable service platform.
+
+
+      It is in the interest of the State to achieve a paperless, seamless, and
+interoperable environment as a foundation for government agencies to improve
+service efficiency, transparency, auditability, traceability, and accountability; an
+environment that enhances standards of governance and protocols to mitigate
+deficiencies that may be exploited by threat actors; a system to curtail
+bureaucratic red tape; and, a system to continually improve quality and ease in
+the conduct of business between government agencies and the public.
+
+
+      Towards this end, and specific to any public service at the national and
+local levels involving the application and issuances of clearances, commensurate
+with its intent to promote a paperless environment for processing, issuing, and
+administering clearances, a secure national integrated clearance platform shall be
+developed, implemented, and deployed, to serve as the main interface between
+the transacting public and all clearance-issuing government institutions,
+including, but not limited to, law enforcement, revenue, and judiciary institutions.
+This platform shall be accessible to users and administrators using established
+technologies that enforce strong security, encryption, and best-in-class identity
+and privacy protection protocols, to ensure that propriety, privacy, and the
+proportionate use of sensitive personal data are at all times upheld and protected.
+
+
+      Section 3. Definition of Terms. – As used in this Act, the following terms
+are defined as follows:
+
+
+
+                                                                                   2
+a) Applicant refers to the individual making a request for a clearance.
+b) Consumer refers to the representative of a government or private entity
+   requiring a clearance, authorized by the data owner, to use the
+   requested information for a legitimate purpose.
+c) Clearance refers to the digitally signed document, exclusively
+   presented in an abstracted and machine-readable-only form generated
+   by a government agency, containing pertinent and data-delimited
+   information.
+d) Distributed Ledgers refers to digital registries containing encrypted
+   copies of data stored across different locations and devices within a
+   private-permissioned blockchain network.
+e) Metadata refers to data which describes other data.
+f) Blockchain Nodes refers to devices which maintain copies of the
+   distributed ledgers.
+g) Non-repudiability refers to a description of data or information which
+   has proof of origin and authenticity that such data have not been
+   tampered.
+h) Portal refers to the online accessible system from which authorized
+   users, using established security protocols and permission levels, can
+   access authorized information.
+i) Record refers to a uniquely identifiable data set of a transaction that is
+   indexed and stored in a retrievable electronic format.
+j) Security refers to the physical and virtual protection of interconnected
+   systems, such as data, hardware, and software from internal or external
+   threats.
+k) Single Window refers to a system which allows persons and entities to
+   transact using a centralized or single access point.
+
+
+
+                                                                            3
+       l) Web Service Endpoint refers to an entity, processor or resource that can
+          be referenced and to which web service messages can be addressed.
+
+
+      Section 4. Scope. – This Act shall apply to the funding, acquisition,
+development, integration, implementation, operationalization, and continual
+future systems improvement, inclusive of technological, functional, and
+procedural improvements of the National Integrated Clearance System, to service
+all clearance-issuing national and local government agencies. Its scope shall be
+limited to the following functions:
+
+
+      (a) Serve as the single window for applicants to complete digital clearance
+         requests to any clearance-issuing agency of government, national or
+         local, determined by the type of clearance requested.
+      (b) Serve as the single window for applicant-authorized consumers of
+         clearances, government or private, to securely access data-delimited
+         clearance issuances.
+      (c) Simultaneously and digitally route all requests or application for
+         clearances submitted by applicants to concerned agency or agencies, for
+         proper dispensation, disposition, and issuance as required by the type
+         of clearance requested.
+      (d) Monitor the duration and status of all applications or requests baselined
+         against the last recorded action.
+      (e) Generate an immutable machine-readable-only reference code,
+         barcode, or quick response (QR) code that is permanently coupled to
+         the date and version of the issued clearance.
+      (f) Maintain a network of context-specific and encrypted distributed ledger
+         nodes to store non-repudiable and immutable, metadata-only, record of
+
+
+
+                                                                                  4
+         user access, submitted transactions, dispositions, issuances, and
+         references to authorized changes.
+      (g) Provide standard multi-protocol web service endpoints that shall be
+         made accessible to all authorized and permissioned consumers.
+      (h) Provide local and international airlines, public utility buses, and
+         terrestrial and marine interisland passenger vessels, as a service, a
+         standard web service endpoint facility for such, to check as a function
+         of ticketing, against any outstanding restrictions, prohibitions, or
+         warrants specifically preventing any passenger, whether a citizen, legal
+         resident, or foreign persons from boarding any public transport vehicle,
+         aircraft, or vessel.
+      (i) Establish, publish, and maintain a national authoritative data
+         interoperability standard encapsulating detailed specifications on
+         required data structures, data harmonization, information sharing, data
+         exchanges, data protection, security protocols, and privacy protection
+         protocols affecting clearances issued by national or local government
+         entities.
+      (j) Provide continual data quality management and integration services to
+         all national and local government agencies to transform and harmonize
+         all data sources into a cohesive national interoperability standard as will
+         be defined under the Implementing Rules and Regulations of this Act.
+
+
+                             TITLE II
+              NATIONAL INTEGRATED CLEARANCE SYSTEM
+
+      Section 5. Components of the National Integrated Clearance System. –
+The National Integrated Clearance System, hereinafter referred to as NICS or
+system, shall be established, implemented, governed, and managed by the
+
+
+                                                                                   5
+Philippine Statistics Authority, and shall consist of the following integral
+environments, technology components, and enabling services:
+
+
+      (a) Hardware and Software Technologies
+             i. Secure mobile and browser accessible applications
+             ii. Enterprise-grade Systems Environment
+             iii. Private Permissioned Business Blockchain and Distributed
+                    Ledger Environment
+             iv. Interoperability and Integration Environment
+             v. Application Security
+             vi. Data Security, Encryption, and Quality
+             vii.     Analytics,   Visualization   and    Business   Intelligence
+                    Environment
+             viii. Data Archival and Business Continuity
+             ix. Cybersecurity and Threat Analytics
+             x. Distributed Hybrid Compute and Storage Environment
+
+
+      (b) Services
+            i. Data Transformation and Harmonization Services
+            ii. Re-Engineering and Procedural Streamlining Services
+
+
+      (c) Integration and Interoperability
+            i. Secure Enterprise API Gateway
+            ii. Standard Web Service Endpoint Catalog
+            iii. Secure Issuer Web Service API Endpoints
+            iv. Secure Consumer Web Service API Endpoints
+
+
+
+
+                                                                                6
+      Section 6. Limitations. – The NICS shall not be used by any government
+agency, entity, or person to:
+
+
+      (1) Store any data or information in substantive form and beyond that
+          which is classified as metadata, that is generated and sourced from
+          respective government agencies. The system shall strictly capture and
+          store only transactional metadata, shall serve the purpose of aggregating
+          the requests, routing requests to the appropriate agency, and
+          consolidating the responses from issuing agencies using a system-
+          generated machine-readable-only reference code in the form of a
+          barcode or QR code. The contents or substance of each clearance shall
+          remain under the governance and control of the issuing agency and shall
+          not be stored in any of the system’s repositories.
+
+
+      (2) Disclose, collect, record, convey, disseminate, publish, or use any
+          information from the NICS, give access thereto, or give copies thereof
+          to third parties or entities, including law enforcement agencies, national
+          security agencies, or units of the Armed Forces of the Philippines
+          (AFP), beyond those allowed under the Data Privacy Act, except in the
+          following circumstances:
+             (a) When the registered person has given his or her consent, specific
+                to the purpose prior to collection and processing.
+             (b) When the compelling interest of national security and public
+                safety is at stake, relevant information may be disclosed upon
+                order of a competent court, without prejudice to the principle of
+                proportionate use as specified under the Republic Act No. 10173
+                or the Data Privacy Act of 2012 and other laws and international
+                treaties, as may be applicable.
+
+                                                                                   7
+      Section 7. National Integrated Clearance System Council. – The National
+Integrated Clearance System Council, hereinafter referred to as the Council, is
+hereby established to provide clearly defined directions, policies, and guidelines
+to ensure the effective, proportionate, and secure implementation, coordination,
+and use of the NICS.
+
+
+      The Council shall be composed of the following:
+             1. Secretary, National Economic Development Authority;
+             2. National Statistician and Civil Registrar, Philippine Statistics
+                Authority;
+             3. Undersecretary, Department of Interior and Local Government;
+             4. Undersecretary, Department of Justice;
+             5. Chairperson, Commission on Human Rights; and,
+             6. Chairman, National Privacy Commission.
+
+
+      The Secretary of the National Economic Development Authority shall be
+the Chairperson of the Council while the National Statistician and Civil Registrar
+of the Philippine Statistics Authority shall be the Vice Chairperson.
+
+
+      Section 8. Role of the Philippine Statistics Authority (PSA). – The
+Philippine Statistics Authority, together with the Council, shall carry out the
+implementation of this Act in such manner that the operations of relevant
+government agencies shall not be impeded in order not to unduly delay delivery
+of public service: Provided, that the PSA shall create a transition plan, which shall
+include pilot implementation, to gradually interface with all existing government
+digital clearance systems. The transition plan shall set up the timelines and
+deliverables and shall be crafted in coordination with agencies concerned and the
+
+                                                                                    8
+Department of Information and Communications Technology (DICT), based on
+the guidelines issued by the Council and subject to the provisions of the Data
+Privacy Act of 2012 and other applicable laws and regulations.
+
+
+      Section 9. Interoperability and Harmonization. – Government agencies
+identified by the Council in the implementing rules and regulations issued
+pursuant to this Act shall work with the PSA to streamline and harmonize
+interagency procedures and to integrate, connect, or establish automated digital
+communications between the NICS and their respective digital systems:
+Provided, That the government agencies have already established an acceptable
+level of accuracy of their records.
+
+
+      The Council, together with the PSA, shall regularly update the list of
+government agencies which shall integrate with, connect to, or establish digital
+communications with the NICS and shall regularly check the level of accuracy of
+their records.
+
+
+                                        TITLE III
+                                    FINAL PROVISIONS
+
+      Section 10. Administrative, Criminal or Civil Liability. – Violation of any
+provision of this Act and falsification of records by any person, natural or
+juridical, shall subject the person involved to administrative, criminal, or civil
+liability, under applicable laws.
+
+
+      Section 11. Presidential and Congressional Oversight. – For the effective
+implementation of this Act, there shall be a Congressional Oversight Committee,
+hereinafter referred to as the NICS Oversight Committee, which shall include two
+(2) members from the Senate and twenty (20) members from the House of
+                                                                                 9
+Representatives. The PSA, in coordination with the Council, shall submit an
+annual report to the NICS Oversight Committee and the President of the
+Philippines not later than the first quarter of each year.
+
+
+      Section 12. Appropriations and Funding. – The amount necessary for the
+effective implementation of the provisions of this Act shall be taken from the
+current year's appropriation of the Philippine Statistics Authority. Thereafter,
+such amount as may be needed for the continued implementation of this Act shall
+be included in the annual General Appropriations Act.
+
+
+      Section 13. Implementing Rules and Regulations. – Within one-hundred
+eighty (180) days from the effectivity of this Act, the PSA, shall promulgate, with
+the approval of the Council, the rules, and regulations to effectively implement
+the provisions of this Act.
+
+
+      Section 14. Separability Clause. – If any provision of this Act shall be held
+unconstitutional or invalid, all other provisions not affected thereby shall in full
+force and effect.
+
+
+      Section 15. Effectivity Clause. – This Act shall take effect fifteen (15) days
+after its publication in the Official Gazette or in a newspaper of general
+circulation.
+
+
+      Approved,
+
+
+
+
+                                                                                  10
+

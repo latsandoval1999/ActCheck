@@ -1,0 +1,280 @@
+                             Republic of the Philippines
+                      HOUSE OF REPRESENTATIVES
+                             Quezon City, Metro Manila                         February 23, 2026
+                                                                                  1:25 pm
+                              TWENTIETH CONGRESS
+                               First Regular Session
+
+                                              7922
+                            HOUSE BILL NO. _____________
+
+Introduced by:
+             HON. CHRISTOPHERSON “COCO” M. YAP
+
+                               EXPLANATORY NOTE
+
+Reliable and affordable internet is no longer a luxury, it is a basic need for learning,
+work, business, healthcare, and everyday participation in society. Yet many
+Filipinos still suffer from slow speeds, dropped connections, and unclear or
+misleading service promises. This hurts productivity, deepens the digital divide,
+and holds back national growth. People deserve to know what they are paying for
+and to receive internet service that actually works.
+
+This bill addresses these problems by setting clear minimum standards for
+internet quality, using one fair and nationwide way to measure performance, and
+making results public in a form people can easily understand. It strengthens
+consumer rights by requiring truthful service claims, better customer support, and
+clear remedies when providers repeatedly fail to deliver. At the same time, it
+ensures fairness by giving service providers due process before any penalties are
+imposed.
+
+By making internet performance measurable, transparent, and enforceable, this
+measure promotes accountability and healthy competition based on service
+quality, not just advertising. It also supports the expansion of internet services to
+unserved and underserved areas through reasonable and time-bound rules.
+Simply put, this bill helps ensure that Filipinos get the internet service they pay for
+and need to fully participate in a modern digital economy.
+
+In view of the foregoing, ug sa ngalan sa SERBISYONG TINUORAY, the
+undersigned respectfully requests the immediate passage of this measure.
+
+
+
+                                    CHRISTOPHERSON “COCO” M. YAP
+                              Representative, Second District of Southern Leyte
+
+                                                                            1|Page
+                           Republic of the Philippines
+                    HOUSE OF REPRESENTATIVES
+                           Quezon City, Metro Manila
+
+                            TWENTIETH CONGRESS
+                             First Regular Session
+
+
+                                            7922
+                          HOUSE BILL NO. _____________
+
+Introduced by:
+            HON. CHRISTOPHERSON “COCO” M. YAP
+
+                          AN ACT
+ESTABLISHING   MINIMUM   QUALITY OF  SERVICE  STANDARDS,
+MEASUREMENT, TRANSPARENCY, AND END-USER PROTECTIONS FOR
+INTERNET ACCESS SERVICES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in
+Congress assembled:
+
+SECTION 1. Short Title. — This Act shall be known as the “Internet Service Quality
+Standards Act.”
+
+SECTION 2. Declaration of Policy. — The State recognizes the vital role of
+communication and information in nation building and shall promote consumer
+welfare by ensuring the quality, reliability, security, and interoperability of
+telecommunications facilities and services. The State shall adopt measurable and
+transparent quality of service standards for internet access services, ensure
+regular monitoring and publication of service performance, and provide effective
+redress for end users, consistent with due process and fair competition.
+
+SECTION 3. De inition of Terms. — For purposes of this Act, the following terms
+are de ined:
+
+   (a) “Internet Access Service” refers to a service that provides end users the
+       capability to transmit and receive data to and from the internet.
+
+   (b) “Internet Service Provider (ISP)” refers to any entity authorized by the
+       National Telecommunications Commission (NTC), whether as a public
+       telecommunications entity or as a registered value-added service provider,
+
+                                                                      2|Page
+     to offer Internet Access Service to the public for a fee, subject to applicable
+     laws on franchises, certi icates, and authorizations.
+
+  (c) “Public Telecommunications Entity (PTE)” refers to any person, irm,
+      partnership, corporation, government or private, engaged in the provision
+      of telecommunications services to the public for a fee.
+
+  (d) “Advertised Speed” refers to the download and upload speeds marketed
+      or represented to end users in offers, service plans, or contracts.
+
+  (e) “Download Speed” refers to the rate at which data is transferred from the
+      network to the end user, expressed in bits per second.
+
+  (f) “Upload Speed” refers to the rate at which data is transferred from the end
+      user to the network, expressed in bits per second.
+
+  (g) “Latency” refers to the time it takes for a data packet to travel from source
+      to destination, expressed in milliseconds.
+
+  (h) “Jitter” refers to the variation in latency within the same data low.
+
+  (i) “Packet Loss” refers to the percentage of packets that fail to reach the
+      destination.
+
+  (j) “Service Availability” or “Uptime” refers to the percentage of time the
+      service is available to the end user, net of outages attributable to the ISP,
+      measured using the methodology prescribed by the NTC.
+
+  (k) “Unserved and Underserved Areas” refer to areas identi ied by the
+      Department of Information and Communications Technology (DICT) based
+      on nationally accepted ICT/broadband coverage indicators and mapping.
+
+SECTION 4. Minimum Quality of Service (QoS) Standards; Truthful
+Marketing. —
+
+  (a) NTC Standards. — Within six (6) months from the effectivity of this Act, the
+      NTC, in coordination with the DICT and after public consultation, shall
+      prescribe minimum QoS standards for Internet Access Service, which shall
+      include, at a minimum:
+      (i)    download speed;
+      (ii)   upload speed;
+      (iii) latency;
+      (iv) jitter;
+
+                                                                        3|Page
+      (v)     packet loss; and
+      (vi)    service availability.
+
+   (b) Consistency with International and Regional Benchmarks. — The QoS
+       standards shall, at a minimum, be aligned with international best practices
+       and relevant regional network performance indices, and shall be reviewed
+       at least annually. New or updated standards shall take effect at least thirty
+       (30) days after publication.
+
+   (c) Truthful Advertising and Plan Disclosure. — ISPs and PTEs shall not
+       advertise or offer speeds or performance claims that they cannot
+       reasonably and consistently deliver based on network capability and
+       capacity planning. The NTC shall prescribe standard disclosure
+       requirements, including typical performance ranges and material
+       limitations (e.g., time-of-day congestion, data caps, and fair use policies),
+       consistent with consumer protection.
+
+   (d) Initial Minimum Service Levels. — Pending the issuance of the detailed QoS
+       standards under subsection (a) the NTC shall, within six (6) months,
+       prescribe interim minimum service levels for download speed and service
+       availability by area classi ication, taking into account feasibility,
+       affordability, and consumer welfare. Thereafter, the NTC may adjust these
+       minimum service levels pursuant to subsection (b) but shall not lower
+       consumer protection below the interim levels without clear and published
+       justi ication based on substantial evidence.
+
+   (e) Special Treatment for Unserved and Underserved Areas. — To encourage
+       expansion, the NTC may adopt phased compliance, time-bound incentives,
+       or calibrated minimum standards for newly served unserved or
+       underserved areas, as identi ied by the DICT, provided that:
+
+      (i)     the terms are transparent;
+      (ii)    end users are clearly informed; and
+      (iii)   basic consumer remedies under this Act apply.
+
+SECTION 5. Measurement, Monitoring, and Publication. —
+
+   (a) Measurement Methodology. — Within six (6) months from the effectivity
+       of this Act, the NTC, in coordination with the DICT, shall adopt and publish
+       a national methodology for measuring QoS parameters, including rules on:
+       sampling, test frequency, test locations, peak/off-peak de initions,
+       treatment of outages, and data integrity.
+
+
+                                                                        4|Page
+   (b) Public Reporting. — The NTC shall monitor and measure ISP/PTE
+       performance on at least a quarterly basis and publish the results on its
+       website in a consumer-readable format and an open-data format, subject
+       to reasonable safeguards for security-sensitive information.
+
+   (c) Independent Monitoring. — The NTC may engage an independent third-
+       party monitoring irm, subject to applicable procurement rules, to assist in
+       performance monitoring.
+
+   (d) Consumer Diagnostic Tool. — The NTC shall require the availability of a
+       secure, consumer-friendly mechanism for end users to run broadband
+       diagnostics and to submit results as part of a complaint, subject to privacy
+       and data protection laws.
+
+   (e) Data Sharing with DICT. — The NTC shall furnish DICT with the raw or
+       suf iciently granular performance datasets necessary for national planning
+       and identi ication of unserved/underserved areas, subject to reasonable
+       con identiality and cybersecurity safeguards.
+
+SECTION 6. Responsibilities of the DICT. — The DICT shall:
+
+   (a) Maintain and periodically update a national broadband and ICT assets
+       index and/or mapping system, and publish summaries suf icient to guide
+       public policy and investment;
+
+   (b) Identify and publish the list of unserved and underserved areas for
+       purposes of this Act, and update the same at least annually; and
+
+   (c) Coordinate with the NTC on standards-setting and on policy measures that
+       improve broadband deployment and consumer protection.
+
+SECTION 7. End-User Rights and Minimum Service Standards in Customer
+Care. — Every end user shall have the right:
+
+   (a) To non-discriminatory internet access service consistent with the
+       minimum QoS standards set by the NTC;
+
+   (b) To clear and accurate disclosures of advertised speed, typical performance,
+       pricing, lock-in period, data caps, and material service limitations;
+
+   (c) To timely correction of billing or prepaid load errors and, where warranted,
+       prompt rebates or refunds consistent with NTC rules;
+
+
+                                                                       5|Page
+   (d) To accessible complaints handling channels, including in-person, call, SMS,
+       and online channels; and to a written or electronic reference number and
+       status updates; and
+
+   (e) To terminate service without pre-termination fees, and to receive
+       proportionate refunds of unconsumed prepaid or advance payments, when
+       the ISP/PTE is found by the NTC (or admitted by the provider in a manner
+       prescribed by NTC rules) to have materially and repeatedly failed to meet
+       minimum QoS standards, subject to fair procedures.
+
+SECTION 8. Compliance Orders and Penalties; Due Process. —
+
+   (a) Recti ication/Compliance Orders. — The NTC may, motu proprio or upon
+       complaint, require an ISP/PTE to rectify non-compliance with QoS
+       standards within a reasonable period set by the NTC, considering the
+       nature and severity of the violation, and may require submission of a
+       corrective action plan;
+
+   (b) Administrative Penalties. — After due notice and hearing, and upon
+       substantial evidence, the NTC may impose administrative penalties for
+       violations of this Act, its IRR, and NTC QoS standards, including ines and
+       other regulatory sanctions within the bounds of existing law and the
+       ISP/PTE’s authorization;
+
+   (c) Graduated Enforcement. — The NTC shall provide in the IRR a graduated
+       penalty framework that considers: (i) severity; (ii) duration; (iii) number
+       of affected subscribers; (iv) repeat offenses; (v) good-faith compliance
+       efforts; and (vi) whether the violation occurred in unserved/underserved
+       rollout phases;
+
+SECTION 9. Implementing Rules and Regulations. — Within sixty (60) days
+from the effectivity of this Act, the NTC, in coordination with the DICT and after
+public consultation, shall promulgate the implementing rules and regulations
+(IRR) necessary for the effective implementation of this Act.
+
+SECTION 10. Separability Clause. — If any provision of this Act is declared
+unconstitutional or invalid, the other provisions not affected shall remain in full
+force and effect.
+
+SECTION 11. Repealing Clause. — All laws, decrees, orders, issuances or portions
+thereof, which are inconsistent with the provisions of this Act are hereby repealed
+or modi ied accordingly.
+
+
+                                                                       6|Page
+SECTION 13. Effectivity. — This Act shall take effect ifteen (15) days after its
+publication in the Of icial Gazette or in a newspaper of general circulation.
+
+Approved,
+
+
+
+
+                                                                     7|Page
+

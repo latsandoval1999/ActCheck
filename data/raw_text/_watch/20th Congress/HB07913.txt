@@ -1,0 +1,468 @@
+                             Republic of the Philippines
+                           HOUSE OF REPRESENTATIVES                              February 23, 2026
+                             Quezon City, Metro Manila
+                                                                                    10:44 am
+
+                            TWENTIETH (20th) CONGRESS
+                             FIRST REGULAR SESSION
+
+                                                   7913
+                                    House Bill No. ____
+
+
+                                     Introduced by
+                                  Rep. ROBERT NAZAL
+
+
+                               AN ACT
+        ESTABLISHING AN OPEN DATA AND RESPONSIBLE ARTIFICIAL
+             INTELLIGENCE FOUNDATION FOR GOVERNMENT,
+           PROMOTING INVESTMENT IN OPEN DATA PLATFORMS,
+          ADOPTING ETHICAL AND RESPONSIBLE AI GUIDELINES,
+             DELIVERING CITIZEN-CENTRIC AI SERVICES, AND
+                MANDATING PERIODIC PUBLIC REPORTING
+
+                                 EXPLANATORY NOTE
+
+Digital technologies, particularly artificial intelligence (AI), are rapidly transforming the
+way governments deliver public services, make policy decisions, and interact with
+citizens. When responsibly designed and governed, AI systems can significantly
+enhance efficiency, transparency, and accessibility in government. However, without
+clear standards, adequate safeguards, and public oversight, the use of AI may also
+amplify bias, undermine due process, compromise privacy, and erode public trust.
+
+Responsible use of AI in government must begin with reliable and accessible data.
+Open data platforms enable evidence-based policymaking and promote innovation
+across sectors.1 More importantly, open data helps ensure that AI systems used by
+the State can be reviewed, understood, and evaluated.
+
+At present, the government’s use of data and emerging AI tools varies widely across
+agencies and is not guided by a single ethical framework. Although current laws
+address data privacy and cybersecurity, they do not fully account for the distinct risks
+that come with automated decision-making, especially in situations that affect access
+to public services, social benefits, or the exercise of legal rights.
+
+Industry assessments show that while artificial intelligence is gaining traction across
+various sectors in the Philippines, the country’s overall readiness and policy
+
+
+1    OECD Comparative Study, Rebooting Public Service Delivery: How Can Open Government Data
+     Help             to           Drive          Innovation?,             available         at:
+     https://www.oecd.org/content/dam/oecd/en/publications/reports/2016/02/rebooting-public-
+     service-delivery-how-can-open-government-data-help-to-drive-innovation_360949e3/2eafc096-
+     en.pdf (last accessed 18 February 2026)
+coordination are still developing,2 underscoring the need for a clear and unified
+framework to ensure its responsible use in government and in society.
+
+This proposed measure seeks to respond to these gaps by establishing an Open Data
+and Responsible AI Foundation for Government. It pursues three main objectives: first,
+sustained investment in shared and open data platforms; second, the adoption of clear
+ethical guidelines for the development and use of AI, anchored on human rights,
+transparency, and accountability; and third, the rollout of citizen-centered AI services
+that promote inclusion, improve access to government programs, and ensure
+meaningful human oversight.
+
+Central to this measure is the principle that AI in government should assist, not
+replace, human judgment, particularly in decisions that carry serious consequences
+or affect individual rights. For this reason, the bill requires agencies to conduct and
+document ethical and risk assessments before any AI system is deployed. It also
+ensures that individuals have access to human review, as well as clear avenues for
+appeal or correction. In addition, the measure mandates regular public reporting so
+that citizens are informed about how AI systems are being used, what data supports
+them, and what safeguards are in place to address potential risks.
+
+By requiring regular transparency reports, public consultations, and independent
+oversight, this measure strengthens accountability and helps build public trust in the
+government’s use of digital technologies. It likewise invests in the training and skills
+development of government personnel, recognizing that responsible adoption of
+technology depends not only on systems and software, but also on capable institutions
+and well-prepared public servants.
+
+Ultimately, this bill affirms that technological progress must be matched by ethical
+responsibility. By investing in open data, setting clear rules for AI governance, and
+centering citizens in digital public services, the State can harness innovation while
+protecting rights, promoting fairness, and ensuring that AI serves the common good.
+
+In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+
+
+
+                                                         Rep. ROBERT NAZAL
+                                                      Bagong Henerasyon Party-List
+
+
+
+
+2    The      State    of Artificial    Intelligence      in      the    Philippines,     available     at:
+     https://www.yondu.com/articles/the-state-of-artificial-intelligence-in-the-philippines (last accessed
+     18 February 2026)
+                             Republic of the Philippines
+                           HOUSE OF REPRESENTATIVES
+                             Quezon City, Metro Manila
+
+                           TWENTIETH (20th) CONGRESS
+                            FIRST REGULAR SESSION
+
+                                 House Bill No. 7913
+                                                ____
+
+
+                                  Introduced by
+                               Rep. ROBERT NAZAL
+
+
+                               AN ACT
+        ESTABLISHING AN OPEN DATA AND RESPONSIBLE ARTIFICIAL
+             INTELLIGENCE FOUNDATION FOR GOVERNMENT,
+           PROMOTING INVESTMENT IN OPEN DATA PLATFORMS,
+          ADOPTING ETHICAL AND RESPONSIBLE AI GUIDELINES,
+             DELIVERING CITIZEN-CENTRIC AI SERVICES, AND
+                MANDATING PERIODIC PUBLIC REPORTING
+
+
+Be it enacted by the Senate and House of Representatives of the Philippines in
+Congress assembled:
+
+SECTION 1. SHORT TITLE.
+
+This Act shall be known as the “Open Data and Responsible AI Foundation Act.”
+
+
+SECTION 2. DECLARATION OF POLICY.
+
+It is hereby declared the policy of the State to promote transparency, accountability,
+and public trust by ensuring access to reliable and high-quality government data; to
+use artificial intelligence to improve the delivery of public services while protecting
+fundamental rights and democratic values; to require that AI systems in government
+are developed and used in an ethical and citizen-focused manner; to invest in secure
+and sustainable open data platforms; and to strengthen public oversight through
+regular reporting, citizen participation, and independent review.
+
+
+SECTION 3. SCOPE AND COVERAGE.
+
+This Act shall apply to:
+
+A.   All national government agencies;
+
+B.   Government-owned or controlled corporations (GOCCs);
+C.   Constitutional commissions;
+
+D.   State universities and colleges (SUCs);
+
+E.   Local government units (LGUs), to the extent practicable and consistent with
+     local autonomy; and
+
+F.   Private entities contracting with government for the development, deployment, or
+     maintenance of AI systems.
+
+
+SECTION 4. DEFINITION OF TERMS.
+
+The following definitions apply to the terms used in this Act:
+
+a)   Artificial Intelligence (AI) refers to machine-based systems that, for a given set
+     of objectives, can make predictions, recommendations, classifications, or
+     decisions influencing real or virtual environments.
+
+b)   Open Data refers to government data that is publicly available, machine-
+     readable, non-proprietary, and reusable, subject to lawful restrictions relating to
+     privacy, national security, and confidentiality.
+
+c)   Responsible AI refers to the design, development, deployment, and use of AI
+     systems that are ethical, lawful, transparent, accountable, inclusive, and aligned
+     with human rights and democratic principles.
+
+d)   High-Risk AI Systems refer to AI applications that may significantly affect
+     individual rights, access to public services, eligibility for public benefits, law
+     enforcement outcomes, employment, education, or legal determinations.
+
+e)   AI Impact Assessment refers to a documented evaluation of potential risks,
+     biases, legal implications, and societal impacts prior to the deployment of an AI
+     system.
+
+f)   Prohibited AI Practices refer to AI systems that intentionally manipulate
+     vulnerable individuals, enable unlawful discrimination, or operate without legally
+     required oversight.
+
+
+SECTION 5. CREATION OF THE NATIONAL OPEN DATA AND RESPONSIBLE AI
+COUNCIL.
+
+There is hereby created a National Open Data and Responsible AI Council, hereinafter
+referred to as the “Council,” with the following functions:
+
+A.   Formulate and update national AI governance standards;
+
+B.   Establish a mandatory risk classification system;
+C.   Maintain a National AI System Registry;
+
+D.   Issue templates for AI Impact Assessments;
+
+E.   Conduct compliance monitoring and investigations;
+
+F.   Recommend sanctions for violations;
+
+G.   Submit an annual consolidated report to Congress.
+
+The Council shall be chaired by the Department of Information and Communications
+Technology (DICT), with representation from:
+
+1.   National Privacy Commission
+
+2.   Department of Justice
+
+3.   National Economic and Development Authority
+
+4.   Civil Service Commission
+
+5.   Commission on Audit
+
+6.   Academe and civil society representatives
+
+
+The National Privacy Commission shall serve as Secretariat.
+
+
+SECTION 6. NATIONAL AI SYSTEM REGISTRY.
+
+All government agencies deploying AI systems shall register such systems with the
+Council prior to operational deployment.
+
+The Registry shall include the following:
+
+A.   System name and function
+
+B.   Risk classification
+
+C.   Data sources
+
+D.   Responsible agency officer
+
+E.   Date of impact assessment
+
+F.   Summary of safeguards
+
+The Registry shall be publicly accessible, except for information restricted by national
+security or lawful confidentiality grounds.
+SECTION 7. MANDATORY AI IMPACT ASSESSMENT (AIIA).
+
+Prior to deployment of any Moderate or High-Risk AI system, agencies shall conduct
+an AI Impact Assessment evaluating the following parameters:
+
+A.   Potential bias and discrimination risks;
+
+B.   Data accuracy and integrity;
+
+C.   Privacy implications;
+
+D.   Legal and constitutional implications;
+
+E.   Impact on marginalized sectors;
+
+F.   Mechanisms for appeal and correction;
+
+G.   Human oversight protocols.
+
+High-Risk AI systems shall undergo independent third-party review prior to full
+deployment.
+
+
+SECTION 8. PROHIBITED AI PRACTICES.
+
+The following uses of AI in government are prohibited:
+
+a)   Systems that intentionally exploit vulnerable populations;
+
+b)   Fully automated systems making final decisions affecting constitutional rights
+     without human review;
+
+c)   AI systems proven to produce systemic discrimination without mitigation
+     measures; and
+
+d)   Deployment of High-Risk AI without prior impact assessment.
+
+
+SECTION 9. ESTABLISHMENT OF THE OPEN DATA AND RESPONSIBLE AI
+FOUNDATION FOR GOVERNMENT.
+
+There is hereby established a national policy framework, to be known as the Open
+Data and Responsible AI Foundation, to guide all government agencies in the use of
+open data and AI technologies, anchored on three (3) pillars: open data infrastructure
+and investment, ethical and responsible AI governance, and citizen-centric AI service
+delivery.
+
+All national government agencies, government-owned or controlled corporations, and
+local government units shall align their digital transformation programs with this
+framework.
+SECTION 10. OPEN DATA INFRASTRUCTURE AND INVESTMENT.
+
+All government agencies shall:
+
+a)   Develop, maintain, and contribute to interoperable open data platforms in
+     accordance with national data standards;
+
+b)   Allocate resources to improve data quality, data management, and secure data-
+     sharing protocols;
+
+c)   Ensure that open data systems support AI development while strictly complying
+     with privacy, cybersecurity, and confidentiality laws;
+
+d)   Adopt common data formats to promote interoperability across agencies; and
+
+e)   Encourage responsible use of government open data by researchers, civil
+     society, and the private sector.
+
+The national government shall prioritize funding for shared data infrastructure to avoid
+duplication and promote efficiency.
+
+
+SECTION 11. ETHICAL AND RESPONSIBLE AI GUIDELINES.
+
+The government shall adopt and implement Ethical and Responsible AI Guidelines
+requiring human oversight in government decision-making, transparency in AI-
+assisted decisions affecting individuals, safeguards against discrimination and bias,
+compliance with data privacy and other applicable laws, and the conduct of risk and
+impact assessments prior to the deployment of high-risk AI systems.
+
+No AI system shall be deployed in government without undergoing a documented
+ethical and risk assessment.
+
+
+SECTION 12. PROCUREMENT AND DEPLOYMENT SAFEGUARDS.
+
+All procurement of AI systems by government agencies shall:
+
+a)   Include transparency and auditability requirements in bidding documents;
+
+b)   Require vendors to disclose system capabilities, limitations, and known risks;
+
+c)   Ensure that government retains the ability to audit or review algorithmic outputs;
+
+d)   Prohibit exclusive dependence on fully automated systems in high-risk decision-
+     making without human review;
+
+e)   Prohibit trade secrecy claims that prevent lawful audit;
+SECTION 13. CITIZEN-CENTRIC AI SERVICES.
+
+AI applications in government shall be designed to:
+
+a)   Improve access to public services, particularly for marginalized and vulnerable
+     sectors;
+
+b)   Reduce administrative burdens and processing times;
+
+c)   Provide accessible human review and appeal mechanisms;
+
+d)   Inform citizens in plain language when AI systems are used.
+
+No person shall be denied essential public services solely on the basis of automated
+decision-making without meaningful human intervention.
+
+Citizens shall have the right to be informed when AI significantly affects a decision
+concerning them; request explanation of such decision; seek correction of inaccurate
+data; and request human review.
+
+
+SECTION 14. TRANSPARENCY AND PERIODIC PUBLIC REPORTING.
+
+All agencies using AI systems shall submit an Annual Open Data and AI Transparency
+Report to Congress and publish it on their official websites.
+
+The report shall contain:
+
+a)   A registry of AI systems in use;
+
+b)   Their purpose, scope, and data sources;
+
+c)   Risk classification and mitigation measures;
+
+d)   Summary of impact assessments and audits; and
+
+e)   Documented public complaints and resolutions.
+
+The National Council shall submit a consolidated national report to Congress annually.
+
+
+SECTION 15. PUBLIC PARTICIPATION AND OVERSIGHT.
+
+The government shall establish:
+
+A.   Public consultation mechanisms for AI policy development;
+
+B.   Independent audit procedures for High-Risk AI Systems;
+C.   Accessible grievance redress mechanisms.
+
+Independent experts, civil society organizations, and academic institutions shall be
+invited to participate in review processes.
+
+
+SECTION 16. CAPACITY BUILDING AND SKILLS DEVELOPMENT.
+
+The government shall invest in training programs on:
+
+A.   Data governance;
+
+B.   Responsible AI implementation;
+
+C.   Algorithmic accountability;
+
+D.   Human-centered digital service design.
+
+Scholarships, fellowships, research grants, and public-private partnerships may be
+established to strengthen national AI expertise.
+
+
+SECTION 17. ADMINISTRATIVE ACCOUNTABILITY AND SANCTIONS.
+
+Failure to comply with this Act may result in:
+
+A.   Administrative liability of responsible public officials under existing civil service
+     laws;
+
+B.   Suspension of AI system deployment;
+
+C.   Contract termination for non-compliant vendors;
+
+D.   Referral to appropriate oversight or prosecutorial bodies when warranted.
+
+
+SECTION 18. CONGRESSIONAL OVERSIGHT.
+
+Within three (3) years from effectivity, Congress shall conduct a comprehensive review
+of the implementation of this Act to determine its effectiveness and recommend
+necessary amendments.
+
+
+SECTION 19. FUNDING.
+
+Such sums as may be necessary to carry out the provisions of this Act shall be
+included in the annual General Appropriations Act. Agencies may also utilize grants
+and partnerships, subject to existing laws and regulations.
+SECTION 20. IMPLEMENTING RULES AND REGULATIONS.
+
+The appropriate government agencies shall promulgate the necessary rules and
+regulations within ninety (90) days from the effectivity of this Act.
+
+
+SECTION 21. SEPARABILITY CLAUSE.
+
+If any provision of this Act is declared unconstitutional or invalid, the other provisions
+not affected thereby shall remain in full force and effect.
+
+
+SECTION 22. REPEALING CLAUSE.
+
+All laws, decrees, executive orders, rules, or regulations inconsistent with this Act are
+hereby repealed or modified accordingly.
+
+
+SECTION 23. EFFECTIVITY.
+
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or
+in a newspaper of general circulation.
+
+
+Approved,
+

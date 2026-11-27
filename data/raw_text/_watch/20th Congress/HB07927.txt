@@ -1,0 +1,432 @@
+                              Republic of the Philippines
+                       HOUSE OF REPRESENTATIVES
+                              Quezon City, Metro Manila                         February 23, 2026
+                                                                                   1:25 pm
+                               TWENTIETH CONGRESS
+                                First Regular Session
+
+                                               7927
+                             HOUSE BILL NO. _____________
+
+Introduced by:
+               HON. CHRISTOPHERSON “COCO” M. YAP
+
+                                EXPLANATORY NOTE
+
+As Filipinos rely more on digital services for daily life, cyber threats such as hacking,
+data breaches, and online scams pose growing risks to public safety, the economy, and
+national security. Current efforts are fragmented and need stronger coordination.
+
+This bill seeks to institutionalize a strong, uni ied, and proactive national
+cybersecurity framework. It establishes the Philippine Cybersecurity Council to
+ensure clear leadership, effective coordination among government agencies, and close
+collaboration with the private sector. The measure strengthens the country’s capacity
+to prevent, detect, and respond to cyber incidents, while protecting personal data,
+critical infrastructure, and essential services such as banking, energy, transportation,
+health, and telecommunications.
+
+By setting clear standards, improving incident reporting, strengthening law
+enforcement, and promoting public awareness, this measure aims to build a safer and
+more trusted digital environment. Ultimately, this bill protects Filipino citizens,
+businesses, and government institutions by ensuring that cyberspace remains secure,
+resilient, and worthy of public trust in an increasingly digital nation.
+
+In view of the foregoing, ug sa ngalan sa SERBISYONG TINUORAY, the undersigned
+respectfully requests the immediate passage of this measure.
+
+
+
+                                   CHRISTOPHERSON “COCO” M. YAP
+                             Representative, Second District of Southern Leyte
+
+
+                                                                             1|Page
+                             Republic of the Philippines
+                       HOUSE OF REPRESENTATIVES
+                             Quezon City, Metro Manila
+
+                              TWENTIETH CONGRESS
+                               First Regular Session
+
+
+                                              7927
+                            HOUSE BILL NO. _____________
+
+Introduced by:
+              HON. CHRISTOPHERSON “COCO” M. YAP
+
+                             AN ACT
+INSTITUTIONALIZING AND STRENGTHENING THE NATIONAL CYBERSECURITY
+FRAMEWORK, AND ESTABLISHING THE PHILIPPINES CYBERSECURITY COUNCIL
+AND APPROPRIATING FUNDS THEREOF
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+assembled:
+
+SECTION 1. Short Title. — This Act shall be known as the “Cybersecurity Act.”
+
+SECTION 2. Declaration of Policy. — The State recognizes the vital role of
+communication and information in nation building. The State also recognizes its
+inherent obligation to ensure that personal data information and communications
+systems in the government and the private sector are secured and protected. Towards
+this end, the State shall provide Filipinos a secure, reliable, and trusted cyberspace
+through the formulation and enforcement of effective cybersecurity policies, and
+establishment of a governance framework that shall effectively coordinate
+government agencies and relevant sectors in the preparation of proactive, timely, and
+appropriate response against cybersecurity threats.
+
+SECTION 3. De inition of Terms. — As used in this Act:
+
+   (a) Botnet or “robot network” refers to a network of computers infected by
+       malware that is under the control of a single attacking party;
+
+
+
+                                                                           2|Page
+(b) Critical infrastructure refers to assets, systems, and networks, whether
+    physical or virtual, that are considered so vital that their destruction or
+    disruption would have a debilitating impact on national security, health and
+    safety, or economic well-being of citizens, or any combination thereof;
+
+(c) Critical Information Infrastructure (CII) refers to computer systems, ICT
+    information and communications technology (ICT) networks, and digital
+    assets that are necessary for the continuous operation and delivery of the
+    country’s critical infrastructure services;
+
+(d) CII institution refers to a government agency or a private company that owns,
+    operates, controls, and/or maintains critical information infrastructure, and
+    whose operation is nationwide in scope and/or covers metropolitan centers,
+    including Metro Manila, Metro Cebu, Metro Davao, and, by 2025, Metro
+    Cagayan de Oro, as de ined and updated by the National Economic
+    Development Authority (NEDA) or the Philippine Statistics Authority (PSA);
+
+(e) Cybersecurity refers to the organization and collection of resources, processes,
+    and structures to preserve Con identiality, Integrity, Availability, Non-
+    Repudiation, Authenticity, Privacy and Safety (CIANA-PS) in cyberspace;
+
+(f) Cybersecurity governance refers to the strategic approach that governs the
+    implementation and maintenance of cybersecurity measures, which are
+    intended to protect information and digital assets from cyber threats and
+    unauthorized access;
+
+(g) Cyberspace refers to complex environment resulting from the interaction of
+    people or software and services on the internet by means of technology
+    devices and networks connected to it, which does not exist in any physical
+    form;
+
+(h) Distributed denial of service (DDoS) attack refers to a variant of a denial of
+    service (DoS) attack that employs very large numbers of attacking computers
+    to overwhelm the target with bogus traf ic;
+
+(i) Internet of Things (IoT) botnets refer to a network of compromised or infected
+    Internet of Things devices that can be remotely controlled by cybercriminals
+    for malicious purposes;
+
+
+
+                                                                        3|Page
+   (j) Malware refers a ile or code, typically delivered over a network, that infects,
+       explores, steals or conducts virtually any behavior an attacker wants; and
+
+   (k) National Cybersecurity Plan refers to the security policies, procedures, and
+       controls required to protect the country against threats and risk.
+
+SECTION 4. Philippine Cybersecurity Council. — The Philippine Cybersecurity
+Council is hereby established, which shall be an inter0agency body administratively
+attached to the Of ice of the President.
+
+The Council shall be headed by the Director-General of the National Intelligence
+Coordinating Agency (NICA) and co-chaired by the Executive Secretary and the
+Secretary of the Department of Information and Communications Technology (DICT).
+It shall be composed of the following of icials as members:
+
+   (a) Secretary of the Department of Foreign Affairs (DFA);
+   (b) Secretary of the Department of Finance (DOF);
+   (c) Secretary of the Department of Science and Technology (DOST);
+   (d) Secretary of the Department of Interior and Local Government (DILG);
+   (e) Secretary of the Department of Justice (DOJ);
+   (f) Secretary of the Department of Energy (DOE);
+   (g) Secretary of the Department of National Defense (DND);
+   (h) Secretary of the Department of Transportation (DOTr);
+   (i) Secretary of the Presidential Communication Operations Of ice (PCOO);
+   (j) Secretary of the Presidential Communications Development and Strategic
+       Planning Of ice (PCDSPO);
+   (k) Commissioner of the National Telecommunications Commission (NTC);
+   (l) Director of the National Bureau of Investigation (NBI);
+   (m)        Chief of the Philippine National Police (PNP);
+   (n) Chief of Staff of the Armed Forces of the Philippines:
+   (o) Chairman of the National Privacy Commission (NPC);;
+   (p) Executive Director of the Anti-Terrorism Council-Program Management Center
+       (ATM-PMC);
+   (q) Executive Director of the Cybercrime Investigation and Coordinating Center
+       (CICC); and
+   (r) Governor of the Bangko Sentral ng Pilipinas (BSP) as members.
+
+The Of ice of the Deputy Director General (ODDG) for Cyber and Emerging Threats
+established under NICA shall serve as Secretariat to the Council.
+
+
+                                                                          4|Page
+The Council may invite concerned public and private agencies or entities to
+participate, complement, and assist in the performance of its functions.
+
+The Council shall collaborate with the Anti-Terrorism Council (ATC) on matters
+relating to cyber-terrorism.
+
+SECTION 5. Powers and Functions. — The Council shall be the primary authority to
+exercise powers and functions that would address all cybersecurity related matters.
+It shall perform the following functions:
+
+   (a) Assess the vulnerabilities of the country’s cybersecurity;
+   (b) Capacity building for the purpose of responding to cybersecurity threats and
+       emergencies;
+   (c) Issue updated security protocols to all government employees in the storage,
+       handling and distribution of all forms of documents and communications
+       based on the best practices and update the same as necessary;
+   (d) Enhance the public-private partnership in the ield of information sharing
+       involving cyberattacks, threats and vulnerabilities to cyber threats;
+   (e) Conduct periodic strategic planning and workshop activities that will reduce
+       the country's vulnerabilities to cyber threats;
+   (f) Direct its members agencies and appropriate agencies to implement
+       cybersecurity measures as may be required by the situation;
+   (g) Serve as the country’s coordinating arm on domestic, international, and
+       transnational efforts pertaining to cybersecurity;
+   (h) Make such recommendations and/or such other reports as the president may
+       from time to time require; and
+   (i) Perform such other functions as may be necessary.
+
+SECTION 6. Meetings of the Council. — The Council shall hold regular meeting every
+quarter and such special meetings as may be necessary upon the request of the
+chairman or upon the request of at least two (2) of its members.
+
+SECTION 7. Reportorial Requirement. — The Council shall submit quarterly report,
+or as often as may be necessary, to the President of the Philippines and to Congress
+on the state of cybersecurity threats and other related information.
+
+SECTION 8. Cybersecurity Bureau. — The DICT shall develop an effective and
+ef icient cybersecurity organization and structure to strengthen its Cybersecurity
+Bureau (CSB). It shall expand the operations of the National Computer Emergency
+Response Team (NCERT), which shall be tasked to respond on cybersecurity incidents
+
+                                                                         5|Page
+and conduct investigations; and the National Security Operations Center (NSOC),
+which shall be primarily responsible in monitoring critical information assets in
+cyberspace, perform vulnerability assessment and penetration testing (VAPT)
+services, and conduct baseline assessment of cybersecurity posture of agencies of
+government.
+
+The NCERT and the NSOC shall be operated and staffed on a twenty-four (24) hour
+basis under the CSB.
+
+SECTION 9. Modernization Program. — The Council shall, in consultation with the
+relevant agencies of government, develop a modernization program that will
+strengthen the monitoring of cybersecurity of national government agencies and local
+government units (LGUs). The modernization program shall include the provision of
+a centralized incident response system for government that allows the delegation of
+incident tickets to government agencies and LGUs to monitor their progress and
+ensure a single view of all cybersecurity incidents.
+
+SECTION 10. Reporting of Data Breach. — Government institutions, agencies,
+instrumentalities, including government owned and controlled corporations, private
+corporations, companies and business establishments, operating wholly or partly in
+the Philippines, are required to report to t he Council, within a reasonable period of
+time, all kinds of data breach occurring in their jurisdiction. The Council shall conduct
+trainings on cybersecurity to all stakeholders for the effective implementation of this
+provision.
+
+SECTION 11. Mandatory Noti ication by the Internet Service Providers for
+Malware Infection and Internet of Things (IoT) Botnets. — To mitigate the threat
+of malware and botnets in the country, all internet service providers (ISPs) shall be
+required to implement a malware noti ication scheme, including internet of things
+(IoT) botnets, and immediate performance of a cleanup of malwares detected.
+
+ISPs are mandated to conduct effective countermeasures including the following:
+
+   (a) Performing cybersecurity hygiene in their Customer Premise Equipment
+       (CPE) such as changing the CPE default password, disabling unused ports, and
+       other hardening measures for CPE;
+
+   (b) Notifying those infected by malware and providing clear but concise
+       instructions on how to clean their devices; and
+
+
+                                                                             6|Page
+   (c) Complying with requests for quarantining network segments which are
+       attempting a distributed denial of service (DDoS) attack or identi ied as part
+       of a command-and-control structure of a ransomware, malware, or botnet.
+
+SECTION 12. Threats and Baseline Assessments of Government Cyberspace
+Assets. — The Council shall develop capability to automatically scan all government
+and critical information infrastructure assets exposed in the internet for their
+vulnerabilities and provide a risk score to these scanned threats. The scores and
+vulnerabilities scanned shall be kept con identially and shall be provided to the
+owners of the scanned cybersecurity assets. Owners of these compromised assets
+shall report to the Council how vulnerabilities were mitigated.
+
+The Council shall develop and/or acquire the necessary tools to ensure that the
+assessments are stored and disseminated to all government agencies. Private security
+research shall be allowed to report their own indings subject to the necessary
+guidelines that the Council shall issue for responsible disclosure of vulnerabilities.
+Legal protection shall be provided to any security researcher disclosing any
+vulnerability found in any cyberspace asset.
+
+SECTION 13. National Cybersecurity Threat Database. — The Council shall
+develop a national cybersecurity threat database, which shall be accessible to the
+public. The list of threats shall be curated based on the category of the threat and the
+type of the threat based on their common vulnerability scoring system (CVSS),
+category and type. The threat database shall be updated regularly.
+
+The Council shall develop and maintain a website to inform the public of the latest
+trends in cybersecurity and to issue advisories.
+
+SECTION 14. Standards to Protect Inter-Domain Internet Protocol (IP) Routing
+Protocol. — The Council shall, in consultation with the NTC, DICT, DOST, and
+telecommunications providers, adopt and implement standards for securing inter-
+domain internet protocol (IP) routing protocol, particularly Border Gateway Protocol
+(BGP) to attain national compliance for securing inter-domain routing.
+
+SECTION 15. Partnership with Digital Online Platforms. — The Council shall
+initiate robust and meaningful partnership with digital online and social media
+platforms to create a mutually acceptable protocol for reporting, correcting and
+mitigating misinformation, and online harms in line with the need to regulate digital
+online platforms, including social media platforms.
+
+
+                                                                            7|Page
+SECTION 16. Multi-Disciplinary Approach. — All government agencies, including
+LGUs, are enjoined to improve and develop their own cybersecurity strategies, sub-
+plans, and teams consistent with the provisions of this Act.
+
+SECTION 17. Declaring the Month of October as Cybersecurity Awareness
+Month. — The month of October of every year is hereby declared as “National
+Cybersecurity Awareness Month”.
+
+Pursuant to the observance of National Cybersecurity Awareness Month, an annual
+program of activities shall be prepared and implemented, with the NICA and the DCIT
+as lead agencies, or instrumentality of the government, including government-owned
+or controlled corporations, for any assistance as may be needed.
+
+The Philippine Information Agency, in coordination with the NICA and the DICT shall
+ensure the effective information dissemination pursuant to this provision.
+
+All LGUs and private organizations including the civil society organizations, private
+enterprises, and non-government organizations, civic and people’s organizations, are
+encouraged to observe National Cybersecurity Awareness Month in simple rites and
+participate in the activities.
+
+SECTION 18. The National Cybersecurity Plan. — A National Cybersecurity Plan
+(NCSP) shall be formulated by the Philippine Cybersecurity Council to strengthen the
+country’s institutional capacity to protect systems, networks, and programs from
+digital attacks and promote security and resilience of the Philippine cyberspace.
+
+SECTION 19. Critical Information Infrastructure (CII). — This Act shall cover CIIs,
+whether in the public or private sector, including:
+
+   a.   Banking and inance;
+   b.   Broadcast media;
+   c.   Emergency services and disaster response;
+   d.   Energy;
+   e.   Health;
+   f.   Telecommunications;
+   g.   Transportation (land, sea, air) and
+   h.   Water.
+
+
+
+
+                                                                         8|Page
+An entity, whether public or private, that owns, operates, and maintains CII in the
+industries mentioned above, and as updated by the Department of Information and
+Communications Technology (DCIT), shall be covered by this Act.
+
+The DICT shall institute a consultation process to update the de inition of a CII, the
+list of CII institutions, and the sector or industry covered as CII every three (3) years
+from the effectivity of this Act.
+
+SECTION 20. Adoption of Minimum Information Security Standards. — All
+covered CII institutions shall adopt and implement adequate measures to protect
+their ICT systems and infrastructure, and respond to and recover from any
+information security incident, in compliance with existing laws, rules and regulations.
+
+They are required to:
+
+   a.) Adopt the Code of Practice stipulated in the Philippine National Standard
+       (PNS) on ISO/IEC 27001 Information Security Management System (ISMS)
+       (series of standards) and PNS ISO 22301 Security and resilience – Business
+       continuity management systems (BCMS). They shall also adopt the ISO/IEC
+       27701 Privacy Information Management Systems, as applicable;
+
+   b.) Submit to the DCIT a copy of their formal certi ication as proof of adoption of
+       the PNS ISO/IEC 27000 (series of standards), PNS ISO 22301, and ISO/IEC
+       27701, as applicable; and
+
+   c.) Ensure that their certi icates are up-to-date and shall submit the latest annual
+       audit con irmation to the DICT.
+
+In lieu of the submission of formal certi ication above, covered CII institutions shall
+subject themselves to an annual information security self-assessment using
+standards, such as but not limited to, the Center for Internet Security (CIS) Controls
+or the National Institute of Standards and Technology (NIST) Special Publication (SP)
+800-53, during the irst quarter of each year. The concerned institution shall submit
+this self-declaration shall be signed off by the respective head of the department
+directly in charge of the agency’s information security systems.
+
+Each CII institution shall adopt programs, guidelines, and written procedures for the
+implementation of its chosen information security standard, which shall be included
+in their annual submission.
+
+
+                                                                             9|Page
+The DICT shall have the authority to determine and update information security
+standards, and require CII institutions to comply with such standards, as it deems it
+necessary and appropriate.
+
+Nothing in this Act shall prevent a government agency or a sector regulator from
+imposing additional or more stringent information security standards for compliance
+by industry players under its jurisdiction, as it deems necessary.
+
+SECTION 21. Prosecution of Cyber Offenders. — The Department of Justice in
+coordination with the National Bureau of Investigation (NBI) and the Philippine
+National Police (PNP) shall establish specialized units for the investigation and
+prosecution of cybercrime offenders.
+
+The Department of Justice (DOJ) shall develop and implement guidelines for the swift
+prosecution of cybercrime offenses especially when the perpetrators are outside the
+Philippines, ensuring prosecution and imposition of appropriate penalties and
+sanctions in accordance with existing laws.
+
+The government shall provide training for law enforcement of icers, prosecutors, and
+judges on cybersecurity and cybercrime to ensure effective.
+
+SECTION 22. Penal Provisions. — Any violation under Sections 10 and 11 of this Act,
+after due notice and hearing, shall be penalized with imprisonment of not less than
+six (6) months but not more than two (2) years or a ine of not more than One (1)
+million pesos, or both at the discretion of the court.
+
+SECTION 23. Appropriations. — The amount of necessary to carry out its functions
+shall be included in the annual General Appropriations Act.
+
+SECTION 24. Implementing Rules and Regulations. — The NICA and DICT, in
+consultation with relevant agencies, shall jointly formulate the necessary rules and
+regulations with ninety (90) days from approval of this Act.
+
+SECTION 25. Separability Clause. — If any provision of this Act is declared
+unconstitutional or invalid, the remainder not affected thereby shall remain in full
+force and effect.
+
+SECTION 26. Repealing Clause. — All laws, decrees, executive orders, rules and
+regulations, and other issuances, or parts thereof, inconsistent with this Act are
+hereby repealed or modi ied accordingly.
+
+                                                                        10 | P a g e
+SECTION 27. Effectivity. — This Act shall take effect ifteen (15) days after its
+publication in the Of icial Gazette or in any two (2) newspapers of general circulation
+in the Philippines.
+
+Approved,
+
+
+
+
+                                                                          11 | P a g e
+
