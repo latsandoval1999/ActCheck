@@ -1,0 +1,260 @@
+                                               +€PREse
+                                           o
+
+
+
+
+                                Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES
+                                 Quezon City, MetroManila
+                                                                                   February 11, 2026
+                                                                                      1:13 pm
+                                  TwentiethCongress
+                                    First Regular Session
+
+
+                                   HOUSE BILL NO.7738
+
+
+Introducedby RepresentativesJOCELYN P. TULFO and RALPH WENDEL P. TULFO
+
+
+
+  AN ACT PROVIDINGFOR A FRAMEWORK FOR THE ETHICAL, TRANSPARENT,
+    AND EQUITABLE USE OF ARTIFICIAL INTELLIGENCE IN EDUCATIONAL
+ INSTITUTIONS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 11927,AND
+                        FOR OTHER PURPOSES
+                                  EXPLANATORY NOTE
+
+       The rapid integration of Artificial Intelligence (Al) into educational settings presents
+a transformative opportunityto enhance learning outcomes and operational efficiency.
+However, the swift and unregulatedadoptionof these technologies carries significant
+risks, including threats to student data privacy, the potentialfor algorithmic bias that may
+disadvantage vulnerable learners, and the deepening of the digital divide between well-
+resourced and remoteor low-incomeschools. Current national policies, such as Republic
+Act No. 11927 or the Philippine Digital Workforce Competitiveness Act, rightfully promote
+digital upskilling but lack specific safeguards for the ethical and equitable deployment of
+Ai within the sensitive context Of basic and higher education ciassrooms.
+
+      This legislative gap is concerning as Al tools can process vast amounts of sensitive
+student data—from academic performance and behavioral records to biometric
+information—creatingattractive targets for data breaches and misuse. Furthermore,
+                                procurement and use Of                1              may
+inadvertently rely on tools built on foreign datasets that do not reflect Philippine cultural
+and linguistic contexts, potentially marginalizing local knowledge. The challenge is to craft
+governance that protects learners withoutstifling innovation, moving beyond reactionary
+bans to create adaptable, principledframeworks.
+
+       This bill, therefore, seeks to establish a comprehensive regulatory framework for
+the safe, ethical, and inclusive use of Al in all Philippine educational institutions. It amends
+Republic Act No. 11927 to expand the mandate of the Inter-Agency Council for
+Development and Competitiveness of the Philippine Digital Workforce, tasking it with
+overseeing Al in education and developing essential guidelines on ethics, data privacy,
+and accessibiiity. The biii mandates institutionaiAi Governance Committees, rigorous
+impact assessments for high-risk Al tools, and robust parental consent mechanisms. By
+setting clear standards for transparency, equity, and accountability, this Act aims to
+harness the benefits of Al for education while firmly safeguarding the rights and welfare
+of all Filipino learners, ensuring no student is left behind in the digital future.
+
+       In view of the foregoing, the immediate passage of this bill is earnestly sought.
+HON.JOCE                            HON. RALPH    ENDEL P. TULFO
+Representative, ACT-CIS PARTYLIST   Representative, 2NDDISTRICT OF
+                                    QUEZON CITY
+ 1
+ 2
+
+
+                                     Republic of the Philippines
+                              HOUSE OF REPRESENTATIVES
+                                     Quezon City, Metro Manila
+
+                                       Twentieth Congress
+                                        First Regular Session
+
+
+                                                     7738
+                                       HOUSE BILL NO.____
+
+
+     Introduced by Representatives JOCELYN P. TULFO and RALPH WENDEL P. TULFO
+
+
+
+
+       AN ACT PROVIDING FOR A FRAMEWORK FOR THE ETHICAL, TRANSPARENT,
+          AND EQUITABLE USE OF ARTIFICIAL INTELLIGENCE IN EDUCATIONAL
+      INSTITUTIONS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 11927, AND
+                             FOR OTHER PURPOSES
+
+     Be it enacted by the Senate and House of Representatives of the Philippines in Congress
+     assembled:
+
+ 1   SECTION 1. Short Title. – This Act shall be known as the “Responsible Artificial
+ 2   Intelligence in Education Act of 2026.”
+
+ 3   SECTION 2. Declaration of Policy. – It is the policy of the State to recognize the
+ 4   transformative potential of digital technologies and artificial intelligence (AI) in enhancing
+ 5   the quality, accessibility, and inclusivity of Philippine education, as aligned with the goals
+ 6   of developing a competitive digital workforce. The State shall ensure that the integration
+ 7   of AI in educational institutions is conducted in a manner that:
+
+ 8          (a) Upholds the highest standards of ethics, safety, and data privacy;
+
+ 9          (b) Promotes transparency, fairness, and accountability in algorithmic decision-
+10          making;
+
+11          (c) Actively bridges the digital divide and ensures equitable access to AI’s benefits
+12          for all learners, including those in geographically isolated and disadvantaged areas,
+13          persons with disabilities, and other marginalized sectors;
+
+14          (d) Protects the fundamental rights of students, educators, and personnel, with
+15          special consideration for children as a vulnerable population; and
+
+16          (e) Fosters an ecosystem of innovation that is responsive to Philippine educational
+17          goals and cultural contexts.
+
+18   The State further recognizes that effective governance of AI in education requires a
+19   coordinated, multi-stakeholder, and adaptable approach that can evolve alongside the
+20   technology.
+
+21   SECTION 3. Definition of Terms. – As used in this Act, the following terms shall mean:
+ 1         (a) Artificial Intelligence (AI) System refers to a machine-based system that, for
+ 2         explicit or implicit objectives, infers, from the input it receives, how to generate
+ 3         outputs such as predictions, content, recommendations, or decisions that can
+ 4         influence physical or virtual environments. This includes, but is not limited to,
+ 5         machine learning, automated reasoning, and generative AI models.
+
+ 6         (b) Educational Institution refers to both public and private establishments
+ 7         providing basic, tertiary, technical-vocational, and special education, as defined by
+ 8         the Department of Education (DepEd), the Commission on Higher Education
+ 9         (CHED), and the Technical Education and Skills Development Authority (TESDA).
+
+10         (c) High-Risk AI System refers to an AI system deployed in an educational context
+11         that poses significant potential threats to the rights, safety, or well-being of students.
+12         This includes, but is not limited to, systems used for:
+
+13                (1) Automated grading or high-stakes academic evaluation;
+
+14                (2) Behavioral prediction, monitoring, or emotional recognition;
+
+15                (3) Proctoring and examination integrity;
+
+16                (4) Personalized learning pathways that significantly influence curriculum;
+17                and
+
+18                (5) Admissions, scholarship, or placement screening.
+
+19         (d) Synthetic Data refers to data generated through AI systems that mimics the
+20         statistical properties and patterns of real personal data but does not relate to an
+21         identified or identifiable natural person, thereby mitigating privacy risks.
+
+22         (e) Algorithmic Impact Assessment (AIA) refers to a systematic evaluation
+23         conducted prior to the deployment of a high-risk AI system to identify its potential
+24         benefits, risks, biases, and impacts on equity, privacy, and educational outcomes.
+
+25   SECTION 4. Amendment to Republic Act No. 11927. – Section 6 of Republic Act No.
+26   11927 is hereby amended by adding new subsections (l), (m), and (n) to read as follows:
+
+27         “SEC. 6. Powers and Functions. – The Inter-Agency Council shall have the following
+28         powers and functions:
+
+29         …
+
+30         (l) Act as the Central Oversight Body for AI in Education: Formulate, issue, and
+31         periodically update a National Framework for Ethical AI in Education. This
+32         framework shall establish minimum standards for procurement, development,
+33         deployment, and monitoring of AI systems in educational institutions, with particular
+34         focus on ethics, equity, accessibility, and data privacy.
+
+35         (m) Develop Sector-Specific Guidelines: In collaboration with DepEd, CHED,
+36         TESDA, the National Privacy Commission, and relevant academic and industry
+37         stakeholders, develop and disseminate detailed implementation guidelines,
+38         including model protocols for Algorithmic Impact Assessments, informed consent,
+39         and the use of privacy-enhancing technologies like synthetic data.
+
+40         (n) Establish a Public Registry and Feedback Mechanism: Maintain a public registry
+41         of certified AI tools suitable for educational use and establish a mechanism for
+42         students, parents, and educators to report concerns related to AI system
+43         performance or ethics.”
+ 1   SECTION 5. Institutional AI Governance Committee. – All Educational Institutions
+ 2   procuring, developing, or deploying AI systems shall establish an AI Governance
+ 3   Committee within one hundred eighty (180) days from the effectivity of this Act. This
+ 4   committee shall be composed of representatives from the administration, faculty, IT and
+ 5   data privacy officers, student government (for tertiary levels), and where applicable,
+ 6   parents’ representatives. The Committee shall be responsible for:
+
+ 7         (a) Reviewing and approving all high-risk AI system deployments based on
+ 8         completed Algorithmic Impact Assessments;
+
+ 9         (b) Ensuring all AI use complies with this Act, the National Framework, the Data
+10         Privacy Act of 2012, and other relevant laws;
+
+11         (c) Overseeing the institution’s AI literacy programs for educators, staff, and
+12         students; and
+
+13         (d) Serving as the internal point for addressing grievances related to AI use.
+
+14   SECTION 6. Mandatory Requirements for AI Deployment.
+
+15         (a) Algorithmic Impact Assessment (AIA): No high-risk AI system shall be deployed
+16         in any Educational Institution without a satisfactory AIA conducted by the provider
+17         and reviewed by the institution’s AI Governance Committee. The AIA must
+18         specifically evaluate risks related to bias, discrimination, data privacy, and
+19         psychological impact on students.
+
+20         (b) Transparency and Explainability: All interactions with AI systems by students
+21         must be clearly identifiable as such. For any AI-driven decision that significantly
+22         affects a student’s academic path (e.g., grading, placement), the institution must
+23         ensure there is a capacity for human review and a simple explanation of the primary
+24         factors involved in the decision.
+
+25         (c) Data Privacy and Protection: The collection and processing of student data by
+26         AI systems shall adhere to the principles of data minimization, purpose limitation,
+27         and storage limitation. Educational Institutions are strongly encouraged to adopt
+28         privacy-enhancing technologies, such as synthetic data generation, for system
+29         training and testing where feasible to minimize exposure of real personal data.
+
+30         (d) Prior and Informed Consent: For the use of AI systems that process personal
+31         data beyond basic administrative functions, Educational Institutions must obtain
+32         prior, informed, and written consent from parents/guardians (for minors) or from the
+33         students themselves (if of legal age). Consent forms must be in clear language,
+34         specifying the type of data processed, the purpose, and the rights of the data
+35         subject.
+
+36   SECTION 7. Equity and Digital Inclusion. – In line with the State’s policy on digital
+37   inclusion, the Department of Education (DepEd) and the Commission on Higher Education
+38   (CHED), in coordination with the Inter-Agency Council and the Department of Information
+39   and Communications Technology (DICT), shall ensure that programs for AI integration
+40   actively work to bridge the digital divide. This includes:
+
+41         (a) Prioritizing AI tools and solutions that are functional in low-bandwidth
+42         environments and available in major Philippine languages;
+
+43         (b) Ensuring that procurement policies do not favor solutions that would only benefit
+44         urban or well-resourced schools, thereby exacerbating existing inequalities; and
+ 1          (c) Exploring and promoting AI applications that reduce administrative burdens for
+ 2          teachers and support system-level efficiency, particularly in under-resourced areas.
+
+ 3   SECTION 8. Appropriations. – The amount necessary for the initial implementation of
+ 4   this Act shall be charged against the current fiscal year's appropriations of the member
+ 5   agencies of the Inter-Agency Council, particularly the DepEd, CHED, and DICT.
+ 6   Thereafter, such sums as may be necessary for its continued execution shall be included
+ 7   in the annual General Appropriations Act.
+
+ 8   SECTION 9. Implementing Rules and Regulations (IRR). – The Inter-Agency Council
+ 9   established under R.A. 11927, in consultation with key stakeholders, shall promulgate the
+10   necessary IRR within ninety (90) days after the effectivity of this Act.
+
+11   SECTION 10. Separability Clause. – If any provision of this Act is declared invalid or
+12   unconstitutional, the remaining provisions not affected thereby shall continue in full force
+13   and effect.
+
+14   SECTION 11. Repealing Clause. – All laws, decrees, executive orders, rules, and
+15   regulations, or parts thereof inconsistent with the provisions of this Act are hereby
+16   repealed, amended, or modified accordingly.
+
+17   SECTION 12. Effectivity. – This Act shall take effect fifteen (15) days after its complete
+18   publication in the Official Gazette or in at least two (2) newspapers of general circulation.
+
+19   Approved,
+

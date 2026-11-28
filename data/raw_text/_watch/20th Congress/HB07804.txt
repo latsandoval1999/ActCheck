@@ -1,0 +1,688 @@
+                           Republic of the Philippines
+                    House of Representatives
+                          Quezon City, Metro Manila                      February 12, 2026
+                                                                            4:53 pm
+                              Twentieth Congress
+                              First Regular Session
+
+                                           7804
+                           HOUSE BILL NO. ______
+
+
+                   Introduced by Representative Jude A. Acidre
+
+
+
+                           EXPLANATORY NOTE
+
+       The rapid growth of digital platforms has transformed communication,
+public discourse, and economic activity, creating an interconnected world with
+unprecedented opportunities for engagement and innovation. However, this
+digital transformation has also introduced significant challenges, including the
+proliferation of false information, malicious online actions, and harmful digital
+practices. These issues threaten individual dignity, institutional stability, and
+societal cohesion, necessitating a legislative response.
+
+       The “Digital Responsibility and Online Protection Act” or DROP Act
+seeks to address these challenges by fostering a digital environment that balances
+freedom of speech with accountability, ethical behavior, and the collective good.
+This proposed legislation underscores the importance of protecting citizens,
+public figures, and institutions from the detrimental impacts of disinformation,
+cyber harassment, and other harmful online activities while preserving
+democratic values and safeguarding human dignity.
+
+Key provisions of the Act include:
+
+   • Safeguarding Citizens and Institutions. The bill establishes measures to
+     protect individuals and institutions from malicious online actions and false
+     information that harm reputations, incite panic, or destabilize societal
+     harmony.
+       • Strengthening Governance and Oversight. The creation of the National
+         Digital Content Oversight Board (NDCOB) under the Department of
+         Information and Communications Technology (DICT) ensures
+         independent oversight, transparent content moderation, and responsive
+         governance of digital spaces.
+
+       • Notice-and-Takedown Mechanisms. A clear and efficient process for
+         addressing harmful content is institutionalized, providing timely actions
+         against disinformation, cyber harassment, and other malicious activities
+         while ensuring procedural fairness and accountability.
+1
+       • Digital Literacy and Public Education. The bill mandates the integration of
+         digital ethics into education systems and promotes nationwide campaigns
+         to enhance critical thinking and responsible online behavior among
+         citizens.
+2
+       • Responsibilities of Stakeholders. Recognizing the shared responsibility of
+         all actors in the digital ecosystem, the bill outlines specific duties for social
+         media users, public figures, and digital platforms to uphold truth, respect,
+         and ethical online behavior.
+3
+       • Proportional Penalties and Restorative Justice. Provisions for penalties,
+         rehabilitation programs, and restorative justice mechanisms ensure both
+         deterrence and constructive engagement for offenders, promoting long-
+         term adherence to ethical digital standards.
+
+    This legislation represents a proactive step toward creating a safe, ethical, and
+    inclusive digital environment. By addressing the harms posed by false
+    information and malicious online actions, the DROP Act not only protects
+    citizens and public figures but also fosters a culture of responsibility, truth, and
+    accountability in digital spaces.
+
+          In view of the foregoing, the passage of this bill is earnestly sought.
+
+
+
+
+                                JUDE A. ACIDRE
+
+
+
+
+                                                                                        2
+                           Republic of the Philippines
+                    House of Representatives
+                          Quezon City, Metro Manila
+
+
+                              Twentieth Congress
+                              First Regular Session
+
+                                          7804
+                          HOUSE BILL NO. ______
+
+
+                   Introduced by Representative Jude A. Acidre
+
+
+
+                       AN ACT
+    PROMOTING DIGITAL RESPONSIBILITY, PROHIBITING
+MALICIOUS ONLINE ACTIONS THAT CAUSE HARM TO PUBLIC
+FIGURES, REGULATING FALSE INFORMATION, AND FOSTERING
+A TRUTHFUL AND ETHICAL DIGITAL ENVIRONMENT
+      Be it enacted by the Senate and House of Representatives of the Philippines
+in Congress assembled:
+
+                              CHAPTER 1
+                          GENERAL PROVISIONS
+
+SEC. 1. Title. – This Act shall be known as the “Digital Responsibility and
+Online Protection Act” or the “DROP Act”.
+
+
+
+SEC. 2. Declaration of Policy. – The State acknowledges the rapid growth of
+digital platforms as essential tools for communication, public discourse, and
+economic activity. However, it recognizes the urgent need to address the negative
+impacts of unchecked online behavior, including the proliferation of false
+information, malicious online actions, and harmful digital practices.
+It is hereby declared the policy of the State to:
+
+   a. Safeguard citizens from the detrimental effects of disinformation, cyber
+      harassment, and other malicious online activities;
+   b. Promote ethical digital behavior, fostering accountability and respect for
+      human dignity;
+   c. Support public figures in navigating the challenges of heightened scrutiny
+      while balancing the public’s right to access information;
+   d. Strengthen mechanisms for transparency, fairness, and proportionality in
+      regulating online content;
+   e. Build a digitally literate society empowered to discern truth, critically
+      assess information, and engage responsibly;
+   f. Encourage collaborative efforts among government agencies, private
+      sector actors, civil society, and academia to enhance digital governance;
+      and
+   g. Preserve democratic values and protect institutions from destabilization
+      due to online falsehoods or malicious activities.
+
+This Act envisions a digital landscape where freedom of speech is protected, but
+aligned with truth, responsibility, and the collective good.
+
+
+
+SEC. 3. Objectives of the Act. – This Act seeks to:
+
+   a. Create regulatory mechanisms to monitor and address malicious online
+      actions, false information, and harmful content;
+   b. Empower government agencies to collaborate with private platforms in
+      enhancing content moderation;
+   c. Establish a robust framework for the ethical governance of digital spaces,
+      ensuring both accountability and user empowerment;
+
+
+                                                                               2
+   d. Provide a clear legal basis for penalizing individuals and platforms that
+      engage in harmful online practices; and
+   e. Institutionalize digital literacy programs to strengthen critical thinking and
+      responsible online behavior.
+
+SEC. 4. Definition of Terms. – For the purposes of this Act, the following terms
+are defined as follows:
+
+   a. Amplification – Refers to methods used to increase the visibility and reach
+      of content, such as bots, paid promotions, or coordinated campaigns;
+   b. Cyber Harassment – Persistent or deliberate actions intended to
+      intimidate, harm, or degrade an individual online;
+   c. Digital Literacy – The ability to effectively find, evaluate, use, and create
+      information in a responsible, ethical, and safe manner in digital spaces;
+   d. Disinformation – False or misleading content deliberately created to
+      deceive or manipulate the public;
+   e. Doxxing – The intentional disclosure of personal or sensitive information
+      without consent, often with malicious intent;
+   f. Fact-Checking Organizations – Independent entities accredited for their
+      role in verifying online content based on evidence-based criteria;
+   g. False Information – Content that is demonstrably inaccurate or
+      misleading and is likely to cause harm;
+   h. Harmful Content – Any content that causes or is likely to cause societal
+      division, public panic, reputational harm, or threats to safety;
+   i. Malicious Online Actions – Intentional acts designed to harm individuals,
+      organizations, or societal institutions using digital means;
+   j. Misinformation – False or misleading content shared without intent to
+      harm but which may nonetheless cause damage;
+   k. Public Figure – Any individual whose actions or statements are of public
+      interest due to their societal roles or prominence.
+                                                                                   3
+                                CHAPTER II
+  NATIONAL DIGITAL CONTENT OVERSIGHT BOARD (NDCOB)
+
+
+SEC. 5. Establishment of the NDCOB. – There is hereby created the National
+Digital Content Oversight Board (NDCOB), also referred herein as the Board,
+attached to the Department of Information and Communications Technology
+(DICT) to oversee the implementation of this Act.
+
+
+
+SEC. 6. Composition. – The Board shall be composed of a Chairperson and six
+(6) Members, who shall all be appointed by the President of the Philippines. The
+Chairperson shall have the rank and privileges of a department undersecretary,
+and the Members shall have the rank and privileges of assistant secretaries of a
+department.
+
+
+
+SEC. 7. Term of Office. – The Chairperson and Board Members shall have a
+term of office of six (6) years, without prejudice to reappointment by the
+President. Of those first appointed, the Chairperson and two (2) Board Members
+shall hold office for six (6) years, two (2) Board Members shall hold office for
+four (4) years, and two (2) Board Members shall hold office for two (2) years.
+Appointment to any vacancy shall only be for the unexpired term of predecessor.
+
+
+
+SEC. 8. Qualifications. – The Chairperson and the Members of the NDCOB
+must possess the following qualifications:
+
+   1. Must be citizens and residents of the Philippines;
+   2. Not less than twenty-one (21) years old at the time of their appointment;
+
+
+                                                                                  4
+   3. At least ten (10) years of professional experience in law, information
+      technology, public administration, media, or digital ethics;
+   4. A proven track record of upholding democratic principles and human
+      rights;
+   5. Have not been convicted by a final judgment of a crime involving moral
+      turpitude;
+   6. No prior affiliation with platforms or entities that could lead to conflicts of
+      interest.
+
+
+
+SEC. 9. Powers and Functions. – The NDCOB shall have the following powers
+and functions in accordance with its mandate to regulate, oversee, and promote
+responsible digital content governance in the Philippines:
+
+   a. Develop and implement national standards for identifying and mitigating
+      harmful digital content, ensuring a balance between content regulation and
+      the protection of fundamental rights, including freedom of expression;
+   b. Promulgate rules and regulations necessary for the implementation of this
+      Act, including guidelines on production, distribution, advertising, and
+      labeling of digital content, which shall take effect fifteen (15) days after
+      publication in newspapers of general circulation;
+   c. Prescribe internal and operational procedures for the exercise of its powers
+      and functions, including the creation of specialized sub-committees for
+      digital content review, compliance monitoring, and emerging online
+      challenges;
+   d. Issue Notice-and-Takedown Orders against harmful, misleading, or
+      unlawful online content, ensuring procedural fairness and due process;
+
+
+
+
+                                                                                    5
+   e. Monitor and audit compliance of digital platforms, media entities, and
+      online content creators with established standards, guidelines, and ethical
+      policies;
+   f. Cause the investigation and prosecution of violators of this Act, including
+      offenses related to online disinformation, cyber exploitation, digital
+      consumer fraud, and violations of ethical content regulations;
+   g. Collaborate with private digital platforms in enhancing content moderation
+      tools, policies, and reporting mechanisms to ensure a safer online
+      environment for all users;
+   h. Facilitate partnerships with academic institutions to conduct research on
+      the impact of false information, algorithmic influence, and digital ethics
+      on public discourse;
+   i. Engage with international and regional regulatory bodies in adopting best
+      practices   for   digital    governance,   platform   accountability,    and
+      misinformation management;
+   j. Provide recommendations to the President of the Philippines and to
+      Congress on emerging trends in online harm, digital misinformation, and
+      evolving content regulation policies;
+   k. Review and recommend amendments to existing laws and regulations on
+      digital content oversight to address new challenges posed by emerging
+      technologies, artificial intelligence, and evolving digital landscapes; and
+   l. Exercise such other powers and functions as may be necessary or
+      incidental to the attainment of the purposes of this Act and to perform such
+      other duties and responsibilities as may be directed by the President of the
+      Philippines.
+
+
+
+SEC. 10. Executive Director, Secretariat and Organizational Structure. – The
+Board shall organize a Secretariat to be headed by an Executive Director.
+                                                                                    6
+      The Executive Director shall be appointed by the President of the
+Philippines upon the recommendation of the NDCOB, for a fixed term of three
+(3) years, and may be reappointed for another term. The Executive Director shall
+possess the qualifications, rank, and privileges equivalent to that of a bureau
+director. He shall be responsible for the effective implementation of policies
+issued by the Board and shall have overall authority over the day-to-day
+operations of the agency.
+
+      The staffing pattern and compensation schedule of the Secretariat shall be
+drawn up in accordance with existing laws, rules and regulations.
+
+      The NDCOB shall have the power to suspend or dismiss for cause any
+employee and/or approve or disapprove the appointment, transfer or detail of
+employees. The NDCOB and its officers and employees shall be subject to the
+pertinent civil service laws, rules and regulations; Provided, That technical
+personnel shall be selected on the basis of merit and fitness to be determined in
+accordance with such policies and guidelines as may be approved by the Board.
+
+
+
+SEC. 11. Assistance in the Enforcement Functions of the NDCOB. – The
+NDCOB may solicit the direct assistance of other agencies and units of the
+government, and deputize, for a fixed and limited period, the heads or personnel
+of such agencies and units to perform enforcement functions for the Board. The
+government agencies and units exercising the enforcement functions for the
+NDCOB shall, insofar as such functions are concerned, be subject to the direction
+and control of the Board.
+
+
+
+
+                                                                                7
+                                 CHAPTER III
+               INDEPENDENT OVERSIGHT COMMITTEE
+
+
+SEC. 12. Establishment of the Independent Oversight Committee. – An
+Independent Oversight Committee is hereby established to monitor the actions,
+decisions, and overall performance of the NDCOB, ensuring transparency,
+accountability, and adherence to constitutional guarantees.
+
+
+
+SEC. 13. Composition. – The Independent Oversight Committee shall consist of
+five (5) members, appointed by the President upon recommendation by the
+Secretary of Justice, with the following representation:
+
+   • One (1) representative from the human rights sector;
+   • One (1) representative from the private sector;
+   • One (1) representative from civil society organizations;
+   • One (1) legal expert specializing in digital governance; and
+   • One (1) member from the media sector with experience in ethical
+      journalism.
+
+The Committee shall elect a Chairperson and Vice-Chairperson from among its
+members.
+
+
+
+SEC. 14. Functions. – The Committee shall perform the following functions:
+
+   a. Conduct annual audits of the NDCOB’s decisions, policies, and actions;
+   b. Review all Notice-and-Takedown Orders issued by the NDCOB to ensure
+      compliance with the principles of proportionality and transparency;
+   c. Recommend corrective measures or sanctions in cases of abuse of power
+      by NDCOB members;
+                                                                               8
+   d. Submit an annual report to Congress and the Office of the President
+       detailing its findings, including recommendations for policy improvements
+       or reforms; and
+   e. Ensure public participation by conducting forums, consultations, and
+       stakeholder engagements.
+                                  CHAPTER IV
+                 PROHIBITED ACTS AND MECHANISMS
+                FOR ADDRESSING HARMFUL CONTENT
+
+
+SEC. 15. Prohibited Acts. – The following acts shall be prohibited under this
+Act:
+
+   a. Creation and Dissemination of False Information. It shall be unlawful for
+       any person to deliberately create, publish, or share false or misleading
+       information that may cause harm to individuals, groups, or society,
+       including but not limited to disinformation and misinformation;
+   b. Cyber Harassment. It shall be unlawful for any person to engage in
+       persistent or deliberate online actions intended to intimidate, harm,
+       degrade, or defame an individual or group;
+   c. Doxxing. It shall be unlawful for any person to intentionally disclose
+       personal or sensitive information about another person or group without
+       their consent, particularly when done with malicious intent;
+   d. Use of Malicious Digital Tools. It shall be unlawful for any person to
+       employ bots, fake accounts, or other automated methods to amplify
+       harmful content, manipulate public discourse, or deceptively influence
+       public perception;
+   e. Use of Fake Social Media Accounts. It shall be unlawful for any person to
+       create, use, or maintain fake social media accounts with the intent to
+       deceive or manipulate individuals or the public, spread false or misleading
+                                                                                 9
+   information, engage in cyber harassment, doxxing, or other malicious
+   online activities or avoid accountability for harmful digital actions;
+f. Non-Compliance with Notice-and-Takedown Orders. It shall be unlawful
+   for any digital platform to fail to comply with a Notice-and-Takedown
+   Order issued by the National Digital Content Oversight Board (NDCOB)
+   to remove verified harmful or false content within the prescribed
+   timeframes;
+g. Amplification of Harmful Content. It shall be unlawful for any person or
+   entity to knowingly promote or amplify content deemed harmful, false, or
+   malicious under this Act through any digital platform or tool;
+h. Obstruction of Content Moderation and Enforcement. It shall be unlawful
+   for any person or entity to hinder, obstruct, or interfere with the NDCOB,
+   fact-checking organizations, or authorized entities in performing their
+   duties under this Act;
+i. Retaliatory Actions by Public Figures. It shall be unlawful for any public
+   figure to use their influence or platforms to intimidate, harass, or retaliate
+   against individuals who express legitimate criticism or scrutiny;
+j. Platform Misconduct. It shall be unlawful for any digital platform to fail
+   to implement systems to detect and mitigate harmful or false content
+   effectively,   amplify     harmful    content    through     algorithms    or
+   recommendation systems; or withhold or falsify transparency reports
+   required under this Act;
+k. Misrepresentation as Fact-Checking Entities. It shall be unlawful for any
+   organization or individual to falsely claim to be an accredited fact-
+   checking entity for personal gain, to manipulate public perception, or to
+   undermine regulatory processes;
+l. Inaction on Imminent Threats. It shall be unlawful for any digital platform
+   to neglect acting within the prescribed timeframe to address content posing
+
+                                                                              10
+      imminent threats, such as risks to public safety, violence, or large-scale
+      disinformation campaigns;
+   m. Abuse of Reporting Mechanisms. It shall be unlawful for any person to
+      maliciously or repeatedly file false reports against content or users without
+      basis, with the intent to suppress legitimate speech or harass individuals or
+      groups.
+   n. Unauthorized Access and Manipulation. It shall be unlawful for any person
+      to engage in hacking, unauthorized access, or manipulation of digital
+      systems or content to cause harm or spread disinformation.
+
+
+
+SEC. 16. Mechanism for Addressing Harmful Content. In accordance with its
+mandate to promote a safe, ethical, and rights-based digital environment, the
+NDCOB shall establish and implement a clear and responsive mechanism for the
+identification, verification, and removal of harmful content arising from any of
+the prohibited acts outlined in this Act. Such mechanisms shall be continuously
+reviewed and updated to adapt to evolving digital threats, emerging technologies,
+and best practices in content governance.
+
+
+
+SEC. 17. Identification and Reporting. The NDCOB shall receive reports of
+harmful, false, or unlawful digital content through its official online portal. Said
+portal shall be user-friendly and publicly accessible, designed in compliance with
+accessibility standards for persons with disabilities, and made available in the
+local language. The Board shall likewise coordinate with digital platforms and
+service providers for the seamless integration of content reporting mechanisms
+into their respective moderation systems, subject to data privacy and
+interoperability standards. Reports shall be assessed promptly and fairly,
+ensuring due process and protection of rights.
+
+                                                                                 11
+SEC. 18. Verification and Assessment. Upon receiving a report,, the NDCOB
+shall, without delay, conduct a preliminary assessment to determine whether the
+report falls within the jurisdiction of the Board and contains sufficient
+information for verification. Verified reports shall be subject to a formal review
+process by the Board, in collaboration with duly accredited fact-checking
+organizations and relevant subject-matter experts. The review shall evaluate the
+reported content in light of context, intent, factual accuracy, and its potential to
+cause physical, psychological, reputational, or societal harm.
+
+
+
+SEC. 19. Content Moderation and Removal. If, after verification, the content is
+determined to be harmful, false, or violative of existing laws, ethical guidelines,
+or regulations issued pursuant to this Act, the NDCOB shall issue a Notice-and-
+Takedown Order to the digital platform hosting the content. Such order shall
+specify the nature of the violation, the legal or regulatory basis for the takedown,
+and the timeframe for compliance. Platforms shall be required to remove the
+verified harmful content within forty-eight (48) hours from receipt of the order.
+In cases where the content poses an imminent risk to life, public safety, national
+security, or public order, removal shall be effected within twenty-four (24) hours.
+
+Verified harmful content shall be subject to proportionate and justified action,
+including removal, restriction, or correction, in accordance with legal and
+regulatory frameworks. Any action taken must respect freedom of expression,
+due process, and relevant digital rights protections.
+
+
+
+SEC. 20. Appeals and Redress Mechanism. Affected parties may file an appeal
+any decision on content moderation with the NDCOB within fifteen (15) calendar
+days from receipt of notice. Appeals shall be reviewed by the Independent
+                                                                                 12
+Oversight Committee, which shall resolve appeals within fifteen (15) calendar
+days from filing. The decision of the Committee shall be final and immediately
+executory, without prejudice to further remedies available under existing laws.
+
+
+
+SEC. 21. Procedural Rules. The NDCOB shall adopt procedural rules for the
+filing, investigation, resolution, and appeal of harmful content reports. It shall
+ensure that all actions taken under this Section are guided by the principles of due
+process, transparency, proportionality, and respect for freedom of expression, in
+accordance with the Constitution and international human rights standards. The
+NDCOB shall submit an annual report to Congress on the implementation of this
+Section, including statistical data on takedown requests, resolutions, appeals, and
+enforcement outcomes.
+
+                                 CHAPTER IV
+                RESPONSIBILITIES OF STAKEHOLDERS
+
+
+SEC. 22. Guiding Principles. – The implementation of this Act shall be guided
+by the following principles:
+
+Proportionality. Regulatory measures shall be commensurate with the harm
+caused by false information and narrowly tailored to address specific threats;
+
+Accountability. Both individuals and platforms shall be held accountable for
+their roles in creating, disseminating, or amplifying false information;
+
+Transparency. All government actions under this Act shall be transparent and
+subject to public scrutiny, with mechanisms for oversight and redress.
+
+Digital Literacy. Empowering citizens to critically assess information and
+engage responsibly in the digital space is central to combating misinformation.
+
+
+                                                                                 13
+Collaborative Governance. Addressing false information requires a whole-of-
+society approach, involving partnerships with private sector stakeholders, civil
+society organizations, and international allies.
+
+
+
+SEC. 23. Responsibilities of Social Media Users. – All social media users shall
+have the following responsibilities:
+
+   a. Verify the accuracy and credibility of information before sharing or
+       amplifying content;
+   b. Refrain from creating, sharing, or amplifying harmful content, including
+       false information, cyber harassment, and doxxing;
+   c. Report malicious or harmful online behavior through the official reporting
+       mechanisms of digital platforms or the NDCOB portal;
+   d. Engage in respectful online discourse, avoiding language or actions that
+       intimidate, harm, or degrade others; and
+   e. Participate in digital literacy initiatives aimed at fostering critical thinking
+       and responsible online behavior.
+
+SEC. 24. Responsibilities of Public Figures. – Public figures, by virtue of their
+societal roles, shall:
+
+   a. Recognize and tolerate reasonable public scrutiny, criticism, and discourse
+       inherent in a democratic society;
+   b. Avoid engaging in retaliatory online behavior or weaponizing their
+       influence to intimidate, harass, or harm individuals or groups;
+   c. Refrain from disseminating false or misleading information, upholding the
+       principles of truth and accountability;
+   d. Use their platforms responsibly to foster public trust, transparency, and
+       respectful digital engagement; and
+
+
+                                                                                   14
+   e. Support initiatives promoting digital responsibility and ethical online
+      behavior, particularly among their followers.
+
+
+
+SEC. 25. Responsibilities of Digital Platforms. – Digital platforms operating in
+the Philippines shall:
+
+   a. Develop and maintain robust systems for detecting, flagging, and
+      removing harmful or false content, including disinformation, doxxing, and
+      malicious online actions;
+   b. Provide accessible and transparent mechanisms for users to report
+      violations and appeal content moderation decisions;
+   c. Comply promptly with Notice-and-Takedown Orders issued by the
+      NDCOB, ensuring removal of harmful content within the prescribed
+      timeframe;
+   d. Submit biannual transparency reports to the NDCOB, detailing flagged
+      content, actions taken, and outcomes of user appeals;
+   e. Ensure algorithms and recommendation systems do not amplify harmful
+      content or false information;
+   f. Partner with accredited fact-checking organizations to improve content
+      verification processes;
+   g. Conduct regular training for moderation teams to adhere to ethical content
+      governance standards; and Promote digital literacy by integrating
+      awareness campaigns and educational resources into their platforms.
+
+
+SEC. 26. Public Awareness and Capacity Building – The NDCOB shall actively
+promote digital literacy, responsible content creation, and ethical online behavior,
+raise awareness about the risks of online falsehoods and malicious online actions
+and provide tools and resources to empower citizens to engage responsibly in
+
+                                                                                 15
+digital spaces through educational programs, public campaigns, and
+collaboration with digital platforms, media partners and civil society
+organizations. It shall engage with social media platforms, internet service
+providers, and law enforcement agencies to facilitate the effective enforcement
+of regulations, ensure compliance with ethical standards, and uphold users' rights
+in addressing harmful content.
+
+
+
+SEC. 26. National Digital Literacy Program. – The NDCOB, in collaboration
+with the Department of Information and Communications Technology (DICT),
+the Department of Education (DepEd) and the Commission on Higher Education
+(CHED), shall implement a National Digital Literacy Program aimed at:
+
+   a. Educating citizens on identifying and combating false information;
+   b. Promoting responsible online behavior and respect for diverse viewpoints;
+      and
+   c. Integrating digital ethics modules into the K-12 curriculum and higher
+      education programs.
+
+                                 CHAPTER V
+                                 PENALTIES
+
+
+SEC. 27. Penalties for Violations. – The following penalties shall be imposed
+on violators of this Act:
+
+   a. For individuals engaging in malicious content creation or dissemination:
+      fines ranging from Two Hundred Thousand Pesos (₱200,000) to Five
+      Million Pesos (₱5,000,000) and/or Imprisonment of one (1) year to ten (10)
+      years, depending on the gravity of the offense.
+   b. For individuals engaging in doxxing: fines ranging from One Hundred
+      Thousand Pesos (₱100,000) to Two Million Pesos (₱2,000,000); and/or
+                                                                                16
+      imprisonment of one (1) year to five (5) years, depending on the intent and
+      resulting harm;
+   c. For social media platforms failing to comply with Notice-and-Takedown
+      Orders: fines ranging from Five Million Pesos (₱5,000,000) to Fifty
+      Million Pesos (₱50,000,000) per instance of non-compliance. Repeated
+      violations may result in operational restrictions, including suspension or
+      prohibition of operations within the Philippines, upon the recommendation
+      of the NDCOB;
+   d. For repeated offenders: Both individuals and platforms engaging in
+      repeated violations shall face escalating penalties, including maximum
+      fines, longer imprisonment, and stricter operational sanctions for
+      platforms.
+
+
+
+SEC. 28. Rehabilitation and Training Programs. – First-time individual
+offenders may, in addition to penalties, be required to attend mandatory
+workshops on digital ethics, online responsibility, and critical thinking skills to
+prevent repeat offenses.
+
+
+
+SEC. 29. Restorative Justice Measures. – Individuals or platforms found guilty
+of violations may be required to:
+
+   a. Issue public corrections, apologies, or clarifications for disseminated false
+      or harmful content; and
+   b. Fund awareness campaigns on responsible online behavior and digital
+      ethics.
+
+SEC. 30. Civil Liability. In addition to the criminal penalties provided herein, the
+offender shall be civilly liable for moral and exemplary damages as provided
+under existing laws.
+                                                                                 17
+                                  CHAPTER VI
+                              FINAL PROVISIONS
+
+
+SEC. 31. Appropriations. The amount necessary for the implementation of this
+Act shall be included in the annual General Appropriations Act.
+
+
+
+SEC. 32. Implementing Rules and Regulations. The DICT, in coordination with
+the NDCOB and other relevant agencies, shall issue the necessary rules and
+regulations for the effective implementation of this Act within 90 days from its
+effectivity.
+
+
+
+SEC. 33. Separability Clause. If any provision of this Act is declared invalid or
+unconstitutional, the remaining provisions shall not be affected and shall continue
+to be in full force and effect.
+
+
+
+SEC. 34. Repealing Clause. All laws, presidential decrees, executive orders,
+rules, and regulations inconsistent with or contrary to the provisions of this Act
+are hereby repealed or modified accordingly.
+
+
+
+SEC. 35. Effectivity Clause. This Act shall take effect fifteen (15) days after its
+publication in the Official Gazette or in a newspaper of general circulation.
+
+
+
+Approved,
+
+
+
+
+                                                                                 18
+

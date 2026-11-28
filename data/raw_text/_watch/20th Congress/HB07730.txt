@@ -1,0 +1,2688 @@
+                                   Republic of the Philippines
+                                  HOUSE OF REPRESENTATIVES
+                                   Quezon City, Metro Manila
+                                                                                      February 10, 2026
+
+                                      TWENTIETH CONGRESS                                  5:59 pm
+
+                                       First Regular Session
+
+
+
+                                   HOUSE BILL NO.         7730
+
+
+                                Introduced by
+       LONE DISTRICT OF DINAGAT ISLANDS REPRESENTATIVE KAKA BAG-AO,
+and AKBAYAN REPRESENTATIVES JOSE MANUEL TADEO “CHEL” I. DIOKNO, PERCIVAL V.
+                      CENDAÑA, and DADAH KIRAM ISMULA
+
+
+
+                                    AN ACT
+    INSTITUTING A NATIONAL LAND USE AND MANAGEMENT POLICY, PROVIDING THE
+         IMPLEMENTING MECHANISMS THEREFOR, AND FOR OTHER PURPOSES
+
+
+
+                                EXPLANATORY NOTE
+
+The 1987 Philippine Constitution, under Article XII, Section 2, mandates that all lands of the
+public domain and natural resources belong to the State. It further charges the State with the
+responsibility of ensuring that the use of land bears a social function and contributes to the
+common good. Despite this constitutional mandate, the Philippines remains without a
+comprehensive national law that governs the classification, management, and utilization of
+its finite land and water resources. For decades, land use in the country has been managed
+through a fragmented, sectoral approach, resulting in overlapping jurisdictions among
+government agencies, the rapid loss of prime agricultural lands, and the proliferation of human
+settlements in high-risk disaster zones.
+
+The necessity of this measure is underscored by the alarming rate of land conversion and
+environmental degradation. Official data from the Philippine Statistics Authority (PSA),
+specifically the 2022 Census of Agriculture and Fisheries (CAF), reveals a staggering decline
+in the nation’s agricultural base. From a peak of 9.97 million hectares in 1991, the total area
+of agricultural farms has plummeted to 6.16 million hectares as of 2022. This represents a
+loss of 3.81 million hectares—or approximately 38.2% of our total agricultural land—in just
+three decades. This rapid disappearance of farmlands, primarily due to unchecked land
+conversion for residential and industrial purposes, poses a direct and existential threat to the
+nation’s food security.1
+
+
+1
+  Philippine Statistics Authority. (2024, December 30). 2022 Census of Agriculture and Fisheries:
+Statistical tables on agricultural farm and parcel characteristics (Report No. 1). https://psa.gov.ph
+Furthermore, the urgency for a unified spatial framework is intensified by our vulnerability to
+climate change. The Department of Environment and Natural Resources – Mines and
+Geosciences Bureau (DENR-MGB) has consistently reported that approximately 60% of the
+Philippines' total land area is highly susceptible to multiple geo-hazards, including landslides
+and flooding. Despite these scientific warnings, the lack of a national land use law has
+permitted continued settlement in these "danger zones." Compounding this is the pressure of
+rapid urbanization; the World Bank projects that by 2050, nearly 7 in 10 Filipinos will reside in
+urban areas, a shift that will inevitably lead to further "urban sprawl" and ecological collapse
+if not managed through the national strategy proposed in this Act.2
+
+This bill seeks to institutionalize a National Land Use and Management Policy by categorizing
+land into four major functional uses: Protection, Production, Settlements, and Infrastructure.
+By clearly delineating these areas, the State ensures that critical watersheds, key biodiversity
+areas, and prime agricultural lands are protected from encroachment in perpetuity. It also
+establishes a rationalized system for "Production Land Use," where economic activities such
+as mining, energy development, and industry are balanced against ecological stability.
+
+A salient feature of this Act is the creation of the National Land Use Policy Commission
+(NLUPC) under the Office of the President. The NLUPC shall serve as the highest policy-
+making body, tasked to resolve conflicting land use policies between national agencies and
+local government units (LGUs). It harmonizes the "bottom-up" approach of the Local
+Government Code with national development goals, ensuring that Comprehensive Land Use
+Plans (CLUPs) at the municipal level are data-driven and resilient to climate change.
+
+Moreover, this measure grants significant recognition to the rights of Indigenous Cultural
+Communities (ICCs) and Indigenous Peoples (IPs). By mandating the integration of Ancestral
+Domain Sustainable Development and Protection Plans (ADSDPPs) into local and national
+physical framework plans, the bill upholds the principle of self-determination while ensuring
+that ancestral lands are protected from unauthorized alienation.
+
+In view of the gravity of the issues addressed and the long-standing need for a unified land
+policy, the immediate passage of this bill is earnestly sought.
+
+
+
+
+REP. KAKA BAG-AO                               REP. JOSE MANUEL TADEO “CHEL” I. DIOKNO
+Lone District of Dinagat Islands               AKBAYAN Party-list
+
+
+
+
+REP. PERCIVAL V. CENDAÑA                       REP. DADAH KIRAM ISMULA
+AKBAYAN Party-list                             AKBAYAN Party-list
+
+
+
+2
+ Mines and Geosciences Bureau. (2022). National geohazard mapping and assessment program:
+Consolidated report on ﬂood and landslide susceptibility. Department of Environment and Natural
+Resources.
+                                     Republic of the Philippines
+                                    HOUSE OF REPRESENTATIVES
+                                     Quezon City, Metro Manila
+
+                                        TWENTIETH CONGRESS
+                                         First Regular Session
+
+
+
+                                     HOUSE BILL NO.        7730
+
+                                      Introduced by
+             LONE DISTRICT OF DINAGAT ISLANDS REPRESENTATIVE KAKA BAG-AO,
+            and AKBAYAN REPRESENTATIVES JOSE MANUEL TADEO “CHEL” I. DIOKNO,
+                      PERCIVAL V. CENDAÑA, and DADAH KIRAM ISMULA
+
+
+
+      AN ACT INSTITUTING A NATIONAL LAND USE AND MANAGEMENT POLICY, PROVIDING
+          THE IMPLEMENTING MECHANISMS THEREFOR, AND FOR OTHER PURPOSES
+
+ 1   Be it enacted by the Senate and the House of Representatives of the Philippines in Congress
+ 2   assembled:
+ 3
+ 4                                          CHAPTER I
+ 5                                   INTRODUCTORY PROVISIONS
+ 6
+ 7   SECTION 1. Short Title. – This Act shall be known as the “National Land Use Act”.
+ 8
+ 9   SECTION 2. Declaration of Principles and Policies. – All lands of the public domain, waters,
+10   minerals, coal, petroleum, and other mineral oils, all forces of potential energy, fisheries,
+11   forests, or timber, wildlife, flora and fauna, and other natural resources are owned by the State.
+12   Except for agricultural lands, all other natural resources shall not be alienated. Moreover,
+13   natural resources found in ancestral domains owned by the concerned indigenous Cultural
+14   Community shall not be alienated.
+15
+16   Pursuant to the constitutional provision or mandate, it is the policy of the State to recognize
+17   the need for rational, holistic, gender-responsive, optimal, and sustainable housing settlement
+18   development, consistent with the principles of inclusivity, resiliency, environmental
+19   management, and equitable access to land and security.
+20
+21   Toward this end, the State shall institutionalize land and water use and physical planning as a
+22   mechanism for identifying, determining, and evaluating appropriate land use and just
+23   allocation patterns that promote and ensure:
+24
+25      (a) Provide for a rational, holistic, gender-responsive, optimal, and just allocation,
+26          utilization, management, and development of the country’s land and water resources
+
+
+                                                                                                     2
+ 1      so that their use is consistent with the principles of inclusivity, resiliency, equity, social
+ 2      justice, environmental integrity, and sustainable development for the common good;
+ 3
+ 4   (b) Hold owners and users of land and waters responsible for developing and conserving
+ 5       their lands, thereby making these productive and supportive of sustainable
+ 6       development and environmental stability in accordance with the principle that the use
+ 7       of land bears a social function and that all economic agents shall contribute to the
+ 8       common good;
+ 9
+10   (c) Treat groups of islands, including parts of islands, interconnecting waters and other
+11       natural features which are so closely interrelated, as forming an intrinsic geographical,
+12       economic and political entity, or which historically have been regarded as such an
+13       entity;
+14
+15   (d) Strengthen the capacity of the local government units (LGUs) to manage and maintain
+16       ecological balance within their territorial jurisdiction, in partnership with the national
+17       government, in accordance with the Philippine Constitution and Republic Act 7160 or
+18       the Local Government Code of 1991.
+19
+20   (e) Sustainable and just management and utilization of natural resources;
+21
+22   (f) Maintenance and preservation of environmental integrity and stability, specifically the
+23       perpetual protection of permanent forests and watershed, coastal, and ecosystem
+24       services for the attainment of food, water, and energy sufficiency;
+25
+26   (g) Protection and conservation of the country’s natural heritage, permanent forest lands,
+27       natural forests, critical watersheds, and key biodiversity areas to ensure adequate
+28       forest cover to maintain ecological processes in the country;
+29
+30   (h) Disaster risk reduction and climate risk-based planning;
+31
+32   (i) Protection of prime agricultural lands for food security, with emphasis on self-
+33       sufficiency through efficient and sustainable use of land resources consistent with the
+34       principles of sound agricultural development, natural resources development, and
+35       agrarian reform;
+36
+37   (j) Water security through sustainable development and management of water resources
+38       towards water security;
+39
+40   (k) Sustainable development and management of water resources;
+41
+42   (l) Housing Settlements, and other infrastructure development in support of safe,
+43       inclusive growth and rural, urban, and regional development;
+44   (m) Provision of adequate and efficient settlements, transportation, and infrastructure
+45       development in support of urban, peri-urban, and rural linkages towards regional
+46       development and inclusive growth;
+47
+                                                                                                    3
+ 1   (n) Adequate supply of affordable housing, especially for low-income households, that
+ 2       adopts appropriate approaches and designs;
+ 3
+ 4   (o) Promote and develop sustainable, affordable, and efficient mass transit and active
+ 5       mobility options in support of urban, peri-urban, and rural linkages towards regional
+ 6       development and inclusive growth;
+ 7
+ 8   (p) Harmony between the rights and the varied interests of every Filipino within the
+ 9       framework of people empowerment, decentralization, social justice, and equity;
+10
+11   (q) Respect for and protection of the sustainable traditional resource rights of the
+12       Indigenous Cultural Communities/Indigenous Peoples (ICCs/IPs) to their ancestral
+13       domains to ensure their economic, social, and cultural well- being as well as
+14       recognition of the applicability of customary laws and sustainable traditional resource
+15       use and management, knowledge, and practices in ancestral domains in compliance
+16       with free and prior informed consent of ICC/IPs;
+17
+18   (r) Equitable access to land through State intervention that guarantees its affordability to
+19       the basic sectors;
+20
+21   (s) Protection and conservation of parks and protected areas to keep the scenery, the
+22       natural and historic objects, and the biodiversity therein in their natural state and
+23       prevent them from being damaged for purposes of public recreational use and
+24       enjoyment; and
+25
+26   (t) Water security through sustainable development and management of water resources
+27       towards water security;
+28
+29   (u) Attainment of energy security and self-sufficiency;
+30
+31   (v) Protection and meaningful participation in the rights of basic sectors to equitable
+32       access to the country's land;
+33
+34   (w) A whole-of-society and whole-of-government orientation, through which thrusts and
+35       strategies espoused by different actors and sectors are heard and brought together to
+36       achieve complex and interrelated goals, is encouraged and adopted as a basic
+37       parameter in achieving efficiency in land use and allocation, within the framework of
+38       ecological development and equity.
+39
+40   (x) Promotion of the integrated approach to land use and urban transport planning to
+41       effectively manage growth in urban areas and ensure that the capacity of transport
+42       facilities can accommodate the demand for movement of passengers and goods to,
+43       and from and within the centers of socioeconomic activities;
+44
+45   (y) Vertical and horizontal linkages or spatial strategies and the potential for co-
+46       management and inter-locality cooperation across territorial jurisdictions and
+
+                                                                                               4
+ 1          government levels, highlighting the imperative for a ridge-to-reef and ecosystem-
+ 2          based approach to land and water resource management and governance; and
+ 3
+ 4      (z) Data and evidence-informed management and governance of land and water
+ 5          resources, in line with the place-based aspirations and shared values of the
+ 6          community.
+ 7
+ 8   It is also the policy of the State to ensure that local government units (LGUs) share with the
+ 9   national government the responsibility of managing and maintaining ecological balance
+10   within their territorial jurisdiction, as stated in the 1987 Constitution and Republic Act 7160,
+11   as amended, also known as the "Local Government Code of 1991". Guided by the principle
+12   that the use of land bears a social function and that all economic agents contribute to the
+13   common good, landowners, land tenure holders, in the case of forestlands, whether an
+14   individual, communal, corporate, or group, is held responsible for developing and conserving
+15   their lands, thereby making their lands productive and supportive of environmental stability.
+16
+17   SECTION 3. Scope. – This Act shall apply to all lands and all resources therein, whether public,
+18   private, government-owned, and/or in the possession of any person, whether natural or
+19   juridical, and shall guide the rational, holistic, and just allocation, utilization, development and
+20   management of the country’s land and water resources including such activities that bear
+21   impact on said resources.
+22
+23   SECTION 4. Definition of Terms. – As used in this Act:
+24
+25      (a) Agricultural Land refers to the sub-class of classified agricultural lands devoted to or
+26          suitable for the cultivation of the soil, planting of crops, growing of trees, raising of
+27          livestock, poultry, fish or aqua-culture production, including the harvesting of such
+28          farm products, and other farm activities and practices performed in conjunction with
+29          such farming operations, by persons whether natural or juridical, and not classified as
+30          residential land, commercial land or industrial land, provided further that the
+31          reclassified agricultural land shall secure a conversion order from DAR;
+32
+33      (b) Agricultural Land Use Conversion refers to the undertaking of any development activity
+34          which modifies or alters the physical characteristics of agricultural lands to render
+35          them suitable for non-agricultural purposes under an approved order of conversion
+36          issued by the appropriate government agency;
+37
+38      (c) Alienable and Disposable Lands of the Public Domain refer to lands of the public
+39          domain which have been delineated, classified, and certified as such and available for
+40          disposition under Commonwealth Act No. 141, otherwise known as the Public Land
+41          Act, as amended;
+42
+43      (d) Ancestral Domains refer to all areas generally belonging to indigenous cultural
+44          communities/indigenous peoples as defined in Republic Act (R.A.) No. 8371,
+45          otherwise known as the Indigenous Peoples Rights Act (IPRA) of 1997;
+46
+
+                                                                                                       5
+ 1   (e) Ancestral Domain Sustainable Development and Protection Plan (ADSDPP) refers to a
+ 2       plan formulated and pursued in accordance with the rights of ICCs/IPs to manage and
+ 3       develop the land as well as natural and human resources within their ancestral
+ 4       domains based on their indigenous knowledge systems and practices on the principle
+ 5       of self-determination;
+ 6
+ 7   (f) Basic sector refers to a group of people not referring to any organized groups, such as
+ 8       but not limited to women, youth, the elderly, differently abled, peasants, and fisherfolk.
+ 9
+10   (g) Classified Agricultural Land refers to one of the four (4) classifications of land under
+11       the Constitution, not classified by law as mineral land, forest land, or national park, and
+12       the only land classification subject to alienation
+13
+14   (h) Coastal area or zone refers to a band of dry land and the adjacent ocean space, water,
+15       and submerged land, in which terrestrial processes and uses directly affect oceanic
+16       processes and uses and vice versa, the geographic extent of which includes areas
+17       within a landward limit of one (1) kilometer from the shoreline at high tide to include
+18       mangrove swamps, brackish water ponds, nipa swamps, estuarine rivers, sandy
+19       beaches and other areas within a seaward limit of two hundred (200) meters isobath
+20       to include coral reefs, algal flats, seagrass beds, and other soft-bottom areas.
+21
+22   (i) Comprehensive Land Use Plan (CLUP) refers to a document embodying a set of
+23       policies, accompanied by maps and similar illustrations that serve as a policy guide
+24       for determining the future use of lands and natural resources within the territorial
+25       jurisdiction of the LGUs. It represents the community-desired patterns of population
+26       distribution and proposes future allocation of land and resources to various activities.
+27       It includes the processes and criteria employed in such determination of allocation of
+28       land and resources. It is a plan for the long-term management of the local territory
+29       covering a period of minimum of ten (10) years, reviewable not earlier than every ten
+30       (10) years based on the four (4) categories of land use planning provided in Section 6
+31       of this Act;
+32
+33   (j) Comprehensive Land Use Planning refers to the act of defining the allocation,
+34       utilization, development, and management of all lands within a given territory or
+35       jurisdiction according to the inherent characteristics of the land itself and supportive
+36       of sustainable, economic, demographic, socio-cultural, and environmental objectives
+37       as an aid to decision-making and legislation;
+38
+39   (k) Critical habitats refer to the areas outside protected areas as defined in. R.A. 7586,
+40       otherwise known as the National Integrated Protected Areas System Act of 1992,
+41       which are known habitats of threatened species and designated as such based on
+42       scientific data, taking into consideration species endemicity or richness, presence of
+43       human-made pressures or threats to the survival of wildlife living in the area.
+44
+45   (l) Critical Watershed refers to watersheds or forestlands that have been identified and
+46       evaluated to provide critical and vital natural, ecological, environmental and physical
+47       beneficial services such as water, biodiversity, energy, irrigation, social and cultural,
+                                                                                                6
+ 1      among others to a specific area or community and whose biophysical condition
+ 2      protection, conservation, and management to prevent its further denudation,
+ 3      deterioration and exploitation;
+ 4
+ 5   (m) Cultural heritage refers to the totality of cultural properties, whether natural or human-
+ 6       made, preserved and developed through time and passed on for posterity;
+ 7
+ 8   (n) Cultural property refers to a body of written or unwritten usages, customs, and
+ 9       practices traditionally and continually recognized, accepted, and observed by
+10       respective ICCs/IPs, consistent with RA 8371
+11
+12      It also refers to all products of human creativity by which a people and a nation reveal
+13      their identity, including churches, mosques, and other places of religious worship,
+14      schools, and natural history specimens and sites, whether public or privately-owned,
+15      movable or immovable, and tangible or intangible;
+16
+17   (o) Customary laws refer to a body of written or unwritten rules, usages, customs, and
+18       practices traditionally and continually recognized, accepted, and observed by
+19       respective ICCs/IPs, consistent with RA 8371;
+20
+21   (p) Danger Zones refer to areas with a high level of threat to the lives and well-being of
+22       people that cannot be addressed through scientific, physical, and engineering
+23       methods, and are therefore not suitable for housing settlement and permanent
+24       structures. Areas can only be declared as Danger Zones after proper technical studies
+25       and public consultations with affected families are conducted.
+26
+27   (q) Development Plan refers to a document that defines the activities and measures that
+28       the national government or LGUs intend to implement over a specified period of time
+29       to achieve the defined set of development goals identified in the national or local
+30       physical framework plans. It integrates socio-economic, financial, fiscal, legal and
+31       legislative, institutional and sectoral plans of the national government or any of its
+32       instrumentalities or a particular LGU, consistent with the objectives identified in spatial
+33       plans such as land use plans or physical framework plans. It may include an analysis
+34       of problems and resources, a definition of goals and objectives, policy guidelines,
+35       project and target achievements, and an implementation mechanism that defines the
+36       roles and contributions expected from the government and the private sector.
+37
+38   (r) Disaster-prone Areas or Geo-hazard Areas refer to areas frequented by and/or
+39       vulnerable to experiencing weather, climatic, geologic, and other natural disturbances
+40       or hydrologic calamities.
+41
+42   (s) Indigenous Cultural Communities/Indigenous Peoples (ICCs/IPPs) refer to groups of
+43       people or homogenous societies identified by self-ascription and ascription by others,
+44       who have continuously lived as organized community on communally bounded and
+45       defined territory, and who have under claims of ownership since time immemorial,
+46       occupied, possessed, and utilized such territories, sharing common bonds of
+47       language, customs, traditions, and other distinctive cultural traits, or who have through
+                                                                                                 7
+ 1      resistance to political, social, and cultural inroads of colonization, non-indigenous
+ 2      religions and cultures, became historically differentiated from the majority of Filipinos
+ 3      including peoples who are regarded as indigenous on account of their descent from
+ 4      the populations which inhabited the country at the time of conquest or colonization, or
+ 5      at the time of inroads of non-indigenous religions and cultures, or the establishment
+ 6      of present state boundaries, who retain some or all of their own social, economic,
+ 7      cultural, and political institutions, but who may have been displaced from their
+ 8      traditional domains, or who may have resettled outside their ancestral domains;
+ 9
+10   (t) Disaster Risk Reduction refers to the concept and practice of reducing disaster risks
+11       through systematic efforts to analyze and manage the causal factors of disasters,
+12       including reduced exposure to hazards, lessened vulnerability of people and property,
+13       wise management of land and the environment, and improved preparedness for
+14       adverse events;
+15
+16   (u) Ecologically-fragile Lands refer to lands within critical watersheds, brackish and
+17       freshwater wetlands, pasture lands, inland rivers and waterways, coastal and
+18       settlement areas, and croplands which require rehabilitation, protection and whose
+19       continued unsustainable use would result in physical risks and threats to life and
+20       property, public health and safety, as well as adversely affect the productivity of
+21       lowland agricultural areas and stability of the upland system;
+22
+23   (v) Ecotourism refers to a form of sustainable tourism within a natural and/or cultural
+24       heritage area where community participation, protection and management of natural
+25       resources, culture and indigenous knowledge and practices, environmental education
+26       and ethics, as well as economic benefits are fostered and pursued for the enrichment
+27       of the host community and satisfaction of visitors;
+28
+29   (w) Energy Resources refer to surface or substances that serve as energy resources,
+30       including traditional mineral fuel deposits such as coal, petroleum, natural gas, or
+31       resources from geothermal, hydro reservoirs, or non-conventional sources such as
+32       ocean waves, solar, wind, biomass, and other similar resources which serve the same
+33       purpose;
+34
+35   (x) Energy Resource Lands refer to lands where naturally occurring or indigenous energy
+36       resources exist in sufficient quantity and/or quality as to be economically viable for
+37       exploration, development, production, utilization, and distribution purposes;
+38
+39   (y) Environmentally Critical Areas refer to areas declared by law as:
+40          i.  areas for natural parks, watershed reserves, wildlife preserves, and
+41              sanctuaries;
+42         ii.  areas set aside for aesthetic and visual value;
+43        iii.  areas that constitute the habitat for any endangered or threatened species of
+44              indigenous Philippine wildlife both flora and fauna;
+45        iv.   areas of unique historic, archaeological, or scientific interests;
+46         v.   areas that are traditionally occupied by ICCs/IPs;
+47        vi.   areas with critical slopes;
+                                                                                            8
+ 1       vii.    areas frequented and/or hard hit by natural calamities such as but not limited
+ 2               to geologic hazards, floods, typhoons, and volcanic activities;
+ 3       viii.   recharge areas of aquifers;
+ 4        ix.    mangrove areas;
+ 5         x.    coral reefs;
+ 6        xi.    mossy and virgin forests;
+ 7       xii.    rivers and riverbanks;
+ 8       xiii.   swamp forest and marshlands;
+ 9       xiv.    foreshore lands;
+10       xv.     protected areas pursuant to Republic Act No. 7586 or the NIPAS Act of 1992;
+11               and
+12       xvi.    areas set aside as aesthetic potential tourist spots. This term shall also include
+13               other terrestrial, aquatic, and marine areas that need special protection and
+14               conservation measures because they are ecologically fragile or are needed for
+15               food security and food self-sufficiency, as determined by concerned agencies
+16               and LGUs in consultation with the concerned stakeholders.
+17
+18   (z) Exhausted energy resource sites shall refer to specific energy resource sites whose
+19       energy reserves of the desired type/s are no longer in sufficient quantity or quality, and
+20       in the case of renewable energy, cannot be sustainably harvested to justify additional
+21       expenditure for their extraction and utilization and the renewal of use as determined
+22       and certified by the DOE.
+23
+24   (aa)       Exhausted Mineral Resources refer to a situation where the mineral resources
+25       in specific sites are no longer in sufficient quantity or quality to justify additional
+26       expenditure for extraction or utilization as determined by the Mines and Geosciences
+27       Bureau and approved by the Department of Environment and Natural Resources
+28       (DENR);
+29
+30   (bb)        A flood plain refers to relatively smooth valley floors adjacent to and formed by
+31       rivers that overflow their banks at flood stages. The plain usually consists of
+32       unconsolidated fine sediments such as sand, silt, and clay;
+33   (cc)        Flood-prone areas refer to low-lying areas usually adjacent to large or active
+34       water bodies and which therefore experience regular or seasonal inundation as a result
+35       of changes in the mean water level of these bodies or because of land reclamation
+36       and other artificial interference with the natural processes;
+37
+38   (dd)      Food Security refers to the meeting of the food availability, accessibility, and
+39      affordability requirements of the present and future generations of Filipinos in a
+40      sustainable manner, through local production or importation in cases of shortage
+41      based on a micro level situation, or both, and taking into account the country's existing
+42      and potential resource endowments and related production advantages, and
+43      consistent with the overall national development objectives and policies;
+44
+45   (ee)        Food Self-sufficiency refers to the meeting of the food requirements through
+46       local food production in a sustainable manner based on the country’s existing and
+47       potential resources and related production advantages;
+                                                                                            9
+ 1
+ 2   (ff) Foreshore land refers to a string of land marginating a body of water, the part of a
+ 3        seashore between the low-water line, usually at the seaward margin of a low tide
+ 4        terrace, and the upper limit of wave wash at high tide marked by a beachscape or berm;
+ 5
+ 6   (gg)      Forest refers to an ecosystem or an assemblage of ecosystems dominated by
+ 7      trees and other woody vegetation of a community of plants and animals interacting
+ 8      with one another and their physical environment;
+ 9
+10   (hh)        Forest lands refer to one of the four classifications of land defined in the
+11       Constitution under the public domain, determined as suitable for forest purposes and
+12       not classified as mineral land, national park, or agricultural land, such as all permanent
+13       reserves, forest reservations, and all the remaining unclassified lands of the public
+14       domain;
+15
+16   (ii) Forest Land Use Plan (FLUP) refers to the allocation of forest lands into their
+17        appropriate uses consistent with existing biophysical conditions such as topography,
+18        soil type, land use, climate, water sources, and socioeconomic, cultural, and political
+19        realities. Forest land use planning should be able to delineate protection and
+20        production forests consistent with their ecological significance;
+21
+22   (jj) Forest Land Sub-classification refers to the process of determining the most
+23        appropriate and sustainable use of forest lands primarily as a protection forest and a
+24        production forest. They may be further sub-classified as grazing/pasture land,
+25        recreational areas, and other uses, taking into account ecological, social and
+26        economic considerations;
+27
+28     (kk)     Free, Prior and Informed Consent (FPIC) refers to the consensus of all members
+29     of the ICCs/IPs to be determined in accordance with their respective customary laws
+30     and practices, free from any external manipulation, interference and coercion, and
+31     obtained after fully disclosing the intent and scope of the activity, in a language and
+32     process understandable to the community;
+33
+34   (ll) Geo-hazards refer to nature and human-induced geological processes that have
+35        potential to cause destruction and which pose a threat or risk to a person’s life and
+36        property. These may include but are not limited to ground, water and weather-related
+37        conditions, volcanic and earthquake induced hazards such as ground shaking, ground
+38        rupture, earthquake-induced landslides, liquefaction and tsunamis.
+39
+40   (mm)     Heritage zone refer to historical, anthropological, archaeological, artistic, and
+41     geographical areas and settings that are culturally significant to the country, as
+42     declared by the National Commission for Culture and the Arts (NCCA) and/or the
+43     National Historical Commission of the Philippines (NCHP);
+44
+45   (nn)        Housing refers to a multi-dimensional concept relating to the process of
+46       residing and the objects of dwelling whose main attributes are location relative to
+47       access to livelihood, tenure arrangements, cost and physical structure, as well as their
+                                                                                              10
+ 1      environment. Housing is likewise a physical structure as well as a social structure,
+ 2      functioning at different spatial scales from homes, neighborhoods, communities,
+ 3      municipalities, cities, provinces, and regions. It is also a sector of the economy, an
+ 4      important category of land use in both urban and rural areas, especially in cities, and
+ 5      is an important factor in the overall dynamics of the urban system.
+ 6
+ 7   (oo)      Human settlements comprise of
+ 8          a. physical components of shelter and infrastructure; and
+ 9          b. services to which the physical elements provide support, such as community
+10             services which include education, health, culture, welfare, recreation and
+11             nutrition.
+12
+13   (pp)        Illegal conversion refers to an attempt to or an actual change in the use of land
+14      from agricultural to a residential, commercial or industrial, and other non-agricultural
+15      activity, without a conversion grant or clearance based on the requirements under
+16      Section 65 of R.A. 6657, as amended. and to dispossess a tenant as provided under
+17      Section 73 (c) of R.A. 6657, as amended, when established from the following
+18      instances:
+19          a. an agricultural land is developed for use in non-agricultural activities without a
+20               DAR Conversion Order;
+21          b. the agricultural land being converted is irrigated or irrigable;
+22          c. there is land activity such as, but not limited to earth filling/duping, earth
+23               moving/digging, and quarrying, and in each case, bona fide conduct of
+24               agricultural activities on a greater portion of the land developed has ceased;
+25               and
+26          d. Other analogous activities.
+27
+28   (qq)       Indigenous Cultural Communities/Indigenous Peoples (ICCs/IPs) refer to groups
+29      of people or homogenous societies identified by self–ascription and ascription by
+30      others, who have continuously lived as organized community on communally bounded
+31      and defined territory, and who have, under claims of ownership since time immemorial,
+32      occupied, possessed and utilized such territories, sharing common bonds of language,
+33      customs, traditions and other distinctive cultural traits, or who have, through
+34      resistance to political, social and cultural inroads of colonization, non-indigenous
+35      religions and cultures, became historically differentiated from the majority of Filipinos.
+36      ICCs/IPs shall likewise include peoples who are regarded as indigenous on account of
+37      their descent from the populations which inhabited the country, at the time of conquest
+38      or colonization, or at the time of inroads of non-indigenous religions and cultures, or
+39      the establishment of present State boundaries, who retain some or all of their own
+40      social, economic, cultural and political institutions, but who may have been displaced
+41      from their traditional domains or who may have resettled outside their ancestral
+42      domains
+43
+44   (rr) Inland Waters refer to waters, which are not coastal and marine waters, and not subject
+45        to acquisitive prescription consistent with the provisions of Presidential Decree No.
+46        1067 or the Water Code of the Philippines;
+47
+                                                                                               11
+ 1   (ss)       Integrated Watershed Management refers to a planning strategy or program for
+ 2       watershed areas that complements environmentally-sound soil and water
+ 3       management practices with mechanisms for ensuring greater responsibility,
+ 4       involvement, or participation of individuals, groups, communities and other
+ 5       stakeholders benefitting from these areas and water-related infrastructure;
+ 6
+ 7   (tt) Key Biodiversity Areas (KBAs) refer to sites contributing significantly to the global
+ 8        persistence of biodiversity in terrestrial, freshwater and marine ecosystems. They are
+ 9        identified by a standard set of criteria against scientifically defined thresholds
+10
+11   (uu)       Land refers - to resources, both natural and artificial found on the surface,
+12       below, and above the ground including inland waters and the air therein;
+13
+14   (vv)Land Use refers to the manner of allocation, utilization, management and development
+15       of land;
+16
+17   (ww)      Land Sub-classification refers to the act of determining and assigning specific
+18      uses of classified lands such as forest lands, classified agricultural lands, mineral
+19      lands and national parks in accordance with existing laws and this Act;
+20
+21   (xx)Land Use Classification refers to the act of delineating or allocating lands according to
+22       protection land use, production land use, settlements development and infrastructure
+23       development as defined and provided for in this Act;
+24
+25   (yy) Mandatory Public Hearings/Consultations refer to the mechanism to ensure the
+26       involvement of concerned stakeholders and communities in land use planning, from
+27       the barangay to the national level, to ensure the social acceptability of the plans. It
+28       should involve giving notice of hearing/consultation to concerned stakeholders
+29       through publication or posting in conspicuous places, conduct of a reasonable number
+30       of hearings, and solicitation of positions to arrive at a consensus. Public presentation
+31       and validation of the planning results shall also be undertaken before the final
+32       adoption of the plans;
+33
+34   (zz)Marine Protected Area (MPA) refers to a defined area of the sea established and set
+35       aside by law, administrative regulation or any other effective means in order to
+36       conserve and protect a part of or the entire enclosed environment, through the
+37       establishment of management guidelines. It includes all declared areas governed by
+38       specific rules, guidelines, or customs in order to protect and manage activities within
+39       the enclosed area. This may include areas identified as protected areas by the
+40       surrounding community;
+41
+42   (aaa)     Mineral Exploration refers to the systematic searching or prospecting for
+43      mineral resources including energy resources, with respect to the purposes stated in
+44      SECTION 31 of this law;
+45
+
+
+
+                                                                                               12
+ 1   (bbb)      Minerals refer to naturally inorganic substance beneath or at the surface of the
+ 2      earth, whether or not under water, and includes all metallic minerals, and non-metallic
+ 3      minerals such as precious stones, industrial rocks, and building stones.
+ 4
+ 5   (ccc)      Mineral Lands refer to lands of the public domain, excluding those in permanent
+ 6      forestlands and protection lands, where mineral resources are found in sufficient
+ 7      quantity and quality for extraction, development and utilization;
+ 8
+ 9   (ddd)      Mineral reservations refer to areas established and proclaimed as such by the
+10      President of the Philippines upon the recommendation of the Director of the Mines
+11      and Geosciences Bureau through the DENR Secretary including all submerged lands
+12      within the contiguous zone and exclusive Economic Zone.
+13
+14   (eee)      Multiple Use of Land Resources refer to the utilization or management strategy
+15      for any land, which allows any activity, involving two or more of its resources,
+16      depending on the result of prior evaluation on its numerous beneficial use, that will
+17      produce the optimum benefits to the development and progress of the local
+18      communities and the country and the public welfare without impairment or with the
+19      least injury to its other resources and the environment
+20
+21   (fff)        Municipal Waters refers to not only streams, lakes, inland bodies of water and
+22        tidal waters within the municipality which are not included within the protected areas
+23        as defined under Republic Act No. 7586 of the National Integrated Protection Areas
+24        System or the NIPAS Act of 1992, public forest, timber lands, forest reserves or fishery
+25        reserves, but also marine waters included between two (2) lines drawn perpendicular
+26        to the general coastline from points where the boundary lines of the municipality touch
+27        the sea at low tide and a third line parallel with the general coastline including offshore
+28        islands and fifteen (15) kilometers from such coastline. Where the territory of a
+29        municipality includes several islands, the outermost points of such islands shall be
+30        used as base points and connected by archipelagic baselines, irrespective of the
+31        lengths of such baselines from the main coastlines. Where the two (2) municipalities
+32        are situated on opposite shores that there is less than thirty (30) kilometers of marine
+33        waters between them, the third line shall be equally distant from opposite shore of the
+34        respective municipalities;
+35
+36   (ggg)     National Integrated Protected Areas System (NIPAS) refers to the classification
+37      and administration of all designated protected areas to maintain essential ecological
+38      processes and life-support systems, to preserve genetic diversity, to ensure
+39      sustainable use of resources found therein, and to maintain their natural conditions to
+40      the greatest extent possible;
+41
+42   (hhh)     National Land Use Policy Committee (NLUPC) refers to the administrative,
+43      policy-marking, and regulatory body created under this Act.
+44
+45   (iii) National Park refers to forest reservation essentially of natural wilderness character
+46         which has been withdrawn from settlement, occupancy or any form of exploitation
+47         except in conformity with approved management plan and set aside as such
+                                                                                               13
+ 1      exclusively to conserve the area or preserve the scenery, natural and historic objects,
+ 2      wild animals and plants therein and to provide enjoyment of these featured in such
+ 3      areas. It shall also refer to lands and waters of the public domain classified as such in
+ 4      the 1987 Constitution which include all areas under the NIPAS pursuant to Republic
+ 5      Act No. 7586 or the NIPAS Act of 1992, primarily designated for the conservation of
+ 6      native plants and animals and associated habitats and cultural diversity;
+ 7
+ 8   (jjj) Network of Protected Areas for Agriculture and Agro-industrial Development (NPAAAD)
+ 9         refers to agricultural areas identified by the Department of Agriculture (DA) through
+10         the Bureau of Soils and Water Management (BSWM) in coordination with the National
+11         Mapping and Resource Information Authority (NAMRIA) in order to ensure the efficient
+12         utilization of land for agriculture and agro-industrial development and to promote
+13         sustainable growth. The NPAAAD covers all irrigated areas; all irrigable lands already
+14         covered by irrigation projects; all alluvial plains; lands highly suitable for agriculture
+15         whether irrigated or not; agro-industrial croplands or lands planted to industrial crops
+16         that support the validity of existing agricultural infrastructure and agro-based
+17         enterprises; highlands or areas located at an elevation of five hundred (500) meters or
+18         above and have the potential for growing semi-temperate and high value crops; all
+19         agricultural lands that are ecologically fragile the conversion of which will result in
+20         serious environmental degradation; and all mangrove areas and fish sanctuaries;
+21
+22   (kkk)       Other Effective Area-based Conservation Measure (OECM): CBD Decision 14/8
+23       defines an OECM as “a geographically defined area other than a Protected Area, which
+24       is governed and managed in ways that achieve positive and sustained long-term
+25       outcomes for the in situ conservation of biodiversity, with associated ecosystem
+26       functions and services and where applicable, cultural, spiritual, socioeconomic, and
+27       other locally relevant values.”
+28
+29   (lll) Permanent Forest Reserves refer to lands of the private or public domain which have
+30         been identified and determined to be needed for protection, conservation, preservation
+31         and management as forests and shall be reserved, conserved and protected into
+32         perpetuity for such purpose;
+33
+34   (mmm)     Permanent Forestlands refer to forestlands within public lands, that have been
+35     identified, determined, and demarcated on the ground by the State to serve such
+36     purpose and shall be protected, conserved, preserved, maintained and managed as
+37     forestlands free from any form of utilization, exploitation or development, and reserved
+38     permanently as such for the benefit and use of future generations;
+39
+40   (nnn)       Physical Framework Plans refer to the national, regional or provincial indicative
+41      plans that outline the over-all and macro-level physical development objectives,
+42      priorities, directions and strategies in its respective levels as prepared, reviewed,
+43      integrated and finalized by the national, regional and provincial land use
+44      Committees/boards, respectively, based on the Comprehensive Land Use Plans
+45      (CLUPs) of the LGUs and the national policy guidelines relating to land use and
+46      environmental management to prevent or mitigate the adverse effects of
+
+                                                                                                  14
+ 1      inappropriate resource utilization on food security, the people’s welfare, and their
+ 2      environment.
+ 3
+ 4   (ooo)      Premature conversion of agricultural land - refers to any activity that modifies
+ 5      or alters the physical characteristics of agricultural lands to render them suitable for
+ 6      non-agricultural purposes before securing an approved order of conversion from the
+ 7      DAR Secretary;
+ 8
+ 9   (ppp)       Prime Agricultural Lands refer to all contiguous irrigated areas and irrigable
+10      lands already covered by irrigation projects; all alluvial plain lands highly suitable for
+11      agriculture whether irrigated or not that have been identified to satisfy the country’s
+12      needs for food self-sufficiency and security; agro-industrial croplands or lands
+13      presently planted and suitable to industrial and high value crops; highlands, or areas
+14      located at an elevation of 500 meters or above and have the potential for growing
+15      semi-temperature and high value crops outside of declared permanent forestlands
+16      and protection forests, and are not located in ecologically-fragile and environmentally-
+17      critical areas;
+18
+19   (qqq)      Production Forest refers to forestland located in production lands managed
+20      primarily for the production of timber and other tree products;
+21
+22   (rrr)        Production Land Use refers to the direct and indirect utilization of land to
+23        generate outputs resulting from the following activities: agricultural, fish farming or
+24        aquaculture, timber or agro-forestry, grazing and pasture, mining, indigenous energy
+25        resource development, industry, and tourism;
+26   (sss)        Protection Land Use refers to the use of land primarily reserved for
+27        rehabilitation, conservation, and protection purposes and the promotion of the
+28        country’s ecological and life-support systems;
+29
+30   (ttt)Public Domain refers to lands belonging to the State which may be classified as
+31        agricultural, forest or timber, mineral, or national park as provided for in the
+32        Constitution;
+33
+34   (uuu)      Protected areas refer to portions of land and water set aside by reason of their
+35      unique physical and biological diversity and protected against human exploitation
+36      including all natural forests and agricultural lands identified and delineated under this
+37      Act;
+38
+39   (vvv)     Reforestation refers to all activities directed towards restoration, establishment
+40       and sustained management preferably using native species of diversified vegetation
+41       on denuded, degraded and/or marginal lands.
+42
+43   (www)      Reclassification of agricultural lands refer to the act of specifying how
+44      agricultural lands are classified or used for non-agricultural uses such as residential,
+45      industrial or commercial purposes, as embodied in the land use plan subject to the
+46      requirements and procedure for reclassification undertaken by the LGU in accordance
+47      with Section 20 of RA 7160, as amended;
+                                                                                             15
+ 1
+ 2   (xxx)       Resettlement Sites refer to areas identified by the appropriate national agency
+ 3       or by the local government unit, with respect to areas within its jurisdiction, which shall
+ 4       be used for the relocation of the underprivileged and homeless, as defined under
+ 5       Republic Act No. 7279 or the Urban Development and Housing Act (UDHA)
+ 6
+ 7   (yyy)      Restoration refers to returning forestland to its original forested state in terms
+ 8       of species’ composition, structure, function and productivity;
+ 9
+10   (zzz)      Restoration Zones refer to forest areas where activities are conducted to
+11       restore its forested state.
+12
+13   (aaaa)     River Basin refers to the horizontal projection of area from which a river and its
+14      tributaries receive surface water originating from precipitation;
+15
+16   (bbbb)     Sustainable development refers to the development objective of meeting the
+17      needs of the present generation without compromising the ability of future
+18      generations to meet their own needs consistent with the principles of social equity,
+19      efficiency and environmental integrity.
+20
+21   (cccc)     Settlements refer to "communities or built-up environment areas where people
+22      live, whether by choice, necessity, or circumstance." Many settlements, especially
+23      among urban poor or marginalized groups, are inhabited due to necessity,
+24      displacement, or lack of options—not because people "prefer" to live there. The word
+25      "prefer" implies comfort, choice, or desirability, which does not fit informal settlements,
+26      slums, or areas affected by disasters where people reside out of compulsion.
+27
+28   (dddd)     Settlements Development refers to any improvement on existing settlements or
+29      any proposed development of certain areas for settlement purposes. It also involves
+30      the spatial distribution of population, identification of the roles and functions of key
+31      urban centers, determination of relationships among settlement areas, and the
+32      provision of basic services and facilities of identified major settlement areas or growth
+33      centers;
+34
+35   (eeee)    Shoreline refers to a strip of land covering at least one (1) kilometer from the
+36      point where seawater reaches during the highest high tide;
+37
+38   (ffff)       Spatial Data Infrastructure refers to a system consisting of spatial data,
+39        technology, policies, practices, relationships, people and resources necessary to
+40        acquire, process, store and distribute spatial information to improve sharing and use
+41        throughout all levels of the government and private sector, among others, which shall
+42        be operationalized through electronic system that provides access to a network of
+43        spatial data sources and users and shall serve as the official linkage of the government
+44        to international and regional spatial data infrastructure;
+45
+46   (gggg)    Socialized housing refers to housing programs and projects covering houses
+47      and lots or home lots only, or residential condominium units undertaken by the
+                                                                                       16
+ 1      government or the private sector for the underprivileged and homeless citizens which
+ 2      shall include sites and services development, long-term financing, liberalized terms on
+ 3      interest payments, and such other benefits in accordance with the provisions of the
+ 4      UDHA and related laws.
+ 5
+ 6   (hhhh)     Socialized Housing Sites refer to lands identified and designated by LGUs and
+ 7      the national government as sites for socialized housing pursuant to Article IV of the
+ 8      UDHA and its implementing guidelines.
+ 9
+10   (iiii)Strategic Agriculture and Fisheries Development Zones (SAFDZ) refers to the areas
+11         within the NPAAAD identified for production, agro-processing, and marketing activities
+12         to help develop and modernize, with the support of government, the agriculture and
+13         fisheries sectors in an environmentally and socio-culturally sound manner pursuant to
+14         Section 4 of RA 8435 or “Agriculture and Fisheries Modernization Act of 1997”. The
+15         SAFDZ shall have an integrated development plan consisting of production,
+16         processing, investment, marketing, human resources, and environmental protection
+17         components.
+18
+19   (jjjj) State universities and colleges (SUCs) refer to public higher education institutions in
+20         the Philippines created and established by law which constitutes their character and
+21         which have independent and separate governing boards;
+22
+23   (kkkk)       SUC Land Use Plan refers to a campus master plan mandated under RA 11396,
+24       otherwise known as the “SUCs Land Use Development and Infrastructure Plan Act”
+25       that contains the allocation and utilization of the land within a campus’ geographic
+26       boundary to meet the required academic and non- academic support services and
+27       facilities as well as the campus development programs and projects and the
+28       investment needed to implement them.
+29
+30   (llll)Sub-classification or Reclassification of Agricultural Lands refers to the process
+31         undertaken by the LGUs of allocating declared agricultural lands in their respective
+32         territorial jurisdictions to specific uses such as residential, industrial or commercial
+33         purposes and may be used as a basis for application for land conversion by the owners
+34         thereof;
+35
+36   (mmmm) Sustainable Development refers to the development objective of meeting the
+37     needs of the present generation without compromising the ability of future
+38     generations to meet their own needs consistent with the principles of social equity,
+39     efficiency, and environmental integrity
+40
+41   (nnnn)    Sustainable Traditional Resource Rights refer to the rights of ICCs/IPs to
+42      sustainably use, manage, protect and conserve
+43          a. land, air, water, and minerals;
+44          b. plants, animals and other organisms;
+45          c. collecting, fishing and hunting grounds;
+46          d. sacred sites; and
+
+                                                                                                17
+ 1          e. other areas of economic, ceremonial and aesthetic value in accordance with
+ 2             their indigenous knowledge, beliefs, systems and practices;
+ 3
+ 4   (oooo)     Tourism Ecozone refers to tourism development areas, outside protection
+ 5      lands, which have been granted Special Economic Zone status, through the Philippine
+ 6      Export Zone Authority (PEZA) registration and issuance of the required Presidential
+ 7      Proclamation, with its metes and bounds delineated by said Proclamation, pursuant to
+ 8      Republic Act 7916 or the Special Economic Zone Act of 1995 (SEZA), as amended;
+ 9
+10   (pppp)     Tourism Development Areas refer to specific sites for tourism development
+11      located in areas identified as priorities in the national and regional tourism master
+12      plans as well as those designated through legislative and executive issuances as
+13      tourist spots and tourist zones which can be developed into tourism estates or
+14      integrated resort, leisure, recreation complexes, and other tourism related facilities;
+15
+16   (qqqq)     Tourism Estates refer to large tracts of land with well-defined boundaries in any
+17      area, excluding those in protection lands, identified in the Philippine tourism master
+18      plan and regional tourism master plan, by proclamation of the President and/or by
+19      Acts of Congress and/or by local legislation and declared suited for the development
+20      of an integrated tourism and resort complex with prescribed carrying capacities and
+21      limits for its facilities and activities;
+22
+
+23
+24   (rrrr)       Tourist Spot refers to a particular area/site/spot, man-made or natural, known
+25        for its unique tourist/visitor-drawing attributes and activities and which may be
+26        classified according to its social, cultural, natural, historical, aesthetic, visual,
+27        scientific, religious, and recreational significance;
+28
+29   (ssss)      Tourist Zone refers to a geographic area with well-defined boundaries
+30       proclaimed as such by the President of the Philippines and/or by Acts of Congress.
+31       No development projects for any purpose shall be initiated and introduced within the
+32       zone prior to the formulation of a tourism master development plan which shall be
+33       undertaken in coordination with the Department of Tourism (DOT) and the Tourism
+34       Infrastructure Enterprise Zone (TIEZA). A tourist zone is established for the
+35       enhancement and/or the conservation of cultural and historical heritage and for the
+36       appreciation and enjoyment of the local population and its visitors;
+37
+38   (tttt)      Transmission line corridor refers to the land beneath, the air spaces
+39        surrounding, and the area traversed by electric power transmission lines including its
+40        horizontal, vertical, and similar clearance requirements;
+41
+42   (uuuu)     Urban areas are barangays which are classified as urban by the Philippine
+43      Statistics Authority (PSA); a barangay is classified as urban if it meets any of the
+44      following:
+45          a. It has a population size of 5,000 or more; or
+46          b. It has at least one establishment with a minimum of 100 employees; or
+                                                                                              18
+ 1          c. It has five or more establishments with 10 to 99 employees, and five or more
+ 2             facilities within the two-kilometer radius from the barangay hall.
+ 3
+ 4   (vvvv)     Urbanizable Areas refer to sites and lands which, considering present
+ 5       characteristics and prevailing conditions, display marked and great potential of
+ 6       becoming urban areas within a period of five (5) years;
+ 7
+ 8   (wwww) Urban development refers to the process of occupation and use of land or
+ 9      space for activities such as residential, industrial, commercial and the like or their
+10      combinations, necessary to carry out the functions of urban living. It entails the
+11      building or rebuilding of more or less permanent structures over land that is often
+12      withdrawn or converted from its original use, resulting in the creation of a built
+13      environment.
+14
+15   (xxxx)      Urban Forestry or Green Space refers to the establishment or setting-up of areas
+16       for mini-forest, eco-parks or small nature parks, in both public and private lands:
+17       wetlands, man-made lagoons and lakes systems, riverbanks and shores, grasslands,
+18       roof and rock gardens: lining roads and highways with trees, shrubs, or ornamental
+19       plants, and ground landscaping of schools, hospitals, and other government agencies
+20       in order to improve the environment in urban areas;
+21
+22   (yyyy)    Water Security refers to the sufficient access throughout the year to the
+23       minimum daily requirement of clean water to maintain a healthy life;
+24
+25   (zzzz)       Water Use refers to the appropriation of water for domestic, municipal,
+26       irrigation, power generation, inland fisheries, poultry and livestock, industrial and
+27       commercial, environmental, and recreational use;
+28
+29   (aaaaa) Watershed refers to a topographically delineated area of land from which
+30      rainwater can drain as surface run-off vis-a-vis a specific stream or river system to a
+31      common outlet point which may be a dam, irrigation system or urban water supply
+32      take-off point, or where the stream discharges into a river, lake, or the sea;
+33
+34   (bbbbb) Wetlands - Wetlands shall refer to a wide variety of areas such as natural
+35      pools/ponds, springs, freshwater swamps/marshes, peatlands, floodplains, rivers and
+36      lakes, and coastal areas such as estuaries, saltmarshes, mangroves, lagoons,
+37      intertidal flats and seagrass beds, and also coral reefs and other marine areas no
+38      deeper than six meters at low tide, as well as human-made wetlands such as dams,
+39      reservoirs, rice paddies, fish ponds, saltpans, and wastewater treatment ponds.
+40
+41   (ccccc)    Zoning refers to the regulatory tool for delineating the specific land uses in
+42      accordance with the approved CLUP within the territorial jurisdiction of a
+43      city/municipality and specifying the conditions for their regulation; subject to the
+44      limitations imposed by law and competent authority; and
+45
+46   (ddddd) Zoning Ordinance refers to a local law passed by the Sangguniang Bayan or
+47      Panlungsod approving the development control/zoning plan in accordance with an
+                                                                                    19
+ 1          approved or adopted CLUP of the city/municipality, providing for the regulations and
+ 2          other conditions on the land uses including the limitation on the infrastructure that
+ 3          may be placed within the city’s/municipality’s territorial jurisdiction. It incorporates the
+ 4          protected areas, protected agricultural lands and ancestral lands as provided for in
+ 5          this Act.
+ 6
+ 7                                    CHAPTER II
+ 8                          FRAMEWORK FOR LAND USE PLANNING
+ 9
+10    SECTION 5. Basic Land Use Considerations. – Various land uses as categorized in the
+11   succeeding section shall be determined in a manner that promotes the policies and principles
+12   defined in Section 2 of this Act and shall consider the following elements of the framework
+13   therefor, among others:
+14       (a) Protection land use category as defined in Section 6 shall prevail over existing
+15           production land use category. The State shall undertake the necessary action in
+16           changing the classification of these production areas;
+17       (b) Preservation, conservation, rehabilitation and protection to perpetuity of permanent
+18           forestlands, critical watersheds, key biodiversity areas, environmentally-critical and
+19           ecologically-fragile areas and prime agricultural lands from any other land use,
+20           conversion, disposition, intrusion, utilization and development aside from their
+21           determined use and limits;
+22       (c) Protection of natural forests and natural resources ensures environmental stability,
+23           conserve biological diversity, improve ecosystem functions and provide long-term
+24           ecological and economic benefits. Designated restoration areas are designed to revive
+25           the ecosystem functions and services of forests as well as improve the economic and
+26           ecological benefits of local communities;
+27       (d) Protection of forest and wetlands from infrastructure development to preserve the
+28           ecological services they provide which are essential to economic development. These
+29           activities include, but not limited to river channelization and dredging, large scale
+30           irrigation and river diversions which reduce riverine habitat and alter flood patterns and
+31           natural flow regimes, reduce downstream water availability for agriculture and
+32           contribute to salinization through saltwater intrusion in coastal areas;
+33       (e) Resolution of land use conflicts which are life-threatening or threatening to public
+34           safety, sustainability of key production resources or employment activities and the
+35           delivery of basic services which are harmful or destructive to protected areas, flora,
+36           fauna, and other protected natural resources. Greater consideration shall be given to
+37           the human and tenurial rights of vulnerable groups in resolving land use conflicts;
+38       (f) Identification of geohazards (earthquakes, volcanic activity, landslides, soil erosion,
+39           ground-related issues, and human-induced hazards) and corresponding measures to
+40           reduce risks and enhance resilience.
+41       (g) Respect for existing customary rights and traditional land use of ICCs/IPs;
+42       (h) Identification of settlement areas to check the demand for land and establish the
+43           location of employment-generating industries and basic services; and
+44       (i) The availability of natural resources including indigenous energy resources for energy
+45           security and self-sufficiency. However, infrastructure energy projects such as dams
+46           with large reservoirs in natural ecosystems shall not be allowed if it would interrupt
+
+                                                                                                     20
+ 1          the connectivity of river systems, disrupt fish spawning and migration, and alter
+ 2          seasonal flood regimes.
+ 3
+ 4   SECTION 6. Categories of Land Uses for Planning Purposes. – In determining and defining the
+ 5   national, regional and provincial framework plans, and CLUPs, land uses shall be grouped into
+ 6   four major functional uses as follows:
+ 7       (a) Protection land use which include the use of land primarily for food, water and energy
+ 8           security, rehabilitation, conservation, and protection purposes to promote the
+ 9           country’s ecological and life-support systems. Planning for protection land use intends
+10           to achieve food self-sufficiency in rice and corn, water and energy security,
+11           environmental stability and ecological integrity, ensure a balance between resource
+12           use and the preservation of some areas with environmental, aesthetic, educational,
+13           cultural, heritage and historical significance, and protect people and human- made
+14           structures from the ill-effects of natural hazards. All lands, either public or private,
+15           under protection land use shall be permanently conserved, preserved, rehabilitated
+16           and protected from all other land uses, disposition, intrusion, utilization and
+17           development that is not consistent with its existing uses. Areas under this category
+18           also include those covered by RA 7586, as amended by RA 11038 or the “Extended
+19           National Integrated Protected Areas Act of 2018”, critical habitats and other area-
+20           based conservation measures (OECM) and other coastal and marine protected areas,
+21           and other those areas outside NIPAS but nonetheless require protection because of
+22           their outstanding physical and aesthetic features, anthropological significance, and
+23           biological diversity, and those areas prone to natural hazards, such as but not limited
+24           to the following:
+25               a. Natural and Restored Forests, which consist of:
+26                         i. All existing areas within forestland containing primary and secondary
+27                            forests of whatever types of species;
+28                        ii. All existing areas within forestland containing secondary-growth or
+29                            residual forests of whatever type or specie;
+30                       iii. Areas identified as Key Biodiversity Areas;
+31                       iv. Restoration areas;
+32                        v. All other areas that would be deemed appropriate for protection, as
+33                            designated by the Department of Environment and Natural Resources
+34                            (DENR), subject to the approval of the National Land Use Policy
+35                            Committee (NLUPC) created pursuant to Section 55 hereof.
+36               b. Rehabilitated and/or reforested degraded mining areas;
+37               c. Critical ecosystems for protections, such as:
+38                         i. Coral reefs;
+39                        ii. Marshes and wetlands;
+40                       iii. Lakes and rivers;
+41                       iv. Waterfalls;
+42               d. Disaster-prone areas that include areas subject to, or maybe subject to:
+43                         i. Recurrent flooding;
+44                        ii. Liquefaction;
+45                       iii. Tsunamis;
+46                       iv. Storm surges;
+47                        v. Polar vortex;
+                                                                                                  21
+ 1                   vi.Mass wasting;
+ 2                  vii.Volcanic eruption;
+ 3                 viii.Direct impact of seismic activity;
+ 4                  ix. Other disasters caused by climatic conditions;
+ 5                   x. Other areas that pose a high degree of hazard to human occupation and
+ 6                      activity.
+ 7          e. Critical Watersheds
+ 8          f. Marine protected areas;
+ 9          g. All prime agricultural lands as defined under this Act;
+10          h. Ecologically-fragile and environmentally-critical areas whose conversion will
+11             result to serious environmental problems and threats to public health and
+12             safety;
+13          i. Natural and human-made areas/sites of cultural, historical and anthropological
+14             significance, which are declared as such by internationally-recognized
+15             institutions; and
+16          j. All other areas not included and declared as production areas shall become
+17             protection areas
+18
+19   (b) Protection Forest Lands shall include:
+20          a. Primary and secondary forests;
+21          b. all areas 1,000 meters above sea level,
+22          c. limestone, forest over ultramafic, peat swamp, beach, freshwater swamp,
+23          d. all areas with a slope of 50% or more,
+24          e. all areas along the bank of rivers and streams, and the shores of the seas and
+25              lakes throughout entire length and within a one of 3m in urban areas, 20m in
+26              agricultural areas and 40m in forest areas, along their margins which are
+27              subject to the easement of public use,
+28          f. all watershed reservations that have been proclaimed by the President or by
+29              law as such, primarily for water production purposes or for other compatible
+30              uses under sustainable of multi-use management concepts;
+31
+32   (c) Production Land Use wherein there is a direct and indirect utilization of land resources
+33       for crop, fishery, livestock and poultry production, forestry, agroforestry, mining,
+34       industry, energy development, indigenous energy exploration and development, and
+35       tourism. Planning for production land determines the most efficient, sustainable, and
+36       equitable manner of utilizing, developing and managing land for productive purposes.
+37       Areas included in this category are agricultural lands, fishing grounds, coastal and
+38       marine zones, production forest, which can be made available for timber and
+39       agroforestry production, rangelands for grazing, forest lands for special uses including
+40       for energy, and reforestation projects,mineral lands or mining areas, and reservations,
+41       energy resource lands, industrial development areas, and tourism development areas
+42       where productive activities may be undertaken to meet the country's requirements for
+43       food security, economic growth and development.
+44
+45   (d) Settlements and Institutional Land Use refers to the use of urban and rural lands for
+46       settlements development purposes and/or improvements on existing settlements
+47       involving the spatial distribution of population, identification of the roles and functions
+                                                                                                  22
+ 1          of key urban centers, determination of relationships among settlement areas, and the
+ 2          provision of basic services and facilities to such settlements.       It   shall     also
+ 3          include lands identified for institutional uses such as educational, administrative,
+ 4          government, law enforcement, health care and social services. Settlements and
+ 5          institutional land uses aim to ensure for the present and future generation the: i)
+ 6          effective integration of activities within and among settlements, allowing efficient
+ 7          movement of people and production of commodities through the provision of
+ 8          appropriate land, infrastructure, and facilities; and ii) access of the population to
+ 9          housing, education, health care, recreation, transportation and communication,
+10          sanitation, and basic utilities such as water, power, waste disposal, and other services.
+11
+12      (e) Infrastructure Land Use refers to the use of land dedicated to the provision of basic
+13          services that foster economic and other forms of integration necessary for producing
+14          or obtaining the material requirements of Filipinos, in an efficient, responsive, safe and
+15          ecologically friendly built environment. It includes, among others, sub-sectors like:
+16          road networks, transportation and communication facilities, social services,
+17          environmental service facilities, and utilities. Provided, That the determination of the
+18          functional uses of lands within ancestral domains should be consistent with the land
+19          use categories provided for in this Act; Provided further, That other sub-categories of
+20          land uses in delineated ancestral domains may be formulated by the concerned
+21          ICCs/IPs themselves in accordance with their particular needs and traditional resource
+22          and management systems.
+23
+24   SECTION 7. Land Use Plans for Ancestral Domains. - Land use plans for ancestral domains
+25   shall be primarily formulated by the ICCs/IPs themselves in accordance with their needs and
+26   traditional resource and management systems with the assistance of the NCIP, the LGUs, and
+27   civil society organizations (CSOs) concerned. Such plans shall be recognized and adopted in
+28   the City/Municipal, Provincial, Regional and National Physical Framework Plans.
+29   Physical Framework Plans made before the delineation of ancestral domains included in such
+30   plans shall, without prejudice to the rights of the ICCs/IPs concerned, adopt different land use
+31   categories in accordance with their particular needs and traditional resources and
+32   management systems.
+33
+34   In cases where there are no ancestral domains sustainable development and protection plans
+35   (ADSDPPs), the LGUs and ICCs/IPs shall jointly formulate the land use within the ancestral
+36   domains until such time that the CCS/IPS shall have formulated their ADSDPPs.
+37
+38   SECTION 8. Adoption of Multiple Uses of Land. – The primary and alternative uses of a specific
+39   land resource shall be determined and evaluated by the respective local land use boards prior
+40   to any decision for the assignment of its use. Areas feasible for sustainable land resource use
+41   may be considered multiple-use zones wherein settlements, tourism, agriculture, agro-forestry
+42   and extraction activities and other income-generating, or livelihood activities may be allowed,
+43   except areas under protection land use.
+44
+45   Provided, that multiple uses of land resources shall be in accordance with priorities in land
+46   use allocation identified in the approved physical framework and land use plans wherein such
+
+                                                                                                   23
+ 1   multiple uses are compatible with the original land use and planning, and that no
+ 2   reclassification shall be allowed.
+ 3
+ 4   Provided, further that, where there are vested rights, titles, and claims prior to the enactment
+ 5   of this Act over the areas feasible for sustainable land resource use, the same shall be
+ 6   respected.
+ 7                                            CHAPTER III
+ 8                                   SPECIAL AREAS OF CONCERN
+ 9
+10                                           ARTICLE 1
+11                                    LAND USE CLASSIFICATION
+12
+
+13   SECTION 9. Review of Land Use Classification. The NLUPC shall review and assess the current
+14   land use classification system and definitions used in the country to ensure that it reflects the
+15   actual use of lands in the country. The assessment shall be done with prior and proper
+16   consultation with relevant sectors.
+17
+18   The NLUC shall ensure the full participation of CSOs and relevant sectors in the assessment
+19   of the existing land use. All the available data shall be considered and documented.
+20
+21   The Land Management Bureau (LMB) shall provide the necessary technical information,
+22   conduct the needed assessment of the status of the existing land use classification and shall
+23   submit an assessment report to the NLUPC not later than ninety (90) days from the
+24   establishment of the latter.
+25
+26   SECTION 10. Consideration of Assessment Report. Upon validation and affirmation by local
+27   land use boards, the land use classification assessment report submitted by the LMB shall be
+28   taken into consideration by the NLUPC in the formulation of its planning guidelines.
+29
+30                                            ARTICLE 2
+31                                           NIPAS AREAS
+32
+33   SECTION 11. Integrated Management Strategy. For more effective planning, management,
+34   and protection of protected areas at the provincial and city/municipal levels, the Protected
+35   Area Management Plan (PAMP) referred to in the NIPAS Law shall be incorporated in the PPFP
+36   and CLUPs if applicable, wherein protected area zoning shall be reflected.
+37
+38                                           ARTICLE 3
+39                                      AGRICULTURAL LANDS
+40
+41   SECTION 12. Priority Areas for Agricultural Development. The priority areas for agricultural
+42   development are the areas distributed under agrarian reform, areas that can be covered by
+43   CARP, and those identified as part of the NPAAAD. The mapping of the NPAAAD under the
+44   Agriculture and Fisheries Modernization Act (AFMA) shall be completed not later than one (1)
+45   year from the effectivity of this Act.
+46
+                                                                                                   24
+ 1   SECTION 13. Conversion of Agricultural Lands. All lands considered and identified as prime
+ 2   agricultural lands shall be maintained, managed and protected for agricultural use and shall
+ 3   not be subjected to any form of conversion or re-classification. Provided, That all irrigated and
+ 4   irrigable lands, all lands developed or possessing the potential for development of high value
+ 5   crops, and all agricultural lands that are ecologically fragile and whose conversion will result
+ 6   in serious environmental problems shall be given full protection from conversion.
+ 7
+ 8   All other agricultural lands not identified as prime agricultural lands can only be converted to
+ 9   non-agricultural uses upon issuance of a DAR conversion order: Provided, That such
+10   conversion shall not drastically change the nature of the over-all land uses in the surrounding
+11   and adjacent areas from its existing land use. Provided, that consistent with the State policy
+12   on giving priority to the completion of the Comprehensive Agrarian Reform Program (CARP),
+13   those lands covered under compulsory acquisition/voluntary offer to sell, production or profit-
+14   sharing subject to CARP shall also be protected from conversion pending the distribution
+15   and/or installation of the farmer beneficiaries. Provided, further, that pending the completion
+16   of mapping activities of the specific areas under the NPAAAD and the SAFDZs under the
+17   AFMA and their incorporation in the National Physical Framework Plan (NPFP), the application
+18   for conversion of these areas shall not be given due course by the appropriate government
+19   agency.
+20
+21   In all conversion cases of agricultural lands, all cases should be with DAR Conversion Order,
+22   mandated public participation (under Sec 26 and 27 of LGC) with the recommendation of the
+23   NLUC. During the participation, there should be one (1) NLUC/PLUMB representative from the
+24   provincial/regioal level as may be appropriate.
+25
+26                                           ARTICLE 4
+27                                       ANCESTRAL DOMAIN
+28
+29   SECTION 14. Priority Areas for Agricultural Development within Ancestral Domain. Agricultural
+30   lands within ancestral domain shall be developed in accordance with their ADSDPP.
+31
+32   SECTION 15. Respect for Ancestral Domains. The Ancestral Domain Management Plan
+33   (ADMP) or ADSDPP, or any existing local community plans, customary laws, shall be adopted
+34   and integrated into the CLUP and/or other plans that the LGU is mandated to produce
+35   including investment plan. The integration of local community plans and customary laws
+36   where an ADMP, ADSDPP, CADT, ALTI are absent shall nonetheless be subject to the FPIC
+37   process. The extent of Ancestral Domains shall be reflected in the land use plan, and shall be
+38   zoned as such in the zoning ordinance, and shall be co-managed by the LGU and IP
+39   community.
+40
+41   SECTION 16. Ancestral Domain Policy Adoption. Ancestral domain policies shall be adopted
+42   in the LGU’s land use policy framework. However, in the event that the ADMP/ADSDPP is still
+43   in the formulation stage or remains to be formulated, the right to self-determination, and the
+44   observance of traditional resource and management systems and processes shall be upheld
+45   at all times, as provided for by RA 3871.
+46
+47                                             ARTICLE 5
+                                                                                                   25
+ 1                      FOREST LANDS AND RESERVATION OF WATERSHED
+ 2
+ 3   SECTION. 17. Permanent Forestlands. All forestlands are classified as forest or timberlands.
+ 4   Titles, settlements, permits, leases, and/or agreements within critical habitats, critical
+ 5   watershed areas, protected areas and key biodiversity areas (KBAs), shall be reviewed, and
+ 6   their legality affirmed. All erroneous titles, settlements, permits, leases and/or agreements
+ 7   within permanent forestlands shall be canceled or revoked in due course. Non-compliance
+ 8   with and violations of these instruments shall be grounds for their cancellation or revocation:
+ 9   Provided, That the applicable provisions of the RA 3871, shall be respected.
+10
+11   Upon recommendation by the LGU, or the Forest Board, the DENR Secretary shall revoke the
+12   above-mentioned instruments.
+13   SECTION 18. Additional Areas to be Included as Permanent Forestlands. The following lands
+14   are needed for environmental protection and forestry purposes and shall not be reclassified
+15   as agricultural lands or for any other land use:
+16
+17      (a) Isolated patches of forest, regardless of size and/or area, with rocky terrain or which
+18          protect a spring/water source for communal use;
+19      (b) All mangroves and swamplands including twenty (20) meter wide strips facing oceans,
+20          lakes and other bodies of water not yet classified as alienable and disposable lands;
+21      (c) Ridge tops and plateaus regardless of size found within or surrounded wholly or
+22          partially by forestlands where headwaters emanate;
+23      (d) Twenty (20) meter wide strips of land from the edge of the normal high waterline of
+24          rivers and streams with channels of at least five (5) meters width which are not yet
+25          classified as alienable and disposable;
+26      (e) Areas needed for public interest such as research or experimental purposes; and
+27      (f) Areas considered as environmentally critical because of their vulnerability to damage
+28          from landslides, volcanic eruptions, and other natural causes.
+29
+30   SECTION 19. Reversion of Alienable and Disposable Lands to Forestlands. Upon the
+31   recommendation of the DENR Secretary, duly reviewed and endorsed by the National Land
+32   Use and Policy Committee (NLUPC), and after due consultations with the concerned LGUs
+33   and the affected parties, Congress may authorize the reversion of alienable and disposable
+34   lands of the public domain or portion thereof to forestlands.
+35
+36   SECTION 20. Critical Watershed Areas. The DENR, in coordination with the DA, the LGUs
+37   concerned, and other government agencies, including government-owned and -controlled
+38   corporations, and after mandatory public hearings/consultations, shall identify and delineate
+39   critical watershed areas that need to be protected, rehabilitated, enhanced, and/or withdrawn
+40   from uses that contribute to their further degradation.
+41
+42   SECTION 21. Formulation and Implementation of Integrated Watershed Management Plans.
+43   With the assistance of the DENR and upon mandatory consultations with the concerned
+44   sectors and communities, the LGUs, through their local land use boards, shall prepare their
+45   watershed management plans which shall be integrated into their respective CLUPs. The
+46   formulation and integration of the plan shall be guided, among others, by the principle of the
+47   management and development of inland water resources at the watershed level and shall be
+                                                                                                 26
+ 1   consistent with the National Forestry Master Plan (NFMP). The DENR and the concerned LGUs
+ 2   shall jointly implement the watershed management plan subject to regular consultations with
+ 3   and involvement of the community and other stakeholders in the implementation of the plan.
+ 4
+ 5   SECTION 22. Establishment and Management of National Parks. All areas proclaimed by the
+ 6   President and Congress to be under the NIPAS, unless disestablished, including those
+ 7   identified initial components of the NIPAS as Key Biodiversity Areas shall comprise the
+ 8   National Parks classification of the public domain. The DENR and concerned LGUs shall
+ 9   ensure that such areas are integrated in the CLUP and physical framework plans; Provided,
+10   however, That the preparation of management plans of protected areas and national parks
+11   shall be in accordance with the provisions of the NIPAS Act and other laws establishing or
+12   declaring specific areas as protection areas.
+13
+14   Provided further that in the establishment of national parks or reservations, no classification
+15   may proceed without the FPIC of concerned/affected Ips.
+16
+17   SECTION 23. Establishment of Restoration Zones. Restoration areas shall be designated in the
+18   management plan as such. Designation of restoration zones is compulsory in all forest
+19   management plans and for all LGUs.
+20
+21                                           ARTICLE 6
+22                                         COASTAL ZONES
+23
+24   SECTION 24. Criteria for the Allocation and Utilization of Lands within the Coastal Zones. The
+25   allocation and utilization of lands within the coastal zones shall be subject to the following
+26   guidelines:
+27       (a) Areas vegetated with mangrove species shall be protected, preserved and managed
+28           as mangrove forestland and shall not be converted to other uses;
+29       (b) Areas that meet all accepted criteria on elevation, soil type, soil depth topography,
+30           supply for successful fishpond development, and are not identified as mangrove
+31           protected areas, shall be utilized for aquaculture purposes as long as a 4:1 ratio for
+32           mangroves and fishponds is maintained to support ecological processes in mangrove
+33           ecosystems;
+34       (c) Areas sub-classified as mangrove and still suitable for use as such, or due to
+35           environmental conditions need to be preserved as mangroves but are devoid of
+36           mangrove stands, shall not be converted to other uses. The DENR shall ensure that
+37           these lands shall be reforested within a given period of time;
+38       (d) Areas accessible to the sea and identified for fisherfolk settlement and housing but
+39           are not part of or are not within any protected land use areas shall be allocated to
+40           traditional fisherfolk who are inhabitants of the coastal communities, members of
+41           registered fisherfolk organizations, holders of stewardship lease contracts or titles to
+42           ancestral domains or any form of property right arrangements who participate in
+43           coastal resource management initiatives, subject to the usual census procedures of
+44           the Housing and Urban Development Coordinating Committee (HUDCC); Provided,
+45           That the government shall issue marine tenurial rights to organizations concerned
+46           based on a criteria to be established by NLUPC;
+
+                                                                                                  27
+ 1      (e) Areas that are neither sub-classified as mangrove, fisherfolk settlement nor fishpond
+ 2          may be devoted to recreational or tourism purposes: Provided, That such undertaking
+ 3          will not result in environmental degradation and displacement of small fisherfolks;
+ 4      (f) Areas which are considered as traditional fishing grounds shall be used primarily for
+ 5          such purpose. In line with this purpose, areas which are considered as traditional
+ 6          fishing grounds and within the 15 km municipal waters shall be used primarily for such
+ 7          purpose. Such areas shall not be converted to other uses - such as any extractive
+ 8          activities and large scale energy projects.
+ 9      (g) Areas shall be allocated for small infrastructure needed by municipal fisherfolk and
+10          for fishing gear, boats, and post-harvest facilities; and
+11      (h) Areas which form part of foreshore lands as defined in this Act, including those under
+12          lease agreements or arrangements shall undergo zoning and evaluation so their
+13          boundaries, actual sizes and corresponding uses can be determined while ensuring
+14          that mangrove protection or restoration zones are considered to keep the required 4:1
+15          ratio between mangroves and fishponds.
+16      (i) The free and prior informed consent of the concerned ICCs/IPs and the necessary
+17          certification from the NCIP shall be secured before any allocation and utilization of
+18          lands within the coastal zones that are found to be within ancestral domains.
+19      (j) Pursuant to RA 8550 and RA 10654, municipal waters shall be reserved primarily for
+20          use by artisanal fisherfolk and shall not be converted to other uses.
+21
+22   SECTION 25. Coastal Land Zone Sub-classification. All public lands in the coastal zones shall
+23   be sub-classified into any of the following: fishponds, mangroves, protection from tidal surge
+24   for preservation of biodiversity, habitats and sanctuaries for endangered wildlife, fisherfolk
+25   settlement, or recreational/tourism areas. No sub-classification of coastal zones to different
+26   uses shall be done without the following:
+27      (a) Conduct of a comprehensive inventory and resource and environmental assessment
+28          by the DENR with respective LGUs and accredited Non-Government Organizations/
+29          Peoples Organizations (NGOs/ POs) within their jurisdiction. The result of such
+30          assessment along with a list of all existing applications and expired Foreshore Lease
+31          Agreements shall be posted in three (3) conspicuous places in the affected localities;
+32          and
+33      (b) Prior consultation with local Fisheries and Aquatic Resource Management
+34          Committees (FARMCs) formed pursuant to Republic Act No. 8550 or the Fisheries
+35          Code.
+36
+37   SECTION 26. Zoning of Coastal Areas. Local government units, in coordination with the DENR,
+38   the FARMCS, local fisherfolk organizations and other concerned stakeholders such as women
+39   and the youth, shall prepare the Coastal Zoning Resource Management Plan (CZRMP) which
+40   shall be incorporated in the CLUP. Management zones defined in the CZRMP should be
+41   reflected in the CLUP and the subsequent Zoning Ordinance.
+42
+43   SECTION 27. Tourism and Recreation Zone. The designation of areas for tourism and resorts
+44   near or over fishery areas or ports thereof shall be with the consent of the concerned LGUs
+45   and FARMCs, and shall comply with the policies and guidelines set forth in this Act.
+46
+
+                                                                                                28
+ 1   SECTION 28. Protection of Waterways, Easements and Flood Plains. Structures of any kind
+ 2   shall not be built in waterways and easements. Pursuant to PD 1067 or the Water Code of the
+ 3   Philippines, the banks of rivers and streams and the shores of the seas and lakes throughout
+ 4   their entire length and within a zone of three (3) meters in urban areas, twenty (20) meters in
+ 5   agricultural areas and forty (40) meters in forest areas, along their margins are subject to the
+ 6   easement of public use only in the interest of recreation, navigation, floatage, fishing and
+ 7   salvage. The protection of flood plains shall adopt a river basin management approach, in
+ 8   order to come up with integrated flood mitigation interventions. Development within flood
+ 9   plains and other flood-prone areas must be controlled or, if allowed, must be so sited,
+10   constructed and serviced that the lives of occupants are not put at risk and that disruptions
+11   during floods are minimized. The identification and characterization of flood-prone areas and
+12   flood plains shall be an integral part of the CLUP preparation. The LGUs shall establish land
+13   use regulations to mitigate flood risks through the CLUPs and zoning ordinances.
+14
+15   To promote the best interest and the coordinated protection of flood plains, the Department
+16   of Public Works and Highways (DPWH), in coordination with Department of Science and
+17   Technology (DOST) and DENR, shall declare flood control areas, as necessary, and shall
+18   prohibit or control activities that could damage or cause deterioration of lakes and dikes,
+19   obstruct the flow of water, change the natural flow of rivers, increase flood losses or aggravate
+20   flood problems pursuant to the Water Code of the Philippines.
+21
+22   SECTION 29. Disposition of Public Lands for Fishponds. Upon the effectivity of this Act, but
+23   subject to existing rights and the preceding section, no fishpond lease agreement (FLA) shall
+24   be issued for tidal swamps, mangroves and oilier swamps, marshes, ponds, foreshore lands,
+25   and coastal areas within public lands, including those presently declared available for
+26   fishpond development. The LUPC, in coordination with the DENR, the DA, the FARMCs and the
+27   LGUs shall set aside a portion of available public lands for fish propagation, fish sanctuary,
+28   conservation, ecological purposes and fisherfolk settlement areas. Fishponds covered by
+29   existing FLAs, but are abandoned or are not operating efficiently and are found suitable for
+30   mangroves shall be reforested with mangroves.
+31
+32   SECTION 30. Immediate Restoration of Converted Mangrove Areas. The DENR, in coordination
+33   with the FARMCs and other concerned agencies shall immediately take steps in the
+34   restoration of all abandoned, undeveloped and underutilized fishponds to their original state
+35   as mangrove forests.
+36
+37                                            ARTICLE 7
+38                                          MINERAL LANDS
+39
+40   SECTION 31. Policies on Mineral Lands. Land use policies for mineral lands shall be geared
+41   towards the rational, ecologically sound, and sustainable, domestic needs-based use of
+42   mineral resources which shall promote inclusive economic growth for the local economy and
+43   uphold the human rights of indigenous peoples and local communities in the affected areas.
+44
+45   SECTION 32. Criteria for the Utilization and Allocation of Land for Mining Purposes. –
+46   Consistent with this Act and the provisions of RA 7942, otherwise known as the “Philippine
+47   Mining Act of 1995”, and to ensure that the objectives of maintaining ecological balance and
+                                                                                               29
+ 1   maximizing economic returns to mining operations are realized, the allocation and utilization
+ 2   of lands for mining purposes shall be guided by the following:
+ 3          (a)     The principles of sustainable development shall be observed at all times;
+ 4          (b)     Domestic needs-based development of the industry shall be pursued by the
+ 5                  State as a step towards achieving genuine economic development
+ 6          (c)     In case of small-scale mining, adequate and acceptable safeguards shall be
+ 7                  instituted by the holders of mining rights or permits to prevent environmental
+ 8                  degradation of the mining sites and adjacent areas;
+ 9          (d)     Mineral reservations which have become non-operational as determined by
+10                  MGB shall be placed under appropriate surface management by the DENR after
+11                  conducting scientific, geological, and environmental studies in accordance
+12                  with relevant laws on mineral reservation establishment and de-establishment;
+13          (e)     Natural forests, proclaimed watershed forest reserves, mangrove forests,
+14                  declared protected areas and mossy forests are closed to mining operations
+15                  pursuant to R.A 7942, R.A 7586, R.A 11038, and other pertinent laws;
+16          (f)     Protection forestlands and irrigated, irrigable agricultural lands declared to be
+17                  under NAPAAD, shall be exempt from mining activities to minimize the effect
+18                  of natural calamities and to protect food security respectively. The small to
+19                  large scale mining operations shall yield from and recognize the tenurial
+20                  instrument given by the government such as original certificate of title, transfer
+21                  certificate of title, certificate of ancestral domain title, emancipation patent-
+22                  certificate of land ownership award and other instruments. If these be present,
+23                  mining activity shall be allowed subject to clearances and consent, and:
+24                  Provided, That mining activity shall not conflict with the prescriptions of
+25                  watershed management plans and shall not have serious environmental and
+26                  ecological problems.
+27          (g)     Ancestral domains declared as protected by virtue of their ADSDPP as well as
+28                  all watershed areas shall be closed to mining.
+29          (h)     Other areas declared as no go zones under EO 79 and other existing laws and
+30                  policies.
+31
+32   SECTION 33. Reversion of Mineral Lands. – All mineral lands with exhausted mineral
+33   resources, as determined by the MGB upon the recommendation of the DENR, shall revert to
+34   its original land classification, that is, as forestland or agricultural land. In the case of
+35   forestlands, the DENR may classify such areas for other purposes in consultation with
+36   concerned LGUs, DOT, and other national government agencies, and consistent with the
+37   prescriptions of the watershed management plans.
+38
+39   Reversion of areas where a should include ancestral domains especially in areas where a CP
+40   was issued by the community to a mining company and energy generation projects.
+41
+42                                            ARTICLE 8
+43                                        ENERGY RESOURCES
+44
+45   SECTION 34. Guidelines for the Utilization and Allocation of Lands for Energy Resource
+46   Exploration, Development, Production, Utilization, and Distribution Purposes. – To ensure that
+47   the objectives of maintaining ecological balance and maximizing the power potential from
+                                                                                                 30
+ 1   indigenous energy resources in the most economical and environmentally-acceptable means
+ 2   are realized, the allocation and utilization of lands are be guided by the following, consistent
+ 3   with the existing laws, rules and regulations on energy resources:
+ 4           (a)     Indigenous energy resource exploration and development for the purpose of
+ 5                   creating a national energy resource inventory and data base as well as an
+ 6                   energy resource block map are allowed, subject to the prescriptions of
+ 7                   watershed management plans and other land management plans;
+ 8           (b)     Indigenous energy resource exploration, development production, utilization,
+ 9                   and distribution shall be subject to the appropriate requirements and
+10                   processes of the Philippine Environmental Impact Statement (EIS) system.
+11                   Each project shall secure an Environmental Compliance Certificate (ECC) prior
+12                   to project implementation to ensure that adequate and appropriate
+13                   environmental management measures and optimum methods for resource
+14                   access and recovery are used;
+15           (c)     Protected areas defined in Section 17 of this Act are closed to any kind of
+16                   energy resource development except for installation or erection of power lines
+17                   therein. Provided that vested rights granted through the Special Use
+18                   Agreements in Protected Areas as granted by the DENR are respected, as well
+19                   as existing prior rights of communities especially ICCs and IPs.
+20           (d)     Energy reservations or portions thereof which have become or have been
+21                   established to be non-economically viable to operate or are no longer used for
+22                   energy purposes shall be reclassified to other land uses, subject to existing
+23                   laws covering energy reservations, and;
+24           (e)     Renewable energy shall be preferred over other energy resource while
+25                   minimizing energy waste and negative environmental impact
+26
+27   SECTION 35. Reversion of Energy Resource Sites. All exhausted indigenous energy resource
+28   lands as determined by the Department of Energy (DOE), which are not covered by
+29   proclamations shall automatically revert to the category of forestlands or agricultural lands
+30   open to disposition, whichever is appropriate, unless the DENR shall classify such areas for
+31   other purposes. Exhausted energy resource lands shall refer to specific energy resource sites
+32   whose energy reserves of the desired type/s are no longer in sufficient quantity or quality to
+33   justify additional expenditure for their extraction and utilization.
+34
+35                                          ARTICLE 9
+36                                  SETTLEMENTS DEVELOPMENT
+37
+38   SECTION 36. Municipalities, Cities, and Settlements Development. The development of
+39   municipalities, cities, and settlements through CLUP and implemented by the zoning
+40   ordinances of cities and municipalities shall be guided by urban zoning standards designed
+41   to maximize existing urban spaces taking into account studies of pertinent government
+42   agencies on climate change.
+43
+44   SECTION 37. Settlements within Geo-hazard Areas and/or High Risk/Danger Zones.
+45   Settlements within geo-hazard areas and/or high-risk/danger zones shall not be allowed. In
+46   cases where there are existing settlements within geo-hazard areas and/or high-risk/danger
+
+                                                                                                  31
+ 1   zones, the concerned government agencies shall assist concerned LGUs and settlers in
+ 2   instituting safety and corrective measures to address the potential danger or risk.
+ 3   SECTION 38. Designation of Waste and Environment Management Site. Each city or
+ 4   municipality shall identify and designate an area to serve as waste and environment
+ 5   management, waste disposal, and facilities within one (1) year from the effectivity of this Act.
+ 6   The LGUs, in coordination with the DENR or any other competent authority, shall identify
+ 7   sanitary landfills to fast-track the conduct of the Environmental Impact Assessment (EIA)
+ 8   study and to facilitate the processing of the ECC. The site or area shall be identified in the
+ 9   city’s or municipality's CLUP. For this purpose, cities and municipalities shall establish their
+10   solid waste management program, pursuant to R.A. NO. 9003, otherwise known as the
+11   “Ecological Solid Waste Management Act Of 2000”. Likewise, as provided under Section 33 of
+12   the LGC, cities and municipalities may, through appropriate ordinances, bind themselves
+13   towards the establishment of a common solid waste management program. In any case,
+14   designated landfill areas adjacent to, within ancestral domains, FPIC must be conducted.
+15
+16   SECTION 39 Network of Settlements. – The framework and policies for the development of
+17   network of settlements shall be provided by the National Physical Framework Plan formulated
+18   by the NLUC. Individual settlements shall be planned as part of a national network of
+19   settlements. The network shall be based on existing and potential settlements; production
+20   activities, particularly those that involve highly competitive industries and services and
+21   generate local employment; environmental constraints and sustainability considerations.
+22   Individual cities and municipalities shall be integrated through transportation and other
+23   infrastructure support facilities.
+24
+25   SECTION 40. Designation and Zoning of Socialized Housing Zones. – Each city or municipality
+26   in urban, urbanizable and rural areas shall designate through the CLUP adequate lands for
+27   housing or residential purposes, including socialized housing and resettlement areas for the
+28   immediate and future needs of the local population as well as the underprivileged and
+29   homeless in their territory, pursuant to existing laws and regulations. In order to ensure
+30   adequate availability of lands for the housing needs of the local population, the CLUPshall be
+31   updated, at maximum, every twelve (12) years for provinces, cities, and municipalities. The
+32   designated sites for socialized housing shall be located in residential zones, and shall be
+33   zones as socialized housing zones that are integrated in the city or municipality's zoning
+34   ordinance, pursuant to existing laws and regulations. Fisherfolk settlements and housing in
+35   coastal municipalities shall be zoned near the sea for easy access to their livelihood as
+36   provided under Section 38 (d) of this Act. The housing or residential lands designated in the
+37   CLUPs and zoning ordinances of cities and municipalities shall, on one hand, not be subject
+38   to further land reclassification by the LGU or land conversion procedure under DAR. On the
+39   other hand, agricultural lands as designated in the CLUP which are no longer economically
+40   feasible for agricultural use may be subject to land reclassification or land use conversion to
+41   housing or residential purposes and such land use conversion, as the case may be, shall be
+42   exempt from the coverage of any moratorium on land use conversion, provided such
+43   conversion shall not conflict with the prescriptions of watershed management plans and shall
+44   not result in serious environmental and ecological problems.
+45
+46   SECTION 41. Zoning of Identified Sites for Socialized Housing. The identified sites for
+47   socialized housing shall be located in residential zones identified by the city or municipality's
+                                                                                                   32
+ 1   CLUP and Zoning Ordinance (ZO) duly approved by the NLUPC. However, for cities and
+ 2   municipalities where the identified sites are not within the said residential zones, the location
+ 3   shall be within the priority sites and conform with the suitability criteria as defined in Sections
+ 4   6.3 and 6.4 of the Guidelines in HUDCC Resolution No. 521, Series of 1992, or as may be
+ 5   defined in subsequent issuances. The identified sites shall be zoned as socialized housing
+ 6   zones as defined herein.
+ 7
+ 8   SECTION 42. Valuation of Lands for Socialized Housing. Equitable land valuation guidelines
+ 9   for socialized housing shall be set by the Department of Finance (DOF) on the basis of the
+10   market value reflected in the zonal valuation, or in its absence, on the latest real property tax
+11   declaration. For sites already occupied by qualified beneficiaries under the UDHA, and sites
+12   identified as Socialized Housing Zones as defined in this Act, the DOF shall factor into the
+13   valuation, the blighted status of the land as certified by the local government unit or the
+14   National Housing Authority (NHA).
+15
+16   SECTION 43. Guidelines for Identification of Settlement Sites. In identifying settlement areas,
+17   prospective sites should be:
+18          (a) within alienable and disposable lands but not in environmentally-critical, geo-
+19              hazard or other protection areas;
+20          (b) along established urban growth directions;
+21          (c) with provisions for or can be provided with basic services and utilities;
+22          (d) within the 0-8% slope range; and
+23          (e) accessible from existing built-up areas and other employment centers through
+24              existing or proposed roads and other transportation facilities.
+25
+26   SECTION 43. Urban Forest or Green Space. Each city or highly-urbanizing municipality shall
+27   identify, designate, and allocate lands owned by the city or municipality as urban forest or
+28   green space, based on the guidelines and standards to be issued by the DENR and approved
+29   by the NLUPC.
+30
+31   SECTION 44. Protection of Ecological Harmony. To ensure the ecological harmony of towns,
+32   cities and settlements, certain projects that can alter the present use of a zoned area shall not
+33   be issued a building permit, business permit, and/or development permit. The identification
+34   of these projects shall be done in coordination with the LGU concerned. All LGUs shall be
+35   required to designate restoration areas in their forest land use plans.
+36
+37                                         ARTICLE 10
+38                            INDUSTRIAL DEVELOPMENT AREAS/SITES
+39
+40   SECTION 45. Criteria for Designating Industrial Development Areas. The identification and
+41   establishment of industrial development areas shall conform to the provisions of RA 7916 or
+42   the Special Economic Zone Act (SEZA) of 1995 as amended by RA 8748, RA 6657 or the
+43   Comprehensive Agrarian Reform Law (CARL) as amended by RA 9700 or the Comprehensive
+44   Agrarian Reform Program Extension with Reforms (CARPER), RA 8371 or the Indigenous
+45   Peoples’ Rights Act (IPRA), RA 7279 or the Urban Development and Housing Act (UDHA), RA
+46   8550 or the Philippine Fisheries Code as amended by RA 10654, and RA 8435 or the
+47   Agriculture and Fisheries Modernization Act (AFMA), taking into consideration the following:
+                                                                                               33
+ 1          (a) Identified network of areas for agricultural development and protected
+ 2              agricultural areas pursuant to the RA 8435;
+ 3          (b) National policies on the regional dispersal on industries and agri-based industrial
+ 4              development;
+ 5          (c) Identified growth areas and corridors in the National Development Plan;
+ 6          (d) NIPAS and non-NIPAS areas such as but not limited to KBAs and restored areas
+ 7              that require protection;
+ 8          (e) National and Urban Development and Housing Framework;
+ 9          (f) Identified Socialized Housing Zones; and
+10          (g) National Framework for Physical Planning and other existing national programs
+11              and policies.
+12
+13   The designated industrial development areas shall be located only in production land use
+14   areas. All permanent forestlands, forest reserves, and areas under protection land use
+15   category shall be exempted/excluded from development under protection land use category
+16   and shall be exempted/excluded from developing under industrial. and shall become an
+17   integral part of the land use plan and zoning ordinance of the city or municipality where these
+18   areas are located. RA 9700, RA 8371, RA 7279, RA 8550, RA 8435, and RA 7160 or the Local
+19   Government Code shall apply to all Special Economic Zones and Free Ports.
+20
+21                                         ARTICLE 11
+22                                 TOURISM DEVELOPMENT AREAS
+23
+24   SECTION 46. Designating Tourism Development Areas. The identification, selection, and
+25   development of tourism development areas, and Tourism Enterprise Zones (TEZs) shall be
+26   done in consultation and coordination with the concerned LGUs, the Tourism Infrastructure
+27   and Enterprise Zone Authority (TIEZA), Department of Tourism, and other concerned national
+28   government agencies, the private sector and the affected communities, subject to the
+29   provisions of R.A. No. 9593 or the Tourism Act of 2009. Tourism development areas shall
+30   likewise include those covered by legislative and executive issuances such as tourist spots,
+31   tourist zones and tourism ecozones which can be developed into tourism estates or
+32   integrated resort, leisure and recreation complexes and other tourism-related facilities as well
+33   as those identified in the national, regional, and area-specific tourism master plans and other
+34   sector plans, such as ecotourism and agri-tourism sites: Provided, That such sites designated
+35   for tourism development are outside of areas identified for protection land use. As much as
+36   practicable, community-based tourism shall be the principal mode of tourist spot operation.
+37   RA 9700, RA 8371, RA 7279, RA 8550, RA 8435, and RA 7160 shall apply and Executive Order
+38   111 s. 1999 that provided for the National Ecotourism Strategy shall likewise apply to all
+39   tourist zones and tourist development areas. Designated areas for tourism development shall
+40   become part of the CLUPs and Zoning Ordinances of the cities or municipalities where these
+41   are located.
+42
+43   SECTION 47. Identification and Preservation of Cultural Heritage. In accordance with Republic
+44   Act No. 10066 or the National Cultural Heritage Act of 2009, the National Historical
+45   Commission of the Philippines (NHCP), the National Museum (NM), and the National
+46   Commission for Culture and the Arts (NCCA) in coordination with other concerned agencies,
+47   local communities, and the private sector, shall identify and declare areas and structures
+                                                                                               34
+ 1   which shall be protected and preserved as part of Philippine cultural heritage. The NHCP and
+ 2   the NM in consultation with the NCCA and the DHSUD shall designate heritage zones to
+ 3   protect the historical and cultural integrity of a geographical area that is significant to national
+ 4   history. The LGUs in consultation with the NHCP, the NM, and the NCCA shall designate
+ 5   heritage zones to protect the historical and cultural integrity of geographical areas and
+ 6   cultural spaces of intangible cultural properties, which are significant to a city or municipality
+ 7   and the community.
+ 8
+ 9                                          ARTICLE 12
+10                                 INFRASTRUCTURE DEVELOPMENT
+11
+12   SECTION 48. Strategic Transport Network - The national government, through the Department
+13   of Transportation, shall establish a strategic and sustainable multimodal transport network
+14   that provides connectivity within the national network of settlements. Such connectivity shall
+15   include linkages among existing and proposed priority urban centers, rural areas, production
+16   hubs and tourism zones, distribution centers and markets, and key international points of
+17   entry. It shall be developed to promote network efficiency and social service delivery, to
+18   catalyze areas identified critical for economic growth, while minimizing negative impacts to
+19   environmentally-critical and protected areas as identified in the watershed management
+20   plans. The national network of settlements, as defined in the NPFP, shall guide the
+21   development of a multi-modal transportation network. The network shall be designed and
+22   implemented to provide seamless connectivity among the various modes of transportation.
+23   The RPFPs, PPFDPs and city or municipal CLUPs shall focus on the transportation network
+24   that corresponds to their respective jurisdictions while maintaining consistency with the
+25   overall national networks. Such development shall not be allowed within the protection land
+26   use areas.
+27       (a) Respond to immediate and vital requirements of the national and regional economy
+28           with priority to improving production-market integration, inter-modal transport,
+29           conveyance and logistics linkages, rural infrastructure and the development of the
+30           agriculture and fisheries sectors;
+31       (b) Upgrade existing facilities to international public safety standards;
+32       (c) Address the need for sustainable settlements development; and
+33       (d) Mitigate the destructive effects of natural disaster-causing phenomena or those that
+34           shall serve as alternatives to existing infrastructure found in natural hazard-prone
+35           areas; Provided, that the provision and implementation of infrastructure support shall
+36           be made compatible with existing environmental conditions and the physical, whether
+37           natural or human-made, and cultural character of the area. Mandatory public
+38           consultations pursuant to existing laws and regulations shall be held prior to the
+39           conduct of all infrastructure projects that will necessarily involve dislocation or
+40           displacement of people in the area;
+41
+42   Provided, further, That the proponent of the infrastructure project shall follow the rules on just
+43   and humane eviction or demolition under Section 28 of the RA 7279 as a last resort,
+44   notwithstanding the provisions of RA 8975, prohibiting lower courts from issuing temporary
+45   restraining orders, preliminary injunctions, or preliminary mandatory injunctions, and that the
+46   proponent shall follow provisions of RA 8371, particularly those pertaining to the rights of
+47   IPs/ICCs in case of displacement;
+                                                                                                     35
+ 1
+ 2   Provided, finally, that national government infrastructure projects shall provide budgetary
+ 3   allocations for the adequate relocation of displaced communities.
+ 4
+ 5   SECTION 49. Infrastructure Projects Within Geo-hazard Areas. Construction of priority
+ 6   infrastructure projects within hazard-prone areas shall be allowed: Provided, That mitigating
+ 7   and/or preventive measures are adopted and implemented to address the potential adverse
+ 8   economic, socio-cultural, and environmental impacts that will emanate from these
+ 9   infrastructure projects, subject to the findings and recommendations of a feasibility study/EIA
+10   in accordance with Presidential Decree No. 1586 (EIS System) and Republic Act No. 4846 or
+11   the Cultural Properties Preservation and Protection Act.
+12
+13   Existing projects that were undertaken without the required environmental impact
+14   assessment and which pose a threat to the environment, or gradually phased-out and
+15   relocated, or maintained within their life span subject, however, to mitigating measures:
+16   Provided, That the rules on mandatory public hearings/consultations and just and humane
+17   eviction or demolition shall also be observed prior to the termination, gradual phase-out, or
+18   relocation of projects that will necessarily involve dislocation or displacement of people in the
+19   area.
+20
+21                                       CHAPTER IV
+22                          PHYSICAL FRAMEWORK AND LAND USE PLAN
+23
+24   SECTION 50. National Land Use Planning Process. The physical framework and land use
+25   planning process shall be participatory, following a combined bottom-up and top-down
+26   approach, with mandatory public hearings/consultations conducted at all levels, and shall
+27   consider available and updated multidisciplinary scientific information of land uses. A set of
+28   national policy guidelines and standards for physical planning shall be formulated by the
+29   National Land Use Policy Committee (NLUPC). These shall guide the preparation and
+30   formulation of the national, regional and provincial physical framework plans
+31   (NPFP/RPFP/PPFP). These standards shall give due consideration to conflicting uses and
+32   areas being used, declared or designated for agrarian reform, protected areas, coastal
+33   resource management and/or ancestral domains. The National Physical Framework Plan
+34   (NPFP) shall define the national strategy and objectives of the country’s urban, rural and
+35   regional development. It shall guide the rational distribution of population, access to
+36   economic opportunities and social services, sustainable utilization of resources, and
+37   maintenance of environmental integrity.
+38
+39   Furthermore, it shall consider the existing Regional Physical Framework Plans (RPFPs) AND
+40   Provincial Physical Framework Plans (PPFPs). The RPFPs, the PPFPs and the CLUPs, which
+41   cover the physical development of their respective territories, shall be consistent with the
+42   NPFP: Provided, That the integration and harmonization of physical framework plans at all
+43   levels shall be iterative to ensure that the concerns of both top and bottom levels of
+44   government are considered in the NPFP, RPFPs, PPFPs and CLUPs. The physical
+45   FRAMEWORK and land use plans prepared at all levels shall be consistent with each other,
+46   specifically on the linkages of the major land use categories to ensure their complementation
+47   in the utilization, development and management of resources. The period of coverage of the
+                                                                                                36
+ 1   national, regional and provincial framework plans shall be thirty (30) years with regular review
+ 2   and updating every ten (10) years.
+ 3
+ 4   SECTION 51. The NPFP shall guide the planning and management of the country's land and
+ 5   other physical resources at the national and sub-national, and indicate broad spatial directions
+ 6   and policy guidelines on protection land use, production land use, settlement development
+ 7   and infrastructure development. The NPFP shall be the basis for adopting the land use and
+ 8   physical planning-related guidelines, including zoning and other land use control standards
+ 9   that will guide the formulation of city/municipal zoning ordinances.
+10
+11   The NLUPC, in consultation with concerned sectors and communities shall update the NPFP
+12   after such period that objectives and goals set by the NPFP have been substantially achieved.
+13   It shall also formulate and issue the appropriate planning guidelines and standards through
+14   which all physical planning, land use and management of resources shall be reviewed,
+15   prepared, formulated and monitored. The resulting land use plan/physical framework shall be
+16   the basis for the identification, formulation and development of national and local
+17   development plans, programs, projects and activities of government at all levels.
+18
+19   SECTION 52. Regional Physical Framework Plan. The RPFP shall provide broad spatial
+20   directions and policy guidelines on protection land use, production land use, settlement
+21   development, and infrastructure development at the regional level and guide the formulation
+22   of the PPFPs. The RPFP shall consider the existing PPFPs and the CLUPs of LGUs within the
+23   territorial jurisdiction of the region. The Regional Land Use Policy Committee (RLUPC), created
+24   under Section 59 of this Act, shall formulate and periodically update the RPFP based on the
+25   guidelines issued by the NLUPC, in a manner consistent with and following the objective of
+26   the NPFP. Likewise, the Medium-Term Regional Development Plan (MTRDP) and the Medium-
+27   Term Regional Development Investment Program (MTRDIP) shall be guided by and made
+28   consistent with the objectives identified in the RPFP.
+29
+30   SECTION 53. Provincial Physical Framework Plan. The PPFP shall determine the physical
+31   development of the entire provincial territory, consolidate and harmonize the comprehensive
+32   land use plans of component cities and municipalities, consistent with the RPFP. It shall
+33   reflect the indicative land use management and physical development direction of the
+34   province. Further, the PPFP shall serve as basis for other sectoral and development plans
+35   related to land, natural resources, and infrastructure facilities, including the development plan
+36   of the province; reconciliation and rationalization of land use proposals among component
+37   cities and municipalities and with the higher level framework plan; guiding development
+38   agencies and private developers, particularly those that undertake large-scale projects; and
+39   providing a basis for resolving conflicts arising from the implementation of land use plans and
+40   development projects involving two or more municipalities.
+41   The PPFP shall serve as the basis for the preparation of the Provincial Development Plan
+42   (PDP) and Provincial Development Investment Program (PDIP). The PPFP, PDP, PDIP and/or
+43   Provincial Physical Framework and Development Plan (PPFDP) shall serve as the basis for
+44   the formulation of sectoral action plans of national government agencies in the province and
+45   all LGUs within its jurisdiction. The province may opt to prepare their PDP alongside the
+46   preparation of PPFP and consolidate them into a PPFDP; Provided, That PPFDP shall remain
+
+                                                                                                   37
+ 1   consistent with the PPFP; Provided further, That any review or changes in the PPFP shall
+ 2   coincide with the over-all review process of the NPFP.
+ 3
+ 4   The Provincial Land Use Planning and Management Board (PLUPMB), created under this Act,
+ 5   shall ensure that the PPFP is consistent with the national and regional planning framework
+ 6   and guidelines issued by the NLUPC/RLUPC. The PPFP shall be presented to the Provincial
+ 7   Development Committee (PDC) for endorsement to the Sangguniang Panlalawigan, who shall
+ 8   formally adopt and approve the PPFP. The approved PPFP shall be submitted to the RLUPC
+ 9   for consolidation and integration into the RPFP. Under the general supervision of the PLUPMB,
+10   the Provincial Planning and Development Coordinator/Office (PPDC/PPDO) shall provide
+11   technical, secretariat and administrative support in the preparation, consultation, integration
+12   and formulation process of the PPFP.
+13
+14   SECTION 54. City and Municipal Land Use Plans (CLUPs). All barangays shall provide their
+15   sectoral, temporal, and spatial data for the CLUP, which shall serve as the foundation for the
+16   formulation of the city or municipal CLUPs. The data shall be provided by the Sangguniang
+17   Barangay through stakeholder consultations. The Comprehensive Land Use Plan (CLUP) shall
+18   determine the specific uses of land and other physical and natural resources, both private and
+19   public, within their territorial jurisdiction, including areas co-managed with the national
+20   government and, as appropriate, management plans for ancestral domains, critical
+21   watersheds, river basins, and protected areas.The CLUP shall delineate actual boundaries on
+22   the ground within the territorial jurisdiction, embody the desired land use patterns of the
+23   barangay, city, or municipality, translate and integrate sectoral plans, and provide appropriate
+24   policies for each of the four land use planning categories. The spatial directions prescribed in
+25   the CLUP shall serve as the basis for the preparation and formulation of the Comprehensive
+26   Development Plan (CDP) and Local Development Investment Programs (LDIP) of the LGUs.
+27   Consistent with the national standards and guidelines prescribed in Section 50, the cities and
+28   municipalities shall, in consultation with the concerned sectors, prepare their respective
+29   CLUPs. The City/Municipal Land Use Planning and Management Board (C/MLUPB), created
+30   under this Act, shall be responsible for the preparation and formulation of the CLUP and shall
+31   ensure its consistency with national and regional physical planning guidelines and standards.
+32   Under the general supervision of the respective C/MLUPB, the City/Municipal Planning and
+33   Development Coordinator/Office (C/MPDC/PDO) shall provide technical, secretariat, and
+34   administrative support in the preparation, consultation, integration, and formulation process
+35   of the respective CLUPs of each city or municipality.
+36
+37   The CLUPs shall be submitted by the city/municipal local development Committees (LDC) for
+38   adoption and approval of the Sangguniang Bayan (SB). The approved CLUPs shall be
+39   submitted to the province for integration into the Provincial Physical Framework Plan (PPFP).
+40
+41                                       CHAPTER V
+42                         IMPLEMENTING STRUCTURE AND MECHANISM
+43
+44   SECTION 55. Creation of the National Land Use Policy Commission (NLUPC). The National
+45   Land Use Commission (NLUC) is hereby created as a Commission under the Office of the
+46   President. It shall exercise the powers and responsibilities of the current National Land Use
+47   Committee, which is hereby abolished. The NLUC shall be chaired by a Commissioner to be
+                                                                                                38
+ 1   appointed by the President. The Commissioner will have the rank of a Cabinet Secretary. The
+ 2   Commissioner shall be a qualified professional in any of the fields of land use, physical
+ 3   planning, environmental management, engineering, public governance or law.
+ 4
+ 5   The NLUC shall act as the highest policy-making body on land use and resolve land use policy
+ 6   conflicts between or among agencies, branches, or levels of the government. It shall
+ 7   coordinate efforts towards the development of integrated land use plans at the national,
+ 8   regional, provincial, and municipal/city levels, and monitor the implementation of all land use
+ 9   plans, including relevant policies.
+10
+11      (a) Formulate land use planning guidelines in the preparation of the CLUPs and zoning
+12          ordinances of local government units to ensure compliance with the national policies,
+13          objectives, priorities and directions set by the NLUPC;
+14      (b) Provide technical and other forms of planning assistance to, including capacity-
+15          building for, local government units and zoning boards; and
+16      (c) Act as the appellate body on decisions of local zoning bodies on locational clearance
+17          applications and/or oppositions thereto and other zoning issues involving private
+18          rights.
+19      (d) Issue recommendations for approval for all conversion orders, including agreements
+20          issued by the relevant government agencies, including protected areas. The NLUPC
+21          shall act as the highest policy-making body on land use and shall resolve land use
+22          policy conflicts between or among agencies, branches, or levels of the government. It
+23          shall integrate efforts, monitor developments relating to land use and the evolution of
+24          policies.
+25
+26   SECTION 56. Composition of the NLUPC. The NLUC will be composed of the following:
+27         (a) Commissioner of NLUC as Chairperson;
+28         (b) Secretary of Department of Economy, Planning, and Development as Vice-
+29             Chairperson;
+30         (c) As Ex-Officio Members:
+31                a. The Secretary of the Department of Agrarian Reform (DAR);
+32                b. The Secretary of the Department of Agriculture (DA);
+33                c. The Secretary of the Department of Environment and Natural Resources
+34                    (DENR);
+35                d. The Secretary of the Department of the Interior and Local Government
+36                    (DILG);
+37                e. The Secretary of the Department of Transportation (DOTr);
+38                f. The Chairperson of the National Commission on Indigenous Peoples
+39                    (NCIP);
+40                g. The Chairperson of the Housing and Urban Development Coordinating
+41                    Committee (HUDCC);
+42                h. The Chief Executive Officer of the Human Settlements Adjudication
+43                    Commission (HSAC);
+44                i. The Administrator of the National Mapping and Resource Information
+45                    Authority (NAMRIA);
+
+
+
+                                                                                                 39
+ 1                  j. The members of the Committee who are Cabinet Secretaries may
+ 2                     designate their duly authorized and permanent representatives whose
+ 3                     ranks shall in no case be lower than Undersecretary.
+ 4                  k. President of the League of Cities in the Philippines (LCP);
+ 5                  l. President of the League of Municipalities in the Philippines (LMP);
+ 6                  m. Two (2) representatives each from four (4) basic sectors directly involved
+ 7                     in land use, namely: urban poor, peasants, fisherfolk, youth, and indigenous
+ 8                     peoples who shall be appointed by the respective National Anti-Poverty
+ 9                     Commission (NAPC) sectoral Committees. Of the eight (8) sectoral
+10                     representatives, at least four (4) shall be women: Provided, that one of
+11                     whom shall be from the More sector.
+12                  n. Four (4) representatives from the developers’ associations; the accredited
+13                     associations of professionals dealing with land use such as, but not limited
+14                     to, urban and regional planners, environmental planers, architects,
+15                     geologists and geodetic engineers; the business or private sectors; and
+16                  o. The Head of the NLUPC Secretariat shall be a nonvoting ex officio member.
+17
+18   SECTION 57. Powers and Functions of the NLUPC. The NLUPC shall have the following powers
+19   and functions:
+20          (a)     Advise the President of the Philippines on all matters concerning land use and
+21                  physical planning;
+22          (b)     Integrate and harmonize all laws and policies relevant to land use in order to
+23                  come up with a rational, cohesive, and comprehensive national land use
+24                  framework, and if warranted, recommend to Congress the adoption, passage
+25                  or amendment of laws to ensure that sectoral plans, projects and activities,
+26                  including local government initiatives affecting land use are consistent with
+27                  national development objectives;
+28          (c)     Formulate the necessary national policy guidelines in the preparation of the
+29                  country’s physical framework plans, including the setting of limits/target key
+30                  land uses needed for protection, production, settlements and infrastructure for
+31                  present and future needs;
+32          (d)     Review the NPFP every ten (10) years.
+33          (e)     Ensure the consistency of other national development and sectoral plans and
+34                  programs, including the National Expenditure Program (NEP) medium-term
+35                  Philippine Development Plan (PDP) and Public Investment Program (PIP), with
+36                  the NPFP;
+37          (f)     Call on any department, bureau, office, agency, or instrumentality of the
+38                  government and or private entities and organization for cooperation, support,
+39                  and assistance in the performance of its functions.
+40          (g)     Resolve policy conflicts on land uses between or among agencies, branches,
+41                  or levels of government and unresolved land use policy conflicts at the regional
+42                  level;
+43          (h)     Adopt rules of procedures for the orderly and expeditious conduct of meetings
+44                  and other business of the Committee; and
+45          (i)     Perform such other acts and functions and exercise such other powers as may
+46                  be necessarily implied, inherent, incident, or related to the foregoing.
+
+                                                                                                 40
+ 1          (j)     Guide the determination and identification of the country’s strategic land use
+ 2                  development and physical planning objectives, priorities and direction, as well
+ 3                  as recommend the adoption, passage, or amendment of laws to ensure that
+ 4                  plans, programs, projects, and activities, including local government initiatives
+ 5                  affecting land use are consistent with national development objectives;
+ 6          (k)     Ensure that policies, guidelines and standards on land use and physical
+ 7                  planning, including zoning, shall be followed by the RLUPC, local land use
+ 8                  boards and concerned national agencies, and that the RPFP, PPFP AND CLUPs
+ 9                  shall be consistent with the NPFP;
+10          (l)     Issue locational clearances for projects of national significance;
+11
+12   SECTION 58. NLUPC Secretariat. The existing unit of the DepDev in charge of Land Use and
+13   Physical Planning Division shall act as the NLUPC Secretariat which shall perform functions
+14   such as, but not limited to, managing information, gathering of data, coordinate the monitoring
+15   of government agencies and local government units, ensuring multi-stakeholder participation
+16   towards formation of local land use policy boards, sharing of data base and mapping systems,
+17   and reinforcing relevant assessment tools and capability building programs.
+18
+19   SECTION 59. National Land Use Office (NLUO). –. The National Land Use Office (NLUO) is
+20   hereby created under the Office of the President, which shall serve as technical secretariat to
+21   the NLUC. The NLUO shall be headed by the NLUC Commissioner with two (2) Deputy
+22   Commissioners with the rank of Undersecretary. The NLUO shall have an Executive Director.
+23   Further, the NLUO shall have services units for planning and policy formulation, operations
+24   and information systems management, and special land use concerns. The NLUC shall
+25   prepare and formulate the organizational structure and staffing pattern of the NLUO for
+26   submission to the Department of Budget and Management for its evaluation and approval.
+27
+28   SECTION 60. Regional Land Use Office. – A Regional Land Use Office (RLUO) is hereby created
+29   in each Region.
+30
+31
+
+32
+
+33                                       CHAPTER VI
+34                        REGIONAL AND LOCAL LAND USE POLICY BODIES
+35
+36   SECTION 61. Regional Land Use Policy and Management Board (RLUPMB). At the regional
+37   level, the Regional Land Use Committee (RLUC) is hereby abolished and in its stead, the
+38   RLUPMB shall be created. The RLUPMB shall be institutionalized, replicating the NLUPC
+39   structure and composition. It shall be chaired by the DEPDev Regional Director and shall
+40   exercise the following functions:
+41            (a)   Formulate regional policies and guidelines which are consistent with the
+42                  national planning guidelines issued by the NLUPC in the preparation and
+43                  formulation of the respective provincial physical planning and comprehensive
+44                  land use plans of LGUs within its jurisdiction;
+
+
+                                                                                                  41
+ 1           (b)    Prepare and periodically update the RPFP, taking into consideration national
+ 2                  policies and lower-level plans;
+ 3           (c)    Review, prior to adoption by respective Sanggunians, the PPFPs and CLUPs of
+ 4                  highly urbanized and independent component cities to ensure consistency with
+ 5                  the RPFP and national policies set forth by NLUPC;
+ 6           (d)    Decide and resolve policy conflicts on land use planning, classification, and
+ 7                  allocation that may arise between or among regional line agencies, provinces
+ 8                  and cities/municipalities;
+ 9           (e)    Monitor changes in land use and other physical resources in the region;
+10           (f)    Coordinate and monitor the land use activities of regional line agencies and
+11                  LGUs;
+12           (g)    Evaluate consistency of major programs and projects of regional agencies and
+13                  entities with the RPFP and their impact on land use and the environment; and
+14           (h)    Perform other related functions as may be directed by the NLUPC.
+15
+16   In forest land use management, where the watershed area/continuum covers several
+17   municipalities across different provinces, an inter-LGU task force composed of
+18   representatives from RLUPC and the concerned MLGUs where the watershed area is located
+19   shall be formed. With the assistance of the DENR and upon mandatory consultations with the
+20   concerned sectors, the inter-LGU task force shall formulate the Watershed Management Plan
+21   for the said watershed area.
+22
+23   Failure to complete sixty percent (60%) of the approved conversion plan within a specified
+24   time frame shall result to the automatic revocation by the DAR of the conversion plan on the
+25   undeveloped portion. The land shall be reverted to its original use as agricultural land and may
+26   be covered under the CARP for land distribution.
+27
+28   SECTION 62. Provincial Land Use Planning and Management Board (PLUPMB). The Provincial
+29   Land Use Committee (PLUC) is hereby abolished. The Provincial Land Use Planning and
+30   Management Board or (PLUPMB) is created in all provinces under this Act to oversee the
+31   preparation, integration, adoption and approval of the Provincial Physical Framework Plan
+32   (PPFP) and shall ensure its consistency with approved national and regional planning
+33   guidelines. The PLUPMB shall also be directly responsible for the effective management and
+34   implementation of the approved PPFP and ensure that any existing and future development
+35   initiatives, programs and projects introduced within its jurisdiction are consistent with and
+36   supportive of the land use resource management and physical planning objectives, directions
+37   and character identified in the approved PPFP.
+38
+39   SECTION 63. Allocation and Use of Land for Infrastructure Development. Land, whether public
+40   or private, shall be allocated and utilized for priority infrastructure projects that are supportive
+41   of national or local development objectives. The Department of Economy, Planning, and
+42   Development, in consultation with the concerned national government agencies, LGUs, and
+43   the private sector, CSOs, IPLCs, and all other sectors experiencing marginalization shall
+44   identify and periodically review, update and/or revise the list of priority infrastructure projects
+45   under an over-all national strategic infrastructure development plan subject to the provisions
+46   of this Act, RA 8435 and RA 8371; Provided, That such national strategic infrastructure
+47   development plan shall be consistent and integrated in the objectives and directions of the
+                                                                                                       42
+ 1   NPFP. In determining and evaluating the list of priority infrastructure projects, consideration
+ 2   shall be given to those that:
+ 3           (a)     Advice the Sangguniang Panlalawigan on all matters pertaining to land use and
+ 4                   physical planning;
+ 5           (b)     Assist the Sangguniang Panlalawigan in reviewing the submitted CLUPs of
+ 6                   component cities/ municipalities to ensure consistency with the Provincial
+ 7                   Physical Framework Plan.
+ 8           (c)     Decide and resolve policy conflicts on land use planning, classification, and
+ 9                   allocation that may arise between or among cities/municipalities and facilitate
+10                   the resolution of any unresolved land use conflict, including political boundary
+11                   conflicts, at the city/municipality level;
+12           (d)     Formulate necessary provincial planning guidelines and/or implementing
+13                   policies for the preparation and formulation of the respective CLUPs within its
+14                   jurisdiction consistent with approved national and regional planning policies
+15                   and guidelines;
+16           (e)     Submit to the PDC the draft CLUP for its transmission to the Sanggunian
+17                   Panlalawigan and for the PDC to use it as reference for consistency and
+18                   complementation with other development plans;
+19           (f)     Review, monitor and assess the implementation and operationalization of the
+20                   approved CLUP and its consistency with physical planning and land use
+21                   management objectives and goals identified in the CLUP;
+22           (g)     After an appropriate period of time or upon instruction and advice by the
+23                   NLUPC, conduct and initiate a progress review of the PPFP and the
+24                   achievement of its stated objectives and goals and update the PPFP;
+25           (h)     Promote cooperation and sharing of resources between and among
+26                   component LGUs of the province or with neighboring LGUs to address
+27                   common land use and development issues including those related to geo-
+28                   physical hazards, watershed and river basin management, coastal and marine
+29                   waters, climate change impact and disaster risks; and In cases where the
+30                   watershed areas transcend the boundaries of a particular municipality, an inter-
+31                   LGU task force composed of representatives from PLUPMB of the MLGUs
+32                   where the watershed area is located shall be formed.
+33
+34   SECTION 64. Composition of the PLUPMB. The PLUPMB shall be composed of the following
+35   fifteen (15) members to be selected based on the rules to be formulated by the NLUPC as
+36   provided in this Act:
+37           (a)     Provincial Planning and Development Coordinator (PPDC);
+38           (b)     Chairperson of the Sangguniang Panlalawigan Committee on Environment and
+39                   Natural Resources;
+40           (c)     Provincial Chapter President-League of Municipalities and/or League of Cities;
+41           (d)     Provincial Agrarian Reform Officer (PARO);
+42           (e)     Provincial Environment and Natural Resources Officer (PENRO);
+43           (f)     Provincial Agricultural Officer (PAO);
+44           (g)     NCIP Provincial Officer;
+45           (h)     DHSUD Regional Director;
+46           (i)     Three (3) representatives from the local business or private sector; the
+47                   developers’ association and accredited associations of professionals dealing
+                                                                                                43
+ 1                  with land use such as, but not limited to, urban and regional planners,
+ 2                  environmental planners, architects, geologists, geodetic engineers; and
+ 3                  chamber of commerce, who shall be appointed from among the accredited
+ 4                  organizations within their respective development Committees;
+ 5          (j)     Four (4) representatives from the basic sector groups (urban poor, fisherfolk,
+ 6                  farmers and indigenous peoples): Provided, That at least two (2)
+ 7                  representatives shall be women: Provided further, That the representatives
+ 8                  shall be appointed from among the accredited organizations within their
+ 9                  respective development Committees: Provided, finally, that in predominantly
+10                  Muslim areas, one of whom shall be from the Moro sector; and
+11          (k)     The Designated Board Chairperson, to be chosen among the members.
+12
+13   Except for ex officio members, the members of the PLUPMB shall be appointed for a term of
+14   three (3) years, subject, however to the elected office held, government employment and/or
+15   official designation of the LGU, national agency and/or local business/private sector
+16   association or basic sector group representation in the board. The NLUPC, within ninety (90)
+17   days from its establishment, shall formulate the rules for the selection of the Chairperson and
+18   the members in the PLUPMB. The PPDO/PPDC shall provide technical secretariat and
+19   administrative support and resources for the effective operation of the PLUPMB. Aside from
+20   the PPDO, the PLUPMB may call upon other local and national government offices and
+21   agencies such as the local Engineer, Assessor and local field representatives of the DA,
+22   DPWH, the Department of Transportation and Communications (DOTC), DOT, DENR, DAR, the
+23   Department of Education (DepED), NCIP and other concerned national agencies to assist the
+24   PLUPMB in the performance of its roles and mandates. Appropriations for the regular
+25   operation and activities of the PLUPMB shall be included in the annual budget proposal of the
+26   PPDO: Provided, That other funds and resources, including grants, applicable service fees and
+27   charges collected, contributions, donations, and other funs to supports its operations and
+28   activities may be accepted and received by the PLUPMB, subject to existing auditing and
+29   reporting procedures.
+30
+31   SECTION 65. City/Municipal Land Use Planning and Management Board (C/MLUPMB). A
+32   City/Municipal Land Use Planning and Management Board or (C/MLUPMB) is hereby created
+33   under this Act in all municipalities and cities, including highly urbanized and component cities,
+34   to oversee the preparation, integration, adoption and approval of their respective
+35   Comprehensive Land Use Plans (CLUPs). It shall issue a Certificate of Compliance prior to the
+36   submission of the CLUP to the Sanggunian to ensure the consistency of such plans with
+37   approved national, regional and provincial planning guidelines. The C/MLUPMB shall also be
+38   directly responsible for the effective management and implementation of the approved CLUP
+39   and for ensuring that existing and future local policies, including zoning ordinances,
+40   development initiatives, programs and projects introduced within its jurisdiction are
+41   consistent with and supportive of the land use resource management and physical planning
+42   objectives, directions and character identified by the approved CLUP.
+43
+44   SECTION 66. Powers and Responsibilities of the City/Municipal Land Use Planning and
+45   Management Board. The C/MLUPMB shall exercise the following powers and functions:
+46         (a)   Ensure the inclusion of the input of the barangays within the jurisdiction of the
+47               respective City/Municipality on sectoral, temporal and spatial dimensions of
+                                                                                                44
+ 1                  the plan and its consistency with approved national, regional and provincial
+ 2                  planning guidelines;
+ 3          (b)     Review, monitor and assess the implementation and operationalization of the
+ 4                  approved CLUP and its consistency with physical planning and land use
+ 5                  management objectives and goals identified in the CLUP;
+ 6          (c)     Decide and resolve policy conflicts on land use planning, classification, and
+ 7                  allocation that may arise between or among barangays and facilitate the
+ 8                  resolution of any unresolved land use conflict, including boundary conflicts,
+ 9                  involving barangays;
+10          (d)     Advise the Sangguniang Bayan on all matters pertaining to land use and
+11                  physical planning; and
+12          (e)     Promote cooperation and sharing of resources between and among its
+13                  barangays and neighboring LGUs to address common land use and
+14                  development issues including those related to geo-physical hazards,
+15                  watershed and river basins, coastal and marine waters, climate change impact
+16                  and disaster risks.
+17          (f)     Issue a Certificate of Compliance to the Sanggunian as proof that the CLUP is
+18                  compliant with national land use policies, guidelines and standards;
+19          (g)     Submit to the LDC the draft CLUP for its transmission to the Sanggunian and
+20                  for the LDC to use it as basis for consistency and complementation with other
+21                  development plans;
+22          (h)     Based on the CLUP, review and endorse for approval/disapproval applications
+23                  for locational clearances, building and zoning permits and/or other planning-
+24                  related requirement for any project, both private and public, that is submitted
+25                  to the LGU for issuance;
+26
+27   SECTION 67. Composition of the C/MLUPMB. The C/MLUMPPB shall be composed of the
+28   following thirteen (13) members and shall be headed by a Chairperson:
+29           (a)     City/Municipal Planning and Development Coordinator (C/MPDC);
+30           (b)     Chairperson, Sangguniang Bayan Committee on Environment and Natural
+31                   Resources;
+32           (c)     Three (3) representatives from the local business/private sector, the
+33                   developers’ associations, and the accredited associations of professionals
+34                   dealing with land use such as, but not limited to, urban and regional planners,
+35                   environmental planners, architects, geologists and geodetic engineers; and
+36                   association/chamber of commerce, who shall be appointed from among the
+37                   accredited organizations within their respective development Committees;
+38           (d)     Four (4) representatives from the basic sector groups (urban poor, fisherfolk,
+39                   farmers and indigenous peoples), Provided, That at least two representatives
+40                   shall be women; Provided, further, that the representatives shall be appointed
+41                   from among the accredited organizations within their respective development
+42                   Committees; Provided finally, that in predominantly Muslim areas, one of
+43                   whom shall be from the Moro sector; and
+44           (e)     President of the Association of Barangay Captains (ABC);
+45           (f)     Municipal Agrarian Reform Officer (MARO);
+46           (g)     LGU Environment and Natural Resources Officer (City/Municipal ENRO);
+47           (h)     Municipal Agriculture Office (MAO);
+                                                                                                 45
+ 1          (i)    Designated Board Chairperson, to be chosen among the members.
+ 2
+ 3   Except for ex officio members, the members of the C/MLUPMB shall be appointed for a term
+ 4   of three (3) years, subject however to the elected office held, government employment and/or
+ 5   official designation in the LGU, national agency and/or local business/private sector
+ 6   association or basic and marginalized sector group representation in the board. The NLUPC,
+ 7   within ninety (90) days from its establishment, shall formulate the rules for the selection of
+ 8   the Chairperson and members of the C/MLUPMB. The City/Municipal Planning and
+ 9   Development Office/Coordinator (C/MPDO/C) shall provide technical secretariat and
+10   administrative support and resources for the effective operation of the C/MLUPMB. Aside
+11   from the C/MPDO/C, the C/MLUPMB may call upon other local and national government
+12   offices and agencies such as the local engineer, the assessor and the local field
+13   representatives of the DA, the DPWH, the DOTC, the DOT, the DENR, the DAR, the DepED and
+14   other concerned national agencies to assist the C/MLUPMB in the performance of its roles
+15   and mandates. Annual appropriations for the operation and activities of the C/MLUPMB shall
+16   be included in the annual budget proposal of the C/MPDO/C: Provided, That other funds and
+17   resources, including grants, applicable service fees and charges collected, contributions,
+18   donations, and other funds to support its operations and activities may be accepted and
+19   received by the C/MLUPMB, subject to existing auditing and reporting procedures. LGUs shall
+20   create and/or activate their respective C/MLUPMB upon guidelines issued by the NLUC for
+21   such purposes, not later than six (6) months from the effectively of this Act.
+22
+23                                     CHAPTER VII
+24                   ADOPTION, APPROVAL AND REVIEW OF LOCAL LAND USE
+25                           AND PHYSICAL FRAMEWORK PLANS
+26
+27   SECTION 68. Approval and Review of PPFP and CLUPs. The PPFP and CLUPs of the respective
+28   city/municipal LGUs, including highly urbanized cities and independent component cities shall
+29   be submitted by the local land use boards to the LDCs for transmission to the local
+30   Sanggunian for approval.
+31
+32   SECTION 69. Approval of RPFP and NPFP. The RPFP and NPFP shall be submitted for review
+33   and approval of the RLUPC and NLUPC, respectively, upon the conduct of appropriate
+34   stakeholder and agency consultations: Provided, That such processes and guidelines shall be
+35   prepared and issued by the NLUPC within six (6) months from effectivity of this Act.
+36
+37                                   CHAPTER VIII
+38                MAPPING AND DATA MANAGEMENT FOR LAND USE PLANNING
+39
+40   SECTION 68. National Mapping and Spatial Data Infrastructure Program (NMSDIP). A national
+41   mapping program shall be implemented, coordinated and monitored by the Inter – Agency
+42   Technical Committee (ITC) which is hereby created. It shall be composed of the National
+43   Mapping And Resource Information Authority (NAMRIA) as the lead agency, the Philippine
+44   Space Agency (PhilSA), the Bureau of Soils and Water Management (BSWM), the Forest
+45   Management Bureau (FMB), the Land Management Bureau (LMB), the Land Registration
+46   Authority (LRA), the Protected Areas And Wildlife Bureau (PAWB), the Mines And Geoscience
+47   Bureau (MGB), the Philippine Institute of Volcanology and Seismology (PHIVOLCS), the
+                                                                                            46
+ 1   Department of Agrarian Reform (DAR), Department of Agriculture (DA), National Commission
+ 2   on Indigenous People (NCIP), the National Water Resources Board (NWRB), the Department
+ 3   of Energy (DOE), the National Disaster Risk Reduction and Management Committee
+ 4   (NDRRMC), the Department of Economy, Planning, and Development (DepDev), and
+ 5   Nationwide Operational Assessment of Hazards (Project NOAH), University of the Philippines
+ 6   Resilience Institute (UPRI), and other concerned government agencies. The ITC shall be
+ 7   constituted, and the mapping and spatial data infrastructure program shall be initiated within
+ 8   thirty (30) days from the effectivity of this Act. The program shall be responsible for the
+ 9   production of base and decision maps and associated spatial databases for all planning levels
+10   based on the guidelines of NLUPC. Under the program, all government stakeholders
+11   concerned in the production of maps of various themes shall collaboratively formulate the
+12   government's spatial data infrastructure master plan and respective government
+13   agency/stakeholders' spatial data infrastructure plans which shall be the basis for
+14   subsequent funding and eventual project implementation and/or operation. All pertinent and
+15   updated thematic maps/data from supporting agencies of the program shall be verified and
+16   validated by the Philippine Space Agency and other concerned stakeholders before
+17   submission to NAMRIA for compilation and integration into a national geospatial database
+18   established under the program. The NAMRIA shall finish its base mapping program within two
+19   (2) years upon the effectivity of this Act and provide updates thereof to support the
+20   implementation of the spatial data infrastructure program. The spatial and non-spatial data
+21   generated by these activities shall be validated before transmitted to the LGU as soon as
+22   practicable. Existing land information data available to the national government agencies as
+23   of the effectivity of this Act shall be immediately transmitted to the LGUs. For purposes of
+24   uniformity and standardization, the LGUs, assisted by the appropriate agencies of the national
+25   government, shall likewise prepare their respective maps using scales, symbols, and other
+26   indicators to be prescribed in accordance with this Act. The completed maps shall be
+27   integrated in the National Physical Framework Plan pursuant to section 51 of this act.
+28
+29   SECTION 69. Maps for Planning. Within one (1) year after the NLUPC’s approval of the
+30   Guidelines and Standards for planning at all levels, available NAMRIA maps and all maps
+31   made available to NAMRIA by supporting agencies shall be submitted to the NLUPC for
+32   national, provincial, cities and municipalities planning. The NLUPC shall forward these maps
+33   to the respective PLUPMBs and C/MLUPMBs after it has reviewed and approved them.
+34   Pertinent maps to be produced through the NMSDIP shall include, among others:
+35           (a)     Topographic Maps;
+36           (b)     Geologic Maps;
+37           (c)     Hydrologic Maps;
+38           (d)     Climate Maps;
+39           (e)     Soils Maps;
+40           (f)     Slope Maps;
+41           (g)     Mineral Resource Maps;
+42           (h)     Existing Land Use Maps;
+43           (i)     Bathymetric Maps
+44           (j)     Land Suitability Maps for:
+45                   a. Settlements
+46                   b. Agriculture
+47                   c. Industrial areas
+                                                                                               47
+ 1          d. Others
+ 2   (k)    Agricultural Maps:
+ 3          a. Network of Protected Areas for Agricultural and Agro-industrial
+ 4              Development;
+ 5          b. Commodity Specific Development Guide Maps;
+ 6          c. Land Limitation Maps;
+ 7          d. Cropping System Zones Maps;
+ 8          e. Hydro-ecological Conditions Map;
+ 9          f. Irrigation Systems Maps;
+10   (l)    Land Classification Maps;
+11   (m)    Municipal Waters Delineation Maps and MPAs;
+12   (n)    Geo-Hazard Maps:
+13          a. Flood Prone Areas;
+14          b. Hazard Zonation Maps for Volcanoes;
+15          c. Map of Fault Systems;
+16          d. Tsunami Prone Areas;
+17          e. Erosion Prone Areas;
+18   (o)    Tourism Maps;
+19   (p)    Transportation Maps;
+20   (q)    Traffic Flow;
+21   (r)    Maps Designating Areas Served by:
+22          a. Power
+23          b. Tele-communications
+24          c. Water
+25   (s)    Maps indicating the following facilities:
+26          a. Health
+27          b. Education
+28          c. Power
+29   (t)    Domestic Water Supply
+30   (u)    Industrial Areas
+31   (v)    Population Distribution Map
+32   (w)    Ancestral Domain Map
+33          a. Certificate of Ancestral Land Title Map
+34          b. Certificate of Ancestral Domain Title Map
+35          c. Indigenous Peoples and Local Communities
+36   (x)    NIPAS Areas
+37   (y)    Areas Suitable for Urban Expansion
+38   (z)    Watershed Areas
+39   (aa)   Forest Lands
+40          a. Protection Areas
+41          b. Production Areas
+42          c. Restoration Areas
+43   (bb)   Key Biodiversity Areas
+44   (cc)   Marine Protected Areas
+45   (dd)   Local Conservation Areas
+46   (ee)   Other Effective Area-based Conservation Measures
+47
+                                                                            48
+ 1   SECTION 70. Ground Delineation of the Country’s Permanent Forest Line. Pursuant to the
+ 2   Constitution and as provided under this Act, the final determination and ground delineation of
+ 3   the country’s permanent forest line shall be completed within one (1) year from the effectivity
+ 4   of this Act: Provided, That appropriations for the fulfillment of this provision shall be included
+ 5   in the annual appropriations of the DENR: Provided, Further, that the complete report of the
+ 6   delineation of the country’s permanent forest line shall be presented and validated by
+ 7   concerned IPLCs, sectors, and CSO’s before submission to the NLUPC for appropriate
+ 8   integration in the country’s strategic land use development plan and policies.
+ 9
+10   SECTION 71. Completion and Updating of Existing Cadastral Surveys. The completion of
+11   cadastral surveys of LGUs and the updating of existing surveys shall be given priority and
+12   allocation of resources in the implementation of this Act. The DENR shall include in its annual
+13   appropriations the completion and updating of all incomplete and existing cadastral surveys
+14   of all LGUs in the country: Provided, that such surveys and maps shall be integrated into the
+15   national spatial database information and mapping system. In cases of ancestral domains,
+16   self-delineation by ICCs/IPs of their ancestral lands shall be employed to determine
+17   boundaries as provided for under RA 8371. The NCIP shall include in its annual appropriations
+18   the delineation of ancestral domains.
+19
+20   SECTION 72. Ground Delineation of Land Use. For effective planning to take place at the local
+21   level and for easy enforcement of the Zoning Ordinance of each city/municipality, land uses
+22   must be identifiable both on the map and on the ground. A Joint Committee comprised of the
+23   LGU, as represented by its M/CLUPMB, and of the national government agency concerned, to
+24   be assisted by the C/MPDC, shall identify and delineate on the ground the land uses within
+25   their jurisdiction. The following shall be given priority:
+26            (a)     Forest Lands:
+27                    a. Protection
+28                    b. Production
+29            (b)     Ancestral Domains
+30            (c)     NIPAS Areas
+31                    a. Strict Protection Zone
+32                    b. Multiple Use Zone
+33            (d)     Watershed Areas
+34                    a. Critical
+35                    b. Multiple Use
+36            (e)     Network of Protected Areas for Agricultural and Agro-industrial Development
+37                    (NPAAAD)
+38            (f)     Socialized Housing Sites and Settlement Expansion Areas
+39            (g)     Extents of Environmentally-Constrained Areas
+40            (h)     Easement Areas
+41            (i)     Critical coastal areas
+42                    a. Mangroves
+43                    b. Sea grass
+44
+45   Critical marine resources should also be delineated both on the map and in the waters.
+46   Perimeters of critical offshore areas, such as coral reefs, shall be marked in accordance with
+47   the coastal resource management plans concerned. All maps shall be updated as new
+                                                                                                49
+ 1   important information and data become available or as determined by urgent need. Updating
+ 2   of maps shall be undertaken not more often than every ten (10) years.
+ 3
+ 4                                        CHAPTER IX
+ 5                        TRAINING, EDUCATION AND VALUES FORMATION
+ 6
+ 7   For purposes of uniformity and standardization and in order to develop a safe-built
+ 8   environment, the LGUs shall subsequently incorporate and integrate the generated geo-hazard
+ 9   zoning maps into their respective CLUPs and ZOs. Said geo-hazard maps shall serve as guide
+10   for all the LGUs in the preparation of their own hazards-constrained development plans. The
+11   NPFP shall incorporate these geo-hazard maps. All entities conducting infrastructure
+12   activities including real estate and subdivision projects and the development of tourist spots
+13   requiring an ECC shall submit an Engineering Geological and Geo-hazard Assessment Report
+14   (EGGAR).
+15
+16   SECTION 73. National Geo-hazard Mapping Program. Within thirty (30) days from the
+17   effectivity of this Act, a nationwide geo-hazard mapping program shall be initiated jointly
+18   through the NLUPC by the PHIVOLCS, the Philippine Atmospheric Geophysical and
+19   Astronomical Services Administration (PAGASA), the NAMRIA, the Mines and Geosciences
+20   Bureau (MGB), and the DOE, in coordination with the NDRRMC, the Regional Disaster Risk
+21   Reduction Management Committees, and other concerned government agencies. The
+22   program shall include the generation of indicative geo-hazard zoning maps that will outline
+23   areas in the Philippines which are prone to liquefaction, landslides, flooding, lahar, ground
+24   rupturing, tsunami, river erosion, coastal erosion, sinkhole collapse, earthquake, lava flow,
+25   pyroclastic flow, base surge, and other natural hazards.
+26
+27   SECTION 74. Scope and Nature of Responsibilities of Other National Government Agencies. All
+28   concerned national government agencies/bodies shall periodically report to the NLUPC on the
+29   various activities and accomplishments on land use. Likewise, they shall provide their
+30   respective sectoral/development plans and provide technical and administrative support if
+31   called upon by the NLUPC for the implementation of the provisions of this Act.
+32
+33   SECTION 75. Submission of Annual Report on the Implementation of CLUPs and ZOs. The local
+34   land use boards shall submit their annual report on the implementation of their land use plans
+35   to their respective Sanggunian which shall submit the same to the RLUPCs for consolidation.
+36   The RLUPC shall thereafter transmit the consolidated reports to the NLUPC for monitoring
+37   and evaluation.
+38
+39   SECTION 76. Values Formation. In order to develop a well-informed, responsible and
+40   committed citizenry who value the protection, conservation and development of the country's
+41   limited land, and other physical resources, the State shall mandate the inclusion of sustainable
+42   land use education or any subject related thereto in the curricula of primary, secondary and
+43   tertiary education.
+44
+45   SECTION 77. Information/Education Campaign and Capacity Building The NLUPC shall
+46   undertake a nationwide information/education campaign on land use and physical planning
+47   to be implemented by local and national government agencies. The DILG and concerned
+                                                                                          50
+ 1   agencies shall formulate and implement a land use management capability building program
+ 2   for national and local government officials, community leaders, representatives of NGOs, POs,
+ 3   the religious sector, and the general public.
+ 4
+ 5                                         ARTICLE ONE
+ 6                                    INCENTIVES AND AWARDS
+ 7
+ 8   SECTION 78. Formulation of a System of Incentives and Awards. The NLUPC shall come up
+ 9   with a system of incentives and awards to LGUs that regularly update their CLUPs/ZOs once
+10   every eight (8) years.
+11
+12   SECTION 79. Priority in Giving Technical Assistance to LGUs. In providing technical assistance
+13   and other forms of support related to land use management and implementation of
+14   development plans, national government agencies shall give priority to cities and
+15   municipalities with approved CLUPs and ZOs.
+16
+17                                         ARTICLE TWO
+18                                   SANCTIONS AND PENALTIES
+19
+20   SECTION 80. Fine for Failure to Commence or Complete the Development of Agricultural Lands
+21   with Approved Conversion Order. For agricultural lands with approved conversion orders, the
+22   provisions of Republic Act 6657 (CARL), as amended by Republic Act 9700, shall apply. A
+23   landowner and/or the designated developer or duly authorized representative who fail to
+24   commence and/or complete the development plan defined in the conversion order shall be
+25   jointly and severally penalized. The following fines based on the zonal value or the fair market
+26   value of the land, whichever is higher at the time the fine shall be imposed:
+27
+28      (a) Failure to commence within three (3) years from the date of the conversion order:
+29              a. Three percent (3%) for the first three hectares;
+30              b. Ten percent (10%) for the next three (3) hectares; and
+31              c. Fifteen percent (15 %) for the remaining area.
+32
+33      In such case, the order of conversion shall be revoked by operation of law. The land shall
+34      revert to its original use as agricultural land and may be covered by the DAR through
+35      compulsory acquisition for distribution to qualified beneficiaries.
+36
+37      (b) Failure to complete sixty percent (60%) of the approved conversion plan within a
+38          specified time frame shall result to the automatic revocation by the DAR of the
+39          conversion plan on the undeveloped portion. The land shall be reverted to its original
+40          use as agricultural land and may be covered under the CARP for land distribution.
+41
+42   SECTION 81. Persons Abetting Illegal Conversion. Any person initiating, causing, inducing, or
+43   abetting illegal conversion with intent shall be punished with imprisonment or a fine in
+44   accordance with Act No. 3815 or Republic Act 3019, or both at the discretion of the court.
+45
+46   If the offender is a public official or employee, whether elected or appointed, the penalty shall
+47   also include dismissal from service, forfeiture of all benefits and entitlements accruing to the
+                                                                                                   51
+ 1   public position, and perpetual disqualification to run or apply for any elective or appointive
+ 2   public office.
+ 3
+ 4   If the offender is a juridical person, the penalty of imprisonment shall be imposed on the
+ 5   president, chief executive officer, manager, chairperson and all the members of the board, and
+ 6   other responsible officers thereof. The imposable fine shall be equivalent to the zonal value
+ 7   of the land or forty percent (40%) of the shareholders’ equity, whichever is higher. Furthermore,
+ 8   the land shall be forfeited in favor of the State and sold through public auction. The proceeds
+ 9   of the sale shall automatically accrue to the Agrarian Reform Fund.
+10
+11   SECTION 82. Penalty for Reclassification of Protected Agricultural Lands and Exceeding the
+12   Limit of Areas Allowed for Reclassification. Any person initiating, causing, inducing, or abetting
+13   the reclassification to non-agricultural uses of protected agricultural areas as defined in
+14   Section 13 hereof shall be penalized with imprisonment of twelve (12) years or a fine of not
+15   less than One hundred thousand Pesos (P100,000.00), or both at the discretion of the court.
+16   If the offender is a public official or employee, whether elected or appointed, the penalty shall
+17   also include dismissal from service, forfeiture of entitlements accruing to the public position,
+18   and perpetual disqualification to run or apply for any elective or appointive public position. If
+19   the offender is a juridical person, the penalty shall be imposed on the president, chief
+20   executive officer, manager, chairperson and all the members of the board, and other
+21   responsible officers thereof. The same penalty shall be applicable to persons who will be
+22   responsible for exceeding the limits set forth under Section 20 of the Local Government Code
+23   pertaining to reclassification of lands.
+24
+25   SECTION 83. Payment of Disturbance Compensation. Following the order of priority stated in
+26   Section 22 of R.A. 6657, as amended by R.A. 9700, agricultural lessees and share tenants,
+27   regular farm workers, seasonal farm workers, other farm workers, actual tillers or occupants
+28   of public lands, collective, or cooperative of the above beneficiaries, and others directly
+29   working on the land affected by agricultural land use conversion, shall be entitled to the
+30   payment of disturbance compensation equivalent to five (5) times the average of the gross
+31   harvests on the landholding during the preceding five (5) calendar years or a certain
+32   percentage of the converted land, whichever is higher, as determined by the DAR.
+33
+34   SECTION 84. Authority to Impose Fine. The DAR shall have the authority to impose the fines
+35   provided under the preceding Sections 80, 81, 82 and 83.
+36
+37   SECTION 85. Withdrawal of Local Development Permits and/or Licenses. Upon receipt of
+38   notice from the DAR, the concerned agencies, city or municipality shall withdraw and/or
+39   revoke any development permit and/or other licenses that may be necessary to develop the
+40   agricultural land subject of conversion.
+41
+42   SECTION 86. Utilization of Fines. The fines collected under Section 84 hereof shall
+43   automatically accrue to the Agrarian Reform Fund consistent with the provision of the
+44   Comprehensive Agrarian Reform Law.
+45
+46   SECTION 87. Failure to Formulate, Implement and/or Enforce the CLUPs and Zoning
+47   Ordinances (ZOs). – Consistent with due process, the NLUPC, in coordination with the DILG,
+                                                                                             52
+ 1   shall evaluate, review, and recommend the filing of charges against local chief executives and
+ 2   other local officials and employees responsible for the formulation, implementation and/or
+ 3   enforcement of the CLUPs for the following acts:
+ 4           (a)     Failure of the CLUPs/ZOs to conform to the guidelines provided in the NPFP;
+ 5           (b)     Failure to implement and enforce the CLUP/ZO due to negligence of duty.
+ 6           (c)     Failure to provide appropriate budgetary allocation to effect its
+ 7                   implementation;
+ 8           (d)     Failure to complete the preparation of the CLUP despite the availability of
+ 9                   funds, resources, and support by the Sanggunian concerned; Any public official
+10                   or employee, whether elected, appointed or holding office/employment in a
+11                   casual, temporary, holdover, permanent, or regular capacity, found to be
+12                   responsible for any of the foregoing acts, shall be punished with forfeiture of
+13                   salaries and allowances, and suspension from:
+14           (e)     Six (6) to nine (9) months, in case of non-implementation of the CLUP;
+15           (f)     Three (3) to six (6) months, in case of non-completion of the CLUP;
+16           (g)     Three (3) to six (6) months, in case of non-conformity with the NPFP; Failure to
+17                   comply with the provisions of RA 8371 on the formulation of CLUP shall be
+18                   penalized according to Section 72 of the RA 8371.
+19   SECTION 88. Illegal Conversion of City or Municipal Parks, Communal Forests, and Tree Parks
+20   in Subdivisions. Penalties in the amount of One hundred thousand pesos (P100,000.00) to
+21   Five hundred thousand Pesos (P500,000.00), or imprisonment of six (6) years and one (1) day
+22   to twelve (12) years, or both, at the discretion of the court shall be imposed for each of the
+23   following offenses:
+24           (a)     Illegally converting or causing the conversion of a city/municipal park,
+25                   communal forest, or tree parks within subdivisions established pursuant to
+26                   Presidential Decree No. 953, requiring the planting of trees in certain places,
+27                   into other uses including the construction of permanent buildings;
+28           (b)     Destroying or causing damage to the timber lands and other forest products
+29                   found in the above mentioned forest and parks;
+30           (c)     Setting the above mentioned forest and parks on fire, or negligently permitting
+31                   a fire to be set therein; and
+32           (d)     Assisting, aiding or abetting another person to commit the offenses stated in
+33                   this Section. The offender shall likewise be imposed a fine equivalent to eight
+34                   (8) times the commercial value of the forest products destroyed without
+35                   prejudice to payment of the full cost of rehabilitation of the areas as
+36                   determined by the DENR. The maximum penalty prescribed shall be imposed
+37                   upon the offender who repeats the same offense and double the maximum
+38                   penalty upon the offender who commits the same offense for the third time or
+39                   more. All improvements made therein, as well as all vehicles, domestic animals,
+40                   and equipment of any kind used in the commission of the offense shall be
+41                   forfeited in favor of the government. If not suitable for use by DENR, said
+42                   improvements, vehicles, domestic animals and equipment shall be sold at
+43                   public auction, the proceeds from which shall accrue to the Forest
+44                   Conservation and Development Fund (FCDF).
+45
+46                                        CHAPTER X
+47                              TRANSITORY AND FINAL PROVISIONS
+                                                                                                  53
+ 1
+ 2   SECTION 89. Mandatory Review Every Ten Years. The Congress shall undertake a mandatory
+ 3   review of this Act at least once every ten (10) years from its effectivity or as often as it may
+ 4   be deemed necessary to ensure that land use policies and guidelines remain responsive to
+ 5   changing circumstances. For this purpose, the Congress may call on to the NLUPC to
+ 6   undertake the necessary researches and consultations.
+ 7
+ 8   SECTION 90. Convening of the NLUPC. Within thirty (30) days from the effectivity of this Act,
+ 9   the Chairperson shall convene the NLUPC and the Head of the NLUPC Secretariat shall
+10   immediately assume office.
+11
+12   SECTION 91. Implementing Rules and Regulations. Within ninety (90) days from the effectivity
+13   of this Act, the NLUPC shall promulgate its implementing rules and regulations (IRR) including
+14   the rules on the selection of the members of the C/MLUPMB and the PLUPMB. It shall take
+15   effect fifteen (15) days after its complete publication in the Official Gazette or in at least two
+16   (2) newspapers of national circulation.
+17   SECTION 92. Transfer of Powers and Functions. The functions of the HSAC on land use
+18   planning as provided for under Sections 5a,5b,5c,5d,5e,and 5f of Executive Order No. 648
+19   Series of 1991 and EO No. 72 series or 1993, shall be immediately transferred to the NLUPC
+20   and its appropriate sub-national LGU structures, except as provided in Section 55 hereof.
+21   Nothing in this Act shall be construed to transfer or limit functions embraced within the said
+22   provisions that pertain to or relate to HSAC non-planning functions.
+23
+24   SECTION 93. Review of Existing Land Use Plans. Provinces, cities, and municipalities with
+25   existing land use plans shall review, revise, reconcile, and harmonize the same with the
+26   guidelines and standards issued by the NLUPC within one (1) year from the effectivity of this
+27   Act.
+28
+29   SECTION 94. Access to Information. Access to records and documents pertaining to official
+30   acts, transactions, or decisions as well as to data used as basis for policy development by the
+31   NLUPC shall be made available to the public.
+32
+33   SECTION 95. Congressional Oversight Committee on the Land Use Act. A Congressional
+34   Oversight Committee on the Land Use Act shall be created. It shall be composed of seven (7)
+35   members from the Senate and seven (7) members from the House of Representatives. The
+36   members from the Senate shall be appointed by the Senate President based on proportional
+37   representation of the parties or coalitions therein, with at least two (2) senators representing
+38   the minority. The members from the House of Representatives shall be appointed by the
+39   Speaker of the House of Representatives, also based on proportional representation of the
+40   parties or coalitions therein with at least two (2) members representing the minority. The
+41   Oversight Committee shall function for a period of not more than three (3) years to oversee
+42   the implementation of this Act. The secretariat of the Oversight Committee shall be drawn
+43   from the existing secretariat personnel of the committees comprising the oversight.
+44
+45   SECTION 96. Appropriations. The amount needed for the initial implementation of this Act
+46   shall be charged against the current year’s appropriations of the DepDev-National Land Use
+
+                                                                                                    54
+ 1   Committee (NB-NLUC). Thereafter, such sums as may be necessary for the continued
+ 2   implementation of this Act shall be included in the Annual General Appropriations Act.
+ 3
+ 4   SECTION 97. Repealing Clause. Section 10 of RA 8435 and Sections 447 (a2vii) and 458
+ 5   (a2viii) of RA 7160 and related laws and administrative issuances are hereby modified by
+ 6   Section 13 hereof. The pertinent provisions of Executive Order No. 648, Executive Order No.
+ 7   72, Series of 1993, and Executive Order No. 770, Series of 2008, amending Letter of Instruction
+ 8   (LOI) 1350, are also modified accordingly. Section 11 of RA 8435 as to the penalty for
+ 9   agricultural inactivity and premature conversion is also modified by Section 83 hereof. Letter
+10   of Instruction No. 1350, series of 1983, Presidential Proclamation 2282, series of 1983, and
+11   all other general and special laws, acts, decrees, executive orders, proclamations and
+12   administrative regulation, or any part thereof which are inconsistent with this Act are hereby
+13   repealed or modified accordingly. All Republic Acts, Executive Orders, rules and regulations,
+14   and other issuances, or parts thereof, that are inconsistent with the provisions of this Act are
+15   hereby repealed or amended accordingly.
+16
+17   SECTION 98. Non-impairment Clause. Nothing in this Act shall be construed as to diminish or,
+18   impair rights recognized, granted, or available to marginalized or the basic sectors under
+19   existing laws, including but not limited to Republic Act Nos. 7279, 6657 as amended by R.A.
+20   7942, 8371, 8550, 9700.
+21
+22   SECTION 99. Separability Clause. If, for any reason, any section or provision of this Act is
+23   declared unconstitutional or invalid, the other sections or provisions not affected thereby shall
+24   remain in full force and effect.
+25
+26   SECTION 100. Effectivity. This Act shall take effect fifteen (15) days after its publication in the
+27   Official Gazette or in at least two (2) national newspapers of general circulation.
+28
+29   Approved,
+
+
+
+
+                                                                                                     55
+

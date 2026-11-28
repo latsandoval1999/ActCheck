@@ -1,0 +1,461 @@
+                            Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES                                   February 18, 2026
+                            Quezon City, Metro Manila
+                                                                                           1:43 pm
+
+                               TWENTIETH CONGRESS
+                                First Regular Session
+
+                                HOUSE BILL NO. 7851
+
+
+                       Introduced by ANG PROBINSYANO
+                  Party-List Representative Alfred Delos Santos
+
+
+
+                                EXPLANATORY NOTE
+
+      Article II, Section 15 of the Constitution places on the State the
+responsibility for protecting and promoting people’s right to health. This is
+operationalized in Article XIII, Section 11, which mandates the State with
+adopt an integrated and comprehensive approach to health development
+which shall endeavor to make essential goods, health, and other social
+services available to all the people at affordable cost.
+
+       The digitalization of medical services is the new frontier in Philippine
+public health. Early into the COVID-19 pandemic, the Department of Health
+sought to tap into this form of health services with COVID-19 hotlines 02-
+894-COVID (26843) and 1555.1 Then the DOH was able to set up 24/7
+hotlines both for “COVID-19 medical advice and health concerns unrelated to
+the virus”: 1) (02) 8424-1724 for Telimed Management Inc and Medgate; and
+2) (02) 7798-8000: Globe and TM users.2
+
+      We must eagerly pursue the institutionalization and development of
+eHealth, especially since our experiences with the COVID-19 pandemic have
+proven it to be so useful:3
+
+      Cisco mobilized its country digitization acceleration program dubbed
+      UGNAYAN 2030, a collaboration platform that focuses on enabling key critical
+      digital initiatives to build the country’s digital resilience. Launched during the
+      pandemic year, UGNAYAN 2030 served as a catalyst in providing remote work
+      technology that built the foundation for telehealth in the country.
+
+      Through UGNAYAN 2030, Cisco Philippines extended support to the [DOH] in
+      building its capacity to conduct online consultations, virtual meetings, and
+      respond to large volumes of calls from patients all over the country via Cisco
+
+1
+  https://news.abs-cbn.com/news/04/07/20/doh-launches-247-hotline-in-metro-manila-
+for-free-medical-consultations
+2
+  Id.
+3
+  https://mb.com.ph/2021/04/22/doh-logs-2300000-minutes-in-conference-calls-and-
+telemedicine-over-cisco-webex/
+       Webex licenses and devices. Hundreds of Webex licenses were distributed to
+       various health facilities all over the country.
+
+       Over the past year, the DOH conducted 17,400 sessions over Webex,
+       amounting to over 2.3 million minutes of meetings and consultations. In the
+       past three months alone, the DOH has engaged with over 100,000
+       stakeholders and patients per month.
+
+       x x x “Because of the pandemic, health institutions had to make many of its
+       offline services available online, which is a complicated process. With Cisco
+       Webex, DOH was able to set up its online conferencing infrastructure quickly
+       and continue to serve the public when they needed it the most.”
+
+      It is evident that as envisioned, telemedicine has been working well in
+terms of enabling patient referral systems and in minimizing health workers’
+exposure to COVID-19.4
+
+       Given these advantages, then, it would only be prudent for us to seize
+this momentum and have the DOH build on whatever lessons it has gained
+in the course of digitizing a lot of its services.
+
+       Hence, the need for this Bill. It shall develop, regularly update, and
+implement a health sector enterprise architecture while also setting up the
+ICT infrastructure needed for swift, reliable telemedicine services. It shall
+rationalize eHealth services and applications. It shall provide means for
+regulating telehealth services and eHealth-related devices, as well as
+enforcing standards of practice and certification requirements for individuals
+and entities providing telehealth services. Finally, it shall secure the funding
+for the massive endeavor of scaling up eHealth implementation at the national
+level and keeping it running, even after the COVID-19 pandemic has passed.
+
+     It is for the foregoing premises that the approval of this Bill is earnestly
+sought.
+
+
+
+
+                                                        ALFRED C. DELOS SANTOS
+                                           Representative, Ang Probinsyano Party-List
+
+
+
+
+4
+ https://doh.gov.ph/press-release/DOH%27S-TELEMEDICINE-INITIATIVE-STRENGTHENS-PROVISION-OF-
+PRIMARY-HEALTH-CARE-SERVICES
+                        Republic of the Philippines
+                      HOUSE OF REPRESENTATIVES
+                        Quezon City, Metro Manila
+
+                          TWENTIETH CONGRESS
+                           First Regular Session
+
+                     HOUSE BILL NO. 7851
+
+
+                     Introduced by ANG PROBINSYANO
+                Party-List Representative Alfred Delos Santos
+
+
+   AN ACT ESTABLISHING THE ELECTRONIC HEALTH (eHEALTH)
+ SYSTEM AND SERVICES IN SUPPORT OF UNIVERSAL HEALTH CARE
+    USING INFORMATION AND COMMUNICATIONS TECHNOLOGY,
+             AND APPROPRIATING FUNDS THEREFOR
+
+       Be it enacted by the Senate and the House of Representatives of the
+Philippines in Congress assembled:
+
+     SECTION 1. Short Title. – This Act shall be known as the “eHealth
+System and Services Act.”
+
+      SECTION 2. Declaration of Policy. – It shall be State policy to protect
+and promote the right to health of all Filipinos and instill health
+consciousness among them. Towards this end, the State shall institutionalize
+a system of providing wide access and quality healthcare information and
+services through electronic means using information and communication
+technologies (ICT) to improve health outcomes for every Filipino and recognize
+public and private partnerships.
+
+       The   eHealth    system     shall   be    comprehensive,    integrated,
+interconnected, sustainable, measurable, synchronized, interoperable, and
+progressive based on best practices, and shall facilitate inter-agency and
+inter-sectoral coordination at various levels of governance covering both the
+public and private sectors. The State shall recognize eHealth as equal with
+other healthcare delivery methods to the extent allowable by existing laws,
+provide and support healthcare delivery, including diagnosis, consultation,
+treatment, transfer of care of a patient, exchange of health data, and
+education, especially in medically unserved and underserved geographically
+isolated and disadvantaged areas (GIDAS).
+
+      SECTION 3. Statement of Objectives. – This Act shall have the following
+objectives:
+
+      a) Provide a policy framework and establish a system that shall direct
+         and regulate the practice of eHealth;
+      b) Set policies, standards, regulations, and services in eHealth to
+         reduce inequalities, achieve universal health care, and improve
+         health outcomes;
+      c) Realize health information exchange to measure and monitor health
+         system performance and responsiveness; and
+      d) Enable the citizenry with access to health information and health
+         services, including telehealth, needed for better management and
+         control of their own health.
+
+      SECTION 4. Scope and Application. – This Act covers all existing
+healthcare providers and other entities developing and using eHealth systems,
+services, and applications, whether public or private. It includes all other
+eHealth solutions, services, and applications including relevant standard
+equipment in the field of health and ancillary services that utilize ICT and
+complements existing minimum modalities or standards of healthcare and
+other access to information.
+
+      SECTION 5. Definition of Terms. – The following terms, as used in this
+Act, shall be understood thusly:
+
+      a) eHealth System. – Interplay of enabling elements essential for a
+         successful eHealth implementation—which include governance,
+         accountability, strategy, investment, human resources, standards,
+         interoperability, monitoring, compliance, research and development,
+         infrastructure, services, and applications;
+      b) eHealth Services and Applications. – Solutions and products with
+         defined objectives to serve their intended clients or users, such as
+         health information systems, electronic medical record (EMR)
+         systems, electronic health record (EHR) systems, hospital
+         information systems, ePharmacy systems, laboratory systems,
+         radiology systems, registry systems, mobile health, telehealth,
+         telemedicine, wearables, and biomedical and related devices with
+         ICT component;
+      c) Electronic Health (eHealth). – Use of cost-effective and secure ICT for
+         health;
+      d) Electronic Health Record (EHR). – Computerized health records used
+         to capture, store, access, and share information for a patient
+         between healthcare organizations and providers;
+      e) Electronic Medical Record (EMR). – Computerized medical records
+         used to capture, store, and share information between healthcare
+         providers in an organization;
+      f) Geographically isolated and disadvantaged areas (GIDAS). –
+         Communities with marginalized populations, separated from the
+         mainstream society and characterized by: 1) distance, weather
+         conditions, and transportation difficulties; and 2) high poverty
+         incidence, presence of vulnerable sector/s, or the condition of being
+         in or having to recover from a crisis or armed conflict;
+      g) Health Sector Enterprise Architecture. – Blueprint on which eHealth
+         services and applications shall be developed, implemented, and
+         scaled up;
+      h) Health Knowledge Resources. – Services that manage and provide
+         access to trusted information to support health care providers and
+         individuals, including local and international online journals and
+         resource collections, national electronic journals, printed
+         information, archives, and other information sources;
+      i) Information and Communications Technology (ICT). – All
+         technologies for the communication of information, which includes
+         data, application or information systems, internet, network,
+         connectivity, and telecommunications, among others;
+      j) Mobile Health (mHealth). – Services and information supported by
+         mobile technology, such as mobile phones, wearables, and handheld
+         computers;
+      k) Personal Health Record. – Computerized health record created and
+         maintained by an individual;
+      l) TeleHealth. – Delivery of health-related services and information, at
+         a distance, which encompasses preventive, promotive, curative, and
+         palliative aspects and includes a collection of means or methods for
+         enhancing health care, public health, health research, and health
+         education delivery and support in the various health fields using
+         telecommunications and virtual technologies; and
+      m) Telemedicine. – Remote diagnosis and treatment of patients by
+         means of telecommunications technologies.
+
+       SECTION 6. Implementing Agency. – The Department of Health (DOH)
+shall be the lead implementing agency for carrying out the provisions of this
+Act, including its components. The DOH shall strengthen and transform its
+existing Knowledge Management and Information Technology Service (KMITS)
+into a full-fledged bureau, to be named the Knowledge Management and
+Health Information Technology Bureau (“the Bureau”), which shall perform
+the overall management and administration of this Act. Additional plantilla
+positions may be created for this purpose.
+
+     The Bureau shall also serve as a secretariat of the eHealth Policy and
+Coordination Council as provided in Section 7 hereof.
+
+       SECTION 7. eHealth Policy and Coordination Council. – There shall be
+created an independent body to be known as the eHealth Policy and
+Coordination Council (“the Council”), for providing and promoting relevant
+policies and guidelines for the effective coordination and implementation of
+this Act. The Council shall be composed of the following key officials:
+
+      a) Secretary of Health, as chairperson;
+      b) Secretary of Information and Communications Technology, as co-
+         chair;
+      c) President and Chief Executive Officer of the Philippine Health
+         Insurance Corporation (PhilHealth), as co-chair;
+      d) Secretary of Science and Technology;
+      e) Secretary of Social Welfare and Development;
+      f) Secretary of Interior and Local Government;
+      g) Secretary of Budget and Management;
+      h) Chancellor, University of the Philippines – Manila (UPM);
+      i) Chairperson, Commission on Higher Education (CHED);
+      j) Chairperson, National Privacy Commission (NPC);
+      k) National Statistician, Philippine Statistics Authority (PSA);
+      l) Two (2) representatives from professional medical or health societies;
+      m) One (1) representative from patients’ group; and
+      n) One (1) representative from the IT industry associations.
+
+       SECTION 8. Powers and Duties. –        The Council shall exercise the
+following powers and functions:
+
+      a) Establish eHealth policies, standards, regulations, and ethical
+         frameworks pertinent to use, practice, and provision of eHealth
+         services;
+      b) Direct and coordinate the eHealth services and applications at the
+         national level and ensure alignment of the system and services with
+         the overall health and ICT goals of the government;
+      c) Spearhead the activities that promote eHealth awareness and
+         engage the participation of the stakeholders;
+      d) Submit yearly assessments to the Senate Committee on Health and
+         Demography and the House of Representatives Committee on
+         Health; and
+      e) Promulgate rules and procedures, relating to administrative
+         violations and complaints, insofar as they relate to the
+         establishment and operations of the National eHealth System.
+
+      SECTION 9. Sub-structure for Broader Stakeholder Participation. – The
+Council shall create multi-sectoral groups, composed of both the private and
+public sectors, to ensure broader stakeholder participation.
+
+      SECTION 10. Health Sector Enterprise Architecture. – The Council shall
+develop, regularly update, and implement a health sector enterprise
+architecture to provide guidance to align and ensure that data are easily made
+available and accessible, business processes are harmonized and integrated,
+and services and applications are usable, safe, efficient, and effective.
+
+       SECTION 11. Standards Compliance. – All health and health-related
+entities shall comply with the data standards, as defined by the Council, to
+allow interoperability and health information exchange, and ensure data
+protection in accordance with Republic Act No. 10173 (“Data Privacy Act”) and
+other related laws and issuances.
+
+       These standards include, among others, patient identifier, provider
+identifier, health facility identifier, and terminology and messaging standards.
+These standards shall be in accordance with the Philippine eGovernment
+interoperability framework and other relevant standards.
+
+      SECTION 12. Rationalization of eHealth Services and Applications. –
+Design, development, and implementation of eHealth services and
+applications shall focus on the automation and interoperability of the various
+mandatory eHealth business processes and data services as laid out in the
+Health Sector Enterprise Architecture.
+
+      SECTION 13. Scope of eHealth Services and Applications. – eHealth
+includes the following areas:
+
+      a) Mandatory eHealth Data Services:
+         1) Master Person Index
+         2) Master Provider Index
+         3) Master Facility Index
+         4) Terminology Registry
+
+      b) Compliant eHealth Application:
+         1) Electronic Medical Record
+         2) Enterprise Resource Planning
+         3) Laboratory, Radiology, and ePrescription
+         4) Human Resources for Health Information System
+         5) TeleHealth
+
+      SECTION 14. Regulations of TeleHealth Services and eHealth Related
+Devices. – The Council, through the DOH, shall establish and maintain a
+regulatory system for telehealth services and eHealth-related devices.
+
+       SECTION 15. Standards of Practice and Certification of Individuals and
+Entities Providing TeleHealth Services. – To complement the regulations of
+telehealth services and eHealth-related devices, the DOH shall, in
+consultation with Professional Regulatory Commission (PRC), PhilHealth,
+UPM – National TeleHealth Center, DICT, the academe, medical and specialty
+societies, non-government organizations (NGOs), and the private business
+sectors, set the standards of practice and implement a certification
+mechanism for individuals and entities providing telehealth services.
+
+      SECTION 16. Human Resource in eHealth. – The human resources for
+eHealth are health professionals who shall plan, design, build, operate, use,
+maintain, and support the eHealth services and applications.
+
+       The DOH, CHED, DICT, Technical Education and Skills Development
+Authority (TESDA), and PRC, in consultation with medical and specialty
+societies, IT professional associations, and the academe, shall establish the
+minimum competencies and impose the same on health, health-related, and
+digital health professionals. This shall be part of the curriculum of health and
+health-related courses.
+      SECTION 17. Human Resource Development Plan. – The DOH, CHED,
+TESDA, and PRC shall formulate the Human Resource Development Plan,
+which shall develop new curricula, integrate changes in existing curricula,
+create formal and non-formal training programs, and continuing professional
+development programs. There shall also be creation of personnel services
+items, plantilla positions, and other employment opportunities for human
+resource in government hospitals and institutions to manage and enable
+eHealth in healthcare and related services.
+
+      SECTION 18. ICT Infrastructure. – The DICT, in coordination with DOH,
+PhilHealth, and the Department of Science and Technology (DOST), shall
+establish the necessary national ICT infrastructure to implement eHealth
+services and applications.
+
+      SECTION 19. National Health Data Center. – The DICT, in coordination
+with DOH, PhilHealth, and DOST, shall establish the necessary national ICT
+infrastructure to implement eHealth services and applications.
+
+      SECTION 20. National eHealth Strategic Framework and Plan. – The
+PhilHealth shall, in coordination with the DOH, DICT, and DOST, establish
+and maintain the national health data center, in support to Republic Act No.
+11223 (“Universal Health Care Act”) and in compliance with Republic Act No.
+10173 (“Data Privacy Act of 2012”).
+
+      SECTION 21. Financing eHealth Strategic Framework and Plan. –
+Financing for the national eHealth system by DOH, PhilHealth, and other
+partners, as defined by the Council, shall be made available to scale up
+eHealth implementation at the national level.
+
+      SECTION 22. Public-Private Sector Participation. – The DOH shall
+promulgate rules regarding the participation of the private sector in the
+provision of eHealth services and applications, including public-private
+partners and other suitable arrangements.
+
+     SECTION 23. Monitoring and Compliance. – The Council shall measure
+and monitor the performance and progress of the implementation of this Act.
+
+      SECTION 24. Research and Development. – Consistent with Republic
+Act No. 10532 (“Philippine National Health Research System Act of 2013”) and
+the mandate of DOST, the DOST – Philippine Council for Health Research and
+Development (DOST-PCHRD) shall, in consultation with DOH, CHED, DICT,
+PhilHealth, UPM – National TeleHealth Center, academia, regional health
+research consortia, medical and specialty societies, NGOs, and the private
+business sectors, ensure the development of new eHealth services,
+applications, and innovations through:
+
+      a) Formulation of eHealth research priority areas under the National
+         Unified Health Research Agenda (NUHRA), and other research
+         agendas;
+      b) Funding and mobilizing resources for researches on eHealth which
+         are aligned with the research agenda;
+      c) Establishment and strengthening of centers of excellence of eHealth
+         research; and
+      d) Adherence of eHealth research outputs to the health technology
+         assessment process as provided in the Universal Health Care Act.
+
+       SECTION 25. Funding Source for Research and Development. – The
+DOH, PhilHealth, DOST, DICT, CHED, and DILG shall allocate at least 1% of
+their respective annual regular budget in support of eHealth research and
+development. Other development agencies, state universities and colleges
+(SUCs), private entities, and NGOs are encouraged to provide financial
+support for eHealth research and development.
+
+       SECTION 26. Administrative Penalties. – Any person or entity who
+violates the provision under Sections 12, 15, and 16 of this Act shall, after
+due notice and hearing, be penalized by the following schedule of
+administrative fines:
+
+      a) For the first offense, the person or entity shall receive a written
+         admonition with a warning that the next offense shall be penalized;
+
+      b) For the second offense, the person or entity shall be fined an amount
+         of fifty thousand pesos (PhP 50,000.00); and
+
+      c) For the third offense, the person or entity shall be fined an amount
+         of one hundred thousand pesos (PhP 100,000.00) and revocation of
+         certificate to operate telehealth services and ehealth related devices.
+
+      The schedule of fines under this Act may be increased by the Council
+every five years.
+
+        The administrative penalties shall be without prejudice to criminal
+liability in accordance with Republic Act No. 10173 (“Data Privacy Act”) and
+other related laws.
+
+       SECTION 27. Transitory Provisions. – Within ninety (90) days from the
+effectivity of this Act, during the transformation of KMITS into a full-fledged
+Bureau, the existing KMITS shall serve in a holdover capacity until a full and
+permanent bureau is constituted.
+
+      SECTION 28. Appropriations. – The amount necessary to carry out the
+provisions of this Act shall be included in the General Appropriation of the
+year following its enactment into law. Further, other sources of funds may
+come from the Private Sector Participation Program, Joint DOH-PhilHealth-
+DICT-DOST undertakings on eHealth, and Medium-Term Information and
+Communications Technology Harmonization Initiative (MITHI).
+      SECTION 29. Implementing Rules and Regulations. – Within ninety (90)
+days from the effectivity of this Act, the Secretary of DOH shall, after
+consultation with the Secretaries of DICT and DOST, the President and Chief
+Executive Officer of PhilHealth, Chancellor of UPM, the Chairperson of CHED,
+the National Statistician of PSA, and representatives of medical and
+paramedical associations and societies , and other stakeholders, promulgate
+the necessary rules and regulations implementing the provisions of this Act.
+
+      SECTION 30. Separability Clause. – If any provision or part of this Act
+is held invalid or unconstitutional, the remaining provisions or parts
+unaffected shall remain in full force and effect.
+
+       SECTION 31. Repealing Clause. – All laws, executive orders,
+presidential decrees or issuances, letters of instruction, administrative orders,
+rules, and regulations contrary to or inconsistent with the provisions of this
+Act are hereby repealed, amended, or modified accordingly.
+
+      SECTION 32. Effectivity Clause. – This Act shall take effect fifteen (15)
+days after its publication in the Official Gazette or in a newspaper of general
+circulation.
+
+      Approved,
+

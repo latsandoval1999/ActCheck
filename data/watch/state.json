@@ -553,11 +553,34 @@
    "catch_up_added": 146,
    "catch_up_remaining": 3134,
    "pilot_scope": 0
+  },
+  {
+   "time": "2026-11-28T02:09:12+00:00",
+   "checked": {
+    "HB": [
+     11535,
+     12444
+    ]
+   },
+   "errors": {
+    "SB": "source unavailable (HTTPError: HTTP Error 403: Forbidden): check failed, NOT the same as 'no new bills'"
+   },
+   "found": 0,
+   "notes": [
+    "House: 108 numbers checked; highest published so far HB 12043; numbers above it are not yet on the House documents server"
+   ],
+   "catch_up_added": 146,
+   "catch_up_remaining": 2984,
+   "pilot_scope": 0
   }
  ],
  "backfill": {
-  "next": 7876,
+  "next": 7725,
   "absent": [
+   7732,
+   7805,
+   7808,
+   7830,
    7915,
    7920,
    7979,

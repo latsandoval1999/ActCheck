@@ -1,0 +1,293 @@
+                                 Republic of the Philippines
+                              HOUSE OF REPRESENTATIVES
+                                       Quezon City                                                  February 11, 2026
+                                                                                                        3:35 pm
+                                   TWENTIETH CONGRESS
+                                     First Regular Session
+
+                                                  7754
+                                 HOUSE BILL NO. _________
+
+
+             Introduced by Representative Paolo Henry M. Marcoleta
+
+
+                                     EXPLANATORY NOTE
+
+       Shortly after being sworn in, President Ferdinand R. Marcos, Jr. declared
+that food security is the key to having a vibrant future for the country and
+emphasized that his administration will focus on agriculture to build a strong
+economy and to assure adequate food supply even in emergencies.1
+
+       Moreover, during the 35th United Nations Food and Agriculture
+Organization (FAO) Regional Conference for Asia and the Pacific held in
+November 2020, the Philippines Department of Agriculture (DA) said that it
+would push for the digitalization of the country's agriculture sector under the
+“new normal” to achieve its goals of reducing poverty and attaining food
+security in the country. DA related that this can be achieved through teaching
+farm families and other vulnerable agriculture groups to capitalize on digital
+agriculture to increase their productivity and income, by providing them the
+needed technical, marketing and financial support. Furthermore, the DA is "fast-
+tracking" the development of a digital road map for the agriculture sector to
+promote and integrate precision agriculture and digital technology in local
+farming practices to assimilate digital technologies in the food value chain and
+logistics, benefiting both producers and consumers.2
+
+       In support of this policy direction on digitalization of the DA, and in line
+with the President's thrust to upgrade our agriculture sector, this bill seeks to
+establish an Agriculture Information System (AIS), managed by the DA, which
+shall serve as a dynamic online computer database where information on the
+1
+  Philippine Daily Inquirer, "Bongbong Marcos says food inadequacy a major reason why agri is admin's focus,"
+https://newsinfo.inquirer.net/1622265/bongbong-marcos-says-food-inadequacy-a-major-reason-why-agri-is-
+admins-focus#ixzz7YJqAxwWr
+2
+  United Nations Food and Agriculture Organization, "Philippines highlights rising role of digital agriculture at
+FAO Regional Conference," https://www.fao.Org/philippines/news/detail/ar/c/1307351/
+demand for specific agricultural and fisheries commodities is gathered and
+uploaded simultaneously with the production data from farmers in every
+barangay. The AIS shall merge and synchronize agricultural data from different
+sources into a cohesive database designed to facilitate linkages from place of
+origin or the farm to local, and ultimately, global markets. The AIS shall also be
+integrated with the existing systems of the DA.
+
+       The concept of AIS is likewise based on the Municipal Agriculture
+Information System (MAIS) developed by the Local Government Unit of Mina,
+Iloilo which collects, sorts, evaluates and utilizes agricultural data on farmers,
+their family, their activities, land, crop and livestock production in real time. It
+provides information to decision makers, market players and other key
+government and private sector interest groups based on data gathered by
+barangay-level volunteers and relayed by SMS or stored in flash drives and are
+received at the municipal level and entered in the central data bank where they
+are digitally collated, sorted and analyzed. Accurate information on any
+commodity produced in the municipality of Mina are inputs to helping farmers
+market their products outside, giving them assurance on better prices and
+volumes they can sell which directly redound to improved and stable income
+for them.3
+
+           With all these considerations, support for the passage is earnestly sought.
+
+
+
+
+                                 PAOLO HENRY M. MARCOLETA
+                                   Representative, SAGIP Party-List
+
+
+
+
+3
+    Mina, Iloilo, "What is MAIS?", https://lgu-minailoilo.com/index.php/what-is-mais/
+                              Republic of the Philippines
+                           HOUSE OF REPRESENTATIVES
+                                    Quezon City
+
+                               TWENTIETH CONGRESS
+                                 First Regular Session
+
+                                              7754
+                             HOUSE BILL NO. _________
+
+
+               Introduced by Representative Paolo Henry M. Marcoleta
+
+
+                            AN ACT
+     ESTABLISHING THE AGRICULTURE INFORMATION SYSTEM IN
+     ALL  PROVINCES,   CITIES  AND  MUNICIPALITIES, AND
+     APPROPRIATING FUNDS THEREFOR
+
+     Be it enacted by the Senate and House of Representatives of the Philippines in
+     Congress assembled:
+
+1          Section 1. Short Title. – This Act shall be known as the “Agriculture
+2    Information System Act.”
+3
+4           Sec. 2. Declaration of Policy. – It is the policy of the State to uplift the
+5    socioeconomic conditions of farmers and farming communities nationwide in
+6    order to promote their welfare and empower their sector in the overall
+7    development and progress of the country. Pursuant to this, an integrated,
+8    computerized, web-based agricultural commodity supply inventory and registry
+9    system linking farmers and organized communities all over the country needs to
+10   be established to provide an easy-to-access local and global real time information
+11   for agricultural commodities, with an end view of creating a wider range of
+12   market linkages among farmers and agricultural buyers. Furthermore, through a
+13   synchronized agriculture information system, the National Government shall
+14   have access to real-time agricultural information which can rationalize the
+15   objectives and policy directives in the agricultural sector.
+16
+17         Sec. 3. Objectives. – This Act aims to attain the following objectives:
+18
+1       a) Provide an up-to-date database of agricultural and fisheries products in a
+2          locality;
+3       b) Foster information sharing between farmers and potential buyers of
+4          agricultural and fisheries products;
+5       c) (c) Secure a market for agricultural and fisheries products and ensure
+6          appropriate return of investment for farmers and fisheries stakeholders;
+7       d) (d) Allow local government units to manage a secure and independent
+8          platform that creates linkages for farmers and fisheries stakeholders;
+9       e) (e) Provide data on specific commodities that are readily available in a
+10         particular locality for purposes of production monitoring in order to meet
+11         the demands of the market;
+12      f) (f) Provide a secure, transparent, and independent modern web application
+13         that may be accessed anytime by the public through a multi-platform
+14         support or cross-platform support devices which can be linked to existing
+15         systems in the Department of Agriculture (DA);
+16      g) (g) Streamline training and seminars in the management of the operations;
+17      h) (h) Monitor the use of inputs given by producers, buyers, and other
+18         segments of the value-chain including information during post-harvest and
+19         processing; and
+20      (i) Ensure that all forms of assistance given to local government units (LGUs),
+21          registered cooperatives and other qualified individuals and organizations
+22          are monitored.
+23
+24          Sec. 4. Agriculture Information System. – All cities and municipalities are
+25   hereby mandated to establish an Agriculture Information System (AIS). The AIS
+26   shall serve as a dynamic online computer database where information on the
+27   demand for specific agricultural and fisheries commodities is gathered and
+28   uploaded simultaneously with the production data from farmers in every
+29   barangay. The AIS shall merge and synchronize agricultural data from different
+30   sources into a cohesive database designed to facilitate linkages from place of
+31   origin or the farm to local, and ultimately, global markets. The AIS shall also be
+32   integrated with the existing systems of the DA.
+33
+34         The AIS shall have the following features and contents:
+1         a) Municipal and city-wide identification of individual farmers, fish
+2            breeders, and fisherfolk as well as qualified organizations which produce
+3            specific farm and fisheries products, regardless of quantity;
+4         b) Crop harvest, volume, and type forecasting;
+5         c) Inventory of specific classification of crop varieties planted, livestock
+6            and type of fish raised in a particular LGU;
+7         d) Farmers' and fisherfolk demographics, including age group, gender,
+8            ethnic group, income, seminars and trainings attended, and assistance
+9            received;
+10        e) Selected reports presented in both tabular and graphical form;
+11        f) Registry of farmers' contact details and farm location to facilitate market
+12           linkages;
+13        g) Search engine which allows farmers, fish breeders, and fisherfolk to look
+14           for potential and actual buyers and for such buyers to search for farms,
+15           farmers, and available agricultural and fisheries products; and
+16        h) Customizable dashboard which is accessible only to registered farmers
+17           and fisherfolk clients and contains the farmers' and fisherfolk's profile
+18           such as the area of the farm or fishpond, crops planted, livestock and
+19           type of fish raised.
+20
+21          Sec. 5. Registration. – All cities and municipalities shall encourage and
+22   facilitate the free registration of all farmers, fisherfolk, as well as buyers
+23   transacting within their respective areas in the AIS.
+24
+25        Sec. 6. Functions and Responsibilities of Cities and Municipalities. – The
+26   LGU shall exercise the following functions and responsibilities:
+27        a) The Municipal Agriculture Office, in coordination with the Municipal
+28           Agrarian Reform Office, shall gather, encode, and consolidate all
+29           pertinent data on the profile and demographics of farmers, fisherfolk as
+30           well as buyers;
+31        b) Monitor and control farm inputs including machineries and equipment;
+32        c) For municipalities and component cities, prepare and submit real-time
+33           data under (a) and (b) to the provincial agricultural office and to the
+1            respective regional offices of the DA;
+2         d) For highly urbanized cities, submit real-time data to the respective
+3            regional offices of the DA;
+4         e) Establish farmer and buyer linkages and act as a gatekeeper at the city
+5            or municipal level in the nationwide marketing of agricultural products;
+6            and
+7         f) Serve as the web administrator at the municipal or city level and be
+8            responsible for integrating farm and fisheries locations into the
+9            geographic integration system map.
+10
+
+11         Sec. 7. Functions and Responsibilities of the Province. – The provincial
+12   government shall have the following functions and responsibilities:
+13        a. The Provincial Planning and Development Office (PPDO) is the web
+14           administrator at the provincial level and is responsible for integrating
+15           farm and fisheries data into the geographic integration system maps for
+16           agriculture and fisheries;
+17        b. The Local Economic and Investment Promotion Office (LEIPO) acts as
+18           the lead administrator of the AIS in the provincial level and ensures the
+19           balance between supply and demand;
+20        c. The Provincial Agricultural Office monitors the submission of reports
+21           from municipalities and component cities, and ensures the completeness,
+22           accuracy, and validity of data submitted by the Municipal Agricultural
+23           Offices and the Municipal Agrarian Reform Offices; and
+24        d. Except for highly urbanized cities, prepare and submit such data to the
+25           regional office of the DA.
+26
+27         Sec. 8. Functions and Responsibilities of the Regional Office of the DA. –
+28   The regional office of the DA shall have the following functions and
+29   responsibilities:
+30
+
+31        a. Integrate the data provided by the provinces and highly urbanized cities
+32           in the existing information systems of the DA such as the National
+33           Farmers and Fisheries Information System (NFFIS) which is a web-
+34           based data collection system that serves as a platform for updating the
+1            Registry System for Basic Sectors in Agriculture (RSBSA);
+2         b. Collaborate with the regional offices of the Department of Trade and
+3            Industry (DTI) in order to facilitate the availment of the various
+4            programs of the DTI as well as strengthen market linkages through such
+5            programs;
+6         c. Recommend to the central office of the DA appropriate interventions in
+7            the form of marketing, importation, and training assistance, as may be
+8            needed;
+9         d. Validate the data from the LGUs acting as the system administrator at
+10           the regional level and provide real-time report to the central office of the
+11           DA; and
+12        e. Endorse for financial assistance the qualified fifth and sixth class
+13           municipalities that can be given assistance in establishing and
+14           maintaining their respective AIS.
+15
+16         Sec. 9. Functions and Responsibilities of the Central Office of the DA. –
+17   The central office of the DA shall have the following functions and
+18   responsibilities:
+19
+
+20        a. Allocate funding for the integration of the AIS with existing information
+21           systems;
+22        b. Coordinate with the Department of Information and Communications
+23           Technology (DICT) to upgrade, expand, and integrate its information
+24           systems;
+25        c. Ensure that the implementation, appropriate verification processes and
+26           information safeguards are in place pursuant to existing laws and
+27           regulations, in coordination with the DICT, the Philippine Statistics
+28           Authority (PSA), the National Privacy Commission (NPC), the
+29           Department of the Interior and Local Government (DILG) and the
+30           Department of Science and Technology (DOST);
+31        d. Approve the prioritized interventions by the regional offices and allocate
+32           corresponding funding;
+33        e. Collaborate with other agencies for the creation of market linkages in
+34           the domestic and international markets; and
+1          f. Provide safety nets in the import and export of agricultural products in
+2             order to support farmers.
+3
+4           Sec. 10. Duties of the Secretary. – The Secretary of the DA, in coordination
+5    with the Secretary of the DILG, shall monitor and ensure the compliance of all
+6    cities and municipalities as provided for under this Act and shall, as soon as
+7    practicable, establish a centralized AIS that shall integrate and link all existing
+8    information systems in the country..
+9
+10          Sec. 11. Reports. – The Secretary of the DA shall prepare and submit
+11   to the President and both Houses of Congress an annual report on the
+12   implementation of the program which shall contain the list of accomplishments
+13   and recommendations for improvements.
+14
+15          Sec. 12. Implementing Rules and Regulations. – Within ninety (90) days
+16   after the effectivity of this Act, the Secretary of Agriculture shall promulgate the
+17   necessary rules and regulations for the effective implementation of this Act.
+18
+19         Sec. 13. Appropriations. – Within ninety (90) days after the effectivity of
+20   this Act, the Secretary of Agriculture shall promulgate the necessary rules and
+21   regulations for the effective implementation of this Act.
+22
+23         Sec. 14. Separability Clause. – If any provision or part of this Act be
+24   declared invalid or unconstitutional, the other provisions or parts not affected
+25   thereby shall remain valid and in full force and effect.
+26
+27          Sec. 15. Repealing Clause. – All laws, decrees, orders, resolutions and
+28   other issuances, or portions thereof, which are inconsistent with the provisions of
+29   this Act, are hereby repealed, amended or modified accordingly.
+30
+31         Sec. 16. Effectivity. – This Act shall take effect fifteen (15) days after its
+32   publication in the Official Gazette or in a newspaper of general circulation.
+33
+34         Approved,
+

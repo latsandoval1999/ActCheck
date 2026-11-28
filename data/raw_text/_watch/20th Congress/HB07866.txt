@@ -1,0 +1,276 @@
+                                  Republic of the Philippines
+                                HOUSE OF REPRESENTATIVES                         February 18, 2026
+                                        Quezon City
+                                                                                    2:40 pm
+
+                                    TWENTIETH CONGRESS
+                                     First Regular Session
+
+                                     HOUSE BILL NO. 7866
+
+
+
+
+                    Introduced by HON. BRIAN RAYMUND S. YAMSUAN
+
+
+
+
+    AN ACT ESTABLISHING A UNIFIED ELECTRONIC MEDICAL RECORDS FOR
+    ALL FILIPINOS, ESTABLISHING FOR THIS PURPOSE THE UNIFIED HEALTH
+        RECORDS SYSTEM UNDER THE DEPARTMENT OF HEALTH, AND
+                     APPROPRIATING FUNDS THEREFOR
+
+                                         EXPLANATORY NOTE
+
+The 1987 Constitution mandates the State to protect and promote the right to health
+of all Filipinos.1 It likewise provides that the State shall adopt an integrated and
+comprehensive approach to health development to make health and other social
+services available to all.2 These constitutional principles underscore the need for a
+healthcare system that is efficient, accessible, and responsive to the needs of the
+Filipino people.
+
+At present, medical records in the country are mostly paper-based, and stored with
+fragmented health care providers. Patients who transfer from one hospital to another,
+or who see multiple doctors, therefore have to repeatedly submit the same information
+in order to provide an accurate medical history. However, this process is not efficient,
+prone to error, or susceptible to data loss as some critical information may be forgotten
+or left out.
+
+This measure aims to establish a unified Electronic Medical Records System for all
+Filipinos in order to provide a secure and centralized digital platform to record and
+store patient health information. This bill seeks to cover all public health facilities under
+the DOH, local government units, government-owned or controlled health institutions,
+
+1
+    1987 CONST. Article II, Sec. 15.
+2
+    1987 CONST. Article XIII, Sec. 11.
+
+
+                                                1
+and eventually all private hospitals, clinics, diagnostic centers, and other health
+service providers. This will allow healthcare providers to access relevant medical data
+to ensure a coordinated medical approach.
+
+This type of system has also been adopted in other countries.3 For instance, New
+Zealand recently released a Health Digital Investment Plan, a 10-year roadmap to
+modernize their health sector, including having a single Electronic Medical Record
+system that will allow medical information to flow securely between doctors and
+hospitals.4
+
+Under this measure, not only will health care providers be able to ensure efficient and
+coordinated medical services and treatment plans, patients can also easily view their
+electronic health records, grant or revoke consent for access to specific categories of
+sensitive data, and designate representatives to access their records. This way,
+patients will have ready access to their health information.
+
+In view of the foregoing, the approval of this measure is earnestly sought.
+
+
+
+
+                                                              BRIAN RAYMUND S. YAMSUAN
+                                                                     Representative
+                                                                  nd
+                                                                 2 District of Parañaque
+
+
+
+
+3
+ https://www.eu-healthcare.fi/healthcare-in-finland/using-health-services-in-finland/medical-records-in-
+finland/
+4
+  https://www.beehive.govt.nz/release/digitising-healthcare-put-patients-first
+
+
+                                                   2
+                            Republic of the Philippines
+                          HOUSE OF REPRESENTATIVES
+                                  Quezon City
+
+                              TWENTIETH CONGRESS
+                               First Regular Session
+
+                              HOUSE BILL NO. 7866
+
+
+
+
+               Introduced by HON. BRIAN RAYMUND S. YAMSUAN
+
+
+
+ AN ACT ESTABLISHING A UNIFIED ELECTRONIC MEDICAL RECORDS FOR
+        ALL FILIPINOS AND APPROPRIATING FUNDS THEREFOR
+
+Be it enacted by the Senate and House of Representatives of the Philippines in
+Congress assembled:
+
+SECTION 1. Short Title. – This Act shall be known as the “Unified Health Records
+Act”.
+
+SECTION 2. Declaration of Policy. – It is the policy of the State to protect and
+promote the right to health of all Filipinos and instill health consciousness among
+them. Towards this end, the State shall ensure the seamless, efficient, and
+coordinated delivery of health services, and security of patient health information
+through the establishment of a unified electronic medical records system.
+
+SECTION 3. Definition of Terms. – For purposes of this Act, the following terms
+shall be defined as follows:
+
+   (1) Electronic Medical Records (EMR) refer to the digital compilation of a patient’s
+       medical profile, background, and history, including but not limited to,
+       diagnoses, medications and prescriptions, allergies, treatment plans,
+       immunization dates, laboratory results. It shall come in a standard electronic
+       format;
+   (2) Health Facility refers to any institution, whether public or private, that delivers
+       health services, including hospitals, clinics, rural health units, barangay health
+       stations, laboratories, virtual care entities, and other health service providers;
+       and
+
+
+
+
+                                            3
+   (3) Interoperability refers to the ability of health information systems, software, and
+       applications to communicate, exchange, and use health data effectively and
+       securely.
+
+SECTION 4. Establishment, Maintenance, and Uploading of Electronic Medical
+Records. - The Department of Health (DOH), with the Department of Information and
+Communications Technology (DICT) and the Philippine Health Insurance Corporation
+(PhilHealth) shall establish a unified Electronic Medical Records (EMR) System that
+shall be the centralized digital infrastructure for managing electronic health records of
+all citizens of the Philippines.
+
+The DOH and DICT shall be supported by:
+
+   (a) The Philippines Health Insurance Corporation (PhilHealth) for financial claims,
+       benefits, and fraud prevention mechanisms;
+   (b) The National Privacy Commission (NPC) for data protection and compliance,
+       and overseeing breach management;
+   (c) The Department of the Interior and Local Government (DILG) for the
+       coordination with local government health units; and
+   (d) The Philippine Statistics Authority (PSA) to ensure identity authentication and
+       portability.
+
+Notwithstanding all provisions of existing laws to the contrary, health facilities shall
+establish and maintain electronic medical records, which shall be electronically
+uploaded on a regular basis. Health facilities shall likewise maintain hard copies of the
+electronic records to be printed and stored as back-up records.
+
+SECTION 5. Coverage and Compliance. -This EMR System shall apply to:
+
+   (a) All public health facilities under the DOH, LGUs, and government-owned or
+       controlled health institutions, which shall fully integrate into the system within
+       three (3) years from the effectivity of this Act; and
+   (b) All private hospitals, clinics, diagnostic centers, and other health service
+       providers, which shall integrate into the system within five (5) years, subject to
+       phased accreditation and support mechanisms.
+
+All digital health platforms and software vendors that seek interoperability with public
+systems shall comply with standards prescribed by the DOH and the DICT.
+
+SECTION 6. Data Protection, Access Controls, and Privacy Safeguards. - The
+EMR System shall be governed by the principles of privacy, security, transparency,
+accountability, and data minimization. All personal and sensitive health data
+processed under this Act shall be protected in accordance with applicable privacy and
+data protection laws, regulations, and issuances. Data collected through the EMR
+
+                                            4
+System shall be used solely for lawful health care delivery, public health surveillance,
+health systems management, or policy development. No part of a patient's health
+record may be accessed, shared, or used for purposes beyond the scope of this Act,
+unless with the patient's explicit consent or as otherwise provided by law. The DOH,
+in coordination with the DICT and NPC, shall ensure full compliance with privacy
+standards and cybersecurity protocols in the design, implementation, and ongoing
+operation of the EMR System.
+
+SECTION 7. Access and User Registry. – Access to the EMR System shall be
+limited to verified and approved personnel under accredited health facilities.
+
+   (a) Only accredited health facilities shall be permitted to access the EMR System.
+       Each accredited entity shall declare to the DOH the names, roles, and
+       professional credentials of its personnel authorized to access the system.
+   (b) No individual shall be granted access to the EMR system unless their role and
+       credentials have been approved by the DOH or its designated accrediting body.
+       The DOH shall maintain a secure registry of EMR System users, including their
+       declared roles, facility affiliation, and access privileges.
+   (c) Health facilities shall update this list regularly and immediately notify the DOH
+       of any change in employment, reassignment, or disqualification. For health
+       professionals with multiple affiliations, system access shall be granted per role
+       and per entity, and shall reflect only the level of access appropriate to each
+       facility's scope and the user's approved responsibilities therein.
+   (d) Access to the EMR System shall be limited to what is necessary to perform
+       one's lawful and officially declared functions. Only licensed health professionals
+       may create or modify clinical records, whether directly or through supervised
+       encoding by support personnel.
+
+SECTION 8. Patient Access. – Patients shall have access to their own electronic
+health records.
+
+Patients shall have the right to:
+   (a) Securely view their complete electronic health record through an official EMR
+       System portal or application;
+   (b) Grant or revoke consent for access to specific categories of sensitive data,
+       subject to legally recognized exceptions such as medical emergencies or
+       mandatory reporting;
+   (c) Designate representatives or next of kin to access their records;
+   (d) Request access to a system-generated audit log of interactions, subject to
+       reasonable procedures and safeguards to be defined in the IRR.
+
+Consent to access or disclose sensitive health data shall be informed, voluntary, and
+revocable at any time, without prejudice to ongoing care. No person shall be
+
+
+
+                                           5
+compelled to unlock or disclose protected data beyond what is medically or legally
+required.
+
+SECTION 9. Contextual and Emergency Access. -The EMR System shall allow
+conditional access for handling role-specific, contextual, and emergency situations.
+   (a) Default Data Filtering. The EMR System shall present to each user only the
+       subset of information relevant to their role and the specific reason for system
+       access, such as a diagnosis, referral, or laboratory test request. Broader
+       access to historical or unrelated data shall require additional justification or
+       patient consent, except in medical emergencies.
+   (b) Emergency Override Protocols. In life-threatening situations or public health
+       emergencies, authorized providers may override access restrictions subject to
+       system-logged justification and post-event review.
+
+SECTION 10. Training and Capacity Building - The DOH shall allocate funds for
+training healthcare personnel, including physicians, nurses, administrative staff, and
+IT support teams, on the use and maintenance of the EMR system. This shall include
+online modules, in-person workshops, and continuous learning support.
+
+SECTION 11. Appropriations. - The amount necessary for the initial implementation
+of this Act shall be charged against the current appropriations of the DOH, the DICT,
+and other concerned government agencies. Thereafter, the funds necessary for the
+continued implementation of this Act shall be included in the annual General
+Appropriations Act.
+
+SECTION 12. Implementing Rules and Regulations. - The Department shall create
+a special committee to draft the Implementing Rules and Regulations (IRR) governing
+this Act. Within three (3) months from the effectivity of this Act, the said special
+committee shall submit the IRR to the Secretary of the Department who shall approve
+the same within thirty (30) days.
+
+SECTION 13. Separability Clause. - If any provision of this Act is declared
+unconstitutional, the remainder thereof not otherwise affected shall remain in full force
+and effect.
+
+SECTION 14. Repealing Clause. – All laws, presidential decrees, executive orders,
+letters of instruction, proclamations, or administrative orders, rules or regulations that
+are inconsistent with the provisions of this Act are hereby repealed or modified
+accordingly.
+
+SECTION 15. Effectivity. - This Act shall take effect after fifteen (15) days following
+its publication in the Official Gazette or in a newspaper of general circulation.
+
+Approved,
+
+                                            6
+

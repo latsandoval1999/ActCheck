@@ -1,0 +1,1167 @@
+                                                                                          1
+
+                              Republic of the Philippines
+                            HOUSE OF REPRESENTATIVES
+                                    Quezon City                             February 11, 2026
+                                                                               2:01 pm
+                               TWENTIETH CONGRESS
+                                 First Regular Session
+
+                                               7742
+                            HOUSE BILL NO. ____________
+
+
+Introduced by Representatives Emigdio P. Tanjuatco III and Ysabel Maria J. Zamora
+
+
+                                 EXPLANATORY NOTE
+
+The rapid evolution of global financial systems, coupled with sophisticated methods
+employed by criminal and terrorist organizations, necessitates a robust and adaptive
+legal framework to combat money laundering, terrorism financing, and proliferation
+financing. The Philippines, as an active member of the international community, has a
+solemn duty to protect the integrity of its financial system and to fulfill its commitments
+under United Nations Security Council Resolutions and the standards set by the
+Financial Action Task Force (FATF).
+
+Recent assessments, including the FATF’s ongoing monitoring, have highlighted areas
+where the Philippine Anti-Money Laundering Act (AMLA) of 2001, as amended,
+requires strengthening to align with international best practices. The continued
+presence of the Philippines on the FATF "grey list" underscores the urgency of
+enacting decisive reforms to address strategic deficiencies, particularly in the areas of
+supervision, investigation, and prosecution of money laundering cases. Data from the
+Anti-Money Laundering Council (AMLC) itself reveals a concerning landscape: in 2023
+alone, the AMLC received over millions of covered and suspicious transaction reports,
+a figure that underscores both the vigilance of covered institutions and the scale of the
+challenge.
+
+This bill seeks to comprehensively amend Republic Act No. 9160 to address these
+gaps, enhance the country's defenses, and ensure our laws are equipped to tackle
+modern threats. The proposed amendments are designed to transform the AMLC into
+a more powerful, independent, and proactive central authority.
+
+The key features of this bill include:
+
+1. Enhanced Mandate and Independence of the AMLC. The bill declares a clear
+policy to establish an operationally independent central authority. It redefines the
+AMLC as the Philippines' sole Financial Intelligence Unit (FIU), specialized
+investigation agency, and integrated regulator/supervisor for anti-money laundering
+and counter-terrorism financing (AML/CTF), consolidating powers and eliminating
+regulatory fragmentation;
+
+2. Expansion of Covered Persons. The scope of entities obligated to comply with
+the AMLA is broadened significantly. Key additions include:
+                                            1
+                                                                                           2
+
+      (a) Virtual Asset Service Providers (VASPs). - Bringing cryptocurrency
+    exchanges and wallet providers under regulation, closing a critical loophole;
+
+      (b) Online Gambling Operators. - Explicitly covering all online gambling,
+    regardless of license type, and their service providers; and
+
+      (c) Specific Professional Services. - Clarifying the coverage of lawyers and
+    accountants when they perform certain financial or business activities (e.g.,
+    acting as a trustee, managing client money, buying/selling real estate for
+    clients), while safeguarding legal professional privilege.
+
+3. Strengthened Investigative and Supervisory Powers. The AMLC is granted
+direct authority to:
+       (a) Issue subpoena duces tecum and subpoena ad testificandum;
+       (b) Conduct inspections and examinations of all covered persons;
+       (c) Issue ex parte Administrative Freeze Orders on suspected assets for up to
+       20 days, and apply for court-ordered freeze extensions;
+       (d) Issue Transaction Suspension Orders to temporarily halt suspicious
+       transactions; and
+       (e) Inquire into bank deposits based on probable cause, without the need for a
+       prior court order in the initial investigative stage, while maintaining judicial
+       oversight for related accounts;
+
+4. Streamlined Procedures and Forfeiture. The bill simplifies the process for civil
+forfeiture, allows the AMLC to file petitions directly with competent courts, and
+introduces the doctrine of substitute assets to ensure crime does not pay. It also
+clarifies that laws on prescription cannot be invoked to protect unlawfully acquired
+assets;
+
+5. Stiffer Penalties and Administrative Sanctions. Monetary penalties for violations
+are increased substantially (up to PHP 2,000,000 per transactional violation). The
+AMLC is empowered to impose a wider range of administrative sanctions, including
+restitution, disqualification of directors/officers, and publication of violators. Its quasi-
+judicial authority is solidified, making its decisions final and executory, appealable only
+via certiorari to the Court of Appeals;
+
+6. Robust Safe Harbor and Confidentiality Provisions. The bill provides strong
+protections for covered persons and AMLC officials acting in good faith. It expands
+confidentiality obligations to all entities handling AMLC information and explicitly
+shields compliance with AMLC orders from liability;
+
+7. Financial Sustainability. The bill establishes a clear funding mechanism for the
+AMLC, including appropriations from the General Appropriations Act, the authority to
+retain a portion of forfeited assets (capped at PHP 150,000,000 annually) for
+operational expenses, and the power to levy supervisory fees;
+
+This bill represents a critical and necessary step to fortify the Philippines' financial
+system against abuse by criminals and terrorists. By empowering the AMLC with the
+tools, independence, and resources it needs, we enhance national security, uphold
+the rule of law, and fulfill our international obligations. The passage of this measure
+                                             2
+                                                                                           3
+
+will significantly contribute to the country's efforts to exit the FATF grey list and promote
+a secure economic environment conducive to growth and investment.
+
+It is for these compelling reasons that the immediate passage of this bill is earnestly
+sought.
+
+
+
+EMIGDIO P. TANJUATCO III                                   YSABEL MARIA J. ZAMORA
+Second District, Rizal                                     Lone District, City of San Juan
+
+
+
+
+                                             3
+                                                                                    4
+
+                             Republic of the Philippines
+                           HOUSE OF REPRESENTATIVES
+                                   Quezon City
+
+                               TWENTIETH CONGRESS
+                                 First Regular Session
+
+                           HOUSE BILL NO.    7742
+                                          ____________
+
+
+Introduced by Representatives Emigdio P. Tanjuatco III and Ysabel Maria J. Zamora
+
+
+                            AN ACT
+  FURTHER STRENGTHENING THE ANTI-MONEY LAUNDERING COUNCIL,
+  AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9160, OTHERWISE
+ KNOWN AS “THE ANTI-MONEY LAUNDERING ACT OF 2001”, AS AMENDED
+
+Be it enacted by the Senate and the House of Representatives of the Philippines in
+Congress assembled:
+
+Section 1. Section 2 of Republic Act No. 9160, otherwise known as “The Anti-Money
+Laundering Act of 2001”, as amended, is hereby amended to read as follows:
+
+     SEC. 2. Declaration of Policy. – It is hereby declared the policy of the State to
+     protect and preserve the integrity OF THE FINANCIAL SYSTEM [and
+     confidentiality of bank accounts] and to ensure that the Philippines shall not be
+     used as a money laundering site for the proceeds of any unlawful activity.
+     Consistent with its foreign policy, the State shall extend cooperation in
+     transnational investigations and prosecutions of persons involved in money
+     laundering activities wherever committed, as well as in the implementation of
+     targeted financial sanctions related to the financing of the proliferation of
+     weapons of mass destruction terrorism, and financing of terrorism, pursuant to
+     the resolutions of the United Nations Council.
+
+     LIKEWISE, THE STATE SHALL MAINTAIN AN OPERATIONALLY
+     INDEPENDENT CENTRAL ANTI-MONEY LAUNDERING AND COUNTER-
+     TERRORISM FINANCING AUTHORITY THAT SHALL FUNCTION AND
+     OPERATE AS THE FINANCIAL INTELLIGENCE UNIT, SPECIALIZED MONEY
+     LAUNDERING AND TERRORISM FINANCING INVESTIGATION AGENCY,
+     AND ANTI-MONEY LAUNDERING AND COUNTER-TERRORISM FINANCING
+     REGULATOR AND SUPERVISOR OF THE PHILIPPINES. IN LINE WITH THIS
+     POLICY, AND CONSIDERING ITS UNIQUE FUNCTIONS AND
+     RESPONSIBILITIES THAT AFFECT THE ECONOMY, PEACE AND ORDER,
+     AND NATIONAL SECURITY, AMONG OTHERS, THE ANTI-MONEY
+     LAUNDERING COUNCIL (AMLC) SHALL BE ENHANCED WITH EXPANDED
+     AUTHORITY, CAPABILITY, AND RESOURCES.
+
+Section 2. Section 3(a) of the same Act is hereby amended to read as follows:
+
+     (a)   “Covered Persons”, natural or juridical, refers to:
+
+                                            4
+                                                                           5
+
+
+ (1)   x x x;
+
+ (2)   x x x;
+
+ (3)   x x x;
+
+ (4)   jewelry dealers [in precious metals, who, as a business, trade in
+       precious metals, for transactions in excess of One million pesos
+       (P1,000,000.00)];
+
+ (5)   [jewelry] dealers in PRECIOUS METALS AND precious stones, [who,
+       as a business, trade in precious stones, for transactions in excess of
+       One million pesos (P1,000,000.00)];
+
+ (6)   TRUST AND company service providers which, as a business, OR
+       MEANS OF LIVELIHOOD, PREPARE FOR, OR CARRY OUT,
+       TRANSACTIONS FOR THEIR CLIENTS [provide] any of the
+       following ACTIVITIES [services to third parties]:
+
+       (i)      xxx;
+
+       (ii)     xxx;
+
+       (iii)    xxx;
+
+       (iv) xxx;
+
+       (v)      ACTING AS (OR ARRANGING FOR ANOTHER TO ACT AS) A
+                TRUSTEE OF AN EXPRESS TRUST OR PERFORMING
+                EQUIVALENT FUNCTION FOR ANOTHER FORM OF LEGAL
+                ARRANGEMENT.
+
+(7)    persons who, AS A BUSINESS OR MEANS OF LIVELIHOOD,
+       PREPARE FOR, OR CARRY OUT, TRANSACTIONS FOR THEIR
+       CLIENTS CONCERNING [provide] any of the following ACTIVITIES
+       [services]:
+
+
+       (i)     managing of client money, securities or other assets;
+
+       (ii)    management of bank savings or securities accounts;
+
+       (iii)   organization of contributions for the creation, operation or
+               management of companies;
+
+       (iv) creation, operation or management of juridical persons or
+            arrangements, and buying and selling business entities; AND
+
+       (v)     BUYING AND SELLING REAL ESTATE.
+                                   5
+                                                                                    6
+
+
+     FOR THESE PURPOSES, LAWYERS AND ACCOUNTANTS WHO PROVIDE
+     THE FOREGOING FINANCIAL OR BUSINESS ACTIVITIES UNDER
+     SECTIONS 3(A)(6) AND 3(A)(7) OF THIS ACT ARE COVERED PERSONS.
+     THEY ARE REQUIRED TO COMPLY WITH THE REQUIREMENTS OF THIS
+     ACT, INCLUDING THE REPORTING OF COVERED AND SUSPICIOUS
+     TRANSACTIONS, WITH REGARD ONLY TO THE TRANSACTIONS
+     CONCERNING THE COVERED ACTIVITIES UNDER SECTIONS 3(A)(6) AND
+     3(A)(7) OF THIS ACT. PROVIDED, THAT LAWYERS AND ACCOUNTANTS
+     ARE NOT REQUIRED TO REPORT SUSPICIOUS TRANSACTIONS IF THE
+     RELEVANT INFORMATION WAS OBTAINED FROM THEIR CLIENTS IN
+     PERFORMING THEIR TASK OF DEFENDING OR REPRESENTING THEIR
+     CLIENTS     IN,  OR   CONCERNING      JUDICIAL, ADMINISTRATIVE,
+     ARBITRATION OR MEDIATION PROCEEDINGS.
+
+           (8)   Casinos [including internet and ship-based casinos, with respect to
+                 their casino cash transactions related to their gaming operations] IN
+                 RELATION TO THEIR FINANCIAL TRANSACTIONS WITH THEIR
+                 CUSTOMERS;
+
+           (9)   x x x;
+
+           (10) ONLINE GAMBLING OPERATORS, REGARDLESS OF THEIR
+                LICENSE CLASSIFICATION OR NOMENCLATURE, [Offshore
+                gaming operators,] as well as their service providers, supervised,
+                accredited or regulated by the Philippine Amusement and Gaming
+                Corporation (PAGCOR) or any government agency; AND
+
+           (11) VIRTUAL ASSET SERVICE PROVIDERS.
+
+Section 3. Section 3(b) is hereby amended to read as follows:
+
+     (b)   "Covered transaction" is a transaction in cash or other equivalent monetary
+           instrument involving a total amount in excess of Five hundred thousand
+           pesos (P500,000.00) within one (1) banking day; FOR COVERED
+           PERSONS UNDER SECTIONS 3(A)(4) AND 3(A)(5), A TRANSACTION
+           IN CASH OR OTHER EQUIVALENT MONETARY INSTRUMENT
+           EXCEEDING ONE MILLION PESOS (PHP1,000,000.00); for covered
+           persons under Section 3(a)(8), a single casino cash transaction involving
+           an amount in excess of Five million pesos (P5,000,000.00) or its equivalent
+           in any other currency.
+
+           For covered persons under Section 3(a)(9) herein, a single cash
+           transaction involving in excess of Seven Million Five Hundred thousand
+           pesos (7,500,000.00) or its equivalent in any other currency.
+
+Section 4. Sections 3(l) (4) and (5) are hereby amended to read as follows:
+
+     (l)   For purposes of the covered persons under Sections 3(a)(8) and 3(a)(10),
+           the following terms are hereby defined as follows:
+                                          6
+                                                                                    7
+
+
+          (1)   x x x;
+
+          (2)   x x x;
+
+          (3)   x x x;
+
+          (4)   [‘Offshore gaming operator’] “ONLINE GAMBLING OPERATOR”
+                refers to an entity engaged in offering online games of chance or
+                sporting events via the internet using a network and software program,
+                by themselves or through local service providers; and
+
+          (5)   “Service providers” refer to duly constituted business [corporations]
+                ENTITIES who provide components of [offshore gaming operations]
+                ONLINE GAMBLING OPERATIONS
+
+Section 5. Section 3(q) is hereby inserted on the same Act to read as follows:
+
+      (Q) FOR PURPOSES OF THE COVERED PERSON UNDER SECTION
+          3(A)(11), THE FOLLOWING TERMS ARE HEREBY DEFINED AS
+          FOLLOWS:
+
+          (1)   “VIRTUAL ASSET” REFERS TO A DIGITAL REPRESENTATION
+                OF VALUE THAT CAN BE DIGITALLY TRADED, OR
+                TRANSFERRED, AND CAN BE USED FOR PAYMENT OR
+                INVESTMENT PURPOSES.
+
+                VIRTUAL ASSETS, AS DEFINED HEREIN, DO NOT INCLUDE PRE-
+                EXISTING DIGITAL REPRESENTATIONS OF FIAT CURRENCIES,
+                SECURITIES AND OTHER FINANCIAL ASSETS THAT ARE
+                ALREADY BEING OFFERED BY COVERED PERSONS OTHER
+                THAN VIRTUAL ASSET SERVICE PROVIDERS.
+
+          (2)   “VIRTUAL ASSET SERVICE PROVIDER” REFERS TO ANY
+                PERSON WHO, AS A BUSINESS, CONDUCTS ONE OR MORE OF
+                THE FOLLOWING ACTIVITIES OR OPERATIONS FOR OR ON
+                BEHALF OF ANOTHER NATURAL OR JURIDICAL PERSON:
+
+                (a)      EXCHANGE BETWEEN VIRTUAL ASSETS AND FIAT
+                         CURRENCIES;
+
+                (b)      EXCHANGE BETWEEN ONE OR MORE FORMS OF VIRTUAL
+                         ASSETS;
+
+                (c)      TRANSFER (I.E., THE CONDUCT OF A TRANSACTION ON
+                         BEHALF OF ANOTHER PERSON THAT MOVES A VIRTUAL
+                         ASSET FROM ONE VIRTUAL ASSET ADDRESS OR
+                         ACCOUNT TO ANOTHER) OF VIRTUAL ASSETS;
+
+
+                                          7
+                                                                                   8
+
+                 (d)      SAFEKEEPING AND/OR ADMINISTRATION OF VIRTUAL
+                          ASSETS OR INSTRUMENTS ENABLING CONTROL OVER
+                          VIRTUAL ASSETS; AND
+
+                 (e)      PARTICIPATION IN AND PROVISION OF FINANCIAL
+                          SERVICE RELATED TO AN ISSUER’S OFFER AND/OR SALE
+                          OF A VIRTUAL ASSET.
+
+Section 6. Section 3(r) is hereby inserted on the same Act to read as follows:
+
+   (R) FOR PURPOSES OF SECTION 14(F), THE FOLLOWING TERMS ARE
+   HEREBY DEFINED AS FOLLOWS:
+
+           A.    “TRANSACTIONAL VIOLATION” REFERS TO AN ACT OR
+                 OMISSION CONSTITUTING A VIOLATION OF ANY APPLICABLE
+                 LAW, OR ANY REGULATION OR ORDER ISSUED BY THE
+                 COUNCIL, OR ANY ORDER BY THE EXECUTIVE DIRECTOR OR
+                 AUTHORIZED OFFICER OF THE AMLC, WHICH IS
+                 CONSUMMATED AND CONCLUDED IN A SINGLE INSTANCE OR
+                 OCCASION.
+
+           B.    “CONTINUING VIOLATION” REFERS TO AN ACT OR OMISSION
+                 CONSTITUTING A VIOLATION OF ANY APPLICABLE LAW, OR
+                 ANY REGULATION OR ORDER ISSUED BY THE COUNCIL, OR
+                 ANY ORDER BY THE EXECUTIVE DIRECTOR OR AUTHORIZED
+                 OFFICER OF THE AMLC, IN WHICH THE VIOLATION PERSISTS
+                 OR LINGERS OVER TIME FROM THE INSTANT THE PARTICULAR
+                 ACT WAS COMMITTED OR OMITTED UNTIL THE VIOLATION IS
+                 STOPPED.
+
+Section 7. Section 3(i) of the same Act is hereby amended to read as follows:
+
+     (i)   “Unlawful Activity” refers to any act or omission or series or combination
+           thereof involving or having relation to the following LAWS AND THEIR
+           RESPECTIVE AMENDMENTS:
+
+           (1)   x x x;
+
+           (2)   x x x;
+
+           (3)   x x x;
+
+           (4)   x x x;
+
+           (5)   x x x;
+
+           (6)   Jueteng and Masiao punished as illegal gambling under Presidential
+                 Decree No. 1602; AND ALL ILLEGAL GAMBLING ACTIVITIES
+                 DEFINED UNDER EXECUTIVE ORDER NO. 13, SERIES OF 2017
+
+                                          8
+                                                                       9
+
+      AND PUNISHABLE UNDER ARTICLES 195, 197, 198, AND 199 OF
+      THE REVISED PENAL CODE;
+
+(7)   x x x;
+
+(8)   x x x;
+
+(9)   x x x;
+
+(10) Smuggling under Republic Act No[s. 455 and 1937] 10863,
+     OTHERWISE KNOWN AS THE CUSTOMS MODERNIZATION AND
+     TARRIFF ACT;
+
+(11) x x x;
+
+(12) x x x;
+
+(13) Terrorism [and], [c]Conspiracy to [c]Commit [t]Terrorism, AND
+     PROVIDING MATERIAL SUPPORT TO TERRORISTS, as defined
+     and penalized under [Sections 3 and 4 of Republic Act No. 9372]
+     SECTIONS 4, 7, AND 12 OF REPUBLIC ACT NO. 11479,
+     OTHERWISE KNOWN AS THE ANTI-TERRORISM ACT OF 2020;
+
+(14) x x x;
+
+(15) x x x;
+
+(16) x x x;
+
+(17) x x x;
+
+(18) Violations of Sections 4 to 6 of Republic Act No. 9208, otherwise
+     known as the Anti-Trafficking in Persons Act of 2003, AS AMENDED;
+
+(19) Violations of Sections [78 to] 68, 69, 70, 71, 77, AND 79 of Chapter
+     IV of Presidential Decree No. 705, otherwise known as the Revised
+     Forestry Code of the Philippines, as amended;
+
+(20) Violations of Sections 86 to [106] 107, 110, 111, 114, AND 126 of
+     Chapter VI, of Republic Act No. 8550, otherwise known as the
+     Philippine Fisheries Code of 1998, AS AMENDED;
+
+(21) x x x;
+
+(22) x x x;
+
+(23) x x x;
+
+(24) x x x;
+
+                              9
+                                                                             10
+
+(25) x x x;
+
+(26) Violations of Sections 1 and 5 of Presidential Decree No. 1866, as
+     amended, otherwise known as the Decree Codifying the Laws on
+     Illegal/Unlawful Possession, Manufacture, Dealing In, Acquisition or
+     Disposition of Firearms, Ammunition or Explosives, AND SECTION 3
+     OF REPUBLIC ACT NO. 10591, OTHERWISE KNOWN AS THE
+     COMPREHENSIVE FIREARMS AND AMMUNITION REGULATION
+     ACT;
+
+(27) x x x;
+
+(28) x x x;
+
+(29) x x x;
+
+(30) x x x;
+
+(31) Violation of Section 4 AND 6 of Republic Act No. [9775] 11930,
+     otherwise known as the [Anti-Child Pornography Act of 2009] ANTI-
+     ONLINE SEXUAL ABUSE OR EXPLOITATION OF CHILDREN, AND
+     CHILD SEXUAL ABUSE OR EXPLOITATION MATERIALS;
+
+(32) Violations of Sections 5, 7, 8, 9, 10(c), (d) and (e), 11, 12, 12-D, and
+     14 of Republic Act No. 7610, otherwise known as the Special
+     Protection of Children Against Abuse, Exploitation and Discrimination,
+     AS AMENDED;
+
+(33) x x x;
+
+(34) x x x;
+
+(35) Violation of Section 254 of Chapter II, Title X of the National Internal
+     Revenue Code of 1997, as amended, where the deficiency basic tax
+     due [in the final assessment] is in excess of Twenty-five million pesos
+     (P25,000,000.00) per taxable year, for each tax type covered. [and
+     there has been a finding of probable cause by the competent
+     authority: Provided, further That there must be a finding of fraud, willful
+     misrepresentation or malicious intent on the part of the taxpayer:]
+     Provided, [finally, T]that in no case shall the AMLC institute forfeiture
+     proceedings to recover monetary instruments, property or proceeds
+     representing, involving, or relating to a tax crime, if the same has
+     already been recovered or collected, OR IN THE PROCESS OF
+     BEING RECOVERED OR COLLECTED by the Bureau of Internal
+     Revenue (BIR) in a separate proceeding; [and]
+
+(36) [Felonies or offenses of a similar nature that are punishable under
+     the penal laws of other countries] VIOLATIONS OF SECTION 9 OF
+     REPUBLIC ACT NO. 8484, OTHERWISE KNOWN AS THE
+     ACCESS DEVICES REGULATION ACT OF 1998, AS AMENDED.;
+                                 10
+                                                                                  11
+
+
+           (37) VIOLATIONS OF SECTION 4 OF REPUBLIC ACT NO. 10175,
+                OTHERWISE KNOWN AS THE CYBERCRIME PREVENTION ACT
+                OF 2012;
+
+           (38) VIOLATIONS OF SECTIONS 1, 2, AND 2-A OF COMMONWEALTH
+                ACT NO. 108, OTHERWISE KNOWN AS THE ANTI-DUMMY ACT,
+                AS AMENDED BY PRESIDENTIAL DECREE NO. 715;
+
+           (39) VIOLATIONS OF SECTIONS 7, 8, 9, 10, AND 11 OF REPUBLIC ACT
+                NO. 12022, OTHERWISE KNOWN AS THE ANTI-AGRICULTURAL
+                ECONOMIC SABOTAGE ACT;
+
+           (40) FALSIFICATION OF DOCUMENTS UNDER ARTICLES 171 AND
+                172 OF THE REVISED PENAL CODE, AS AMENDED;
+
+           (41) VIOLATIONS OF SECTION 11 OF REPUBLIC ACT NO. 11765,
+                OTHERWISE KNOWN AS THE FINANCIAL PRODUCTS AND
+                SERVICES CONSUMER PROTECTION ACT;
+
+           (42) VIOLATIONS OF REPUBLIC ACT NO. 12312, OTHERWISE
+                KNOWN AS THE ANTI-POGO ACT OF 2025;
+
+           (43) VIOLATIONS OF SECTION 13(D) OF REPUBLIC ACT NO. 6969,
+                OTHERWISE KNOWN AS THE TOXIC SUBSTANCES AND
+                HAZARDOUS AND NUCLEAR WASTE CONTROL ACT;
+
+           (44) VIOLATIONS OF SECTIONS 20(A), (B), (C), (D), (E), (F), (I), (N), (O),
+                (P), (Q), (R), (T), AND (V) OF REPUBLIC ACT NO. 7586,
+                OTHERWISE KNOWN AS THE NATIONAL INTEGRATED
+                PROTECTED AREA SYSTEM, AS AMENDED;
+
+           (45) VIOLATIONS OF SECTION 9 OF REPUBLIC ACT NO. 7076,
+                OTHERWISE KNOWN AS THE PEOPLE’S SMALL-SCALE MINING
+                ACT; AND
+
+           (46) FELONIES OF A SIMILAR NATURE THAT ARE PUNISHABLE
+                UNDER THE PENAL LAWS OF OTHER COUNTRIES.
+
+
+
+Section 8. Section 7 of the same Act is hereby amended to read as follows:
+
+     SEC. 7. Creation of the Anti-Money Laundering Council (AMLC). – x x x.
+
+     (1)   to SERVE AS THE FINANCIAL INTELLIGENCE UNIT OF THE
+           PHILIPPINES WITH THE AUTHORITY TO require, receive and analyze
+           covered or suspicious transactions reports from covered persons;
+
+     (2)   x x x;
+                                         11
+                                                                                12
+
+
+(3)   to institute civil forfeiture proceedings, and all other remedial proceedings
+      DIRECTLY WITH THE COMPETENT COURT, or through the Office of the
+      Solicitor General;
+
+(4)   x x x;
+
+(5)   x x x;
+
+(6)   TO ISSUE, EX PARTE, AN ADMINISTRATIVE FREEZE ORDER, AND to
+      apply before the Court of Appeals, ex parte WITH PRIOR NOTICE TO THE
+      OTHER PARTY, for the freezing of any monetary instrument or property
+      [alleged to be laundered, proceeds from, or instrumentalities used in or
+      intended for use] THAT IS RELATED in any WAY TO AN unlawful activity
+      as defined in Section 3(i) hereof OR MONEY LAUNDERING OFFENSE;
+
+(7)   to FORMULATE AND implement such RULES, REGULATIONS, AND
+      measures as may be necessary and justified under this Act to counteract
+      money laundering;
+
+(8)   x x x;
+
+(9)   x x x;
+
+(10) x x x;
+
+(11) x x x ;
+
+(12) x x x;
+
+(13) x x x;
+
+(14) in the conduct of its [investigation], INVESTIGATORY, PROSECUTORIAL,
+     AND QUASI-JUDICIAL FUNCTIONS, the AMLC shall [apply for the
+     issuance of] HAVE THE POWER TO ISSUE subpoena ad testificandum
+     and/or subpoena duces tecum [with any competent court];
+
+(15) xxx;
+
+(16) to preserve, manage, or dispose assets pursuant to aN ADMINISTRATIVE
+     FREEZE ORDER, freeze order, asset preservation order, or judgement of
+     forfeiture, INCLUDING THE AUTHORITY TO PHYSICALLY POSSESS
+     AND MANAGE MONETARY INSTRUMENTS AND PROPERTIES THAT
+     ARE IN DANGER OF BEING LOST, REMOVED, MATERIALLY INJURED,
+     WASTED, OR DISIPATED: Provided, however, That pending their turnover
+     to the national government, all expenses incurred in relation to the duties
+     herein mentioned shall be deducted from the amount to be turned over to
+     the national government;
+
+
+                                     12
+                                                                                 13
+
+     (17) TO SERVE AS THE ANTI-MONEY LAUNDERING SUPERVISOR WITH
+          THE AUTHORITY TO EXERCISE VISITATION, INSPECTION, AND
+          EXAMINATION POWERS TO ENSURE COMPLIANCE BY ALL
+          COVERED PERSONS, AND THEIR RESPONSIBLE DIRECTORS,
+          OFFICERS, AND EMPLOYEES, WITH THE REQUIREMENTS OF THIS
+          ACT, ITS IMPLEMENTING RULES AND REGULATIONS, AND OTHER
+          ISSUANCES OF THE COUNCIL. PROVIDED, THAT THE AMLC MAY
+          DEPUTIZE SUPERVISING AUTHORITIES TO CONDUCT THE ACTUAL
+          COMPLIANCE CHECKING AND IMPOSITION OF ENFORCEMENT
+          ACTIONS ON THE PERSONS AND ENTITIES UNDER THEIR
+          RESPECTIVE PRUDENTIAL SUPERVISION, SUBJECT TO THE
+          ESCALATION TO THE AMLC OF FINDINGS CONCERNING HIGH-RISK
+          VIOLATIONS;
+
+     (18) TO ENTER INTO ANY CONTRACT OR TRANSACTION FOR THE
+          ACQUISITION, OWNERSHIP, POSSESSION, ADMINISTRATION,
+          LEASE, DISPOSITION, OR ACCEPTANCE OF REAL OR PERSONAL
+          PROPERTY IN ITS NAME, UNDER SUCH CONDITIONS IMPOSED BY
+          THE COUNCIL;
+
+     (19) TO DETERMINE AND IMPOSE SUPERVISORY, ACCREDITATION, AND
+          OTHER ADMINISTRATIVE FEES;
+
+     (20) TO SPEARHEAD THE NATIONAL COORDINATION MECHANISM TO
+          IDENTIFY AND ASSESS THE MONEY LAUNDERING, TERRORISM
+          FINANCING, AND PROLIFERATION OF WEAPONS OF MASS
+          DESTRUCTION FINANCING RISKS OF THE PHILIPPINES, INCLUDING
+          FORMULATION AND ADOPTION OF NATIONAL STRATEGIES TO
+          ADDRESS THE SAID RISKS; AND
+
+     (21) TO DELEGATE SUCH AUTHORITIES TO THE EXECUTIVE DIRECTOR
+          OR ANY OFFICER OR OPERATING UNIT OF THE AMLC UNDER SUCH
+          GUIDELINES THE COUNCIL MAY DETERMINE.
+
+
+Section 9. A new Section 7-A is hereby inserted on the same Act to read as follows:
+
+     SECTION 7-A. RESPONSIBILITY. – THE GENERAL RULE AND THE
+     EXCEPTION THEREFROM ON THE LIABILITY OF PUBLIC OFFICERS AS
+     PROVIDED IN SECTION 38 AND 39 OF CHAPTER 9, BOOK 1 OF THE
+     REVISED ADMINISTRATIVE CODE OF 1987 SHALL APPLY TO THE
+     MEMBERS OF THE COUNCIL AND OTHER PERSONNEL OF THE AMLC.
+
+     IN THE LAWFUL AND AUTHORIZED EXERCISE OF ITS POWERS AND
+     PERFORMANCE OF ITS OFFICIAL DUTIES AND FUNCTIONS, THE AMLC,
+     THE MEMBERS OF THE COUNCIL, AND ITS PERSONNEL, SHALL BE
+     PRESUMED TO HAVE ACTED IN GOOD FAITH.
+
+     UNLESS THE ACTIONS OR OMISSIONS IN RELATION THERETO HAVE
+     BEEN ADJUDGED TO HAVE BEEN PERFORMED IN EVIDENT BAD FAITH,
+                                        13
+                                                                                  14
+
+     OR WITH GROSS NEGLIGENCE, THEY SHALL BE HELD FREE AND
+     HARMLESS FROM LIABILITY TO THE FULLEST EXTENT PERMITTED BY
+     LAW, AND THEY SHALL BE INDEMNIFIED FOR ANY AND ALL LIABILITIES,
+     LOSSES, CLAIMS, DEMANDS, DAMAGES, DEFICIENCIES, COSTS, AND
+     EXPENSES OF WHATSOEVER KIND AND NATURE THAT MAY ARISE IN
+     CONNECTION THEREWITH.
+
+Section 10. Section 8-A of the same Act is hereby amended to read as follows:
+
+     Section 8-A. Information Security and Confidentiality. – THE COUNCIL, AND
+     THE OFFICERS AND STAFF OF the AMLC [and its Secretariat] shall securely
+     protect information received or processed and shall not reveal, in any manner,
+     any information known to them by reason of their office. THIS PROHIBITION
+     SHALL ALSO APPLY TO ALL RESPONSIBLE DIRECTORS, OFFICERS, AND
+     EMPLOYEES OF COVERED PERSONS, LAW ENFORCEMENT AGENCIES,
+     SUPERVISING AUTHORITIES, OTHER GOVERNMENT AGENCIES,
+     SUPPLIERS, SERVICE PROVIDERS, CONSULTANTS, TRAINEES,
+     DETAILED, SECONDED, OR ENLISTED PERSONNEL, AND OTHER
+     PERSONS AND ENTITIES WITH WHOM THE AMLC SHARED
+     CONFIDENTIAL INFORMATION OR FOR WHOM AN ACCESS WAS GIVEN
+     TO THE SAID INFORMATION, AS ALLOWED UNDER THE SUCCEEDING
+     PARAGRAPH. NEITHER MAY SUCH INFORMATION BE PUBLISHED OR
+     AIRED IN ANY MANNER OR FORM BY THE MASS MEDIA OR SOCIAL
+     MEDIA, ELECTRONIC MAIL, OR OTHER SIMILAR DEVICES OR
+     TECHNOLOGY, UNLESS ALLOWED WITHIN THE PARAMETERS SET BY
+     THE COUNCIL. This prohibition shall apply even after their separation from the
+     AMLC, OR RESPECTIVE OFFICES, OR AFTER THE LAPSE OF THEIR
+     CONTRACT, ARRANGEMENT, OR OTHER AGREEMENT WITH THE AMLC,
+     AS THE CASE MAY BE.
+
+     The AMLC shall formulate rules governing information exchange and
+     dissemination, the security and confidentiality of such information, including
+     procedures for handling, storage, and protection of, as well as access to such
+     information. WHEN EXCHANGING AND DISSEMINATING INFORMATION
+     UNDER SUCH RULES, THE COUNCIL, AND THE OFFICERS AND STAFF OF
+     THE AMLC SHALL NOT BE DEEMED TO HAVE VIOLATED THE
+     PROVISIONS ON INFORMATION SECURITY AND CONFIDENTIALITY
+     HEREOF.
+
+Section 11. A new Section 8-B is hereby inserted in the same Act to read as follows:
+
+     SECTION 8-B. ISSUANCE OF INJUNCTIVE RELIEF AGAINST AMLC
+     ACTIONS. – NO COURT, OTHER THAN THE COURT OF APPEALS AND THE
+     SUPREME COURT, SHALL ISSUE ANY TEMPORARY RESTRAINING
+     ORDER OR INJUNCTION AGAINST THE AMLC FOR ANY ACTION UNDER
+     THIS ACT.
+
+     ANY RESTRAINING ORDER OR INJUNCTION ISSUED IN VIOLATION OF
+     THIS SECTION IS VOID AND OF NO FORCE AND EFFECT.
+
+                                         14
+                                                                                        15
+
+Section 12. Section 9 of the same Act is hereby amended to read as follows:
+
+     SEC. 9. Prevention of Money Laundering: Customer Due Diligence, Record-
+     Keeping, Transaction Reporting, and Registration Requirements.
+
+      (a) Customer Identification. - Covered persons shall CONDUCT CUSTOMER
+          DUE DILIGENCE BY establishING and recordING the true identity of its
+          clients based on official documents, OR OTHER RELIABLE,
+          INDEPENDENT SOURCE DOCUMENTS, DATA OE INFORMATION.
+          PROVIDED, THAT FOR CASINOS, THE REQUIREMENT OF CUSTOMER
+          DUE DILIGENCE SHALL BE PERFORMED FOR TRANSACTIONS
+          INVOLVING THE AMOUNT IN EXCESS OF ONE HUNDRED FIFTY
+          THOUSAND PESOS (PHP150,000.00), OR ITS EQUIVALENT IN
+          FOREIGN CURRENCY.
+
+           COVERED PERSONS [They] shall maintain a system of verifying the true
+           identity of their clients and, in case of corporate clients, require a system of
+           verifying their legal existence and organizational structure, as well as the
+           authority and identification of all persons purporting to act on their behalf.
+
+           COVERED PERSONS SHALL EXAMINE THE BACKGROUND AND
+           PURPOSE OF ALL COMPLEX, UNUSUALLY LARGE TRANSACTIONS,
+           ALL UNUSUAL PATTERNS OF TRANSACTIONS, WHICH HAVE NO
+           APPARENT ECONOMIC OR LAWFUL PURPOSE, AND OTHER
+           TRANSACTIONS THAT MAY BE CONSIDERED SUSPICIOUS. WHERE
+           THE RISKS ARE HIGHER, COVERED PERSONS SHALL CONDUCT
+           ENHANCED DUE DILIGENCE. FOR THESE PURPOSES, COVERED
+           PERSONS ARE AUTHORIZED TO COORDINATE WITH OTHER
+           COVERED PERSONS TO DETERMINE THE PRESENCE OF UNUSUAL
+           OR SUSPICIOUS TRANSACTIONS. THE PROVISIONS OF REPUBLIC
+           ACT NO. 1405, AS AMENDED; REPUBLIC ACT NO. 6426, AS
+           AMENDED; REPUBLIC ACT NO. 8367; AND REPUBLIC ACT NO. 10173,
+           SHALL NOT APPLY DURING THE VERIFICATION PROCESS WITH
+           OTHER COVERED PERSONS.
+
+           The provisions of existing laws to the contrary notwithstanding, anonymous
+           accounts, accounts under fictitious names, and all other similar accounts
+           shall be absolutely prohibited. Peso and foreign currency non-checking
+           numbered accounts shall be allowed. The BSP may conduct annual testing
+           solely limited to the determination of the existence and true identity of the
+           owners of such accounts.
+
+     (b)   Record-Keeping. – x x x
+
+     (c)   Reporting of Covered and Suspicious Transactions. – Covered persons
+           shall report to the AMLC all covered transactions and suspicious
+           transactions within five (5) working days from occurrence thereof, unless
+           the AMLC prescribes a different period not exceeding fifteen (15) working
+           days.
+
+           [Lawyers and accountants acting as independent legal professionals are
+           not required to report covered and suspicious transactions if the relevant
+                                            15
+                                                                                 16
+
+          information was obtained in circumstances where they are subject to
+          professional secrecy or legal professional privilege]
+
+          Should a transaction be determined to be both a covered transaction and a
+          suspicious transaction, the covered person shall be required to report the
+          same as a suspicious transaction.
+
+                                             xxx
+
+     (d) REGISTRATION WITH THE AMLC. – COVERED PERSONS SHALL
+         REGISTER WITH THE AMLC IN ACCORDANCE WITH THE
+         GUIDELINES PRESCRIBED FOR SUCH PURPOSE. SUPERVISING
+         AUTHORITIES   AND   OTHER    LICENSING  OR   BUSINESS
+         REGISTRATION AUTHORITIES OF COVERED PERSONS SHALL
+         PRESCRIBE REGISTRATION WITH THE AMLC AS A REQUIREMENT
+         FOR CONTINUED LICENSING AND/OR OPERATIONS, AND, WHEN
+         NECESSARY, TRANSACTING WITH OTHER COVERED PERSONS.
+
+Section 13. Section 10 of the same Act is hereby amended to read as follows:
+
+     SEC. 10. Authority to Suspend Transactions and Freezing of Monetary
+     Instrument or Property. –
+
+      A. THE AMLC, EITHER UPON ITS OWN INITIATIVE, OR AT THE REQUEST
+         OF A COVERED PERSON OR DOMESTIC OR FOREIGN COMPETENT
+         AUTHORITIES, IS HEREBY AUTHORIZED TO ISSUE, EX PARTE, A
+         TRANSACTION SUSPENSION ORDER, UPON REASONABLE
+         SUSPICION THAT A TRANSACTION OR FUND IS UNUSUAL, WITHOUT
+         CLEAR ECONOMIC PURPOSE, FROM UNKNOWN OR ILLEGAL
+         SOURCE, OR IN ANY WAY RELATED TO AN UNLAWFUL ACTIVITY OR
+         MONEY LAUNDERING OFFENSE.
+
+          THE AUTHORITY TO TEMPORARILY SUSPEND TRANSACTION OR
+          FUND UNDER THIS SECTION SHALL BE EXERCISED BY A DULY
+          AUTHORIZED OFFICER OR OPERATING UNIT OF THE AMLC.
+
+          THE TRANSACTION SUSPENSION ORDER SHALL BE EFFECTIVE
+          FOR A PERIOD OF FIFTEEN (15) WORKING DAYS FROM RECEIPT
+          THEREOF, UNLESS THE COUNCIL PRESCRIBES ANOTHER PERIOD
+          NOT EXCEEDING THIRTY (30) WORKING DAYS. PROVIDED, THAT IF
+          THERE IS NO ADMINISTRATIVE FREEZE ORDER ISSUED BY THE
+          COUNCIL OR A PETITION FOR ISSUANCE OF FREEZE ORDER FILED
+          BEFORE THE COURT OF APPEALS, THE TRANSACTION
+          SUSPENSION ORDER SHALL BE DEEMED IPSO FACTO REVOKED
+          WITHOUT NEED OF CONFIRMATION FROM THE AMLC.
+
+          A PERSON WHOSE TRANSACTION OR FUND HAS BEEN
+          SUSPENDED MAY MOVE FOR THE REVOCATION OF THE
+          SUSPENSION ORDER SUBJECT TO THE RULES AND REGULATIONS
+          PRESCRIBED BY THE AMLC.
+
+
+                                        16
+                                                                                  17
+
+   A COVERED PERSON, OR ANY OF ITS RESPONSIBLE DIRECTORS,
+   OFFICERS, OR EMPLOYEES, SHALL BE HELD FREE AND HARMLESS
+   FROM ANY ACCOUNTABILITY OR LIABILITY FOR ANY ACT DONE IN
+   COMPLIANCE WITH A TEMPORARY SUSPENSION ORDER FROM THE
+   AMLC.
+
+   NO COURT SHALL ISSUE A TEMPORARY RESTRAINING ORDER OR
+   A WRIT OF INJUNCTION AGAINST ANY TRANSACTION SUSPENSION
+   ORDER, EXCEPT THE COURT OF APPEALS AND THE SUPREME
+   COURT.
+
+B. Upon [a verified ex parte petition by the AMLC and after] determination that
+   probable cause exists that any monetary instrument or property is in any
+   way related to an unlawful activity as defined in Section 3(i) hereof OR
+   MONEY LAUNDERING OFFESE, THE COUNCIL, [the Court of Appeals]
+   may issue, EX PARTE, aN ADMINISTRATIVE freeze order which shall be
+   effective immediately, for a period of twenty (20) days.
+
+   Within the twenty (20)-day period [NEXT WORKING DAY] FROM THE
+   ISSUANCE OF THE ADMINISTRATIVE FREEZE ORDER, THE AMLC
+   SHALL FILE A PETITION FOR ISSUANCE OF A FREEZE ORDER
+   BEFORE THE COURT OF APPEALS: PROVIDED, THAT, THE TWENTY-
+   DAY PERIOD OF THE ADMINISTRATIVE FREEZE ORDER SHALL
+   REMAIN EFFECTIVE UNTIL THE COURT OF APPEALS RESOLVES THE
+   PETITION. PROVIDED, FURTHER THAT, WITHIN THE PERIOD OF THE
+   ADMINISTRATIVE FREEZE ORDER, the Court of Appeals shall conduct a
+   summary hearing, with notice to the parties, to determine whether or not to
+   modify or lift the ADMINISTRATIVE freeze order or extend its effectivity BY
+   ISSUING A FREEZE ORDER WHICH SHALL BE EFFECTIVE FOR A [The
+   total] period [of the freeze order issued by the Court of Appeals under this
+   provision shall] not exceeding six (6) months. [This is without prejudice to
+   an asset preservation order that the Regional Trial Court having jurisdiction
+   over the appropriate anti-money laundering case or civil forfeiture case may
+   issue on the same account depending on the circumstances of the case,
+   where the Court of Appeals will remand the case and its records; Provided,
+   That if there is no case filed against a person whose account has been
+   frozen within the period determined by the Court of Appeals, not exceeding
+   six (6) months, the freeze order shall be deemed ipso facto lifted; Provided,
+   further, That this new rule shall not apply to pending cases in the courts. In
+   any case, the court should act on the petition to freeze within twenty-four
+   (24) hours from filing of the petition. If the application is filed a day before a
+   nonworking day, the computation of the twenty-four (24)-hour period shall
+   exclude the nonworking days.
+
+   The freeze order or asset preservation order issued under this Act shall be
+   limited only to the amount of cash or monetary instrument or value of
+   property that court finds there is probable cause to be considered as
+   proceeds of a predicate offense, and the freeze order or asset preservation
+   order shall not apply to amounts in the same account in excess of the
+   amount or value of the proceeds of the predicate offense.]
+                                     17
+                                                                      18
+
+
+A person whose [account] MONETARY INSTRUMENT OR PROPERTY
+has been THE SUBJECT OF AN ADMINISTRATIVE FREEZE ORDER OR
+FREEZE ORDER [frozen] may [file a motion to lift the freeze order and the
+court must resolve this motion before the expiration of the freeze order]
+MOVE FOR ITS LIFTING BEFORE THE COURT OF APPEALS.
+
+THE ADMINISTRATIVE FREEZE ORDER OR THE FREEZE ORDER
+SHALL INCLUDE THOSE MONETARY INSTRUMENT OR PROPERTY
+HAVING EQUIVALENT VALUE TO THE MONETARY INSTRUMENT OR
+PROPERTY FOUND TO BE RELATED IN ANY WAY TO AN UNLAWFUL
+ACTIVITY OR MONEY LAUNDERING OFFENSE, WHEN WITH DUE
+DILIGENCE, THE FORMER CANNOT BE LOCATED, OR IT HAS BEEN
+SUBSTANTIALLY ALTERED, DESTROYED, DIMINISHED IN VALUE OR
+OTHERWISE RENDERED WORTHLESS BY ANY ACT OR OMISSION,
+OR IT HAS BEEN CONCEALED, REMOVED, CONVERTED, OR
+OTHERWISE TRANSFERRED, OR IT IS LOCATED OUTSIDE THE
+PHILIPPINES OR HAS BEEN PLACED OR BROUGHT OUTSIDE THE
+JURISDICTION OF THE COUNCIL AND THE COURT OF APPEALS, OR
+IT HAS BEEN COMMINGLED WITH OTHER MONETARY INSTRUMENT
+OR PROPERTY BELONGING TO EITHER THE RESPONDENT OR A
+THIRD PERSON OR ENTITY, THEREBY RENDERING THE SAME
+DIFFICULT TO IDENTIFY OR BE SEGREGATED FOR PURPOSES OF
+FREEZING.
+
+THIS IS WITHOUT PREJUDICE TO AN ASSET PRESERVATION ORDER
+THAT THE REGIONAL TRIAL COURT HAVING JURISDICTION OVER
+THE APPROPRIATE MONEY LAUNDERING CASE OR CIVIL
+FORFEITURE CASE MAY ISSUE ON THE SAME MONETARY
+INSTRUMENT OR PROPERTY DEPENDING ON THE CIRCUMSTANCES
+OF THE CASE, WHERE THE COURT OF APPEALS WILL REMAND THE
+CASE AND ITS RECORDS; PROVIDED, THAT IF THERE IS NO CASE
+FILED AGAINST A PERSON WHOSE MONETARY INSTRUMENT OR
+PROPERTY HAS BEEN FROZEN WITHIN THE PERIOD DETERMINED
+BY THE COURT OF APPEALS, THE FREEZE ORDER SHALL BE
+DEEMED IPSO FACTO LIFTED; PROVIDED, FURTHER, THAT THIS
+RULE SHALL NOT APPLY TO PENDING PETITIONS FOR FREEZE
+ORDERS.
+
+THE PERSON WHOSE MONETARY INSTRUMENT OR PROPERTY HAS
+BEEN FROZEN MAY WITHDRAW SUCH SUMS AS THE AMLC
+DETERMINES REASONABLE FOR MONTHLY FAMILY NEEDS AND
+SUSTENANCE, INCLUDING THE SERVICES OF COUNSEL AND
+FAMILY MEDICAL NEEDS.
+
+A COVERED PERSON OR GOVERNMENT AGENCY, OR ANY OF ITS
+RESPONSIBLE DIRECTORS, OFFICERS, OR EMPLOYEES, SHALL BE
+HELD FREE AND HARMLESS FROM ANY ACCOUNTABILITY OR
+LIABILITY FOR ANY ACT DONE IN COMPLIANCE WITH AN
+
+                              18
+                                                                                      19
+
+         ADMINISTRATIVE FREEZE ORDER FROM THE COUNCIL OR FREEZE
+         ORDER FROM THE COURT OF APPEALS.
+
+         No court shall issue a temporary restraining order or a writ of injunction
+         against any freeze order, except the Supreme Court.
+
+     (C) x x x.
+
+Section 14. Section 11 of the same Act is hereby amended to read as follows:
+
+      SEC. 11. Authority to Inquire into Bank Deposits. – Notwithstanding the
+      provisions of Republic Act No. 1405, as amended; Republic Act No. 6426, as
+      amended; Republic Act No. 8791; REPUBLIC ACT NO. 10173; and other laws,
+      the AMLC may inquire into or examine any particular deposit or investment,
+      with any banking institution or non-bank financial institution [upon order of any
+      competent court based on an ex parte application in cases of violations of this
+      Act, when it has been established that there is], WHICH, BASED ON probable
+      cause, [that the deposits or investments, including related accounts involved,
+      are] MAY BE related to [an unlawful activity as defined] IN THE COMMISSION,
+      PROCEEDS, OR INSTRUMENTALITIES OF ANY UNLAWFUL ACTIVITY
+      UNDER Section 3(i) [(1), (2) and (12)] hereof; [and felonies or offenses of a
+      nature similar to those mentioned in Section 3(i)(1), (2) and (12), which are
+      punishable under the penal laws of other countries, and terrorism and
+      conspiracy to commit terrorism as defined and penalized under Republic Act
+      No. 9372] subject of a money laundering investigation or prosecution; or
+      subject of a request for assistance from a foreign State.
+
+
+      [The Court of Appeals shall act on the application to inquire into or examine any
+      deposit or investment with any banking institution or non-bank financial
+      institution within twenty-four (24) hours from filing of the application.
+
+      To ensure compliance with this Act, the Bangko Sentral ng Pilipinas may, in the
+      course of a periodic or special examination, check the compliance of a covered
+      person with the requirements of the AMLA and its implementing rules and
+      regulations.
+      For purposes of this section, ‘related accounts’ shall refer to accounts, the funds
+      and sources of which originated from and/or are materially linked to the
+      monetary instrument(s) or property(ies) subject of the freeze order(s).
+      A court order ex parte must first be obtained before the AMLC can inquire into
+      these related accounts: Provided, That the procedure for the ex parte
+      application of the ex parte court order for the principal account shall be the
+      same with that of the related accounts.
+      The authority to inquire into or examine the main account and the related
+      accounts shall comply with the requirements of Article III, Sections 2 and 3 of
+      the 1987 Constitution which are hereby incorporated by reference.]
+
+
+
+                                          19
+                                                                                       20
+
+      THE AUTHORITY TO INQUIRE INTO DEPOSIT OR INVESTMENT UNDER
+      THIS SECTION SHALL BE EXERCISED BY A DULY AUTHORIZED
+      OFFICER OR OPERATING UNIT OF THE AMLC.
+
+      NO COURT BELOW THE COURT OF APPEALS SHALL HAVE
+      JURISDICTION TO ENJOIN THE AMLC FROM EXERCISING ITS
+      AUTHORITY TO INQUIRE INTO OR EXAMINE ANY DEPOSIT OR
+      INVESTMENT UNDER THIS ACT.
+
+      A COVERED PERSON, OR ANY OF ITS RESPONSIBLE DIRECTORS,
+      OFFICERS, OR EMPLOYEES, SHALL BE HELD FREE AND HARMLESS
+      FROM ANY ACCOUNTABILITY OR LIABILITY FOR ANY ACT DONE IN
+      COMPLIANCE WITH AN ORDER FROM THE AMLC FOR AN INQUIRY OF A
+      DEPOSIT, OR INVESTMENT.
+
+      TO ENSURE COMPLIANCE WITH THIS ACT, THE AMLC AND THE
+      SUPERVISING AUTHORITIES MAY, IN THE COURSE OF A PERIODIC OR
+      SPECIAL EXAMINATION OR INSPECTION, CHECK COMPLIANCE OF A
+      COVERED PERSON WITH THE REQUIREMENTS OF THE AMLA AND ITS
+      IMPLEMENTING RULES AND REGULATIONS.
+
+Section 15. Section 12 of the same Act is hereby amended to read as follows:
+
+     SEC. 12. Forfeiture Provisions. –
+
+    (a) Civil Forfeiture. – Upon determination by the [AMLC] COUNCIL that probable
+        cause exists that any monetary instrument or property is in any way related to
+        an unlawful activity as defined in Section 3(i) or a money laundering offense
+        under Section 4 hereof, the AMLC shall file, EX PARTE, with the
+        COMPETENT [appropriate] court OR through the Office of the Solicitor
+        General, a verified [ex parte] petition for forfeiture. [and the Rules of Court on
+        Civil Forfeiture shall apply.]
+
+       The forfeiture shall include those other monetary instrument or property having
+       an equivalent value to that of the monetary instrument or property found to be
+       related in any way to an unlawful activity or a money laundering offense, when
+       with due diligence, the former cannot be located, or it has been substantially
+       altered, destroyed, diminished in value or otherwise rendered worthless by any
+       act or omission, or it has been concealed, removed, converted, or otherwise
+       transferred, or it is located outside the Philippines or has been placed or
+       brought outside the jurisdiction of the court, or it has been commingled with
+       other monetary instrument or property belonging to either the [offender
+       himself] RESPONDENT or a third person or entity, thereby rendering the same
+       difficult to identify or be segregated for purposes of forfeiture.
+
+
+     (b)   Claim on Forfeited Assets. – x x x.
+
+     (c)   Payment in Lieu of Forfeiture. – x x x.
+
+     (d)   x x x.
+
+                                           20
+                                                                                     21
+
+     (e)    LAWS ON PRESCRIPTION. — THE LAWS CONCERNING ACQUISITIVE
+            PRESCRIPTION AND LIMITATION OF ACTIONS CANNOT BE INVOKED
+            BY, NOR SHALL THEY BENEFIT THE RESPONDENT, IN RESPECT OF
+            ANY   UNLAWFULLY     ACQUIRED    MONETARY    INSTRUMENT,
+            PROPERTY, OR PROCEEDS, AND THEIR FRUITS.
+
+Section 16. Section 14 of the same Act is hereby amended to read as follows:
+
+    SEC. 14. Penal Provisions. – x x x.
+
+     (f) Imposition of Administrative Sanctions. The imposition of the administrative
+          sanctions shall be without prejudice to the filing of criminal charges against
+          the persons responsible for the violation.
+
+           After due notice and hearing, the AMLC shall, at its discretion, impose
+           sanctions, including BUT NOT LIMITED TO monetary penalties,
+           RESTITUTION, SUSPENSION OR DISQUALIFICATION FROM BEING A
+           DIRECTOR, OFFICER, OR EMPLOYEE OF A COVERED PERSON,
+           REVOCATION OF AMLC REGISTRATION, INCREASED MONITORING,
+           INCLUSION IN A LIST OF AMLA VIOLATORS AND ITS PUBLICATION,
+           WARNING, OR REPRIMAND, UPON ANY COVERED PERSON, AND ITS
+           DIRECTORS, warning or reprimand, upon any covered person, its directors,
+           officers, employees or any other person for the violation of this Act, its
+           implementing rules and regulations, or for failure or refusal to comply with
+           AMLC orders, resolutions and other issuances. Such monetary penalties
+           shall be in amounts as may be determined by the AMLC to be appropriate,
+           which shall not be more than [Five hundred thousand Philippine pesos
+           (P500,000.00) per violation.] TWO MILLION PHILIPPINE PESOS
+           (PHP2,000,000.00) PER TRANSACTIONAL VIOLATION, OR ONE
+           HUNDRED THOUSAND PHILIPPINE PESOS (PHP100,000.00) PER
+           CALENDAR DAY FOR VIOLATIONS OF CONTINUING NATURE.
+
+           RESIGNATION, TERMINATION, OR OTHERWISE SEPARATION FROM
+           OFFICE SHALL NOT EXEMPT SUCH DIRECTOR, OFFICER, OR
+           EMPLOYEE FROM ADMINISTRATIVE SANCTIONS.
+
+           THE DECISION OF THE AMLC IN ADMINISTRATIVE CASES SHALL BE
+           FINAL AND EXECUTORY, AND MAY NOT BE RESTRAINED OR SET
+           ASIDE BY THE COURT, EXCEPT ON PETITION FOR CERTIORARI ON
+           THE GROUND OF GRAVE ABUSE OF DISCRETION, OR LACK OR
+           EXCESS OF JURISDICTION OF THE AMLC. PROVIDED, THAT THE
+           AGGRIEVED PARTY SHALL FILE THE PETITION WITH THE COURT OF
+           APPEALS.
+
+           IN THE EXERCISE OF ITS QUASI-JUDICIAL FUNCTION, THE AMLC
+           SHALL HAVE THE POWER TO ISSUE SUBPOENA DUCES TECUM AND
+           SUMMON WITNESSES TO APPEAR IN THEIR PROCEEDINGS AND
+           WHEN APPROPRIATE, ORDER THE EXAMINATION, SEARCH AND
+           SEIZURE OF ALL DOCUMENTS, AND BOOKS OF ACCOUNTS OF ANY
+           ENTITY OR PERSON UNDER INVESTIGATION AS MAY BE NECESSARY
+                                           21
+                                                                                  22
+
+         FOR THE PROPER DISPOSITION OF THE ADMINISTRATIVE CASES
+         BEFORE IT. FURTHER, THE AMLC SHALL HAVE THE AUTHORITY TO
+         PUNISH FOR CONTEMPT, BOTH DIRECTLY AND INDIRECTLY, IN
+         ACCORDANCE WITH THE PERTINENT PROVISIONS OF AND
+         PENALTIES PRESCRIBED BY THE RULES OF COURT.
+
+         THE QUASI-JUDICIAL POWER OF THE AMLC SHALL BE EXERCISED
+         DIRECTLY BY THE COUNCIL OR THE DULY AUTHORIZED HEARING
+         OFFICER OR PANEL OF HEARING OFFICERS OF THE AMLC, UNDER
+         SUCH RULES AND CONDITIONS TO BE DETERMINED BY THE
+         COUNCIL. PROVIDED FURTHER, THAT THE DECISION OF THE
+         AUTHORIZED HEARING OFFICER OR PANEL OF HEARING OFFICERS
+         SHALL NOT BE APPEALABLE TO THE COUNCIL.
+
+         The AMLC may promulgate rules on fines and penalties taking into
+         consideration the attendant circumstances, such as the nature and gravity of
+         the violation or irregularity.
+
+         THE FINES PRESCRIBED IN THIS SECTION SHALL BE INCREASED BY
+         TEN PERCENT (10%) EVERY FIVE YEARS TO COMPENSATE FOR
+         INFLATION AND TO MAINTAIN THE DETERRENT FUNCTION OF SUCH
+         FINES.”
+
+Section 17. Section 15 of the same Act shall be reinstated and amended to read as
+follows:
+
+     SEC. 15. RETENTION AND USE OF FORFEITED ASSETS. – THE AMLC
+     SHALL BE AUTHORIZED TO RETAIN AND USE THE ASSETS FORFEITED
+     FOR THE YEAR, PROVIDED, THAT IN NO CASE SHALL SAID ANNUAL
+     APPROPRIATION EXCEED ONE HUNDRED FIFTY MILLION PESOS
+     (P150,000,000.00).
+
+     THE FOREGOING FUNDS SHALL ACCRUE TO A TRUST FUND TO BE
+     MANAGED AND ADMINISTERED BY THE COUNCIL, AS A SPECIAL
+     ACCOUNT, IN ANY GOVERNMENT FINANCIAL INSTITUTION. THE FUNDS
+     SHALL BE USED EXCLUSIVELY TO AUGMENT THE AMLC’S
+     OPERATIONAL EXPENSES.
+
+Section 18. Section 22 of the same Act shall be amended to read as follows:
+
+     SEC. 22. FUNDING SOURCE. – THE FUNDS REQUIRED FOR THE
+     IMPLEMENTATION OF THIS ACT AND OTHER OPERATING EXPENSES OF
+     THE AMLC, SHALL BE TAKEN FROM:
+
+     (A) THE GENERAL APPROPRIATIONS ACT; AND
+
+     (B) AUTHORIZED RETAINED FORFEITED ASSETS; AND
+
+     (C) SUPERVISORY, ACCREDITATION, AND OTHER ADMINISTRATIVE
+         FEES COLLECTED, IF ANY.
+                                         22
+                                                                                       23
+
+
+Section 19. Implementing Rules and Regulations. The AMLC shall, within ninety (90)
+days from the effectivity of this Act, issue the necessary rules and regulations.
+Provided, That the non-issuance of the implementing rules and regulations shall not
+prevent this Act from coming into force and effect.
+
+Section 20. Separability Clause. – If any provision or section of this Act is held to be
+unconstitutional or invalid, the other provisions or sections hereof, which are not
+affected thereby shall continue to be in full force and effect.
+
+Section 21. Repealing Clause. – All provisions of existing laws, rules and regulations,
+orders, or parts thereof which are in conflict or inconsistent with the provisions of this
+Act are hereby repealed or modified accordingly: Provided, That all provisions of
+Republic Act No. 9160, as amended, which are not inconsistent with this Act are
+hereby adopted.
+
+Section 22. Effectivity. – This Act shall take effect immediately after the completion of
+its publication in the Official Gazette or in a newspaper of general circulation.
+
+Approved,
+
+
+
+
+                                           23
+
